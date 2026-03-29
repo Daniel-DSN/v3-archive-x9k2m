@@ -204,7 +204,7 @@ O vapor ao seu redor se formou brevemente — um leve sussurro de poder que ela 
 
 Em algum lugar distante, nas montanhas geladas entre Terraxis e Umbra, um homem de cabelos brancos e olhos que haviam visto demais ergueu a cabeça, sentindo uma perturbação nas águas do mundo.
 
-E em um orfanato nas copas das árvores de Serravento, uma menina de cinco anos acordou de um sonho que não conseguia lembrar, uma mão pressionada contra o peito onde algo pulsava com um calor que não era inteiramente seu.
+E em um orfanato nas colinas de Ventania, uma menina de cinco anos acordou de um sonho que não conseguia lembrar, uma mão pressionada contra o peito onde algo pulsava com um calor que não era inteiramente seu.
 
 O destino estava se movendo. E os fios que conectavam todos eles — Lyris, Grazielly, Marethyus, e forças muito mais antigas e terríveis — começavam a se entrelaçar em um padrão que ninguém podia prever completamente.
 

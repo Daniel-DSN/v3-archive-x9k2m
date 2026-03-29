@@ -721,10 +721,16 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 
 ## 🚫 CONTROLE DE VERSÃO
 
-**Versão do Dicionário:** 6.0.0 - CONSOLIDADO COM MAPA DEFINITIVO
-**Data de Atualização:** 29/03/2026
+**Versão do Dicionário:** 7.0.0 - SINCRONIZAÇÃO CANÔNICA COMPLETA
+**Data de Atualização:** 30/03/2026
 **Status:** IMUTÁVEL
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
+
+### Atualizações da Versão 7.0.0:
+- ✅ **Sincronização Canônica Global** — Nomenclatura "Colheita" → "Mespiria" aplicada em todos os documentos
+- ✅ **Flores-Mespiria** — Terminologia derivada atualizada (anteriormente "Flores-colheita")
+- ✅ **Localização do Orfanato** — Padronizado como "colinas de Ventania" (Capítulo VII)
+- ✅ **Cronologia Validada** — Grazielly parte aos 4 anos, treinamento aos 5 anos
 
 ### Atualizações da Versão 6.0.0:
 - ✅ **Mestra Selina Thalassa (Agente "S.")** — Identidade revelada; integrante do Conselho dos 10; Mestra da Informação; nó central de inteligência da Vanguarda

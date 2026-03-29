@@ -644,36 +644,44 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 # 🚫 XVI. CONTROLE DE VERSÃO
 
-**Versão do Mapa Definitivo:** 1.0.0 — CRIAÇÃO CONSOLIDADA
-**Data de Atualização:** 29/03/2026
+**Versão do Mapa Definitivo:** 1.1.0 — SINCRONIZAÇÃO CANÔNICA
+**Data de Atualização:** 30/03/2026
 **Status:** CANÔNICO
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
 
 ---
 
-## 📋 LOG DE ALTERAÇÕES (Versão 1.0.0)
+## 📋 LOG DE ALTERAÇÕES
 
-### 1. Padronização de Terminologia
+### Versão 1.1.0 (30/03/2026)
+- ✅ **Sincronização Canônica Global** — Nomenclatura "Colheita" → "Mespiria" aplicada
+- ✅ **Flores-Mespiria** — Terminologia derivada atualizada
+- ✅ **Localização do Orfanato** — Padronizado como "colinas de Ventania"
+- ✅ **Cronologia Validada** — Grazielly parte aos 4 anos, treinamento aos 5 anos
+
+### Versão 1.0.0 (29/03/2026) - CRIAÇÃO CONSOLIDADA
+
+#### 1. Padronização de Terminologia
 - ✅ Nanobots Primordiais → **Sementes Etéricas / Partículas Primordiais**
 - ✅ Escala Kardashev → **Escala de Evolução Aetherion**
 - ✅ Esfera Dyson → **Manto Solar**
 - ✅ Mãe de Grazielly confirmada como **Ayla** (Elainy movido para Ecos Ancestrais)
 
-### 2. Atualização de Personagens e Linhagens
+#### 2. Atualização de Personagens e Linhagens
 - ✅ **Mestra Selina Thalassa (Agente S.)**: Adicionada como integrante do Conselho dos 10, Mestra da Informação, descendente de linhagem nobre de Thalassia, nó central de inteligência da Vanguarda
 - ✅ **Lyris (A Nyctara)**: Atualizada com pertencimento à Vanguarda e técnica assinatura Thermaris (Vapor)
 - ✅ **Marethyus (O Bruxo)**: Adicionado como patriarca da linhagem Marethyu (Filhos do Mar Profundo), avô de Grazielly, exilado em Cristalnor, domínio anômalo sobre Água Sombra
 
-### 3. Expansão de Lore e Verdades Ocultas
+#### 3. Expansão de Lore e Verdades Ocultas
 - ✅ **Dualismo do Título GM**: Registrado significado público (Grande Mestre) e iniciático (Guardião de Myrtha)
 - ✅ **Cristal de Mytha e o Sacrifício**: Consolidado que o Cristal abriga a essência de Elarys como selo absoluto
 - ✅ **Ameaça de Umbralis**: Detalhada estratégia de sequestro de talentos elementais e técnica de Mimetismo de Frequência
 
-### 4. Geopolítica e Cronologia
+#### 4. Geopolítica e Cronologia
 - ✅ **Thalyra**: Adicionada como cidade estratégica, sede do Festival das Águas e ponto de contato da Vanguarda
 - ✅ **Orfanato das Asas**: Status atualizado para "Alvo Estratégico de Umbra" devido à concentração de linhagens elementais
 
-### 5. Estrutura Cosmológica
+#### 5. Estrutura Cosmológica
 - ✅ Mantida estrutura básica (Vontade Pura, Árvore da Existência, Lei da Pureza)
 - ✅ Refinados termos internos para coesão com os capítulos I ao VII
 
