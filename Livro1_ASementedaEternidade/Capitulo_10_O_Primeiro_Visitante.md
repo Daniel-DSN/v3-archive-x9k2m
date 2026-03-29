@@ -38,7 +38,7 @@ Na entrada do orfanato, Madre Elara já recebia o recém-chegado. Ele era um hom
 
 Madre Elara, uma mulher de sessenta anos cuja vida havia sido dedicada ao cuidado de órfãos, sorriu com o calor genuíno que reservava para todos os visitantes bem-intencionados.
 
-— Que bênção, Mestre Varek. Não recebemos visitantes de Sanctrum há quase dois anos. Por favor, entre, entre. Vou preparar um chá.
+— Que bênção, Mestre Varek. Não recebemos visitantes de Sanctrum há quase dois anos. Por favor, entre, entre. Vou preparar uma infusão de ervas.
 
 Lyris aproximou-se calmamente, sua postura relaxada escondendo o fato de que cada fibra de seu ser estava em alerta máximo. Ao chegar perto de Varek, o Thermaris pulsou sutilmente sob sua pele, criando uma micro-névoa invisível que tentava ler o calor emanado pelo estranho.
 
@@ -76,7 +76,7 @@ Lyris sentiu seu coração acelerar, mas manteve sua expressão impassível.
 
 ## A Nota Errada
 
-Grazielly entrou no salão principal minutos depois, Nyx seguindo-a como uma sombra prateada. A menina estava exausta, pequenas gotas de suor frio escorrendo por sua testa após o esforço de conter seu Cryonys por tanto tempo. Suas mãos tremiam levemente, e ela as esfregou contra o vestido simples de algodão que usava.
+Grazielly entrou no salão principal minutos depois, Nyx seguindo-a como uma sombra prateada. A menina estava exausta, pequenas gotas de suor frio escorrendo por sua testa após o esforço de conter seu Cryonys por tanto tempo. Suas mãos tremiam levemente, e ela as esfregou contra o vestido simples de fibras-de-prata que usava.
 
 — Madre? Lyris? — a voz da menina era pequena, mas seus olhos castanhos foram atraídos imediatamente para o visitante.
 
@@ -272,7 +272,7 @@ E no pequeno quarto que dividia com Nyx, Grazielly dormia um sono agitado, sonha
 
 ## O Início da Tempestade
 
-Quando a manhã chegou, trazendo consigo a luz de Aurion e o canto dos pássaros, nada parecia ter mudado no Orfanato das Asas. As crianças acordavam, Madre Elara preparava o café da manhã, e a vida continuava como sempre havia continuado.
+Quando a manhã chegou, trazendo consigo a luz de Aurion e o canto dos pássaros, nada parecia ter mudado no Orfanato das Asas. As crianças acordavam, Madre Elara preparava a refeição da alvorada, e a vida continuava como sempre havia continuado.
 
 Mas Lyris sabia que algo havia mudado. A visita de Varek era apenas a primeira onda de uma tempestade que se formava no horizonte. Os Nihilaryth haviam encontrado Grazielly. E não parariam até tê-la.
 
@@ -290,7 +290,7 @@ Lyris retribuiu o gesto, seu próprio sorriso sendo igualmente falso.
 
 *Eu sei o que você é,* ela pensou. *E você sabe que eu sei. A única pergunta é: quem vai se mover primeiro?*
 
-O sino da manhã tocou, chamando todos para o café. Varek juntou-se às crianças, seu caderno aberto, sua caneta pronta para anotações.
+O sino da manhã tocou, chamando todos para a refeição. Varek juntou-se às crianças, seu caderno aberto, sua caneta pronta para anotações.
 
 E Lyris desceu as escadas, preparando-se para o que viria a seguir.
 
