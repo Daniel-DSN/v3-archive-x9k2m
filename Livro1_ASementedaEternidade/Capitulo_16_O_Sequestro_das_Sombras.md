@@ -16,7 +16,7 @@
 
 Dentro da bolha de silêncio, o tempo havia se tornado um fluido espesso.
 
-Grazielly observava Korgath se aproximar, cada passo dele apagando a cor das flores-lua ao redor como se o próprio conceito de beleza estivesse sendo sugado da existência. As pétalas prateadas, que moments antes brilhavam sob a luz de Aurion, agora pendiam murchas e cinzentas — não mortas, mas esvaziadas, como vasos onde a água havia sido retirada gota a gota.
+Grazielly observava Korgath se aproximar, cada passo dele apagando a cor das flores-lua ao redor como se o próprio conceito de beleza estivesse sendo sugado da existência. As pétalas prateadas, que momentos antes brilhavam sob a luz de Aurion, agora pendiam murchas e cinzentas — não mortas, mas esvaziadas, como vasos onde a água havia sido retirada gota a gota.
 
 O bebê em seus braços se movia em um choro frenético que não produzia som algum. Grazielly podia sentir o pequeno corpo tremendo, os pulmões se expandindo em gritos mudos, a boca aberta em um horror silencioso que ninguém além dela podia testemunhar. A criança não chorava por fome ou desconforto — chorava porque sua essência estava sendo consumida.
 
@@ -152,13 +152,13 @@ Madre Elara surgiu na porta principal do edifício, seu rosto envelhecido contor
 
 Lyris finalmente conseguiu se mover.
 
-Ela rasgou a porta da torre de seus gonzos, seu corpo atravessando os corredores com uma velocidade que não era inteiramente humana. Seu **Thermaris** explodiu de suas mãos — não mais bloqueado pela bolha de silêncio — criando uma névoa quente que preencheu o jardim como uma declaracão de guerra.
+Ela rasgou a porta da torre de seus gonzos, seu corpo atravessando os corredores com uma velocidade que não era inteiramente humana. Seu **Thermaris** explodiu de suas mãos — não mais bloqueado pela bolha de silêncio — criando uma névoa quente que preencheu o jardim como uma declaração de guerra.
 
 Mas não havia ninguém para lutar.
 
 O jardim estava vazio.
 
-As Pratafolhas balançavam suavemente com o vento, como se nada houvesse acontecido. Os canteiros de **aethrum-dourado** permaneciam intocados, suas espigas douradas ondulando sob o sol de Aurion. As flores-lua, que moments antes haviam sido drenadas de cor e vida, começavam lentamente a recuperar seu brilho prateado.
+As Pratafolhas balançavam suavemente com o vento, como se nada houvesse acontecido. Os canteiros de **aethrum-dourado** permaneciam intocados, suas espigas douradas ondulando sob o sol de Aurion. As flores-lua, que momentos antes haviam sido drenadas de cor e vida, começavam lentamente a recuperar seu brilho prateado.
 
 Mas as crianças haviam sumido.
 
