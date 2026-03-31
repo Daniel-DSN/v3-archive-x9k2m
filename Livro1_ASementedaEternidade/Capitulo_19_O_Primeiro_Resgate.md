@@ -188,7 +188,7 @@ A formação rochosa onde ela se movia era um labirinto natural de pedras esculp
 
 Ele observou por longos momentos, avaliando a situação.
 
-Dois Flagelados puxavam a carroça — esqueletos envoltos em sombras, mortos-vivos silenciados que não produziam som e não sentiam dor. Eramaturas descartáveis, perigosas apenas em grande número.
+Dois Flagelados puxavam a carroça — esqueletos envoltos em sombras, mortos-vivos silenciados que não produziam som e não sentiam dor. Eram criaturas descartáveis, perigosas apenas em grande número.
 
 O verdadeiro problema era o guarda.
 
