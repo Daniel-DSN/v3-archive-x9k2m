@@ -438,7 +438,7 @@ O Urrak assentiu, continuando sua caminhada em direção ao templo. Mas antes de
 
 — Vamos informar a Mestra Selina — o guarda respondeu. — Ela coordenará o resto.
 
-O Urrak assentiu novamente e desapareceu nas ruas de Serravento, carregando seu precioso carga em direção à segurança.
+O Urrak assentiu novamente e desapareceu nas ruas de Serravento, carregando sua preciosa carga em direção à segurança.
 
 ---
 
