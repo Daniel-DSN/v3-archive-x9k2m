@@ -132,7 +132,7 @@ Foi então que o terminal de comunicação pulsou com uma frequência que ela re
 
 A mensagem de Lyris.
 
-*Eles a levaram,* as palavras queimaram em sua mente. *Sete crianças. Korgath. O Ventorro.*
+*Eles a levaram,* as palavras queimaram em sua mente. *Sete crianças. Korgath. O Zephyros.*
 
 *Meu Deus,* ela pensou, sentindo o horror da confirmação. *Eles já estavam aqui. Trabalhando o tempo todo. E nós nunca soubemos.*
 

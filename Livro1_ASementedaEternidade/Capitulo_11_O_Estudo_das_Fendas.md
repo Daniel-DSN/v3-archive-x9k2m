@@ -168,7 +168,7 @@ Aurelius sentiu o peso de suas palavras. A Anciã da Memória não estava apenas
 
 Mas Aurelius havia aprendido com os melhores. Anos de esconder sua relação com Ayla, décadas de proteger segredos que poderiam destruir tudo o que ele havia construído. Ele havia se tornado um mestre em mentir com a verdade.
 
-— As energias primordiais estão em fluxo — ele disse, e não era mentira. — A Convergência Tripla que ocorreu há cinco anos ainda está reverberando através dos planos. Crianças nascidas sob aquela luz carregam marcações espirituais que não vemos há eras. — Ele fez uma pausa calculada. — Não é impossível que Marethyus tenha sentido essa reverberação. Ele sempre foi... sensível... a certos padrões.
+— As energias primordiais estão em fluxo — ele disse, e não era mentira. — A Convergência Tripla que ocorreu há cinco anos ainda está reverberando através dos planos. Crianças nascidas sob aquela luz carregam marcações espirituais que não vemos há eras. — Ele fez uma pausa calculada. — Não é impossível que Marethyus tenha sentido essa reverberação. Os registros indicam que a Água Sombra sempre foi... sensível... a certos padrões espirituais.
 
 O Ancião da Luz estudou-o por um momento longo demais.
 

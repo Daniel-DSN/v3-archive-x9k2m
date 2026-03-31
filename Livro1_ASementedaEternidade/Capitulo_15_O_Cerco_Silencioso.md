@@ -28,7 +28,7 @@ Lyris observava o monitor de cristal em sua torre de vigia — um dispositivo an
 
 Mas algo a incomodava — uma sensação subcutânea que ela não conseguia nomear. Era como uma coceira em um lugar que ela não conseguia coçar, uma nota dissonante em uma melodia que parecia perfeita.
 
-Suas **Sementes Etéricas** haviam recebido uma calibração remota três dias antes — um código enviado através do Olho de Aurion que prometia "otimizar a sensibilidade para frequências Nihilaryth". O remetente parecia legítimo: os códigos de autenticação estavam corretos, os selos etéricos correspondiam aos registros de Sanctrum, e a própria Selina Thalassa parecia ter autorizado a transmissão.
+Suas **Sementes Etéricas** haviam recebido uma calibração remota três dias antes — um pulso de Aethra enviado através do Olho de Aurion que prometia "otimizar a sensibilidade para frequências Nihilaryth". O remetente parecia legítimo: as assinaturas espirituais estavam corretas, os selos etéricos correspondiam aos registros de Sanctrum, e a própria Selina Thalassa parecia ter autorizado a transmissão.
 
 *Deveria ter verificado pessoalmente,* Lyris pensou, uma sombra de dúvida finalmente cruzando sua mente. *Deveria ter confirmado com ela diretamente.*
 
@@ -122,7 +122,7 @@ Ele deixou o documento cair aos pés dela.
 
 — Você foi removida da missão, Lyris. Oficialmente. Legalmente. Se você continuar protegendo a menina, não estará cumprindo ordens — estará desobedecendo-as.
 
-Lyris olhou para o pergaminho. O selo era autêntico. A assinatura era a de Aurelius. Os códigos de verificação correspondiam.
+Lyris olhou para o pergaminho. O selo era autêntico. A assinatura era a de Aurelius. As marcas espirituais correspondiam.
 
 *Não,* ela pensou, sentindo algo dentro dela se romper. *Isso não pode ser real. Aurelius nunca...*
 
@@ -146,7 +146,7 @@ Não era um silêncio normal — não era simplesmente falta de resposta. Era al
 
 *O Olho de Aurion está comprometido,* ela pensou, sentindo o horror da constatação. *Não apenas um agente. Toda a rede.*
 
-Ela havia identificado o traidor — o Membro 10, codinome O Ventorro. Mas sua descoberta havia chegado tarde demais. No momento em que ela percebeu a infiltração, o dano já havia sido feito. As patrulhas haviam sido redirecionadas. Os relatórios haviam sido falsificados. E agora, quando ela tentava enviar alertas para Lyris, suas mensagens desapareciam em um abismo de frequências corrompidas.
+Ela havia identificado o traidor — o Membro 10, codinome O Zephyros. Mas sua descoberta havia chegado tarde demais. No momento em que ela percebeu a infiltração, o dano já havia sido feito. As patrulhas haviam sido redirecionadas. Os relatórios haviam sido falsificados. E agora, quando ela tentava enviar alertas para Lyris, suas mensagens desapareciam em um abismo de frequências corrompidas.
 
 — Mestra — seu assistente entrou correndo na sala, seu rosto pálido. — Nós detectamos anomalias em toda a região de Serravento. Assinaturas espirituais... múltiplas. Movendo-se em direção a Ventania.
 
