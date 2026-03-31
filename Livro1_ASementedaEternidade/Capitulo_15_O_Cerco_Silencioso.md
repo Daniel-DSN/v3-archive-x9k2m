@@ -122,6 +122,8 @@ Ele deixou o documento cair aos pés dela.
 
 — Você foi removida da missão, Lyris. Oficialmente. Legalmente. Se você continuar protegendo a menina, não estará cumprindo ordens — estará desobedecendo-as.
 
+Era um **vírus social** em sua forma mais perfeita. O documento era autêntico — os selos eram genuínos, as assinaturas eram reais. Mas o conteúdo era uma construção deliberada, projetada para transformar a protetora em ameaça. Varek havia usado a própria burocracia da Ordem como arma, criando uma narrativa onde Lyris era a vilã obcecada e ele o funcionário preocupado com o bem-estar das crianças. A verdade não importava — apenas a aparência de verdade que o papel carregava.
+
 Lyris olhou para o pergaminho. O selo era autêntico. A assinatura era a de Aurelius. As marcas espirituais correspondiam.
 
 *Não,* ela pensou, sentindo algo dentro dela se romper. *Isso não pode ser real. Aurelius nunca...*
@@ -288,7 +290,9 @@ O céu de Serravento parecia ter perdido sua cor.
 
 Não era uma mudança física — Aurion ainda brilhava com a mesma intensidade, as três luas ainda orbitavam em seus caminhos eternos. Mas para aqueles que podiam perceber, para aqueles cujos sentidos alcançavam além do físico, algo havia mudado fundamentalmente.
 
-A bolha de silêncio que Korgath havia criado não era apenas uma zona de quietude. Era uma prisão dimensional — um espaço isolado do resto do mundo, onde as leis normais de causa e efeito haviam sido suspensas. Dentro da bolha, o tempo parecia se mover mais lentamente. O espaço parecia comprimido. E o Aethra — a força vital que conectava todos os seres vivos — fluía em uma única direção.
+A bolha de silêncio que Korgath havia criado não era apenas uma zona de quietude. Era uma **prisão dimensional** — um espaço isolado do resto do mundo, onde as leis normais de causa e efeito haviam sido suspensas. Dentro da bolha, o tempo parecia se mover mais lentamente. O espaço parecia comprimido. E o Aethra — a força vital que conectava todos os seres vivos — fluía em uma única direção.
+
+A técnica era uma aplicação extrema dos **Sons do Vácuo**: Korgath não apenas anulava frequências sonoras, ele criava um espaço onde o próprio conceito de vibração havia sido removido. Era como cortar uma seção da realidade e substituí-la por um vazio que absorvia tudo — som, calor, Aethra, até mesmo esperança. A **Regra do Zero** pairava sobre todos dentro da bolha como uma espada de Dâmocles: se o Aethra de alguém caísse a zero, a dissolução da alma seria instantânea e irreversível.
 
 Para o Caçador.
 
