@@ -102,6 +102,10 @@ S. não completou a frase. Não precisava. Lyris conhecia os métodos da Ordem m
 
 — Significa — S. disse, sua voz caindo para um sussurro — que ela herda não apenas o sangue Seraphyen de seu pai, mas também... algo mais. Algo das profundezas. Algo que Marethyus trouxe de volta daquela missão. E se o selo em Cristalnor está enfraquecendo... se ele está sentindo "perturbações"... pode significar que aquilo que ele encontrou nas profundezas está despertando novamente.
 
+— Há mais — S. acrescentou, sua expressão ficando mais sombria. — Ouvi rumores sobre o **Sindicato do Gelo Negro**. Operações negáveis de sequestro em **Umbralis**, contratadas por intermediários que ninguém consegue rastrear. Dizem que **"O Corretor"** está envolvido — aquele que negocia vidas como mercadorias no mercado negro. Se eles souberem da existência da criança...
+
+Lyris sentiu um arrepio percorrer sua espinha. O Sindicato do Gelo Negro era uma organização sombria que operava nos limites da lei, especializada em desaparecimentos e resgates impossíveis. Se estivessem interessados em Grazielly...
+
 ---
 
 ## O Ataque nas Sombras
