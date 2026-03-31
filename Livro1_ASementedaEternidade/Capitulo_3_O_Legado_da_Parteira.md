@@ -26,7 +26,7 @@ Os quatro primeiros anos da vida de Grazielly foram, aos olhos de qualquer obser
 
 Ela aprendia rápido — mais rápido do que qualquer criança que Melessa havia visto em suas décadas como parteira e, mais tarde, como cuidadora de outras crianças órfãs que haviam passado por Mespiria ao longo dos anos. Quando outras crianças de sua idade ainda lutavam para articular palavras simples, Grazielly já formava frases completas, já fazia perguntas que faziam os adultos ao seu redor piscarem em surpresa, já demonstrava uma compreensão do mundo que parecia além de sua idade.
 
-— Por que o vento sopra, vó Melessa? — ela perguntou certa vez, sentada na varanda da casa de pedra, seus olhos castanhos fixos nas copas das árvores que ondulavam ao longe. Aos seus pés, um pequeno ventorro de pelos prateados dormia enrolado como um cobertor macio, sua cauda fofa cobrindo o focinho.
+— Por que o vento sopra, vó Melessa? — ela perguntou certa vez, sentada na varanda da casa de pedra, seus olhos castanhos fixos nas copas das árvores que ondulavam ao longe. Aos seus pés, **Nyx** — seu ventorro de pelos prateados — dormia enrolado como um cobertor macio, sua cauda fofa cobrindo o focinho. Era uma criatura especial, com orelhas grandes e peludas que captavam os mais sutis sussurros do vento, e uma empatia leal que transcendia o Aethra comum, formando com Grazielly um vínculo que ia além de simples companheirismo.
 
 Melessa, que havia se acostumado com as perguntas incomuns da neta adotiva, sorriu enquanto continuava a separar vagens-luminais, leguminosas de sementes doces que brilhavam levemente por dentro, para o jantar.
 
@@ -157,6 +157,8 @@ A velha parteira sorriu, seus olhos se fechando em exaustão. A conversa a havia
 *Agora posso descansar,* Melessa pensou, sentindo o sono se aproximando como uma maré gentil. *Cumpri minha promessa, Ayla. Sua filha está preparada para o próximo passo de sua jornada.*
 
 Ela não percebeu, naquele momento, que Grazielly permanecia ao seu lado, segurando sua mão com uma força que parecia maior que seu pequeno corpo. Ela não percebeu que os olhos da criança brilhavam com algo que não eram apenas lágrimas — um fulgor suave, pulsante, que emanava de baixo de sua pele como uma resposta à dor que sentia, como se algo dentro dela estivesse tentando alcançar Melessa, tentando mantê-la ali por mais um momento, mais um dia, mais uma respiração.
+
+Era a ativação de suas **Sementes Etéricas** — fragmentos de tecnologia Aetheris integrados ao DNA de linhagens antigas, permitindo que Grazielly processasse conhecimento ancestral sem nem mesmo compreender que o fazia. Em momentos de intensa emoção, essas sementes pulsavam, respondiam, tentavam se manifestar.
 
 O brilho durou apenas alguns segundos antes de desaparecer. E quando se foi, Grazielly apenas segurou a mão da avó adotiva mais forte, sussurrando palavras que Melessa, já adormecida, não podia mais ouvir.
 
