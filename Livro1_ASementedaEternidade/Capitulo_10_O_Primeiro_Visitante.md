@@ -170,13 +170,19 @@ Em seu escritório no Palácio de Cristal, o Guardião Mestre **Aurelius** tamb�
 
 A carta estava codificada, escrita em uma caligrafia que ele reconheceria em qualquer lugar. Lyris. Sua antiga companheira de equipe. A guardiã que ele havia designado para proteger o que era mais precioso para ele.
 
-*"Enfrentei infiltrado Grau 3 em Thalyra. Mensagem Nihilaryth: 'As profundezas lembram.' Viajo para Cristalnor. Algo desperta."*
+*"Minha viagem a Thalyra foi produtiva, mas não trouxe revelações significativas. O Festival das Águas decorreu sem incidentes dignos de nota. Meu contato confirmou informações que já possuíamos sobre a linhagem de Ayla — nada além do que já sabíamos. Grazielly está bem. Nada mais há a relatar."*
 
-Aurelius leu a mensagem três vezes, cada passagem aumentando o nó em seu estômago. Lyris havia ido para Cristalnor. Para o avô. Para o segredo que Ayla havia guardado até a morte.
+Aurelius leu a mensagem três vezes, cada passagem aumentando sua inquietação. Não era o conteúdo que o perturbava — era o que estava ausente. Lyris era uma das agentes mais detalhistas que ele já conhecera. Seus relatórios costumavam conter observações minuciosas, análises de padrões, avaliações de risco. Aquela carta era... vazia. Diferente.
 
-— Você estava escondendo algo, minha amada — ele murmurou, seus dedos traçando as bordas da carta. — Algo que você não queria que eu soubesse. Algo sobre sua família.
+— Você está me escondendo algo — ele murmurou, seus dedos traçando as bordas da carta. — Mas o quê?
 
-Ele olhou para a última carta de Lyris sobre Grazielly, a que dizia que "nada de novo havia a relatar". Seus dedos traçaram o símbolo da Equipe Aurora em um medalhão escondido sob suas vestes — uma relíquia de tempos mais simples, quando eram apenas um time de guerreiros lutando pelo bem.
+Ele pensou em Ayla, na mulher que amara e perdido. Ela também guardava segredos — segredos sobre sua família, sobre seu passado, sobre coisas que ela nunca compartilhara nem com ele. Era um dos aspectos mais frustrantes e atraentes dela: a profundidade insondável que parecia carregar consigo.
+
+*Será que Lyris descobriu algo sobre a família de Ayla?* ele se perguntou. *Será que encontrou alguém... vivo?*
+
+O pensamento era perturbador. Aurelius havia assumido que a linhagem materna de Grazielly era um livro fechado. Ayla morrera sem revelar sua família, e os registros que ele consultara nos anos seguintes não haviam produzido nada. Se houvesse alguém vivo... alguém poderoso o suficiente para ter permanecido oculto por tanto tempo...
+
+Ele sacudiu a cabeça, afastando especulações improdutivas.
 
 — Você está guardando segredos, Lyris — murmurou o GM para as paredes vazias. — Ou os inimigos estão ficando mais espertos do que nós dois juntos.
 
