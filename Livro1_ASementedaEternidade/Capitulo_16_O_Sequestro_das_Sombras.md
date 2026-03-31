@@ -24,6 +24,8 @@ O bebê em seus braços se movia em um choro frenético que não produzia som al
 
 Era uma sensação impossível de descrever para alguém que nunca a experimentara. Não era dor física — não havia feridas, não havia machucados, não havia nada que os olhos pudessem ver. Era algo mais fundamental, mais aterrorizante. Era como se uma parte de sua alma estivesse sendo desenhada para fora de seu corpo, puxada por uma força que não podia ser resistida.
 
+A **Regra do Zero** — o princípio fundamental que todos os usuários de Aethra aprendiam desde criança — espreitava nas bordas de sua consciência. Quando o Aethra de um ser caía a zero, não havia apenas morte: havia dissolução. A alma se desmanchava, suas memórias, emoções, identidade — tudo era absorvido pelo vácuo e perdido para sempre. Não havia ressurreição. Não havia recuperação. Apenas o nada absoluto.
+
 O bastão de **Obsidiana Negra** nas mãos de Korgath pulsava com uma luz que parecia comer as sombras ao seu redor. Não brilhava — absorvia. Cada pulsação era como uma inspiração invertida, sugando a energia do ambiente e a transformando em algo que Grazielly não conseguia identificar.
 
 *Eu preciso lutar,* ela pensou, sentindo o desespero crescer. *Eu preciso...*
@@ -50,7 +52,9 @@ Como Lyris havia temido — e como ela agora era forçada a assistir de sua posi
 
 Eram **Os Flagelados** — os seguidores de **Thorynax**, o Nihilaryth do Tormento.
 
-Suas peles eram pálidas demais, quase translúcidas, como se o sangue tivesse sido drenado de seus corpos há muito tempo. Seus movimentos eram desarticulados, erráticos, como se cada articulação movesse independentemente das outras. E seus olhos... seus olhos carregavam uma fome que não era humana — a fome de almas que haviam se entregado tão completamente à dor que agora só existiam para causá-la.
+Suas peles eram pálidas demais, quase translúcidas, como se o sangue tivesse sido drenado de seus corpos há muito tempo. Seus movimentos eram desarticulados, erráticos, como se cada articulação movesse independentemente das outras. E seus olhos... seus olhos carregavam uma fome que não era humana — a fome de almas que haviam se entregue tão completamente à dor que agora só existiam para causá-la.
+
+**Thorynax** era um dos Nihilaryth mais antigos — um ser que havia descoberto que a dor podia ser refinada em uma forma de Aethra corrompido mais potente que qualquer energia natural. Seus seguidores não eram simplesmente mortos-vivos; eram recipientes de agonia cristalizada, capazes de infligir sofrimento que transcendia o físico. Eles não matavam por maldade — matavam porque a morte de outros era o único momento em que sentiam algo parecido com alívio de sua própria existência torturada.
 
 Eles não se aproximaram de Grazielly. Korgath já estava lidando com ela.
 
