@@ -148,7 +148,7 @@ Lyris havia lido e relido aquela carta dezenas de vezes, ponderando suas implica
 
 Essas perguntas a haviam levado a uma decisão: ela começaria sua própria investigação sobre o passado de Grazielly. Não para trair Aurelius, mas para entender o que ele não lhe havia contado. Para descobrir se havia ameaças que ele não havia previsto. Para proteger a criança que havia se tornado mais do que uma missão — havia se tornado família.
 
-Lyris começou discretamente, como era seu costume. Ela usou contatos antigos — mercadores, mensageiros, informantes que haviam trabalhado para ela durante seus anos de serviço ativo. Perguntas cuidadosamente formuladas, enviadas através de canais indiretos, nunca revelando o verdadeiro propósito de sua curiosidade.
+Lyris começou discretamente, como era seu costume. Ela usou contatos antigos — mercadores, mensageiros, informantes que haviam trabalhado para ela durante seus anos de serviço ativo no **Olho de Aurion**, a agência oficial de inteligência da Ordem, subordinada diretamente à **Mestra Selina Thalassa** — a mesma que ocupava o assento de Informação no Conselho e era conhecida como "Agente S". Perguntas cuidadosamente formuladas, enviadas através de canais indiretos, nunca revelando o verdadeiro propósito de sua curiosidade.
 
 O que vocês sabem sobre Ayla? ela perguntou a um ex-colega que havia servido nas fronteiras de Serravento. A guerreira que desapareceu anos atrás.
 
