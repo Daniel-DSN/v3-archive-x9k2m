@@ -82,7 +82,7 @@ Os cristais pulsaram em resposta, como se reconhecessem as palavras. Eles eram o
 
 Ele guardou os cristais e olhou para o sudoeste, na direção de Serravento e Ventania. Seus ouvidos — treinados por décadas de caça — captaram uma frequência que não pertencia ao vento gelado de Umbralis. Era um sinal codificado, transmitido através de meios que apenas iniciados compreendiam.
 
-O **Membro 10 da Vanguarda** — codinome **O Ventorro** — havia cumprido sua parte.
+O **Membro 10 da Vanguarda** — codinome **O Zephyros** — havia cumprido sua parte.
 
 As rotas de patrulha de Sanctrum estavam focadas no norte, perseguindo falsos rumores de atividade Nihilaryth perto da fronteira de Fulmora. Os batedores que normalmente vigiariam a rota entre Terraxis e Serravento haviam sido redirecionados. O caminho estava livre.
 
@@ -280,7 +280,7 @@ Neste capítulo, testemunhamos o início do cerco. A partida de Kira não foi ap
 
 Conhecemos **Korgath, o Caçador do Vazio**, e sua habilidade única: **Sons do Vácuo**. Diferente dos elementos tradicionais, sua afinidade opera na anulação — do som, da ressonância espiritual, da própria presença. Ele é um vazio ambulante, impossível de detectar por meios convencionais.
 
-Vimos também a revelação do **Membro 10 da Vanguarda** — codinome **O Ventorro** — trabalhando como espião dentro da organização que deveria proteger Grazielly. Suas ações desviaram as patrulhas de Sanctrum, limpando o caminho para Korgath.
+Vimos também a revelação do **Membro 10 da Vanguarda** — codinome **O Zephyros** — trabalhando como espião dentro da organização que deveria proteger Grazielly. Suas ações desviaram as patrulhas de Sanctrum, limpando o caminho para Korgath.
 
 E no centro de tudo, Grazielly sonha com avisos que não consegue entender, sente perigos que não consegue nomear, carrega um poder que ainda não sabe controlar.
 
@@ -299,7 +299,7 @@ No próximo capítulo, a tensão alcançará seu ponto de ruptura. Dorian será 
 | **Sons do Vácuo** | Afinidade aberrante de Korgath; permite manipular frequências sonoras e criar silêncio absoluto |
 | **Terras de Ninguém** | Faixa neutra entre Terraxis e Umbra; zona sem lei |
 | **Obsidiana Negra** | Material vulcânico usado na arma de Korgath |
-| **O Ventorro** | Codinome do Membro 10 da Vanguarda; traidor infiltrado |
+| **O Zephyros** | Codinome do Membro 10 da Vanguarda; traidor infiltrado |
 
 ### Personagens em Foco:
 
@@ -307,7 +307,7 @@ No próximo capítulo, a tensão alcançará seu ponto de ruptura. Dorian será 
 |------|--------|-------------|
 | **Kira** | Órfã, 15 anos, Fogo | Transferida para Academia Elemental; manobra de isolamento |
 | **Korgath** | Caçador de recompensas | Contratado pelo Sínodo da Estase Branca |
-| **O Ventorro** | Membro 10 da Vanguarda | Infiltrado; sabotou patrulhas de Sanctrum |
+| **O Zephyros** | Membro 10 da Vanguarda | Infiltrado; sabotou patrulhas de Sanctrum |
 | **Dorian** | Órfão, 12 anos | Sendo manipulado por Varek; ponto cego na rede |
 
 ### Fauna e Flora Mencionadas:

@@ -344,7 +344,7 @@ No próximo capítulo, veremos mais sobre os planos de Varek, a reação de Aure
 |------|--------|-------------|
 | **Varek** | Tutor Itinerante de História (disfarce) | Infiltrado Umbra Grau 3 |
 | **Mestra Vaelora** | A Sentinela | Membro do Conselho Funcional, vigilância global |
-| **Madre Elara** | Administradora do Orfanato | Substituta de Madre Elara original |
+| **Madre Elara** | Administradora do Orfanato | Dedicou décadas ao cuidado dos órfãos |
 
 ### Lugares Mencionados:
 

@@ -44,7 +44,7 @@ Era um falso positivo. Uma armadilha.
 
 O rastro térmico que ela havia seguido por léguas não era de Korgath. Era de uma Semente Etérica sobrecarregada, plantada deliberadamente para atrair perseguidores para uma armadilha de drenagem. Uma distração. Um desperdício de tempo precioso.
 
-*O Ventorro,* ela percebeu, sentindo o horror da constatação. *Mesmo morto, ele continua me atrasando. Ele plantou isso antes de sua morte. Sabia que alguém viria.*
+*O Zephyros,* ela percebeu, sentindo o horror da constatação. *Mesmo morto, ele continua me atrasando. Ele plantou isso antes de sua morte. Sabia que alguém viria.*
 
 *E eu caí direitinho.*
 
@@ -250,7 +250,7 @@ Mas sentiu algo mais — uma pulsação no pingente de asa em seu peito. Mais fo
 
 Caro leitor,
 
-Este capítulo estabelece **Nyx como o trunfo narrativo** que quebra o impasse tático causado pela sabotagem do Ventorro. Enquanto a tecnologia falha, o instinto prevalece.
+Este capítulo estabelece **Nyx como o trunfo narrativo** que quebra o impasse tático causado pela sabotagem do Zephyros. Enquanto a tecnologia falha, o instinto prevalece.
 
 Vimos também o primeiro encontro entre membros da Vanguarda — Lyris (A Nyctara) e O Urrak — unindo forças na perseguição. A Caçada Reversa está tomando forma.
 
@@ -269,7 +269,7 @@ Uma por uma. Com luta. Com sacrifício. Com o peso de vidas inocentes nas mãos.
 | Técnica | Usuário | Descrição |
 |---------|---------|-----------|
 | **Cárcere de Pressão Absoluta** | Lyris | Zona de vapor comprimido para captura |
-| **Armadilha de Drenagem** | O Ventorro | Semente Etérica sobrecarregada para drenar Aethra de perseguidores |
+| **Armadilha de Drenagem** | O Zephyros | Semente Etérica sobrecarregada para drenar Aethra de perseguidores |
 
 ### Termos:
 

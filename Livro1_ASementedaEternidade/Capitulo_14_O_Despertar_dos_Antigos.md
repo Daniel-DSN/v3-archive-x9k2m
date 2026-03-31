@@ -220,7 +220,7 @@ Ela começou a trabalhar, seus dedos dançando sobre os cristais de controle enq
 
 O padrão emergiu lentamente — como uma mancha se formando em um tecido limpo.
 
-Membro 10 da Vanguarda. Codinome: **O Ventorro**.
+Membro 10 da Vanguarda. Codinome: **O Zephyros**.
 
 *Ele forneceu as informações,* Selina percebeu, sua mente calculando implicações. *Ele manipulou as rotas. Ele abriu a janela para quem quer que esteja caçando a menina.*
 
@@ -268,7 +268,7 @@ Em vez de seguir diretamente para a Câmara dos Anciãos, ele desviou para os ap
 
 Sua comunicação pessoal pulsou — uma mensagem de Selina, codificada em um nível que apenas ele podia acessar.
 
-*Encontrei o traidor. Membro 10. Codinome Ventorro. Ele trabalhou para o Sínodo da Estase Branca por pelo menos dois anos. Você precisa vir agora.*
+*Encontrei o traidor. Membro 10. Codinome Zephyros. Ele trabalhou para o Sínodo da Estase Branca por pelo menos dois anos. Você precisa vir agora.*
 
 Aurelius acelerou o passo, seu coração batendo descompassado.
 
@@ -429,7 +429,7 @@ No próximo capítulo, as peças finalmente se encontrarão. Selina chegará. A 
 | Termo | Definição |
 |-------|-----------|
 | **Água Sombra** | Manipulação anômala da linhagem Marethyu; não é água comum, mas algo das profundezas primordiais |
-| **O Ventorro** | Codinome do Membro 10 da Vanguarda; traidor trabalhando para o Sínodo da Estase Branca |
+| **O Zephyros** | Codinome do Membro 10 da Vanguarda; traidor trabalhando para o Sínodo da Estase Branca |
 | **Profundezas** | Região mística sob o leito oceânico; lar de entidades antigas que precedem os Nihilaryth |
 
 ### Personagens em Foco:
@@ -438,7 +438,7 @@ No próximo capítulo, as peças finalmente se encontrarão. Selina chegará. A 
 |------|--------|-------------|
 | **Marethyus** | Avô de Grazielly | Quebrou a primeira camada do selo; invocou algo das profundezas |
 | **Selina Thalassa** | Mestra da Informação | Identificou o traidor; partindo para Ventania |
-| **O Ventorro** | Membro 10 da Vanguarda | Traidor infiltrado há dois anos |
+| **O Zephyros** | Membro 10 da Vanguarda | Traidor infiltrado há dois anos |
 | **Varek** | Infiltrado do Sínodo | Revelou conhecimento sobre Marethyus |
 
 ### Flora e Fenômenos:

@@ -44,7 +44,7 @@ Quando o vapor se dissipou, o terminal pulsou com uma luz limpa — purificada, 
 
 Suas mãos dançaram sobre os controles de cristal, codificando uma mensagem que apenas outro agente de seu nível poderia decifrar.
 
-*Selina... se você puder ouvir... eles a levaram. Sete crianças. Korgath está com a Herdeira. O Ventorro abriu a porta.*
+*Selina... se você puder ouvir... eles a levaram. Sete crianças. Korgath está com a Herdeira. O Zephyros abriu a porta.*
 
 A mensagem foi enviada. E então o terminal morreu novamente — não por sabotagem, mas porque Lyris havia queimado sua capacidade de operação continuada. Não importava. A mensagem havia passado.
 
@@ -58,7 +58,7 @@ A mensagem foi enviada. E então o terminal morreu novamente — não por sabota
 
 Em **Sanctrum**, no coração do **Olho de Aurion**, o traidor observava sua obra.
 
-O **Membro 10 da Vanguarda** — codinome **O Ventorro** — estava diante do Grande Painel de Cristais, seus olhos fixos nas rotas de patrulha que ele havia manipulado. As unidades de Sanctrum continuavam a se afastar do corredor de fuga de Korgath, perseguindo fantasmas no norte de Fulmora enquanto o verdadeiro objetivo cruzava as Terras de Ninguém em direção a Umbralis.
+O **Membro 10 da Vanguarda** — codinome **O Zephyros** — estava diante do Grande Painel de Cristais, seus olhos fixos nas rotas de patrulha que ele havia manipulado. As unidades de Sanctrum continuavam a se afastar do corredor de fuga de Korgath, perseguindo fantasmas no norte de Fulmora enquanto o verdadeiro objetivo cruzava as Terras de Ninguém em direção a Umbralis.
 
 Ele sorriu. Era um sorriso de satisfação profissional — não de alegria ou maldade, mas de alguém que havia executado um trabalho complexo com precisão impecável.
 
@@ -68,7 +68,7 @@ Ele moveu-se em direção à saída, seus passos silenciosos contra o piso de cr
 
 — Uma manobra elegante, não acha?
 
-A voz veio da porta — fria, cortante, carregada de uma autoridade que fez o Ventorro congelar no meio do passo.
+A voz veio da porta — fria, cortante, carregada de uma autoridade que fez o Zephyros congelar no meio do passo.
 
 Ele girou, suas mãos já invocando lâminas de vento comprimido. Era um reflexo treinado por anos de operações clandestinas, uma reação que havia salvado sua vida dezenas de vezes.
 
@@ -78,13 +78,13 @@ Mas a mulher na porta não se moveu.
 
 Mas a pressão espiritual que emanava dela era outra coisa completamente diferente.
 
-**Estágio VI — Luminar.** Um "pequeno sol" espiritual cujo Aethra irradiava poder suficiente para fazer o próprio ar tremer. O Ventorro havia ouvido histórias sobre suas capacidades, mas nunca havia testemunhado pessoalmente. Agora, sentindo a pressão daquele poder, ele entendeu porque ela era temida até mesmo por seus inimigos.
+**Estágio VI — Luminar.** Um "pequeno sol" espiritual cujo Aethra irradiava poder suficiente para fazer o próprio ar tremer. O Zephyros havia ouvido histórias sobre suas capacidades, mas nunca havia testemunhado pessoalmente. Agora, sentindo a pressão daquele poder, ele entendeu porque ela era temida até mesmo por seus inimigos.
 
 — Mestra Selina — ele saudou com ironia, mantendo suas lâminas de vento prontas. — O Guardião Mestre não deveria estar em reunião com o Círculo de Cristal? Você está fora de sua jurisdição.
 
 — Minha jurisdição é a verdade — Selina respondeu, sua voz calma mas carregada de algo que fazia o ar parecer mais denso. — E você acabou de ser deletado dela.
 
-O Ventorro não esperou.
+O Zephyros não esperou.
 
 Ele atacou com o **Turbilhão de Vácuo** — uma técnica avançada de Vento que criava uma zona de pressão negativa capaz de asfixiar um oponente em segundos. Era letal, silenciosa, e impossível de bloquear com defesas convencionais.
 
@@ -96,7 +96,7 @@ Em vez disso, ela ativou sua técnica única: **Arquivos de Sombras**.
 
 Instantaneamente, doze cópias de Selina surgiram na sala — cada uma idêntica à original, cada uma com uma assinatura de Aethra perfeitamente replicada. Não eram ilusões no sentido tradicional; eram construções de informação pura, projeções de dados espirituais que existiam tanto na realidade física quanto no fluxo de Aethra.
 
-O Turbilhão de Vácuo atravessou três das cópias, dissipando-as em nuvens de dados luminosos. Mas as outras nove permaneceram, e quando o Ventorro tentou reorientar seu ataque, ele percebeu que não sabia qual era a verdadeira.
+O Turbilhão de Vácuo atravessou três das cópias, dissipando-as em nuvens de dados luminosos. Mas as outras nove permaneceram, e quando o Zephyros tentou reorientar seu ataque, ele percebeu que não sabia qual era a verdadeira.
 
 — Você subestima o que o Aethra pode fazer quando se torna informação pura — disse a voz de Selina vindo de todas as direções simultaneamente.
 
@@ -104,15 +104,15 @@ E então ela contra-atacou.
 
 **Erosão de Memória Etérica**.
 
-Ondas de energia luminosa emanaram de todas as doze Selinas, convergindo sobre o Ventorro como uma maré de luz. A técnica não atacava o corpo físico — atacava a conexão entre o oponente e seu poder elemental. Era como apagar memórias musculares, fazer o corpo "esquecer" como acessar suas próprias habilidades.
+Ondas de energia luminosa emanaram de todas as doze Selinas, convergindo sobre o Zephyros como uma maré de luz. A técnica não atacava o corpo físico — atacava a conexão entre o oponente e seu poder elemental. Era como apagar memórias musculares, fazer o corpo "esquecer" como acessar suas próprias habilidades.
 
-O Ventorro sentiu suas lâminas de vento se dissiparem. Sentiu sua conexão com o elemento enfraquecer. Sentiu algo fundamental sendo arrancado de sua capacidade de lutar.
+O Zephyros sentiu suas lâminas de vento se dissiparem. Sentiu sua conexão com o elemento enfraquecer. Sentiu algo fundamental sendo arrancado de sua capacidade de lutar.
 
 Ele caiu de joelhos, lutando para manter sua concentração, tentando acessar um poder que parecia cada vez mais distante.
 
 — Quem te contratou? — Selina exigiu, a versão real dela finalmente se materializando ao seu lado. Uma rede de Aethra sólido envolveu o traidor, prendendo-o no lugar. — Fale, e talvez eu permita que você mantenha sua sanidade.
 
-O Ventorro ergueu os olhos, e pela primeira vez, Selina viu algo perturbador em sua expressão. Não era medo. Não era desespero. Era algo pior: aceitação.
+O Zephyros ergueu os olhos, e pela primeira vez, Selina viu algo perturbador em sua expressão. Não era medo. Não era desespero. Era algo pior: aceitação.
 
 — As profundezas... não precisam de nomes — ele disse, sua voz carregada de uma reverência distorcida. — O banquete de Aethra já começou em Umbralis. Vocês estão caçando fantasmas, Mestra. Fantasmas que devoram.
 
@@ -276,7 +276,7 @@ Dúvida.
 
 Enquanto Lyris perseguia seu rastro e Grazielly mantinha sua esperança, outras forças se moviam nas sombras.
 
-Em Sanctrum, Aurelius finalmente escapou da reunião com o Círculo de Cristal — uma sessão interminável de perguntas sobre o "Incidente de Ventania" que ele havia navegado com mentiras cuidadosamente construídas. Ele não sabia ainda sobre a traição do Ventorro, não sabia sobre a mobilização da Vanguarda, não sabia que sua filha estava em movimento rumo ao território inimigo.
+Em Sanctrum, Aurelius finalmente escapou da reunião com o Círculo de Cristal — uma sessão interminável de perguntas sobre o "Incidente de Ventania" que ele havia navegado com mentiras cuidadosamente construídas. Ele não sabia ainda sobre a traição do Zephyros, não sabia sobre a mobilização da Vanguarda, não sabia que sua filha estava em movimento rumo ao território inimigo.
 
 Mas ele sabia que algo estava errado. Sentia no sangue Seraphyen que corria em suas veias, na conexão que ele mantinha com o selo de Myrtha, na promessa que havia feito a uma mulher que amava e perdido.
 
@@ -324,7 +324,7 @@ Caro leitor,
 
 Este capítulo marca o início da **Caçada Reversa** — a transformação de Lyris de protetora falha em predadora determinada.
 
-Vimos o confronto entre Selina Thalassa e o traidor da Vanguarda. O Ventorro revelou-se um agente Nihilaryth de Grau 3, preferindo a morte à captura — demonstrando o nível de comprometimento dos seguidores das profundezas. A técnica de Selina, **Arquivos de Sombras**, demonstra porque ela é temida: ela não apenas manipula Aethra, ela o transforma em informação pura.
+Vimos o confronto entre Selina Thalassa e o traidor da Vanguarda. O Zephyros revelou-se um agente Nihilaryth de Grau 3, preferindo a morte à captura — demonstrando o nível de comprometimento dos seguidores das profundezas. A técnica de Selina, **Arquivos de Sombras**, demonstra porque ela é temida: ela não apenas manipula Aethra, ela o transforma em informação pura.
 
 Vimos também a mobilização completa da Vanguarda. Três caçadores — O Urrak, O Velatrix, e A Nyctara — agora operam em coordenação, fechando o cerco sobre Korgath de múltiplas direções. A perseguição está em andamento.
 
@@ -344,7 +344,7 @@ No próximo capítulo, a perseguição se intensificará. Lyris revelará técni
 | **Erosão de Memória Etérica** | Selina Thalassa | Ataca a conexão entre oponente e seu poder elemental |
 | **Velo de Cinzas Escaldantes** | Lyris | Névoa superaquecida para proteção e propulsão |
 | **Lança de Plasma Branco** | Lyris | Calor extremo concentrado em forma sólida ofensiva |
-| **Turbilhão de Vácuo** | O Ventorro | Zona de pressão negativa para asfixiar oponentes |
+| **Turbilhão de Vácuo** | O Zephyros | Zona de pressão negativa para asfixiar oponentes |
 
 ### Termos:
 
@@ -359,7 +359,7 @@ No próximo capítulo, a perseguição se intensificará. Lyris revelará técni
 | Nome | Função | Status |
 |------|--------|--------|
 | **Selina Thalassa** | Mestra da Informação | Estágio VI (Luminar); coordenando Caçada |
-| **O Ventorro** | Traidor da Vanguarda | Dissolvido em corrupção Nihilaryth |
+| **O Zephyros** | Traidor da Vanguarda | Dissolvido em corrupção Nihilaryth |
 | **Lyris (A Nyctara)** | Perseguidora | Rastreando Korgath via ausência sonora |
 | **Korgath** | Caçador do Vazio | Em fuga; primeira dúvida em décadas |
 

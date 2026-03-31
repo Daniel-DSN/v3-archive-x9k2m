@@ -76,6 +76,10 @@ E **Tempest**, sua irmã gêmea, a Seraphyen de Vento Sombra, senhora dos furac�
 
 Dez Seraphyens. Dez poderes primordiais. Dez filhos de Yggorath destinados a proteger a criação desde a Primeira Aurora até a Última Aurora que ainda estava por vir.
 
+Eles não eram iguais a Ilyos e Nyxalor. Os dois Filhos Legítimos haviam nascido diretamente do Fruto da Existência que Yggoraty cultivara com sua própria essência — eram herdeiros do próprio criador, portadores de poder que transcendia até mesmo o divino. Os Seraphyens, em contraste, haviam surgido do Aethra que emanava de Yggorath, a árvore secundária nascida do sacrifício de Yggoraty. Eram manifestações elementais, encarnações de forças primordiais — poderosos além da compreensão mortal, mas ainda assim subordinados aos Filhos Legítimos na grande hierarquia da existência.
+
+Ilyos, contudo, jamais tratara os Seraphyens como inferiores. Desde a Primeira Aurora, ela ensinara a verdade que Yggoraty gravara em cada folha da Árvore da Existência: que todo ser, do mais poderoso ao mais humilde, era igual perante a vida. Ela amava os Seraphyens como família, e eles a reverenciavam não como senhora, mas como irmã mais velha, guia e protetora. Quando Nyxalor ainda caminhava ao seu lado, ele compartilhava dessa visão — e os Seraphyens o amavam com a mesma devoção.
+
 Naquele momento, eles formavam um círculo de poder ao redor de Ilyos, suas energias entrelaçadas em preparação para a batalha que definiria o destino de todos os mundos — passados, presentes e futuros. Suas luzes combinadas eram suficientes para iluminar galáxias inteiras. Suas sombras entrelaçadas eram profundas o suficiente para esconder estrelas.
 
 E cada um deles sabia, no mais profundo de suas essências imortais, que talvez — apenas talvez — nem todos voltassem para casa.
