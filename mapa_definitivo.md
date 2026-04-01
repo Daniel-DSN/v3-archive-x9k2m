@@ -641,13 +641,29 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 | Cap | Título | Conteúdo Principal |
 |-----|--------|-------------------|
-| 1 | O Sacrifício das Estrelas | Criação do universo, Seraphyens (mito incompleto) |
-| 2 | A Estrela que Nasceu na Tempestade | Nascimento de Grazielly, morte de Ayla |
-| 3 | O Legado da Parteira | Morte de Melessa, Lyris chega |
-| 4 | O Resgate do Coração | Grazielly salva Nyx |
-| 5 | O Presente das Estrelas | Aniversário 5 anos, cristal de Aurelius |
-| 6 | Sombras do Passado, Luzes do Orfanato | Vida no orfanato, avô misterioso |
-| 7 | O Sussurro das Águas | Lyris viaja a Thalyra, investigação do avô, ameaça Nihilaryth |
+| 1 | O Segredo de Serravento | **NOVO** - Ayla grávida, Serravento, mistério, flashes sensoriais |
+| 2 | A Estrela que Nasceu na Tempestade | Convergência Tripla, nascimento de Grazielly, morte de Ayla |
+| 3 | O Legado da Parteira | Morte de Melessa, Grazielly vai ao orfanato, Lyris |
+| 4 | O Conto do Sacrifício das Estrelas | **NOVO** - Conto narrado por Mirella, mito dos Seraphyens |
+| 5 | O Resgate do Coração | Grazielly salva Nyx, primeiro despertar Cryonys |
+| 6 | O Presente das Estrelas | Aniversário 5 anos, cristal de Aurelius |
+| 7 | Sombras do Passado, Luzes do Orfanato | Vida no orfanato, avô misterioso |
+| 8 | O Sussurro das Águas | Lyris viaja a Thalyra, investigação do avô |
+| 9 | O Silêncio de Serravento | Lyris retorna, fortifica orfanato, ameaça Umbra |
+| 10 | A Lição da Fluidez | Treinamento elemental, descobertas |
+| 11 | O Primeiro Visitante | Visitante misterioso, alerta |
+| 12 | O Estudo das Fendas | Investigação dimensional |
+| 13 | O Caçador do Vazio | Caçador contratado por Umbra |
+| 14 | A Primeira Barreira | Defesa do orfanato |
+| 15 | O Despertar dos Antigos | Poderes antigos despertam |
+| 16 | O Cerco Silencioso | Infiltração descoberta |
+| 17 | O Sequestro das Sombras | Sequestro, resgate |
+| 18 | A Dança das Traições | Traições reveladas |
+| 19 | O Rastro das Cinzas | Perseguição |
+| 20 | O Primeiro Resgate | Operação de resgate |
+| 21 | O Combate no Vale | Batalha final do Livro 1 |
+
+**NOTA:** Total de 21 capítulos após transplante narrativo (02/04/2026)
 
 ---
 
@@ -711,14 +727,33 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 # 🚫 XVI. CONTROLE DE VERSÃO
 
-**Versão do Mapa Definitivo:** 1.2.0 — EXPANSÃO DA GOVERNANÇA
-**Data de Atualização:** 30/03/2026
+**Versão do Mapa Definitivo:** 1.3.0 — TRANSPLANTE NARRATIVO
+**Data de Atualização:** 02/04/2026
 **Status:** CANÔNICO
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
 
 ---
 
 ## 📋 LOG DE ALTERAÇÕES
+
+### Versão 1.3.0 (02/04/2026) - TRANSPLANTE NARRATIVO
+
+#### 1. Reestruturação de Capítulos
+- ✅ **Novo Capítulo I** — "O Segredo de Serravento" (Ayla grávida, Serravento, mistério)
+- ✅ **Novo Capítulo IV** — "O Conto do Sacrifício das Estrelas" (narrado por Mirella)
+- ✅ **Antigo Capítulo I** — Transformado em conto narrado (removida menção a Yggorath/segredo)
+- ✅ **Renumeracao** — Todos os capítulos renumerados (total: 21 capítulos)
+
+#### 2. Correções Canônicas
+- ✅ **Yggorath/Segredo** — Removida revelação sobre "árvore secundária nascida do sacrifício de Yggoraty"
+- ✅ **Termos Terrestres** — Substituídos por termos canônicos (ex: "humano" → "ser", "mortal", "Aetheriano")
+- ✅ **Verdade Oculta** — Omitida no conto narrado (Cristal de Mytha abriga essência de Elarys)
+
+#### 3. Expansão de Lore
+- ✅ **Serravento** — Apresentação completa do Reino dos Ventos Livres
+- ✅ **Ayla** — Desenvolvimento de personagem pré-nascimento de Grazielly
+- ✅ **Senhora Mirella** — Papel como narradora de histórias no orfanato
+- ✅ **Grazielly** — Primeira manifestação Cryonys ao ouvir o conto
 
 ### Versão 1.2.0 (30/03/2026)
 
