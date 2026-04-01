@@ -28,7 +28,7 @@ Grazielly apertou o pingente de asa em seu peito, sentindo o frio do **Cryonys**
 
 — E eu vou cumprir — Kira prometeu, sua voz firme apesar das lágrimas que ela recusava deixar cair. — Quando você tiver seis anos, eu voltarei da Academia nas férias de verão, e nós vamos fazer as maiores tochas que Ventania já viu. Combinado?
 
-Grazielly assentiu, mas seu coração doía. Ela olhou para **Varek**, o Tutor Itinerante que permanecia a poucos passos de distância com um sorriso benevolente e um caderno de anotações aberto. Foi Varek quem acelerou a papelada para a transferência de Kira, alegando em seu relatório para Sanctrum que o potencial da menina era um "risco de segurança" para as crianças menores se não fosse devidamente canalizado. Era uma manobra tática calculada: Kira, com sua afinidade Fogo, havia sido a principal proteção física de Grazielly além de Lyris. Sua transferência para a Academia Elemental em **Pyralis** removeria não apenas uma defensora, mas também uma âncora emocional para a Herdeira. O isolamento era o primeiro passo para a vulnerabilidade.
+Grazielly assentiu, mas seu coração doía. Ela olhou para **Varek**, o Tutor Itinerante que permanecia a poucos passos de distância com um sorriso benevolente e um caderno de anotações aberto. Foi Varek quem acelerou a papelada para a transferência de Kira, alegando em seu relatório para Sanctrum que o potencial da menina era um "risco de segurança" para as crianças menores se não fosse devidamente canalizado.
 
 — A afinidade com Fogo em desenvolvimento acelerado pode ser perigosa em ambientes sem supervisão adequada — Varek havia escrito, sua caligrafia perfeita transmitindo competência e preocupação genuína. — Recomendo transferência imediata para a Academia Elemental.
 
@@ -72,8 +72,6 @@ Mas a verdadeira arma de Korgath não era física.
 
 Sua afinidade — **Sons do Vácuo** — era uma aberração entre as manipulações elementais conhecidas. Não era fogo, água, terra, ar ou relâmpago. Era algo mais fundamental, mais primitivo: a capacidade de criar e manipular frequências sonoras em faixas que a maioria dos seres vivos não conseguia perceber, mas que afetavam profundamente seus corpos e mentes.
 
-Era uma herança das **Profundezas** — aquele lugar entre lugares onde a entidade que Marethyus havia invocado dormia. Os Nihilaryth não haviam criado esta habilidade; eles a haviam corrompido, transformando-a em uma arma que não produzia som, mas o consumia. Korgath não era um elemental tradicional — era um vazio ambulante, uma ausência que andava.
-
 Ele podia gerar silêncio absoluto — não a ausência de som, mas a anulação ativa de todas as vibrações em uma área. Podia criar frequências que destroíam órgãos internos sem deixar marcas externas. Podia, como fazia agora, mover-se em uma bolha de quietude que tornava impossível detectá-lo por qualquer sentido convencional.
 
 Korgath parou diante de um pilar de pedra antigo — uma marca de fronteira erguida nos tempos da fundação de Nova Aetherion, quando os Sete Reinos ainda estavam sendo delineados. Ele retirou de sua bolsa uma pequena bolsa de couro e a abriu, revelando três **Cristais Aetheris de Grau VI** que brilhavam com uma pureza gélida.
@@ -84,7 +82,7 @@ Os cristais pulsaram em resposta, como se reconhecessem as palavras. Eles eram o
 
 Ele guardou os cristais e olhou para o sudoeste, na direção de Serravento e Ventania. Seus ouvidos — treinados por décadas de caça — captaram uma frequência que não pertencia ao vento gelado de Umbralis. Era um sinal codificado, transmitido através de meios que apenas iniciados compreendiam.
 
-O **Membro 10 da Vanguarda** — codinome **O Zephyros** — havia cumprido sua parte.
+O **Membro 10 da Vanguarda** — codinome **O Ventorro** — havia cumprido sua parte.
 
 As rotas de patrulha de Sanctrum estavam focadas no norte, perseguindo falsos rumores de atividade Nihilaryth perto da fronteira de Fulmora. Os batedores que normalmente vigiariam a rota entre Terraxis e Serravento haviam sido redirecionados. O caminho estava livre.
 
@@ -282,7 +280,7 @@ Neste capítulo, testemunhamos o início do cerco. A partida de Kira não foi ap
 
 Conhecemos **Korgath, o Caçador do Vazio**, e sua habilidade única: **Sons do Vácuo**. Diferente dos elementos tradicionais, sua afinidade opera na anulação — do som, da ressonância espiritual, da própria presença. Ele é um vazio ambulante, impossível de detectar por meios convencionais.
 
-Vimos também a revelação do **Membro 10 da Vanguarda** — codinome **O Zephyros** — trabalhando como espião dentro da organização que deveria proteger Grazielly. Suas ações desviaram as patrulhas de Sanctrum, limpando o caminho para Korgath.
+Vimos também a revelação do **Membro 10 da Vanguarda** — codinome **O Ventorro** — trabalhando como espião dentro da organização que deveria proteger Grazielly. Suas ações desviaram as patrulhas de Sanctrum, limpando o caminho para Korgath.
 
 E no centro de tudo, Grazielly sonha com avisos que não consegue entender, sente perigos que não consegue nomear, carrega um poder que ainda não sabe controlar.
 
@@ -301,7 +299,7 @@ No próximo capítulo, a tensão alcançará seu ponto de ruptura. Dorian será 
 | **Sons do Vácuo** | Afinidade aberrante de Korgath; permite manipular frequências sonoras e criar silêncio absoluto |
 | **Terras de Ninguém** | Faixa neutra entre Terraxis e Umbra; zona sem lei |
 | **Obsidiana Negra** | Material vulcânico usado na arma de Korgath |
-| **O Zephyros** | Codinome do Membro 10 da Vanguarda; traidor infiltrado |
+| **O Ventorro** | Codinome do Membro 10 da Vanguarda; traidor infiltrado |
 
 ### Personagens em Foco:
 
@@ -309,7 +307,7 @@ No próximo capítulo, a tensão alcançará seu ponto de ruptura. Dorian será 
 |------|--------|-------------|
 | **Kira** | Órfã, 15 anos, Fogo | Transferida para Academia Elemental; manobra de isolamento |
 | **Korgath** | Caçador de recompensas | Contratado pelo Sínodo da Estase Branca |
-| **O Zephyros** | Membro 10 da Vanguarda | Infiltrado; sabotou patrulhas de Sanctrum |
+| **O Ventorro** | Membro 10 da Vanguarda | Infiltrado; sabotou patrulhas de Sanctrum |
 | **Dorian** | Órfão, 12 anos | Sendo manipulado por Varek; ponto cego na rede |
 
 ### Fauna e Flora Mencionadas:

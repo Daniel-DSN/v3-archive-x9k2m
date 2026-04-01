@@ -180,10 +180,6 @@ Havia algo na voz de Lyris que Grazielly nunca ouvira antes — uma dureza que n
 
 — Não fisicamente — Lyris disse, sua expressão amolecendo por um momento. — Mas vai ser cansativo. Vai exigir concentração. Vai exigir que você lute contra algo que é natural para você.
 
-Ela fez uma pausa, sua voz ficando mais séria.
-
-— Mas há algo que você precisa saber, Grazielly. Algo chamado **Regra do Zero**. Você nunca — jamais — deve exaurir seu Aethra completamente. Se o Æ dentro de você chegar a zero, sua alma começará a se dissolver no Vazio Primordial. É por isso que controlamos, não apenas liberamos. O poder sem limites consome quem o possui.
-
 Ela colocou a mão no ombro de Grazielly.
 
 — Mas eu estarei aqui. Todos os dias. Até que você consiga.

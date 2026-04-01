@@ -22,13 +22,13 @@ Ou pelo menos era isso que ela acreditava.
 
 A manhã havia começado com uma calma perturbadora. O sol de Aurion ergueu-se sobre Ventania como em qualquer outro dia, pintando as colinas de dourado e fazendo as **Pratafolhas** brilharem como moedas cunhadas recentemente. O céu estava limpo, o ar estava calmo, e o perímetro... o perímetro mostrava paz absoluta.
 
-Lyris observava o **espelho de ressonância** em sua torre de vigia — um dispositivo antigo que ela havia adaptado para traduzir as pulsações das Sementes Etéricas em padrões visuais. As luzes verdes piscavam em sequências tranquilas, indicando que nada havia cruzado a barreira durante a noite. Nenhuma anomalia. Nenhuma intrusão. Nenhuma ameaça.
+Lyris observava o monitor de cristal em sua torre de vigia — um dispositivo antigo que ela havia adaptado para traduzir as pulsações das Sementes Etéricas em padrões visuais. As luzes verdes piscavam em sequências tranquilas, indicando que nada havia cruzado a barreira durante a noite. Nenhuma anomalia. Nenhuma intrusão. Nenhuma ameaça.
 
 *Tudo normal,* ela pensou, seus olhos percorrendo os padrões familiares. *Tudo calmo.*
 
 Mas algo a incomodava — uma sensação subcutânea que ela não conseguia nomear. Era como uma coceira em um lugar que ela não conseguia coçar, uma nota dissonante em uma melodia que parecia perfeita.
 
-Suas **Sementes Etéricas** haviam recebido uma **sintonia etérica** remota três dias antes — um pulso de Aethra enviado através do Olho de Aurion que prometia "otimizar a sensibilidade para frequências Nihilaryth". O remetente parecia legítimo: as assinaturas espirituais estavam corretas, os selos etéricos correspondiam aos registros de Sanctrum, e a própria Selina Thalassa parecia ter autorizado a transmissão.
+Suas **Sementes Etéricas** haviam recebido uma atualização de calibração três dias antes — um código enviado através do Olho de Aurion que prometia "otimizar a sensibilidade para frequências Nihilaryth". O remetente parecia legítimo: os códigos de autenticação estavam corretos, os selos digitais correspondiam aos registros de Sanctrum, e a própria Selina Thalassa parecia ter autorizado a transmissão.
 
 *Deveria ter verificado pessoalmente,* Lyris pensou, uma sombra de dúvida finalmente cruzando sua mente. *Deveria ter confirmado com ela diretamente.*
 
@@ -36,13 +36,13 @@ Ela se levantou, movendo-se para a janela. Lá fora, o jardim do orfanato pareci
 
 Mas foi então que ela percebeu.
 
-As Pratafolhas não estavam balançando com o vento. Elas estavam balançando em um padrão — o mesmo padrão, repetindo-se em ciclo ininterrupto, como uma gravação que alguém havia esquecido de encerrar.
+As Pratafolhas não estavam balançando com o vento. Elas estavam balançando em um padrão — o mesmo padrão, repetindo-se em loop, como uma gravação que alguém havia esquecido de interromper.
 
 *Asthra...*
 
 Lyris correu para o monitor, seus dedos dançando sobre os controles de cristal enquanto ela tentava acessar os dados brutos das Sementes. O que ela encontrou a fez gelar.
 
-Não havia dados brutos. Não havia leituras em tempo real. O que ela estava vendo era uma frequência pré-gravada — um ciclo falso de "paz total" que havia sido inserido em sua rede há três dias, ocultando qualquer coisa que realmente cruzasse o perímetro.
+Não havia dados brutos. Não havia leituras em tempo real. O que ela estava vendo era uma frequência pré-gravada — um loop de "paz total" que havia sido inserido em sua rede há três dias, ocultando qualquer coisa que realmente cruzasse o perímetro.
 
 *Eles estão aqui,* ela percebeu, o horror se espalhando por seu corpo como água gelada. *Eles já estão aqui. E eu não vi. Eu não senti.*
 
@@ -66,16 +66,6 @@ Não era mais o Tutor Itinerante benevolente. Não era mais o burocrata sorriden
 
 Lyris parou no último degrau da escada, sentindo o chão desaparecer sob seus pés.
 
-Varek notou sua presença e sorriu — não com maldade, mas com a satisfação profissional de alguém que havia preparado cada detalhe. Ele ergueu a mão esquerda, e de suas vestes retirou um pequeno cristal de projeção que começou a pulsar com luz âmbar.
-
-— Mas não precisam confitar apenas em minha palavra — ele disse, ativando o cristal. Uma imagem holográfica se materializou no ar, mostrando o selo oficial do **Sínodo da Palavra** e, abaixo dele, um documento intitulado **"INFORMATIVO URGENTE: Avaliação de Risco Psicológico — Tutora Lyris de Ventania"**.
-
-— O Sínodo da Palavra emitiu este alerta ontem — Varek anunciou, sua voz assumindo o tom grave de quem comunicava uma tragédia oficial. — A agência de imprensa de Sanctrum detectou padrões preocupantes nos relatórios regionais. Isolamento de pupilos. Treinamento não autorizado. Hostilidade a visitantes oficiais. A recomendação é clara: supervisão externa imediata.
-
-O holograma exibia trechos do documento, cada um carimbado com selos de autenticidade do Olho de Aurion. Era um **Vírus Social** em sua forma mais perfeita — não uma mentira, mas uma narrativa construída com fragmentos de verdade arrancados de contexto, apresentada através do canal oficial que a população havia sido treinada a confiar.
-
-— O Sínodo não mente — um dos funcionários murmurou, seus olhos fixos na projeção. — Se eles estão dizendo isso...
-
 — Que comportamentos? — Madre Elara perguntou, sua voz trêmula. — Lyris sempre foi tão dedicada...
 
 — É justamente isso o problema — Varek interrompeu suavemente. — Dedicação excessiva. A senhora não notou como ela isolou a menina Grazielly? Como ela a treina em segredo, longe dos olhos dos outros? Como ela reage com hostilidade a qualquer pessoa que se aproxime?
@@ -86,7 +76,7 @@ Os funcionários ao redor murmuraram em concordância. Lyris viu seus rostos —
 
 Ele ergueu um documento — um pergaminho selado com a cera oficial de Sanctrum, carimbado com símbolos que Lyris reconheceu imediatamente como autênticos.
 
-— Este relatório recomenda a suspensão temporária dos direitos de custódia da Srta. Lyris sobre a criança Grazielly, até que um **exame de vibração anímica** completo seja realizado. Pela segurança de todos.
+— Este relatório recomenda a suspensão temporária dos direitos de custódia da Srta. Lyris sobre a criança Grazielly, até que uma avaliação psicológica completa seja realizada. Pela segurança de todos.
 
 Madre Elara olhou para Lyris, e em seus olhos havia algo que cortou mais fundo que qualquer lâmina: dúvida.
 
@@ -132,9 +122,7 @@ Ele deixou o documento cair aos pés dela.
 
 — Você foi removida da missão, Lyris. Oficialmente. Legalmente. Se você continuar protegendo a menina, não estará cumprindo ordens — estará desobedecendo-as.
 
-Era um **vírus social** em sua forma mais perfeita. O documento era autêntico — os selos eram genuínos, as assinaturas eram reais. Mas o conteúdo era uma construção deliberada, projetada para transformar a protetora em ameaça. Varek havia usado a própria burocracia da Ordem como arma, criando uma narrativa onde Lyris era a vilã obcecada e ele o funcionário preocupado com o bem-estar das crianças. A verdade não importava — apenas a aparência de verdade que o papel carregava.
-
-Lyris olhou para o pergaminho. O selo era autêntico. A assinatura era a de Aurelius. As marcas espirituais correspondiam.
+Lyris olhou para o pergaminho. O selo era autêntico. A assinatura era a de Aurelius. Os códigos de verificação correspondiam.
 
 *Não,* ela pensou, sentindo algo dentro dela se romper. *Isso não pode ser real. Aurelius nunca...*
 
@@ -158,7 +146,7 @@ Não era um silêncio normal — não era simplesmente falta de resposta. Era al
 
 *O Olho de Aurion está comprometido,* ela pensou, sentindo o horror da constatação. *Não apenas um agente. Toda a rede.*
 
-Ela havia identificado o traidor — o Membro 10, codinome O Zephyros. Mas sua descoberta havia chegado tarde demais. No momento em que ela percebeu a infiltração, o dano já havia sido feito. As patrulhas haviam sido redirecionadas. Os relatórios haviam sido falsificados. E agora, quando ela tentava enviar alertas para Lyris, suas mensagens desapareciam em um abismo de frequências corrompidas.
+Ela havia identificado o traidor — o Membro 10, codinome O Ventorro. Mas sua descoberta havia chegado tarde demais. No momento em que ela percebeu a infiltração, o dano já havia sido feito. As patrulhas haviam sido redirecionadas. Os relatórios haviam sido falsificados. E agora, quando ela tentava enviar alertas para Lyris, suas mensagens desapareciam em um abismo de frequências corrompidas.
 
 — Mestra — seu assistente entrou correndo na sala, seu rosto pálido. — Nós detectamos anomalias em toda a região de Serravento. Assinaturas espirituais... múltiplas. Movendo-se em direção a Ventania.
 
@@ -300,9 +288,7 @@ O céu de Serravento parecia ter perdido sua cor.
 
 Não era uma mudança física — Aurion ainda brilhava com a mesma intensidade, as três luas ainda orbitavam em seus caminhos eternos. Mas para aqueles que podiam perceber, para aqueles cujos sentidos alcançavam além do físico, algo havia mudado fundamentalmente.
 
-A bolha de silêncio que Korgath havia criado não era apenas uma zona de quietude. Era uma **prisão dimensional** — um espaço isolado do resto do mundo, onde as leis normais de causa e efeito haviam sido suspensas. Dentro da bolha, o tempo parecia se mover mais lentamente. O espaço parecia comprimido. E o Aethra — a força vital que conectava todos os seres vivos — fluía em uma única direção.
-
-A técnica era uma aplicação extrema dos **Sons do Vácuo**: Korgath não apenas anulava frequências sonoras, ele criava um espaço onde o próprio conceito de vibração havia sido removido. Era como cortar uma seção da realidade e substituí-la por um vazio que absorvia tudo — som, calor, Aethra, até mesmo esperança. A **Regra do Zero** pairava sobre todos dentro da bolha como uma espada de Dâmocles: se o Aethra de alguém caísse a zero, a dissolução da alma seria instantânea e irreversível.
+A bolha de silêncio que Korgath havia criado não era apenas uma zona de quietude. Era uma prisão dimensional — um espaço isolado do resto do mundo, onde as leis normais de causa e efeito haviam sido suspensas. Dentro da bolha, o tempo parecia se mover mais lentamente. O espaço parecia comprimido. E o Aethra — a força vital que conectava todos os seres vivos — fluía em uma única direção.
 
 Para o Caçador.
 

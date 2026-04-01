@@ -100,11 +100,9 @@ Podia proteger Grazielly.
 
 A determinação era fria como o gelo que Grazielly um dia aprenderia a controlar. E com ela veio uma segunda decisão, igualmente importante.
 
-*Cristalnor vai ter que esperar. Marethyus pode esperar. Mas Grazielly não pode.*
-
 *Agentes de Umbra me seguiram de Thalyra. Isso significa que eles sabem — ou suspeitam — que eu sei algo. E isso significa que o Orfanato das Asas... já não é mais seguro.*
 
-*Então vou torná-lo seguro novamente. Depois, então sim, irei ao norte.*
+*Então vou torná-lo seguro novamente.*
 
 ---
 
@@ -267,10 +265,6 @@ Cada frase era verdadeira. E cada frase era uma mentira.
 *O orfanato permanece um ambiente seguro* — verdade, porque ela tornara seguro. Mas omitia que antes não era.
 
 *Nada mais a relatar* — verdade, porque ela não relatava. Mas omitia tudo que ela escolhera guardar.
-
-Era uma **Falsa Verdade** — o termo técnico que a Vanguarda usava para descrever comunicações que eram tecnicamente precisas mas desprovidas de contexto vital. No mundo da espionagem de Alyndra, uma Falsa Verdade não era uma mentira desprovida de honestidade — era uma construção cuidadosa que dizia apenas o necessário, deixando o destinatário livre para preencher as lacunas com suas próprias suposições. Era a arma preferida dos mestres da informação, e Lyris havia se tornado uma mestre.
-
-*Aurelius lerá isso e achará que tudo está sob controle,* ela pensou. *E isso é exatamente o que eu preciso que ele acredite. Por enquanto.*
 
 Lyris selou a carta. Ela seria entregue por um mensageiro confiável, passaria pelas mãos de vários intermediários antes de chegar a Sanctrum, e Aurelius a leria acreditando que sua protetora de confiança continuava leal e transparente.
 

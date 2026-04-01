@@ -20,7 +20,7 @@ Seu corpo estava envolto no **Velo de Cinzas Escaldantes**, a névoa superaqueci
 
 Era um rastro claro. Quente demais para ser natural. Vibrante demais para ser antigo. Algo havia passado por ali recentemente, deixando uma trilha de calor que seus sensores podiam seguir.
 
-*Korgath,* ela pensou, sentindo a determinação queimando em seu peito. *O Caçador do Vazio. Ele anula frequências sonoras e espirituais com seu vácuo, mas calor é vibração molecular, não frequência Aethra. Talvez... talvez eu consiga encontrar algo que ele não possa esconder.*
+*Korgath,* ela pensou, sentindo a determinação queimando em seu peito. *O Caçador do Vazio. Ele anula frequências sonoras, mas não pode anular completamente o calor. Ninguém pode se mover sem deixar rastros térmicos.*
 
 Ela seguiu a assinatura por léguas, atravessando ravinas e escalando formações rochosas que teriam impedido qualquer perseguidor convencional. Mas Lyris não era convencional. Seu Thermaris lhe permitia sentir o calor residual no ar, na terra, nas pedras — uma rede invisível de informações que a guiava como um farol na escuridão.
 
@@ -44,7 +44,7 @@ Era um falso positivo. Uma armadilha.
 
 O rastro térmico que ela havia seguido por léguas não era de Korgath. Era de uma Semente Etérica sobrecarregada, plantada deliberadamente para atrair perseguidores para uma armadilha de drenagem. Uma distração. Um desperdício de tempo precioso.
 
-*O Zephyros,* ela percebeu, sentindo o horror da constatação. *Mesmo morto, ele continua me atrasando. Ele plantou isso antes de sua morte. Sabia que alguém viria.*
+*O Ventorro,* ela percebeu, sentindo o horror da constatação. *Mesmo morto, ele continua me atrasando. Ele plantou isso antes de sua morte. Sabia que alguém viria.*
 
 *E eu caí direitinho.*
 
@@ -250,7 +250,7 @@ Mas sentiu algo mais — uma pulsação no pingente de asa em seu peito. Mais fo
 
 Caro leitor,
 
-Este capítulo estabelece **Nyx como o trunfo narrativo** que quebra o impasse tático causado pela sabotagem do Zephyros. Enquanto a tecnologia falha, o instinto prevalece.
+Este capítulo estabelece **Nyx como o trunfo narrativo** que quebra o impasse tático causado pela sabotagem do Ventorro. Enquanto a tecnologia falha, o instinto prevalece.
 
 Vimos também o primeiro encontro entre membros da Vanguarda — Lyris (A Nyctara) e O Urrak — unindo forças na perseguição. A Caçada Reversa está tomando forma.
 
@@ -269,7 +269,7 @@ Uma por uma. Com luta. Com sacrifício. Com o peso de vidas inocentes nas mãos.
 | Técnica | Usuário | Descrição |
 |---------|---------|-----------|
 | **Cárcere de Pressão Absoluta** | Lyris | Zona de vapor comprimido para captura |
-| **Armadilha de Drenagem** | O Zephyros | Semente Etérica sobrecarregada para drenar Aethra de perseguidores |
+| **Armadilha de Drenagem** | O Ventorro | Semente Etérica sobrecarregada para drenar Aethra de perseguidores |
 
 ### Termos:
 

@@ -220,7 +220,7 @@ Ela começou a trabalhar, seus dedos dançando sobre os cristais de controle enq
 
 O padrão emergiu lentamente — como uma mancha se formando em um tecido limpo.
 
-Membro 10 da Vanguarda. Codinome: **O Zephyros**.
+Membro 10 da Vanguarda. Codinome: **O Ventorro**.
 
 *Ele forneceu as informações,* Selina percebeu, sua mente calculando implicações. *Ele manipulou as rotas. Ele abriu a janela para quem quer que esteja caçando a menina.*
 
@@ -268,7 +268,7 @@ Em vez de seguir diretamente para a Câmara dos Anciãos, ele desviou para os ap
 
 Sua comunicação pessoal pulsou — uma mensagem de Selina, codificada em um nível que apenas ele podia acessar.
 
-*Encontrei o traidor. Membro 10. Codinome Zephyros. Ele trabalhou para o Sínodo da Estase Branca por pelo menos dois anos. Você precisa vir agora.*
+*Encontrei o traidor. Membro 10. Codinome Ventorro. Ele trabalhou para o Sínodo da Estase Branca por pelo menos dois anos. Você precisa vir agora.*
 
 Aurelius acelerou o passo, seu coração batendo descompassado.
 
@@ -286,9 +286,7 @@ Marethyus, o Bruxo das Águas Sombrias, estava de pé diante da caverna que havi
 
 E agora, pela primeira vez em três décadas, ele estava rachando.
 
-A **Água Sombra** — aquela manipulação anômala que Marethyus herdara de uma linhagem que precedia a própria Nova Aetherion — pulsava sob sua pele como uma besta acorrentada lutando para se libertar. Era um poder que não pertencia a este mundo, ou talvez pertencesse a um mundo que já não existia — as **Profundezas Primordiais** que existiam antes da primeira estrela acender.
-
-A Água Sombra não era simplesmente água corrompida — era o reflexo invertido do oceano, aquilo que a água esqueceu quando aprendeu a fluir. Era memória cristalizada, dor condensada, a capacidade de não apenas manipular líquidos, mas de acessar tudo o que a água havia testemunhado desde o início dos tempos. Os **Marethyu** haviam sido os guardiões deste poder, e agora ele era o último de sua linhagem — até Grazielly.
+A **Água Sombra** — aquela manipulação anômala que Marethyus herdara de uma linhagem que precedia a própria Nova Aetherion — pulsava sob sua pele como uma besta acorrentada lutando para se libertar. Era um poder que não pertencia a este mundo, ou talvez pertencesse a um mundo que já não existia — as profundezas primordiais que existiam antes da primeira estrela acender.
 
 *Trinta anos,* Marethyus pensou, seus olhos — azuis como gelo oceânico — fixos na fenda que se abria no gelo diante dele. *Trinta anos me escondendo. Me punindo por algo que não foi inteiramente minha culpa. Deixando minha neta crescer sem conhecer seu sangue.*
 
@@ -366,9 +364,7 @@ E em todo o mundo, a água tremeru.
 
 Quando a noite caiu sobre Ventania, o Orfanato das Asas parecia um lugar à beira de algo irreversível.
 
-A fonte permanecia congelada — não mais azul, mas agora de um preto profundo, como se as profundezas houvessem sido capturadas no gelo. A mudança ocorrera no momento exato em que o pulso espiritual atravessara o mundo, e Lyris, com seus anos de experiência, reconhecera o sinal: era a marca da **Água Sombra**, a herança de Marethyus manifestando-se à distância.
-
-O **Gelo Negro** era um fenômeno que os estudiosos de Sanctrum haviam documentado apenas uma vez — durante a Primeira Guerra, quando os Seraphyens haviam enfrentado os primeiros Nihilaryth. Era o resultado do Cryonys Primordial entrando em contato com a corrupção das Profundezas, uma fusão que criava algo mais denso que gelo comum, algo que não derretia sob calor normal e que carregava fragmentos de consciência antiga. A fonte havia se tornado um portal — não para outro lugar, mas para outro estado de existência. O avô havia feito algo — e as consequências estavam se espalhando. Ninguém se aproximava da fonte. Ninguém ousava.
+A fonte permanecia congelada — não mais azul, mas agora de um preto profundo, como se as profundezas houvessem sido capturadas no gelo. Ninguém se aproximava dela. Ninguém ousava.
 
 Grazielly estava em seu quarto, Nyx a seus pés, seus olhos fixos na janela que dava para o sul. Ela não sabia o que havia sentido antes — aquele sussurro distante, aquele chamado que parecia vir de muito longe e de muito fundo. Mas sabia que algo havia mudado.
 
@@ -433,7 +429,7 @@ No próximo capítulo, as peças finalmente se encontrarão. Selina chegará. A 
 | Termo | Definição |
 |-------|-----------|
 | **Água Sombra** | Manipulação anômala da linhagem Marethyu; não é água comum, mas algo das profundezas primordiais |
-| **O Zephyros** | Codinome do Membro 10 da Vanguarda; traidor trabalhando para o Sínodo da Estase Branca |
+| **O Ventorro** | Codinome do Membro 10 da Vanguarda; traidor trabalhando para o Sínodo da Estase Branca |
 | **Profundezas** | Região mística sob o leito oceânico; lar de entidades antigas que precedem os Nihilaryth |
 
 ### Personagens em Foco:
@@ -442,7 +438,7 @@ No próximo capítulo, as peças finalmente se encontrarão. Selina chegará. A 
 |------|--------|-------------|
 | **Marethyus** | Avô de Grazielly | Quebrou a primeira camada do selo; invocou algo das profundezas |
 | **Selina Thalassa** | Mestra da Informação | Identificou o traidor; partindo para Ventania |
-| **O Zephyros** | Membro 10 da Vanguarda | Traidor infiltrado há dois anos |
+| **O Ventorro** | Membro 10 da Vanguarda | Traidor infiltrado há dois anos |
 | **Varek** | Infiltrado do Sínodo | Revelou conhecimento sobre Marethyus |
 
 ### Flora e Fenômenos:

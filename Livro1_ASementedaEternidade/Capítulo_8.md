@@ -26,7 +26,7 @@ A carta que havia recebido de sua rede de informantes ainda queimava em seus pen
 
 *"Há movimentação nas águas profundas. Algo antigo desperta. A criança não está sozinha em sua herança."*
 
-A mensagem vinha assinada apenas com um símbolo — um círculo cortado por uma linha ondulada, a marca de **Vaelora**, sua contato mais antiga e confiável em Thalassia, conhecida nos corredores do poder como "A Sentinela". E agora, esperava o momento certo para se encontrarem.
+A mensagem vinha assinada apenas com um símbolo — um círculo cortado por uma linha ondulada, a marca de "S.", seu contato mais antigo e confiável em Thalassia. E agora, esperava o momento certo para se encontrarem.
 
 ---
 
@@ -50,13 +50,13 @@ Lyris caminhou até a figura encapuzada e sentou-se sem perguntar permissão.
 
 A figura empurrou seu capuz para trás, revelando um rosto que o tempo havia marcado com linhas profundas mas cujos olhos permaneciam afiados como lâminas. Era uma mulher de idade indefinida — podia ter cinquenta anos ou oitenta — com cabelos grisalhos presos em tranças complexas e uma cicatriz fina que cruzava sua bochecha esquerda.
 
-**Vaelora**, como Lyris a chamava há décadas — conhecida oficialmente como "A Sentinela", membro do Conselho dos 10 e informante da Vanguarda em Thalassia. Era uma das muitas agentes que Lyris havia cultivado durante seus anos de serviço, uma das poucas em quem confiava completamente.
+S., como Lyris a chamava há décadas, nunca havia revelado seu verdadeiro nome. Era uma das muitas informantes que Lyris havia cultivado durante seus anos de serviço, uma das poucas em quem confiava completamente.
 
-— Você me perguntou sobre a criança — disse Vaelora, seus olhos fixos nos de Lyris. — Sobre a herança que ela carrega. Eu fiz algumas perguntas. Fiz algumas escavações nos registros antigos. E o que encontrei... — ela fez uma pausa, seus lábios apertando-se. — O que encontrei é preocupante. Muito preocupante.
+— Você me perguntou sobre a criança — disse S., seus olhos fixos nos de Lyris. — Sobre a herança que ela carrega. Eu fiz algumas perguntas. Fiz algumas escavações nos registros antigos. E o que encontrei... — ela fez uma pausa, seus lábios apertando-se. — O que encontrei é preocupante. Muito preocupante.
 
 — Conte-me — Lyris disse, sua postura relaxada mas seus sentidos em alerta máximo.
 
-Vaelora puxou um pequeno rolo de papel de dentro de suas vestes e o deslizou sobre a mesa até Lyris.
+S. puxou um pequeno rolo de papel de dentro de suas vestes e o deslizou sobre a mesa até Lyris.
 
 — A linhagem materna da criança vem de uma família que achávamos extinta. Os Marethyu — "Os Filhos do Mar Profundo" na língua antiga. Eram manipuladores de água, sim, mas não manipuladores comuns. Eram... sintonizados. Com as águas primordiais. Com as profundezas onde Aquaryn e Mareth ainda sussurram.
 
@@ -64,7 +64,7 @@ Lyris sentiu um arrepio percorrer sua espinha. Os Marethyu. Ela conhecia aquele 
 
 — Continue — ela disse, sua voz mais áspera do que pretendia.
 
-— O avô da criança — Vaelora continuou, seus olhos encontrando os de Lyris com uma intensidade que fez a agente aposentada estremecer — não é apenas um exilado. Ele foi **selado**. E o selo... o selo está enfraquecendo.
+— O avô da criança — S. continuou, seus olhos encontrando os de Lyris com uma intensidade que fez a agente aposentada estremecer — não é apenas um exilado. Ele foi **selado**. E o selo... o selo está enfraquecendo.
 
 ---
 
@@ -76,35 +76,31 @@ Ayla, a mãe de Grazielly, não era apenas uma guerreira talentosa que havia ser
 
 E o avô, o homem que vivia em exílio nas montanhas geladas de Cristalnor...
 
-— Ele se chamava Marethyus — Vaelora disse, sua voz um sussurro que mal alcançava os ouvidos de Lyris. — Era considerado um dos manipuladores de água mais poderosos de sua geração. Talvez o mais poderoso dos últimos quinhentos anos. Mas algo aconteceu... algo que os registros não explicam completamente.
+— Ele se chamava Marethyus — S. disse, sua voz um sussurro que mal alcançava os ouvidos de Lyris. — Era considerado um dos manipuladores de água mais poderosos de sua geração. Talvez o mais poderoso dos últimos quinhentos anos. Mas algo aconteceu... algo que os registros não explicam completamente.
 
 Lyris olhou da informante para o papel e de volta para a informante.
 
 — O que aconteceu?
 
-Vaelora hesitou, algo que Lyris raramente a havia visto fazer. Quando falou, suas palavras vieram lentas, como se estivesse escolhendo cada uma com extremo cuidado.
+S. hesitou, algo que Lyris raramente a havia visto fazer. Quando falou, suas palavras vieram lentas, como se estivesse escolhendo cada uma com extremo cuidado.
 
 — Havia uma missão. Há aproximadamente trinta anos. Uma equipe foi enviada para investigar perturbações nas águas profundas ao norte de Thalassia. Perturbações que... os estudiosos acreditavam ser sinais de atividade Nihilaryth. Marethyus era parte dessa equipe.
 
 — E?
 
-— A equipe nunca retornou. Oficialmente, todos foram dados como mortos. Mas Marethyus... Marethyus apareceu três meses depois. Sozinho. Mudado. — Os olhos de Vaelora se estreitaram. — Ele não falou sobre o que aconteceu. Recusou-se a responder às perguntas da Ordem. E então, quando tentaram forçá-lo... ele fez algo. Algo que assustou até os Mestres mais experientes.
+— A equipe nunca retornou. Oficialmente, todos foram dados como mortos. Mas Marethyus... Marethyus apareceu três meses depois. Sozinho. Mudado. — Os olhos de S. se estreitaram. — Ele não falou sobre o que aconteceu. Recusou-se a responder às perguntas da Ordem. E então, quando tentaram forçá-lo... ele fez algo. Algo que assustou até os Mestres mais experientes.
 
 Lyris sentiu seu coração acelerar. Trinta anos. Isso correspondia à idade que Ayla teria quando foi concebida. Isso significava...
 
 — Ele se exilou voluntariamente — Lyris disse, mais era mais uma pergunta que uma afirmação.
 
-— Não exatamente — Vaelora respondeu. — Ele foi **oferecido** um exílio. Uma alternativa à... outras soluções. A Ordem não confiava mais nele. Não depois do que ele mostrou ser capaz. Mas não tinham provas de traição. Então permitiram que ele escolhesse o gelo e o silêncio de Cristalnor, em vez de...
+— Não exatamente — S. respondeu. — Ele foi **oferecido** um exílio. Uma alternativa à... outras soluções. A Ordem não confiava mais nele. Não depois do que ele mostrou ser capaz. Mas não tinham provas de traição. Então permitiram que ele escolhesse o gelo e o silêncio de Cristalnor, em vez de...
 
-Vaelora não completou a frase. Não precisava. Lyris conhecia os métodos da Ordem melhor que a maioria. "Outras soluções" podia significar muitas coisas, nenhuma delas agradável.
+S. não completou a frase. Não precisava. Lyris conhecia os métodos da Ordem melhor que a maioria. "Outras soluções" podia significar muitas coisas, nenhuma delas agradável.
 
 — E a criança? Grazielly? O que isso significa para ela?
 
-— Significa — Vaelora disse, sua voz caindo para um sussurro — que ela herda não apenas o sangue Seraphyen de seu pai, mas também... algo mais. Algo das profundezas. Algo que Marethyus trouxe de volta daquela missão. E se o selo em Cristalnor está enfraquecendo... se ele está sentindo "perturbações"... pode significar que aquilo que ele encontrou nas profundezas está despertando novamente.
-
-— Há mais — Vaelora acrescentou, sua expressão ficando mais sombria. — Ouvi rumores sobre o **Sindicato do Gelo Negro**. Operações negáveis de sequestro em **Umbralis**, contratadas por intermediários que ninguém consegue rastrear. Dizem que **"O Corretor"** está envolvido — aquele que negocia vidas como mercadorias no mercado negro. Se eles souberem da existência da criança...
-
-Lyris sentiu um arrepio percorrer sua espinha. O Sindicato do Gelo Negro era uma organização sombria que operava nos limites da lei, especializada em desaparecimentos e resgates impossíveis. Se estivessem interessados em Grazielly...
+— Significa — S. disse, sua voz caindo para um sussurro — que ela herda não apenas o sangue Seraphyen de seu pai, mas também... algo mais. Algo das profundezas. Algo que Marethyus trouxe de volta daquela missão. E se o selo em Cristalnor está enfraquecendo... se ele está sentindo "perturbações"... pode significar que aquilo que ele encontrou nas profundezas está despertando novamente.
 
 ---
 
@@ -341,7 +337,7 @@ As respostas virão. Mas por enquanto, apenas saiba isto: o despertar começou. 
 |-------|--------|-------------|
 | **Thalyra** | Thalassia | Cidade costeira, sede do Festival das Águas |
 | **O Caranguejo Prateado** | Thalyra | Hospedaria onde Lyris se hospedou |
-| **Taverna sem Nome** | Thalyra | Local de encontro com Vaelora (A Sentinela) |
+| **Taverna sem Nome** | Thalyra | Local de encontro com a informante S. |
 | **Cristalnor** | Fronteira Terraxis/Umbra | Montanhas geladas onde Marethyus vive exilado |
 
 ### Graus de Contaminação Nihilaryth:

@@ -52,11 +52,7 @@ Varek sorriu novamente, tirando um pergaminho selado com a cera vermelha oficial
 
 — A burocracia da Cidade Branca é lenta, como a senhora bem deve saber — respondeu Varek com uma risada leve. — O Guardião Mestre tem focado seus esforços nas fronteiras de Pyralis, e o Sínodo da Fé tem demandado muita atenção administrativa. Pequenas vilas como Ventania acabam recebendo visitas sem aviso prévio.
 
-Lyris pegou o pergaminho. O selo era autêntico — ela reconhecia a assinatura espiritual da cera oficial, impossível de forjar sem acesso aos fornos sagrados de Sanctrum. A caligrafia era perfeita, cada linha traçada com a precisão que apenas escribas treinados por décadas conseguiam atingir. E no canto inferior, um carimbo adicional chamou sua atenção: **"Missão de Transparência Educacional — Ratificado pelo Sínodo da Palavra"**.
-
-*O Sínodo da Palavra,* ela pensou, sentindo um frio que não tinha nada a ver com temperatura. *Os vilões não apenas forjaram documentos — eles usaram a própria agência de imprensa de Sanctrum para legitimar sua infiltração.*
-
-Era uma camada de legitimidade que enganaria até mesmo Madre Elara. Varek não era apenas um tutor itinerante com documentos falsos — ele era uma missão oficial do Sínodo, pelo menos no papel. Desafiá-lo seria desafiar a palavra de Sanctrum.
+Lyris pegou o pergaminho. O selo era autêntico — ela reconhecia a assinatura espiritual da cera oficial, impossível de forjar sem acesso aos fornos sagrados de Sanctrum. A caligrafia era perfeita, cada linha traçada com a precisão que apenas escribas treinados por décadas conseguiam atingir.
 
 Mas a pulsação em sua mente, vinda das Sementes Etéricas, não parava. E agora, mais perto, ela podia sentir o que havia escapado de sua detecção inicial.
 
@@ -174,19 +170,13 @@ Em seu escritório no Palácio de Cristal, o Guardião Mestre **Aurelius** tamb�
 
 A carta estava codificada, escrita em uma caligrafia que ele reconheceria em qualquer lugar. Lyris. Sua antiga companheira de equipe. A guardiã que ele havia designado para proteger o que era mais precioso para ele.
 
-*"Minha viagem a Thalyra foi produtiva, mas não trouxe revelações significativas. O Festival das Águas decorreu sem incidentes dignos de nota. Meu contato confirmou informações que já possuíamos sobre a linhagem de Ayla — nada além do que já sabíamos. Grazielly está bem. Nada mais há a relatar."*
+*"Enfrentei infiltrado Grau 3 em Thalyra. Mensagem Nihilaryth: 'As profundezas lembram.' Viajo para Cristalnor. Algo desperta."*
 
-Aurelius leu a mensagem três vezes, cada passagem aumentando sua inquietação. Não era o conteúdo que o perturbava — era o que estava ausente. Lyris era uma das agentes mais detalhistas que ele já conhecera. Seus relatórios costumavam conter observações minuciosas, análises de padrões, avaliações de risco. Aquela carta era... vazia. Diferente.
+Aurelius leu a mensagem três vezes, cada passagem aumentando o nó em seu estômago. Lyris havia ido para Cristalnor. Para o avô. Para o segredo que Ayla havia guardado até a morte.
 
-— Você está me escondendo algo — ele murmurou, seus dedos traçando as bordas da carta. — Mas o quê?
+— Você estava escondendo algo, minha amada — ele murmurou, seus dedos traçando as bordas da carta. — Algo que você não queria que eu soubesse. Algo sobre sua família.
 
-Ele pensou em Ayla, na mulher que amara e perdido. Ela também guardava segredos — segredos sobre sua família, sobre seu passado, sobre coisas que ela nunca compartilhara nem com ele. Era um dos aspectos mais frustrantes e atraentes dela: a profundidade insondável que parecia carregar consigo.
-
-*Será que Lyris descobriu algo sobre a família de Ayla?* ele se perguntou. *Será que encontrou alguém... vivo?*
-
-O pensamento era perturbador. Aurelius havia assumido que a linhagem materna de Grazielly era um livro fechado. Ayla morrera sem revelar sua família, e os registros que ele consultara nos anos seguintes não haviam produzido nada. Se houvesse alguém vivo... alguém poderoso o suficiente para ter permanecido oculto por tanto tempo...
-
-Ele sacudiu a cabeça, afastando especulações improdutivas.
+Ele olhou para a última carta de Lyris sobre Grazielly, a que dizia que "nada de novo havia a relatar". Seus dedos traçaram o símbolo da Equipe Aurora em um medalhão escondido sob suas vestes — uma relíquia de tempos mais simples, quando eram apenas um time de guerreiros lutando pelo bem.
 
 — Você está guardando segredos, Lyris — murmurou o GM para as paredes vazias. — Ou os inimigos estão ficando mais espertos do que nós dois juntos.
 
@@ -354,7 +344,7 @@ No próximo capítulo, veremos mais sobre os planos de Varek, a reação de Aure
 |------|--------|-------------|
 | **Varek** | Tutor Itinerante de História (disfarce) | Infiltrado Umbra Grau 3 |
 | **Mestra Vaelora** | A Sentinela | Membro do Conselho Funcional, vigilância global |
-| **Madre Elara** | Administradora do Orfanato | Dedicou décadas ao cuidado dos órfãos |
+| **Madre Elara** | Administradora do Orfanato | Substituta de Madre Elara original |
 
 ### Lugares Mencionados:
 

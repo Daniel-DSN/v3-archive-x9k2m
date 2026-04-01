@@ -40,7 +40,7 @@ Grazielly franziu a testa, confusa.
 
 Ela inclinou-se, iniciando a lição fundamental sobre a alma de Alyndra:
 
-— Nós não adoramos deuses feitos de carne ou luz, Grazielly. **Ilyos**, a Filha da Luz, nos ensinou que fomos todos moldados pela Vontade Pura — uma consciência que abdicou de sua forma para se tornar as leis que mantêm os reinos unidos. Ela não é uma entidade que pede orações; é a estrutura que permite que você respire. A Vontade Pura é a **causalidade primordial** — o tecido que conecta causa e efeito, a fundação sobre a qual toda realidade se ergue. Por isso, Ilyos ensinou que **nenhum ser é digno de adoração** — pois todos, até mesmo os Seraphyens, são apenas manifestações da mesma estrutura fundamental.
+— Nós não adoramos deuses feitos de carne ou luz, Grazielly. **Ilyos**, a Filha da Luz, nos ensinou que fomos todos moldados pela Vontade Pura — uma consciência que abdicou de sua forma para se tornar as leis que mantêm os reinos unidos. Ela não é uma entidade que pede orações; é a estrutura que permite que você respire. Por isso, Ilyos ensinou que **nenhum ser é digno de adoração**.
 
 — Nem mesmo os Seraphyens? — Grazielly perguntou, seus olhos grandes buscando compreensão. — Nem mesmo a senhora que eu vi no sonho?
 
@@ -210,8 +210,6 @@ E de suas mãos, finalmente liberadas do controle que ela havia mantido por tant
 
 Não era o azul claro do gelo comum. Era mais profundo — a cor da lua **Nyx** em sua fase mais misteriosa, o azul das profundezas oceânicas onde a luz de Aurion nunca alcançava. Era a herança dos **Marethyu**, os Filhos do Mar Profundo, manifestando-se pela primeira vez em cinco anos de vida contida.
 
-Este não era gelo comum — era **Cryonys Primordial**, uma fusão de Água e Vento que carregava em sua estrutura as memórias de eras anteriores à fundação de Nova Aetherion. O gelo pulsava como uma "assinatura de sangue", respondendo não apenas à vontade de Grazielly, mas às águas antigas que haviam sido seladas no **Cristal de Mytha** milênios antes. Era um poder que os próprios Seraphyens haviam temido — a capacidade de congelar não apenas matéria, mas o próprio fluxo do Aethra.
-
 Os espinhos ergueram-se como uma barreira viva entre Grazielly e Dorian — não como arma, mas como escudo. Protegendo-a. Protegendo Mira. Protegendo Tomas.
 
 Dorian parou no último instante, seus olhos arregalados de choque.
@@ -368,9 +366,7 @@ E a revelação de poder significava que outros viriam. De Sanctrum. De Umbra. D
 
 ---
 
-*Em **Cristalnor**, nas montanhas onde o gelo nunca derretia, Marethyus abriu os olhos.
-
-O gelo de sua neta havia despertado. Ele sentiu a reverberação em seu próprio selo — o **Selo de Marethyus** que a Ordem havia construído para contê-lo após os eventos que o forçaram ao exílio há trinta anos. A primeira camada do selo tremeu, não porque ele estivesse tentando quebrá-lo, mas porque o sangue de seu sangue havia tocado algo que resonava com sua própria essência.*
+*Em Cristalnor, Marethyus abriu os olhos.*
 
 *O gelo de sua neta havia despertado. Ele sentiu a reverberação em seu próprio selo, a conexão de sangue que transcendia distância.*
 

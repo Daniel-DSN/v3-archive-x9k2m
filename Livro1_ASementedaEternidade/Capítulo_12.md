@@ -24,15 +24,13 @@ O **Pilar da Mente** era uma das seis categorias fundamentais de manipulação e
 
 Através da técnica de **Ressonância Passiva**, ele podia sentir as assinaturas emocionais das crianças ao seu redor sem tocá-las diretamente — sem sequer olhar para elas. Era como ouvir música através de paredes: não se via os instrumentos, mas podia-se distinguir a melodia, o ritmo, as dissonâncias.
 
-A técnica era uma das mais sutis do Pilar da Mente. Diferente da leitura mental invasiva — que deixava rastros detectáveis — ela funcionava como uma antena invisível, captando apenas as frequências emocionais que as próprias crianças irradiavam naturalmente. Era impossível de detectar sem equipamento especializado de Sanctrum, e mesmo assim, apenas se o operador soubse exatamente o que procurar. Varek havia desenvolvido esta capacidade ao longo de três décadas, refinando-a até o ponto em que podia sentir a diferença entre trauma antigo cicatrizado e feridas ainda abertas — como distinguir entre uma cicatriz fechada e um corte ainda sangrando.
-
 *Vamos ver o que temos aqui,* ele pensou, sua consciência expandindo-se como névoa invisível.
 
-A primeira menina que ele percebeu — Mira, dez anos, afinidade com Terra — era um fluxo constante de cuidado maternal. Suas emoções eram terra fértil: estáveis, nutritivas, mas com raízes profundas em perdas antigas. Varek sentiu o luto enterrado sob sua alegria superficial, a memória de pais mortos por ladrões em uma vila de especiarias no sul de **Pyralis**, perto das **Forjas Primordiais** onde o fogo elemental havia sido domado pela primeira vez. Uma ferida cicatrizada, mas ainda sensível ao toque. A menina carregava a ressonância térmica de sua terra natal — um calor que o gelo de Ventania nunca conseguira apagar completamente.
+A primeira menina que ele percebeu — Mira, dez anos, afinidade com Terra — era um fluxo constante de cuidado maternal. Suas emoções eram terra fértil: estáveis, nutritivas, mas com raízes profundas em perdas antigas. Varek sentiu o luto enterrado sob sua alegria superficial, a memória de pais mortos por ladrões em um país distante de especiarias. Uma ferida cicatrizada, mas ainda sensível ao toque.
 
 *Não,* Varek avaliou. *Ela é muito protegida pelo amor dos outros. Difícil de isolar.*
 
-O segundo menino — Tomas, sete anos, afinidade com Água — era mais translúcido emocionalmente. Suas emoções fluíam como água de rio: claras, previsíveis, mas profundas em alguns pontos onde o trauma havia escavado leitos invisíveis. A morte de sua família em um incêndio havia deixado uma marca de medo latente, uma necessidade de segurança que ele buscava constantemente no grupo de amigos. Varek sentiu nele a ressonância de **Thalassia** — o reino das águas onde os mergulhadores das profundezas ainda falavam de lendas antigas sobre os Filhos do Mar Primordial.
+O segundo menino — Tomas, sete anos, afinidade com Água — era mais translúcido emocionalmente. Suas emoções fluíam como água de rio: claras, previsíveis, mas profundas em alguns pontos onde o trauma havia escavado leitos invisíveis. A morte de sua família em um incêndio havia deixado uma marca de medo latente, uma necessidade de segurança que ele buscava constantemente no grupo de amigos.
 
 *Melhor, mas ainda conectado demais à menina Mira. Eles se protegem mutuamente.*
 
@@ -57,8 +55,6 @@ Mas Varek não precisava enfrentar Lyris diretamente. Ele só precisava encontra
 *Ou alguém que pudesse ser manipulado para criar uma distração.*
 
 Ele fechou os olhos, concentrando-se em Dorian. Através da técnica de **Sussurro Inserido** — uma aplicação avançada do Pilar da Mente que permitia plantar pensamentos na consciência de alvos vulneráveis — Varek começou seu trabalho.
-
-Era considerada uma técnica proibida pelo Círculo de Cristal — não porque fosse especialmente destrutiva, mas porque era virtualmente indetectável. Diferente de uma sugestão hipnótica, que podia ser quebrada com força de vontade, o Sussurro se integrava à psique do alvo como se fosse memória genuína. A vítima não apenas acreditava nos pensamentos plantados — ela os reconhecia como seus, com toda a força emocional de experiências realmente vividas. O único sinal visível era uma mudança gradual de comportamento, lenta o suficiente para parecer progresso natural.
 
 *Você a viu, não viu?* a voz mental de Varek deslizou para a mente de Dorian como fumaça sob uma porta. *A forma como Lyris a protege. O tratamento especial. Os segredos.*
 
@@ -172,7 +168,7 @@ Aurelius sentiu o peso de suas palavras. A Anciã da Memória não estava apenas
 
 Mas Aurelius havia aprendido com os melhores. Anos de esconder sua relação com Ayla, décadas de proteger segredos que poderiam destruir tudo o que ele havia construído. Ele havia se tornado um mestre em mentir com a verdade.
 
-— As energias primordiais estão em fluxo — ele disse, e não era mentira. — A Convergência Tripla que ocorreu há cinco anos ainda está reverberando através dos planos. Crianças nascidas sob aquela luz carregam marcações espirituais que não vemos há eras. — Ele fez uma pausa calculada. — Não é impossível que Marethyus tenha sentido essa reverberação. Os registros indicam que a Água Sombra sempre foi... sensível... a certos padrões espirituais.
+— As energias primordiais estão em fluxo — ele disse, e não era mentira. — A Convergência Tripla que ocorreu há cinco anos ainda está reverberando através dos planos. Crianças nascidas sob aquela luz carregam marcações espirituais que não vemos há eras. — Ele fez uma pausa calculada. — Não é impossível que Marethyus tenha sentido essa reverberação. Ele sempre foi... sensível... a certos padrões.
 
 O Ancião da Luz estudou-o por um momento longo demais.
 
