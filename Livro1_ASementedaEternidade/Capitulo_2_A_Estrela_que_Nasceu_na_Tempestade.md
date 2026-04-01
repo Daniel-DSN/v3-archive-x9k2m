@@ -112,6 +112,16 @@ E agora, a sétima Convergência Tripla em toda a história registrada estava oc
 
 Em torres de observação de Fulmora, sábios murmuravam sobre renascimentos. Em templos de Thalassia, sacerdotisas realizavam rituais de bênção para crianças que nascessem naquela noite. Em bibliotecas de Terraxis, estudiosos comparavam registros antigos tentando discernir padrões. Em Sanctrum, o Conselho dos 10 discutia implicações políticas.
 
+E foi em Sanctrum que a primeira **Falsa Verdade** foi forjada.
+
+O **Sínodo da Palavra** — a agência de imprensa oficial subordinada ao assento de Informação de Mestra Selina Thalassa — emitiu um boletim urgente naquela mesma noite: *"A Convergência Tripla é um evento astronômico de interesse puramente acadêmico. Não há evidências de consequências biológicas ou espirituais associadas. A população deve manter suas rotinas normais."*
+
+A declarção era tecnicamente verdadeira. Mas omitia algo vital: que crianças nasciam naquela noite com brilhos sob a pele, que a tempestade sobre Mespiria não tinha origem natural, que o universo estava marcando herdeiros de linhagens antigas. Era uma **Falsa Verdade** — verdade desprovida de contexto, precisão sem significado, informação que informava nada.
+
+Em um escritório modesto nos quadros inferiores do Sínodo, um jovem redator chamado **Vaelen Echos** teve seu artigo sobre "Nascimentos Incomuns sob a Convergência" barrado pela censura. Ele observou seu texto ser carimbado com "NÃO APROVADO PARA CIRCULAÇÃO" e se perguntou por que Sanctrum estava tão determinado a escondar algo que nem sequer parecia perigoso.
+
+*O que estão escondendo?* ele pensou, arquivando o artigo rejeitado em uma gaveta que um dia se tornaria um arquivo de perguntas perigosas. *E por que têm tanto medo que o público saiba?*
+
 E em uma pequena vila chamada Mespiria, nos confins do sudoeste de Serravento, uma mulher chamada Ayla entrava em trabalho de parte — uma guerreira que havia sobrevivido a batalhas, uma amante que havia amado em segredo, uma mãe que daria sua vida para que sua filha pudesse viver.
 
 O universo, em sua sabedoria infinita, havia escolhido aquele momento para marcar o nascimento de alguém que carregava em suas veias o sangue de duas linhagens extraordinárias — a linhagem dos Seraphyens através de seu pai, a linhagem dos primeiros povos através de sua mãe. Uma criança destinada a mudar o curso da história, embora ninguém naquela noite soubesse ainda o quanto.

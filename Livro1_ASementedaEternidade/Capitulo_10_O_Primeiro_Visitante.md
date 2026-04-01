@@ -52,7 +52,11 @@ Varek sorriu novamente, tirando um pergaminho selado com a cera vermelha oficial
 
 — A burocracia da Cidade Branca é lenta, como a senhora bem deve saber — respondeu Varek com uma risada leve. — O Guardião Mestre tem focado seus esforços nas fronteiras de Pyralis, e o Sínodo da Fé tem demandado muita atenção administrativa. Pequenas vilas como Ventania acabam recebendo visitas sem aviso prévio.
 
-Lyris pegou o pergaminho. O selo era autêntico — ela reconhecia a assinatura espiritual da cera oficial, impossível de forjar sem acesso aos fornos sagrados de Sanctrum. A caligrafia era perfeita, cada linha traçada com a precisão que apenas escribas treinados por décadas conseguiam atingir.
+Lyris pegou o pergaminho. O selo era autêntico — ela reconhecia a assinatura espiritual da cera oficial, impossível de forjar sem acesso aos fornos sagrados de Sanctrum. A caligrafia era perfeita, cada linha traçada com a precisão que apenas escribas treinados por décadas conseguiam atingir. E no canto inferior, um carimbo adicional chamou sua atenção: **"Missão de Transparência Educacional — Ratificado pelo Sínodo da Palavra"**.
+
+*O Sínodo da Palavra,* ela pensou, sentindo um frio que não tinha nada a ver com temperatura. *Os vilões não apenas forjaram documentos — eles usaram a própria agência de imprensa de Sanctrum para legitimar sua infiltração.*
+
+Era uma camada de legitimidade que enganaria até mesmo Madre Elara. Varek não era apenas um tutor itinerante com documentos falsos — ele era uma missão oficial do Sínodo, pelo menos no papel. Desafiá-lo seria desafiar a palavra de Sanctrum.
 
 Mas a pulsação em sua mente, vinda das Sementes Etéricas, não parava. E agora, mais perto, ela podia sentir o que havia escapado de sua detecção inicial.
 

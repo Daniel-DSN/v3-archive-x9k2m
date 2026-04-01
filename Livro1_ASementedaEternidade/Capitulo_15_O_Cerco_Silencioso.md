@@ -66,6 +66,16 @@ Não era mais o Tutor Itinerante benevolente. Não era mais o burocrata sorriden
 
 Lyris parou no último degrau da escada, sentindo o chão desaparecer sob seus pés.
 
+Varek notou sua presença e sorriu — não com maldade, mas com a satisfação profissional de alguém que havia preparado cada detalhe. Ele ergueu a mão esquerda, e de suas vestes retirou um pequeno cristal de projeção que começou a pulsar com luz âmbar.
+
+— Mas não precisam confitar apenas em minha palavra — ele disse, ativando o cristal. Uma imagem holográfica se materializou no ar, mostrando o selo oficial do **Sínodo da Palavra** e, abaixo dele, um documento intitulado **"INFORMATIVO URGENTE: Avaliação de Risco Psicológico — Tutora Lyris de Ventania"**.
+
+— O Sínodo da Palavra emitiu este alerta ontem — Varek anunciou, sua voz assumindo o tom grave de quem comunicava uma tragédia oficial. — A agência de imprensa de Sanctrum detectou padrões preocupantes nos relatórios regionais. Isolamento de pupilos. Treinamento não autorizado. Hostilidade a visitantes oficiais. A recomendação é clara: supervisão externa imediata.
+
+O holograma exibia trechos do documento, cada um carimbado com selos de autenticidade do Olho de Aurion. Era um **Vírus Social** em sua forma mais perfeita — não uma mentira, mas uma narrativa construída com fragmentos de verdade arrancados de contexto, apresentada através do canal oficial que a população havia sido treinada a confiar.
+
+— O Sínodo não mente — um dos funcionários murmurou, seus olhos fixos na projeção. — Se eles estão dizendo isso...
+
 — Que comportamentos? — Madre Elara perguntou, sua voz trêmula. — Lyris sempre foi tão dedicada...
 
 — É justamente isso o problema — Varek interrompeu suavemente. — Dedicação excessiva. A senhora não notou como ela isolou a menina Grazielly? Como ela a treina em segredo, longe dos olhos dos outros? Como ela reage com hostilidade a qualquer pessoa que se aproxime?

@@ -472,6 +472,68 @@ E seu pai não podia fazer nada além de confiar naqueles que havia escolhido pa
 
 ---
 
+## A Narrativa Oficial
+
+Antes de Aurelius partir para enfrentar o Círculo, ele e Selina tiveram uma última conversa — não sobre conspirações ou conspiradores, mas sobre a única coisa que importava mais que qualquer segredo: a história que o mundo acreditaria.
+
+— O Sínodo da Palavra precisa de uma versão oficial — Selina disse, sua voz baixa enquanto caminhavam por um corredor secundário do Palácio. — O sequestro foi público demais. O orfanato tem testemunhas. Quatro crianças foram resgatadas. Sete desapareceram. Isso não pode ser varrido para baixo do tapete.
+
+— O que você sugere? — Aurelius perguntou, já sabendo a resposta.
+
+Selina hesitou por um momento, calculando os custos e benefícios de cada palavra.
+
+— Eu sugiro... que Grazielly seja classificada como **Silentis**. Alguém que perdeu sua conexão com o Aethra. Uma "inválida espiritual".
+
+Aurelius sentiu o peso da sugestão. Silentis eram tratados com pena em Nova Aetherion — não com medo, não com reverência, mas com uma condescendência que os tornava invisíveis. Para o mundo, uma Silentis não era uma ameaça. Não era um alvo. Era apenas... ninguém.
+
+— Você quer que eu minta para o mundo — ele disse, sua voz sem acusação.
+
+— Eu quero que você a proteja — Selina respondeu firmemente. — Se o Sínodo souber que ela é uma Cryonys Primordial, filha de um Seraphyen, neta de Marethyus... cada facção política vai querer controlá-la. O melhor disfarce para uma herdeira não é uma fortaleza — é ser esquecida.
+
+Aurelius assentiu lentamente. Era uma **Falsa Verdade** — a ferramenta que ele e Selina haviam usado por décadas para proteger segredos que não podiam ser revelados.
+
+— Faça isso — ele disse. — Emita o comunicado. Grazielly é uma Silentis. Uma criança comum que perdeu seu Aethra em um incidente traumático. Nada de especial. Nada para ver.
+
+— E as outras crianças?
+
+— Vítimas colaterais. O Sindicato do Gelo Negro buscando corpos para vender. Nada que conecte aos Nihilaryth. Nada que sugira que o sequestro tinha um propósito maior.
+
+Selina assentiu, sua expressão carregada do peso de uma mentira que salvaria vidas.
+
+— Eu vou redigir a nota do Sínodo pessoalmente — ela disse. — E vou garantir que seja convincente.
+
+---
+
+## O Repórter Inquisitivo
+
+Enquanto Selina Thalassa redigia a narrativa oficial que transformaria Grazielly em uma "inválida espiritual", outro tipo de verdade estava sendo perseguida nas ruas de Serravento.
+
+**Vaelen Echos** — o mesmo jovem redator que tivera seu artigo barrado seis anos antes — agora era um repórter investigativo independente, colaborando com pequenos boletins regionais que o Sínodo da Palavra não controlava completamente. Ele havia chegado a Ventania três dias após o incidente, atraído por rumores de um sequestro massivo que as versões oficiais não explicavam satisfatoriamente.
+
+Ele estava diante do Orfanato das Asas, observando a fonte central do jardim. A água havia se congelado — mas não em gelo branco comum. Era **preto profundo**, uma sombra solidificada que parecia absorver luz em vez de refleti-la.
+
+— Interessante — murmurou ele, tirando um pequeno caderno de anotações. — O comunicado oficial diz que a criança sequestrada é uma Silentis. Inválida espiritual. Sem Aethra.
+
+Ele tocou a superfície do gelo negro, sentindo um frio que não era apenas físico — algo que parecia vir de muito mais fundo, de um lugar onde a própria essência da existência havia sido tocada.
+
+— Então por que — ele continuou, escrevendo em seu caderno — o gelo da fonte é preto como as profundezas do oceano? Por que não derreteu após três dias de sol? E por que os cristais de Aethra ao redor ainda pulsam como se algo poderoso tivesse passado por aqui?
+
+Ele olhou para o documento oficial que conseguira obter — uma cópia do comunicado do Sínodo da Palavra, selado e assinado, declarando Grazielly como "Silentis confirmada, sem afinidade elemental detectável".
+
+Era uma **Falsa Verdade**. Vaelen sabia reconhecer uma — ele havia visto outras antes, em seus seis anos perseguindo histórias que Sanctrum preferia manter enterradas.
+
+*A questão não é o que estão escondendo,* ele pensou, fotografando o gelo negro com um pequeno cristal de registro. *A questão é: por que precisam esconder tanto? O que essa criança realmente é?*
+
+Ele guardou o caderno e se preparou para partir. Teria que investigar discretamente — o Sínodo da Palavra não gostava de repórteres que faziam perguntas perigosas.
+
+Mas Vaelen Echos havia descoberto, há muito tempo, que as histórias mais importantes eram exatamente aquelas que alguém não queria que ele contasse.
+
+*Silentis,* ele pensou com um sorriso irônico. *Claro. E eu sou um Fulmoriano sem faísca.*
+
+A investigação estava apenas começando.
+
+---
+
 ## O Fim do Vale
 
 Lyris finalmente emergiu do Vale dos Ecos Silenciados quando o segundo sol de Aurion começava sua ascensão.
