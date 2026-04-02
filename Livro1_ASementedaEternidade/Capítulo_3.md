@@ -26,7 +26,7 @@ Os quatro primeiros anos da vida de Grazielly foram, aos olhos de qualquer obser
 
 Ela aprendia rápido — mais rápido do que qualquer criança que Melessa havia visto em suas décadas como parteira e, mais tarde, como cuidadora de outras crianças órfãs que haviam passado por Mespiria ao longo dos anos. Quando outras crianças de sua idade ainda lutavam para articular palavras simples, Grazielly já formava frases completas, já fazia perguntas que faziam os adultos ao seu redor piscarem em surpresa, já demonstrava uma compreensão do mundo que parecia além de sua idade.
 
-— Por que o vento sopra, vó Melessa? — ela perguntou certa vez, sentada na varanda da casa de pedra, seus olhos castanhos fixos nas copas das árvores que ondulavam ao longe. Aos seus pés, um pequeno ventorro de pelos prateados dormia enrolado como um cobertor macio, sua cauda fofa cobrindo o focinho.
+— Por que o vento sopra, vó Melessa? — ela perguntou certa vez, sentada na varanda da casa de pedra, seus olhos castanhos fixos nas copas das árvores que ondulavam ao longe.
 
 Melessa, que havia se acostumado com as perguntas incomuns da neta adotiva, sorriu enquanto continuava a separar vagens-luminais, leguminosas de sementes doces que brilhavam levemente por dentro, para o jantar.
 
@@ -48,7 +48,7 @@ Melessa parou de separar as vagens por um momento, seus olhos velhos encontrando
 
 Grazielly sorriu, aquele sorriso que iluminava seu rosto como o amanhecer iluminava os campos de Mespiria. E Melessa sentiu, mais uma vez, o peso da promessa que havia feito a Ayla — a promessa de que aquela criança teria amor, teria família, teria um lar.
 
-*Eu cumpri minha promessa, Ayla,* ela pensou, voltando a separar as vagens enquanto Grazielly corria pelo quintal, perseguindo asas-de-veludo, pequenas criaturas aladas de cores vivas que flutuavam no ar como pétalas em dança, com Nyx saltitando ao seu lado, suas orelhas grandes captando cada sussurro do vento. *Ela é amada. Ela é feliz. Ela está crescendo em paz.*
+*Eu cumpri minha promessa, Ayla,* ela pensou, voltando a separar as vagens enquanto Grazielly corria pelo quintal, perseguindo asas-de-veludo, pequenas criaturas aladas de cores vivas que flutuavam no ar como pétalas em dança. *Ela é amada. Ela é feliz. Ela está crescendo em paz.*
 
 Mas mesmo enquanto pensava isso, uma sombra passou pelo coração da velha parteira — a sombra de algo que ela não queria enfrentar, a sombra de uma verdade que ela sabia que eventualmente precisaria aceitar.
 
@@ -250,7 +250,7 @@ Lyris olhou para o céu, onde nuvens escuras se acumulavam no horizonte norte. O
 
 — Precisamos partir agora — disse Lyris, sua voz ganhando uma urgência que não escapou a Grazielly. — Há uma tempestade vindo do norte. Se não chegarmos a Ventania antes que ela alcance a estrada, ficaremos presas aqui por dias.
 
-Grazielly assentiu, entendendo a urgência. Ela correu para dentro da casa de pedra e retornou segundos depois com uma pequena bolsa de tecido — roupas, uma boneca, um desenho, um cristal. Ela não teve tempo de procurar mais nada. Não teve tempo de checar o quintal onde Nyx costumava brincar. A urgência da partida não permitiu.
+Grazielly assentiu, entendendo a urgência. Ela correu para dentro da casa de pedra e retornou segundos depois com uma pequena bolsa de tecido — roupas, uma boneca, um desenho, um cristal. Ela não teve tempo de procurar mais nada. A urgência da partida não permitiu.
 
 Lyris estendeu a mão, e Grazielly a tomou sem hesitar. Juntas, as duas se afastaram do cemitério onde Melessa agora descansava ao lado de Ayla, deixando para trás a pequena casa de pedra que havia sido lar, os campos de Aethrum-dourado que haviam sido playground, os vizinhos que haviam sido família extendida.
 
