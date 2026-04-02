@@ -76,13 +76,13 @@ A primeira Convergência, segundo os registros mais antigos das Cavernas Ancestr
 
 A segunda Convergência marcara a descoberta dos cristais Aetheris nas profundezas de Terraxis, minas que haviam revolucionado a tecnologia de Nova Aetherion e permitido que a civilização alcançasse alturas que antes eram impossíveis. Com os cristais, cidades flutuaram, curas foram descobertas, comunicação se tornou instantânea. Foi uma era de ouro que prometia prosperidade eterna.
 
-Mas foi a terceira Convergência que marcou o evento mais sangrento da história — a queda do Tirano Kaelthor. O terceiro Guardião Mestre havia nascido sob um céu tempestuoso, um prodígio como o mundo jamais vira: sua afinidade com fogo e relâmpago se fundia em uma habilidade única de gerar explosões devastadoras. Por décadas, ele foi benevolente e justo, amado por todos os reinos. Mas a corrupção dos Nihilaryth encontrou nele uma presa perfeita, e o herói se transformou em um demônio que queimou cidades inteiras e matou milhões. A Guerra das Cinzas, como ficou conhecida, quase destruiu Nova Aetherion completamente.
+Mas foi a terceira Convergência que marcou o evento mais sangrento da história — a queda do Tirano Kaelthor. O terceiro Guardião Mestre havia nascido sob um céu tempestuoso, um prodígio como o mundo jamais vira: sua afinidade com fogo e relâmpago se fundia em uma habilidade única de gerar explosões devastadoras. Por sessenta ciclos de Aurion, ele foi benevolente e justo, amado por todos os reinos. Mas o medo da morte o consumiu quando sentiu os primeiros fios prateados em sua barba, e em sua loucura, buscou nos ritos proibidos dos Nihilaryth uma forma de transcender a mortalidade. O que encontrou não foi a vida eterna, mas a corrupção absoluta — e o herói se transformou em um demônio que queimou cidades inteiras e matou milhões. A Guerra das Cinzas, como ficou conhecida, estendeu-se por mais cinquenta e sete ciclos, devastando Nova Aetherion quase além de qualquer esperança de recuperação.
 
 Três heróis se levantaram contra o tirano: **Valerius**, o Vulcão de Pyralis, cujo domínio sobre fogo rivalizava com o do próprio Kaelthor; **Myrella**, a Maré de Thalassia, cujo controle sobre água conseguia apagar até as explosões mais devastadoras; e **Theron**, o Pilar de Terraxis, cujo domínio sobre terra ergueu muralhas que nem as bombas do tirano conseguiam romper. Juntos, os Três Vingadores travaram uma batalha que durou sete dias e sete noites, e na noite em que as três luas se alinharam, finalmente derrotaram Kaelthor ao custo de grande parte de seus próprios poderes.
 
-A quarta Convergência — a penúltima antes desta noite — marcara o renascimento de Nova Aetherion das cinzas da tirania. Sanctrum foi fundada como capital de um reino unificado, onde todos os Sete Reinos viveriam em paz sob a proteção de uma nova Ordem. Valerius, o mais carismático dos três heróis, se tornou o primeiro Guardião Mestre da Nova Aetherion, estabelecendo uma linhagem que perduraria até os dias atuais. Foi o início da Era da Luz, um tempo de paz e reconstrução que duraria gerações.
+A quarta Convergência — a penúltima antes desta noite — marcara o renascimento de Nova Aetherion das cinzas da tirania. Sanctrum foi fundada como capital de um reino unificado, onde todos os Sete Reinos viveriam em paz sob a proteção de uma nova Ordem. Valerius, o mais carismático dos três heróis, se tornou o primeiro Guardião Mestre da Nova Aetherion, estabelecendo uma linhagem que perduraria até os dias atuais — trinta e três Guardiões Mestres haviam servido desde Valerius até Aurelius, cada um carregando o peso de proteger os reinos. Foi o início da Era da Luz, um tempo de paz e reconstrução que duraria gerações.
 
-Mas a história tem ciclos, e a corrupção jamais dorme verdadeiramente. A quinta Convergência — apenas algumas décadas atrás — marcara a queda de Théssaly, antecessor de Aurelius, que havia sido corrompido pelos Nihilaryth assim como Kaelthor séculos antes. Diferentemente do Tirano, porém, Théssaly foi deposto antes que pudesse causar destruição em escala comparável. Ainda assim, a Ordem vacilou, e Aurelius ascendeu ao cargo de Guardião Mestre em tempos de incerteza e desconfiança.
+Mas a história tem ciclos, e a corrupção jamais dorme verdadeiramente. A quinta Convergência — apenas algumas décadas atrás — marcara a queda de Théssaly, o trigésimo segundo Guardião Mestre, que havia sido corrompido pelos Nihilaryth assim como Kaelthor eras antes. Diferentemente do Tirano, porém, Théssaly foi deposto antes que pudesse causar destruição em escala comparável. Ainda assim, a Ordem vacilou, e Aurelius ascendeu ao cargo de trigésimo terceiro Guardião Mestre em tempos de incerteza e desconfiança.
 
 E agora, a sexta Convergência Tripla em toda a história registrada estava ocorrendo — uma noite onde Lyria, Nyx e Elara dançavam juntas no céu, suas luzes combinadas pintando o mundo em tons de prata, azul e rosa, suas energias entrelaçadas marcando um momento que os astrólogos sabiam ser significativo, embora não pudessem prever exatamente o que significava.
 
@@ -486,11 +486,12 @@ Ayla partiu. Mas seu amor permanece — em Melessa que criará sua filha, em Aur
 
 | Nome | Título | História |
 |------|--------|----------|
-| **Kaelthor** | O Tirano | 3º GM; prodígio de fogo e relâmpago; corrompido; matou milhões |
+| **Kaelthor** | O Tirano (3º GM) | Prodígio de fogo+relâmpago; aos 60 ciclos buscou imortalidade; corrompido; Guerra das Cinzas durou 57 ciclos |
 | **Valerius** | O Vulcão de Pyralis | Herói; 1º GM da Nova Aetherion |
 | **Myrella** | A Maré de Thalassia | Heroína; mestra da água |
 | **Theron** | O Pilar de Terraxis | Herói; mestre da terra |
-| **Théssaly** | GM Anterior | Corrompido pelos Nihilaryth; deposto por Aurelius |
+| **Théssaly** | 32º GM | Corrompido pelos Nihilaryth; deposto |
+| **Aurelius** | 33º GM | Atual Guardião Mestre; pai secreto de Grazielly |
 
 ### Lugares Visitados:
 
