@@ -68,23 +68,23 @@ Ele não sabia que naquele exato momento, em uma pequena vila nos arredores de Z
 
 ## A Convergência Tripla
 
-Em observatórios espalhados por todos os reinos, astrólogos e estudiosos observavam o céu com uma mistura de temor e fascínio. A Convergência Tripla — o alinhamento de Lyria, Nyx e Elara em um único ponto do céu — era um fenômeno tão raro que apenas sete haviam sido registrados em toda a história de Nova Aetherion.
+Em observatórios espalhados por todos os reinos, astrólogos e estudiosos observavam o céu com uma mistura de temor e fascínio. A Convergência Tripla — o alinhamento de Lyria, Nyx e Elara em um único ponto do céu — era um fenômeno tão raro que apenas cinco haviam sido registrados em toda a história de Nova Aetherion antes desta noite, cada um separado por séculos de Transformação.
 
 E cada um deles havia marcado um evento de importância cósmica.
 
-A primeira Convergência, segundo os registros mais antigos das Cavernas Ancestrais de Terraxis, ocorrera no momento em que o último Seraphyen morreu — quando Ventus se dissipou nos ventos, selando com seu sacrifício a era dos deuses que caminhavam entre os mortais. As luas haviam brilhado juntas enquanto uma era terminava e outra começava.
+A primeira Convergência, segundo os registros mais antigos das Cavernas Ancestrais de Terraxis, ocorrera no momento em que o último Seraphyen morreu — quando Ventus se dissipou nos ventos, selando com seu sacrifício a era dos deuses que caminhavam entre os mortais. As luas haviam brilhado juntas enquanto uma era terminava e outra começava, e as cicatrizes da Primeira Guerra começaram lentamente a cicatrizar.
 
-A segunda Convergência marcara a fundação de Sanctrum, quando os sete reinos finalmente se uniram sob um governo central após séculos de guerras civis que ameaçaram destruir tudo que os Seraphyens haviam construído. Naquela noite, os líderes dos reinos haviam assinado o Grande Pacto sob a luz das três luas, jurando paz eterna que, embora nunca perfeita, havia permitido que a civilização florescesse.
+A segunda Convergência marcara a descoberta dos cristais Aetheris nas profundezas de Terraxis, minas que haviam revolucionado a tecnologia de Nova Aetherion e permitido que a civilização alcançasse alturas que antes eram impossíveis. Com os cristais, cidades flutuaram, curas foram descobertas, comunicação se tornou instantânea. Foi uma era de ouro que prometia prosperidade eterna.
 
-A terceira Convergência registrada coincidira com a fundação da Ordem dos Mestres, quando os primeiros guardiões se reuniram para proteger o conhecimento e a paz dos reinos. Naquela noite, os Sete Fundadores juraram seu compromisso sob a luz das três luas, estabelecendo a estrutura que perduraria por milênios.
+Mas foi a terceira Convergência que marcou o evento mais sangrento da história — a queda do Tirano Kaelthor. O terceiro Guardião Mestre havia nascido sob um céu tempestuoso, um prodígio como o mundo jamais vira: sua afinidade com fogo e relâmpago se fundia em uma habilidade única de gerar explosões devastadoras. Por décadas, ele foi benevolente e justo, amado por todos os reinos. Mas a corrupção dos Nihilaryth encontrou nele uma presa perfeita, e o herói se transformou em um demônio que queimou cidades inteiras e matou milhões. A Guerra das Cinzas, como ficou conhecida, quase destruiu Nova Aetherion completamente.
 
-A quarta marcara a descoberta dos cristais Aetheris nas profundezas de Terraxis, minas que haviam revolucionado a tecnologia de Nova Aetherion e permitido que a civilização alcançasse alturas que antes eram impossíveis. Com os cristais, cidades flutuaram, curas foram descobertas, comunicação se tornou instantânea.
+Três heróis se levantaram contra o tirano: **Valerius**, o Vulcão de Pyralis, cujo domínio sobre fogo rivalizava com o do próprio Kaelthor; **Myrella**, a Maré de Thalassia, cujo controle sobre água conseguia apagar até as explosões mais devastadoras; e **Theron**, o Pilar de Terraxis, cujo domínio sobre terra ergueu muralhas que nem as bombas do tirano conseguiam romper. Juntos, os Três Vingadores travaram uma batalha que durou sete dias e sete noites, e na noite em que as três luas se alinharam, finalmente derrotaram Kaelthor ao custo de grande parte de seus próprios poderes.
 
-A quinta Convergência marcara a assinatura do Tratado das Águas, quando Thalassia e os reinos continentais finalmente resolveram disputas milenares sobre rotas marítimas e direitos de pesca. Um acordo de paz que permitira que o comércio florescesse sem impedimentos por gerações, trazendo prosperidade a todos os Sete Reinos.
+A quarta Convergência — a penúltima antes desta noite — marcara o renascimento de Nova Aetherion das cinzas da tirania. Sanctrum foi fundada como capital de um reino unificado, onde todos os Sete Reinos viveriam em paz sob a proteção de uma nova Ordem. Valerius, o mais carismático dos três heróis, se tornou o primeiro Guardião Mestre da Nova Aetherion, estabelecendo uma linhagem que perduraria até os dias atuais. Foi o início da Era da Luz, um tempo de paz e reconstrução que duraria gerações.
 
-A sexta marcara a queda do GM anterior a Aurelius, Théssaly, que havia sido corrompido pelos Nihilaryth e deposto em um conflito que quase destruiu a Ordem. Uma Convergência de morte e transformação, os astrólogos a haviam chamado, um lembrete de que o destino podia virar tanto para a luz quanto para a escuridão.
+Mas a história tem ciclos, e a corrupção jamais dorme verdadeiramente. A quinta Convergência — apenas algumas décadas atrás — marcara a queda de Théssaly, antecessor de Aurelius, que havia sido corrompido pelos Nihilaryth assim como Kaelthor séculos antes. Diferentemente do Tirano, porém, Théssaly foi deposto antes que pudesse causar destruição em escala comparável. Ainda assim, a Ordem vacilou, e Aurelius ascendeu ao cargo de Guardião Mestre em tempos de incerteza e desconfiança.
 
-E agora, a sétima Convergência Tripla em toda a história registrada estava ocorrendo — uma noite onde Lyria, Nyx e Elara dançavam juntas no céu, suas luzes combinadas pintando o mundo em tons de prata, azul e rosa, suas energias entrelaçadas marcando um momento que os astrólogos sabiamam ser significativo, embora não pudessem prever exatamente o que significava.
+E agora, a sexta Convergência Tripla em toda a história registrada estava ocorrendo — uma noite onde Lyria, Nyx e Elara dançavam juntas no céu, suas luzes combinadas pintando o mundo em tons de prata, azul e rosa, suas energias entrelaçadas marcando um momento que os astrólogos sabiam ser significativo, embora não pudessem prever exatamente o que significava.
 
 Em torres de observação de Fulmora, sábios murmuravam sobre renascimentos. Em templos de Thalassia, sacerdotisas realizavam rituais de bênção para crianças que nascessem naquela noite. Em bibliotecas de Terraxis, estudiosos comparavam registros antigos tentando discernir padrões. Em Sanctrum, o Conselho dos 10 discutia implicações políticas.
 
@@ -154,7 +154,7 @@ E empurrou uma última vez com tudo o que tinha.
 
 Quando a criança finalmente emergiu, o mundo pareceu parar.
 
-A tempestade lá fora cessou instantaneamente — as nuvens se dissolveram como fumaça ao vento, revelando um céu noturno repleto de estrelas que brilhavam com uma intensidade que ninguém em Mespiria jamais havia visto, como se o próprio universo estivesse celebrando algo extraordinário. As três luas — Lyria, a prateada, governando os ciclos de cura e renovação; Nyx, a azulada, senhora dos mistérios e da intuição; e Elara, a rosa do sacrifício, que brilha apenas nas noites mais significativas — apareceram no céu juntas, um fenômeno raro que os astrólogos chamavam de Convergência Tripla, algo que só ocorria uma vez a cada milênio e que sempre anunciava eventos que mudavam o curso da história.
+A tempestade lá fora cessou instantaneamente — as nuvens se dissolveram como fumaça ao vento, revelando um céu noturno repleto de estrelas que brilhavam com uma intensidade que ninguém em Mespiria jamais havia visto, como se o próprio universo estivesse celebrando algo extraordinário. As três luas — Lyria, a prateada, governando os ciclos de cura e renovação; Nyx, a azulada, senhora dos mistérios e da intuição; e Elara, a rosa do sacrifício, que brilha apenas nas noites mais significativas — apareceram no céu juntas, um fenômeno raro que os astrólogos chamavam de Convergência Tripla, algo que só ocorrera seis vezes em toda a história registrada e que sempre anunciava eventos que mudavam o curso da história.
 
 Mas não foi o céu que fez Melessa e as outras curandeiras ficarem sem fôlego.
 
@@ -470,6 +470,27 @@ Ayla partiu. Mas seu amor permanece — em Melessa que criará sua filha, em Aur
 | **Lyria** | Prateada | Ciclos de cura e renovação |
 | **Nyx** | Azulada | Mistérios e intuição |
 | **Elara** | Rosa | Sacrifício; brilha apenas nas noites mais significativas |
+
+### As Seis Convergências da História:
+
+| Convergência | Evento | Significado |
+|--------------|--------|-------------|
+| **1ª** | Morte de Ventus | Fim da era dos Seraphyens |
+| **2ª** | Descoberta dos cristais Aetheris | Era de ouro tecnológica |
+| **3ª** | Queda do Tirano Kaelthor | Fim da Guerra das Cinzas |
+| **4ª** | Fundação de Sanctrum | Renascimento de Nova Aetherion |
+| **5ª** | Queda de Théssaly | Aurelius se torna GM |
+| **6ª** | Nascimento de Grazielly | (Presente) |
+
+### Figuras Históricas:
+
+| Nome | Título | História |
+|------|--------|----------|
+| **Kaelthor** | O Tirano | 3º GM; prodígio de fogo e relâmpago; corrompido; matou milhões |
+| **Valerius** | O Vulcão de Pyralis | Herói; 1º GM da Nova Aetherion |
+| **Myrella** | A Maré de Thalassia | Heroína; mestra da água |
+| **Theron** | O Pilar de Terraxis | Herói; mestre da terra |
+| **Théssaly** | GM Anterior | Corrompido pelos Nihilaryth; deposto por Aurelius |
 
 ### Lugares Visitados:
 
