@@ -8,7 +8,7 @@
 
 # A Estrela que Nasceu na Tempestade
 
-*Na Era de Grazielly, Terceira Era desde a Primeira Guerra, quando as cicatrizes dos Seraphyens haviam se tornado lendas e as lendas haviam se tornado história, quando os Sete Reinos de Nova Aetherion floresciam sob céus que ainda guardavam memórias de deuses caídos...*
+*Na Terceira Era desde a Primeira Guerra, quando as cicatrizes dos Seraphyens haviam se tornado lendas e as lendas haviam se tornado história, quando os Sete Reinos de Nova Aetherion floresciam sob céus que ainda guardavam memórias de deuses caídos...*
 
 ---
 
@@ -36,7 +36,7 @@ No coração de Aetherion Prime, dentro dos muros impenetráveis de Sanctrum, a 
 
 As vozes se sobreponham, argumentos colidindo como espadas em um campo de batalha verbal, cada conselheiro defendendo sua perspectiva com a paixão de alguém que acreditava estar certo. E sobre todos, presidi **Aurelius**, o Guardião Mestre.
 
-Seu porte imponente e olhar penetrante comandavam respeito até mesmo dos conselheiros mais experientes. Ele havia ascendido ao posto máximo da Ordem anos antes, após uma vida de serviço que incluía missões que poucos conheciam e sacrifícios que ainda fewer compreendiam. Seu rosto era uma máscara de estoicismo — linhas de expressão que marcavam décadas de decisões difíceis, olhos que haviam visto demais para se surpreenderem facilmente, uma barba bem aparada que acrescentava à sua aura de autoridade incontestável.
+Seu porte imponente e olhar penetrante comandavam respeito até mesmo dos conselheiros mais experientes. Ele havia ascendido ao posto máximo da Ordem anos antes, após uma vida de serviço que incluía incursões que poucos conheciam e sacrifícios que ainda fewer compreendiam. Seu rosto era uma máscara de estoicismo — linhas de expressão que marcavam décadas de decisões difíceis, olhos que haviam visto demais para se surpreenderem facilmente, uma barba bem aparada que acrescentava à sua aura de autoridade incontestável.
 
 Mas aquele dia era diferente.
 
@@ -44,19 +44,19 @@ Algo distraía sua atenção desde o início da reunião — uma sensação estr
 
 *Alguma coisa está acontecendo.*
 
-O pensamento veio como um sussurro de seu instinto, aquele mesmo instinto que o havia mantido vivo em missões suicidas nas fronteiras de Umbra, que o havia alertado de emboscadas antes que acontecessem, que parecia conectado a algo maior do que ele próprio conseguia compreender. E agora, esse instinto gritava com uma intensidade que ele raramente havia experimentado.
+O pensamento veio como um sussurro de seu instinto, aquele mesmo instinto que o havia mantido vivo em incursões suicidas nas fronteiras de Umbra, que o havia alertado de emboscadas antes que acontecessem, que parecia conectado a algo maior do que ele próprio conseguia compreender. E agora, esse instinto gritava com uma intensidade que ele raramente havia experimentado.
 
 — Aurelius? — a voz do Mestre de Diplomacia trouxe-o de volta ao presente. — O senhor concorda com a proposta de enviar mediadores à fronteira?
 
 O Guardião Mestre piscou, recompondo sua expressão estoica em uma fração de segundo que ninguém na sala percebeu. Sua voz saiu firme, mas no fundo de seus olhos havia uma sombra de preocupação que ele mantinha escondida atrás de décadas de prática.
 
-— Concordo. Envie uma equipe de três diplomatas experientes, escoltados por uma guarda leve. Não queremos que Pyralis interprete isso como ameaça militar. — Ele fez uma pausa, seus dedos tamborilando na mesa uma única vez. — E mande observadores discretos de nossa rede de informação. Quero saber de qualquer movimento militar incomum de ambos os lados, especialmente movimentos noturnos.
+— Concordo. Envie uma comitiva de três diplomatas experientes, escoltados por uma guarda leve. Não queremos que Pyralis interprete isso como ameaça militar. — Ele fez uma pausa, seus dedos tamborilando na mesa uma única vez. — E mande observadores discretos de nossa rede de informação. Quero saber de qualquer movimento militar incomum de ambos os lados, especialmente movimentos noturnos.
 
 A reunião continuou, mas Aurelius mal ouvia as discussões subsequentes sobre rotas comerciais e direitos de navegação. Uma parte de sua mente permanecia fixa no sudoeste, em Serravento, em uma mulher que ele não via há meses e cujo rosto ainda assombrava seus sonhos mais tranquilos e seus pesadelos mais profundos.
 
 *Ayla.*
 
-O nome ecoou em sua consciência como uma oração, como uma ferida que nunca cicatrizou completamente, como uma promessa que ele não tinha certeza de poder cumprir. Eles se conheciam havia anos — haviam lutado juntos na Equipe Aurora, uma unidade de elite que lidava com ameaças que exércitos regulares não podiam tocar, haviam compartilhado perigos que os haviam moldado como o fogo molda metal, haviam construído algo que nunca tiveram coragem de nomear.
+O nome ecoou em sua consciência como uma oração, como uma ferida que nunca cicatrizou completamente, como uma promessa que ele não tinha certeza de poder cumprir. Eles se conheciam havia anos — haviam lutado juntos no Esquadrão Aurora, uma unidade de elite que lidava com ameaças que exércitos regulares não podiam tocar, haviam compartilhado perigos que os haviam moldado como o fogo molda metal, haviam construído algo que nunca tiveram coragem de nomear.
 
 E quando ela desapareceu para Serravento, meses antes, ele deixou-a ir porque sabia que ela precisava de paz, precisava de distância, precisava de algo que ele não podia lhe dar enquanto fosse Guardião Mestre com suas responsabilidades infinitas e sua vida pública escrutinada por todos.
 
@@ -118,19 +118,19 @@ Melessa a silenciou com um olhar severo. Não era momento para perguntas. Havia 
 
 Ayla fechou os olhos por um momento, e em sua mente, rostos de batalhas passadas desfilaram como fantasmas de uma vida que ela havia deixado para trás. Ela havia lutado nas Guerras de Fronteira entre Pyralis e Terraxis, havia defendido aldeias de invasores de Umbra que buscavam escravos e recursos, havia carregado feridos através de campos de batalha enquanto flechas e magia voavam ao seu redor como ventos de destruição, havia matado quando necessário e salvado quando possível.
 
-A Equipe Aurora. Os anos que passou lutando ao lado de Aurelius, compartilhando perigos que forjaram entre eles uma conexão que transcendia camaradagem, que beirava algo que nenhum dos dois ousava nomear. As missões que não podiam ser discutidas, os inimigos que não podiam ser mencionados, os sacrifícios que haviam feito sem hesitar.
+O Esquadrão Aurora. Os anos que passou lutando ao lado de Aurelius, compartilhando perigos que forjaram entre eles uma conexão que transcendia camaradagem, que beirava algo que nenhum dos dois ousava nomear. As empreitadas que não podiam ser discutidas, os inimigos que não podiam ser mencionados, os sacrifícios que haviam feito sem hesitar.
 
-Ela se lembrava da primeira vez que o vira — um homem mais jovem então, mas já carregando os olhos cansados de alguém que havia visto demais. A missão era perigosa: infiltrar uma base de contrabandistas de Umbra que haviam sequestrado crianças de uma vila de fronteira. Aurelius liderava com uma competência que ela respeitou imediatamente, mas foi seu cuidado com os resgatados que a fez vê-lo como algo mais que um comandante.
+Ela se lembrava da primeira vez que o vira — um homem mais jovem então, mas já carregando os olhos cansados de alguém que havia visto demais. A incursão era perigosa: infiltrar um reduto de contrabandistas de Umbra que haviam sequestrado crianças de uma vila de fronteira. Aurelius liderava com uma competência que ela respeitou imediatamente, mas foi seu cuidado com os resgatados que a fez vê-lo como algo mais que um comandante.
 
-Havia tantas missões depois daquela. A vez em que foram cercados por criaturas corrompidas nos pântanos de Thalassia e lutaram costas contra costas por três dias até que reforços chegassem. A vez em que descobriram uma conspiração dentro da própria Ordem e tiveram que fugir de assassinos por semanas, confiando apenas um no outro. A vez em que Aurelius levou uma lâmina envenenada por ela e quase morreu, e ela permaneceu ao seu lado por noites sem dormir, rezando para deuses que não sabia se existiam.
+Havia tantas incursões depois daquela. A vez em que foram cercados por criaturas corrompidas nos pântanos de Thalassia e lutaram costas contra costas por três dias até que reforços chegassem. A vez em que descobriram uma conspiração dentro da própria Ordem e tiveram que fugir de assassinos por semanas, confiando apenas um no outro. A vez em que Aurelius levou uma lâmina envenenada por ela e quase morreu, e ela permaneceu ao seu lado por noites sem dormir, rezando para deuses que não sabia se existiam.
 
-Havia também os momentos entre as missões — os jantares compartilhados em tavernas baratas, as conversas durante vigílias noturnas, os silêncios confortáveis que diziam mais que palavras. O toque acidental de mãos que durava um segundo a mais do que necessário. Os olhares que se encontravam e se desviavam com vergonha. O amor crescendo silenciosamente como uma flor em uma fenda de pedra, encontrando luz onde parecia não haver nenhuma.
+Havia também os momentos entre as incursões — os jantares compartilhados em tavernas baratas, as conversas durante vigílias noturnas, os silêncios confortáveis que diziam mais que palavras. O toque acidental de mãos que durava um segundo a mais do que necessário. Os olhares que se encontravam e se desviavam com vergonha. O amor crescendo silenciosamente como uma flor em uma fenda de pedra, encontrando luz onde parecia não haver nenhuma.
 
 E quando Aurelius foi oferecido o cargo de Guardião Mestre, ambos sabiam que aquilo mudava tudo. O GM não podia ter amantes, não podia ter laços pessoais que pudessem ser usados contra ele, não podia ser vulnerável de nenhuma forma. Ayla o havia liberado com um sorriso que escondia o coração partido, dizendo que ele merecia a posição, que serviria bem, que ela estava feliz por ele.
 
 Mas ambos sabiam a verdade. E quando ela descobriu que carregava seu filho, ela escolheu partir — para longe de Sanctrum, longe da política, longe dele. Para que a criança pudesse ter uma vida que não fosse marcada por segredos e perigos. Para que Aurelius pudesse cumprir seu destino sem o peso de uma família para proteger.
 
-E agora, ela queria apenas paz. Paz para si. Paz para a criança que estava prestes a nascer. Uma vida longe de espadas e sangue, longe de missões e segredos, longe de tudo o que ela havia sido.
+E agora, ela queria apenas paz. Paz para si. Paz para a criança que estava prestes a nascer. Uma vida longe de espadas e sangue, longe de incursões e segredos, longe de tudo o que ela havia sido.
 
 *Viver uma vida longe das batalhas,* ela pensou, suas mãos apertando os lençóis enquanto outra contração a atravessava. *Longe do sangue. Longe de tudo o que eu fui. Você merece mais do que uma mãe que carrega sombras no coração, minha pequena. Você merece luz.*
 
@@ -288,7 +288,7 @@ Ele estava diante da janela, observando as três luas ainda visíveis no céu an
 
 Mas ele não sabia que aquele fenômeno marcava algo que mudaria sua vida para sempre.
 
-*Ayla,* ele pensou novamente, o nome vindo à sua mente sem convite, sem permissão. *Por que estou pensando em você agora? Por que sinto como se... como se eu a tivesse perdido?*
+*Ayla,* ele pensou novamente, o nome vindo à sua mente sem convite, sem perincursão. *Por que estou pensando em você agora? Por que sinto como se... como se eu a tivesse perdido?*
 
 Ele não completou o pensamento. Não ousava. Não tinha coragem de dar forma às palavras que temia.
 
@@ -330,7 +330,7 @@ Ayla havia carregado seu filho. E dado sua vida para trazê-lo ao mundo.
 
 — Guardião Mestre? — a voz do mensageiro trouxe-o de volta, preocupada com o silêncio prolongado, com a imobilidade do homem mais poderoso de Nova Aetherion. — Há alguma resposta? Alguma instrução?
 
-Aurelius respirou fundo, recompondo sua máscara de estoicismo com um esforço que o cansou mais que qualquer batalha que havia lutado, mais que qualquer missão que havia completado.
+Aurelius respirou fundo, recompondo sua máscara de estoicismo com um esforço que o cansou mais que qualquer batalha que havia lutado, mais que qualquer incursão que havia completado.
 
 — Não — disse ele finalmente, sua voz firme apesar da dor que rasgava seu interior. — Não há resposta necessária. Agradeço por trazer a mensagem com tal presteza. Você pode se retirar. Descanse. Receberá compensação pelo seu serviço.
 
@@ -362,13 +362,13 @@ O primeiro passo foi estabelecer a bolsa anônima. Através de uma série de int
 
 O segundo passo foi mais sutil. Aurelius começou a fazer perguntas discretas sobre Mespiria, sobre as famílias que viviam lá, sobre a qualidade das escolas locais, sobre a disponibilidade de tutores particulares. Ele não queria parecer interessado demais — isso levantaria suspeitas entre os sempre vigilantes conselheiros de informação. Então espalhou seu interesse entre múltiplas vilas de Serravento, perguntando sobre educação rural em geral, sobre o estado das comunidades agrícolas, sobre formas de melhorar a qualidade de vida nos reinos periféricos. Isso foi convertido em uma iniciativa oficial da Ordem — um programa de desenvolvimento educacional que, coincidentemente, incluiria Mespiria entre suas beneficiárias.
 
-O terceiro passo foi o mais arriscado. Aurelius precisava de alguém em quem confiar completamente, alguém que pudesse observar Grazielly de perto sem revelar sua conexão, alguém que pudesse reportar seu desenvolvimento sem levantar suspeitas. Ele escolheu um agente aposentado da Ordem — uma mulher chamada Lyris que havia servido com distinção em sua juventude e agora vivia uma vida tranquila em uma cidade próxima a Mespiria. Ele a abordou pessoalmente, algo que raramente fazia para missões tão simples, e pediu que ela observasse uma criança específica, reportando seu progresso periodicamente.
+O terceiro passo foi o mais arriscado. Aurelius precisava de alguém em quem confiar completamente, alguém que pudesse observar Grazielly de perto sem revelar sua conexão, alguém que pudesse relatar seu desenvolvimento sem levantar suspeitas. Ele escolheu uma batedora aposentada da Ordem — uma mulher chamada Lyris que havia servido com distinção em sua juventude e agora vivia uma vida tranquila em uma cidade próxima a Mespiria. Ele a abordou pessoalmente, algo que raramente fazia para incursões tão simples, e pediu que ela observasse uma criança específica, relatando seu progresso periodicamente.
 
 — Por que esta criança em particular, se me permite perguntar? — Lyris havia inquirido, seus olhos perspicazes ainda afiados apesar da idade.
 
 — Ela é... especial — Aurelius respondeu, escolhendo suas palavras com cuidado. — Nasceu sob a Convergência Tripla. Pode ter... potencial. Quero garantir que ela tenha oportunidades, mas não quero interferir diretamente.
 
-Lyris o havia estudado por um longo momento, e Aurelius teve a desconfortável sensação de que ela via mais do que ele gostaria. Mas ela apenas assentiu e aceitou a missão, prometendo relatórios regulares sobre o desenvolvimento da pequena Grazielly.
+Lyris o havia estudado por um longo momento, e Aurelius teve a desconfortável sensação de que ela via mais do que ele gostaria. Mas ela apenas assentiu e aceitou a incursão, prometendo relatórios regulares sobre o desenvolvimento da pequena Grazielly.
 
 E assim, aos poucos, Aurelius construía uma rede de proteção ao redor da filha que ele nunca poderia reconhecer publicamente. Não era o suficiente — nunca seria o suficiente para preencher o vazio que Ayla havia deixado, para compensar a ausência de um pai presente, para substituir o amor que ele não podia expressar abertamente. Mas era o que ele podia fazer. E ele faria isso com a mesma dedicação que dedicava a proteger Nova Aetherion.
 
@@ -419,7 +419,7 @@ Caro leitor,
 
 Neste segundo capítulo, a história salta milênios para nos apresentar o mundo que nasceu das cinzas da Primeira Guerra. Os Sete Reinos de Nova Aetherion são a herança viva dos Seraphyens — cada um carregando fragmentos do poder antigo, cada um honrando os sacrifícios de maneiras únicas.
 
-Conhecemos Aurelius, o Guardião Mestre, cuja posição de poder esconde um coração dividido entre dever e amor. Sua conexão com Ayla — a guerreira que um dia lutou ao seu lado na Equipe Aurora — é o segredo que define sua existência, a ferida que nunca cicatriza, a promessa que ele não pode cumprir abertamente.
+Conhecemos Aurelius, o Guardião Mestre, cuja posição de poder esconde um coração dividido entre dever e amor. Sua conexão com Ayla — a guerreira que um dia lutou ao seu lado no Esquadrão Aurora — é o segredo que define sua existência, a ferida que nunca cicatriza, a promessa que ele não pode cumprir abertamente.
 
 E testemunhamos o nascimento de Grazielly sob a Convergência Tripla — três luas se alinhando como já fizeram apenas seis vezes antes, cada vez marcando eventos que mudaram o curso da história. Ayla morre para que sua filha possa viver, e Melessa promete cuidar da criança brilhante que chega ao mundo carregando mistérios em sua alma.
 
@@ -447,8 +447,8 @@ Ayla partiu. Mas seu amor permanece — em Melessa que criará sua filha, em Aur
 
 | Nome | Função | Significado |
 |------|--------|-------------|
-| **Aurelius** | Guardião Mestre da Ordem | Pai secreto de Grazielly; antigo comandante da Equipe Aurora |
-| **Ayla** | Guerreira; ex-membro da Equipe Aurora | Mãe de Grazielly; morre no parto |
+| **Aurelius** | Guardião Mestre da Ordem | Pai secreto de Grazielly; antigo comandante da Esquadrão Aurora |
+| **Ayla** | Guerreira; ex-membro da Esquadrão Aurora | Mãe de Grazielly; morre no parto |
 | **Grazielly** | Recém-nascida | Filha de Aurelius e Ayla; nascida sob a Convergência Tripla |
 | **Melessa** | Parteira de Mespiria | Guardiã prometida de Grazielly |
 | **Thalia** | Curandeira jovem | Auxiliou no nascimento de Grazielly |
@@ -458,7 +458,7 @@ Ayla partiu. Mas seu amor permanece — em Melessa que criará sua filha, em Aur
 | Termo | Definição |
 |-------|-----------|
 | **Convergência Tripla** | Alinhamento raro de Lyria, Nyx e Elara; marca eventos cósmicos significativos |
-| **Equipe Aurora** | Unidade de elite da Ordem; Ayla e Aurelius serviram juntos |
+| **Esquadrão Aurora** | Unidade de elite da Ordem; Ayla e Aurelius serviram juntos |
 | **Cristal Aetheris** | Mineral energético; usado em tecnologia e iluminação |
 | **Grande Pacto** | Acordo que uniu os Sete Reinos sob governo central |
 | **Câmara do Conselho dos 10** | Órgão governamental; cada Mestre cuida de uma área |
@@ -485,7 +485,7 @@ Ayla partiu. Mas seu amor permanece — em Melessa que criará sua filha, em Aur
 
 **Título:** *Os Primeiros Anos da Estrela*
 
-No próximo capítulo, acompanharemos os primeiros anos de vida de Grazielly — uma criança que cresce cercada de amor, mas carregando mistérios que nem ela compreende. Veremos sua relação com Melessa, os primeiros sinais de seus poderes emergindo, e a chegada de Lyris, a agente aposentada que mudará o curso de sua vida.
+No próximo capítulo, acompanharemos os primeiros anos de vida de Grazielly — uma criança que cresce cercada de amor, mas carregando mistérios que nem ela compreende. Veremos sua relação com Melessa, os primeiros sinais de seus poderes emergindo, e a chegada de Lyris, a batedora aposentada que mudará o curso de sua vida.
 
 Enquanto isso, em Sanctrum, Aurelius observa de longe, enviando recursos discretos e relatórios, lutando contra o desejo de revelar sua paternidade. E em algum lugar entre as sombras, forças antigas começam a perceber que algo especial despertou no mundo.
 
