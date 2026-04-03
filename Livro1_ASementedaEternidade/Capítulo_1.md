@@ -16,7 +16,7 @@ Na biblioteca do Orfanato das Asas, onde velas de cristal Aetheris tremiam com l
 
 — Esta noite — Mirella disse, seus dedos traçando os símbolos gravados na capa — vou contar uma história que começou antes do primeiro suspiro. Uma história de amor, sacrifício e segredos guardados pelo vento. A história de uma mulher chamada Ayla, e da criança que mudaria o destino de todos nós.
 
-Ela abriu o livro, e as palavras parecia ganhar vida própria, flutuando no ar como poeira luminosa...
+Ela abriu o livro, e as palavras pareciam ganhar vida própria, flutuando no ar como poeira luminosa...
 
 ---
 
@@ -106,7 +106,7 @@ A criança respondeu com outro chute, mais forte desta vez, e Ayla sorriu — um
 
 O vento soprou mais forte por um momento, como se respondesse às palavras dela, e Ayla parou para observar o céu. As três luas não eram visíveis durante o dia, mas ela sabia que estavam lá — Lyria, Nyx e Elara, esperando, observando, preparando-se para uma Convergência que astrólogos de todos os reinos haviam predito para as próximas semanas.
 
-Uma Convergência Tripla. O alinhamento das três luas em um único ponto do céu. Um fenômeno tão raro que apenas sete haviam sido registrados em toda a história de Nova Aetherion. E cada um deles havia marcado o nascimento — ou a morte — de alguém cujo destino mudaria o curso das eras.
+Uma Convergência Tripla. O alinhamento das três luas em um único ponto do céu. Um fenômeno tão raro que apenas cinco haviam sido registrados em toda a história de Nova Aetherion. E cada um deles havia marcado o nascimento — ou a morte — de alguém cujo destino mudaria o curso das eras.
 
 *É você, minha criança?* Ayla pensou, sentindo a criança se mover novamente. *É você quem as luas esperam?*
 
@@ -144,9 +144,9 @@ Mespiria era uma pequena comunidade agrícola nas cercanias de Ventania — long
 
 Era exatamente o que Ayla procurava.
 
-Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Serranos, e uma viúva grávida chamada Melessa oferecera-lhe uma casa pequena mas aconchegante nos arredores da vila.
+Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Serranos, e Melessa, a parteira da vila, oferecera-lhe uma casa pequena mas aconchegante nos arredores da vila.
 
-— Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam ao sol da tarde. — Comecei a me preocupar. A caminhada de Zephyria não é curta, especialmente em seu estado.
+— Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam à luz de Aurion no poente. — Comecei a me preocupar. A caminhada de Zephyria não é curta, especialmente em seu estado.
 
 — Estou bem, Melessa — Ayla respondeu, subindo os degraus com cuidado. — E consegui as raízes-doces que você pediu.
 
@@ -188,7 +188,7 @@ O vento soprou mais forte por um momento, e as prateadas-sussurrantes no quintal
 
 — Eu vou te contar sobre ele um dia — Ayla prometeu. — Quando você for mais velha. Quando for seguro. Eu vou te contar sobre o homem que me amou apesar de tudo, que me seguiu através de batalhas e sombras, que me olhava como se eu fosse a única estrela no céu. Mas por agora... por agora, é apenas você e eu, minha pequena.
 
-A criança chutou, mais não era um chute comum desta vez. Era um movimento deliberado, como se estivesse tentando alcançar as mãos de Ayla através da barreira de carne e osso.
+A criança chutou, mas não era um chute comum desta vez. Era um movimento deliberado, como se estivesse tentando alcançar as mãos de Ayla através da barreira de carne e osso.
 
 — Você é especial — Ayla sussurrou, sentindo lágrimas finalmente escaparem. — Eu sinto isso. Desde o primeiro momento em que soube que você existia, eu soube que você seria diferente. Não sei explicar como. Apenas... sinto. Como se você carregasse algo dentro de si que vai além do que eu posso compreender.
 
