@@ -36,7 +36,7 @@ No coração de Aetherion Prime, dentro dos muros impenetráveis de Sanctrum, a 
 
 As vozes se sobreponham, argumentos colidindo como espadas em um campo de batalha verbal, cada conselheiro defendendo sua perspectiva com a paixão de alguém que acreditava estar certo. E sobre todos, presidi **Aurelius**, o Guardião Mestre.
 
-Seu porte imponente e olhar penetrante comandavam respeito até mesmo dos conselheiros mais experientes. Ele havia ascendido ao posto máximo da Ordem anos antes, após uma vida de serviço que incluía incursões que poucos conheciam e sacrifícios que ainda fewer compreendiam. Seu rosto era uma máscara de estoicismo — linhas de expressão que marcavam décadas de decisões difíceis, olhos que haviam visto demais para se surpreenderem facilmente, uma barba bem aparada que acrescentava à sua aura de autoridade incontestável.
+Seu porte imponente e olhar penetrante comandavam respeito até mesmo dos conselheiros mais experientes. Ele havia ascendido ao posto máximo da Ordem anos antes, após uma vida de serviço que incluía incursões que poucos conheciam e sacrifícios que ainda menos compreendiam. Seu rosto era uma máscara de estoicismo — linhas de expressão que marcavam décadas de decisões difíceis, olhos que haviam visto demais para se surpreenderem facilmente, uma barba bem aparada que acrescentava à sua aura de autoridade incontestável.
 
 Mas aquele dia era diferente.
 
@@ -280,7 +280,7 @@ Grazielly agarrou o dedo de Melessa com sua mão minúscula, e por um instante, 
 
 ## O Pressentimento do Guardião Mestre
 
-Em Sanctrum, a centenas de quilômetros de distância, Aurelius permanecia em seu escritório no Palácio do Grande Mestre, as janelas abertas para a noite que se recusava a terminar. A reunião do Conselho havia terminado há horas, mas ele não conseguia dormir, não conseguia descansar, não conseguia afastar de sua mente a sensação de que algo fundamental havia mudado.
+Em Sanctrum, a dias de viagem de distância, Aurelius permanecia em seu escritório no Palácio do Grande Mestre, as janelas abertas para a noite que se recusava a terminar. A reunião do Conselho havia terminado há horas, mas ele não conseguia dormir, não conseguia descansar, não conseguia afastar de sua mente a sensação de que algo fundamental havia mudado.
 
 O pressentimento que o havia acometido durante a reunião não havia passado. Pelo contrário — havia se intensificado, transformando-se em uma melancolia que ele não compreendia totalmente, uma dor que parecia vir de seu próprio sangue, de sua própria alma. Era como se algo tivesse mudado no mundo, algo irreversível, algo que ele não conseguia nomear mas que sentia com cada fibra de seu ser.
 

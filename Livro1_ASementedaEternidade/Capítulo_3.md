@@ -243,7 +243,7 @@ Grazielly virou-se para a mulher, seus olhos castanhos encontrando os verdes. Ho
 
 — Eu sei — Grazielly disse finalmente, sua voz calma. — Vó Melessa me disse sobre você. Ela disse que eu deveria confiar em você.
 
-— E você confia? — Lyris perguntou, impressionada com a compostura da criança diante de tamanho loss.
+— E você confia? — Lyris perguntou, impressionada com a compostura da criança diante de tamanha perda.
 
 Grazielly considerou a pergunta por um momento. Seus olhos percorreram o rosto de Lyris, como se procurasse algo — uma verdade, uma mentira, uma promessa que não precisava ser dita em voz alta.
 
@@ -399,7 +399,7 @@ Quando a história terminou e as crianças começaram a se levantar para ir aos 
 
 Grazielly assentiu, sem confiar em sua voz para falar.
 
-— Os Seraphyens eram seres extraordinários — a mulher continuou, seus olhos studying a criança com interesse. — Dizem que seu sangue ainda corre em algumas linhagens. Que às vezes, em crianças nascidas sob circunstâncias especiais, algo daquele poder antigo desperta.
+— Os Seraphyens eram seres extraordinários — a mulher continuou, seus olhos estudando a criança com interesse. — Dizem que seu sangue ainda corre em algumas linhagens. Que às vezes, em crianças nascidas sob circunstâncias especiais, algo daquele poder antigo desperta.
 
 Os olhos de Grazielly se arregalaram ligeiramente. A mulher sorriu, como se não tivesse percebido a reação, e se levantou para guardar o livro.
 
