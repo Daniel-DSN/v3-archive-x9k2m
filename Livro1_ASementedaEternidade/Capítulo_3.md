@@ -8,7 +8,7 @@
 
 # O Legado da Parteira
 
-*Na Era de Grazielly, Terceira Era desde a Primeira Guerra, quando as cicatrizes dos Seraphyens haviam se tornado lendas e as lendas haviam se tornado história, quando os Sete Reinos de Nova Aetherion floresciam sob céus que ainda guardavam memórias de deuses caídos...*
+*Na Terceira Era desde a Primeira Guerra, quando as cicatrizes dos Seraphyens haviam se tornado lendas e as lendas haviam se tornado história, quando os Sete Reinos de Nova Aetherion floresciam sob céus que ainda guardavam memórias de deuses caídos...*
 
 ---
 
@@ -263,7 +263,7 @@ Lyris olhou para o céu, onde nuvens escuras se acumulavam no horizonte norte. O
 
 Grazielly assentiu, entendendo a urgência. Ela correu para dentro da casa de pedra e retornou segundos depois com uma pequena bolsa de tecido — roupas, uma boneca, um desenho, um cristal. Ela não teve tempo de procurar mais nada. A urgência da partida não permitiu.
 
-Lyris estendeu a mão, e Grazielly a tomou sem hesitar. Juntas, as duas se afastaram do cemitério onde Melessa agora descansava ao lado de Ayla, deixando para trás a pequena casa de pedra que havia sido lar, os campos de Aethrum-dourado que haviam sido playground, os vizinhos que haviam sido família extendida.
+Lyris estendeu a mão, e Grazielly a tomou sem hesitar. Juntas, as duas se afastaram do cemitério onde Melessa agora descansava ao lado de Ayla, deixando para trás a pequena casa de pedra que havia sido lar, os campos de Aethrum-dourado que haviam sido terreno de jogos, os vizinhos que haviam sido família estendida.
 
 Grazielly não olhou para trás. Não porque não sentisse dor — ela sentia, uma dor profunda e verdadeira que carregaria pelo resto de seus dias. Mas porque ela sabia, com aquela consciência que parecia além de sua idade, que olhar para trás não traria o que havia perdido. O caminho estava à frente. E ela o seguiria, como Melessa teria querido.
 
@@ -275,7 +275,7 @@ Ventania era uma cidade significativamente maior que Mespiria — não grande o 
 
 Mas foi o Orfanato das Asas que mais a impressionou.
 
-O edifício era antigo mas bem cuidado, suas paredes de pedra cobertas por trepadeiras-de-vento, plantas que se enrolavam nas paredes como abraços verdes de folhas delicadas. Janelas altas permitiam que a luz de Aurion entrasse em abundância, e um jardim frontal, embora adormecido pelo inverno, sugeriam cores e vida que floresceriam na primavera. Dentro, o som de crianças — risadas, conversas, jogos ecoando pelos corredores — criava uma atmosfera que era ao mesmo tempo estranha e acolhedora para Grazielly.
+O edifício era antigo mas bem cuidado, suas paredes de pedra cobertas por trepadeiras-de-vento, plantas que se enrolavam nas paredes como abraços verdes de folhas delicadas. Janelas altas permitiam que a luz de Aurion entrasse em abundância, e um jardim frontal, embora adormecido pelo inverno, sugeria cores e vida que floresceriam na primavera. Dentro, o som de crianças — risadas, conversas, jogos ecoando pelos corredores — criava uma atmosfera que era ao mesmo tempo estranha e acolhedora para Grazielly.
 
 — Este é o orfanato onde trabalho — Lyris explicou enquanto conduzia Grazielly pela entrada. — Madre Elara é a diretora. Ela é gentil, embora possa parecer um pouco séria no começo. E há outras crianças aqui — algumas mais velhas, algumas mais novas que você. Você não será a única.
 
@@ -297,7 +297,7 @@ Grazielly observou Lyris se afastar por um corredor, sentindo um aperto no peito
 
 — Vem! Vou te mostrar tudo! Temos um jardim nos fundos, e uma biblioteca com muitos livros, e a sala de jantar onde comemos juntos, e os dormitórios onde você vai dormir, e...
 
-A voz de Mira continuou enquanto conduzia Grazielly por uma turnê que parecia não ter fim. E aos poucos, muito gradualmente, o peso no peito da pequena órfã começou a aliviar — não a ponto de desaparecer completamente, mas o suficiente para permitir que algo mais entrasse.
+A voz de Mira continuou enquanto conduzia Grazielly por um passeio guiado que parecia não ter fim. E aos poucos, muito gradualmente, o peso no peito da pequena órfã começou a aliviar — não a ponto de desaparecer completamente, mas o suficiente para permitir que algo mais entrasse.
 
 Curiosidade. Interesse. Talvez, eventualmente, esperança.
 
@@ -365,7 +365,7 @@ Lyris assentiu, a promessa já gravada em seu coração muito antes da diretora 
 
 Naquela noite, enquanto as crianças do orfanato se reuniam para o jantar no grande refeitório, Grazielly sentou-se entre Mira e Lyris, observando tudo com aqueles olhos castanhos grandes e expressivos que pareciam absorver mais do que deveriam ser capazes.
 
-A comida era simples mas farta — ensopado de tubérculos-da-terra e proteínas-de-criadouros, raízes nutritivas colhidas do solo com sabor que aquecia por dentro, pão fresco saído do forno, frutas-cristalizadas, doces da estação que o sol havia transformado em concentração de mel, para sobremesa. As crianças conversavam animadamente sobre seus dias, sobre jogos que haviam jogado, sobre lições que haviam aprendido, sobre sonhos que haviam tido. Havia uma energia naquele lugar que Grazielly reconhecia como algo bom — a energia de uma família formada não por sangue, mas por necessidade e escolha.
+A comida era simples mas farta — ensopado de tubérculos-da-terra e proteínas-de-criadouros, raízes nutritivas colhidas do solo com sabor que aquecia por dentro, pão fresco saído do forno, frutas-cristalizadas, doces da estação que Aurion havia transformado em concentração de mel, para sobremesa. As crianças conversavam animadamente sobre seus dias, sobre jogos que haviam jogado, sobre lições que haviam aprendido, sobre sonhos que haviam tido. Havia uma energia naquele lugar que Grazielly reconhecia como algo bom — a energia de uma família formada não por sangue, mas por necessidade e escolha.
 
 — Você está gostando daqui? — Mira perguntou, sua boca meio cheia de pão.
 
@@ -413,7 +413,7 @@ A mulher assentiu e se afastou, deixando Grazielly sozinha na biblioteca cada ve
 
 Grazielly deitou-se na cama indicada, sentindo o peso da exaustão finalmente alcançando-a. O dia havia sido longo — a morte de Melessa, o enterro, a jornada para Ventania, a chegada ao orfanato. Tudo parecia um sonho distante, uma história que alguém havia contado para ela em vez de algo que realmente havia vivido.
 
-Mas quando fechou os olhos, ela viu Melessa uma última vez — não doente e fraca em sua cama de morte, mas jovem e sorrindo, como nas fotos antigas que às vezes mostrava para Grazielly. E ao lado de Melessa, ela viu uma mulher de cabelos escuros e olhos que pareciam familiares de alguma forma — uma mulher que ela sabia, sem saber como, ser sua mãe.
+Mas quando fechou os olhos, ela viu Melessa uma última vez — não doente e fraca em sua cama de morte, mas jovem e sorrindo, como nos retratos antigos que às vezes mostrava para Grazielly. E ao lado de Melessa, ela viu uma mulher de cabelos escuros e olhos que pareciam familiares de alguma forma — uma mulher que ela sabia, sem saber como, ser sua mãe.
 
 *Boa noite, vó Melessa,* ela pensou, enquanto o sono finalmente a levava. *Boa noite, mamãe. Eu estou em um lugar seguro agora. Eu vou ser forte. Eu vou fazer vocês ficarem orgulhosas.*
 
@@ -508,7 +508,7 @@ O vínculo entre Grazielly e Lyris crescerá ao longo da história, transformand
 
 No próximo capítulo, Grazielly enfrentará sua primeira verdadeira prova no orfanato. Nyx, o ventorro que foi deixado para trás durante a partida apressada, estará em perigo — e a criança de quatro anos terá que encontrar coragem para salvá-lo.
 
-A jornada de retorno a Mespiria revelará mais sobre os poderes de Grazielly, sobre a natureza do vínculo entre ela e seu companheiro peludo, e sobre as forças que已经开始 a se mover nas sombras.
+A jornada de retorno a Mespiria revelará mais sobre os poderes de Grazielly, sobre a natureza do vínculo entre ela e seu companheiro peludo, e sobre as forças que começaram a se mover nas sombras.
 
 Porque uma criança com afinidade Cryonys, cujo poder desperta tão jovem e tão forte, não passa despercebida. E há aqueles que observam, esperando o momento certo para agir.
 
