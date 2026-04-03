@@ -10,7 +10,17 @@
 
 ---
 
-*Na Terceira Era desde a Primeira Guerra, quando as cicatrizes dos Seraphyens haviam se tornado lendas e as lendas haviam se tornado história, quando os Sete Reinos de Nova Aetherion floresciam sob céus que ainda guardavam memórias de deuses caídos...*
+A voz da Senhora Mirella era um sussurro que abria portas para o passado.
+
+Na biblioteca do Orfanato das Asas, onde velas de cristal Aetheris tremiam com luz dourada e o vento noturno fazia as janelas estremecerem, as crianças haviam se reunido em roda ao redor da grande poltrona de madeira entalhada. A narradora segurava um livro antigo de capa desgastada pelo tempo, suas páginas amareladas contendo palavras que haviam sido lidas por gerações antes deles.
+
+— Esta noite — Mirella disse, seus dedos traçando os símbolos gravados na capa — vou contar uma história que começou antes do primeiro suspiro. Uma história de amor, sacrifício e segredos guardados pelo vento. A história de uma mulher chamada Ayla, e da criança que mudaria o destino de todos nós.
+
+Ela abriu o livro, e as palavras parecia ganhar vida própria, flutuando no ar como poeira luminosa...
+
+---
+
+*Nas terras onde o vento é livre e os céus parecem infinitos, há segredos que as brisas carregam mas nunca revelam. Histórias que começam antes do primeiro suspiro, antes mesmo do primeiro batimento de coração. Histórias que nascem no silêncio entre as estrelas...*
 
 ---
 
@@ -22,7 +32,7 @@ Não o frio comum do inverno que atravessa roupas e faz os ossos tremerem. Era u
 
 *Frio...*
 
-Havia luz também. Três luzes, para ser precisa. Três luas que dançavam juntas em um céu que parecia ter sido pintado apenas para aquele momento — uma prateada como esperança, uma azulada como mistério, uma rosa como sacrifício. Girando. Convergindo. Como se o universo inteiro prendesse a respiração.
+Havia luz também. Três luzes, para ser precisa. Três luas que dançavam juntas em um céu que parecia ter sido pintado apenas para aquele momento — Lyria prateada como esperança, Nyx azulada como mistério, Elara rosa como sacrifício. Girando. Convergindo. Como se o universo inteiro prendesse a respiração.
 
 *Luas... três luas...*
 
@@ -38,7 +48,7 @@ Um grito.
 
 Silêncio.
 
-E depois, apenas o vento. O vento constante de Serravento, soprando através de colinas douradas e campos infinitos, carregando consigo o perfume de flores-lua de pétalas prateadas, e o sussurro de histórias que ainda estavam por ser contadas.
+E depois, apenas o vento. O vento constante de Serravento, soprando através de colinas douradas e campos infinitos, carregando consigo o perfume de Gir Mul, flores-lua de pétalas prateadas, e o sussurro de histórias que ainda estavam por ser contadas.
 
 ---
 
@@ -54,13 +64,13 @@ Era exatamente o que Ayla precisava.
 
 — Mais um chá, senhora?
 
-A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcado pelo tempo e sorriso fácil, dono de uma pequena banca de ervas e especiarias na praça central de Zephyria. Ele a conhecia apenas como "a senhora de cabelos escuros" — uma mulher gentil mas reservada, que sempre comprava as mesmas folhas-de-cura aromáticas e pagava sem regatear.
+A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcado pelo tempo e sorriso fácil, dono de uma pequena banca de ervas e especiarias na praça central de Zephyria. Ele a conhecia apenas como "a senhora de cabelos escuros" — uma mulher gentil mas reservada, que sempre comprava as mesmas A Gish, folhas-de-cura aromáticas, e pagava sem regatear.
 
 — Não, obrigada — Ayla respondeu, sua voz mais suave do que fora em sua vida anterior, antes de... antes de tudo. — Hoje só preciso das folhas. E talvez daquelas raízes-doces que você mencionou na semana passada.
 
 O comerciante assentiu e começou a preparar o pacote. Enquanto ele trabalhava, Ayla observava a praça ao redor, seus olhos treinados registrando detalhes que a maioria das pessoas jamais notaria.
 
-Zephyria era uma cidade erguida sobre pilares de cristal Aetheris que flutuavam levemente no ar, suas torres esguias de mármore branco parecendo tocar o céu. Jardins suspensos ondulavam com as brisas constantes como vestidos de seda em dança eterna, e fontes esculpidas jorravam água que o vento transformava em névoa cintilante. As ruas eram largas e limpas, pavimentadas com pedras claras que refletiam a luz de Aurion como espelhos naturais. Em todos os lugares, o som constante do vento criava uma melodia de fundo — um sussurro perpétuo que os Serranos diziam ser a voz do último Seraphyen, falando com seus filhos através dos séculos.
+Zephyria era uma cidade erguida sobre pilares de cristal Aetheris que flutuavam levemente no ar, suas torres esguias de mármore branco parecendo tocar o céu. Jardins suspensos ondulavam com as brisas constantes como vestidos de seda em dança eterna, e fontes esculpidas jorravam água que o vento transformava em névoa cintilante. As ruas eram largas e limpas, pavimentadas com pedras claras que refletiam a luz de Aurion como espelhos naturais. Em todos os lugares, o som constante do vento criava uma melodia de fundo — um sussurro perpétuo que os Serranos diziam ser a voz de Ventus, o último Seraphyen, falando com seus filhos através dos séculos.
 
 Era uma cidade de beleza sobrenatural. Uma cidade que parecia ter sido criada para a paz.
 
@@ -72,7 +82,7 @@ Ayla tomou o pacote com um sorriso que não alcançava seus olhos.
 
 — Obrigada. Você foi muito gentil.
 
-Ela pagou e se afastou, seus passos a levando para longe da praça central, em direção às estradas que conduziam às vilas agrícolas nos arredores da capital. Era uma caminhada longa, mas ela preferia assim. Preferia a solidão dos campos à multidão das cidades. Preferia o silêncio do céu aberto aos sussurros que às vezes captava nas ruas movimentadas — sussurros sobre a Ordem, sobre Sanctrum, sobre um guardião que recentemente havia ascendido ao poder mais alto da terra.
+Ela pagou e se afastou, seus passos a levando para longe da praça central, em direção às estradas que conduziam às vilas agrícolas nos arredores da capital. Era uma caminhada longa, mas ela preferia assim. Preferia a solidão dos campos à multidão das cidades. Preferia o silêncio do céu aberto aos sussurros que às vezes captava nas ruas movimentadas — sussurros sobre a Ordem, sobre Sanctrum, sobre um Guardião Mestre que recentemente havia ascendido ao poder mais alto da terra.
 
 *Aurelius...*
 
@@ -84,7 +94,7 @@ E o segredo que ela carregava agora, dentro de si, era maior que qualquer outro 
 
 ## III. A Jornada para Mespiria
 
-A estrada de Zephyria a Ventania serpenteava através de colinas suaves cobertas por campos de aethrum-dourado, cereal de espigas que ondulava ao vento como mares de ouro. Mais adiante, pequenos bosques de prateadas-sussurrantes — árvores de casca clara e folhas que tilintavam como sinos quando o vento passava — ofereciam sombra e refresco para os viajantes.
+A estrada de Zephyria a Ventania serpenteava através de colinas suaves cobertas por campos de She Utu, o aethrum-dourado, cereal de espigas que ondulava ao vento como mares de ouro. Mais adiante, pequenos bosques de Lil Gish, as prateadas-sussurrantes — árvores de casca clara e folhas que tilintavam como sinos quando o vento passava — ofereciam sombra e refresco para os viajantes.
 
 Ayla caminhava devagar, seu corpo pesado com a vida que crescia dentro dela. A cada passo, ela sentia a criança se mover — pequenos chutes, pequenos alongamentos, como se o bebê já estivesse ansioso para conhecer o mundo que o aguardava.
 
@@ -92,11 +102,11 @@ Ayla caminhava devagar, seu corpo pesado com a vida que crescia dentro dela. A c
 
 A criança respondeu com outro chute, mais forte desta vez, e Ayla sorriu — um sorriso genuíno, daqueles que só surgiam quando ela pensava na vida que estava prestes a trazer ao mundo.
 
-— Você é forte, não é? — ela continuou, sua voz baixa mas cheia de carinho. — Sinto isso. Sinto seu espírito. Você vai ser alguém especial, minha criança. Alguém que vai marcar este mundo de uma forma que nem eu consigo imaginar.
+— Você é forte, não é? — ela continuou, sua voz baixa mas cheia de carinho. — Sinto isso. Sento seu espírito. Você vai ser alguém especial, minha criança. Alguém que vai marcar este mundo de uma forma que nem eu consigo imaginar.
 
-O vento soprou mais forte por um momento, como se respondesse às palavras dela, e Ayla parou para observar o céu. As três luas não eram visíveis durante o dia, mas ela sabia que estavam lá — esperando, observando, preparando-se para uma Convergência que astrólogos de todos os reinos haviam predito para as próximas semanas.
+O vento soprou mais forte por um momento, como se respondesse às palavras dela, e Ayla parou para observar o céu. As três luas não eram visíveis durante o dia, mas ela sabia que estavam lá — Lyria, Nyx e Elara, esperando, observando, preparando-se para uma Convergência que astrólogos de todos os reinos haviam predito para as próximas semanas.
 
-Uma Convergência Tripla. O alinhamento das três luas em um único ponto do céu. Um fenômeno tão raro que apenas seis haviam sido registrados em toda a história de Nova Aetherion. E cada um deles havia marcado o nascimento — ou a morte — de alguém cujo destino mudaria o curso das eras.
+Uma Convergência Tripla. O alinhamento das três luas em um único ponto do céu. Um fenômeno tão raro que apenas sete haviam sido registrados em toda a história de Nova Aetherion. E cada um deles havia marcado o nascimento — ou a morte — de alguém cujo destino mudaria o curso das eras.
 
 *É você, minha criança?* Ayla pensou, sentindo a criança se mover novamente. *É você quem as luas esperam?*
 
@@ -106,7 +116,7 @@ Ela não tinha respostas. Só tinha perguntas. E o peso de ter que protegê-la s
 
 ## IV. O Reino dos Ventos Livres
 
-Enquanto caminhava, Ayla observava a paisagem ao redor com olhos que haviam visto muito mais do que deixavam transparecer. Serravento era diferente de qualquer outro reino que conhecera — e ela conhecera muitos em sua vida como guerreira.
+Enquanto caminhava, Ayla observava a paisagem ao redor com olhos que haviam visto muito mais do que deixavam transparecer. Serravento era diferente de qualquer outro reino que conhecera — e ela conhecera muitos em sua vida como guerreira da Equipe Aurora.
 
 Ao norte, Fulmora era um reino de tempestades perpétuas e auroras eternas, onde o povo vivia em constante estado de alerta e intensidade. Ao oeste, Pyralis era terra de fogo e vulcões, onde a paixão queimava tão forte quanto as forjas que sustentavam sua economia. Ao leste, Terraxis guardava seus segredos em montanhas e cavernas, um povo de memórias longas e tradições profundas. Ao sul, Thalassia flutuava sobre águas cristalinas, adaptável e fluido como o elemento que o definia.
 
@@ -130,7 +140,7 @@ A criança chutou novamente, e Ayla sentiu algo estranho — uma espécie de res
 
 Quando Aurion começou sua descida no céu, pintando as nuvens em tons de laranja e roxo, Ayla finalmente avistou seu destino.
 
-Mespiria era uma pequena comunidade agrícola nas cercanias de Ventania — longe o suficiente da capital para ser esquecida pela maioria, perto o suficiente para ter acesso aos suprimentos necessários. Era um lugar tranquilo, onde famílias trabalhavam a terra que seus avós haviam trabalhado antes delas, onde as crianças cresciam correndo entre campos de aethrum-dourado sob céus azuis sem fim, onde as preocupações do mundo pareciam distantes e irrelevantes.
+Mespiria era uma pequena comunidade agrícola nas cercanias de Ventania — longe o suficiente da capital para ser esquecida pela maioria, perto o suficiente para ter acesso aos suprimentos necessários. Era um lugar tranquilo, onde famílias trabalhavam a terra que seus avós haviam trabalhado antes delas, onde as crianças cresciam correndo entre campos de She Utu, o aethrum-dourado, sob céus azuis sem fim, onde as preocupações do mundo pareciam distantes e irrelevantes.
 
 Era exatamente o que Ayla procurava.
 
@@ -160,7 +170,7 @@ Melessa assentiu, aceitando a meia-confissão sem pressionar por mais. Ela era p
 
 ## VI. Diálogos com o Porvir
 
-Naquela noite, enquanto as três luas começavam a ascender no céu — a prateada primeiro, seguida pela azulada, com a rosa surgindo no horizonte — Ayla sentou-se à janela de seu pequeno quarto, observando as estrelas que pontilhavam o céu de Serravento como diamantes em veludo escuro.
+Naquela noite, enquanto as três luas começavam a ascender no céu — Lyria primeiro, prateada e serena, seguida por Nyx azulada e misteriosa, com Elara rosa surgindo no horizonte — Ayla sentou-se à janela de seu pequeno quarto, observando as estrelas que pontilhavam o céu de Serravento como diamantes em veludo escuro.
 
 A criança estava quieta agora, como se também observasse o céu. Ayla colocou as mãos sobre a barriga, sentindo o calor da vida que crescia dentro dela.
 
@@ -174,15 +184,15 @@ Ela parou, lutando contra as lágrimas que ameaçavam surgir.
 
 — Se soubesse, ele faria qualquer coisa para nos proteger. E isso colocaria em risco tudo o que ele construiu. Tudo o que ele precisa proteger. Então eu parti. Parti sem dizer nada. Parti para que você pudesse ter uma vida de paz. Uma vida longe das guerras que eu vivi, longe dos perigos que eu enfrentei, longe de tudo o que me fez ser quem sou.
 
-O vento soprou mais forte por um momento, e as prateadas-sussurrantes no quintal tilintaram como sinos, criando uma melodia que parecia uma canção de ninar.
+O vento soprou mais forte por um momento, e as Lil Gish no quintal, as prateadas-sussurrantes, tilintaram como sinos, criando uma melodia que parecia uma canção de ninar.
 
 — Eu vou te contar sobre ele um dia — Ayla prometeu. — Quando você for mais velha. Quando for seguro. Eu vou te contar sobre o homem que me amou apesar de tudo, que me seguiu através de batalhas e sombras, que me olhava como se eu fosse a única estrela no céu. Mas por agora... por agora, é apenas você e eu, minha pequena.
 
-A criança chutou, não era um chute comum desta vez. Era um movimento deliberado, como se estivesse tentando alcançar as mãos de Ayla através da barreira de carne e osso.
+A criança chutou, mais não era um chute comum desta vez. Era um movimento deliberado, como se estivesse tentando alcançar as mãos de Ayla através da barreira de carne e osso.
 
 — Você é especial — Ayla sussurrou, sentindo lágrimas finalmente escaparem. — Eu sinto isso. Desde o primeiro momento em que soube que você existia, eu soube que você seria diferente. Não sei explicar como. Apenas... sinto. Como se você carregasse algo dentro de si que vai além do que eu posso compreender.
 
-Ela secou as lágrimas com a costureira da mão.
+Ela secou as lágrimas com a costeira da mão.
 
 — Eu vou te proteger. Vou te dar uma vida boa. Vou te amar todos os dias, em cada respiração, em cada passo que você der. E quando as tempestades vierem — porque elas sempre vêm — eu vou estar lá para te ajudar a atravessá-las. Eu prometo.
 
@@ -206,7 +216,7 @@ A criança estava quieta. Quieta demais.
 
 Por um momento, nada aconteceu. E então, um movimento. Fraco, mas presente. A criança estava lá. Mas algo havia mudado.
 
-Ayla levantou-se e caminhou até a janela. O céu estava claro, sem nuvens, e Aurion já estava alto no horizonte. Mas as três luas ainda eram visíveis — pálidas contra o azul do céu, mas presentes. Aproximando-se lentamente do ponto onde suas órbitas se encontrariam.
+Ayla levantou-se e caminhou até a janela. O céu estava claro, sem nuvens, e Aurion já estava alto no horizonte. Mas as três luas ainda eram visíveis — pálidas contra o azul do céu, mas presentes. Lyria, Nyx e Elara, aproximando-se lentamente do ponto onde suas órbitas se encontrariam.
 
 A Convergência estava próxima. Mais próxima do que ela imaginava.
 
@@ -300,19 +310,35 @@ E nas colinas douradas de Serravento, o vento soprou mais forte, carregando cons
 
 ---
 
+Mirella fez uma pausa, fechando suavemente o livro.
+
+As crianças permaneciam em silêncio, absorvidas pela história.
+
+— E o que aconteceu depois? — uma das crianças perguntou, ansiosa.
+
+A narradora sorriu misteriosamente.
+
+— Isso é história para outra noite, pequenos. Agora é hora de dormir.
+
+Enquanto as crianças se levantavam para ir aos dormitórios, o vento lá fora soprou mais forte por um momento, como se o próprio universo estivesse prenunciando algo extraordinário.
+
+---
+
 **[CONTINUA NO CAPÍTULO II...]**
 
 ---
 
-*No próximo capítulo: A Convergência Tripla finalmente acontece. Em Sanctrum, o guardião sente que algo está mudando. E em uma pequena vila chamada Mespiria, uma criança está prestes a nascer sob a luz de três luas que marcariam seu destino para sempre.*
+*No próximo capítulo: A Convergência Tripla finalmente acontece. Em Sanctrum, Aurelius sente que algo está mudando. E em uma pequena vila chamada Mespiria, uma criança está prestes a nascer sob a luz de três luas que marcariam seu destino para sempre.*
 
 ---
 
 ## 📜 Nota para o Leitor
 
-Este capítulo estabelece Ayla como protagonista provisória — uma mulher misteriosa carregando segredos e uma criança cujo destino está entrelaçado com as forças mais antigas do universo. Através de seus olhos, conhecemos Serravento e os mistérios que permeiam a história.
+Este capítulo funciona como uma introdução atmosférica ao universo de Alyndra. Através dos olhos de Ayla, conhecemos Serravento, o Reino dos Ventos Livres, e estabelecemos os mistérios que permeiam a história: quem é Ayla? Por que ela está escondida? Quem é o pai da criança? O que torna essa criança tão especial?
 
 Os flashes sensoriais no início são fragmentos de memórias que serão reveladas mais tarde — vislumbres da Convergência Tripla que está por vir, do nascimento da criança, do sacrifício de Ayla. Eles funcionam como uma promessa ao leitor de que algo grande está prestes a acontecer.
+
+Easter eggs são plantados: a Convergência Tripla, a natureza especial da criança, o amor proibido entre Ayla e Aurelius.
 
 Serravento é apresentado como um refúgio — não apenas para Ayla, mas para todos que buscam liberdade. Isso estabelece uma conexão temática que será importante ao longo de toda a história: a busca por um lar, por pertencimento, por paz em meio às tempestades da vida.
 
@@ -333,7 +359,7 @@ Serravento é apresentado como um refúgio — não apenas para Ayla, mas para t
 
 | Termo | Definição |
 |-------|-----------|
-| **Convergência Tripla** | Alinhamento das três luas; fenômeno raro que marca eventos de importância cósmica |
+| **Convergência Tripla** | Alinhamento das três luas (Lyria, Nyx, Elara); fenômeno raro que marca eventos de importância cósmica |
 | **Serranos** | Povo de Serravento; conhecidos por hospitalidade e discrição |
 | **Prateadas-sussurrantes** | Árvores de casca clara; folhas tilintam como sinos no vento |
 | **Aethrum-dourado** | Cereal dourado; ondula nos campos como mares de ouro |
@@ -344,7 +370,7 @@ Serravento é apresentado como um refúgio — não apenas para Ayla, mas para t
 |------|--------|----------|
 | **Ayla** | Protagonista do capítulo | Guerreira escondida; carrega uma criança no ventre |
 | **Melessa** | Parteira de Mespiria | Acolheu Ayla; prepara-se para o parto |
-| **Aurelius (mencionado)** | Pai da criança | Guardião; não sabe sobre a criança |
+| **Aurelius (mencionado)** | Pai da criança | Guardião Mestre; não sabe sobre a criança |
 
 ---
 

@@ -773,15 +773,18 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 # 🌿 FLORA DE NOVA AETHERION
 
-| Nome | Descrição | Uso |
-|------|-----------|-----|
-| **Aethrum-dourado** | Cereal dourado brilhante, ondula nos campos de Serravento | Alimento principal |
-| **Pratafolha** | Árvore de folhas prateadas, reflete a luz das três luas | Medicinal, ornamental |
-| **Flores-Mespiria** | Flores de âmbar/dourado | Cerimonial |
-| **Trepadeiras-de-vento** | Plantas que abraçam paredes | Purificam ar |
-| **Vagens-luminais** | Leguminosas bioluminescentes | Alimentação infantil |
-| **Flores-lua** | Pétalas prateadas, abrem à noite | Perfume |
-| **Hydra Vine (Videiras de Água)** | Plantas de Thalassia que absorvem e armazenam água | Fonte vital em emergências |
+| Nome Comum | Nome Ancestral (Emê-Gir) | Descrição | Uso |
+|------|--------------------------|-----------|-----|
+| **Aethrum-dourado** | **She Utu** | Cereal dourado brilhante, ondula nos campos de Serravento | Alimento principal |
+| **Pratafolha** | **Gesh Nanna** | Árvore de folhas prateadas, reflete a luz das três luas | Medicinal, ornamental |
+| **Flores-Mespiria** | — | Flores de âmbar/dourado | Cerimonial |
+| **Trepadeiras-de-vento** | **Gesh Lil** | Plantas que abraçam paredes | Purificam ar |
+| **Vagens-luminais** | **Gú Me** | Leguminosas bioluminescentes | Alimentação infantil |
+| **Flores-lua** | **Gir Mul** | Pétalas prateadas, abrem à noite | Perfume |
+| **Hydra Vine (Videiras de Água)** | **U A Ki** | Plantas de Thalassia que absorvem e armazenam água | Fonte vital em emergências |
+| **Flores-do-vento** | **Gesh An Lil** | Flores delicadas que dançam ao menor sopro | Ornamental |
+| **Folhas-de-cura** | **A Gish** | Ervas aromáticas medicinais | Medicinal |
+| **Prateadas-sussurrantes** | **Lil Gish** | Árvores de casca clara, folhas tilintam como sinos | Ornamental |
 
 **NUNCA USAR:** trigo, arroz, milho, ou outros cereais terrestres
 
@@ -791,14 +794,14 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 ## Criaturas Comuns
 
-| Nome | Classificação | Características |
-|------|---------------|-----------------|
-| **Ventorro** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, afinidade com ar, empático, leal |
-| **Capraluna** | Mamífero médio | Pelagem prateada, produtora de leite (criação/pastoreio) |
-| **Assombra-pelos** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
-| **Asas-de-veludo** | Inseto alado | Asas iridescentes, polinizadora |
-| **Kryll** | Artrópode pequeno | Translúcido, brilha no escuro, deixa rastros de Aethra residual |
-| **Lumis** | Inseto alado | Asas iridescentes, rastros brilhantes no ar, encanta crianças |
+| Nome Comum | Nome Ancestral (Emê-Gir) | Classificação | Características |
+|------|--------------------------|---------------|-----------------|
+| **Ventorro** | **Ur Lil** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, afinidade com ar, empático, leal |
+| **Capraluna** | **Ur Nanna** | Mamífero médio | Pelagem prateada, produtora de leite (criação/pastoreio) |
+| **Assombra-pelos** | **Ur Ensi** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
+| **Asas-de-veludo** | **Mushen Gir** | Inseto alado | Asas iridescentes, polinizadora |
+| **Kryll** | — | Artrópode pequeno | Translúcido, brilha no escuro, deixa rastros de Aethra residual |
+| **Lumis** | — | Inseto alado | Asas iridescentes, rastros brilhantes no ar, encanta crianças |
 
 ## Criaturas Lendárias
 
@@ -808,11 +811,13 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 ## Criaturas para Codinomes de Vanguardas
 
-| Nome | Habitat | Características | Codinome Usado Por |
-|------|---------|-----------------|-------------------|
-| **Urrak** | Planícies de Terraxis | Predador cursorial de pelagem escura, caça em alcateias, uivos ecoam em noites sem lua, lealdade absoluta ao bando | "O Urrak" (herói mascarado) |
-| **Nyctara** | Florestas de Umbra | Ave noturna de asas silenciosas, olhos que veem no escuro total, caça por ecolocalização espiritual | **"A Nyctara" (Lyris)** |
-| **Velatrix** | Céus de Serravento | Ave de rapina veloz, penas criam assobios em voo picado, visão que atravessa névoa | "O Velatrix" (herói mascarado) |
+| Nome Comum | Nome Ancestral (Emê-Gir) | Habitat | Características | Codinome Usado Por |
+|------|--------------------------|---------|-----------------|-------------------|
+| **Urrak** | **Ur Sag** | Planícies de Terraxis | Predador cursorial de pelagem escura, caça em alcateias, uivos ecoam em noites sem lua, lealdade absoluta ao bando | "O Urrak" (herói mascarado) |
+| **Nyctara** | **Mushen Gig** ⚠️ | Florestas de Umbra | Ave noturna de asas silenciosas, olhos que veem no escuro total, caça por ecolocalização espiritual | **"A Nyctara" (Lyris)** |
+| **Velatrix** | **Mushen An** | Céus de Serravento | Ave de rapina veloz, penas criam assobios em voo picado, visão que atravessa névoa | "O Velatrix" (herói mascarado) |
+
+⚠️ **EXCEÇÃO IMPORTANTE**: O nome "Nyctara" é mantido como exceção especial para a ave de Lyris, tanto como espécie quanto como codinome. Em contextos ancestrais/formais, pode ser referida como "Mushen Gig", mas na narrativa o nome "Nyctara" prevalece.
 
 **NUNCA USAR:** lobo, coruja, falcão, águia, ou outros animais terrestres
 
