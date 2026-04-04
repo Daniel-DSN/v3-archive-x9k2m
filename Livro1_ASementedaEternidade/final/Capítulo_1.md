@@ -54,7 +54,7 @@ Era exatamente o que Ayla precisava.
 
 — Mais um chá, senhora?
 
-A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcado pelo tempo e sorriso fácil, dono de uma pequena banca de ervas e especiarias na praça central de Zephyra. Ele a conhecia apenas como "a senhora de cabelos escuros" — uma mulher gentil mas reservada, que sempre comprava as mesmas Mirael aromáticas e pagava sem regatear.
+A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcado pelo tempo e sorriso fácil, dono de uma pequena banca de ervas e especiarias na praça central de Zephyra. Ele a conhecia apenas como "a senhora de cabelos escuros" — uma mulher gentil, mas reservada, que sempre comprava as mesmas Mirael aromáticas e pagava sem regatear.
 
 — Não, obrigada — Ayla respondeu, sua voz mais suave do que fora em sua vida anterior, antes de... antes de tudo. — Hoje só preciso das folhas. E talvez daquelas raízes-doces que você mencionou na semana passada.
 
@@ -92,7 +92,7 @@ Ayla caminhava devagar, seu corpo pesado com a vida que crescia dentro dela. A c
 
 A criança respondeu com outro chute, mais forte desta vez, e Ayla sorriu — um sorriso genuíno, daqueles que só surgiam quando ela pensava na vida que estava prestes a trazer ao mundo.
 
-— Você é forte, não é? — ela continuou, sua voz baixa mas cheia de carinho. — Sinto isso. Sinto seu espírito. Você vai ser alguém especial, minha criança. Alguém que vai marcar este mundo de uma forma que nem eu consigo imaginar.
+— Você é forte, não é? — ela continuou, sua voz baixa, mas cheia de carinho. — Sinto isso. Sinto seu espírito. Você vai ser alguém especial, minha criança. Alguém que vai marcar este mundo de uma forma que nem eu consigo imaginar.
 
 O vento soprou mais forte por um momento, como se respondesse às palavras dela, e Ayla parou para observar o céu. As três luas não eram visíveis durante o dia, mas ela sabia que estavam lá — esperando, observando, preparando-se para uma Convergência que astrólogos de todos os reinos haviam predito para as próximas semanas.
 
@@ -134,7 +134,7 @@ Mespiria era uma pequena comunidade agrícola nas cercanias de Velantis — long
 
 Era exatamente o que Ayla procurava.
 
-Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Aéryan, e uma viúva grávida chamada Melessa oferecera-lhe uma casa pequena mas aconchegante nos arredores da vila.
+Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Aéryan, e uma viúva grávida chamada Melessa oferecera-lhe uma casa pequena, mas aconchegante nos arredores da vila.
 
 — Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam à luz de Aurion da tarde. — Comecei a me preocupar. A caminhada de Zephyra não é curta, especialmente em seu estado.
 
@@ -212,7 +212,7 @@ A Convergência estava próxima. Mais próxima do que ela imaginava.
 
 — Melessa! — Ayla chamou, sua voz carregada de uma urgência que a surpreendeu. — Melessa!
 
-A velha parteira apareceu momentos depois, seus olhos ainda turvos de sono mas alertas diante do tom na voz de Ayla.
+A velha parteira apareceu momentos depois, seus olhos ainda turvos de sono, mas alertas diante do tom na voz de Ayla.
 
 — O que foi? Aconteceu algo?
 
@@ -254,7 +254,7 @@ Ayla sentia isso mais do que qualquer outro. Seu corpo, já pesado com a gravide
 
 Ela passava as horas sentada à janela, observando o céu, observando as três luas que se aproximavam cada vez mais do ponto de convergência. Às vezes, ela falava com a criança — sussurros de amor, de esperança, de medo que ela tentava esconder até de si mesma. Às vezes, ficava em silêncio, apenas sentindo, apenas esperando.
 
-Melessa a observava de longe, preocupada mas respeitando o espaço que a mulher misteriosa parecia precisar. A parteira havia visto muitos partos em sua vida, mas nunca havia sentido algo como aquilo — a sensação de que o próprio universo estava prendendo a respiração, esperando o momento em que uma criança específica tomaria seu primeiro suspiro.
+Melessa a observava de longe, preocupada, mas respeitando o espaço que a mulher misteriosa parecia precisar. A parteira havia visto muitos partos em sua vida, mas nunca havia sentido algo como aquilo — a sensação de que o próprio universo estava prendendo a respiração, esperando o momento em que uma criança específica tomaria seu primeiro suspiro.
 
 — As luas estão próximas — Melessa comentou certa tarde, enquanto preparava ervas para o parto que se aproximava. — A Convergência acontecerá em questão de dias. Talvez horas.
 

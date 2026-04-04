@@ -20,7 +20,7 @@ A noite chegou diferente em Mespiria.
 
 Não era algo que os aldeões pudessem nomear com precisão. O céu estava claro, sem nuvens, e Aurion havia se posto como sempre fazia. Mas havia algo no ar — uma tensão sutil, como a corda de um instrumento musical sendo esticada cada vez mais, esperando o momento em que finalmente se romperia.
 
-Os animais sentiram primeiro. Os ventorros nos estábulos agitavam-se sem razão aparente, suas orelhas prateadas girando para sons que ninguém mais ouvia. Os capralunas nas pastagens recusavam-se a deitar, seus olhos fixos no horizonte como se vissem algo que os humanos não podiam perceber.
+Os animais sentiram primeiro. Os liryths nos estábulos agitavam-se sem razão aparente, suas orelhas prateadas girando para sons que ninguém mais ouvia. Os nariel nas pastagens recusavam-se a deitar, seus olhos fixos no horizonte como se vissem algo que os humanos não podiam perceber.
 
 Então as luas surgiram.
 
@@ -56,7 +56,7 @@ Melessa não respondeu. Seus olhos estavam fixos em Ayla.
 
 A mulher jazia em sua cama, suor escorrendo por seu rosto, suas mãos agarrando os lençóis com força suficiente para os nós dos dedos ficarem brancos. Mas não era a dor que preocupava a parteira — era algo nos olhos de Ayla, uma consciência que parecia ir além do momento presente, como se ela visse algo que ninguém mais podia ver.
 
-— O bebê vem de nádegas — Melessa anunciou após o exame inicial, sua voz calma mas seus olhos revelando a gravidade da situação. — Isso vai ser difícil, Ayla. Preciso que você seja forte. Mais forte do que já foi.
+— O bebê vem de nádegas — Melessa anunciou após o exame inicial, sua voz calma, mas seus olhos revelando a gravidade da situação. — Isso vai ser difícil, Ayla. Preciso que você seja forte. Mais forte do que já foi.
 
 Ayla respirou fundo, e quando seus olhos encontraram os da parteira, Melessa viu algo que a fez estremecer — não medo, não desespero, mas uma aceitação serena que parecia vir de muito longe.
 
@@ -282,7 +282,7 @@ Ele não sabia sobre a criança. Não sabia que Ayla havia dado à luz uma menin
 
 Tudo o que sabia era que algo havia mudado naquela noite. E que o mundo, de alguma forma que ele não conseguia articular, nunca mais seria o mesmo.
 
-Ele voltou para a cama, mas o sono não veio. Ficou deitado no escuro, olhando para o teto, sentindo a ausência como uma ferida que não sangrava mas que doía — uma dor surda, persistente, sem nome.
+Ele voltou para a cama, mas o sono não veio. Ficou deitado no escuro, olhando para o teto, sentindo a ausência como uma ferida que não sangrava, mas que doía — uma dor surda, persistente, sem nome.
 
 *Onde quer que você esteja, Ayla*, pensou ele, *espero que esteja em paz.*
 
