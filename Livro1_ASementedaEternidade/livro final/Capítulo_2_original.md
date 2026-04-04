@@ -18,7 +18,7 @@
 
 Os mundos devastados pela Primeira Guerra renasceram das cinzas. E deste renascimento, os Sete Reinos de Nova Aetherion foram fundados — sete nações nascidas do sacrifício de deuses, sete povos carregando em seus sangues fragmentos do poder antigo.
 
-Ao Norte, Fulmora, terra de tempestades e auroras. Ao Oeste, Pyralis, terra de fogo e vulcões. Ao Leste, Terraxis, terra de montanhas e memórias. Ao Sul, Thalassia, terra de águas cristalinas. No Centro, Aetherion Prime, coração político. E ao Sudoeste, Serravento — onde uma mulher misteriosa carregava uma criança cujo destino ninguém podia imaginar.
+Ao Norte, Fulmora, terra de tempestades e auroras. Ao Oeste, Pyralis, terra de fogo e vulcões. Ao Leste, Terraxis, terra de montanhas e memórias. Ao Sul, Thalassia, terra de águas cristalinas. No Centro, Aetherion Prime, coração político. E ao Sudoeste, Aérya — onde uma mulher misteriosa carregava uma criança cujo destino ninguém podia imaginar.
 
 ---
 
@@ -30,7 +30,7 @@ No coração de Aetherion Prime, dentro dos muros impenetráveis de Sanctrum, a 
 
 — Documentos que podem ter sido forjados — interrompeu a Mestra de Defesa, uma guerreira imponente com cicatrizes que contavam histórias de batalhas que a maioria dos presentes só conhecia através de relatórios. — Não podemos ignorar que Pyralis tem a superioridade militar. Suas forças são mais bem treinadas, mais bem equipadas. Se isso escalar para conflito aberto, eles não hesitarão em usar força.
 
-— E isso é exatamente o que devemos evitar — o Mestre de Economia interveio, suas mãos gesticulando com a urgência de alguém que via desastres em números que outros não sabiam ler. — Uma guerra entre Pyralis e Terraxis desestabilizaria o comércio de cristais Aetheris em toda Nova Aetherion. Os preços disparariam. Os outros reinos sofreriam. Thalassia perderia seus contratos de exportação. Fulmora ficaria sem matéria-prima para suas tecnologias. Até Serravento, que menos depende do comércio, sentiria o impacto.
+— E isso é exatamente o que devemos evitar — o Mestre de Economia interveio, suas mãos gesticulando com a urgência de alguém que via desastres em números que outros não sabiam ler. — Uma guerra entre Pyralis e Terraxis desestabilizaria o comércio de cristais Aetheris em toda Nova Aetherion. Os preços disparariam. Os outros reinos sofreriam. Thalassia perderia seus contratos de exportação. Fulmora ficaria sem matéria-prima para suas tecnologias. Até Aérya, que menos depende do comércio, sentiria o impacto.
 
 — O ponto não é economia — retrucou o Mestre de Justiça, um homem de expressão severa que havia passado sua vida interpretando leis antigas. — O ponto é legalidade. Se permitirmos que Pyralis tome território por força, estabelecemos um precedente perigoso. Outros reinos começarão a fazer reivindicações similares. A ordem que mantemos desde a fundação dos Sete Reinos desmoronará.
 
@@ -40,7 +40,7 @@ Seu porte imponente e olhar penetrante comandavam respeito até mesmo dos consel
 
 Mas aquele dia era diferente.
 
-Algo distraía sua atenção desde o início da reunião — uma sensação estranha que apertou seu peito como mãos invisíveis, um pressentimento que veio do fundo de sua alma e não das palavras que ecoavam na câmara. Sua mão direita tremeu levemente sobre a mesa de mármore, um tremor quase imperceptível que ele controlou com força de vontade, e por um instante — apenas um instante — seus olhos se voltaram para o sudoeste, na direção de Serravento, como se pudessem ver através de paredes de pedra e distâncias impossíveis.
+Algo distraía sua atenção desde o início da reunião — uma sensação estranha que apertou seu peito como mãos invisíveis, um pressentimento que veio do fundo de sua alma e não das palavras que ecoavam na câmara. Sua mão direita tremeu levemente sobre a mesa de mármore, um tremor quase imperceptível que ele controlou com força de vontade, e por um instante — apenas um instante — seus olhos se voltaram para o sudoeste, na direção de Aérya, como se pudessem ver através de paredes de pedra e distâncias impossíveis.
 
 *Alguma coisa está acontecendo.*
 
@@ -52,17 +52,17 @@ O Guardião Mestre piscou, recompondo sua expressão estoica em uma fração de 
 
 — Concordo. Envie uma comitiva de três diplomatas experientes, escoltados por uma guarda leve. Não queremos que Pyralis interprete isso como ameaça militar. — Ele fez uma pausa, seus dedos tamborilando na mesa uma única vez. — E mande observadores discretos de nossa rede de informação. Quero saber de qualquer movimento militar incomum de ambos os lados, especialmente movimentos noturnos.
 
-A reunião continuou, mas Aurelius mal ouvia as discussões subsequentes sobre rotas comerciais e direitos de navegação. Uma parte de sua mente permanecia fixa no sudoeste, em Serravento, em uma mulher que ele não via há meses e cujo rosto ainda assombrava seus sonhos mais tranquilos e seus pesadelos mais profundos.
+A reunião continuou, mas Aurelius mal ouvia as discussões subsequentes sobre rotas comerciais e direitos de navegação. Uma parte de sua mente permanecia fixa no sudoeste, em Aérya, em uma mulher que ele não via há meses e cujo rosto ainda assombrava seus sonhos mais tranquilos e seus pesadelos mais profundos.
 
 *Ayla.*
 
 O nome ecoou em sua consciência como uma oração, como uma ferida que nunca cicatrizou completamente, como uma promessa que ele não tinha certeza de poder cumprir. Eles se conheciam havia anos — haviam lutado juntos no Esquadrão Aurora, uma unidade de elite que lidava com ameaças que exércitos regulares não podiam tocar, haviam compartilhado perigos que os haviam moldado como o fogo molda metal, haviam construído algo que nunca tiveram coragem de nomear.
 
-E quando ela desapareceu para Serravento, meses antes, ele deixou-a ir porque sabia que ela precisava de paz, precisava de distância, precisava de algo que ele não podia lhe dar enquanto fosse Guardião Mestre com suas responsabilidades infinitas e sua vida pública escrutinada por todos.
+E quando ela desapareceu para Aérya, meses antes, ele deixou-a ir porque sabia que ela precisava de paz, precisava de distância, precisava de algo que ele não podia lhe dar enquanto fosse Guardião Mestre com suas responsabilidades infinitas e sua vida pública escrutinada por todos.
 
 Mas agora, algo estava errado. Ele sentia como fogo queimando em suas veias, como trovões rugindo em seu peito, como o próprio ar se recusando a entrar em seus pulmões de forma normal. E com cada momento que passava, a sensação crescia em intensidade.
 
-Ele não sabia que naquele exato momento, em uma pequena vila nos arredores de Zephyria, uma criança estava prestes a nascer — uma criança que carregava em suas veias o sangue de duas linhagens extraordinárias, uma criança cujo destino estava entrelaçado com as próprias forças que haviam criado o universo.
+Ele não sabia que naquele exato momento, em uma pequena vila nos arredores de Zephyra, uma criança estava prestes a nascer — uma criança que carregava em suas veias o sangue de duas linhagens extraordinárias, uma criança cujo destino estava entrelaçado com as próprias forças que haviam criado o universo.
 
 ---
 
@@ -88,7 +88,7 @@ E agora, a sexta Convergência Tripla em toda a história registrada estava ocor
 
 Em torres de observação de Fulmora, sábios murmuravam sobre renascimentos. Em templos de Thalassia, sacerdotisas realizavam rituais de bênção para crianças que nascessem naquela noite. Em bibliotecas de Terraxis, estudiosos comparavam registros antigos tentando discernir padrões. Em Sanctrum, o Conselho dos 10 discutia implicações políticas.
 
-E em uma pequena vila chamada Mespiria, nos confins do sudoeste de Serravento, uma mulher chamada Ayla entrava em trabalho de parte — uma guerreira que havia sobrevivido a batalhas, uma amante que havia amado em segredo, uma mãe que daria sua vida para que sua filha pudesse viver.
+E em uma pequena vila chamada Mespiria, nos confins do sudoeste de Aérya, uma mulher chamada Ayla entrava em trabalho de parte — uma guerreira que havia sobrevivido a batalhas, uma amante que havia amado em segredo, uma mãe que daria sua vida para que sua filha pudesse viver.
 
 O universo, em sua sabedoria infinita, havia escolhido aquele momento para marcar o nascimento de alguém que carregava em suas veias o sangue de duas linhagens extraordinárias — a linhagem dos Seraphyens através de seu pai, a linhagem dos primeiros povos através de sua mãe. Uma criança destinada a mudar o curso da história, embora ninguém naquela noite soubesse ainda o quanto.
 
@@ -96,7 +96,7 @@ O universo, em sua sabedoria infinita, havia escolhido aquele momento para marca
 
 ## A Parteira e a Tempestade
 
-Nas cercanias de Zephyria, capital de Serravento, onde as colinas suaves encontravam os primeiros bosques de Ventania e os ventos carregavam o perfume de flores silvestres, existia uma pequena comunidade agrícola chamada Mespiria. Era um lugar tranquilo, onde famílias trabalhavam a terra que seus avós haviam trabalhado antes delas, onde as crianças cresciam correndo entre campos de She Utu, o aethrum-dourado, sob céus azuis sem fim, onde as preocupações do mundo pareciam distantes e irrelevantes, como histórias de terras estrangeiras que não afetavam o cotidiano de ninguém.
+Nas cercanias de Zephyra, capital de Aérya, onde as colinas suaves encontravam os primeiros bosques de Velantis e os ventos carregavam o perfume de flores silvestres, existia uma pequena comunidade agrícola chamada Mespiria. Era um lugar tranquilo, onde famílias trabalhavam a terra que seus avós haviam trabalhado antes delas, onde as crianças cresciam correndo entre campos de Aethrys, o aethrys, sob céus azuis sem fim, onde as preocupações do mundo pareciam distantes e irrelevantes, como histórias de terras estrangeiras que não afetavam o cotidiano de ninguém.
 
 Naquela noite, porém, Mespiria não estava tranquila.
 
@@ -220,7 +220,7 @@ E nos braços de Melessa, que havia tomado a criança gentilmente, Grazielly per
 
 A notícia se espalhou como fogo em palha seca, carregada por vizinhos que acordaram com o fim da tempestade e encontraram o silêncio da morte na modesta casa de pedra. Antes do amanhecer, toda Mespiria sabia que Ayla, a mulher gentil que havia chegado à vila meses antes com um passado misterioso e um sorriso caloroso, havia morrido dando à luz uma filha.
 
-As mulheres da vila vieram em silêncio, trazendo flores colhidas no escuro da madrugada, velas de cristal Aetheris que iluminavam o caminho até a pequena casa de pedra. Os homens permaneceram do lado de fora, cabeças baixas em respeito, alguns limpando lágrimas furtivas, outros simplesmente permanecendo em silêncio como uma forma de homenagem. As crianças, que haviam perdido uma figura materna extra que sempre tinha um doce de She Utu ou uma história para oferecer, foram mantidas em casa, protegidas da dor que seus pequenos corações ainda não podiam compreender.
+As mulheres da vila vieram em silêncio, trazendo flores colhidas no escuro da madrugada, velas de cristal Aetheris que iluminavam o caminho até a pequena casa de pedra. Os homens permaneceram do lado de fora, cabeças baixas em respeito, alguns limpando lágrimas furtivas, outros simplesmente permanecendo em silêncio como uma forma de homenagem. As crianças, que haviam perdido uma figura materna extra que sempre tinha um doce de Aethrys ou uma história para oferecer, foram mantidas em casa, protegidas da dor que seus pequenos corações ainda não podiam compreender.
 
 Melessa assumiu a tarefa de preparar o corpo de Ayla para o descanso final. Ela lavou aquele rosto pálido com água de fontes sagradas que os Thalassianos haviam abençoado eras atrás, penteou aqueles cabelos escuros que sempre haviam brilhado com vida e agora brilhavam com a luz das velas, vestiu aquele corpo com o melhor vestido que encontrou — um tecido azul como o céu de verão, que Ayla havia comprado meses antes, dizendo com um sorriso misterioso que era "para um dia especial".
 
@@ -298,7 +298,7 @@ O toque à porta veio como uma interrupção que ele esperava e temia ao mesmo t
 
 Um mensageiro jovem entrou, seu rosto mostrando urgência e cansaço de uma viagem longa através da noite, suas roupas ainda molhadas de orvalho e chuva.
 
-— Guardião Mestre — o mensageiro se curvou em respeito. — Uma mensagem urgente de Serravento. Do orfanato das Asas, em uma vila chamada Mespiria.
+— Guardião Mestre — o mensageiro se curvou em respeito. — Uma mensagem urgente de Aérya. Do Orfanato Luminis, em uma vila chamada Mespiria.
 
 Aurelius sentiu seu coração acelerar, um bater descompassado que ele controlou com anos de prática. Mespiria. Ayla estava em Mespiria. Ela havia mencionado a vila em uma de suas últimas cartas.
 
@@ -360,7 +360,7 @@ Mas ele podia proteger. Podia preparar. Podia garantir que, quando o momento cer
 
 O primeiro passo foi estabelecer a bolsa anônima. Através de uma série de intermediários cuidadosamente escolhidos, Aurelius criou um fundo que pagaria pela educação de uma criança órfã em Mespiria. O dinheiro viria de "um benfeitor anônimo que deseja apoiar crianças talentosas" — uma história comum o suficiente para não levantar suspeitas, mas verdadeira o suficiente para não ser questionada. A bolsa cobriria tutores, livros, materiais, e eventualmente, se a criança mostrasse aptidão, a matrícula na Academia Elemental.
 
-O segundo passo foi mais sutil. Aurelius começou a fazer perguntas discretas sobre Mespiria, sobre as famílias que viviam lá, sobre a qualidade das escolas locais, sobre a disponibilidade de tutores particulares. Ele não queria parecer interessado demais — isso levantaria suspeitas entre os sempre vigilantes conselheiros de informação. Então espalhou seu interesse entre múltiplas vilas de Serravento, perguntando sobre educação rural em geral, sobre o estado das comunidades agrícolas, sobre formas de melhorar a qualidade de vida nos reinos periféricos. Isso foi convertido em uma iniciativa oficial da Ordem — um programa de desenvolvimento educacional que, coincidentemente, incluiria Mespiria entre suas beneficiárias.
+O segundo passo foi mais sutil. Aurelius começou a fazer perguntas discretas sobre Mespiria, sobre as famílias que viviam lá, sobre a qualidade das escolas locais, sobre a disponibilidade de tutores particulares. Ele não queria parecer interessado demais — isso levantaria suspeitas entre os sempre vigilantes conselheiros de informação. Então espalhou seu interesse entre múltiplas vilas de Aérya, perguntando sobre educação rural em geral, sobre o estado das comunidades agrícolas, sobre formas de melhorar a qualidade de vida nos reinos periféricos. Isso foi convertido em uma iniciativa oficial da Ordem — um programa de desenvolvimento educacional que, coincidentemente, incluiria Mespiria entre suas beneficiárias.
 
 O terceiro passo foi o mais arriscado. Aurelius precisava de alguém em quem confiar completamente, alguém que pudesse observar Grazielly de perto sem revelar sua conexão, alguém que pudesse relatar seu desenvolvimento sem levantar suspeitas. Ele escolheu uma batedora aposentada da Ordem — uma mulher chamada Lyris que havia servido com distinção em sua juventude e agora vivia uma vida tranquila em uma cidade próxima a Mespiria. Ele a abordou pessoalmente, algo que raramente fazia para incursões tão simples, e pediu que ela observasse uma criança específica, relatando seu progresso periodicamente.
 
@@ -380,7 +380,7 @@ E assim, aos poucos, Aurelius construía uma rede de proteção ao redor da filh
 
 Nos dias que se seguiram, a vida em Mespiria retornou lentamente ao normal — ou ao menos à nova normalidade que existia após a morte de Ayla. Os aldeãos falavam em voz baixa sobre a misteriosa mulher que havia vivido entre eles, sobre a criança iluminada que havia nascido sob três luas, sobre a bênção de Elara que havia marcado o túmulo de uma estranha que se revelara alguém especial.
 
-Grazielly, como Melessa havia prometido solenemente, não faltou amor. A velha parteira tomou a criança sob seus cuidados permanentes, transformando a casa que havia sido de Ayla em um lar para duas gerações que o destino havia unido através de uma promessa feita em um leito de morte. Thalia ajudava quando podia, trazendo suprimentos e carinho, e as outras mulheres da vila contribuíam com o que tinham — roupas emprestadas de outras crianças, leite de Ur Nanna, a capraluna, quando necessário, histórias cantadas para adormecer.
+Grazielly, como Melessa havia prometido solenemente, não faltou amor. A velha parteira tomou a criança sob seus cuidados permanentes, transformando a casa que havia sido de Ayla em um lar para duas gerações que o destino havia unido através de uma promessa feita em um leito de morte. Thalia ajudava quando podia, trazendo suprimentos e carinho, e as outras mulheres da vila contribuíam com o que tinham — roupas emprestadas de outras crianças, leite de Ur Nanna, a nariel, quando necessário, histórias cantadas para adormecer.
 
 E estranhamente, Grazielly era uma criança tranquila. Ela raramente chorava, observava tudo com aqueles olhos castanhos grandes e expressivos que pareciam ver mais do que deveriam, e às vezes — apenas às vezes, quando ninguém além de Melessa estava olhando — um brilho suave aparecia sob sua pele, como se algo dentro dela estivesse crescendo, esperando o momento certo para se revelar completamente.
 
@@ -392,7 +392,7 @@ E no silêncio de suas noites insone, ele olhava para o sudoeste, para o céu on
 
 *Cuide dela, Ayla. De onde você estiver. E eu cuidarei dela aqui, no mundo que você deixou. Juntos, mesmo separados pela própria morte, garantiremos que nossa filha tenha a vida que você sonhou para ela. A vida de paz. A vida de amor. A vida que eu não pude lhe dar enquanto você viva.*
 
-O vento de Serravento parecia responder, soprando suavemente através das janelas do Palácio do Grande Mestre, carregando consigo o sussurro de uma promessa feita há eras — a promessa de que, não importa o que viesse, o amor atravessaria até mesmo a morte, até mesmo o tempo, até mesmo o espaço entre mundos.
+O vento de Aérya parecia responder, soprando suavemente através das janelas do Palácio do Grande Mestre, carregando consigo o sussurro de uma promessa feita há eras — a promessa de que, não importa o que viesse, o amor atravessaria até mesmo a morte, até mesmo o tempo, até mesmo o espaço entre mundos.
 
 E em uma pequena casa em Mespiria, nos confins do sudoeste de Nova Aetherion, uma criança de olhos castanhos dormia tranquilamente pela primeira vez desde seu nascimento, sonhando sonhos que ninguém podia ver, carregando em sua alma uma herança que o universo havia esperado milênios para revelar, uma herança que ainda estava despertando.
 
@@ -409,7 +409,7 @@ A jornada estava apenas começando.
 *Ayla deu sua vida para que Grazielly pudesse viver. Que seu sacrifício nunca seja esquecido. Que seu amor atravesse eras e guie sua filha através das tempestades que virão.*
 
 *"Das estrelas viemos, às estrelas retornaremos, e entre elas encontraremos aqueles que amamos. O amor não conhece distância, não conhece tempo, não conhece morte. O amor apenas é — eterno como as estrelas, suave como o vento, profundo como o universo."*
-— Inscrição no túmulo de Ayla, Cemitério de Mespiria, Serravento
+— Inscrição no túmulo de Ayla, Cemitério de Mespiria, Aérya
 
 ---
 
@@ -439,7 +439,7 @@ Ayla partiu. Mas seu amor permanece — em Melessa que criará sua filha, em Aur
 | **Pyralis** | Fogo | Terra do Fogo Eterno; forjadores lendários | Ignatia |
 | **Terraxis** | Terra | Terra da Pedra e da Memória; guardiões do conhecimento | Petramagna |
 | **Thalassia** | Água | Terra das Águas Primordiais; navegadores e curandeiros | Aquarys Prime |
-| **Serravento** | Vento | Terra dos Ventos Livres; refúgio de paz e liberdade | Zephyria |
+| **Aérya** | Vento | Terra dos Ventos Livres; refúgio de paz e liberdade | Zephyra |
 | **Aetherion Prime** | Todos | Centro administrativo e político; sede da Ordem | Sanctrum |
 | **Umbra** | Nenhum | Território dos Exilados; lei do mais forte | Umbralis |
 
@@ -506,8 +506,8 @@ Ayla partiu. Mas seu amor permanece — em Melessa que criará sua filha, em Aur
 | Local | Região | Significado |
 |-------|--------|-------------|
 | **Sanctrum** | Aetherion Prime | Capital; sede do Palácio do Grande Mestre |
-| **Mespiria** | Serravento | Vila agrícola onde Ayla viveu e Grazielly nasceu |
-| **Cemitério de Mespiria** | Serravento | Onde Ayla foi enterrada; túmulo marcado por Elara |
+| **Mespiria** | Aérya | Vila agrícola onde Ayla viveu e Grazielly nasceu |
+| **Cemitério de Mespiria** | Aérya | Onde Ayla foi enterrada; túmulo marcado por Elara |
 
 ---
 

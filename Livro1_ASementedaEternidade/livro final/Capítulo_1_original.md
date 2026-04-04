@@ -6,13 +6,13 @@
 
 # CAPÍTULO I
 
-# O Segredo de Serravento
+# O Segredo de Aérya
 
 ---
 
 A voz da Senhora Mirella era um sussurro que abria portas para o passado.
 
-Na biblioteca do Orfanato das Asas, onde velas de cristal Aetheris tremiam com luz dourada e o vento noturno fazia as janelas estremecerem, as crianças haviam se reunido em roda ao redor da grande poltrona de madeira entalhada. A narradora segurava um livro antigo de capa desgastada pelo tempo, suas páginas amareladas contendo palavras que haviam sido lidas por gerações antes deles.
+Na biblioteca do Orfanato Luminis, onde velas de cristal Aetheris tremiam com luz dourada e o vento noturno fazia as janelas estremecerem, as crianças haviam se reunido em roda ao redor da grande poltrona de madeira entalhada. A narradora segurava um livro antigo de capa desgastada pelo tempo, suas páginas amareladas contendo palavras que haviam sido lidas por gerações antes deles.
 
 — Esta noite — Mirella disse, seus dedos traçando os símbolos gravados na capa — vou contar uma história que começou antes do primeiro suspiro. Uma história de amor, sacrifício e segredos guardados pelo vento. A história de uma mulher chamada Ayla, e da criança que mudaria o destino de todos nós.
 
@@ -48,35 +48,35 @@ Um grito.
 
 Silêncio.
 
-E depois, apenas o vento. O vento constante de Serravento, soprando através de colinas douradas e campos infinitos, carregando consigo o perfume de Gir Mul, flores-lua de pétalas prateadas, e o sussurro de histórias que ainda estavam por ser contadas.
+E depois, apenas o vento. O vento constante de Aérya, soprando através de colinas douradas e campos infinitos, carregando consigo o perfume de Giralis, giralis de pétalas prateadas, e o sussurro de histórias que ainda estavam por ser contadas.
 
 ---
 
 ## II. A Mulher Misteriosa
 
-Ayla caminhava pelas ruas de Zephyria como uma sombra que se recusa a ser percebida.
+Ayla caminhava pelas ruas de Zephyra como uma sombra que se recusa a ser percebida.
 
-Era assim há meses — desde que chegara ao sudoeste de Nova Aetherion, desde que escolhera aquele reino entre todos os outros, desde que encontrara nas terras ventosas de Serravento uma espécie de paz que não imaginava existir. Ela vinha à capital com frequência, sempre nos mesmos dias, sempre nos mesmos horários, como uma criatura de hábitos que sabia que a regularidade era a melhor forma de passar despercebida.
+Era assim há meses — desde que chegara ao sudoeste de Nova Aetherion, desde que escolhera aquele reino entre todos os outros, desde que encontrara nas terras ventosas de Aérya uma espécie de paz que não imaginava existir. Ela vinha à capital com frequência, sempre nos mesmos dias, sempre nos mesmos horários, como uma criatura de hábitos que sabia que a regularidade era a melhor forma de passar despercebida.
 
-Os Serranos — o povo do vento — eram conhecidos por sua hospitalidade e por sua discrição. Não faziam perguntas sobre o passado de ninguém, não julgavam origens, não cavavam feridas que preferiam ficar fechadas. Em Serravento, uma pessoa era aceita pelo que era no presente, não pelo que havia sido antes de atravessar as fronteiras do reino.
+Os Aéryan — o povo do vento — eram conhecidos por sua hospitalidade e por sua discrição. Não faziam perguntas sobre o passado de ninguém, não julgavam origens, não cavavam feridas que preferiam ficar fechadas. Em Aérya, uma pessoa era aceita pelo que era no presente, não pelo que havia sido antes de atravessar as fronteiras do reino.
 
 Era exatamente o que Ayla precisava.
 
 — Mais um chá, senhora?
 
-A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcado pelo tempo e sorriso fácil, dono de uma pequena banca de ervas e especiarias na praça central de Zephyria. Ele a conhecia apenas como "a senhora de cabelos escuros" — uma mulher gentil mas reservada, que sempre comprava as mesmas A Gish, folhas-de-cura aromáticas, e pagava sem regatear.
+A voz do comerciante a trouxe de volta ao presente. Era um homem de rosto marcado pelo tempo e sorriso fácil, dono de uma pequena banca de ervas e especiarias na praça central de Zephyra. Ele a conhecia apenas como "a senhora de cabelos escuros" — uma mulher gentil mas reservada, que sempre comprava as mesmas Mirael, mirael aromáticas, e pagava sem regatear.
 
 — Não, obrigada — Ayla respondeu, sua voz mais suave do que fora em sua vida anterior, antes de... antes de tudo. — Hoje só preciso das folhas. E talvez daquelas raízes-doces que você mencionou na semana passada.
 
 O comerciante assentiu e começou a preparar o pacote. Enquanto ele trabalhava, Ayla observava a praça ao redor, seus olhos treinados registrando detalhes que a maioria das pessoas jamais notaria.
 
-Zephyria era uma cidade erguida sobre pilares de cristal Aetheris que flutuavam levemente no ar, suas torres esguias de mármore branco parecendo tocar o céu. Jardins suspensos ondulavam com as brisas constantes como vestidos de seda em dança eterna, e fontes esculpidas jorravam água que o vento transformava em névoa cintilante. As ruas eram largas e limpas, pavimentadas com pedras claras que refletiam a luz de Aurion como espelhos naturais. Em todos os lugares, o som constante do vento criava uma melodia de fundo — um sussurro perpétuo que os Serranos diziam ser a voz de Ventus, o último Seraphyen, falando com seus filhos através dos séculos.
+Zephyra era uma cidade erguida sobre pilares de cristal Aetheris que flutuavam levemente no ar, suas torres esguias de mármore branco parecendo tocar o céu. Jardins suspensos ondulavam com as brisas constantes como vestidos de seda em dança eterna, e fontes esculpidas jorravam água que o vento transformava em névoa cintilante. As ruas eram largas e limpas, pavimentadas com pedras claras que refletiam a luz de Aurion como espelhos naturais. Em todos os lugares, o som constante do vento criava uma melodia de fundo — um sussurro perpétuo que os Aéryan diziam ser a voz de Ventus, o último Seraphyen, falando com seus filhos através dos séculos.
 
 Era uma cidade de beleza sobrenatural. Uma cidade que parecia ter sido criada para a paz.
 
 Mas Ayla sabia que a paz era uma ilusão. A paz era um intervalo entre guerras, uma pausa entre tempestades. E ela carregava dentro de si uma tempestade que logo viria ao mundo.
 
-— Aqui está, senhora — o comerciante disse, estendendo o pacote. — Raízes-doces das melhores plantações de Ventania. Farão bem para... — ele hesitou por apenas um momento, seus olhos passando pela barriga visivelmente crescida de Ayla — ...para a saúde.
+— Aqui está, senhora — o comerciante disse, estendendo o pacote. — Raízes-doces das melhores plantações de Velantis. Farão bem para... — ele hesitou por apenas um momento, seus olhos passando pela barriga visivelmente crescida de Ayla — ...para a saúde.
 
 Ayla tomou o pacote com um sorriso que não alcançava seus olhos.
 
@@ -94,7 +94,7 @@ E o segredo que ela carregava agora, dentro de si, era maior que qualquer outro 
 
 ## III. A Jornada para Mespiria
 
-A estrada de Zephyria a Ventania serpenteava através de colinas suaves cobertas por campos de She Utu, o aethrum-dourado, cereal de espigas que ondulava ao vento como mares de ouro. Mais adiante, pequenos bosques de Lil Gish, as prateadas-sussurrantes — árvores de casca clara e folhas que tilintavam como sinos quando o vento passava — ofereciam sombra e refresco para os viajantes.
+A estrada de Zephyra a Velantis serpenteava através de colinas suaves cobertas por campos de Aethrys, o aethrys, cereal de espigas que ondulava ao vento como mares de ouro. Mais adiante, pequenos bosques de Sylvaris, as sylvaris — árvores de casca clara e folhas que tilintavam como sinos quando o vento passava — ofereciam sombra e refresco para os viajantes.
 
 Ayla caminhava devagar, seu corpo pesado com a vida que crescia dentro dela. A cada passo, ela sentia a criança se mover — pequenos chutes, pequenos alongamentos, como se o bebê já estivesse ansioso para conhecer o mundo que o aguardava.
 
@@ -116,15 +116,15 @@ Ela não tinha respostas. Só tinha perguntas. E o peso de ter que protegê-la s
 
 ## IV. O Reino dos Ventos Livres
 
-Enquanto caminhava, Ayla observava a paisagem ao redor com olhos que haviam visto muito mais do que deixavam transparecer. Serravento era diferente de qualquer outro reino que conhecera — e ela conhecera muitos em sua vida como guerreira da Equipe Aurora.
+Enquanto caminhava, Ayla observava a paisagem ao redor com olhos que haviam visto muito mais do que deixavam transparecer. Aérya era diferente de qualquer outro reino que conhecera — e ela conhecera muitos em sua vida como guerreira da Equipe Aurora.
 
 Ao norte, Fulmora era um reino de tempestades perpétuas e auroras eternas, onde o povo vivia em constante estado de alerta e intensidade. Ao oeste, Pyralis era terra de fogo e vulcões, onde a paixão queimava tão forte quanto as forjas que sustentavam sua economia. Ao leste, Terraxis guardava seus segredos em montanhas e cavernas, um povo de memórias longas e tradições profundas. Ao sul, Thalassia flutuava sobre águas cristalinas, adaptável e fluido como o elemento que o definia.
 
-Mas Serravento... Serravento era algo inteiramente diferente.
+Mas Aérya... Aérya era algo inteiramente diferente.
 
 Era o reino da liberdade. O reino onde o vento soprava constantemente, não como ameaça, mas como bênção. O reino onde refugiados encontravam nova casa, exilados encontravam nova esperança, e aqueles que fugiam de seus passados descobriam que o vento carregava memórias para longe.
 
-Ayla havia escolhido Serravento por uma razão específica. Não era o reino mais poderoso militarmente — esse era Pyralis. Não era o mais rico em recursos — esse era Terraxis. Não era o mais conectado à espiritualidade — esse era Thalassia.
+Ayla havia escolhido Aérya por uma razão específica. Não era o reino mais poderoso militarmente — esse era Pyralis. Não era o mais rico em recursos — esse era Terraxis. Não era o mais conectado à espiritualidade — esse era Thalassia.
 
 Era o reino mais livre. Onde uma mulher sozinha, com um passado misterioso e uma criança no ventre, poderia desaparecer nas bordas da sociedade sem que ninguém fizesse perguntas inconvenientes.
 
@@ -140,13 +140,13 @@ A criança chutou novamente, e Ayla sentiu algo estranho — uma espécie de res
 
 Quando Aurion começou sua descida no céu, pintando as nuvens em tons de laranja e roxo, Ayla finalmente avistou seu destino.
 
-Mespiria era uma pequena comunidade agrícola nas cercanias de Ventania — longe o suficiente da capital para ser esquecida pela maioria, perto o suficiente para ter acesso aos suprimentos necessários. Era um lugar tranquilo, onde famílias trabalhavam a terra que seus avós haviam trabalhado antes delas, onde as crianças cresciam correndo entre campos de She Utu, o aethrum-dourado, sob céus azuis sem fim, onde as preocupações do mundo pareciam distantes e irrelevantes.
+Mespiria era uma pequena comunidade agrícola nas cercanias de Velantis — longe o suficiente da capital para ser esquecida pela maioria, perto o suficiente para ter acesso aos suprimentos necessários. Era um lugar tranquilo, onde famílias trabalhavam a terra que seus avós haviam trabalhado antes delas, onde as crianças cresciam correndo entre campos de Aethrys, o aethrys, sob céus azuis sem fim, onde as preocupações do mundo pareciam distantes e irrelevantes.
 
 Era exatamente o que Ayla procurava.
 
-Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Serranos, e uma viúva grávida chamada Melessa oferecera-lhe uma casa pequena mas aconchegante nos arredores da vila.
+Ela havia chegado a Mespiria três meses antes, usando um nome falso e uma história que não levantava suspeitas — uma viúva de Pyralis cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas, como eram costume dos Aéryan, e uma viúva grávida chamada Melessa oferecera-lhe uma casa pequena mas aconchegante nos arredores da vila.
 
-— Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam ao sol da tarde. — Comecei a me preocupar. A caminhada de Zephyria não é curta, especialmente em seu estado.
+— Você está de volta! — a voz de Melessa saudou-a quando Ayla se aproximou da casa de pedra que agora chamava de lar. A parteira idosa estava sentada na varanda, separando ervas medicinais que secavam ao sol da tarde. — Comecei a me preocupar. A caminhada de Zephyra não é curta, especialmente em seu estado.
 
 — Estou bem, Melessa — Ayla respondeu, subindo os degraus com cuidado. — E consegui as raízes-doces que você pediu.
 
@@ -170,7 +170,7 @@ Melessa assentiu, aceitando a meia-confissão sem pressionar por mais. Ela era p
 
 ## VI. Diálogos com o Porvir
 
-Naquela noite, enquanto as três luas começavam a ascender no céu — Lyria primeiro, prateada e serena, seguida por Nyx azulada e misteriosa, com Elara rosa surgindo no horizonte — Ayla sentou-se à janela de seu pequeno quarto, observando as estrelas que pontilhavam o céu de Serravento como diamantes em veludo escuro.
+Naquela noite, enquanto as três luas começavam a ascender no céu — Lyria primeiro, prateada e serena, seguida por Nyx azulada e misteriosa, com Elara rosa surgindo no horizonte — Ayla sentou-se à janela de seu pequeno quarto, observando as estrelas que pontilhavam o céu de Aérya como diamantes em veludo escuro.
 
 A criança estava quieta agora, como se também observasse o céu. Ayla colocou as mãos sobre a barriga, sentindo o calor da vida que crescia dentro dela.
 
@@ -184,7 +184,7 @@ Ela parou, lutando contra as lágrimas que ameaçavam surgir.
 
 — Se soubesse, ele faria qualquer coisa para nos proteger. E isso colocaria em risco tudo o que ele construiu. Tudo o que ele precisa proteger. Então eu parti. Parti sem dizer nada. Parti para que você pudesse ter uma vida de paz. Uma vida longe das guerras que eu vivi, longe dos perigos que eu enfrentei, longe de tudo o que me fez ser quem sou.
 
-O vento soprou mais forte por um momento, e as Lil Gish no quintal, as prateadas-sussurrantes, tilintaram como sinos, criando uma melodia que parecia uma canção de ninar.
+O vento soprou mais forte por um momento, e as Sylvaris no quintal, as sylvaris, tilintaram como sinos, criando uma melodia que parecia uma canção de ninar.
 
 — Eu vou te contar sobre ele um dia — Ayla prometeu. — Quando você for mais velha. Quando for seguro. Eu vou te contar sobre o homem que me amou apesar de tudo, que me seguiu através de batalhas e sombras, que me olhava como se eu fosse a única estrela no céu. Mas por agora... por agora, é apenas você e eu, minha pequena.
 
@@ -200,7 +200,7 @@ As três luas agora brilhavam juntas no céu, suas luzes se mesclando em tons de
 
 — Eu te amo — Ayla disse, sua voz agora um sussurro quase inaudível. — Eu te amo desde antes de você existir. E vou te amar até depois de eu deixar de existir. Isso é a única verdade que importa. A única que você precisa saber por enquanto.
 
-A criança ficou quieta, como se também estivesse processando as palavras. E naquela noite, pela primeira vez em meses, Ayla dormiu profundamente, sem pesadelos, sem memórias de batalhas, sem o peso do passado. Apenas o vento constante de Serravento, soprando suavemente pela janela, carregando consigo o sussurro de promessas que o universo guardava para o futuro.
+A criança ficou quieta, como se também estivesse processando as palavras. E naquela noite, pela primeira vez em meses, Ayla dormiu profundamente, sem pesadelos, sem memórias de batalhas, sem o peso do passado. Apenas o vento constante de Aérya, soprando suavemente pela janela, carregando consigo o sussurro de promessas que o universo guardava para o futuro.
 
 ---
 
@@ -256,7 +256,7 @@ Dar à luz. E amar a criança que havia sido criada do amor mais verdadeiro que 
 
 ## VIII. A Tempestade que Virá
 
-Nos dias que se seguiram, o céu de Serravento começou a mudar.
+Nos dias que se seguiram, o céu de Aérya começou a mudar.
 
 Não era algo que os aldeãos de Mespiria pudessem nomear com precisão. As nuvens continuavam brancas e fofas, o vento continuava constante e gentil, Aurion continuava a nascer e se pôr como sempre fizera. Mas havia algo diferente no ar — uma tensão sutil, como a corda de um instrumento musical sendo esticada cada vez mais, esperando o momento em que finalmente se romperia.
 
@@ -306,7 +306,7 @@ Ayla colocou a mão sobre a barriga, sentindo a criança se mover.
 
 *E eu estarei aqui para te receber, minha pequena estrela.*
 
-E nas colinas douradas de Serravento, o vento soprou mais forte, carregando consigo o sussurro de histórias que ainda estavam por ser contadas.
+E nas colinas douradas de Aérya, o vento soprou mais forte, carregando consigo o sussurro de histórias que ainda estavam por ser contadas.
 
 ---
 
@@ -334,13 +334,13 @@ Enquanto as crianças se levantavam para ir aos dormitórios, o vento lá fora s
 
 ## 📜 Nota para o Leitor
 
-Este capítulo funciona como uma introdução atmosférica ao universo de Alyndra. Através dos olhos de Ayla, conhecemos Serravento, o Reino dos Ventos Livres, e estabelecemos os mistérios que permeiam a história: quem é Ayla? Por que ela está escondida? Quem é o pai da criança? O que torna essa criança tão especial?
+Este capítulo funciona como uma introdução atmosférica ao universo de Alyndra. Através dos olhos de Ayla, conhecemos Aérya, o Reino dos Ventos Livres, e estabelecemos os mistérios que permeiam a história: quem é Ayla? Por que ela está escondida? Quem é o pai da criança? O que torna essa criança tão especial?
 
 Os flashes sensoriais no início são fragmentos de memórias que serão reveladas mais tarde — vislumbres da Convergência Tripla que está por vir, do nascimento da criança, do sacrifício de Ayla. Eles funcionam como uma promessa ao leitor de que algo grande está prestes a acontecer.
 
 Easter eggs são plantados: a Convergência Tripla, a natureza especial da criança, o amor proibido entre Ayla e Aurelius.
 
-Serravento é apresentado como um refúgio — não apenas para Ayla, mas para todos que buscam liberdade. Isso estabelece uma conexão temática que será importante ao longo de toda a história: a busca por um lar, por pertencimento, por paz em meio às tempestades da vida.
+Aérya é apresentado como um refúgio — não apenas para Ayla, mas para todos que buscam liberdade. Isso estabelece uma conexão temática que será importante ao longo de toda a história: a busca por um lar, por pertencimento, por paz em meio às tempestades da vida.
 
 ---
 
@@ -350,19 +350,19 @@ Serravento é apresentado como um refúgio — não apenas para Ayla, mas para t
 
 | Local | Região | Descrição |
 |-------|--------|-----------|
-| **Serravento** | Sudoeste de Nova Aetherion | Reino dos Ventos Livres; liberdade, refúgio, céus abertos |
-| **Zephyria** | Capital de Serravento | Cidade flutuante sobre pilares de cristal Aetheris |
-| **Ventania** | Serravento | Cidade maior, sede do Orfanato das Asas |
-| **Mespiria** | Arredores de Ventania | Pequena vila agrícola onde Ayla se esconde |
+| **Aérya** | Sudoeste de Nova Aetherion | Reino dos Ventos Livres; liberdade, refúgio, céus abertos |
+| **Zephyra** | Capital de Aérya | Cidade flutuante sobre pilares de cristal Aetheris |
+| **Velantis** | Aérya | Cidade maior, sede do Orfanato Luminis |
+| **Mespiria** | Arredores de Velantis | Pequena vila agrícola onde Ayla se esconde |
 
 ### Termos Introduzidos:
 
 | Termo | Definição |
 |-------|-----------|
 | **Convergência Tripla** | Alinhamento das três luas (Lyria, Nyx, Elara); fenômeno raro que marca eventos de importância cósmica |
-| **Serranos** | Povo de Serravento; conhecidos por hospitalidade e discrição |
-| **Prateadas-sussurrantes** | Árvores de casca clara; folhas tilintam como sinos no vento |
-| **Aethrum-dourado** | Cereal dourado; ondula nos campos como mares de ouro |
+| **Aéryan** | Povo de Aérya; conhecidos por hospitalidade e discrição |
+| **Sylvaris** | Árvores de casca clara; folhas tilintam como sinos no vento |
+| **Aethrys** | Cereal dourado; ondula nos campos como mares de ouro |
 
 ### Personagens Introduzidos:
 
@@ -374,6 +374,6 @@ Serravento é apresentado como um refúgio — não apenas para Ayla, mas para t
 
 ---
 
-*Obrigado por acompanhar o início desta jornada. O vento de Serravento apenas começou a soprar.*
+*Obrigado por acompanhar o início desta jornada. O vento de Aérya apenas começou a soprar.*
 
 *— O Arquivista-Mestre de Aetherion*

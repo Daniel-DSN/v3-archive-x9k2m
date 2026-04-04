@@ -258,7 +258,7 @@ Representam as expressões de Luz e Sombra dos cinco elementos fundamentais. Dif
 ### Ventus
 - Último dos Seraphyens a morrer
 - Se dissipou nos ventos para se tornar o próprio ar que os povos respiravam
-- Fundador espiritual de Serravento
+- Fundador espiritual de Aérya
 
 ---
 
@@ -307,7 +307,7 @@ O processo de queda de uma alma:
 - Órfãos sem proteção familiar
 
 **Locais Vigilados:**
-- Orfanato das Asas (Serravento) — alta concentração de talentos
+- Orfanato Luminis (Aérya) — alta concentração de talentos
 - Academia Elemental — recrutamento e observação
 - Fronteiras de Thalassia — contrabando de crianças
 
@@ -357,7 +357,7 @@ A existência é sustentada por atos de amor supremo que geram ondas de transfor
 | **Thalassia** | Água | Aquarys Prime | Sul, ilhas flutuantes, cidades submersas | Aquarys |
 | **Umbra** | Gelo/Sombra | Umbralis | Extremo Norte, exilados | Umbralis (pejorativo distorcido) |
 | **Aetherion Prime** | Todos (centro) | Sanctrum | Centro político, Palácio do GM | — |
-| **Serravento** | Ar/Vento | Zephyria | Sudoeste, ventos livres, montanhas flutuantes | Aeros |
+| **Aérya** | Ar/Vento | Zephyra | Sudoeste, ventos livres, montanhas flutuantes | Aeros |
 
 ### Nota sobre Umbra
 Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorativo distorcido ao longo das eras, ignorando seu papel original.
@@ -366,11 +366,11 @@ Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorat
 
 ## Locais Importantes
 
-### Serravento (Reino principal da história inicial)
-- **Zephyria** — Capital, cidade flutuante sobre pilares de cristal Aetheris
-- **Ventania** — Cidade do Orfanato das Asas
+### Aérya (Reino principal da história inicial)
+- **Zephyra** — Capital, cidade flutuante sobre pilares de cristal Aetheris
+- **Velantis** — Cidade do Orfanato Luminis
 - **Mespiria** — Vila agrícola onde Ayla morreu
-- **Orfanato das Asas** — Local onde Grazielly cresce
+- **Orfanato Luminis** — Local onde Grazielly cresce
   - **STATUS: Alvo Estratégico de Umbra** — alta concentração de linhagens elementais diversificadas
   - Alvo prioritário para sequestro de talentos pelos agentes Nihilaryth
 
@@ -430,7 +430,7 @@ Representação dos Sete Reinos, agora com **2 representantes por reino** (Líde
 | **Pyralis** | Chama Vinculadora | Forja-Mor |
 | **Terraxis** | Terra Vinculadora | Ministro de Cristal |
 | **Thalassia** | **Maré Vinculadora** | Almirante-Prime |
-| **Serravento** | Vento Vinculadora | Mestre dos Ventos |
+| **Aérya** | Vento Vinculadora | Mestre dos Ventos |
 | **Umbra** | Sombra Vinculadora | Sentinela do Norte |
 | **Aetherion Prime** | Representante do GM | Chanceler Central |
 
@@ -525,7 +525,7 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 |----------|---------------|-------------------|-----------------|
 | **O Urrak** | Predador de Terraxis | *Desconhecida* | Feroz, leal ao bando, caça nas sombras |
 | **A Nyctara** | Ave noturna de Umbra | **Lyris** | Visão no escuro, silêncio absoluto, sabedoria |
-| **O Velatrix** | Ave de rapina de Serravento | *Desconhecida* | Velocidade extrema, precisão mortal |
+| **O Velatrix** | Ave de rapina de Aérya | *Desconhecida* | Velocidade extrema, precisão mortal |
 
 **⚠️ NUNCA usar nomes de animais terrestres para Vanguardas.**
 
@@ -597,9 +597,9 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 - **Uso de poder:** Preserva disfarce de "aposentada pacata" — só usa Thermaris em casos extremos
 - **Habilidades:** Cortinas de névoa quente para fuga, ataques de pressão térmica, incapacitação sem matar
 
-## Nyx (Ventorro)
+## Nyx (Liryth)
 - Companheiro de Grazielly
-- Espécie: Ventorro (mamífero pequeno, pelagem prateada)
+- Espécie: Liryth (mamífero pequeno, pelagem prateada)
 - Nomeado em homenagem à lua azul
 - Resgatado por Grazielly quando ela tinha 4 anos
 
@@ -775,16 +775,21 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 | Nome Comum | Nome Ancestral (Emê-Gir) | Descrição | Uso |
 |------|--------------------------|-----------|-----|
-| **Aethrum-dourado** | **She Utu** | Cereal dourado brilhante, ondula nos campos de Serravento | Alimento principal |
-| **Pratafolha** | **Gesh Nanna** | Árvore de folhas prateadas, reflete a luz das três luas | Medicinal, ornamental |
+| **Aethrys** | **She Utu** | Cereal dourado brilhante, ondula nos campos de Aérya | Alimento principal |
+| **Argentis** | **Gesh Nanna** | Árvore de folhas prateadas, reflete a luz das três luas | Medicinal, ornamental |
+| **Giralis** | **Gir Mul** | Pétalas prateadas, abrem à noite | Perfume, cerimonial |
+| **Aeriva** | **Gesh Lil** | Trepadeiras que abraçam paredes, "respiram" com o vento | Purificam ar |
+| **Lumiara** | **Gú Me** | Leguminosas bioluminescentes que brilham de dentro | Alimentação infantil |
+| **Aerélia** | **Gesh An Lil** | Flores delicadas que dançam ao menor sopro | Ornamental |
+| **Mirael** | **A Gish** | Ervas aromáticas de cura, "dádiva divina da cura" | Medicinal |
+| **Sylvaris** | **Lil Gish** | Árvores de casca clara, folhas tilintam como sinos musicais | Ornamental |
+| **Ignóra** | **She Ig** | Flor de pétalas vermelhas vivas de Pyralis | Cerimonial, resistente ao calor |
+| **Thaléa** | **She A** | Alga luminosa de Thalassia | Alimentação, iluminação |
+| **Cryonara** | **Gesh Bar** | Flor de gelo, cresce apenas em noites de convergência | Extremamente rara, medicinal |
+| **Umbrantis** | **Gesh Kish** | Planta das sombras de Umbra | Rituais |
+| **Solarys** | **She Utu Sag** | Flor dourada que segue a luz de Aurion | Símbolo de esperança |
+| **Hydra Vine** | **U A Ki** | Videiras de água de Thalassia que armazenam água | Fonte vital em emergências |
 | **Flores-Mespiria** | — | Flores de âmbar/dourado | Cerimonial |
-| **Trepadeiras-de-vento** | **Gesh Lil** | Plantas que abraçam paredes | Purificam ar |
-| **Vagens-luminais** | **Gú Me** | Leguminosas bioluminescentes | Alimentação infantil |
-| **Flores-lua** | **Gir Mul** | Pétalas prateadas, abrem à noite | Perfume |
-| **Hydra Vine (Videiras de Água)** | **U A Ki** | Plantas de Thalassia que absorvem e armazenam água | Fonte vital em emergências |
-| **Flores-do-vento** | **Gesh An Lil** | Flores delicadas que dançam ao menor sopro | Ornamental |
-| **Folhas-de-cura** | **A Gish** | Ervas aromáticas medicinais | Medicinal |
-| **Prateadas-sussurrantes** | **Lil Gish** | Árvores de casca clara, folhas tilintam como sinos | Ornamental |
 
 **NUNCA USAR:** trigo, arroz, milho, ou outros cereais terrestres
 
@@ -796,18 +801,23 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 | Nome Comum | Nome Ancestral (Emê-Gir) | Classificação | Características |
 |------|--------------------------|---------------|-----------------|
-| **Ventorro** | **Ur Lil** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, afinidade com ar, empático, leal |
-| **Capraluna** | **Ur Nanna** | Mamífero médio | Pelagem prateada, produtora de leite (criação/pastoreio) |
-| **Assombra-pelos** | **Ur Ensi** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
-| **Asas-de-veludo** | **Mushen Gir** | Inseto alado | Asas iridescentes, polinizadora |
+| **Liryth** | **Ur Lil** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, afinidade com ar, empático, leal |
+| **Nariel** | **Ur Nanna** | Mamífero médio | Pelagem branca prateada, produtora de leite, olhos refletem as três luas |
+| **Umbri** | **Ur Ensi** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
+| **Sylari** | **Mushen Gir** | Inseto alado | Asas iridescentes, polinizadoras, flutuam como pétalas em dança |
 | **Kryll** | — | Artrópode pequeno | Translúcido, brilha no escuro, deixa rastros de Aethra residual |
 | **Lumis** | — | Inseto alado | Asas iridescentes, rastros brilhantes no ar, encanta crianças |
+| **Pyri** | **Mushen Ig** | Inseto luminoso | Vivem nas forjas de Pyralis, resistem ao fogo, luz quente |
+| **Thaluri** | **Mushen A** | Peixe alado de Thalassia | Escamas que refletem a luz de Nyx, saltam entre ondas |
+| **Terralux** | **Ur Kish** | Inseto subterrâneo | Vivem nas minas de Terraxis, bioluminescência verde-cristalina |
+| **Ventis** | — | Ave mensageira | Usadas para comunicação entre reinos, seguem correntes de ar |
+| **Morvari** | **Ur Gal** | Mamífero noturno | Semelhante ao Liryth mas selvagem, vive nas colinas de Aérya |
 
 ## Criaturas Lendárias
 
 | Nome | Status | Descrição |
 |------|--------|-----------|
-| **Aeros** | Extinto | Criaturas voadoras lendárias que deram nome ao Orfanato das Asas |
+| **Aeros** | Extinto | Criaturas voadoras lendárias que deram nome ao Orfanato Luminis |
 
 ## Criaturas para Codinomes de Vanguardas
 
@@ -815,7 +825,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 |------|--------------------------|---------|-----------------|-------------------|
 | **Urrak** | **Ur Sag** | Planícies de Terraxis | Predador cursorial de pelagem escura, caça em alcateias, uivos ecoam em noites sem lua, lealdade absoluta ao bando | "O Urrak" (herói mascarado) |
 | **Nyctara** | **Mushen Gig** ⚠️ | Florestas de Umbra | Ave noturna de asas silenciosas, olhos que veem no escuro total, caça por ecolocalização espiritual | **"A Nyctara" (Lyris)** |
-| **Velatrix** | **Mushen An** | Céus de Serravento | Ave de rapina veloz, penas criam assobios em voo picado, visão que atravessa névoa | "O Velatrix" (herói mascarado) |
+| **Velatrix** | **Mushen An** | Céus de Aérya | Ave de rapina veloz, penas criam assobios em voo picado, visão que atravessa névoa | "O Velatrix" (herói mascarado) |
 
 ⚠️ **EXCEÇÃO IMPORTANTE**: O nome "Nyctara" é mantido como exceção especial para a ave de Lyris, tanto como espécie quanto como codinome. Em contextos ancestrais/formais, pode ser referida como "Mushen Gig", mas na narrativa o nome "Nyctara" prevalece.
 
@@ -831,8 +841,8 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 |--------|-------------------|----------|
 | Nascimento de Grazielly / Morte de Ayla | 0 | 1-2 |
 | Morte de Melessa | 4 | 3 |
-| Resgate de Nyx (ventorro) | 4 | 4 |
-| Chegada ao Orfanato das Asas | 4 | 3-4 |
+| Resgate de Nyx (liryth) | 4 | 4 |
+| Chegada ao Orfanato Luminis | 4 | 3-4 |
 | Aniversário de 5 anos | 5 | 5 |
 | Manifestação Cryonys intensificada | 5 | 5 |
 | Vida no orfanato / Investigação de Lyris | 5 | 6 |
@@ -861,7 +871,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 - O destino de Kira na Academia
 - Revelação gradual sobre o Cristal de Mytha
 - Missão secreta para recuperar o Elmo de Alyndra
-- Infiltração de agentes de Umbra no Orfanato das Asas
+- Infiltração de agentes de Umbra no Orfanato Luminis
 - Mimetismo de Frequência como técnica de infiltração
 
 ---
@@ -872,9 +882,9 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 
 | ❌ Proibido | ✅ Usar |
 |-------------|---------|
-| trigo | Aethrum-dourado |
-| cabra | Capraluna |
-| raposa/esquilo | Ventorro |
+| trigo | Aethrys |
+| cabra | Nariel |
+| raposa/esquilo | Liryth/Nariel |
 | sol | Aurion |
 | lua (genérico) | Lyria/Nyx/Elara |
 | nanobots | Sementes Etéricas / Partículas Primordiais |
@@ -884,8 +894,8 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | segundo/metro/grama | Pulso/Passo/Semente |
 
 ## Nomes Consolidados
-- **Orfanato das Asas** (em Ventania, Serravento)
-- **Nyx** (o ventorro de Grazielly)
+- **Orfanato Luminis** (em Velantis, Aérya)
+- **Nyx** (o liryth de Grazielly)
 - **Cristalnor** (lar do avô)
 - **Melessa** (parteira, avó adotiva falecida)
 - **Lyris** (protetora/agente)
@@ -941,25 +951,25 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **Dingir-gal** | Grande deus | Referência aos Seraphyens |
 | **Ud-sar** | Dia-jardim (era de prosperidade) | Narrativas históricas |
 | **Nam-tar** | Tecer destino | Profecias, rituais |
-| **Im-ma** | Vento | Serravento |
+| **Im-ma** | Vento | Aérya |
 | **A-ma-ru** | Árvore-mãe | Referência à Árvore da Existência |
 
 ## Flora em Língua Antiga
 
 | Nome Antigo | Nome Comum | Significado Literal |
 |-------------|------------|---------------------|
-| **Gish-sar** | Pratafolha | Árvore do jardim |
-| **A-edin** | Aethrum-dourado | Água da planície |
-| **Nig-ug** | Flores-lua | Coisa preciosa |
-| **Gish-im** | Trepadeiras-de-vento | Árvore do vento |
+| **Gish-sar** | Argentis | Árvore do jardim |
+| **A-edin** | Aethrys | Água da planície |
+| **Nig-ug** | Giralis | Coisa preciosa |
+| **Gish-im** | Aeriva | Árvore do vento |
 
 ## Fauna em Língua Antiga
 
 | Nome Antigo | Nome Comum | Significado Literal |
 |-------------|------------|---------------------|
-| **Im-amar** | Ventorro | Cria do vento |
-| **An-tir** | Asas-de-veludo | Pássaro celestial |
-| **Gud-nigin** | Capraluna | Criatura que circunda |
+| **Im-amar** | Liryth | Cria do vento |
+| **An-tir** | Sylari | Pássaro celestial |
+| **Gud-nigin** | Nariel | Criatura que circunda |
 | **Tir-kur** | Nyctara | Pássaro da montanha |
 | **Urrak** | Urrak | (Onomatopeia - uivo) |
 | **Vel-gish** | Velatrix | Veloz da floresta |
@@ -1000,7 +1010,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 1. **Grazielly** pode "lembrar" palavras da Língua Antiga sem aprender - conexão com linhagem Seraphyen
 2. **Mestres e sábios** usam termos antigos em contextos formais
 3. **Rituais** sempre incluem fragmentos em Eme-gal
-4. **Nomes de lugares** podem ter origem em compostos antigos (ex: Ventania = Im-tir-ki)
+4. **Nomes de lugares** podem ter origem em compostos antigos (ex: Velantis = Im-tir-ki)
 
 ---
 
@@ -1022,7 +1032,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 - ✅ **Frases cerimoniais** — Canção de Despedida, Bênção Antiga
 
 #### 2. Ajustes de Consistência
-- ✅ **Nyx removido do Cap. III** — Ventorro aparece apenas no Cap. IV
+- ✅ **Nyx removido do Cap. III** — Liryth aparece apenas no Cap. IV
 - ✅ **Convergências reestruturadas** — 6 em ~4000 anos, Kaelthor = 3º Guardião Antigo
 - ✅ **GMs numerados** — Aurelius = 33º GM, Théssaly = 32º GM
 - ✅ **Guardiões Antigos** — Era pré-Sanctrum, guardiões do Selo de Mytra
@@ -1049,7 +1059,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 ### Atualizações da Versão 7.0.0:
 - ✅ **Sincronização Canônica Global** — Nomenclatura "Colheita" → "Mespiria" aplicada em todos os documentos
 - ✅ **Flores-Mespiria** — Terminologia derivada atualizada
-- ✅ **Localização do Orfanato** — Padronizado como "colinas de Ventania"
+- ✅ **Localização do Orfanato** — Padronizado como "colinas de Velantis"
 - ✅ **Cronologia Validada** — Grazielly parte aos 4 anos, treinamento aos 5 anos
 
 ### Atualizações da Versão 5.0.0:

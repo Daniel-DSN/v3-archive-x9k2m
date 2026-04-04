@@ -22,13 +22,13 @@ Mas o tempo, como o rio, não para. E as folhas que ele carrega eventualmente en
 
 ## Os Anos de Ouro
 
-Os quatro primeiros anos da vida de Grazielly foram, aos olhos de qualquer observador externo, perfeitamente comuns — uma criança crescendo em uma vila agrícola tranquila, cercada por campos de She Utu, o aethrum-dourado, um cereal de espigas que ondulava ao vento como mares de ouro, e céus que pareciam mais azuis que em qualquer outro lugar. Mas para aqueles que observavam com mais atenção, havia algo diferente naquela menina.
+Os quatro primeiros anos da vida de Grazielly foram, aos olhos de qualquer observador externo, perfeitamente comuns — uma criança crescendo em uma vila agrícola tranquila, cercada por campos de Aethrys, o aethrys, um cereal de espigas que ondulava ao vento como mares de ouro, e céus que pareciam mais azuis que em qualquer outro lugar. Mas para aqueles que observavam com mais atenção, havia algo diferente naquela menina.
 
 Ela aprendia rápido — mais rápido do que qualquer criança que Melessa havia visto em suas décadas como parteira e, mais tarde, como cuidadora de outras crianças órfãs que haviam passado por Mespiria ao longo dos anos. Quando outras crianças de sua idade ainda lutavam para articular palavras simples, Grazielly já formava frases completas, já fazia perguntas que faziam os adultos ao seu redor piscarem em surpresa, já demonstrava uma compreensão do mundo que parecia além de sua idade.
 
 — Por que o vento sopra, vó Melessa? — ela perguntou certa vez, sentada na varanda da casa de pedra, seus olhos castanhos fixos nas copas das árvores que ondulavam ao longe.
 
-Melessa, que havia se acostumado com as perguntas incomuns da neta adotiva, sorriu enquanto continuava a separar Gú Me, as vagens-luminais, leguminosas de sementes doces que brilhavam levemente por dentro, para o jantar.
+Melessa, que havia se acostumado com as perguntas incomuns da neta adotiva, sorriu enquanto continuava a separar Lumiara, as lumiara, leguminosas de sementes doces que brilhavam levemente por dentro, para o jantar.
 
 — O vento sopra porque Aurion esquenta a terra, minha pequena. O ar quente sobe, e o ar frio desce para ocupar seu lugar. É como... como uma dança. O céu e a terra dançando juntos.
 
@@ -48,7 +48,7 @@ Melessa parou de separar as vagens por um momento, seus olhos velhos encontrando
 
 Grazielly sorriu, aquele sorriso que iluminava seu rosto como o amanhecer iluminava os campos de Mespiria. E Melessa sentiu, mais uma vez, o peso da promessa que havia feito a Ayla — a promessa de que aquela criança teria amor, teria família, teria um lar.
 
-*Eu cumpri minha promessa, Ayla,* ela pensou, voltando a separar as vagens enquanto Grazielly corria pelo quintal, perseguindo Mushen Gir, as asas-de-veludo, pequenas criaturas aladas de cores vivas que flutuavam no ar como pétalas em dança. *Ela é amada. Ela é feliz. Ela está crescendo em paz.*
+*Eu cumpri minha promessa, Ayla,* ela pensou, voltando a separar as vagens enquanto Grazielly corria pelo quintal, perseguindo Sylari, as sylari, pequenas criaturas aladas de cores vivas que flutuavam no ar como pétalas em dança. *Ela é amada. Ela é feliz. Ela está crescendo em paz.*
 
 Mas mesmo enquanto pensava isso, uma sombra passou pelo coração da velha parteira — a sombra de algo que ela não queria enfrentar, a sombra de uma verdade que ela sabia que eventualmente precisaria aceitar.
 
@@ -58,9 +58,9 @@ O tempo não para. E ela não seria eterna.
 
 ## A Observadora Silenciosa
 
-Enquanto Grazielly crescia em Mespiria, a poucos dias de viagem dali, na cidade de Ventania — uma comunidade maior que servia como centro comercial para as vilas agrícolas dos arredores — uma mulher observava e esperava.
+Enquanto Grazielly crescia em Mespiria, a poucos dias de viagem dali, na cidade de Velantis — uma comunidade maior que servia como centro comercial para as vilas agrícolas dos arredores — uma mulher observava e esperava.
 
-Lyris não era, aos olhos de quem a conhecia, nada além do que parecia ser — uma aposentada que havia servido à Ordem dos Mestres em sua juventude e que agora vivia uma vida tranquila, passando seus dias ajudando no Orfanato das Asas, uma instituição modesta que acolhia crianças sem família de toda a região sudoeste de Serravento. Ela tinha cabelos grisalhos cortados curtos, olhos verdes que ainda conservavam uma agudeza surpreendente para sua idade, e um jeito calmo e eficiente de fazer as coisas que a tornava indispensável para Madre Elara, a idosa diretora do orfanato.
+Lyris não era, aos olhos de quem a conhecia, nada além do que parecia ser — uma aposentada que havia servido à Ordem dos Mestres em sua juventude e que agora vivia uma vida tranquila, passando seus dias ajudando no Orfanato Luminis, uma instituição modesta que acolhia crianças sem família de toda a região sudoeste de Aérya. Ela tinha cabelos grisalhos cortados curtos, olhos verdes que ainda conservavam uma agudeza surpreendente para sua idade, e um jeito calmo e eficiente de fazer as coisas que a tornava indispensável para Madre Elara, a idosa diretora do orfanato.
 
 Ninguém sabia que Lyris havia sido uma das melhores agentes de inteligência da Ordem em sua juventude. Ninguém sabia que ela havia realizado missões que constavam apenas nos registros mais secretos dos arquivos de Sanctrum. Ninguém sabia que ela mantinha correspondência regular — embora indireta, através de múltiplas camadas de intermediários — com o próprio Guardião Mestre.
 
@@ -98,19 +98,19 @@ Madre Elara assentiu lentamente, aceitando a explicação parcial que lhe era of
 
 Lyris assentiu em agradecimento, mas seu coração permanecia pesado com o conhecimento do que estava por vir. Ela havia feito a promessa a Aurelius — observaria Grazielly, reportaria seu desenvolvimento, garantiria sua segurança à distância. Mas havia algo mais crescendo dentro dela ao longo dos anos, algo que ela não havia antecipado quando aceitara a missão.
 
-Carinho. Afeição genuína pela criança que ela observava de longe, visitando Mespiria sob pretextos variados — uma entrega de A Gish, folhas-de-cura aromáticas com propriedades medicinais reconhecidas por curandeiros de toda a região, para Melessa, uma parada para descanso durante viagens de negócios, um encontro "acidental" no mercado semanal. Grazielly não sabia quem Lyris realmente era, não sabia que ela estava conectada ao pai que jamais conhecera, não sabia que seus olhos verdes observavam cada passo seu com atenção protetora.
+Carinho. Afeição genuína pela criança que ela observava de longe, visitando Mespiria sob pretextos variados — uma entrega de Mirael, mirael aromáticas com propriedades medicinais reconhecidas por curandeiros de toda a região, para Melessa, uma parada para descanso durante viagens de negócios, um encontro "acidental" no mercado semanal. Grazielly não sabia quem Lyris realmente era, não sabia que ela estava conectada ao pai que jamais conhecera, não sabia que seus olhos verdes observavam cada passo seu com atenção protetora.
 
 Para Grazielly, Lyris era apenas uma senhora gentil que às vezes aparecia em Mespiria e sempre tinha uma palavra carinhosa ou um pequeno presente para ela.
 
 Para Lyris, Grazielly era a filha que ela nunca tivera, a criança que ela protegeria com a própria vida se necessário, o legado de um amor trágico que ela havia jurado honrar.
 
-*Eu cuidarei dela,* Lyris prometia a si mesma nas noites silenciosas, olhando para as estrelas que brilhavam sobre Serravento. *Quando o tempo de Melessa acabar, eu estarei lá. Ela não ficará sozinha. Eu juro pela luz das três luas que marcaram seu nascimento.*
+*Eu cuidarei dela,* Lyris prometia a si mesma nas noites silenciosas, olhando para as estrelas que brilhavam sobre Aérya. *Quando o tempo de Melessa acabar, eu estarei lá. Ela não ficará sozinha. Eu juro pela luz das três luas que marcaram seu nascimento.*
 
 ---
 
 ## O Inverno dos Sesenta Anos
 
-O inverno que se abateu sobre Serravento naquele ano foi um dos mais duros que os mais velhos podiam registrar. Ventos gelados sopravam do norte, carregando consigo um frio que penetrava até os ossos e fazia as lareiras trabalharem dia e noite para manter o calor dentro das casas. Em Mespiria, os aldeãos se recolhiam cedo, economizando energia e recursos até que a primavera chegasse.
+O inverno que se abateu sobre Aérya naquele ano foi um dos mais duros que os mais velhos podiam registrar. Ventos gelados sopravam do norte, carregando consigo um frio que penetrava até os ossos e fazia as lareiras trabalharem dia e noite para manter o calor dentro das casas. Em Mespiria, os aldeãos se recolhiam cedo, economizando energia e recursos até que a primavera chegasse.
 
 Na pequena casa de pedra que havia pertencido a Ayla e agora abrigava Melessa e Grazielly, o inverno trouxe um silêncio diferente — um silêncio que a criança de quatro anos não conseguia compreender completamente, mas que a fazia sentir um aperto no peito que não sabia nomear.
 
@@ -124,7 +124,7 @@ Não era algo repentino, não foi uma doença que chegou sem aviso. Fora um decl
 
 Melessa sorriu, uma mão trêmula alcançando o rosto da criança que ela havia criado como sua própria neta desde o dia em que nascera.
 
-— Eu fiquei bem por muito tempo, minha Grazielly. Mais tempo do que eu merecia. Mas todos nós temos nosso momento de partir, e o meu está chegando. É assim que a vida funciona. As folhas caem no outono, as Gesh An Lil, as flores-do-vento, plantas delicadas de pétalas que dançavam ao menor sopro, murcham no inverno, e os velhos voltam para a terra quando seu tempo chega.
+— Eu fiquei bem por muito tempo, minha Grazielly. Mais tempo do que eu merecia. Mas todos nós temos nosso momento de partir, e o meu está chegando. É assim que a vida funciona. As folhas caem no outono, as Aerélia, as aerélia, plantas delicadas de pétalas que dançavam ao menor sopro, murcham no inverno, e os velhos voltam para a terra quando seu tempo chega.
 
 — Eu não quero que você vá — Grazielly sussurrou, finalmente deixando as lágrimas escorrerem. — Eu não tenho mais ninguém.
 
@@ -140,7 +140,7 @@ A criança se aproximou, seus olhos castanhos fixos no rosto enrugado da avó ad
 
 — Eu sei, vó Melessa — Grazielly sussurrou. — Você foi a melhor avó do mundo.
 
-— Mas eu sou velha, minha pequena. E quando eu partir... haverá alguém esperando por você. Uma senhora chamada Lyris. Ela vive em Ventania, na cidade maior. Ela trabalha no orfanato de lá. Ela vai cuidar de você quando eu não puder mais.
+— Mas eu sou velha, minha pequena. E quando eu partir... haverá alguém esperando por você. Uma senhora chamada Lyris. Ela vive em Velantis, na cidade maior. Ela trabalha no orfanato de lá. Ela vai cuidar de você quando eu não puder mais.
 
 — Você conhece ela?
 
@@ -174,7 +174,7 @@ Grazielly não gritou. Não correu. Não fez o que outras crianças de sua idade
 
 — Você está em um lugar melhor agora, vó — ela sussurrou, suas lágrimas finalmente escorrendo livres como um rio que havia sido contido por muito tempo. — Você está com minha mãe. Vocês estão juntas agora. E um dia, eu vou encontrar vocês de novo. Eu prometo.
 
-Ela permaneceu ali por um tempo que não soube medir — minutos que pareciam horas, horas que pareciam minutos, o tempo perdendo seu significado naquele momento de despedida. Quando finalmente se levantou, ela sabia o que precisava fazer. Melessa lhe havia dito. Havia alguém esperando por ela em Ventania. Alguém chamado Lyris.
+Ela permaneceu ali por um tempo que não soube medir — minutos que pareciam horas, horas que pareciam minutos, o tempo perdendo seu significado naquele momento de despedida. Quando finalmente se levantou, ela sabia o que precisava fazer. Melessa lhe havia dito. Havia alguém esperando por ela em Velantis. Alguém chamado Lyris.
 
 Grazielly arrumou uma pequena bolsa com o que possuía — uma muda de roupas, uma boneca de pano que Melessa havia feito para ela, um desenho que havia feito da casa onde viviam, e um pequeno cristal Aetheris que havia encontrado no quintal anos atrás e que ela guardava como seu tesouro mais precioso. Ela deixou a bolsa na porta e voltou para preparar Melessa para sua última jornada, como havia visto a avó fazer por Ayla anos antes, mesmo que ela não tivesse memórias conscientes daquele dia.
 
@@ -186,11 +186,11 @@ Melessa havia partido. E Grazielly, com apenas quatro anos de idade, havia prepa
 
 — Oh, minha pequena — Thalia sussurrou, lágrimas surgindo em seus olhos enquanto abraçava Grazielly. — Você não deveria ter passado por isso sozinha.
 
-— Eu não estava sozinha — Grazielly respondeu, sua voz calma de uma forma que surpreendeu a curandeira. — Vó Melessa esteve comigo até o fim. E agora ela está em um lugar melhor. Ela me disse que eu deveria ir para Ventania. Que uma senhora chamada Lyris cuidaria de mim.
+— Eu não estava sozinha — Grazielly respondeu, sua voz calma de uma forma que surpreendeu a curandeira. — Vó Melessa esteve comigo até o fim. E agora ela está em um lugar melhor. Ela me disse que eu deveria ir para Velantis. Que uma senhora chamada Lyris cuidaria de mim.
 
 Thalia piscou em surpresa. Ela conhecia Lyris — a mulher que aparecia em Mespiria ocasionalmente, que sempre demonstrava interesse gentil por Grazielly. Mas ela não sabia que Melessa a havia designado como guardiã da criança.
 
-— Você conhece onde fica Ventania, pequena? A cidade é grande, e Lyris trabalha no orfanato de lá.
+— Você conhece onde fica Velantis, pequena? A cidade é grande, e Lyris trabalha no orfanato de lá.
 
 — Eu vou encontrá-la — Grazielly disse, com uma certeza que parecia vir de algum lugar além de sua infância. — Vó Melessa me disse para confiar nela. E eu vou.
 
@@ -200,11 +200,11 @@ Thalia piscou em surpresa. Ela conhecia Lyris — a mulher que aparecia em Mespi
 
 A comunidade de Mespiria se reuniu mais uma vez em torno de uma sepultura no pequeno cemitério atrás da casa de pedra. Desta vez, não foi uma estranha misteriosa que foi enterrada, mas uma de suas próprias — Melessa, a parteira que havia trazido tantas crianças ao mundo, que havia cuidado de tantas famílias, que havia se tornado avó de uma órfã que o destino colocara em seu caminho.
 
-Estranhamente, o tempo amainou naquele dia. O vento gelado que havia assolado a região por semanas diminuiu, permitindo que os aldeãos se reunissem ao redor da cova aberta sem lutar contra o frio. E quando o corpo de Melessa foi baixado à terra, envolto em um tecido branco como era costume em Serravento, algo aconteceu que fez todos os presentes lembrarem do enterro de Ayla, quatro anos antes.
+Estranhamente, o tempo amainou naquele dia. O vento gelado que havia assolado a região por semanas diminuiu, permitindo que os aldeãos se reunissem ao redor da cova aberta sem lutar contra o frio. E quando o corpo de Melessa foi baixado à terra, envolto em um tecido branco como era costume em Aérya, algo aconteceu que fez todos os presentes lembrarem do enterro de Ayla, quatro anos antes.
 
 Grazielly, em pé ao lado da cova, começou a cantar.
 
-Não era uma canção que ninguém reconhecia — não um hino tradicional de Serravento, não uma canção de ninar que Melessa lhe havia ensinado, não algo que qualquer criança de sua idade deveria conhecer. Era uma melodia antiga, profunda, que parecia vir de algum lugar muito distante, de uma época anterior às eras que a memória registrava.
+Não era uma canção que ninguém reconhecia — não um hino tradicional de Aérya, não uma canção de ninar que Melessa lhe havia ensinado, não algo que qualquer criança de sua idade deveria conhecer. Era uma melodia antiga, profunda, que parecia vir de algum lugar muito distante, de uma época anterior às eras que a memória registrava.
 
 As palavras eram em uma língua que ninguém presente compreendia, sons que pareciam carregar o peso de milênios em cada sílaba:
 
@@ -233,7 +233,7 @@ Lyris havia chegado a tempo de ver Melessa ser enterrada. E agora, ela sabia, er
 
 ---
 
-## A Jornada para Ventania
+## A Jornada para Velantis
 
 Quando os aldeãos começaram a se dispersar após o enterro, Lyris se aproximou de Grazielly, que permanecia imóvel ao lado da sepultura recém-fechada, seus olhos fixos na terra que agora cobria a única família que já conhecera.
 
@@ -259,27 +259,27 @@ Os olhos de Grazielly se estreitaram levemente, processando a informação. Mas 
 
 Lyris olhou para o céu, onde nuvens escuras se acumulavam no horizonte norte. O inverno havia sido rigoroso, e uma nevasca se aproximava — ela podia sentir no ar, na forma como o vento mudava de direção, no cheiro de gelo que carregava.
 
-— Precisamos partir agora — disse Lyris, sua voz ganhando uma urgência que não escapou a Grazielly. — Há uma tempestade vindo do norte. Se não chegarmos a Ventania antes que ela alcance a estrada, ficaremos presas aqui por dias.
+— Precisamos partir agora — disse Lyris, sua voz ganhando uma urgência que não escapou a Grazielly. — Há uma tempestade vindo do norte. Se não chegarmos a Velantis antes que ela alcance a estrada, ficaremos presas aqui por dias.
 
 Grazielly assentiu, entendendo a urgência. Ela correu para dentro da casa de pedra e retornou segundos depois com uma pequena bolsa de tecido — roupas, uma boneca, um desenho, um cristal. Ela não teve tempo de procurar mais nada. A urgência da partida não permitiu.
 
-Lyris estendeu a mão, e Grazielly a tomou sem hesitar. Juntas, as duas se afastaram do cemitério onde Melessa agora descansava ao lado de Ayla, deixando para trás a pequena casa de pedra que havia sido lar, os campos de She Utu, o aethrum-dourado, que haviam sido playground, os vizinhos que haviam sido família extendida.
+Lyris estendeu a mão, e Grazielly a tomou sem hesitar. Juntas, as duas se afastaram do cemitério onde Melessa agora descansava ao lado de Ayla, deixando para trás a pequena casa de pedra que havia sido lar, os campos de Aethrys, o aethrys, que haviam sido playground, os vizinhos que haviam sido família extendida.
 
 Grazielly não olhou para trás. Não porque não sentisse dor — ela sentia, uma dor profunda e verdadeira que carregaria pelo resto de seus dias. Mas porque ela sabia, com aquela consciência que parecia além de sua idade, que olhar para trás não traria o que havia perdido. O caminho estava à frente. E ela o seguiria, como Melessa teria querido.
 
 ---
 
-## O Orfanato das Asas
+## O Orfanato Luminis
 
-Ventania era uma cidade significativamente maior que Mespiria — não grande o suficiente para ser chamada de verdadeira cidade comercial, mas com ruas pavimentadas, múltiplos mercados, uma praça central onde os mercadores se reuniam aos domingos, e edifícios que alcançavam dois e até três andares de altura. Para Grazielly, que nunca havia viajado além dos campos que cercavam Mespiria, foi como entrar em um mundo completamente novo.
+Velantis era uma cidade significativamente maior que Mespiria — não grande o suficiente para ser chamada de verdadeira cidade comercial, mas com ruas pavimentadas, múltiplos mercados, uma praça central onde os mercadores se reuniam aos domingos, e edifícios que alcançavam dois e até três andares de altura. Para Grazielly, que nunca havia viajado além dos campos que cercavam Mespiria, foi como entrar em um mundo completamente novo.
 
-Mas foi o Orfanato das Asas que mais a impressionou.
+Mas foi o Orfanato Luminis que mais a impressionou.
 
-O edifício era antigo mas bem cuidado, suas paredes de pedra cobertas por Gesh Lil, as trepadeiras-de-vento, plantas que se enrolavam nas paredes como abraços verdes de folhas delicadas. Janelas altas permitiam que a luz de Aurion entrasse em abundância, e um jardim frontal, embora adormecido pelo inverno, sugeriam cores e vida que floresceriam na primavera. Dentro, o som de crianças — risadas, conversas, jogos ecoando pelos corridores — criava uma atmosfera que era ao mesmo tempo estranha e acolhedora para Grazielly.
+O edifício era antigo mas bem cuidado, suas paredes de pedra cobertas por Aeriva, as aeriva, plantas que se enrolavam nas paredes como abraços verdes de folhas delicadas. Janelas altas permitiam que a luz de Aurion entrasse em abundância, e um jardim frontal, embora adormecido pelo inverno, sugeriam cores e vida que floresceriam na primavera. Dentro, o som de crianças — risadas, conversas, jogos ecoando pelos corridores — criava uma atmosfera que era ao mesmo tempo estranha e acolhedora para Grazielly.
 
 — Este é o orfanato onde trabalho — Lyris explicou enquanto conduzia Grazielly pela entrada. — Madre Elara é a diretora. Ela é gentil, embora possa parecer um pouco séria no começo. E há outras crianças aqui — algumas mais velhas, algumas mais novas que você. Você não será a única.
 
-Grazielly assentiu, seus olhos grandes absorvendo tudo ao seu redor. O hall de entrada era espaçoso, com um grande tapete tecido à mão que mostrava padrões de ventos e estrelas, e pinturas nas paredes que retratavam paisagens de Serravento — campos de She Utu, o aethrum-dourado, montanhas ao longe, o céu aberto que parecia infinito.
+Grazielly assentiu, seus olhos grandes absorvendo tudo ao seu redor. O hall de entrada era espaçoso, com um grande tapete tecido à mão que mostrava padrões de ventos e estrelas, e pinturas nas paredes que retratavam paisagens de Aérya — campos de Aethrys, o aethrys, montanhas ao longe, o céu aberto que parecia infinito.
 
 — Lyris! Você voltou! — uma voz chamou do topo das escadas. Era uma menina de talvez oito ou nove anos, cabelos castanhos presos em tranças e um sorriso que parecia iluminar o corredor. — Quem é essa?
 
@@ -385,7 +385,7 @@ Grazielly assentiu, e Mira a puxou pelo corredor em direção à biblioteca, ond
 
 A biblioteca era menor do que Grazielly havia imaginado, mas acolhedora de uma forma que ela não soube nomear. Estantes de madeira alcançavam o teto, repletas de livros de todos os tamanhos e cores, seus títulos dourados brilhavam à luz das velas. Tapetes coloridos cobriam o chão, criando espaços aconchegantes onde as crianças podiam se sentar. E no centro de tudo, em uma poltrona grande que parecia feita para contar histórias, a mulher idosa aguardava com um livro aberto em seu colo.
 
-— Esta noite — a mulher começou, sua voz carregando pelo espaço silencioso — vou contar a história de Ventus, o último dos Seraphyens, e como ele se tornou o vento que sopra através de Serravento até hoje.
+— Esta noite — a mulher começou, sua voz carregando pelo espaço silencioso — vou contar a história de Ventus, o último dos Seraphyens, e como ele se tornou o vento que sopra através de Aérya até hoje.
 
 Grazielly sentou-se em um canto, seus joelhos contra o peito, seus olhos fixos na narradora. Ela já havia ouvido histórias sobre os Seraphyens — Melessa as contava às vezes, nas noites em que não conseguia dormir. Mas esta era diferente. Esta parecia mais real, mais presente, como se as palavras estivessem carregadas de uma verdade que ia além de lendas.
 
@@ -411,7 +411,7 @@ A mulher assentiu e se afastou, deixando Grazielly sozinha na biblioteca cada ve
 
 — Eu guarrei uma cama para você — Mira sussurrou quando Grazielly entrou. — Fica ao lado da minha.
 
-Grazielly deitou-se na cama indicada, sentindo o peso da exaustão finalmente alcançando-a. O dia havia sido longo — a morte de Melessa, o enterro, a jornada para Ventania, a chegada ao orfanato. Tudo parecia um sonho distante, uma história que alguém havia contado para ela em vez de algo que realmente havia vivido.
+Grazielly deitou-se na cama indicada, sentindo o peso da exaustão finalmente alcançando-a. O dia havia sido longo — a morte de Melessa, o enterro, a jornada para Velantis, a chegada ao orfanato. Tudo parecia um sonho distante, uma história que alguém havia contado para ela em vez de algo que realmente havia vivido.
 
 Mas quando fechou os olhos, ela viu Melessa uma última vez — não doente e fraca em sua cama de morte, mas jovem e sorrindo, como nas fotos antigas que às vezes mostrava para Grazielly. E ao lado de Melessa, ela viu uma mulher de cabelos escuros e olhos que pareciam familiares de alguma forma — uma mulher que ela sabia, sem saber como, ser sua mãe.
 
@@ -432,7 +432,7 @@ Esperança. Pertencimento. E, talvez, o começo de algo que o universo havia esp
 Melessa cumpriu sua promessa a Ayla. Grazielly encontrou um novo lar. E nos bastidores, a rede de proteção tecida por Aurelius continua a funcionar, invisível mas inabalável.
 
 *"Como as folhas caem quando seu tempo chega, mas suas raízes permanecem na terra, nutrindo novas flores que brotarão na primavera. A morte não é o fim — é apenas uma transformação, como o inverno que precede o renascimento da primavera."*
-— Madre Elara, Orfanato das Asas, Ventania, Serravento
+— Madre Elara, Orfanato Luminis, Velantis, Aérya
 
 ---
 
@@ -444,7 +444,7 @@ Este capítulo marca uma transição fundamental na vida de Grazielly. A morte d
 
 O fenômeno do fulgor durante o enterro é significativo: sugere que o poder que habita Grazielly está ligado não apenas a elementos físicos como o gelo (Cryonys), mas a algo mais profundo — uma conexão com a memória ancestral, com a linguagem dos Seraphyens, com a própria essência do sacrifício que permeia este universo.
 
-A chegada ao Orfanato das Asas estabelece novos personagens e dinâmicas:
+A chegada ao Orfanato Luminis estabelece novos personagens e dinâmicas:
 - **Mira**: primeira amiga verdadeira de Grazielly, menina de 10 anos que chegou ao orfanato aos 5
 - **Madre Elara**: diretora do orfanato, mulher severa mas justa
 - **Lyris**: a guardiã silenciosa, agente aposentada que observa e protege
@@ -460,30 +460,30 @@ O vínculo entre Grazielly e Lyris crescerá ao longo da história, transformand
 | Nome | Função | Significado |
 |------|--------|-------------|
 | **Mira** | Menina de 10 anos no orfanato | Primeira amiga de Grazielly; chegou ao orfanato aos 5 anos |
-| **Madre Elara** | Diretora do Orfanato das Asas | Mulher severa mas justa; acolhe Grazielly |
+| **Madre Elara** | Diretora do Orfanato Luminis | Mulher severa mas justa; acolhe Grazielly |
 | **Thalia** | Curandeira jovem de Mespiria | Ajudou no parto de Grazielly; amiga da família |
-| **Nyx** | Ventorro de Grazielly | Deixado em Mespiria durante a partida |
+| **Nyx** | Liryth de Grazielly | Deixado em Mespiria durante a partida |
 
 ### Termos Introduzidos:
 
 | Termo | Definição |
 |-------|-----------|
 | **Fulgor** | Brilho que emana de Grazielly; intensifica-se em momentos de grande emoção |
-| **Vagens-luminais** | Leguminosas de sementes doces que brilham por dentro |
+| **Lumiara** | Leguminosas de sementes doces que brilham por dentro |
 | **Tubérculos-da-terra** | Raízes nutritivas colhidas do solo |
-| **Folhas-de-cura** | Ervas aromáticas com propriedades medicinais |
-| **Trepadeiras-de-vento** | Plantas que se enrolam nas paredes do orfanato |
-| **Flores-do-vento** | Plantas delicadas de pétalas que dançam ao menor sopro |
-| **Asas-de-veludo** | Pequenas criaturas aladas de cores vivas |
+| **Mirael** | Ervas aromáticas com propriedades medicinais |
+| **Aeriva** | Plantas que se enrolam nas paredes do orfanato |
+| **Aerélia** | Plantas delicadas de pétalas que dançam ao menor sopro |
+| **Sylari** | Pequenas criaturas aladas de cores vivas |
 
 ### Lugares Visitados:
 
 | Local | Região | Significado |
 |-------|--------|-------------|
 | **Casa de Melessa** | Mespiria | Lar de Grazielly nos primeiros anos |
-| **Cemitério de Mespiria** | Serravento | Onde Melessa foi enterrada ao lado de Ayla |
-| **Orfanato das Asas** | Ventania | Novo lar de Grazielly |
-| **Biblioteca do Orfanato** | Ventania | Onde histórias são contadas à noite |
+| **Cemitério de Mespiria** | Aérya | Onde Melessa foi enterrada ao lado de Ayla |
+| **Orfanato Luminis** | Velantis | Novo lar de Grazielly |
+| **Biblioteca do Orfanato** | Velantis | Onde histórias são contadas à noite |
 
 ### Fenômenos Observados:
 
@@ -498,7 +498,7 @@ O vínculo entre Grazielly e Lyris crescerá ao longo da história, transformand
 | Idade | Evento |
 |-------|--------|
 | **0-4 anos** | Criada por Melessa em Mespiria |
-| **4 anos** | Morte de Melessa; viagem para Ventania; chegada ao Orfanato das Asas |
+| **4 anos** | Morte de Melessa; viagem para Velantis; chegada ao Orfanato Luminis |
 
 ---
 
@@ -506,9 +506,9 @@ O vínculo entre Grazielly e Lyris crescerá ao longo da história, transformand
 
 **Título:** *O Resgate do Coração*
 
-No próximo capítulo, Grazielly enfrentará sua primeira verdadeira prova no orfanato. Nyx, o ventorro que foi deixado para trás durante a partida apressada, estará em perigo — e a criança de quatro anos terá que encontrar coragem para salvá-lo.
+No próximo capítulo, Grazielly enfrentará sua primeira verdadeira prova no orfanato. Nyx, o liryth que foi deixado para trás durante a partida apressada, estará em perigo — e a criança de quatro anos terá que encontrar coragem para salvá-lo.
 
-A jornada de retorno a Mespiria revelará mais sobre os poderes de Grazielly, sobre a natureza do vínculo entre ela e seu companheiro peludo, e sobre as forças que已经开始 a se mover nas sombras.
+A jornada de retorno a Mespiria revelará mais sobre os poderes de Grazielly, sobre a natureza do vínculo entre ela e seu companheiro peludo, e sobre as forças que já começam a se mover nas sombras.
 
 Porque uma criança com afinidade Cryonys, cujo poder desperta tão jovem e tão forte, não passa despercebida. E há aqueles que observam, esperando o momento certo para agir.
 
