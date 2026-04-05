@@ -289,13 +289,21 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 - **Sede do Festival das Águas** — celebração anual quando as três luas se alinham
 - **Ponto de contato da Vanguarda** — local de encontro para operações secretas
 
-### Orfanato Luminis (Sylvaris)
-- Localizado em Velantis, Sylvaris
-- Construído sobre colinas suaves onde o vento sempre soprava
-- Abriga aproximadamente trinta crianças de idades variadas
+### Orfanato Luminis (Sylvaris) — Cidadela Luminis
+- Localizado nas colinas de Velantis, Sylvaris
+- **Escala:** Complexo fortificado (não um prédio isolado) — ocupação de várias colinas conectadas por muralhas de pedra e passarelas suspensas
+- **População:** Centenas de crianças de idades variadas, originárias de todos os Sete Reinos
+- **Organização interna:** Crianças divididas em alas por afinidade elemental presumida (Água, Terra, Ar, Fogo, Gelo, etc.), facilitando monitoramento precoce de manifestações
+- **Corpo administrativo:** Dezenas de mulheres — muitas ex-praticantes dos Pilares da Vida e Mente — que atuam como cuidadoras, professoras e supervisoras
+- **Diretora:** Madre Elara
+- **Segurança:** Destacamento permanente dos **Aga Uru** (Escudos da Tempestade) — unidade "Sentinelas do Alvorecer"
+  - Muros vigiados por patrulhas rotineiras
+  - **Sinalizadores de Aethra** nos portões para detectar mimetismo de frequência de agentes de Umbra
+  - Postos de observação elevados equipados com lunetas de cristal Aetheris
 - **STATUS: Alvo Estratégico de Umbra** — alta concentração de linhagens elementais diversificadas
 - Jardins com floras de todos os sete reinos
 - Torres esguias que parecem tocar o céu
+- Arquitetura que mistura funcionalidade militar (muralhas, postos avançados) com acolhimento infantil (salas coloridas, biblioteca ampla, pátios de recreação)
 
 ### Cristalnor (Fronteira Terraxis/Umbra)
 - Montanhas geladas entre Terraxis e Umbra

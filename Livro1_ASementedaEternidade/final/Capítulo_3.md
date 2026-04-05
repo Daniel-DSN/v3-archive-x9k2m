@@ -472,7 +472,7 @@ Vethran desapareceu nas sombras da câmara, deixando Thaloris sozinho com seus p
 
 ## VIII. A Tutora de Sanctrum
 
-Lyris deixou Zephyra no dia seguinte ao amanhecer, seguindo para Velantis pela estrada principal que cortava os campos de Sylvaris. O Orfanato Luminis ficava nos arredores da cidade — um edifício antigo mas bem cuidado, suas paredes de pedra cobertas por Aeriva que criavam um abraço verde ao redor da estrutura.
+Lyris deixou Zephyra no dia seguinte ao amanhecer, seguindo para Velantis pela estrada principal que cortava os campos de Sylvaris. O Orfanato Luminis — que os moradores de Velantis chamavam de Cidadela Luminis — não era um prédio isolado, mas um complexo fortificado que ocupava várias colinas nos arredores da cidade, conectadas por muralhas de pedra e passarelas suspensas. Suas torres de observação erguiam-se contra o céu como dedos de cristal, e os muros eram percorridos por guerreiros de armaduras prateadas — os Aga Uru, Escudos da Tempestade — cuja presença havia se tornado tão natural para os velantisianos quanto o vento que soprava entre as torres.
 
 Madre Elara, a idosa diretora, recebeu-a com um sorriso cansado mas genuíno. Lyris havia enviado uma mensagem de apresentação dias antes, usando os canais diplomáticos que sua autorização garantia, e a resposta havia vindo rápida: o orfanato sempre precisava de mãos dispostas.
 
@@ -488,7 +488,7 @@ Madre Elara a estudou por um longo momento, depois assentiu — não porque esti
 
 — Teremos prazer em tê-la, senhora Lyris. As crianças precisam de orientação, e eu não sou mais jovem o suficiente para fazer tudo sozinha.
 
-Nos dias que se seguiram, Lyris se integrou à rotina do orfanato. Ensaiava as crianças em escrita básica e cálculo, contava histórias à noite — histórias que sabia de cor de uma vida inteira de viagens pelos Sete Reinos — e ajudava nas tarefas diárias com uma eficiência que rapidamente a tornou indispensável.
+Nos dias que se seguiram, Lyris se integrou à rotina do orfanato com a precisão de quem havia passado a vida inteira se infiltrando em lugares estranhos e aprendendo seus ritmos antes que qualquer habitante percebesse sua presença. Memorizou os horários de troca de guarda dos Aga Uru — a cada quatro horas, com varredura de Aethra nos portões a cada mudança. Mapeou as rotas das dezenas de cuidadoras que dividiam as centenas de crianças em alas por afinidade elemental presumida. Aprendeu os nomes dos Nu Bandi que comandavam os esquadrões de patrulha e dos Dili que vigiavam das torres. Ensaiava as crianças em escrita básica e cálculo, contava histórias à noite — histórias que sabia de cor de uma vida inteira de viagens pelos Sete Reinos — e ajudava nas tarefas diárias com uma eficiência que rapidamente a tornou indispensável.
 
 Mas o orfanato não era o único motivo pelo qual Lyris estava ali.
 
@@ -665,7 +665,9 @@ Velantis era uma cidade significativamente maior que Mespiria — não grande o 
 
 Mas foi o Orfanato Luminis que mais a impressionou.
 
-O edifício era antigo mas bem cuidado, suas paredes de pedra cobertas por Gesh Lil, as trepadeiras-de-vento, plantas que se enrolavam nas paredes como abraços verdes de folhas delicadas. Janelas altas permitiam que a luz de Aurion entrasse em abundância, e um jardim frontal, embora adormecido pelo inverno, sugeria cores e vida que floresceriam na primavera. Dentro, o som de crianças — risadas, conversas, jogos ecoando pelos corredores — criava uma atmosfera que era ao mesmo tempo estranha e acolhedora.
+O que Grazielly viu quando Lyris a conduziu pelos portões de ferro forjado não era um único edifício, mas uma verdadeira cidade de pedra — colinas inteiras cobertas por construções de muralhas altas, conectadas por passarelas suspensas sobre as quais o vento soprava sem parar. Torres esguias erguiam-se nos pontos mais altos, e nelas Grazielly podia ver figuras imóveis — guerreiros de armaduras prateadas que pareciam esculpidas em luz, tão silenciosos quanto as estátuas que decoravam as praças de Mespiria. Eram os Aga Uru, e não falavam — apenas observavam.
+
+A placa de bronze no portão principal dizia "Orfanato Luminis — Donde toda criança encontra luz", mas para Grazielly, de quatro anos, aquele lugar era tão grande que parecia abrigar o mundo inteiro. As paredes de pedra das construções principais estavam cobertas por Aeriva — trepadeiras delicadas que se enrolavam nas superfícies como abraços verdes, suas folhas finas tremulando mesmo sob o frio. O som de centenas de crianças ecoava pelos corredores e pátios — risadas, conversas, jogos, choros distantes que se perdiam entre as muralhas — criando uma atmosfera que era ao mesmo tempo avassaladora e, de alguma forma, acolhedora.
 
 — Este é o orfanato onde trabalho — Lyris explicou enquanto conduzia Grazielly pela entrada. — Madre Elara é a diretora. Ela é gentil, embora possa parecer um pouco séria no começo.
 

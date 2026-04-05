@@ -303,6 +303,33 @@
 - Monitoramento de tempestades
 - Resgate em desastres
 
+### Destacamentos Terrestres — Aga Uru (Escudos da Tempestade)
+
+Corpo de infantaria e guarnição terrestre de Sylvaris. Diferente dos Mushen En (Cavaleiros do Céu), os Aga Uru operam em terra — protegendo instalações estratégicas, cidades e fronteiras terrestres.
+
+**Hierarquia (NÃO usar o termo "soldado"):**
+
+| Patente | Título (Emê-Gir) | Comando | Função |
+|---------|-------------------|---------|--------|
+| **Aga Uru** | Aga Uru | Unidade individual | Guerreiro de base; patrulha muros e perímetros |
+| **Nu Bandi** | Nu Bandi | Esquadrão de 10 | Líder de Elo; comanda grupos de patrulha e defesa |
+| **Nin Aga** | Nin Aga | Guarnição inteira | Mestre do Escudo; capitão responsável por uma instalação |
+| **Dili** | Dili | Posto avançado | Vigia de elite; operam postos de observação elevada equipados com lunetas de cristal Aetheris |
+
+#### Sentinelas do Alvorecer (Destacamento do Orfanato Luminis)
+
+Unidade permanente designada à proteção da **Cidadela Luminis** (Orfanato Luminis) em Velantis.
+
+| Atributo | Detalhe |
+|----------|--------|
+| **Comandante** | Nin Aga Soren (Mestre do Escudo) |
+| **Efetivo** | Aproximadamente 30 Aga Uru em patrulha rotineira |
+| **Postos de Dili** | 4 torres de observação nos pontos cardeais do complexo |
+| **Sinalizadores de Aethra** | Instalados nos 3 portões principais — detectam mimetismo de frequência de agentes de Umbra |
+| **Protocolo noturno** | Troca de guarda a cada 4 horas; varredura de Aethra nos portões a cada mudança |
+| **Relação com o orfanato** | As crianças estão acostumadas com a presença dos guerreiros de armaduras prateadas; os Aga Uru não interagem com os órfãos salvo em emergências |
+| **Dupla função** | Proteger as crianças de ameaças externas (Umbra, sequestradores) E monitorar manifestações elementais precoces — relatórios sigilosos vão ao Senhor dos Ventos e ao Mestre dos Sussurros |
+
 ### Frota Aérea
 
 | Tipo | Quantidade | Função |
