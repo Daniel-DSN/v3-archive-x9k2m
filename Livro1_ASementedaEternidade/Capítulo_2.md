@@ -194,13 +194,13 @@ Grazielly a observou com aqueles olhos castanhos serenos, e então, pela primeir
 
 Melessa não sorriu de volta. Seu coração, que momentos antes derretia diante daquele sorriso, agora se contraiu com uma certeza gelada.
 
-Ela conhecia os rumores. Conhecia as histórias que os curandeiros mais velhos contavam ao redor das fogueiras — histórias sobre crianças nascidas sob a Convergência Tripla, crianças que carregavam dons que os homens de Sanctrum cobiçavam, crianças que desapareciam das vilas sem que ninguém soubesse para onde haviam ido. Se a Ordem dos Mestres descobrisse o que havia nascido naquela noite, naquela casa de pedra, naquela vila esquecida no sudoeste de Serravento...
+Ela conhecia os rumores. Conhecia as histórias que os curandeiros mais velhos contavam ao redor das fogueiras — histórias sobre crianças nascidas sob a Convergência Tripla, crianças que carregavam dons que os homens de Sanctrum cobiçavam, crianças que desapareciam das vilas sem que ninguém soubesse para onde haviam ido. Se a Ordem dos Mestres descobrisse o que havia nascido naquela noite, naquela casa de pedra, naquela vila esquecida no sudoeste de Sylvaris...
 
 Ninguém viria por compaixão. Viriam por interesse. Viriam pelo poder.
 
 — Não — ela sussurrou, segurando Grazielly contra o peito com uma força que surpreendeu seus próprios braços velhos. — Ninguém vai te levar. Ninguém vai saber. Enquanto eu viver, você estará escondida.
 
-Melessa levantou-se, caminhando até a janela. As três luas ainda brilhavam no céu, mais fracas agora, começando a se separar após a Convergência. Ela olhou para a estrada que levava a Ventania, e além dela, para os territórios de Sanctrum, tão distantes e tão perigosos.
+Melessa levantou-se, caminhando até a janela. As três luas ainda brilhavam no céu, mais fracas agora, começando a se separar após a Convergência. Ela olhou para a estrada que levava a Velantis, e além dela, para os territórios de Sanctrum, tão distantes e tão perigosos.
 
 Thalia precisava ser orientada. Os vizinhos precisavam ser alertados — não sobre o brilho, nunca sobre o brilho — mas sobre a necessidade de discrição. A criança era uma órfã comum. Filha de mãe desconhecida, sem pai identificado. Mais uma vida que o mundo havia descartado. Nada mais.
 
@@ -250,7 +250,7 @@ Tudo o que sabia era que algo havia mudado naquela noite. E que o mundo, de algu
 
 ---
 
-Nas colinas douradas de Serravento, o vento soprou mais forte — carregando consigo o sussurro de um nome que o universo acabara de receber:
+Nas colinas douradas de Sylvaris, o vento soprou mais forte — carregando consigo o sussurro de um nome que o universo acabara de receber:
 
 *Grazielly.*
 
@@ -276,8 +276,8 @@ O destino começara a se mover — silencioso, paciente, inabalável.
 |-------|-----------|
 | **Grazielly** | Filha de Ayla e Aurelius; nasceu sob a Convergência Tripla |
 | **Bênção de Elara** | Luz rosa que desceu do céu sobre o túmulo de Ayla |
-| **Ventorro** | Mamífero pequeno de pelagem prateada |
-| **Capraluna** | Mamífero médio produtor de leite |
+| **Liryth** | Mamífero pequeno de pelagem prateada |
+| **Nariel** | Mamífero médio produtor de leite |
 
 ### Personagens Introduzidos:
 

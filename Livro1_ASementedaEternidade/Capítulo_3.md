@@ -8,7 +8,7 @@
 
 # O Legado da Parteira
 
-*Na Terceira Era desde a Primeira Guerra, quando as cicatrizes dos Seraphyens haviam se tornado lendas e as lendas haviam se tornado história, havia certos segredos que o vento carregava mas nunca revelava — segredos enterrados em casas de pedra no sudoeste de Serravento, guardados por velhas parteiras que sabiam que o silêncio era a forma mais poderosa de amor.*
+*Na Terceira Era desde a Primeira Guerra, quando as cicatrizes dos Seraphyens haviam se tornado lendas e as lendas haviam se tornado história, havia certos segredos que o vento carregava mas nunca revelava — segredos enterrados em casas de pedra no sudoeste de Sylvaris, guardados por velhas parteiras que sabiam que o silêncio era a forma mais poderosa de amor.*
 
 ---
 
@@ -22,7 +22,7 @@ Mas o tempo, como o rio, não para. E as sombras, por mais espessas que sejam, e
 
 ## I. Os Anos na Sombra
 
-Os quatro primeiros anos da vida de Grazielly foram, aos olhos de qualquer observador externo, perfeitamente comuns — uma criança crescendo em uma vila agrícola tranquila, cercada por campos de She Utu, o aethrum-dourado, cujas espigas ondulavam ao vento como mares dourados, e céus que pareciam mais azuis que em qualquer outro lugar de Serravento. Mas para aqueles que observavam com mais atenção — para Melessa, que observava tudo — havia algo diferente naquela menina, algo que a enchia de orgulho e de terror em partes iguais.
+Os quatro primeiros anos da vida de Grazielly foram, aos olhos de qualquer observador externo, perfeitamente comuns — uma criança crescendo em uma vila agrícola tranquila, cercada por campos de She Utu, o Aethrys, cujas espigas ondulavam ao vento como mares dourados, e céus que pareciam mais azuis que em qualquer outro lugar de Sylvaris. Mas para aqueles que observavam com mais atenção — para Melessa, que observava tudo — havia algo diferente naquela menina, algo que a enchia de orgulho e de terror em partes iguais.
 
 Ela aprendia rápido — mais rápido do que qualquer criança que Melessa havia visto em suas décadas como parteira e curandeira. Quando outras crianças de sua idade ainda lutavam para articular palavras simples, Grazielly já formava frases completas, já fazia perguntas que faziam os adultos ao seu redor piscarem em surpresa, já demonstrava uma compreensão do mundo que parecia além de seus quatro anos de vida. E o brilho — aquele fulgor suave que pulsava sob sua pele em momentos de emoção intensa — voltava com frequência suficiente para manter Melessa permanentemente alerta.
 
@@ -56,7 +56,7 @@ Era uma mentira que Melessa contava várias vezes por dia. Grazielly não era a 
 
 E funcionava. Na maior parte do tempo.
 
-Melessa havia estabelecido regras rígidas para a vida de Grazielly na vila. A criança não devia brincar longe de casa sem supervisão. Não devia ficar sozinha com estranhos. Não devia demonstrar qualquer coisa incomum na presença de forasteiros — e Melessa a ensinara desde cedo a reconhecer quem era de Mespiria e quem não era. Quando mercadores de Ventania passavam pela vila, Grazielly era mantida dentro de casa. Quando viajantes perguntavam sobre a criança loira de olhos castanhos que vivia com a parteira, Melessa respondia com uma versão simplificada de uma história que havia ensaiado muitas vezes: uma mãe desconhecida, um parto difícil, uma criança órfã que ela adotara por compaixão. Nada mais.
+Melessa havia estabelecido regras rígidas para a vida de Grazielly na vila. A criança não devia brincar longe de casa sem supervisão. Não devia ficar sozinha com estranhos. Não devia demonstrar qualquer coisa incomum na presença de forasteiros — e Melessa a ensinara desde cedo a reconhecer quem era de Mespiria e quem não era. Quando mercadores de Velantis passavam pela vila, Grazielly era mantida dentro de casa. Quando viajantes perguntavam sobre a criança loira de olhos castanhos que vivia com a parteira, Melessa respondia com uma versão simplificada de uma história que havia ensaiado muitas vezes: uma mãe desconhecida, um parto difícil, uma criança órfã que ela adotara por compaixão. Nada mais.
 
 Grazielly, com aquela inteligência que a preocupava e a maravilhava, parecia entender instintivamente que havia algo diferente em sua situação. Ela não fazia perguntas sobre sua mãe — não as que realmente importavam, pelo menos. Aceitava as respostas parciais de Melessa com uma serenidade que não era natural para uma criança de sua idade. Mas Melessa via, nos momentos em que Grazielly pensava que ninguém a observava, uma tristeza nos olhos da menina — uma saudade de algo que ela nunca havia conhecido mas sentia que deveria ter existido.
 
@@ -76,7 +76,7 @@ O tempo não para. E ela não seria eterna.
 
 ## II. O Inverno que Tudo Mudou
 
-O inverno que se abateu sobre Serravento naquele ano foi um dos mais duros que os mais velhos podiam registrar. Ventos gelados sopravam do norte, carregando consigo um frio que penetrava até os ossos e fazia as lareiras trabalharem dia e noite para manter o calor dentro das casas. As estradas para Ventania ficaram intransitáveis por semanas. Os mercadores pararam de viajar. Mespiria, que sempre havia sido uma vila aberta e acolhedora, recolheu-se sobre si mesma como um animal em hibernação, seus habitantes raramente saindo de suas casas além do estritamente necessário.
+O inverno que se abateu sobre Sylvaris naquele ano foi um dos mais duros que os mais velhos podiam registrar. Ventos gelados sopravam do norte, carregando consigo um frio que penetrava até os ossos e fazia as lareiras trabalharem dia e noite para manter o calor dentro das casas. As estradas para Velantis ficaram intransitáveis por semanas. Os mercadores pararam de viajar. Mespiria, que sempre havia sido uma vila aberta e acolhedora, recolheu-se sobre si mesma como um animal em hibernação, seus habitantes raramente saindo de suas casas além do estritamente necessário.
 
 Na pequena casa de pedra que havia pertencido a Ayla e agora abrigava Melessa e Grazielly, o inverno trouxe um silêncio diferente — um silêncio que a criança de quatro anos não conseguia compreender completamente, mas que a fazia sentir um aperto no peito que não sabia nomear.
 
@@ -118,7 +118,7 @@ Melessa escreveu a carta com mãos que tremiam não de fraqueza, mas de determin
 
 *"Ao Guardião Mestre de Sanctrum, aquele que Ayla chamava pelo nome de Aurelius.*
 
-*Não sei se esta carta chegará até você. Não sei se você se importa com o que aconteceu na pequena vila de Mespiria, no sudoeste de Serravento, na noite da Convergência Tripla. Não sei se você sequer lembra de Ayla — da mulher que amou, que partiu, que carregou seu filho em segredo para que ele pudesse viver uma vida que os dois não puderam ter juntos.*
+*Não sei se esta carta chegará até você. Não sei se você se importa com o que aconteceu na pequena vila de Mespiria, no sudoeste de Sylvaris, na noite da Convergência Tripla. Não sei se você sequer lembra de Ayla — da mulher que amou, que partiu, que carregou seu filho em segredo para que ele pudesse viver uma vida que os dois não puderam ter juntos.*
 
 *Mas eu preciso acreditar que sim. Preciso acreditar que o homem que fez uma mulher sorrir nos momentos mais difíceis de sua vida ainda é digno da confiança que ela depositou nele.*
 
@@ -138,13 +138,13 @@ Melessa escreveu a carta com mãos que tremiam não de fraqueza, mas de determin
 
 Melessa dobrou a carta com cuidado, selou-a com cera que Thalia trouxera dias antes, e escreveu na frente o endereço que Ayla lhe havia dito uma vez, em confidência, quando pensava que estava no final de sua gravidez: *Palácio do Grande Mestre, Sanctrum, Aetherion Prime.*
 
-Encontrar um portador foi a parte mais difícil. As estradas estavam bloqueadas pela neve. Os mensageiros profissionais de Ventania haviam suspendido suas viagens até a primavera. Mas Thalia, que havia ficado ainda mais preocupada com a saúde de Melessa nas últimas semanas, sabia de um viajante — um mercador de especiarias que planejava atravessar as montanhas assim que a nevasca amainasse, levando seus produtos para as feiras do norte.
+Encontrar um portador foi a parte mais difícil. As estradas estavam bloqueadas pela neve. Os mensageiros profissionais de Velantis haviam suspendido suas viagens até a primavera. Mas Thalia, que havia ficado ainda mais preocupada com a saúde de Melessa nas últimas semanas, sabia de um viajante — um mercador de especiarias que planejava atravessar as montanhas assim que a nevasca amainasse, levando seus produtos para as feiras do norte.
 
 — Ele é discreto — Thalia disse, segurando a carta selada como se segurasse uma bomba. — Mas se essa carta for interceptada...
 
 — Se não for enviada, Grazielly morrerá sozinha — Melessa respondeu, sua voz firme apesar do corpo fraco. — Essa é a única chance que ela tem. E a única coisa que me dá paz para partir.
 
-O mercador partiu três dias depois, quando uma breve pausa no inverno permitiu que as estradas fossem transitáveis por uma janela estreita de tempo. A carta viajou com ele através das montanhas geladas que separavam Serravento dos territórios centrais, passando por vilas onde era transferida de mão em mão, cada portador recebendo uma pequena compensação por levar um envelope selado a um destino que a maioria considerava mítico — o Palácio do Grande Mestre em Sanctrum.
+O mercador partiu três dias depois, quando uma breve pausa no inverno permitiu que as estradas fossem transitáveis por uma janela estreita de tempo. A carta viajou com ele através das montanhas geladas que separavam Sylvaris dos territórios centrais, passando por vilas onde era transferida de mão em mão, cada portador recebendo uma pequena compensação por levar um envelope selado a um destino que a maioria considerava mítico — o Palácio do Grande Mestre em Sanctrum.
 
 A viagem levou doze dias. Doze dias em que Melessa enfraquecia visivelmente, em que Grazielly se recusava a deixar o lado de sua avó adotiva, em que o inverno continuava sua marcha implacável sobre Mespiria.
 
@@ -224,17 +224,17 @@ O codinome ecoou no gabinete como um fantasma do passado. Lyris não o ouvia há
 
 Aurelius abriu uma gaveta de sua escrivaninha e retirou um envelope selado com cera vermelha — o selo do En Me, impresso com o símbolo de um cristal Aetheris rodeado por chamas.
 
-— Você vai para Serravento. Vai encontrar a criança em Mespiria — antes que a parteira morra, se houver tempo. Vai levá-la para Ventania, para o Orfanato das Asas, onde ficará segura. Vai observá-la, protegê-la, garantir que ela tenha uma vida normal. Mas nunca vai revelar quem ela é. Nunca vai entrar em contato direto comigo a menos que seja uma emergência absoluta.
+— Você vai para Sylvaris. Vai encontrar a criança em Mespiria — antes que a parteira morra, se houver tempo. Vai levá-la para Velantis, para o Orfanato Luminis, onde ficará segura. Vai observá-la, protegê-la, garantir que ela tenha uma vida normal. Mas nunca vai revelar quem ela é. Nunca vai entrar em contato direto comigo a menos que seja uma emergência absoluta.
 
 Ele estendeu o envelope.
 
-— Esta é sua autorização. Livre trânsito em Serravento, acesso a recursos, proteção diplomática. O Senhor dos Ventos, Valerion Ascanius, será informado de sua chegada.
+— Esta é sua autorização. Livre trânsito em Sylvaris, acesso a recursos, proteção diplomática. O Senhor dos Ventos, Thaloris Ventaris, será informado de sua chegada.
 
 Lyris tomou o envelope, sentindo seu peso desproporcional ao tamanho — o peso de uma missão que ia além de qualquer outra que já havia realizado. Não era mais uma operação de inteligência. Era a vida de uma criança. A filha do homem que comandava o mundo conhecido.
 
 — O Senhor dos Ventos saberá a verdade?
 
-— Não. Ninguém saberá, exceto nós dois. Para todos os outros, você é uma aposentada da Ordem que busca refúgio em Serravento. Uma vida tranquila ajudando em um orfanato.
+— Não. Ninguém saberá, exceto nós dois. Para todos os outros, você é uma aposentada da Ordem que busca refúgio em Sylvaris. Uma vida tranquila ajudando em um orfanato.
 
 — Uma lenda que já usei antes — Lyris murmurou, um sorriso irônico tocando seus lábios.
 
@@ -264,29 +264,29 @@ Lyris partiu de Sanctrum ao amanhecer do dia seguinte, viajando leve — apenas 
 
 Coisas que uma filha talvez quisesse ter um dia. Coisas que Lyris guardaria até que chegasse o momento certo.
 
-A estrada de Sanctrum para Serravento era longa — muito mais longa do que qualquer viagem que Lyris havia feito em suas missões de inteligência, onde velocidade e eficiência eram prioridades absolutas. Desta vez, porém, ela viajava como uma aposentada comum, sem os passes que lhe dariam acesso a rotas militares, sem os recursos que aceleravam jornadas operacionais. Uma mulher idosa em uma estrada de inverno, enfrentando o mesmo frio e as mesmas dificuldades que qualquer viajante comum enfrentaria.
+A estrada de Sanctrum para Sylvaris era longa — muito mais longa do que qualquer viagem que Lyris havia feito em suas missões de inteligência, onde velocidade e eficiência eram prioridades absolutas. Desta vez, porém, ela viajava como uma aposentada comum, sem os passes que lhe dariam acesso a rotas militares, sem os recursos que aceleravam jornadas operacionais. Uma mulher idosa em uma estrada de inverno, enfrentando o mesmo frio e as mesmas dificuldades que qualquer viajante comum enfrentaria.
 
 Os primeiros dias levaram-na através das montanhas rochosas de Aetherion Prime — o coração do continente, onde as torres de Sanctrum logo deram lugar a paisagens cada vez mais selvagens. As estradas aqui eram bem conservadas, pavimentadas com pedras que os engenheiros da Ordem haviam colocado séculos atrás, mas o inverno tornava cada Passo uma batalha contra o gelo e o vento que descia dos picos nevados.
 
 Lyris parava em pousadas à noite, observando tudo com olhos treinados — rotas de fuga, possíveis ameaças, padrões de movimento dos viajantes que compartilhavam seu caminho. Anos de trabalho de campo haviam gravado aqueles instintos em sua alma, e mesmo agora, em missão de proteção em vez de espionagem, ela não conseguia desligá-los. Um casal de comerciantes que viajava na mesma direção por tempo demais. Um homem solitário cujos olhos a observavam demais. Um grupo de soldados que fazia perguntas sobre viajantes na estrada. Nada que sugerisse ameaça direta, mas tudo que Lyris catalogava mentalmente com a precisão de quem sabia que a segurança residia nos detalhes.
 
-Ao quinto dia, as montanhas deram lugar às planícies férteis da fronteira com Terraxis. Aqui, o frio amolecia ligeiramente, e as vilas se tornavam mais frequentes — pequenas comunidades agrícolas que sobreviviam da colheita de She Utu e da criação de Capralunas para leite e lã. Lyris passou por mercados onde mercadores vendiam A Gish, as folhas-de-cura, e frutas-cristalizadas que faziam as crianças sorrirem. Em cada parada, ela perguntava sobre as condições da estrada à frente — nevascas, deslizamentos, bloqueios que pudessem atrasá-la.
+Ao quinto dia, as montanhas deram lugar às planícies férteis da fronteira com Terraxis. Aqui, o frio amolecia ligeiramente, e as vilas se tornavam mais frequentes — pequenas comunidades agrícolas que sobreviviam da colheita de She Utu e da criação de Nariels para leite e lã. Lyris passou por mercados onde mercadores vendiam A Gish, as folhas-de-cura, e frutas-cristalizadas que faziam as crianças sorrirem. Em cada parada, ela perguntava sobre as condições da estrada à frente — nevascas, deslizamentos, bloqueios que pudessem atrasá-la.
 
-A resposta era sempre a mesma: o inverno havia sido duro. As estradas para Serravento estavam transitáveis, mas apenas por janelas estreitas entre as tempestades.
+A resposta era sempre a mesma: o inverno havia sido duro. As estradas para Sylvaris estavam transitáveis, mas apenas por janelas estreitas entre as tempestades.
 
-Ao oitavo dia, Lyris cruzou a fronteira para Serravento, e o mundo mudou. As planícies deram lugar a colinas suaves que ondulavam como ondas congeladas, cobertas por campos de She Utu que, mesmo no inverno, mantinham uma tonalidade dourada sob a luz de Aurion. O vento — sempre presente em Serravento, como uma presença viva que moldava a terra e o povo que nela vivia — soprou com mais força aqui, carregando consigo o perfume distante de flores que floresceriam na primavera e o sussurro de histórias que apenas o ar conhecia.
+Ao oitavo dia, Lyris cruzou a fronteira para Sylvaris, e o mundo mudou. As planícies deram lugar a colinas suaves que ondulavam como ondas congeladas, cobertas por campos de She Utu que, mesmo no inverno, mantinham uma tonalidade dourada sob a luz de Aurion. O vento — sempre presente em Sylvaris, como uma presença viva que moldava a terra e o povo que nela vivia — soprou com mais força aqui, carregando consigo o perfume distante de flores que floresceriam na primavera e o sussurro de histórias que apenas o ar conhecia.
 
-Lyris sentiu o vento como um abraço e uma advertência ao mesmo tempo. Estava se aproximando do território de Valerion Ascanius, o Senhor dos Ventos, e a audiência formal que a aguardava em Zephyria era um obstáculo que não podia ignorar. A autorização do En Me garantia seu trânsito, mas no jogo político entre reinos, garantias no papel valiam menos que a boa vontade de quem governava o território.
+Lyris sentiu o vento como um abraço e uma advertência ao mesmo tempo. Estava se aproximando do território de Thaloris Ventaris, o Senhor dos Ventos, e a audiência formal que a aguardava em Zephyra era um obstáculo que não podia ignorar. A autorização do En Me garantia seu trânsito, mas no jogo político entre reinos, garantias no papel valiam menos que a boa vontade de quem governava o território.
 
-Ao décimo dia, as torres de Zephyria surgiram no horizonte como um sonho de cristal e vento — a capital flutuante de Serravento, erguida sobre pilares de cristal Aetheris que a mantinham acima do solo como uma cidade tecida pelas próprias mãos de Ventus, o último dos Seraphyens. Fontes de água dançavam no ar, criando arco-íris constantes que se desfaziam e se reformavam com cada mudança de brisa. Jardins suspensos ondulavam entre pavilhões de mármore branco, e pontes de cristal conectavam estruturas que pareciam desafiar a própria gravidade.
+Ao décimo dia, as torres de Zephyra surgiram no horizonte como um sonho de cristal e vento — a capital flutuante de Sylvaris, erguida sobre pilares de cristal Aetheris que a mantinham acima do solo como uma cidade tecida pelas próprias mãos de Ventus, o último dos Seraphyens. Fontes de água dançavam no ar, criando arco-íris constantes que se desfaziam e se reformavam com cada mudança de brisa. Jardins suspensos ondulavam entre pavilhões de mármore branco, e pontes de cristal conectavam estruturas que pareciam desafiar a própria gravidade.
 
 Era lindo. E Lyris, que já havia visto maravilhas que fariam a maioria das pessoas desmaiar de reverência, sentiu um momento de genuína admiração.
 
-Mas ela não se dirigia a Zephyria — não ainda. Primeiro precisava cumprir seu protocolo. Depois, seguiria para Mespiria.
+Mas ela não se dirigia a Zephyra — não ainda. Primeiro precisava cumprir seu protocolo. Depois, seguiria para Mespiria.
 
 E Melessa estava morrendo. Cada dia que passava era um dia a menos.
 
-Lyris apertou o passo, e o vento de Serravento pareceu soprar mais forte, como se reconhecesse a urgência que carregava em seu coração.
+Lyris apertou o passo, e o vento de Sylvaris pareceu soprar mais forte, como se reconhecesse a urgência que carregava em seu coração.
 
 ---
 
@@ -304,29 +304,29 @@ Lyris esperava encontrar o Senhor dos Ventos sentado em seu trono — um gesto d
 
 Ou quase vazio. No canto mais distante da câmara, de costas para a porta, uma figura estava de pé diante de um enorme cavalete coberto por uma tela. As mangas de um manto azul claro estavam empurradas até os cotovelos, e na mão direita, um pincel movia-se com uma delicadeza que parecia contradizer a postura imponente do homem que o segurava.
 
-Valerion Ascanius, Lugal Lil, Senhor dos Ventos de Serravento, estava pintando.
+Thaloris Ventaris, Lugal Lil, Senhor dos Ventos de Sylvaris, estava pintando.
 
 Lyris permaneceu imóvel na entrada, observando. O quadro ainda estava em progresso, mas o que já havia na tela era extraordinário — não uma paisagem reconhecível, não um retrato, mas algo mais abstrato. Um céu sem horizonte, onde tons de azul e prata e branco se fundiam de formas que faziam o espectador sentir que estava olhando para o próprio vento congelado em pigmentos. Havia movimento na pintura — um senso de fluxo, de liberdade, de algo que nunca poderia ser capturado mas que ali, na tela, parecia ter sido temporariamente domesticado.
 
 Era a obra de alguém que via o mundo não como um governante vê — em termos de territórios e recursos e ameaças — mas como um artista vê, em termos de luz e sombra e espaço entre as coisas.
 
-Valerion adicionou três pinceladas finais — uma de prata pálida no canto superior direito, uma de azul profundo na base, e uma última, quase invisível, de branco puro no centro, como se colocasse uma estrela onde ninguém esperaria encontrar uma. Depois, ele abaixou o pincel, respirou fundo, e finalmente se virou.
+Thaloris adicionou três pinceladas finais — uma de prata pálida no canto superior direito, uma de azul profundo na base, e uma última, quase invisível, de branco puro no centro, como se colocasse uma estrela onde ninguém esperaria encontrar uma. Depois, ele abaixou o pincel, respirou fundo, e finalmente se virou.
 
-Valerion Ascanius era um homem de presença imponente mesmo desarrumado — com manchas de tinta nas mãos e no antebraço, com o cabelo grisalho menos impecável do que o protocolo exigia, com uma expressão de quem havia sido interrompido no meio de algo profundamente pessoal. Mas seus olhos azuis, quando encontraram os de Lyris, eram tão penetrantes quanto qualquer relatório de inteligência havia descrito — olhos que pareciam pesar a alma de quem os encarava.
+Thaloris Ventaris era um homem de presença imponente mesmo desarrumado — com manchas de tinta nas mãos e no antebraço, com o cabelo grisalho menos impecável do que o protocolo exigia, com uma expressão de quem havia sido interrompido no meio de algo profundamente pessoal. Mas seus olhos azuis, quando encontraram os de Lyris, eram tão penetrantes quanto qualquer relatório de inteligência havia descrito — olhos que pareciam pesar a alma de quem os encarava.
 
 — Agente Lyris. — Sua voz era profunda, calma, com aquela qualidade que comandava atenção sem precisar de volume. — Peço desculpas. A arte não espera por audiências, e a inspiração é uma visitante impaciente. — Ele caminhou até uma bacia de prata e lavou as mãos, a tinta se dissolvendo na água como neblina se dissipa ao contato de Aurion. — Dê-me um momento.
 
-Lyris assentiu, usando o tempo para observar o salão com olhos treinados. Sete cadeiras alinhadas ao longo das paredes — os assentos do Conselho de Correntes. Tapeçarias que retratavam cenas da fundação de Serravento. E, em uma parede discreta, uma porta lateral que ela marcou mentalmente como uma rota de saída alternativa.
+Lyris assentiu, usando o tempo para observar o salão com olhos treinados. Sete cadeiras alinhadas ao longo das paredes — os assentos do Conselho de Correntes. Tapeçarias que retratavam cenas da fundação de Sylvaris. E, em uma parede discreta, uma porta lateral que ela marcou mentalmente como uma rota de saída alternativa.
 
-Quando Valerion voltou, caminhando até o trono que finalmente ocupou com a naturalidade de quem está acostumado ao poder, sua aparência já era a de um governante — as mangas do manto cobertas, a postura ereta, o manto azul claro movendo-se mesmo sem brisa, como se o próprio ar respondesse à sua presença.
+Quando Thaloris voltou, caminhando até o trono que finalmente ocupou com a naturalidade de quem está acostumado ao poder, sua aparência já era a de um governante — as mangas do manto cobertas, a postura ereta, o manto azul claro movendo-se mesmo sem brisa, como se o próprio ar respondesse à sua presença.
 
-— Seja bem-vinda a Zephyria, agente Lyris. Recebi uma mensagem do En Me Aurelius avisando de sua chegada.
+— Seja bem-vinda a Zephyra, agente Lyris. Recebi uma mensagem do En Me Aurelius avisando de sua chegada.
 
 Lyris fez uma reverência formal, a profundidade calculada para mostrar respeito sem submissão excessiva.
 
 — Senhor dos Ventos, Lugal Lil. Agradeço por me receber.
 
-Valerion gesticulou para uma cadeira posicionada diante de seu trono.
+Thaloris gesticulou para uma cadeira posicionada diante de seu trono.
 
 — Sente-se. Temos muito a discutir. Mas primeiro — seus olhos foram ao quadro inacabado. — O que você acha?
 
@@ -334,29 +334,29 @@ Lyris piscou, surpresa pela pergunta. Não era o que esperava de uma audiência 
 
 — É extraordinário, senhor. Parece... o vento. Não uma imagem dele, mas ele mesmo.
 
-Um sorriso genuíno — o primeiro que Lyris via no rosto de Valerion — cruzou seus lábios.
+Um sorriso genuíno — o primeiro que Lyris via no rosto de Thaloris — cruzou seus lábios.
 
 — A maioria das pessoas vê um quadro. Você vê o que ele contém. Isso me diz muito sobre você, agente Lyris. — Ele recostou-se no trono. — Mas vamos ao que interessa. Tenho aqui sua autorização.
 
-Lyris retirou o envelope de seu manto e o estendeu para um assistente que se aproximou. Valerion quebrou o lacre de cera vermelha, seus olhos percorrendo o documento com a eficiência de quem leia dezenas de correspondências por dia.
+Lyris retirou o envelope de seu manto e o estendeu para um assistente que se aproximou. Thaloris quebrou o lacre de cera vermelha, seus olhos percorrendo o documento com a eficiência de quem leia dezenas de correspondências por dia.
 
 — Uma missão de observação — ele murmurou. — Sem detalhes sobre o alvo ou objetivo.
 
-— O En Me prefere manter certos assuntos... discretos, senhor. — Lyris manteve sua voz neutra. — Posso garantir que a missão não envolve atividades que possam comprometer a soberania ou segurança de Serravento.
+— O En Me prefere manter certos assuntos... discretos, senhor. — Lyris manteve sua voz neutra. — Posso garantir que a missão não envolve atividades que possam comprometer a soberania ou segurança de Sylvaris.
 
-Valerion levantou os olhos do documento, fixando Lyris com um olhar que parecia pesar sua alma.
+Thaloris levantou os olhos do documento, fixando Lyris com um olhar que parecia pesar sua alma.
 
-— Serravento não é um estado vassalo de Sanctrum, agente. Permitir que agentes estrangeiros operem em nosso território é uma cortesia, não uma obrigação. Mas concordo — Aurelius sempre foi um homem de modos cuidadosos. — Ele entregou o documento a um assistente. — A autorização está em ordem. Você terá livre trânsito em Serravento.
+— Sylvaris não é um estado vassalo de Sanctrum, agente. Permitir que agentes estrangeiros operem em nosso território é uma cortesia, não uma obrigação. Mas concordo — Aurelius sempre foi um homem de modos cuidadosos. — Ele entregou o documento a um assistente. — A autorização está em ordem. Você terá livre trânsito em Sylvaris.
 
 Lyris fez outra reverência.
 
 — Agradeço, Lugal Lil.
 
-— Há um orfanato em Ventania. O Orfanato das Asas. — Valerion recostou-se em seu trono. — Creio que seria um lugar adequado para uma aposentada buscar propósito.
+— Há um orfanato em Velantis. O Orfanato Luminis. — Thaloris recostou-se em seu trono. — Creio que seria um lugar adequado para uma aposentada buscar propósito.
 
 — Foi exatamente o que o En Me sugeriu, senhor.
 
-— Claro que foi. — Valerion se levantou, sinalizando o fim da audiência formal. — Os ventos de Serravento são gentis com aqueles que vêm em paz. Que eles a guiem em sua missão, agente Lyris.
+— Claro que foi. — Thaloris se levantou, sinalizando o fim da audiência formal. — Os ventos de Sylvaris são gentis com aqueles que vêm em paz. Que eles a guiem em sua missão, agente Lyris.
 
 — E que a graça de Ventus ilumine seu reinado, Lugal Lil.
 
@@ -372,13 +372,13 @@ A voz a alcançou quando já estava a três Passos das portas do Salão das Bris
 
 — Senhor?
 
-Valerion havia descido os degraus de seu trono e caminhava em sua direção com passos deliberados. O manto azul claro ondulava ao redor dele como asas que tivessem esquecido como voar.
+Thaloris havia descido os degraus de seu trono e caminhava em sua direção com passos deliberados. O manto azul claro ondulava ao redor dele como asas que tivessem esquecido como voar.
 
 — Se puderem nos dar um momento — ele disse para os guardas e assistentes que ainda ocupavam o salão.
 
 Os Sete Ventos trocaram olhares curiosos, mas obedeceram sem questionar. Um a um, retiraram-se, seguidos pelos assistentes e guardas, até que apenas Lyris e o Senhor dos Ventos permanecessem no vasto salão. As portas se fecharam com um baque suave. O vento continuava a entrar pelas janelas, as cortinas brancas dançando como fantasmas ao redor deles.
 
-Valerion parou a um Passo dela, seus olhos azuis agora carregando algo diferente da diplomacia formal — reconhecimento, conhecimento, e um brilho que Lyris não gostou nem um pouco.
+Thaloris parou a um Passo dela, seus olhos azuis agora carregando algo diferente da diplomacia formal — reconhecimento, conhecimento, e um brilho que Lyris não gostou nem um pouco.
 
 — Eu não a vejo há muito tempo — ele disse, sua voz mais baixa, íntima de uma forma que fez os instintos de Lyris gritarem em alerta. — Quinze anos, não é? Desde aquela operação em Umbra. A cordilheira norte. A noite em que três sentinelas desapareceram sem que ninguém ouvisse um único som.
 
@@ -386,25 +386,25 @@ Lyris sentiu seu coração acelerar, mas manteve seu rosto impassível.
 
 — Eu não tenho certeza do que o senhor quer dizer, Lugal Lil. Minha carreira consistiu de missões rotineiras de...
 
-— Não se rebaixe com mentiras, Lyris. — Valerion a interrompeu, e havia algo quase divertido em sua voz — como se estivesse gostando da conversa de uma forma que os assuntos de estado raramente permitiam. — Não comigo. Eu sei quem você é. O que você é.
+— Não se rebaixe com mentiras, Lyris. — Thaloris a interrompeu, e havia algo quase divertido em sua voz — como se estivesse gostando da conversa de uma forma que os assuntos de estado raramente permitiam. — Não comigo. Eu sei quem você é. O que você é.
 
 Ele fez uma pausa, deixando as palavras seguintes flutuarem no ar como o vento que os cercava.
 
 — Nyctara.
 
-O codinome ecoou pelo salão vazio. Mas não com o peso sombrio que Lyris esperava. Valerion o pronunciou com um tom quase sarcástico — como quem pronuncia o nome de um personagem de uma história que ouviu na infância e que agora, ao encontrar a pessoa real, acha curiosamente... decepcionante.
+O codinome ecoou pelo salão vazio. Mas não com o peso sombrio que Lyris esperava. Thaloris o pronunciou com um tom quase sarcástico — como quem pronuncia o nome de um personagem de uma história que ouviu na infância e que agora, ao encontrar a pessoa real, acha curiosamente... decepcionante.
 
 — Nyctara. — Ele repetiu o nome, inclinando a cabeça como um urrak examinando uma presa que não valia o esforço da caçada. — A Lenda Sombria. A fantasma que aparecia nas missões mais perigosas e desaparecia antes que alguém pudesse gritar por socorro. O demônio que os Mestres dos Sussurros de três reinos diferentes tentaram capturar e nunca conseguiram. — Um sorriso irônico tocou seus lábios. — E agora me diz que é uma aposentada que quer ajudar em um orfanato.
 
-Lyris não respondeu imediatamente. O sarcasmo era uma arma — ela conhecia esse tipo de técnica. Valerion estava testando-a, procurando rachaduras em sua compostura.
+Lyris não respondeu imediatamente. O sarcasmo era uma arma — ela conhecia esse tipo de técnica. Thaloris estava testando-a, procurando rachaduras em sua compostura.
 
 — Eu não uso esse nome há muito tempo, senhor — ela disse, sua voz controlada mas com uma dureza que não estava ali antes.
 
-— Eu sei. Você se aposentou. Desapareceu nos arquivos de Sanctrum como tantas outras lendas vivas que preferem o esquecimento. — Valerion deu um passo mais perto. — Mas lendas não morrem tão facilmente, não é? Elas apenas... se escondem. Esperam. — Ele parou, seus olhos azuis encontrando os verdes dela com uma intensidade que quase era íntima. — E então aparecem na minha corte, pedindo permissão para operar em meu reino, carregando uma autorização que não diz absolutamente nada útil.
+— Eu sei. Você se aposentou. Desapareceu nos arquivos de Sanctrum como tantas outras lendas vivas que preferem o esquecimento. — Thaloris deu um passo mais perto. — Mas lendas não morrem tão facilmente, não é? Elas apenas... se escondem. Esperam. — Ele parou, seus olhos azuis encontrando os verdes dela com uma intensidade que quase era íntima. — E então aparecem na minha corte, pedindo permissão para operar em meu reino, carregando uma autorização que não diz absolutamente nada útil.
 
-— O que o senhor quer, Valerion?
+— O que o senhor quer, Thaloris?
 
-O uso do primeiro nome foi uma provocação calculada — um lembrete de que ela também conhecia segredos sobre ele. Valerion sorriu, e desta vez o sorriso alcançou seus olhos.
+O uso do primeiro nome foi uma provocação calculada — um lembrete de que ela também conhecia segredos sobre ele. Thaloris sorriu, e desta vez o sorriso alcançou seus olhos.
 
 — Quero garantir que nossa vizinhança permaneça tranquila. Que missões de observação não se tornem missões de interferência. Que a criança que você foi enviada para proteger seja exatamente isso — protegida — mas não manipulada, não moldada, não transformada em ferramenta de Sanctrum.
 
@@ -412,15 +412,15 @@ Lyris sentiu seu sangue gelar. Ele sabia. Não tudo, talvez, mas o suficiente pa
 
 — Eu não sei de que criança o senhor está falando.
 
-— Uma órfã em Mespiria. Filha de uma mulher que morreu no parto. Nascida sob a Convergência Tripla. — Os olhos de Valerion se estreitaram. — Você acha que não tenho informantes? Que não percebo quando Sanctrum se interessa por uma criança específica em meu reino?
+— Uma órfã em Mespiria. Filha de uma mulher que morreu no parto. Nascida sob a Convergência Tripla. — Os olhos de Thaloris se estreitaram. — Você acha que não tenho informantes? Que não percebo quando Sanctrum se interessa por uma criança específica em meu reino?
 
 — Se o senhor já sabe tanto, então sabe que minha missão é de proteção. Nada mais.
 
-— Proteção. — Valerion repetiu a palavra, saboreando cada sílaba. — Proteção para quem? Para quê? Essas são perguntas que permanecerão sem resposta, eu imagino.
+— Proteção. — Thaloris repetiu a palavra, saboreando cada sílaba. — Proteção para quem? Para quê? Essas são perguntas que permanecerão sem resposta, eu imagino.
 
 — O En Me confia na discrição do senhor.
 
-— O En Me confia em qualquer um que não represente uma ameaça imediata. — Valerion deu um passo atrás, sua expressão suavizando-se. — Não se preocupe, Lyris. Nyctara. Não tenho intenção de expor seu segredo ou o da criança. Serravento é um reino de refúgio, de liberdade. O passado de cada um permanece enterrado aqui.
+— O En Me confia em qualquer um que não represente uma ameaça imediata. — Thaloris deu um passo atrás, sua expressão suavizando-se. — Não se preocupe, Lyris. Nyctara. Não tenho intenção de expor seu segredo ou o da criança. Sylvaris é um reino de refúgio, de liberdade. O passado de cada um permanece enterrado aqui.
 
 Ele caminhou de volta ao seu trono, mas não se sentou. Ficou de pé, de costas para ela, olhando para o quadro inacabado no canto da sala.
 
@@ -430,53 +430,53 @@ Lyris fez uma reverência — mais profunda desta vez, um reconhecimento de que 
 
 — Obrigada pela audiência, Lugal Lil.
 
-— Vá com o vento, Nyctara. — A voz de Valerion carregava um tom que ela não conseguiu identificar completamente. Ameaça? Promessa? Ou apenas o reconhecimento irônico de um igual?
+— Vá com o vento, Nyctara. — A voz de Thaloris carregava um tom que ela não conseguiu identificar completamente. Ameaça? Promessa? Ou apenas o reconhecimento irônico de um igual?
 
 Lyris virou-se e caminhou para fora do salão. Suas botas ecoaram no mármore, e o vento sussurrou segredos que só ele conhecia.
 
 ---
 
-Quando as portas se fecharam atrás de Lyris, Valerion permaneceu em silêncio por longos instantes, seus olhos fixos no quadro inacabado. Finalmente, ele caminhou até uma porta escondida atrás de um painel de madeira entalhada, pressionando um mecanismo que apenas ele conhecia.
+Quando as portas se fecharam atrás de Lyris, Thaloris permaneceu em silêncio por longos instantes, seus olhos fixos no quadro inacabado. Finalmente, ele caminhou até uma porta escondida atrás de um painel de madeira entalhada, pressionando um mecanismo que apenas ele conhecia.
 
 A porta se abriu silenciosamente, revelando um corredor estreito que levava a uma câmara privada — uma sala sem janelas, iluminada apenas por cristais Aetheris embutidos nas paredes. Ali, o vento não entrava. Ali, os segredos permaneciam guardados.
 
-— Corvus.
+— Vethran.
 
-O nome ecoou na câmara, e das sombras no canto da sala, uma figura emergiu. Baixo, discreto, com olhos escuros que pareciam absorver a luz em vez de refleti-la. Corvus Dantalian, o Mestre dos Sussurros, o En Dili Lil — o chefe de inteligência de Serravento.
+O nome ecoou na câmara, e das sombras no canto da sala, uma figura emergiu. Baixo, discreto, com olhos escuros que pareciam absorver a luz em vez de refleti-la. Vethran Noll, o Mestre dos Sussurros, o En Dili Lil — o chefe de inteligência de Sylvaris.
 
-— Senhor. — A voz de Corvus era um sussurro rouco, como se ele raramente a usasse em volume normal. — Eu observei a audiência. E a parte que veio depois.
+— Senhor. — A voz de Vethran era um sussurro rouco, como se ele raramente a usasse em volume normal. — Eu observei a audiência. E a parte que veio depois.
 
 — Então você ouviu.
 
-— Ouvi. — Os olhos de Corvus brilharam na semi-luz. — Nyctara. A Lenda Sombria. Eu acreditava que fosse um mito que os velhos espiões contavam para impressionar os jovens.
+— Ouvi. — Os olhos de Vethran brilharam na semi-luz. — Nyctara. A Lenda Sombria. Eu acreditava que fosse um mito que os velhos espiões contavam para impressionar os jovens.
 
-— Todos os agentes melhores viram mitos até o dia em que deixam de ser. — Valerion sentou-se em uma cadeira de carvalho. — Ela está aqui por causa da criança. A órfã de Mespiria.
+— Todos os agentes melhores viram mitos até o dia em que deixam de ser. — Thaloris sentou-se em uma cadeira de carvalho. — Ela está aqui por causa da criança. A órfã de Mespiria.
 
-— Grazielly. — Corvus pronunciou o nome como se provasse cada sílaba. — Eu a tenho monitorado discretamente desde que Melessa enviou uma correspondência suspeita há semanas. Uma criança aparentemente comum, mas nascida sob a Convergência Tripla. E agora o En Me envia Nyctara para observá-la.
+— Grazielly. — Vethran pronunciou o nome como se provasse cada sílaba. — Eu a tenho monitorado discretamente desde que Melessa enviou uma correspondência suspeita há semanas. Uma criança aparentemente comum, mas nascida sob a Convergência Tripla. E agora o En Me envia Nyctara para observá-la.
 
-— Há algo nessa criança que vai além de uma órfã comum. — Valerion franziu a testa. — Aurelius não enviaria sua melhor agente por menos.
+— Há algo nessa criança que vai além de uma órfã comum. — Thaloris franziu a testa. — Aurelius não enviaria sua melhor agente por menos.
 
 — O senhor acredita que a criança tem conexão com o trono de Sanctrum?
 
-— Eu não posso confirmar nada. Mas... — Valerion fez uma pausa, seus olhos perdidos em pensamentos distantes. — Ayla. A mãe. Ela serviu na Equipe Aurora. Aurelius liderou a Equipe Aurora. Conexões perigosas.
+— Eu não posso confirmar nada. Mas... — Thaloris fez uma pausa, seus olhos perdidos em pensamentos distantes. — Ayla. A mãe. Ela serviu na Equipe Aurora. Aurelius liderou a Equipe Aurora. Conexões perigosas.
 
-Corvus assentiu lentamente, processando as informações com a precisão de um homem que havia construído sua carreira em conectar pontos que outros não viam.
+Vethran assentiu lentamente, processando as informações com a precisão de um homem que havia construído sua carreira em conectar pontos que outros não viam.
 
 — O que o senhor deseja que eu faça?
 
-Valerion se levantou, caminhando até um mapa de Serravento que cobria uma das paredes da câmara. Seus dedos traçaram a rota de Zephyria a Ventania, depois a Mespiria.
+Thaloris se levantou, caminhando até um mapa de Sylvaris que cobria uma das paredes da câmara. Seus dedos traçaram a rota de Zephyra a Velantis, depois a Mespiria.
 
-— Observe-a. Corvus. Observe Nyctara. Descubra o que ela realmente busca. Se ela é apenas uma guardiã protetora ou se há algo mais em jogo. — Ele virou-se para seu espião-mestre. — Mas não a interfira. Não ainda. Deixe-a acreditar que sua discrição é eficaz. Eu quero saber tudo antes de decidir qualquer coisa.
+— Observe-a. Vethran. Observe Nyctara. Descubra o que ela realmente busca. Se ela é apenas uma guardiã protetora ou se há algo mais em jogo. — Ele virou-se para seu espião-mestre. — Mas não a interfira. Não ainda. Deixe-a acreditar que sua discrição é eficaz. Eu quero saber tudo antes de decidir qualquer coisa.
 
 — E a criança?
 
 — Continue monitorando. Se algo acontecer — qualquer manifestação incomum, qualquer visita suspeita, qualquer sinal de que ela é mais do que aparenta — eu quero saber imediatamente.
 
-Corvus fez uma reverência curta, seus movimentos silenciosos como sombras.
+Vethran fez uma reverência curta, seus movimentos silenciosos como sombras.
 
 — Será feito, senhor.
 
-— E Corvus. — A voz de Valerion carregava um peso que não estava lá antes. — Se você descobrir que a criança tem sangue real de Sanctrum... se ela for uma ameaça à soberania de Serravento ou uma ferramenta que Sanctrum pretende usar contra nós...
+— E Vethran. — A voz de Thaloris carregava um peso que não estava lá antes. — Se você descobrir que a criança tem sangue real de Sanctrum... se ela for uma ameaça à soberania de Sylvaris ou uma ferramenta que Sanctrum pretende usar contra nós...
 
 — Sim, senhor?
 
@@ -484,17 +484,17 @@ Corvus fez uma reverência curta, seus movimentos silenciosos como sombras.
 
 — Compreendo perfeitamente, Lugal Lil.
 
-Corvus desapareceu nas sombras da câmara, deixando Valerion sozinho com seus pensamentos, seu quadro inacabado, e o sussurro de segredos que apenas o vento podia ouvir.
+Vethran desapareceu nas sombras da câmara, deixando Thaloris sozinho com seus pensamentos, seu quadro inacabado, e o sussurro de segredos que apenas o vento podia ouvir.
 
 ---
 
 ## VIII. A Corrida Contra o Tempo
 
-Lyris deixou Zephyria no dia seguinte ao amanhecer, sem fazer a parada em Ventania que havia planejado inicialmente. O orfanato poderia esperar. Melessa não podia.
+Lyris deixou Zephyra no dia seguinte ao amanhecer, sem fazer a parada em Velantis que havia planejado inicialmente. O orfanato poderia esperar. Melessa não podia.
 
 Ela já havia perdido mais de duas semanas desde que partira de Sanctrum. Duas semanas em que uma parteira idosa, sozinha em uma vila esquecida, lutava contra a morte enquanto tentava proteger uma criança que brilhava. Cada dia de viagem era um dia a mais de atraso. Cada noite passada em uma pousada era uma noite em que Melessa podia fechar os olhos e não abri-los mais.
 
-Lyris cortou caminho pelas estradas secundárias de Serravento, evitando as vilas maiores onde seria obrigada a parar e explicar sua presença. Montou um cavalo alugado em uma fazenda no caminho, pagando em moedas de cristal Aetheris que o seuEnvelope de autorização garantia. O animal era resistente — acostumado ao frio e às colinas — e Lyris o impulsionou além do que era seguro, além do que era prudente, alimentando-o com A Gish das florestas e deixando-o descansar o mínimo necessário.
+Lyris cortou caminho pelas estradas secundárias de Sylvaris, evitando as vilas maiores onde seria obrigada a parar e explicar sua presença. Montou um cavalo alugado em uma fazenda no caminho, pagando em moedas de cristal Aetheris que o seuEnvelope de autorização garantia. O animal era resistente — acostumado ao frio e às colinas — e Lyris o impulsionou além do que era seguro, além do que era prudente, alimentando-o com A Gish das florestas e deixando-o descansar o mínimo necessário.
 
 Nos momentos em que o vento sopra mais forte, Lyris fechava os olhos por um instante e pensava na criança que estava tentando alcançar. Uma menina de quatro anos com olhos castanhos profundos e um brilho que pulsava sob sua pele. A filha de Aurelius. A última promessa de Ayla. Alguém que ela ainda não conhecia, mas por quem já sentia uma responsabilidade que ia além de qualquer missão que já havia aceitado.
 
@@ -636,11 +636,11 @@ Não demorou muito para que Thalia chegasse, chamada por vizinhos que notaram a 
 
 A comunidade de Mespiria se reuniu em torno de uma sepultura no pequeno cemitério atrás da casa de pedra. Desta vez, não foi uma estranha misteriosa que foi enterrada, mas uma de suas próprias — Melessa, a parteira que havia trazido tantas crianças ao mundo, que havia cuidado de tantas famílias, que havia se tornado avó de uma órfã que o destino colocara em seu caminho.
 
-Estranhamente, o tempo amainou naquele dia. O vento gelado que havia assolado a região por semanas diminuiu, permitindo que os aldeãos se reunissem ao redor da cova aberta sem lutar contra o frio. E quando o corpo de Melessa foi baixado à terra, envolto em um tecido branco como era costume em Serravento, algo aconteceu que fez todos os presentes lembrarem do enterro de Ayla, quatro anos antes.
+Estranhamente, o tempo amainou naquele dia. O vento gelado que havia assolado a região por semanas diminuiu, permitindo que os aldeãos se reunissem ao redor da cova aberta sem lutar contra o frio. E quando o corpo de Melessa foi baixado à terra, envolto em um tecido branco como era costume em Sylvaris, algo aconteceu que fez todos os presentes lembrarem do enterro de Ayla, quatro anos antes.
 
 Grazielly, em pé ao lado da cova, começou a cantar.
 
-Não era uma canção que ninguém reconhecia — não um hino tradicional de Serravento, não uma canção de ninar que Melessa lhe havia ensinado, não algo que qualquer criança de sua idade deveria conhecer. Era uma melodia antiga, profunda, que parecia vir de algum lugar muito distante, de uma época anterior às eras que a memória registrava.
+Não era uma canção que ninguém reconhecia — não um hino tradicional de Sylvaris, não uma canção de ninar que Melessa lhe havia ensinado, não algo que qualquer criança de sua idade deveria conhecer. Era uma melodia antiga, profunda, que parecia vir de algum lugar muito distante, de uma época anterior às eras que a memória registrava.
 
 As palavras eram em uma língua que ninguém presente compreendia, sons que pareciam carregar o peso de milênios em cada sílaba:
 
@@ -665,7 +665,7 @@ E no fundo da multidão, Lyris observava tudo com uma mistura de tristeza, rever
 
 ---
 
-## XII. A Jornada para Ventania
+## XII. A Jornada para Velantis
 
 Quando os aldeãos começaram a se dispersar, Lyris se aproximou de Grazielly, que permanecia imóvel ao lado da sepultura recém-fechada.
 
@@ -701,11 +701,11 @@ E no vento que soprava ao redor delas, carregando neve e sussurros de lugares di
 
 ---
 
-## XIII. O Orfanato das Asas
+## XIII. O Orfanato Luminis
 
-Ventania era uma cidade significativamente maior que Mespiria — não grande o suficiente para ser chamada de metrópole, mas com ruas pavimentadas, múltiplos mercados, uma praça central onde os mercadores se reuniam aos domingos, e edifícios que alcançavam dois e até três andares de altura. Para Grazielly, que nunca havia viajado além dos campos que cercavam sua vila, foi como entrar em um mundo completamente novo.
+Velantis era uma cidade significativamente maior que Mespiria — não grande o suficiente para ser chamada de metrópole, mas com ruas pavimentadas, múltiplos mercados, uma praça central onde os mercadores se reuniam aos domingos, e edifícios que alcançavam dois e até três andares de altura. Para Grazielly, que nunca havia viajado além dos campos que cercavam sua vila, foi como entrar em um mundo completamente novo.
 
-Mas foi o Orfanato das Asas que mais a impressionou.
+Mas foi o Orfanato Luminis que mais a impressionou.
 
 O edifício era antigo mas bem cuidado, suas paredes de pedra cobertas por Gesh Lil, as trepadeiras-de-vento, plantas que se enrolavam nas paredes como abraços verdes de folhas delicadas. Janelas altas permitiam que a luz de Aurion entrasse em abundância, e um jardim frontal, embora adormecido pelo inverno, sugeria cores e vida que floresceriam na primavera. Dentro, o som de crianças — risadas, conversas, jogos ecoando pelos corredores — criava uma atmosfera que era ao mesmo tempo estranha e acolhedora.
 
@@ -771,7 +771,7 @@ Quando Lyris se levantou para sair, Madre Elara acrescentou:
 
 Lyris assentiu, a promessa já gravada em seu coração.
 
-Depois de deixar o escritório, Lyris caminhou pelos corredores do orfanato, verificando portas e janelas como fazia toda noite desde que chegara a Ventania — um hábito de agente que a aposentadoria não havia conseguido eliminar. No pátio interno, sob a luz fraca das três luas, ela parou ao ouvir um som — o rangido suave de uma vassoura contra pedra.
+Depois de deixar o escritório, Lyris caminhou pelos corredores do orfanato, verificando portas e janelas como fazia toda noite desde que chegara a Velantis — um hábito de agente que a aposentadoria não havia conseguido eliminar. No pátio interno, sob a luz fraca das três luas, ela parou ao ouvir um som — o rangido suave de uma vassoura contra pedra.
 
 Mestre Aldric, o caseiro do orfanato, estava varrendo o pátio. Era um homem de meia-idade, silencioso e eficiente, que havia chegado ao orfanato três anos atrás recomendado por um padre local. Fazia manutenção geral — consertava telhas, pintava paredes, cuidava do jardim — e raramente falava mais do que o estritamente necessário. As crianças gostavam dele porque às vezes lhes dava doces que trazia da cidade, e Madre Elara o considerava indispensável.
 
@@ -787,7 +787,7 @@ Lyris não disse nada. Não se aproximou. Apenas registrou mentalmente cada deta
 
 Ela decidiu que observaria. Com paciência. Com cuidado. Com a mesma atenção que dedicava a cada missão que já realizara. Se Aldric era o que ele parecia — um caseiro comum — ninguém sairia machucado. Mas se havia algo mais por trás daquele silêncio eficiente, Lyris o descobriria. Antes que fosse tarde demais.
 
-Por agora, porém, havia apenas o silêncio do orfanato à noite, o sussurro do vento sobre Serravento, e uma menina de quatro anos dormindo em uma cama que não era sua, sonhando com uma mãe que jamais conheceria e um pai que sequer sabia de sua existência.
+Por agora, porém, havia apenas o silêncio do orfanato à noite, o sussurro do vento sobre Sylvaris, e uma menina de quatro anos dormindo em uma cama que não era sua, sonhando com uma mãe que jamais conheceria e um pai que sequer sabia de sua existência.
 
 *Eu cuidarei de você, Grazielly,* Lyris prometeu silenciosamente, olhando para a janela do dormitório onde a criança dormia. *Pelo resto de meus dias. Pela promessa que fiz. Pelo amor que já sinto por você.*
 
@@ -801,7 +801,7 @@ Por agora, porém, havia apenas o silêncio do orfanato à noite, o sussurro do 
 
 ---
 
-*No próximo capítulo: A vida no orfanato traz novas descobertas. Grazielly encontra um companheiro inesperado nas ruas de Ventania, e o brilho que ela carrega dentro de si começa a se manifestar de formas que nem Lyris pode controlar. E nas sombras, olhos que não deveriam estar ali observam.*
+*No próximo capítulo: A vida no orfanato traz novas descobertas. Grazielly encontra um companheiro inesperado nas ruas de Velantis, e o brilho que ela carrega dentro de si começa a se manifestar de formas que nem Lyris pode controlar. E nas sombras, olhos que não deveriam estar ali observam.*
 
 ---
 
@@ -814,19 +814,19 @@ Por agora, porém, havia apenas o silêncio do orfanato à noite, o sussurro do 
 | **Convergência Tripla** | Alinhamento raro das três luas; marca crianças especiais |
 | **Canto Ancestral** | Canção fúnebre na Língua dos Antigos (Emê-Gir) |
 | **Thermaris** | Fusão elemental Água + Fogo = Vapor (afinidade de Lyris) |
-| **Orfanato das Asas** | Refúgio para crianças em Ventania, Serravento |
+| **Orfanato Luminis** | Refúgio para crianças em Velantis, Sylvaris |
 | **Nyctara** | Codinome de Lyris; ave noturna de Umbra |
 
 ### Personagens Introduzidos/Desenvolvidos:
 
 | Nome | Função | Status |
 |------|--------|--------|
-| **Grazielly** | Protagonista, 4 anos | No Orfanato das Asas |
-| **Lyris (Nyctara)** | Agente da Vanguarda, guardiã | Viva (Ventania) |
+| **Grazielly** | Protagonista, 4 anos | No Orfanato Luminis |
+| **Lyris (Nyctara)** | Agente da Vanguarda, guardiã | Viva (Velantis) |
 | **Melessa** | Parteira, avó adotiva | Falecida (Cap. 3) |
 | **Aurelius (En Me)** | Guardião Mestre, pai secreto | Vivo (Sanctrum — agora sabe de Grazielly) |
-| **Valerion Ascanius** | Senhor dos Ventos (Lugal Lil) | Vivo (Zephyria) |
-| **Corvus Dantalian** | Mestre dos Sussurros (En Dili Lil) | Vivo (Serravento) |
+| **Thaloris Ventaris** | Senhor dos Ventos (Lugal Lil) | Vivo (Zephyra) |
+| **Vethran Noll** | Mestre dos Sussurros (En Dili Lil) | Vivo (Sylvaris) |
 | **Mira** | Amiga de Grazielly, 8-9 anos | Viva (Orfanato) |
 | **Madre Elara** | Diretora do Orfanato | Viva |
 | **Mestre Aldric** | Caseiro do orfanato | Vivo (sob observação) |
@@ -836,9 +836,9 @@ Por agora, porém, havia apenas o silêncio do orfanato à noite, o sussurro do 
 
 | Local | Descrição |
 |-------|-----------|
-| **Zephyria** | Capital flutuante de Serravento |
+| **Zephyra** | Capital flutuante de Sylvaris |
 | **Palácio das Correntes de Ar** | Residência do Senhor dos Ventos |
-| **Ventania** | Cidade do Orfanato das Asas |
+| **Velantis** | Cidade do Orfanato Luminis |
 | **Mespiria** | Vila agrícola onde Ayla morreu |
 
 ---

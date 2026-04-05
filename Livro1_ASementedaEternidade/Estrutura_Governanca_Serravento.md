@@ -119,7 +119,7 @@
 | **Chama Vinculadora** | **Lugal Izi** | "Senhor do Fogo" | Pyralis |
 | **Maré Vinculadora** | **Lugal A** | "Senhor da Água" | Thalassia |
 | **Terra Vinculadora** | **Lugal Ki** | "Senhor da Terra" | Terraxis |
-| **Vento Vinculadora** | **Lugal Lil** | "Senhor do Vento" | Serravento |
+| **Vento Vinculadora** | **Lugal Lil** | "Senhor do Vento" | Sylvaris |
 | **Sombra Vinculadora** | **Lugal Gig** | "Senhor da Sombra" | Umbra |
 | **Tempestade Vinculadora** | **Lugal Uru** | "Senhor da Tempestade" | Fulmora |
 | **Éter Vinculador** | **Lugal Me** | "Senhor do Éter" | Aetherion Prime |
@@ -203,9 +203,9 @@
 
 **Elemento:** Ar
 
-**Capital:** Zephyria (cidade flutuante)
+**Capital:** Zephyra (cidade flutuante)
 
-**Cidade Principal:** Ventania
+**Cidade Principal:** Velantis
 
 **Lema:** "Liberdade sopra, liberdade permanece"
 
@@ -219,15 +219,15 @@
 
 **Título Ancestral:** Lugal Lil ("Senhor do Vento")
 
-**Nome Atual:** **Senhor Valerion Ascanius** 
+**Nome Atual:** **Senhor Thaloris Ventaris** 
 
 **Casa:** Casa Ascanius (governa há 200 ciclos)
 
-**Residência:** Palácio das Correntes de Ar, em Zephyria
+**Residência:** Palácio das Correntes de Ar, em Zephyra
 
 ### Poderes do Senhor dos Ventos
 
-- Comando das Forças Aéreas de Serravento
+- Comando das Forças Aéreas de Sylvaris
 - Nomeação do Conselho de Correntes
 - Ratificação de tratados comerciais
 - Poder de veto sobre imigração (raramente usado)
@@ -249,7 +249,7 @@
 
 ## 📋 O Conselho de Correntes
 
-**Função:** Órgão consultivo e administrativo de Serravento, assistindo o Senhor dos Ventos na governança do reino.
+**Função:** Órgão consultivo e administrativo de Sylvaris, assistindo o Senhor dos Ventos na governança do reino.
 
 ### Os Sete Ventos (Membros do Conselho)
 
@@ -271,9 +271,9 @@
 
 ---
 
-## ⚔️ Estrutura Militar de Serravento
+## ⚔️ Estrutura Militar de Sylvaris
 
-### As Asas de Serravento
+### As Asas de Sylvaris
 
 **Corpo de Elite:** Cavaleiros do Céu (Mushen En)
 
@@ -293,7 +293,7 @@
 - Montam Mushen Gig (Nyctara)
 - Missões de inteligência
 
-**Guarda de Zephyria**
+**Guarda de Zephyra**
 - Proteção da capital flutuante
 - Defesa aérea do reino
 - 500 cavaleiros
@@ -318,12 +318,12 @@
 
 ### Divisões Territoriais
 
-Serravento é dividido em **Cinco Províncias**, cada uma governada por um **Prefeito dos Ventos**:
+Sylvaris é dividido em **Cinco Províncias**, cada uma governada por um **Prefeito dos Ventos**:
 
 | Província | Capital | Característica |
 |-----------|---------|----------------|
-| **Zephyria** | Zephyria | Capital; centro político |
-| **Ventania** | Ventania | Centro comercial; orfanatos |
+| **Zephyra** | Zephyra | Capital; centro político |
+| **Velantis** | Velantis | Centro comercial; orfanatos |
 | **Mespiria** | Mespiria | Agrícola; pacífica |
 | **Altomonte** | Fortaleza Alta | Militar; fronteira norte |
 | **Brisalva** | Portobrisa | Portuária; comércio exterior |
@@ -366,7 +366,7 @@ Serravento é dividido em **Cinco Províncias**, cada uma governada por um **Pre
 
 ---
 
-## 🕵️ Serviços Secretos de Serravento
+## 🕵️ Serviços Secretos de Sylvaris
 
 ### A Rede dos Sussurros
 
@@ -385,15 +385,15 @@ Serravento é dividido em **Cinco Províncias**, cada uma governada por um **Pre
 
 ### O Mestre dos Sussurros Atual
 
-**Nome:** **Corvus Dantalian**
+**Nome:** **Vethran Noll**
 
-**História:** Ex-agente de Sanctrum, transferiu-se para Serravento há 30 ciclos. Conhece os segredos de ambos os reinos. Homem de confiança do Senhor Valerion.
+**História:** Ex-agente de Sanctrum, transferiu-se para Sylvaris há 30 ciclos. Conhece os segredos de ambos os reinos. Homem de confiança do Senhor Thaloris.
 
 ---
 
 ## 👤 PERSONAGENS CHAVE DE SERRAVENTO
 
-### Senhor Valerion Ascanius
+### Senhor Thaloris Ventaris
 
 **Idade:** 55 ciclos
 
@@ -401,7 +401,7 @@ Serravento é dividido em **Cinco Províncias**, cada uma governada por um **Pre
 
 **Personalidade:** Diplomata nato, visionário, protetor. Acolhe refugiados como política oficial. Tem segredos que guarda a sete chaves.
 
-**História:** Subiu ao trono há 25 ciclos após a morte do pai em um acidente de voo. Transformou Serravento em refúgio para perseguidos de todos os reinos. Mantém relações cordiais com Sanctrum, mas preserva autonomia.
+**História:** Subiu ao trono há 25 ciclos após a morte do pai em um acidente de voo. Transformou Sylvaris em refúgio para perseguidos de todos os reinos. Mantém relações cordiais com Sanctrum, mas preserva autonomia.
 
 **Segredo:** Conhece a verdadeira identidade de Nyctara (Lyris) desde uma operação conjunta décadas atrás. Guarda esse conhecimento para usar quando necessário.
 
@@ -429,15 +429,15 @@ Serravento é dividido em **Cinco Províncias**, cada uma governada por um **Pre
 
 ---
 
-### Corvus Dantalian (Mestre dos Sussurros)
+### Vethran Noll (Mestre dos Sussurros)
 
 **Idade:** 62 ciclos
 
 **Aparência:** Baixo, discreto, olhos escuros que parecem ver tudo. Move-se sem fazer som.
 
-**Personalidade:** Observador, calculista, perigoso quando necessário. Lealdade absoluta a Serravento.
+**Personalidade:** Observador, calculista, perigoso quando necessário. Lealdade absoluta a Sylvaris.
 
-**História:** Serviu como Sentinela em Sanctrum antes de desertar por razões desconhecidas. Foi acolhido por Valerion e tornou-se seu braço direito nas sombras.
+**História:** Serviu como Sentinela em Sanctrum antes de desertar por razões desconhecidas. Foi acolhido por Thaloris e tornou-se seu braço direito nas sombras.
 
 ---
 

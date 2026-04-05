@@ -14,7 +14,7 @@
 
 ## I. A Biblioteca das Asas
 
-O entardecer no Orfanato das Asas trazia consigo um ritual antigo e sagrado.
+O entardecer no Orfanato Luminis trazia consigo um ritual antigo e sagrado.
 
 Assim que as últimas luzes de Aurion deslizavam pelas janelas altas da biblioteca, pintando as estantes de madeira em tons de laranja e ouro, as crianças se reuniam em roda ao redor da grande poltrona que parecia ter sido esculpida especificamente para contar histórias. Era o momento mais aguardado do dia — a hora em que a Senhora Mirella, com sua voz suave como brisa de verão e seus olhos que brilhavam com a sabedoria de décadas, abria os livros antigos e transportava seus pequenos ouvintes para mundos que existiam muito além dos muros do orfanato.
 
@@ -156,7 +156,7 @@ Ela escondeu as mãos rapidamente sob o cobertor onde Nyx dormia, seu coração 
 
 Mirella ergueu os olhos do livro, seus olhos encontrando os de cada criança presente.
 
-*"E é por isso que, aqui em Serravento, dizemos que o vento é sagrado. Porque o vento é Ventus. O vento é o último dos Seraphyens, ainda nos protegendo, ainda nos amando, mesmo depois de tudo."*
+*"E é por isso que, aqui em Sylvaris, dizemos que o vento é sagrado. Porque o vento é Ventus. O vento é o último dos Seraphyens, ainda nos protegendo, ainda nos amando, mesmo depois de tudo."*
 
 A biblioteca permaneceu em silêncio por um momento. As crianças processavam a história, cada uma à sua maneira. Algumas choravam. Outras pareciam estar em transe. E Grazielly...
 
@@ -218,7 +218,7 @@ Nas profundezas de seu ser, algo havia despertado — uma curiosidade, uma conex
 
 ## VII. A Noite Seguinte
 
-Naquela noite, enquanto as outras crianças dormiam, Grazielly permaneceu acordada em sua cama, Nyx enrolado ao seu lado, seus olhos fixos na janela onde o céu noturno de Serravento se estendia infinito.
+Naquela noite, enquanto as outras crianças dormiam, Grazielly permaneceu acordada em sua cama, Nyx enrolado ao seu lado, seus olhos fixos na janela onde o céu noturno de Sylvaris se estendia infinito.
 
 As três luas brilhavam no céu — Lyria prateada, Nyx azulada, Elara rosa. Elas não estavam mais convergindo como haviam feito no dia de seu nascimento, cinco anos antes. Mas ainda assim, pareciam observá-la, como se soubessem algo que ela ainda não sabia.
 
@@ -247,7 +247,7 @@ O vento soprou mais uma vez, carregando consigo o perfume das flores-lua e o sus
 *O conto foi contado. Mas verdades permaneceram ocultas. Grazielly sentiu a dissonância, o brilho em suas mãos, o gelo em seus dedos — manifestações de algo que ela ainda não compreendia. E nas sombras, forças começaram a se mover, atraídas pelo despertar de uma criança cujo destino estava entrelaçado com as próprias forças que criaram o universo.*
 
 *"Histórias são janelas para verdades que não ousamos olhar diretamente. Mas às vezes, algumas almas são corajosas o suficiente para olhar através do vidro — e ver o que realmente existe do outro lado."*
-— Do Compêndio das Narradoras, atribuído à Primeira Contadora de Serravento
+— Do Compêndio das Narradoras, atribuído à Primeira Contadora de Sylvaris
 
 ---
 
@@ -284,7 +284,7 @@ Este capítulo representa um momento crucial na narrativa: a primeira vez que Gr
 |------|--------|------------|
 | **Senhora Mirella** | Narradora da biblioteca | Conta histórias às crianças do orfanato |
 | **Grazielly** | Ouvinte especial | Sente dissonância na história; manifesta poder |
-| **Nyx** | Ventorro de Grazielly | Reage à história junto com sua dona |
+| **Nyx** | Liryth de Grazielly | Reage à história junto com sua dona |
 | **Madre Elara** | Diretora do orfanato | Interrompe a narração para o jantar |
 | **Mira** | Colega de Grazielly | Ouvinte comum; chora com a história |
 
@@ -330,7 +330,7 @@ Este capítulo representa um momento crucial na narrativa: a primeira vez que Gr
 
 **Título:** *O Resgate do Coração*
 
-No próximo capítulo, o poder de Grazielly despertará de forma inegável. Quando Nyx for deixado para trás na pressa de uma partida inesperada, Grazielly insistirá em resgatá-lo — e o bosque entre Ventania e Mespiria guardará perigos que forçarão sua primeira manifestação consciente de Cryonys.
+No próximo capítulo, o poder de Grazielly despertará de forma inegável. Quando Nyx for deixado para trás na pressa de uma partida inesperada, Grazielly insistirá em resgatá-lo — e o bosque entre Velantis e Mespiria guardará perigos que forçarão sua primeira manifestação consciente de Cryonys.
 
 Lyris observará, enviará relatórios a Aurelius, e pela primeira vez, a pergunta ecoará nas sombras: o que é essa criança? E quem mais está observando?
 
