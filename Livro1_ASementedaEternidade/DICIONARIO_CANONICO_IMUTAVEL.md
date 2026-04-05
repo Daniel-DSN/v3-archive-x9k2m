@@ -15,8 +15,7 @@
 **NUNCA alterar informações aqui contadas sem autorização explícita.**
 **CONSULTAR este documento antes de escrever QUALQUER novo capítulo.**
 
-> ⚠️ **NOTA DE SINCRONIZAÇÃO (06/04/2026):** Os termos **Sylvaris** (Reino do Vento), **Velantis** (cidade do Orfanato Luminis), **Zephyra** (capital), **Aethrys** (cereal), **Nariel** (fauna), **Liryth** (fauna), **Sylari** (flora), **Umbri** (fauna), **Ventis** (ave) e **Orfanato Luminis** são a nomenclatura canônica definitiva, conforme estabelecido nos Capítulos 01-04 (pasta `final/`). Qualquer referência a "Aérya", "Serravento", "Ventania", "Zephyria", "Orfanato das Asas", "Aethrum-dourado", "Pratafolha", "Ventorro", "Capraluna", "Assombra-pelos", "Asas-de-veludo", "Lanchovozes" ou "Trepadeiras-de-vento" em contexto não-histórico (fora de logs de versão) deve ser considerada OBSOLETA.
-
+> **NOTA DE SINCRONIZAÇÃO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Velantis** (cidade do Orfanato), **Zephyra** (capital), **Orfanato Luminis** (instituicao), **Aethrys/Argentis/Aeriva/Lumiara/Giralis** (flora), **Liryth/Nariel/Umbri/Sylari/Ventis** (fauna). Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, etc.) sao OBSOLETOS fora de logs de versao.
 
 ---
 
