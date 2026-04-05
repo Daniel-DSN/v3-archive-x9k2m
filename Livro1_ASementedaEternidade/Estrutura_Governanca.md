@@ -195,7 +195,7 @@
 
 ---
 
-# PARTE II: O REINO DO VENTO (SERRAVENTO)
+# PARTE II: O REINO DO VENTO (SYLVARIS)
 
 ## 🌬️ Visão Geral
 
@@ -391,7 +391,7 @@ Sylvaris é dividido em **Cinco Províncias**, cada uma governada por um **Prefe
 
 ---
 
-## 👤 PERSONAGENS CHAVE DE SERRAVENTO
+## 👤 PERSONAGENS CHAVE DE SYLVARIS
 
 ### Senhor Thaloris Ventaris
 
