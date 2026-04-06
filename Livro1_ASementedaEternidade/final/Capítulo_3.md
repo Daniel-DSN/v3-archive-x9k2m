@@ -284,7 +284,7 @@ A câmara de audiências era vasta, com tetos altos onde cristais Aetheris flutu
 
 Lyris esperava encontrar o Senhor dos Ventos sentado em seu trono — um gesto de poder e autoridade que os governantes usavam como extensão de si mesmos. Mas o Salão das Brisas estava vazio.
 
-Ou quase vazio. No canto mais distante da câmara, de costas para a porta, uma figura estava de pé diante de um enorme cavalete coberto por uma tela. As mangas de um manto azul claro estavam empurradas até os cotovelos, e na mão direita, um pincel movia-se com uma delicadeza que parecia contradizer a postura imponente do homem que o segurava.
+Ou quase vazio. No canto mais distante da câmara, de costas para a porta, uma figura flutuava a quase dois metros do chão — não com o esforço nervoso de quem luta contra a gravidade, mas com a serenidade absoluta de quem nasceu no ar e pertence a ele. Um enorme cavalete flutuava ao seu lado, a tela presa sem suporte visível, e ao redor de suas mãos pincéis, paletas e potes de pigmento orbitavam em silêncio como satélites obedientes. As mangas de um manto azul claro estavam empurradas até os cotovelos, e na mão direita, um pincel movia-se com uma delicadeza que parecia contradizer a postura imponente do homem que o segurava.
 
 Thaloris Ventaris, Lugal Lil, Senhor dos Ventos de Sylvaris, estava pintando.
 
@@ -292,11 +292,11 @@ Lyris permaneceu imóvel na entrada, observando. O quadro ainda estava em progre
 
 Era a obra de alguém que via o mundo não como um governante vê — em termos de territórios e recursos e ameaças — mas como um artista vê, em termos de luz e sombra e espaço entre as coisas.
 
-Thaloris adicionou três pinceladas finais — uma de prata pálida no canto superior direito, uma de azul profundo na base, e uma última, quase invisível, de branco puro no centro, como se colocasse uma estrela onde ninguém esperaria encontrar uma. Depois, ele abaixou o pincel, respirou fundo, e finalmente se virou.
+Thaloris adicionou três pinceladas finais — uma de prata pálida no canto superior direito, uma de azul profundo na base, e uma última, quase invisível, de branco puro no centro, como se colocasse uma estrela onde ninguém esperaria encontrar uma. Os pincéis e potes de pigmento continuaram orbitando ao seu redor enquanto ele abaixava o pincel, e com um gesto quase casual da mão livre, todos os utensílios se afastaram em formação ordenada, pairando a poucos metros dali como se aguardassem seu retorno. Ele respirou fundo, e finalmente se virou no ar — o manto azul claro ondulando sem que houvesse brisa alguma.
 
 Thaloris Ventaris era um homem de presença imponente mesmo desarrumado — com manchas de tinta nas mãos e no antebraço, com o cabelo grisalho menos impecável do que o protocolo exigia, com uma expressão de quem havia sido interrompido no meio de algo profundamente pessoal. Mas seus olhos azuis, quando encontraram os de Lyris, eram tão penetrantes quanto qualquer relatório de inteligência havia descrito — olhos que pareciam pesar a alma de quem os encarava.
 
-— Agente Lyris. — Sua voz era profunda, calma, com aquela qualidade que comandava atenção sem precisar de volume. — Peço desculpas. A arte não espera por audiências, e a inspiração é uma visitante impaciente. — Ele caminhou até uma bacia de prata e lavou as mãos, a tinta se dissolvendo na água como neblina se dissipa ao contato de Aurion. — Dê-me um momento.
+— Agente Lyris. — Sua voz era profunda, calma, com aquela qualidade que comandava atenção sem precisar de volume. — Peço desculpas. A arte não espera por audiências, e a inspiração é uma visitante impaciente. — Ele desceu lentamente até o chão do salão, seus pés tocando o mármore com a leveza de uma pluma, e caminhou até uma bacia de prata onde lavou as mãos, a tinta se dissolvendo na água como neblina se dissipa ao contato de Aurion. — Dê-me um momento.
 
 Lyris assentiu, usando o tempo para observar o salão com olhos treinados. Sete cadeiras alinhadas ao longo das paredes — os assentos do Conselho de Correntes. Tapeçarias que retratavam cenas da fundação de Sylvaris. E, em uma parede discreta, uma porta lateral que ela marcou mentalmente como uma rota de saída alternativa.
 
