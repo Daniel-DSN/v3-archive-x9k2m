@@ -921,7 +921,7 @@ Thalassia guarda segredos sobre a linhagem de Ayla:
 | Nome Comum | Nome Ancestral (Emê-Gir) | Classificação | Características |
 |------|--------------------------|---------------|-----------------|
 | **Lyrien** | **Ur Lil** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, afinidade com ar, empático, leal |
-| **Nariel** | **Ur Nanna** | Mamífero médio | Pelagem branca prateada, produtora de leite, olhos refletem as três luas |
+| **Velira** | **Ur Nanna** | Mamífero médio | Pelagem branca prateada, produtora de leite, olhos refletem as três luas |
 | **Umbri** | **Ur Ensi** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
 | **Sylari** | **Mushen Gir** | Inseto alado | Asas iridescentes, polinizadoras, flutuam como pétalas em dança |
 | **Kryll** | — | Artrópode pequeno | Translúcido, brilha no escuro, deixa rastros de Aethra residual |
@@ -1082,8 +1082,8 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 | ❌ Proibido | ✅ Usar |
 |-------------|---------|
 | trigo | Aethrys |
-| cabra | Nariel |
-| raposa/esquilo | Lyrien/Nariel |
+| cabra | Velira |
+| raposa/esquilo | Lyrien/Velira |
 | sol | Aurion |
 | lua (genérico) | Lyria/Nyx/Elara |
 | nanobots | Sementes Etéricas / Partículas Primordiais |
@@ -1176,7 +1176,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 |-------------|------------|---------------------|
 | **Im-amar** | Lyrien | Cria do vento |
 | **An-tir** | Sylari | Pássaro celestial |
-| **Gud-nigin** | Nariel | Criatura que circunda |
+| **Gud-nigin** | Velira | Criatura que circunda |
 | **Nin-tara** | Nyctara | Aquela que percebe na névoa |
 | **Urrak** | Urrak | (Onomatopeia - uivo) |
 | **Vel-gish** | Velatrix | Veloz da floresta |

@@ -20,7 +20,7 @@ A noite chegou diferente em Mespiria.
 
 Não era algo que os aldeões pudessem nomear com precisão. O céu estava claro, sem nuvens, e Aurion havia se posto como sempre fazia. Mas havia algo no ar — uma tensão sutil, como a corda de um instrumento musical sendo esticada cada vez mais, esperando o momento em que finalmente se romperia.
 
-Os animais sentiram primeiro. Os lyriens nos estábulos agitavam-se sem razão aparente, suas orelhas prateadas girando para sons que ninguém mais ouvia. Os nariel nas pastagens recusavam-se a deitar, seus olhos fixos no horizonte como se vissem algo que os humanos não podiam perceber.
+Os animais sentiram primeiro. Os lyriens nos estábulos agitavam-se sem razão aparente, suas orelhas prateadas girando para sons que ninguém mais ouvia. Os velira nas pastagens recusavam-se a deitar, seus olhos fixos no horizonte como se vissem algo que os humanos não podiam perceber.
 
 Então as luas surgiram.
 

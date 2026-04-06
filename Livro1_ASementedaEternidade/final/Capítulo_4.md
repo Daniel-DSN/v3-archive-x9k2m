@@ -263,7 +263,7 @@ Madre Elara assentiu lentamente, e no assentimento havia algo que era aceitaçã
 
 — Nós vamos buscá-lo — Lyris confirmou.
 
-— Então enquanto isso — Madre Elara disse, virando-se para olhar Lyris nos olhos com uma firmeza que não permitia discussão — eu vou cuidar para que essa menina não se quebre antes de vocês voltarem. Ela é bem-vinda aqui. Tanto tempo quanto precisar. E se houver algo que eu possa fazer para ajudar na viagem — provisões, Nariel para a estrada, um guia que conheça o caminho por dentro das montanhas —, diga.
+— Então enquanto isso — Madre Elara disse, virando-se para olhar Lyris nos olhos com uma firmeza que não permitia discussão — eu vou cuidar para que essa menina não se quebre antes de vocês voltarem. Ela é bem-vinda aqui. Tanto tempo quanto precisar. E se houver algo que eu possa fazer para ajudar na viagem — provisões, Velira para a estrada, um guia que conheça o caminho por dentro das montanhas —, diga.
 
 Lyris sentiu algo que raramente sentia em missões da Ordem — gratidão genuína, não a gratidão calculada de quem recebe um recurso estratégico, mas a gratidão simples de quem oferece um ombro e recebe um porto seguro em troca.
 
