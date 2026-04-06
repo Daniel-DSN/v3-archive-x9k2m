@@ -203,7 +203,7 @@ Não completamente.
 
 ## V. O Dormitório
 
-Na hora de dormir, Mira levou Grazielly ao dormitório — uma sala grande com camas organizadas em filas, cada uma com um cobertor de veluma e um travesseiro simples. A maioria das camas já estava ocupada por corpos pequenos que respiravam o ritmo pesado do sono, e o ar era quente e cheirava a lavanda e a veluma.
+Na hora de dormir, Mira levou Grazielly ao dormitório — uma sala grande com camas organizadas em filas, cada uma com um cobertor de veluma e um travesseiro simples. A maioria das camas já estava ocupada por corpos pequenos que respiravam o ritmo pesado do sono, e o ar era quente e cheirava a aerélia e a veluma.
 
 — Essa é sua cama — Mira sussurrou, apontando para uma cama ao lado da sua — a que estava mais perto da janela, onde um fino filete de luz das velas do corredor entrava e criava uma linha dourada no chão. — Eu guardei para você. Eu sabia que você ia gostar de ficar perto da janela. Toda criança nova gosta de ficar perto da janela.
 
@@ -285,7 +285,7 @@ Lyris voltou a olhar para Grazielly. A menina continuava dormindo, as mãos aind
 
 Grazielly acordou antes de todas as outras crianças.
 
-Não foi o tipo de despertar súbito e assustado do dia anterior — aquele despertar em que ela soube, antes de abrir os olhos, que Melessa havia partido. Este foi mais gentil, mais gradual, como se o sono a estivesse liberando devagar, dedo por dedo, permitindo que ela se reacomodasse à realidade em etapas suportáveis. Primeiro veio a consciência do calor — o cobertor sobre ela, o colchão sob ela, o ar morno do dormitório. Depois veio o reconhecimento do lugar — os sons da respiração das outras crianças, o cheiro de veluma e lavanda, a escuridão que era a escuridão de um edifício fechado, não de uma casa de pedra com frestas por onde o vento entrava. E depois, inevitavelmente, veio a lembrança.
+Não foi o tipo de despertar súbito e assustado do dia anterior — aquele despertar em que ela soube, antes de abrir os olhos, que Melessa havia partido. Este foi mais gentil, mais gradual, como se o sono a estivesse liberando devagar, dedo por dedo, permitindo que ela se reacomodasse à realidade em etapas suportáveis. Primeiro veio a consciência do calor — o cobertor sobre ela, o colchão sob ela, o ar morno do dormitório. Depois veio o reconhecimento do lugar — os sons da respiração das outras crianças, o cheiro de veluma e aerélia, a escuridão que era a escuridão de um edifício fechado, não de uma casa de pedra com frestas por onde o vento entrava. E depois, inevitavelmente, veio a lembrança.
 
 Nyx.
 
