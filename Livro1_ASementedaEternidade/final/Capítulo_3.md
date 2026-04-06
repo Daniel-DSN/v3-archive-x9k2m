@@ -474,7 +474,7 @@ Vethran desapareceu nas sombras da câmara, deixando Thaloris sozinho com seus p
 
 Lyris deixou Zephyra no dia seguinte ao amanhecer, seguindo para Velantis pela estrada principal que cortava os campos de Sylvaris. O Orfanato Luminis — que os moradores de Velantis chamavam de Cidadela Luminis — não era um prédio isolado, mas um complexo fortificado que ocupava várias colinas nos arredores da cidade, conectadas por muralhas de pedra e passarelas suspensas. Suas torres de observação erguiam-se contra o céu como dedos de cristal, e os muros eram percorridos por guerreiros de armaduras prateadas — os Aga Uru, Escudos da Tempestade — cuja presença havia se tornado tão natural para os velantisianos quanto o vento que soprava entre as torres.
 
-Luminara Elara, a idosa diretora, recebeu-a com um sorriso cansado mas genuíno. Lyris havia enviado uma mensagem de apresentação dias antes, usando os canais diplomáticos que sua autorização garantia, e a resposta havia vindo rápida: o orfanato sempre precisava de mãos dispostas.
+A Ama Luminara Elara, a idosa diretora do Orfanato Luminis, recebeu-a com um sorriso cansado mas genuíno. Lyris havia enviado uma mensagem de apresentação dias antes, usando os canais diplomáticos que sua autorização garantia, e a resposta havia vindo rápida: o orfanato sempre precisava de mãos dispostas.
 
 — Uma aposentada da Ordem — Luminara Elara repetiu, estudando Lyris com olhos que haviam visto demais para serem enganados por aparências. — E o que a traz a Velantis, senhora?
 
