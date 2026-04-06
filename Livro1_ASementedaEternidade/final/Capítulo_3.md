@@ -775,7 +775,7 @@ Lyris assentiu, a promessa já gravada em seu coração.
 
 Depois de deixar o escritório, Lyris caminhou pelos corredores do orfanato, verificando portas e janelas como fazia toda noite desde que chegara a Velantis — um hábito de agente que a aposentadoria não havia conseguido eliminar. No pátio interno, sob a luz fraca das três luas, ela parou ao ouvir um som — o rangido suave de uma vassoura contra pedra.
 
-Mestre Aldric, o caseiro do orfanato, estava varrendo o pátio. Era um homem de meia-idade, silencioso e eficiente, que havia chegado ao orfanato três anos atrás recomendado por um padre local. Fazia manutenção geral — consertava telhas, pintava paredes, cuidava do jardim — e raramente falava mais do que o estritamente necessário. As crianças gostavam dele porque às vezes lhes dava doces que trazia da cidade, e Madre Elara o considerava indispensável.
+Mestre Aldric, o caseiro do orfanato, estava varrendo o pátio. Era um homem de meia-idade, silencioso e eficiente, que havia chegado ao orfanato três anos atrás recomendado por um sacerdote local. Fazia manutenção geral — consertava telhas, pintava paredes, cuidava do jardim — e raramente falava mais do que o estritamente necessário. As crianças gostavam dele porque às vezes lhes dava doces que trazia da cidade, e Madre Elara o considerava indispensável.
 
 Lyris o observou por um momento do corredor escuro. O modo como Aldric varria era... eficiente demais. Cada movimento era calculado, sem desperdício de energia. Ele varria como quem patrulha — os olhos escaneando os arredores mesmo enquanto as mãos trabalhavam. E havia algo em sua postura, na forma como distribuía o peso entre os pés, que Lyris reconhecia de algum lugar.
 
