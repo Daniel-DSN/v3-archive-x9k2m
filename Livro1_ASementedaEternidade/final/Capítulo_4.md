@@ -96,7 +96,7 @@ Havia seis berços dispostos em semicírculo ao redor de uma janela grande que d
 
 Grazielly se aproximou do berço mais próximo sem perceber. A bebé dentro tinha talvez poucas semanas de vida — cabelos quase invisíveis, tão finos quanto fios de teia, e olhos de um azul tão claro que pareciam feitos do próprio céu de Sylvaris em uma manhã sem nuvens. A bebé não chorava. Não se movia. Apenas a olhava com aquela serenidade absurda dos que ainda não aprenderam que o mundo pode ser cruel, e Grazielly sentiu algo dentro de si se afrouar — não completamente, não o bastante para apagar a dor, mas o bastante para sentir que havia ainda espaço dentro do peito para coisas que não fossem apenas perda.
 
-— A mãe dela deixou ela na porta num inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Madre Elara encontrou de manhã, embrulhada num cobertor de lã. Ela se chama Liora.
+— A mãe dela deixou ela na porta num madrugada de inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Madre Elara encontrou de manhã, embrulhada num cobertor de lã. Ela se chama Liora.
 
 Grazielly não perguntou por que a mãe tinha partido. Não precisava perguntar. Havia coisas que uma criança de quatro anos compreendia sem palavras — e a possibilidade de ser deixada, de ser solta, de ter o único vínculo do mundo rompido por mãos que não eram as suas, era uma delas.
 
