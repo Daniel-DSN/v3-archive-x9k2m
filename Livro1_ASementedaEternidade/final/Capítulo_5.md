@@ -48,7 +48,7 @@ Lyris bateu à porta três vezes — o protocolo que Luminara Elara exigia de qu
 
 Lyris abriu a porta e encontrou Luminara Elara sentada atrás de sua escrivaninha, os óculos de leitura repousando sobre o nariz fino, uma caneta na mão. A diretora era uma mulher de meia-idade, com cabelos escuros amarrados em um coque severo e olhos castanhos que pareciam capazes de avaliar uma pessoa inteira em um único relance. Havia algo nela que inspirava respeito sem precisar de autoridade — uma presença que preenchia a sala de uma forma que não era opressiva, mas que deixava claro quem comandava aquele espaço.
 
-— Luminara Elara — Lyris disse, fechando a porta atrás de si. — Preciso falar com a senhora sobre um assunto importante.
+— Luminara Elara — Lyris disse, fechando a porta atrás de si. — As estradas para Mespiria abriram. A neve derreteu. Vim informar que é hora de cumprir o que conversamos no inverno.
 
 Luminara Elara ergueu os olhos do pergaminho que estava lendo e estudou Lyris por um longo momento — aquele tipo de olhar que Lyris reconhecia, porque o usara incontáveis vezes em sua vida como agente. Um olhar que avaliava não apenas as palavras, mas a postura, o tom de voz, a microexpressão facial, o contexto não dito.
 
@@ -56,25 +56,19 @@ Luminara Elara ergueu os olhos do pergaminho que estava lendo e estudou Lyris po
 
 Lyris obedeceu, colocando-se na cadeira diante da escravaninha com a postura ereta de quem está acostumada a ser avaliada.
 
-— O que deseja?
+— Então é hoje — Luminara Elara disse, e não era uma pergunta. Colocou a caneta sobre a escravaninha e cruzou as mãos. — O Nyx.
 
-— Preciso de permissão para levar Grazielly a Mespiria.
+— O Nyx — Lyris confirmou. — E tudo que Grazielly tenha deixado na casa de Melessa. Roupas, lembranças — coisas que pertencem a ela e que podem ajudar no processo de luto.
 
-O silêncio que se seguiu foi longo o bastante para que Lyris percebesse o vento soprando através da janela entreaberta do escritório, levando consigo o perfume das Giralis que começavam a florescer nos canteiros do pátio. Luminara Elara não se mexeu. Seus olhos permaneceram fixos em Lyris, e naqueles olhos havia algo que Lyris não conseguiu ler com certeza — desaprovação, preocupação, ou talvez ambas ao mesmo tempo.
+— Eu me lembro do que conversamos — Luminara Elara disse, sua voz calma mas firme. — Me lembro de cada palavra. E me lembro de ter dito que providenciaria Velrok, provisões e um guia para as montanhas. Isso ainda vale. Mas desde aquela noite, observar essa criança tentar dormir sem o Lyrien ao seu lado me fez repensar algumas coisas.
 
-— Levar Grazielly a Mespiria — Luminara Elara repetiu, e as palavras não eram uma confirmação, mas uma reformulação, como se estivesse testando o peso da frase. — Uma criança de quatro anos, que acabou de perder a avó, que mal se adaptou a este lugar, através de estradas que ainda estão se recuperando do inverno, até uma vila que fica a horas de distância. É isso que está me pedindo?
+— O que a senhora repensou?
 
-— Não estou pedindo como um favor pessoal — Lyris respondeu, sua voz calma mas firme. — Estou pedindo porque é necessário para a recuperação emocional de Grazielly.
+— Que uma jornada assim, com uma criança de quatro anos que ainda se recupera de um trauma, exige mais do que boa vontade — Luminara Elara disse. — Exige escolta. Exige condições. E exige que eu confie em quem está levando minha criança para fora destes muros.
 
-— Necessário — Luminara Elara repetiu novamente, e agora havia uma ponta de ironia em sua voz.
+Lyris não se ofendeu com o "minha criança" — sabia que, para Luminara Elara, toda criança que cruzava aqueles portões se tornava, por definição, sua.
 
-— A criança deixou algo para trás em Mespiria — Lyris continuou, mantendo o controle de sua fala com a precisão de quem havia feito dezenas de briefings em sua carreira. — Um companheiro. Um Lyrien prateado que ela criou desde filhote, que ficou na casa de Melessa quando partimos. Grazielly prometeu que voltaria por ele. Essa promessa é uma das poucas coisas que a sustentam desde que chegou aqui.
-
-Luminara Elara colocou a caneta sobre a escrivaninha e cruzou as mãos.
-
-— Eu entendo o vínculo entre uma criança e seu companheiro, Lyris. Não estou questionando isso. Estou questionando a viabilidade e a segurança de uma jornada dessa natureza com uma criança que ainda está se recuperando de um trauma significativo.
-
-— As estradas estão abertas — Lyris disse. — A neve derreteu quase completamente. Os caminhos entre Velantis e Mespiria são utilizados regularmente por mercadores e viajantes. Com uma escolta adequada, o risco é mínimo.
+— As estradas estão seguras — Lyris disse. — Os caminhos entre Velantis e Mespiria são utilizados regularmente por mercadores e viajantes.
 
 — Risco mínimo não é risco zero.
 
@@ -82,17 +76,7 @@ Luminara Elara colocou a caneta sobre a escrivaninha e cruzou as mãos.
 
 O olhar que Luminara Elara dirigiu a Lyris naquele momento era o tipo que fazia crianças pequenas engolirem em seco e guerreiros experientes repensarem suas palavras. Mas Lyris não era uma criança, e embora não fosse mais uma guerreira no sentido estrito, havia enfrentado olhares muito mais ameaçadores do que o de uma diretora de orfanato.
 
-— Há mais — Luminara Elara disse, e não era uma pergunta. — Não é apenas sobre o Lyrien.
-
-Lyris hesitou por uma fração de Pulso — um lapso que Luminara Elara não perdeu.
-
-— A casa de Melessa ainda está intacta — Lyris disse. — Os vizinhos estão cuidando. Mas pode haver pertences de Grazielly que ela precisa — roupas, objetos pessoais, lembranças de Melessa. Coisas que pertencem a ela e que podem ajudar no processo de luto.
-
-— E a senhora acha que voltar à casa onde sua avó morreu vai ajudar Grazielly a lidar com a morte da avó?
-
-— Eu acho que não lidar com isso — devolvendo-lhe o que é seu, resgatando quem ela prometeu resgatar — vai continuar a feri-la de uma forma que nenhum tempo de adaptação no orfanato vai curar.
-
-O silêncio se estendeu novamente. Luminara Elara se levantou e caminhou até a janela, olhando para o pátio onde crianças brincavam sob a luz dourada de Aurion. Lyris observou a diretora de costas e notou, na postura de seus ombros, algo que não esperava — uma tensão que não era rigidamente profissional, mas que parecia aetheriana, pessoal, como se Luminara Elara estivesse pesando não apenas as palavras de Lyris, mas memórias próprias de perdas e promessas.
+O silêncio se estendeu. Luminara Elara se levantou e caminhou até a janela, olhando para o pátio onde crianças brincavam sob a luz dourada de Aurion. Lyris observou a diretora de costas e notou, na postura de seus ombros, algo que não esperava — uma tensão que não era rigidamente profissional, mas que parecia aetheriana, pessoal, como se Luminara Elara estivesse pesando não apenas as palavras de Lyris, mas memórias próprias de perdas e promessas.
 
 — Quantos dias — Luminara Elara perguntou sem se virar.
 
