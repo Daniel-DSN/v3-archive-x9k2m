@@ -128,7 +128,7 @@ Melessa escreveu a carta com mãos que tremiam não de fraqueza, mas de determin
 
 *Há algo que você precisa saber sobre esta criança. Ela não é comum. Ela nasceu sob a Convergência Tripla e carrega algo dentro de si — algo que brilha sob sua pele, que a faz diferente, que faz os velhos da vila sussurrarem sobre Seraphyens e destinos ancestrais. Eu a escondi de Sanctrum porque temia o que poderia acontecer se a Ordem descobrisse sua existência. E agora, nos meus últimos momentos, peço perdão por essa mentira — não a você, mas à criança, que merecia saber que tinha um pai.*
 
-*Se houver algo de humano em você, se houver algo de Ayla que ainda permanece no seu coração, envie alguém. Alguém que possa protegê-la. Alguém que possa levá-la para longe de Mespiria, para um lugar onde ela possa crescer sem que o peso de quem ela é a esmague.*
+*Se houver algo de aetheriano em você, se houver algo de Ayla que ainda permanece no seu coração, envie alguém. Alguém que possa protegê-la. Alguém que possa levá-la para longe de Mespiria, para um lugar onde ela possa crescer sem que o peso de quem ela é a esmague.*
 
 *Grazielly merece viver. E eu não posso mais garantir isso sozinha.*
 
@@ -238,7 +238,7 @@ Lyris tomou o envelope, sentindo seu peso. Havia algo pesando mais do que o pape
 
 — Por enquanto — Lyris repetiu, e a palavra ficou no ar entre eles como uma promessa não dita.
 
-— Você sempre foi minha melhor agente, Lyris. — A voz de Aurelius amoleceu, e por um instante, a máscara do governante cedeu lugar a algo mais humano. — Se eu pudesse escolher qualquer pessoa para essa missão, seria você. Não pela sua eficiência — embora ela seja incomparável — mas pelo seu julgamento. Pela sua capacidade de cuidar sem controlar. De proteger sem aprisionar.
+— Você sempre foi minha melhor agente, Lyris. — A voz de Aurelius amoleceu, e por um instante, a máscara do governante cedeu lugar a algo mais aetheriano. — Se eu pudesse escolher qualquer pessoa para essa missão, seria você. Não pela sua eficiência — embora ela seja incomparável — mas pelo seu julgamento. Pela sua capacidade de cuidar sem controlar. De proteger sem aprisionar.
 
 Lyris guardou o envelope em seu manto. As perguntas ainda fervilhavam em sua mente — por que ela? Por que agora? Por que o sigilo excessivo para uma missão que, pela descrição, parecia relativamente simples? — mas reconheceu o tom na voz de Aurelius como aquele que não admitia réplica.
 

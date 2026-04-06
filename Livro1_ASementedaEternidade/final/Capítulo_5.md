@@ -92,7 +92,7 @@ Lyris hesitou por uma fração de Pulso — um lapso que Luminara Elara não per
 
 — Eu acho que não lidar com isso — devolvendo-lhe o que é seu, resgatando quem ela prometeu resgatar — vai continuar a feri-la de uma forma que nenhum tempo de adaptação no orfanato vai curar.
 
-O silêncio se estendeu novamente. Luminara Elara se levantou e caminhou até a janela, olhando para o pátio onde crianças brincavam sob a luz dourada de Aurion. Lyris observou a diretora de costas e notou, na postura de seus ombros, algo que não esperava — uma tensão que não era rigidamente profissional, mas que parecia humana, pessoal, como se Luminara Elara estivesse pesando não apenas as palavras de Lyris, mas memórias próprias de perdas e promessas.
+O silêncio se estendeu novamente. Luminara Elara se levantou e caminhou até a janela, olhando para o pátio onde crianças brincavam sob a luz dourada de Aurion. Lyris observou a diretora de costas e notou, na postura de seus ombros, algo que não esperava — uma tensão que não era rigidamente profissional, mas que parecia aetheriana, pessoal, como se Luminara Elara estivesse pesando não apenas as palavras de Lyris, mas memórias próprias de perdas e promessas.
 
 — Quantos dias — Luminara Elara perguntou sem se virar.
 
@@ -108,7 +108,7 @@ Luminara Elara se virou finalmente, e em seus olhos havia algo que Lyris identif
 
 — Compreendido — Lyris disse, e em sua voz havia algo que era quase gratidão.
 
-— E Lyris — Luminara Elara acrescentou, e agora sua voz era mais suave, mais humana, quase maternal. — Cuide dela. Essa criança perdeu demais em muito pouco tempo. Eu não quero que ela perca mais nada.
+— E Lyris — Luminara Elara acrescentou, e agora sua voz era mais suave, mais aetheriana, quase maternal. — Cuide dela. Essa criança perdeu demais em muito pouco tempo. Eu não quero que ela perca mais nada.
 
 — Eu sei — Lyris disse. — É por isso que estou fazendo isso.
 
@@ -365,7 +365,7 @@ Nos muros, nas janelas, no teto — em cada superfície que a luz azul alcançav
 
 Grazielly não parecia consciente do que estava acontecendo. Seus olhos estavam fechados, seu rosto sereno, como se estivesse em um transe. O brilho azul que emanava de seu corpo era forte agora — forte o bastante para iluminar todo o interior da casa com uma luminescência que fazia as sombras recuar para os cantos e ficarem ali, encolhidas, como se também elas reconhecessem que algo extraordinário estava acontecendo.
 
-Lyris permaneceu imóvel. Seus instintos de agente gritavam para que agisse — para proteger a criança, para avaliar a ameaça, para tomar controle da situação —, mas seus instintos humanos, aqueles que haviam sobrevivido a décadas de treinamento e disciplina, a diziam para ficar. Para observar. Para testemunhar.
+Lyris permaneceu imóvel. Seus instintos de agente gritavam para que agisse — para proteger a criança, para avaliar a ameaça, para tomar controle da situação —, mas seus instintos aetherianos, aqueles que haviam sobrevivido a décadas de treinamento e disciplina, a diziam para ficar. Para observar. Para testemunhar.
 
 *Isso é Cryonys*, Lyris pensou, e a palavra carregava um peso que ela não havia previsto. *Mas não como descrito nos registros. Isso é algo mais. Isso é uma convergência.*
 
