@@ -581,7 +581,7 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 | Codinome | Criatura Base | Identidade Secreta | Características |
 |----------|---------------|-------------------|-----------------|
 | **O Urrak** | Predador de Terraxis | *Desconhecida* | Feroz, leal ao bando, caça nas sombras |
-| **A Nyctara** | Ave noturna de Umbra | **Lyris** | Visão no escuro, silêncio absoluto, sabedoria |
+| **A Nyctara** | Corvídeo noturno das névoas de Umbra | **Lyris** | Caça pelo Sussurro Etérico (Aethra), silêncio absoluto, percepção sem olhos |
 | **O Velatrix** | Ave de rapina de Sylvaris | *Desconhecida* | Velocidade extrema, precisão mortal |
 
 **⚠️ NUNCA usar nomes de animais terrestres para Vanguardas.**
@@ -912,6 +912,57 @@ Os Koramis são as maiores aves conhecidas de Nova Aetherion e uma das imagens m
 
 **Na Narrativa:** Durante o passeio a Maris-Aetheria (Cap. 6+), as crianças do Orfanato Luminis têm a oportunidade de fazer um tour montado nos Koramis — uma experiência rara que emociona até Kira, que apesar de sua amargura com o sistema, não consegue esconder o encanto ao ver o mundo de cima. Os soldados Vigilantes oferecem tours curtinhos como parte das festividades locais de Velantis. Cada Koramis carrega até 4 crianças com um condutor Vigilante, sobrevoando os campos de Aethrys e o lago do Orfanato antes de pousar suavemente no pátio.
 
+### A Criatura Nyctara — Emblema de Lyris
+
+A Nyctara é a ave mais misteriosa e temida de Umbra. Corvídeo de médio porte, semelhante a um corvo mas com proporções mais elegantes e uma presença que paralisa qualquer um que a encontre na névoa. Suas penas são negras como a ausência de luz, mas possuem um brilho fosforescente sutil — como se a própria sombra tivesse aprendido a brilhar.
+
+**Nome Ancestral:** *Mushen Nin* — "Ave da Névoa" em Emê-Gal. O nome "Nyctara" evoluiu da contração dialetal *Nin-tara* ("aquela que percebe na névoa").
+
+#### Aparência
+
+| Característica | Detalhe |
+|---------------|---------|
+| **Porte** | Médio (~45 cm de corpo), asas largas e arredondadas |
+| **Penas** | Negras com iridescência azul-prateada sob a luz de Nyx |
+| **Olhos** | Âmbar escuro, visão aguçada — mas **raramente a utiliza** |
+| **Voz** | Não emite som — absolutamente silenciosa em voo e repouso |
+| **Expectativa de Vida** | 40 a 60 ciclos de Aurion |
+| **Habitat Natural** | Florestas de ciprestes de Umbra, onde a névoa é perpétua |
+
+#### O Sussurro Etérico — Mecanismo de Caça
+
+A Nyctara **possui visão perfeita**, mas não a usa para caçar. Em vez disso, emprega um mecanismo único chamado **Sussurro Etérico** (*Nin-zi* em Emê-Gal):
+
+1. **Emissão:** As penas da Nyctara são revestidas por microcristais de Aethra comprimido — estruturas imperceptíveis a olho nu que absorvem o Aethra ambiente e o convertem em vibrações de frequência ultra-baixa, inaudíveis para qualquer outra criatura.
+
+2. **Propagação:** Essas vibrações se propagam pela névoa como ondas em água parada, mas percorrendo o ar saturado de umidade. A névoa atua como um **condutor natural**, ampliando o alcance das ondas etéricas em até dez vezes comparado ao ar seco.
+
+3. **Ressonância:** Quando as ondas atingem um ser vivo, o Aethra interno da criatura reage — cada pulso cardíaco, cada respiração, cada emoção gera uma assinatura de ressonância distinta. A Nyctara "lê" essa ressonância como um mapa tridimensional perfeito.
+
+4. **Percepção:** A ave constrói uma imagem mental completa de tudo ao seu redor — posição, tamanho, estado emocional, nível de ferimento, e até a intenção (fuga ou confronto). Na névoa densa, a Nyctara é **cega mas onisciente**.
+
+5. **O Ataque:** A Nyctara seleciona sua presa não pelo tamanho, mas pelo **medo**. Criaturas com medo emitem uma assinatura de ressonância mais intensa e estável — um farol na névoa. A ave mergulha em silêncio absoluto, e a presa morre sem jamais ter ouvido ou visto qualquer coisa.
+
+> *"Na névoa, a Nyctara não precisa de olhos. A névoa é seu domínio, e o medo de suas presas é sua bússola."*
+> — Registro do naturalista Eben de Umbralis, 3.740º ciclo
+
+#### Por que a Nyctara não usa a visão?
+
+A resposta está na própria natureza da névoa. Umbra possui neblinas tão densas que são capazes de dispersar até a luz de Aurion — não por densidade física, mas por conterem **Aethra residual de Nihilaryth**, uma energia que distorce a percepção sensorial. Dentro dessas névoas, os olhos mentem: sombras se movem, formas se multiplicam, distâncias se invertem. A Nyctara aprendeu ao longo de milênios que a visão é uma **desvantagem** em seu habitat natural. O Sussurro Etérico, por contraste, atravessa a névoa sem distorção porque opera na frequência do Aethra — e o Aethra não mente.
+
+#### Simbolismo: Nyctara ↔ Lyris
+
+| Aspecto da Criatura | Espelho em Lyris |
+|--------------------|------------------|
+| Caça na névoa sem usar os olhos | Opera na "névoa" da desinformação política e detecta a verdade sem confiar nas aparências |
+| O medo da presa a guia até ela | Como agente de inteligência, Lyris usa as emoções dos alvos — medo, culpa, esperança — para extrair informações |
+| Silêncio absoluto | Thermaris (Vapor) cria cortinas de névoa que ocultam seus movimentos |
+| A névoa é seu domínio, não sua prisão | Lyris se disfarça de "aposentada pacata" em Velantis — a aparente fraqueza é sua maior arma |
+| Penas negras com brilho oculto | Sua identidade como Vanguarda é o segredo mais bem guardado de Sylvaris |
+| O Aethra não mente | Termonisa (Thermaris) não distorce — ela revela o que está oculto sob pressão térmica |
+
+> A Nyctara não escolheu a névoa. A névoa a escolheu. E Lyris entende isso melhor do que ninguém: não são os olhos que definem quem vê a verdade — é a disposição de mergulhar na escuridão e confiar no que os outros sentem, mas não conseguem nomear.
+
 ## Criaturas Lendárias
 
 | Nome | Status | Descrição |
@@ -923,10 +974,10 @@ Os Koramis são as maiores aves conhecidas de Nova Aetherion e uma das imagens m
 | Nome Comum | Nome Ancestral (Emê-Gir) | Habitat | Características | Codinome Usado Por |
 |------|--------------------------|---------|-----------------|-------------------|
 | **Urrak** | **Ur Sag** | Planícies de Terraxis | Predador cursorial de pelagem escura, caça em alcateias, uivos ecoam em noites sem lua, lealdade absoluta ao bando | "O Urrak" (herói mascarado) |
-| **Nyctara** | **Mushen Gig** ⚠️ | Florestas de Umbra | Ave noturna de asas silenciosas, olhos que veem no escuro total, caça por ecolocalização espiritual | **"A Nyctara" (Lyris)** |
+| **Nyctara** | **Mushen Nin** ⚠️ | Névoas de Umbra | Corvídeo noturno de penas negras com brilho fóssil, caça pelo Sussurro Etérico — ondas de Aethra que mapeiam presas na névoa sem usar a visão | **"A Nyctara" (Lyris)** |
 | **Velatrix** | **Mushen An** | Céus de Sylvaris | Ave de rapina veloz, penas criam assobios em voo picado, visão que atravessa névoa | "O Velatrix" (herói mascarado) |
 
-⚠️ **EXCEÇÃO IMPORTANTE**: O nome "Nyctara" é mantido como exceção especial para a ave de Lyris, tanto como espécie quanto como codinome. Em contextos ancestrais/formais, pode ser referida como "Mushen Gig", mas na narrativa o nome "Nyctara" prevalece.
+⚠️ **EXCEÇÃO IMPORTANTE**: O nome "Nyctara" é mantido como exceção especial para a ave de Lyris, tanto como espécie quanto como codinome. Em contextos ancestrais/formais, pode ser referida como "Mushen Nin" (Ave da Névoa), mas na narrativa o nome "Nyctara" prevalece. Veja a seção **A Criatura Nyctara** para a lore completa.
 
 **NUNCA USAR:** lobo, coruja, falcão, águia, ou outros animais terrestres
 
@@ -1077,7 +1128,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **Im-amar** | Liryth | Cria do vento |
 | **An-tir** | Sylari | Pássaro celestial |
 | **Gud-nigin** | Nariel | Criatura que circunda |
-| **Tir-kur** | Nyctara | Pássaro da montanha |
+| **Nin-tara** | Nyctara | Aquela que percebe na névoa |
 | **Urrak** | Urrak | (Onomatopeia - uivo) |
 | **Vel-gish** | Velatrix | Veloz da floresta |
 | **Ur ig-gal** | Pyrgon | Grande réptil de fogo |
@@ -1130,7 +1181,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 
 ## 🚫 CONTROLE DE VERSÃO
 
-**Versão do Dicionário:** 11.0.0 - EXPANSÃO DA FLORA E FAUNA
+**Versão do Dicionário:** 11.1.0 - LORE COMPLETA DA NYCTARA
 **Data de Atualização:** 06/04/2026
 **Status:** IMUTÁVEL
 **Fonte:** Compêndio do Arquivista-Mestre de Aetherion
@@ -1142,6 +1193,18 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 - ✅ **+7 novas espécies de Fauna** — Pyrgon, Thalantys, Umbrix, Fulguris, Nyxara, Koramis, Terravox
 - ✅ **Koramis** — Ave gigante de montaria de Sylvaris, usada por soldados Vigilantes para patrulha aérea e por crianças em tours (Cap. 6+)
 - ✅ **Nova seção: Criaturas de Montaria e Transporte** — Koramis e Terravox
+
+### Atualizações da Versão 11.1.0:
+
+#### 6. Lore Completa da Nyctara (v11.1.0)
+
+- ✅ **Nyctara expandida** — De "ave noturna" genérica para criatura completa com lore dedicada
+- ✅ **Sussurro Etérico (*Nin-zi*)** — Mecanismo de caça criativo: microcristais nas penas emitem ondas de Aethra que mapeiam presas na névoa sem usar visão
+- ✅ **Corvídeo noturno** — Redefinida como semelhante a um corvo, elegante, silenciosa
+- ✅ **Habitat**: Névoas de Umbra (não mais "Florestas de Umbra" genericamente)
+- ✅ **Emê-Gar atualizado**: *Mushen Gig* → *Mushen Nin* ("Ave da Névoa"), *Tir-kur* → *Nin-tara* ("Aquela que percebe na névoa")
+- ✅ **Seção dedicada "A Criatura Nyctara — Emblema de Lyris"** — Aparência, mecanismo de caça, explicação de por que não usa visão, tabela de simbolismo Nyctara ↔ Lyris
+- ✅ **Tabela Vanguarda atualizada** — Descrição expandida com Sussurro Etérico
 - ✅ **Emê-Gar atualizado** — Nomes ancestrais para todas as novas espécies
 
 #### 4. Sincronização Ontológica (Caps 01-04)
