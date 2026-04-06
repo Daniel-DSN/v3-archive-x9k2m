@@ -58,7 +58,7 @@ E Grazielly, que não queria comer, que não queria se levantar, que não queria
 
 ---
 
-
+## II. O Jantar
 
 O jantar no Orfanato Luminis era servido em uma longa sala no térreo — mas não uma sala fria ou formal. As paredes eram cobertas de murais pintados pelas próprias crianças ao longo dos anos: oceanos de Lumiara com Thaluris que sorriam, florestas de Sylvaris com Seraphyens de asas coloridas, e no canto mais próximo da porta, um desenho coletivo onde cada criança que passava pelo orfanato deixava a marca de sua mão em tinta extraída de Giralis, criando um jardim de palmas coloridas que crescia a cada temporada. Mesas de madeira corridas onde as crianças se sentavam em bancos de ambos os lados, formando um corredor central por onde as voluntárias passavam com panelas e travessas. O ar era espesso com o perfume de sopa de Lumiara — os legumes bioluminescentes dando ao caldo um tom amarelado e um brilho suave que fazia cada tigela parecer conter um pouco de luz capturada — e de pão de Aethrys recém-saído do forno, cuja crosta dourada ainda crepitava com o calor.
 
