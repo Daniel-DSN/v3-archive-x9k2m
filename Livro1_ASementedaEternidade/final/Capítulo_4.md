@@ -44,11 +44,17 @@ Grazielly não perguntou como Lyris sabia. Não perguntou por que a palavra "dei
 
 — Prometo — Lyris repetiu, e naquele momento, fez algo que raramente fazia em suas décadas de serviço à Ordem: uma promessa que não era estratégica, que não servia a um objetivo maior, que não era dada por dever ou por lealdade a um superior. Uma promessa feita apenas porque uma criança com olhos grandes demais para seu rosto precisava acreditar que algo bom ainda podia acontecer.
 
-Grazielly deitou-se na cama sem se trocar, sem se arrumar, sem fazer qualquer uma das coisas que Lyris sugeriu. Fechou os olhos e deixou o escuro a cobrir como um cobertor que, ao contrário dos de verdade, não oferecia calor mas oferecia algo quase tão importante — a possibilidade, ainda que temporária, de não ver o mundo que a cercava.
+Um bater suave na porta interrompeu o silêncio entre elas.
 
-E enquanto o sono vinha — lento, relutante, como quem entra em água fria — ela pensou em Nyx, em Melessa, na casa de pedra, nos campos de Aethrys, no som dos Sylvaris ao vento. E fez uma promessa silenciosa a si mesma, uma promessa que carregaria pelos anos como uma semente enterrada no fundo do peito.
+— Grazielly? — A voz não era de Lyris. Era mais aguda, mais infantil, carregada de uma pressa que tentava disfarçar-se de gentileza. — É hora do jantar. Todo mundo já está lá embaixo.
 
-*Eu vou voltar por ele. Eu prometi.*
+Era Mira. A mesma menina que a havia recebido no portão com um sorriso quando tudo o que Grazielly queria era se esconder em um canto escuro — agora parada na porta com os cabelos desgrenhados e uma expressão que misturava preocupação genuína com a impaciência de quem não estava acostumada a esperar.
+
+Grazielly olhou para Lyris, que assentiu com um aceno quase imperceptível.
+
+— Vá — Lyris disse. — Você precisa comer. Eu vou ficar por aqui caso precise de mim.
+
+E Grazielly, que não queria comer, que não queria se levantar, que não queria fazer nada além de ficar ali naquele quarto e esperar que o mundo parasse de girar por um momento — se levantou. Não por vontade. Não por fome. Mas porque Mira estava ali, esperando, e porque a voz de Lyris carregava um peso que tornava difícil dizer não.
 
 ---
 
