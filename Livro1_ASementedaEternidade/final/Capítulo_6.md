@@ -128,7 +128,7 @@ Kira caminhava entre os grupos com a atenção de quem está fazendo uma contage
 
 — Vinte e sete, vinte e oito, vinte e nove — Kira murmurava para si mesma, os lábios se movendo sem emitir som. — Onde está...
 
-— Trinta — Mira disse, aparecendo ao lado de Kira com Grazielly a reboque — a menina menor segurando Nyx sob a capa como uma precious carga. — Todos presentes. Eu contei.
+— Trinta — Mira disse, aparecendo ao lado de Kira com Grazielly a reboque — a menina menor segurando Nyx sob a capa como um tesouro vivo. — Todos presentes. Eu contei.
 
 Kira olhou para Mira com uma sobrancelha erguida.
 
