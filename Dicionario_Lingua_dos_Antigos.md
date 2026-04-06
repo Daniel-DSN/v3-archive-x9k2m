@@ -63,7 +63,7 @@ Para a criação de novos termos, seguem os prefixos e sufixos fundamentais esta
 
 | Nome Comum | Nome Ancestral | Tradução Literal | Natureza Espiritual | Comportamento |
 |------------|----------------|------------------|---------------------|---------------|
-| **Liryth** | **Ur Lil** | "Besta do Vento" | Empático, leal, sensível | Forma laços vitalícios; orelhas captam sussurros |
+| **Lyrien** | **Ur Lil** | "Besta do Vento" | Empático, leal, sensível | Forma laços vitalícios; orelhas captam sussurros |
 
 ### Criaturas de Pastoreio e Montaria
 
@@ -159,7 +159,7 @@ A canção que Grazielly canta no enterro de Melessa pode conter fragmentos ance
 - **Gesh Lil** (Aeriva) no Orfanato Luminis
 
 ### Capítulo IV - O Resgate do Coração
-- **Ur Lil** (Liryth) - Nyx é resgatado
+- **Ur Lil** (Lyrien) - Nyx é resgatado
 - **Ur Ensi** (Assombra-pelos) no Bosque dos Sussurros
 - Manifestação Cryonys de Grazielly
 

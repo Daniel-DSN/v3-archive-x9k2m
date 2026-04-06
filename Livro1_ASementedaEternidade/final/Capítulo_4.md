@@ -241,7 +241,7 @@ A diretora do Orfanato Luminis era uma mulher cuja idade era difícil de determi
 
 — Ela dormiu? — Madre Elara perguntou, e a pergunta era simples, mas o tom não era — havia na voz da madre algo que era ao mesmo tempo pergunta e constatação, como se já soubesse a resposta mas quisesse confirmá-la com alguém que tivesse olhado mais de perto.
 
-— Dormiu — Lyris confirmou. — Mas não antes de dizer o nome de um Liryth que não está aqui.
+— Dormiu — Lyris confirmou. — Mas não antes de dizer o nome de um Lyrien que não está aqui.
 
 Madre Elara se aproximou da janela e olhou para o dormitório através da fresta da porta. Por um longo momento, observou Grazielly — a menina pequena encolhida sob o cobertor, os cabelos loiros espalhados no travesseiro, as mãos cerradas sobre o peito como se segurasse algo invisível.
 
@@ -249,9 +249,9 @@ Madre Elara se aproximou da janela e olhou para o dormitório através da fresta
 
 Lyris sabia que Madre Elara era perceptiva — era uma das razões pelas quais o Orfanato Luminis era o que era, um lugar que recebia crianças quebradas e devolvia ao mundo pessoas inteiras. A madre não fazia perguntas por curiosidade. Fazia perguntas porque as respostas ditavam o tipo de cuidado que cada criança precisava.
 
-— Ela deixou algo para trás — Lyris disse, escolhendo cada palavra com o cuidado de quem caminha em campo minado. — Não foi apenas a avó. Há um Liryth — um companheiro animal. Azul-escuro. Chamado Nyx. Ele ficou em Mespiria quando trouxemos Grazielly para cá.
+— Ela deixou algo para trás — Lyris disse, escolhendo cada palavra com o cuidado de quem caminha em campo minado. — Não foi apenas a avó. Há um Lyrien — um companheiro animal. Azul-escuro. Chamado Nyx. Ele ficou em Mespiria quando trouxemos Grazielly para cá.
 
-— Deixou um Liryth para trás? — Madre Elara repetiu, e algo em seu rosto mudou — não desapontamento, não surpresa, mas uma compreensão que vinha de décadas de experiência. — Lyris, crianças dessa idade não se separam de seus companheiros por vontade própria. Um Liryth não é um animal de estimação — é parte da criança. Separar os dois é como arrancar uma metade do peito e esperar que a outra metade continue respirando como se nada tivesse acontecido.
+— Deixou um Lyrien para trás? — Madre Elara repetiu, e algo em seu rosto mudou — não desapontamento, não surpresa, mas uma compreensão que vinha de décadas de experiência. — Lyris, crianças dessa idade não se separam de seus companheiros por vontade própria. Um Lyrien não é um animal de estimação — é parte da criança. Separar os dois é como arrancar uma metade do peito e esperar que a outra metade continue respirando como se nada tivesse acontecido.
 
 Lyris não respondeu imediatamente. Havia verdade nas palavras da madre — uma verdade que ela já conhecia, que já sentia cada vez que olhava para Grazielly e via o espaço vazio onde Nyx deveria estar.
 

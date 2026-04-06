@@ -56,7 +56,7 @@ Mira, que já havia feito o Ciclo de Viagem duas vezes e que portanto carregava 
 
 — O vento de Sylvaris nunca para inteiramente — Mira disse, e havia algo na sua voz — uma fé infantil, inabalável — que fez Grazielly sentir que estava seguro. — E mesmo que parasse, os cristais têm energia suficiente para nos levar até o próximo ponto de parada. Os Timoneiros sabem o que fazem.
 
-Grazielly olhou para Nyx, que observava os Veleiros com as orelhas grandes erguidas, girando na direção de cada novo som — o zumbido dos cristais, o rangido da madeira, as vozes das crianças que já começavam a embarcar. O Liryth parecia nervoso, mas não com medo — com aquela curiosidade alerta que o fazia captar os sussurros do mundo e processá-los de formas que Grazielly, mesmo com o vínculo profundo que compartilhavam, nem sempre compreendia.
+Grazielly olhou para Nyx, que observava os Veleiros com as orelhas grandes erguidas, girando na direção de cada novo som — o zumbido dos cristais, o rangido da madeira, as vozes das crianças que já começavam a embarcar. O Lyrien parecia nervoso, mas não com medo — com aquela curiosidade alerta que o fazia captar os sussurros do mundo e processá-los de formas que Grazielly, mesmo com o vínculo profundo que compartilhavam, nem sempre compreendia.
 
 — Vai ficar bem — Grazielly sussurrou para ele, acariciando a pelagem prateada entre as orelhas. — Eu estou aqui.
 
@@ -70,7 +70,7 @@ Nyx chiou baixinho e se aninhou mais fundo contra o peito dela, como se aquela a
 
 O Veleiro designado ao grupo de Grazielly era o número dezessete — um dos maiores da frota, com capacidade para quarenta passageiros mais o Timoneiro e dois assistentes. Era também um dos mais antigos, com marcas de viagens anteriores gravadas na madeira do casco como cicatrizes que contavam histórias, e cheirava a uma mistura de cera de latão, lã armazenada e algo que Grazielly só conseguiu identificar como "aventura" — um cheiro composto de todos os lugares por onde aquele veículo já havia passado, todas as paisagens que já havia cruzado, todos os ventos que já havia cortado.
 
-Grazielly embarcou com Nyx escondido sob a capa azul — uma manobra que já havia sido combinada com Lyris e com a monitora do grupo, porque Liryths, embora fossem companheiros leais e inofensivos, tecnicamente não eram permitidos nas expedições do Ciclo de Viagem. A regra existia por razões práticas — animais podiam se assustar, se perder, criar confusão em grupos grandes de crianças —, mas Lyris havia argumentado, com a lógica implacável que a caracterizava, que separar Grazielly de Nyx após tudo o que a criança havia passado seria não apenas desnecessário, mas potencialmente prejudicial. Madre Elara havia cedido com um olhar que dizia: *desta vez. Só desta vez.*
+Grazielly embarcou com Nyx escondido sob a capa azul — uma manobra que já havia sido combinada com Lyris e com a monitora do grupo, porque Lyriens, embora fossem companheiros leais e inofensivos, tecnicamente não eram permitidos nas expedições do Ciclo de Viagem. A regra existia por razões práticas — animais podiam se assustar, se perder, criar confusão em grupos grandes de crianças —, mas Lyris havia argumentado, com a lógica implacável que a caracterizava, que separar Grazielly de Nyx após tudo o que a criança havia passado seria não apenas desnecessário, mas potencialmente prejudicial. Madre Elara havia cedido com um olhar que dizia: *desta vez. Só desta vez.*
 
 Mira embarcou logo atrás, arrastando sua sacola de viagem — consideravelmente maior do que a de Grazielly — com o entusiasmo de quem vai a um festival. Aos dez anos, com seus cabelos cacheados cor de ébano e olhos verdes que brilhavam de anticipation, Mira era a criança mais experiente do grupo em termos de viagens, e portanto uma espécie de guia informal para os menores. Ela já havia visto Thalendris, já havia provado peixe salgado dos cais, já havia ouvido as histórias dos pescadores que falavam de monstros marinhos nas profundezas do Mar de Lyria. E estava determinada a que Grazielly visse tudo com os mesmos olhos de maravilha que ela havia tido na primeira vez.
 
@@ -80,7 +80,7 @@ Tomas, um menino de sete anos com olhos castanhos como terracota e um sorriso f�
 
 — Grazielly — ele chamou sem tirar o nariz da janela. — Você sabe como os cristais fazem o Veleiro flutuar?
 
-— Não — Grazielly admitiu, sentando-se ao lado de Mira e acomodando Nyx no colo. A capa azul cobria o Liryth como uma tenda pequena, e de vez em quando um focinho prateado ou uma orelha grande emergia para investigar algum som novo antes de se recolher novamente.
+— Não — Grazielly admitiu, sentando-se ao lado de Mira e acomodando Nyx no colo. A capa azul cobria o Lyrien como uma tenda pequena, e de vez em quando um focinho prateado ou uma orelha grande emergia para investigar algum som novo antes de se recolher novamente.
 
 — Os cristais pulsam — Tomas disse, finalmente descolando o nariz da janela para virar-se para elas com a expressão de alguém prestes a compartilhar um segredo monumental. — Eles pulsam em uma frequência que combina com o vento. O Timoneiro ajusta a frequência, e o vento empurra o Veleiro para cima e para frente, como se fosse uma onda invisível. Eu perguntei para o Timoneiro do nosso Veleiro no ano passado, e ele explicou tudo. Ele até me deixou tocar na console.
 
@@ -202,7 +202,7 @@ Ninguém o seguiu. Ninguém disse nada.
 
 Mas Grazielly olhou para as costas de Dorian enquanto ele se afastava, e sentiu algo que não era piedade — a piedade, ela já havia aprendido com Lyris, era uma emoção que os outros não queriam receber. O que ela sentiu foi reconhecimento. Reconhecimento da dor de Dorian, sim — mas também reconhecimento de algo mais específico, mais sutil. A raiva de Dorian não era dirigida a eles, às crianças que contavam suas histórias ao redor da lanterna. Não era dirigida ao pai morto nem à mãe que partira. Era dirigida ao próprio mundo — a um sistema que valorizava apenas o brilho, que media as pessoas pela cor de sua afinidade, que deixava para trás aqueles que não se encaixavam no molde luminoso das Academias e dos Aga Uru.
 
-*A raiva dele não é sobre as pessoas que o abandonaram*, Grazielly pensou, acariciando Nyx sob a capa, sentindo o corpinho do Liryth tremer levemente contra o dela, como se ele também sentisse o que ela sentia. *É sobre um mundo que só vê valor em quem brilha. E ele não brilha. Então ele acha que não tem valor.*
+*A raiva dele não é sobre as pessoas que o abandonaram*, Grazielly pensou, acariciando Nyx sob a capa, sentindo o corpinho do Lyrien tremer levemente contra o dela, como se ele também sentisse o que ela sentia. *É sobre um mundo que só vê valor em quem brilha. E ele não brilha. Então ele acha que não tem valor.*
 
 Ela quis ir atrás de Dorian. Quis dizer-lhe algo — não sabia o quê, mas algo que fizesse aquela dor ser menor. Mas antes que pudesse se mover, a mão de Mira em seu ombro a deteve.
 
@@ -262,7 +262,7 @@ O Vigilante condutor do Koramis que carregaria o grupo de Grazielly era uma mulh
 
 — Quatro por ave — ela explicou, ajudando as crianças a montar nas selas acolchoadas que ficavam entre as asas do Koramis. — Sentem-se aqui, segurem essas alças, e não se mexam durante o voo. A ave faz todo o trabalho. Vocês só precisam olhar e respirar.
 
-Grazielly montou com Mira, Tomas e uma menina mais nova que não conhecia. Nyx estava escondido dentro da capa, comprimido contra o peito dela, e Grazielly sentia o corpinho do Liryth tremendo — não de medo, mas de excitação, suas orelhas grandes captando cada som, cada sussurro de vento, cada batida de asa que se aproximava.
+Grazielly montou com Mira, Tomas e uma menina mais nova que não conhecia. Nyx estava escondido dentro da capa, comprimido contra o peito dela, e Grazielly sentia o corpinho do Lyrien tremendo — não de medo, mas de excitação, suas orelhas grandes captando cada som, cada sussurro de vento, cada batida de asa que se aproximava.
 
 E então o Koramis se moveu.
 
@@ -474,7 +474,7 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 | Nome | Idade | Função | Significado Narrativo |
 |------|------|--------|----------------------|
 | **Grazielly** | 5 anos | Órfã do Orfanato Luminis | Herdeira; manifestação instintiva de Cryonys |
-| **Nyx** | — | Liryth companheiro de Grazielly | Escondido sob a capa durante a viagem |
+| **Nyx** | — | Lyrien companheiro de Grazielly | Escondido sob a capa durante a viagem |
 | **Mira** | 10 anos | Melhor amiga de Grazielly | Guiá informal; afinidade Terra fraca |
 | **Tomas** | 7 anos | Amigo do orfanato | Afinidade Água fraca; sobrevivente de incêndio |
 | **Kira** | 15 anos | Monitora júnior do grupo | **Sylentis**; protetora; primeiro voo em Koramis |
@@ -514,7 +514,7 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 
 | Criatura | Descrição |
 |----------|-----------|
-| **Liryth (Nyx)** | Mamífero pequeno, pelagem prateada, orelhas grandes; companheiro empático de Grazielly |
+| **Lyrien (Nyx)** | Mamífero pequeno, pelagem prateada, orelhas grandes; companheiro empático de Grazielly |
 | **Koramis** | Ave gigante de montaria; envergadura de ~10 Passos (~15m); penas cromáticas; domesticada há séculos; usada pelos Vigilantes |
 
 ### Eventos

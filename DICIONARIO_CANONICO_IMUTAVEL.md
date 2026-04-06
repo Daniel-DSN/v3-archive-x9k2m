@@ -1091,7 +1091,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 | Esfera Dyson | Manto Solar |
 | lobo/coruja/falcão | Urrak/Nyctara/Velatrix |
 | cavalo/elefante | Koramis/Terravox |
-| coelho/gato | Liryth/Nyxara |
+| coelho/gato | Lyrien/Nyxara |
 | segundo/metro/grama | Pulso/Passo/Semente |
 
 ## Nomes Consolidados

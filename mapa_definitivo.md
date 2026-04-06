@@ -641,7 +641,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 
 | Nome | Classificação | Características |
 |------|---------------|-----------------|
-| **Liryth** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, empático, leal |
+| **Lyrien** | Mamífero pequeno | Pelagem prateada, orelhas que captam sussurros do vento, empático, leal |
 | **Nariel** | Mamífero médio | Pelagem prateada, produtora de leite |
 | **Umbri** | Predador médio | Pelagem escura, sente medo das presas, camufla nas sombras |
 | **Sylari** | Inseto alado | Asas iridescentes, polinizadora |
@@ -761,7 +761,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 - ✅ **Ventania → Velantis** — Cidade do orfanato corrigida
 - ✅ **Orfanato das Asas → Orfanato Luminis** — Instituição renomeada
 - ✅ **Flora atualizada** — Aethrum-dourado→Aethrys, Pratafolha→Argentis, Trepadeiras-de-vento→Aeriva, Vagens-luminais→Lumiara, Flores-lua→Giralis
-- ✅ **Fauna atualizada** — Ventorro→Liryth, Capraluna→Nariel, Assombra-pelos→Umbri, Asas-de-veludo→Sylari, Lanchovozes→Ventis
+- ✅ **Fauna atualizada** — Ventorro→Lyrien, Capraluna→Nariel, Assombra-pelos→Umbri, Asas-de-veludo→Sylari, Lanchovozes→Ventis
 - ✅ **Tabela de termos proibidos** — Ajustada para nomenclatura canônica
 - ✅ **Ventus** — "Fundador espiritual de Sylvaris" atualizado
 - ✅ **Log de alterações 1.1.0** — "Ventania" removido das referências históricas
