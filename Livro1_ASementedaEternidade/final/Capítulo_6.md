@@ -26,7 +26,7 @@ Grazielly estava entre os que nunca haviam saído.
 
 Aos cinco anos — cinco anos completos agora, marcados pelo aniversário que trouxera o cristal de Sanctrum e o fulgor que ainda latejava sob sua pele como um segundo coração —, ela havia passado toda a sua vida dentro de um raio que não ultrapassava algumas dezenas de Passos. Mespiria, primeiro. O Bosque dos Sussurros, em um dia que preferia não lembrar. E o Orfanato Luminis, que se tornara seu universo inteiro. Agora, pela primeira vez, ela ia ver o que existia além das colinas.
 
-A esplanada de partida fervilhava de atividade como um formigueiro iluminado. Centenas de crianças se aglomeravam em grupos organizados por idade e por alas, carregando pequenas sacolas de viagem que continham o essencial — roupas de troca, um cobertor enrolado, algum lanche que a cozinha havia preparado com carinho. As vozes se misturavam em um coro de excitação e nervosismo, intercaladas pelos chamados dos monitores mais velhos que tentavam — com sucesso variável — manter algo que se parecesse com ordem. O ar cheirava a couro, a veluma, ao perfume adocicado das Aerélia que floresciam nos canteiros da esplanada, e a algo mais indefinível — a eletricidade da antecipação, o cheiro que a esperança teria se pudesse ser enlatado.
+A esplanada de partida fervilhava de atividade como um formigueiro iluminado. Centenas de crianças se aglomeravam em grupos organizados por idade e por alas, carregando pequenas sacolas de viagem que continham o essencial — roupas de troca, um cobertor enrolado, algum lanche que a cozinha havia preparado com carinho. As vozes se misturavam em um coro de excitação e nervosismo, intercaladas pelos chamados dos monitores mais velhos que tentavam — com sucesso variável — manter algo que se parecesse com ordem. O ar cheirava a couro, a veluma, ao perfume adocicado das Aerélias que floresciam nos canteiros da esplanada, e a algo mais indefinível — a eletricidade da antecipação, o cheiro que a esperança teria se pudesse ser enlatado.
 
 E no centro daquela efervescência, imponente e calma como uma rocha no meio de um rio, Luminara Elara observava tudo.
 
@@ -322,7 +322,7 @@ Um frio intenso emanou das mãos de Grazielly — não o frio gradual, controlad
 
 A frequência do cristal oscilou. Estabilizou-se. E então pulsou — uma única emissão de energia Aethra que se espalhou pelo ar como uma onda de choque invisível, atingindo o mercenário que se aproximava de Tomas e o arremessando para trás com uma força desproporcional ao evento aparente.
 
-O mercenário caiu no chão dos cais. O Espelho de Eco escapou de sua mão e rolou até a beira do cais, caindo na água com um plash silencioso.
+O mercenário caiu no chão dos cais. O Espelho de Eco escapou de sua mão e rolou até a beira do cais, caindo na água com um baque surdo na água.
 
 Para os Vigilantes e para a maioria das crianças, o incidente pareceu uma falha técnica — uma descarga acidental do cristal de um Veleiro que havia se desestabilizado por algum motivo. Os Vigilantes correram para verificar o Veleiro e para ajudar o homem caído, que se levantou com gemidos de dor e murmurou desculpas que ninguém ouviu direito. O grupo de falsos Desprovidos se dispersou rapidamente, fundindo-se com a multidão dos cais como gotas de chuva em um rio.
 
@@ -348,7 +348,7 @@ O pulso de energia Aethra que Grazielly havia involuntariamente gerado — a ond
 
 *Eles encontraram o que procuravam*, Lyris pensou, e uma frieza que não tinha nada a ver com o Cryonys de Grazielly se instalou em seus ossos. *Eles registraram a assinatura da Herdeira.*
 
-Kira chegou ao lado delas, seus olhos âmbar vasculhando o rosto de Grazielly com uma atenção que era mais do que preocupação maternal.
+Kira chegou ao lado delas, seus olhos âmbar vasculhando o rosto de Grazielly com uma atenção que era mais do que preocupação protetora.
 
 — O que aconteceu? — Kira perguntou, sua voz firme mas baixa. — Eu vi o homem cair. Vi o cristal do Veleiro piscar. Vi você olhar para as mãos como se...
 
@@ -378,7 +378,7 @@ Seus olhos eram escuros e afiados como lâminas de obsidiana, e enquanto percorr
 
 Selina havia passado os últimos três meses compilando relatórios de transferências de órfãos — não os relatórios oficiais, que eram impecáveis em sua burocracia e vazios em sua substância, mas os relatórios reais, os que existiam nas entrelinhas dos números e nas discrepâncias que outros olhos não percebiam. E o que ela encontrara não era bonito.
 
-Os relatórios provinham de Vethran Noll — um burocrata de médio escavelumao em Sanctrum, o tipo de funcionário que existia em toda estrutura governamental: eficiente o bastante para não ser demitido, insignificante o bastante para não ser notado, e posicionado em exatamente o lugar certo para ter acesso a informações que não deveria ter. Vethran Noll era responsável por autorizar e registrar as transferências de órfãos entre o Orfanato Luminis e as Academias Elementais dos sete reinos — uma função que parecia tediosa e irrelevante, mas que, na verdade, era um dos nós mais sensíveis da rede de proteção infantil de Nova Aetherion.
+Os relatórios provinham de Vethran Noll — um burocrata de médio escalão em Sanctrum, o tipo de funcionário que existia em toda estrutura governamental: eficiente o bastante para não ser demitido, insignificante o bastante para não ser notado, e posicionado em exatamente o lugar certo para ter acesso a informações que não deveria ter. Vethran Noll era responsável por autorizar e registrar as transferências de órfãos entre o Orfanato Luminis e as Academias Elementais dos sete reinos — uma função que parecia tediosa e irrelevante, mas que, na verdade, era um dos nós mais sensíveis da rede de proteção infantil de Nova Aetherion.
 
 E era nos relatórios de Vethran Noll que Selina havia encontrado as cargas fantasmas.
 
@@ -402,7 +402,7 @@ O relatório mais recente de Vethran Noll mencionava uma transferência pendente
 
 *A academia não existe*, Selina pensou, e suas mãos, que haviam permanecido firmes durante horas de análise, começaram a tremer levemente. *Eles estão criando academias fantasmas para justificar transferências de crianças que não chegam a lugar nenhum.*
 
-E a peça final do quebra-cabeça se encaixou quando Selina rastreou a origem do documento — não até Vethran Noll, que era apenas o intermediário, mas até a fonte que havia fornecido as instruções para que Noll preenchesse o registro. A fonte era um escritório no Palácio de Cristal — um escritório que pertencia a um funcionário de alto escavelumao cujo nome, quando Selina o leu, fez seu coração parar por um Pulso inteiro.
+E a peça final do quebra-cabeça se encaixou quando Selina rastreou a origem do documento — não até Vethran Noll, que era apenas o intermediário, mas até a fonte que havia fornecido as instruções para que Noll preenchesse o registro. A fonte era um escritório no Palácio de Cristal — um escritório que pertencia a um funcionário de alto escalão cujo nome, quando Selina o leu, fez seu coração parar por um Pulso inteiro.
 
 Thaloris Ventaris.
 
@@ -432,7 +432,7 @@ Ela selou a carta com um símbolo que não pertencia a nenhuma organização ofi
 
 A carta partiria antes do amanhecer, transportada por um mensageiro que não existia em nenhum registro oficial, para um destinatário que não aparecia em nenhum censo — Lyris, a ex-agente que vigiava uma criança que não sabia que era a peça mais importante de um tabuleiro cujo jogo estava apenas começando.
 
-E enquanto Selina apagava a lâmpada Aetheris e deixava a câmara subterrânea em escuridão, ela permitiu-se um momento de algo que não era medo — era reconhecimento. Reconhecimento de que as sombras eram mais profundas do que qualquer um imaginava. Reconhecimento de que as forças que se moviam nas profundezas de Nova Aetherion não eram caóticas nem desorganizadas — eram coordenadas, paciente, e mais perto do que qualquer um queria admitir.
+E enquanto Selina apagava a lâmpada Aetheris e deixava a câmara subterrânea em escuridão, ela permitiu-se um momento de algo que não era medo — era reconhecimento. Reconhecimento de que as sombras eram mais profundas do que qualquer um imaginava. Reconhecimento de que as forças que se moviam nas profundezas de Nova Aetherion não eram caóticas nem desorganizadas — eram coordenadas, pacientes, e mais perto do que qualquer um queria admitir.
 
 E reconhecimento, acima de tudo, de que o tempo estava acabando.
 
@@ -475,7 +475,7 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 |------|------|--------|----------------------|
 | **Grazielly** | 5 anos | Órfã do Orfanato Luminis | Herdeira; manifestação instintiva de Cryonys |
 | **Nyx** | — | Lyrien companheiro de Grazielly | Escondido sob a capa durante a viagem |
-| **Mira** | 10 anos | Melhor amiga de Grazielly | Guiá informal; afinidade Terra fraca |
+| **Mira** | 10 anos | Melhor amiga de Grazielly | Guia informal; afinidade Terra fraca |
 | **Tomas** | 7 anos | Amigo do orfanato | Afinidade Água fraca; sobrevivente de incêndio |
 | **Kira** | 15 anos | Monitora júnior do grupo | **Sylentis**; protetora; primeiro voo em Koramis |
 | **Dorian** | 12 anos | Criança isolada do orfanato | **Sylentis**; raiva contida; filho de mercenário |
@@ -508,7 +508,7 @@ E o final — a assinatura capturada, a carta cifrada, a convergência de linhas
 | **Desprovidos** | Termo para pessoas sem poder Aethra; usado como disfarce por mercenários |
 | **Cargas Fantasmas** | Registros de crianças transferidas para academias inexistentes; rastro burocrático de sequestro |
 | **Thaloris Ventaris** | Nobre de Sanctrum; arquiteto do tráfico de talentos; aliado de forças das profundezas |
-| **Vethran Noll** | Burocrata de médio escavelumao em Sanctrum; registra transferências fantasma |
+| **Vethran Noll** | Burocrata de médio escalão em Sanctrum; registra transferências fantasma |
 
 ### Criaturas
 
