@@ -454,6 +454,12 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Ativação da RRA** | Primeiro sinal transmitido; cristal de Grazielly pulsa em resposta; eco de Aethra conecta pai e filha |
 | **Detecção de frequência de Umbra** | Refratores captam sinal do norte durante a ativação da RRA; confirma vigilância do inimigo |
 
+### Criaturas
+
+| Criatura | Descrição |
+|----------|-----------|
+| *Nenhuma criatura nova formalmente introduzida neste capítulo* | Este capítulo é focado em espionagem, política e tecnologia; referências indiretas a Lyriens (Nyx) e Koramis de capítulos anteriores |
+
 ### Conceitos e Tecnologias
 
 | Conceito | Descrição |
@@ -462,6 +468,17 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Cortina de Energia Etérica** | Barreira invisível na janela do Solar; filtra tudo que entra e sai |
 | **Assinatura Etérica** | Impressão energética única de cada ser vivo ou fonte de energia etérica; rastreável pelos Refratores |
 | **Triangulação de Transmissão** | Técnica que usa 3+ Ressoadores para localizar a origem de transmissões na frequência de Aurion |
+
+### Linha do Tempo
+
+| Momento | Evento |
+|---------|--------|
+| **Após o Ciclo de Viagem** | Selina analisa dados da Frequência de Desaparecimento; 14 crianças sequestradas em 7 ciclos |
+| **Câmara dos Sussurros** | Sabatina com Sentinela de Fronteira de Sylvaris; revelação da operação de sequestro sistemático |
+| **Solar do En Me** | Confronto Selina vs. Aurelius sobre o cristal dourado; interrompido pelo Nin Aga |
+| **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |
+| **Laboratório de Engenharia Etérica** | Selina descobre os Refratores de Aurion e a RRA; solicita Ressoador para Cidadela Luminis |
+| **Primeira ativação da RRA** | Sinal transmitido; cristal de Grazielly pulsa em Velantis; frequência de Umbra detectada simultaneamente |
 
 ---
 
@@ -480,3 +497,7 @@ E Grazielly — que sentiu o eco como amor e promessa — começará a aprender,
 *As peças avançam no tabuleiro. O Olho vê tudo. O silêncio fala. E no centro de tudo, uma criança segura um cristal que pulsa em sincronia com o coração do mundo.*
 
 *— O Arquivista-Mestre de Aetherion*
+
+---
+
+**Ao leitor:** Se até agora você acompanhava a jornada de Grazielly pelos olhos de uma criança que descobre o mundo, este capítulo convida você a olhar por cima dos ombros daqueles que movem as peças no tabuleiro — e perceber que o jogo é muito mais complexo e perigoso do que qualquer muro de orfanato poderia sugerir. Selina Thalassa não é uma heroína nem uma vilã: é uma mente que enxerga padrões onde outros veem caos, e que carrega o peso de saber que cada decisão sua afeta vidas que ela nunca conhecerá pessoalmente. O cristal de Grazielly pulsou, e no silêncio entre um pulso e outro, duas verdades se revelaram: que o amor de um pai pode atravessar distâncias impossíveis, e que há olhos nas sombras que sabem exatamente onde procurar.

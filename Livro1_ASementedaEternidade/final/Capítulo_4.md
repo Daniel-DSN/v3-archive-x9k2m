@@ -367,39 +367,129 @@ E mostraria àquela criança uma última peça do mundo que ela havia perdido.
 
 ---
 
-**[CONTINUA NO CAPÍTULO V — O PRESENTE DAS ESTRELAS...]**
+**[FIM DO CAPÍTULO IV]**
 
 ---
 
+Grazielly chegou ao Orfanato Luminis carregando o peso de uma perda devastadora — a avó Melessa havia partido, e o Lyrien Nyx ficara para trás em Mespiria, sob a neve. Sua primeira noite foi marcada pelo silêncio e pela dor, mas também pelos primeiros gestos de acolhimento: Mira, a menina de oito anos que a recebeu com um sorriso insistente, levou-a ao jantar e a um tour pelo orfanato. Na biblioteca, Mirella contou a história de Ventus, o último dos Seraphyens, e Grazielly sentiu uma conexão profunda e inexplicável com aquele nome — um reconhecimento que vinha de algo mais antigo que a própria memória. Enquanto isso, Lyris observava da sala ao lado, e em uma conversa com Luminara Elara, a diretora do orfanato, revelou a separação forçada entre Grazielly e Nyx. Elara, com a sabedoria de décadas cuidando de crianças partidas, prometeu proteger a menina até que as estradas reabrissem. Na primeira manhã, Grazielly encontrou no jardim a estátua de Ventus — e uma Sylari pousou em seu ombro como se o próprio vento quisesse lhe dizer que ela não estava sozinha.
+
+*"Quando tudo o que conhecemos desaparece, restam duas escolhas: construir algo novo sobre as cinzas ou deixar que o vento leve o que sobrou."*
+
+— Mirella, narradora do Orfanato Luminis
+
 ---
 
-*No próximo capítulo: A primavera chega a Velantis, e com ela a promessa de Grazielly de voltar a Mespiria. Mas o destino tem seus próprios planos — e o Lyrien azul-escuro que ela deixou para trás carrega dentro de si um segredo que nem mesmo Melessa conhecia. No orfanato, Lyris observa enquanto os dons de Grazielly começam a se manifestar de formas que ninguém poderia prever. E nas sombras, os olhos que a observam se multiplicam.*
+## 📜 Nota para o Leitor
+
+Caro leitor,
+
+Este capítulo é, em essência, um capítulo sobre pertencimento — ou melhor, sobre a busca por pertencimento depois de ter perdido tudo. Grazielly tem quatro anos. Perdeu a avó que era seu único mundo. Deixou para trás o Lyrien que era parte de si mesma. E chegou a um lugar desconhecido, cheio de ruídos e de rostos estranhos, onde tudo — do jantar coletivo à hora das histórias — era uma lembrança constante de que sua vida anterior havia acabado.
+
+E ainda assim, há beleza aqui. A sopa de Lumiara que, contra toda expectativa, consegue ser reconfortante. O berçário onde Grazielly toca a mão de Liora — uma bebé encontrada na porta do orfanato numa madrugada de inverno — e sente algo se afrouar dentro do peito. Mira, com sua impaciência gentil e sua capacidade de transformar solidão em companhia. O desenho misterioso na parede da sala de arte — uma menina de mãos brilhantes cercada por criaturas aladas, com um pássaro azul-escuro no topo de uma árvore — que ninguém se lembra de ter feito.
+
+E há Lyris. A guardiã que faz uma promessa não estratégica, não calculada, mas genuína — de que voltará a Mespiria para buscar Nyx. Esta é, talvez, a revelação mais importante do capítulo: Lyris, que em capítulos anteriores nos foi apresentada como uma agente fria e metódica, revela aqui sua humanidade. Sua conversa com Luminara Elara é um dos momentos mais delicados da narrativa — duas mulheres que dedicaram suas vidas a proteger os outros, reconhecendo em Grazielly algo que vai além de uma missão.
+
+A história de Ventus, contada por Mirella, é o fio que costura o capítulo. Ela não é apenas uma lenda — é uma promessa. O vento de Sylvaris não esquece ninguém. E quando um sopro morno atravessa a janela da biblioteca no meio de uma nevasca e toca o rosto de Grazielly, o leitor é convidado a acreditar que essa promessa é real.
+
+As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu tudo está aprendendo, devagar e com dor, que é possível construir algo novo sobre as cinzas.
 
 ---
 
 ## 📖 Glossário do Capítulo
 
-### Personagens Introduzidos/Desenvolvidos:
+### Personagens
 
-| Nome | Função | Status |
-|------|--------|--------|
-| **Grazielly** | Protagonista; filha secreta de Aurelius e Ayla | 4 anos (no Orfanato Luminis) |
-| **Lyris (Nyctara)** | Guardiã de Grazielly; agente da Ordem | Viva (Velantis) |
-| **Mira** | Amiga de Grazielly, 8-9 anos | Viva (Orfanato Luminis) |
-| **Luminara Elara** | Diretora do Orfanato Luminis | Viva |
-| **Nyx (Lyrien)** | Companheiro animal de Grazielly | Vivo (Mespiria — esperando seu retorno) |
-| **Melessa** | Avó adotiva de Grazielly (mencionada) | Falecida |
+| Nome | Idade | Função | Significado Narrativo |
+|------|------|--------|----------------------|
+| **Grazielly** | 4 anos | Órfã recém-chegada ao Orfanato Luminis | Herdeira; primeira conexão profunda com Ventus; separada de Nyx |
+| **Lyris (Nyctara)** | — | Guardiã de Grazielly; agente da Ordem | Faz promessa pessoal de buscar Nyx; revela humanidade |
+| **Mira** | ~8 anos | Primeira amiga de Grazielly no orfanato | Guia acolhedora; afinidade Terra fraca; quebra o isolamento de Grazielly |
+| **Luminara Elara** | — | Diretora do Orfanato Luminis | Décadas de experiência; percebe a gravidade da separação Nyx-Grazielly |
+| **Nyx (Lyrien)** | — | Companheiro animal de Grazielly | Vivo em Mespiria, esperando retorno; presença ausente que domina o capítulo |
+| **Melessa** | — | Avó adotiva de Grazielly | Falecida; mencionada na dor de Grazielly e no sonho |
+| **Mirella** | — | Narradora do orfanato | Conta a história de Ventus; voz que desperta reconhecimento em Grazielly |
+| **Liora** | Recém-nascida | Bebé do berçário | Encontrada na porta do orfanato; símbolo de acolhimento |
+| **Dona Théria** | — | Cozinheira do orfanato | Prepara a sopa de Lumiara que reconforta Grazielly |
+| **Thalia** | — | Agente que providenciou roupas para Grazielly | Mencionada indiretamente |
 
-### Locais:
+### Locais
 
-| Local | Descrição |
+| Local | Região | Descrição |
+|-------|--------|-----------|
+| **Orfanato Luminis** | Velantis, Sylvaris | Refúgio para crianças órfãs; novo lar de Grazielly |
+| **Velantis** | Sudoeste de Sylvaris | Cidade sob nevasca; murais, jardins e a estátua de Ventus |
+| **Mespiria** | Interior de Sylvaris | Vila natal de Grazielly; Nyx ainda está lá, na casa de pedra |
+| **Berçário (Luminis)** | Interior do orfanato | Sala iluminada por Giralis; seis berços; onde Liora dorme |
+| **Sala de Desenhos** | Interior do orfanato | Galerias de arte infantil; o misterioso desenho da menina brilhante |
+| **Biblioteca do Orfanato** | Interior do orfanato | Estantes do chão ao teto; hora das histórias com Mirella |
+| **Jardim / Estátua de Ventus** | Exterior do orfanato | Estátua de pedra do último Seraphyen; Sylari pousa ali |
+
+### Termos Introduzidos
+
+| Termo | Definição |
 |-------|-----------|
-| **Orfanato Luminis** | Refúgio para crianças em Velantis; novo lar de Grazielly |
-| **Velantis** | Cidade no sudoeste de Sylvaris |
-| **Mespiria** | Vila natal de Grazielly; Nyx ainda está lá |
+| **Lyrien** | Companheiro animal empático; vínculo profundo com a criança; parte essencial de quem ela é |
+| **Sylari** | Insetos alados translúcidos; asas iridescentes; vivem na fronteira entre material e etéreo |
+| **Ventus** | O último dos dez Seraphyens guardiões; fundou Sylvaris com seu último ato de amor; dissipou-se no vento |
+| **Seraphyens** | Seres alados primordiais; dez guardiões que protegiam o mundo; caíram um a um durante a guerra |
+| **Giralis** | Flores bioluminescentes; pétalas prateadas usadas para iluminação e extração de cor |
+| **Veluma** | Tecido quente usado em cobertores e roupas; material comum em Sylvaris |
+| **Aeriva** | Plantas com folhas que tremulam com a brisa; usadas como decoração nas paredes |
+| **Aethrys** | Grãos dourados; planta de campos que alimenta o reino; símbolo de Sylvaris |
+| **Lumiara** | Legumes bioluminescentes; base da sopa servida no orfanato |
+| **Mirael** | Temperito aromático ralado; adicionado à sopa por Dona Théria |
+| **Cristal Aetheris** | Cristais que emitem luz dourada; usados em velas, lanternas e suportes |
+| **Pulsos** | Unidade de tempo em Aetherion; equivalente a alguns minutos |
+| **Giran** | Tecido grosso usado em calças; material resistente para o frio |
+| **Velrok** | Provisão de viagem mencionada por Luminara Elara |
+
+### Criaturas
+
+| Criatura | Descrição |
+|----------|-----------|
+| **Lyrien (Nyx)** | Companheiro animal de Grazielly; azul-escuro; deixado em Mespiria; chiado como saudação |
+| **Sylari** | Inseto alado pequeno; asas translúcidas iridescentes; pousou no ombro da estátua de Ventus |
+| **Thaluris** | Peixes alados de escamas prateadas; originários de Thalassia; alimentados por crianças no lago do orfanato |
+| **Ventus** | O último Seraphyen; ser primordial alado; fundador de Sylvaris; dissipou-se no vento |
+
+### Eventos
+
+| Evento | Significado |
+|--------|-------------|
+| **Chegada ao Orfanato** | Grazielly chega após a morte de Melessa; separada de Nyx pela nevasca |
+| **Primeiro jantar** | Mira convence Grazielly a comer; sopa de Lumiara como primeiro conforto |
+| **Tour pelo Luminis** | Berçário (encontro com Liora) e sala de desenhos (o misterioso desenho profético) |
+| **Hora das Histórias** | Mirella conta a lenda de Ventus; Grazielly sente reconhecimento instintivo; sopro de vento no rosto |
+| **Primeira noite** | Sonho com Melessa, Ayla e uma figura masculina (pai?); primeiro sono descansado |
+| **Conversa Lyris–Elara** | Lyris revela a separação de Nyx; Elara promete proteger Grazielly |
+| **Primeira manhã** | Grazielly desperta; explora o jardim; encontra a estátua de Ventus |
+| **Encontro com a Sylari** | Sylari pousa na estátua e parte; Grazielly sente conexão com Ventus |
+
+### Linha do Tempo
+
+| Momento | Evento |
+|---------|--------|
+| **4 anos (inverno — noite)** | Chegada ao Orfanato Luminis; primeira noite; jantar com Mira |
+| **4 anos (inverno — noite)** | Tour pelo berçário e sala de desenhos; encontro com Liora |
+| **4 anos (inverno — noite)** | Hora das histórias: lenda de Ventus; sopro morno no rosto de Grazielly |
+| **4 anos (inverno — madrugada)** | Sonho com Melessa, Ayla e figura masculina; primeiro sono profundo |
+| **4 anos (inverno — noite, simultâneo)** | Lyris observa Grazielly; conversa com Luminara Elara sobre Nyx |
+| **4 anos (inverno — manhã seguinte)** | Primeira manhã; jardim sob neve; estátua de Ventus; Sylari |
 
 ---
 
-*No orfanato, uma menina que brilha começa a encontrar seu lugar no mundo. E o vento de Sylvaris, que testemunhou seu nascimento, agora observa seus primeiros passos em uma nova jornada.*
+## 🔮 Previsão: Próximo Capítulo
+
+No próximo capítulo, o inverno começará a ceder — e com ele, a promessa de Lyris de levar Grazielly de volta a Mespiria para buscar Nyx. Mas o Lyrien azul-escuro que espera sozinho na casa de pedra sob a neve carrega dentro de si um segredo que nem mesmo Melessa conhecia. Enquanto Grazielly se adapta à rotina do orfanato, seus dons começarão a se manifestar de formas sutis — um frio inexplicável quando a emoção é forte, um brilho que lateja sob a pele — e Lyris perceberá que proteger a menina é mais complexo do que simplesmente mantê-la viva. E nas sombras, os olhos que observam desde o capítulo anterior começarão a se multiplicar.
+
+*"Quando o inverno termina e as estradas se abrem, nem todas as promessas podem ser cumpridas da forma como foram feitas. Às vezes, o que encontramos no caminho de volta é mais transformador do que aquilo que deixamos para trás."*
+
+---
+
+*Obrigado por acompanhar esta jornada. As sementes estão sendo plantadas no solo mais improvável — um orfanato cheio de crianças partidas, onde uma menina de quatro anos está aprendendo que pertencer não é perder quem se foi, mas encontrar espaço para quem ainda está por vir.*
 
 *— O Arquivista-Mestre de Aetherion*
+
+---
+
+**Ao leitor:** Se o seu coração apertou quando Grazielly sussurrou "Eu vou te encontrar, Nyx" diante da estátua de Ventus, se você sentiu o peso daquele cobertor quente que alguém colocou na cama de uma criança que acabara de perder tudo, se reconheceu no sorriso insistente de Mira a coragem silenciosa de quem decide que ninguém deve enfrentar a escuridão sozinho — saiba que este é o capítulo mais gentil de toda a jornada. Mas a gentileza, em Aetherion, nunca dura para sempre. O inverno vai passar. As estradas vão se abrir. E o que Grazielly encontrar quando voltar a Mespiria mudará tudo.

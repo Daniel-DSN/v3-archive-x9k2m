@@ -550,3 +550,116 @@ Grazielly reencontrou seu Lyrien, leu as últimas palavras de Melessa e viu seu 
 — Lyris, ex-agente da Ordem dos Mestres, em relatório confidencial ao Guardião Mestre
 
 ---
+
+## 📜 Nota para o Leitor
+
+Caro leitor,
+
+Este é o capítulo das promessas cumpridas e das que ainda aguardam. É aqui que Grazielly reencontra Nyx — o Lyrien prateado que havia deixado para trás na pressa da partida, e que sobreviveu ao inverno graças ao último ato de cuidado de Melessa. É aqui que a Caixa "Depois" revela não apenas um pingente com o selo de Sanctrum, mas a carta que Melessa escreveu com as últimas forças de quem sabia que não estaria mais ali para segurar a mão de sua neta.
+
+A carta de Melessa é o coração emocional deste capítulo — e talvez de todo o Livro I. Cada palavra foi escrita por uma mulher que sabia que estava morrendo, mas que escolheu transformar sua despedida em um ato de amor. Não há auto-piedade, não há pedido de compaixão — apenas a certeza inabalável de que o amor sobrevive à morte, e que Grazielly carrega dentro de si algo que nenhum período de escuridão poderá apagar.
+
+A manifestação Cryonys — as flores de gelo que surgiram nas mãos de Grazielly durante o funeral simbólico de Melessa — marca o despertar do poder que a define como Herdeira. Não foi uma explosão dramática, mas algo mais sutil e mais profundo: cristais formando-se ao redor de cada lágrima que escorria por seu rosto, como se o próprio Cryonys estivesse respondendo à dor com beleza.
+
+E no dia em que completa cinco anos, Grazielly recebe um presente de um pai que não conhece — um cristal Aetheris com luz dourada que pulsa como um coração —, uma festa que a faz sentir pertencente pela primeira vez desde que perdeu tudo, e a confirmação de que, mesmo depois da maior dor, é possível ser feliz de novo.
+
+---
+
+## 📖 Glossário do Capítulo
+
+### Personagens
+
+| Nome | Idade | Função | Significado Narrativo |
+|------|------|--------|----------------------|
+| **Grazielly** | 4→5 anos | Órfã do Orfanato Luminis; Herdeira | Completa 5 anos; manifestação Cryonys; recebe cristal de Aurion |
+| **Nyx** | — | Lyrien companheiro de Grazielly | Resgatado em Mespiria após semanas sozinho; enfraquecido mas vivo |
+| **Lyris (Nyctara)** | — | Guardiã de Grazielly; ex-agente da Ordem | Cumpre promessa de buscar Nyx; observa manifestação Cryonys |
+| **Mira** | 10 anos | Melhor amiga de Grazielly | Afinidade Terra fraca; apoia Grazielly emocionalmente |
+| **Luminara Elara** | — | Diretora do Orfanato Luminis | Autoriza viagem a Mespiria; protege "sua criança" |
+| **Thalia** | — | Voluntária do Orfanato Luminis | Providencia roupas de viagem para Grazielly |
+| **Nin Aga Soren** | — | Comandante militar de Velantis | Designa escolta para a viagem a Mespiria |
+| **Torvas** | — | Líder da Nu Bandi | Guia experiente na rota Velantis-Mespiria |
+| **Melessa** | (falecida) | Avó adotiva de Grazielly | Carta póstuma; Caixa "Depois"; escondejo para Nyx; pingente com selo de Sanctrum |
+
+### Locais
+
+| Local | Região | Descrição |
+|-------|--------|-----------|
+| **Orfanato Luminis** | Velantis, Sylvaris | Novo lar de Grazielly; prédio principal com dormitórios, biblioteca e refeitório |
+| **Cidadela Luminis** | Velantis, Sylvaris | Complexo fortificado que abriga o orfanato; três Sinalizadores de Aethra nos portões |
+| **Estrada Velantis–Mespiria** | Sylvaris | Caminho de terra através das colinas de Aethrys e bosques de Argentis; ~5 Passos de viagem |
+| **Mespiria** | Subúrbio de Velantis | Vila natal de Grazielly; casa de pedra de Melessa; pracinça central; poço comunitário |
+| **Casa de Melessa** | Mespiria | Residência de pedra com fornalha fria, cadeira de balanço, vaso de Giralis na porta; esconderijo de Nyx sob o assoalho; Caixa "Depois" em reentrância secreta |
+
+### Termos Introduzidos
+
+| Termo | Definição |
+|-------|-----------|
+| **Nu Bandi** | Unidade de elite da cavalaria de Sylvaris; designada para escoltas e patrulhas de fronteira; liderada por um comandante experiente |
+| **Nin Aga Soren** | Comandante militar de Velantis; autoridade sobre as forças que protegem a região sudoeste de Sylvaris |
+| **Sinalizador de Aethra** | Esfera de cristal posicionada nos portões de acesso à Cidadela Luminis; pulsa ao detectar a assinatura etérica de quem passa, registrando-a em silêncio |
+| **Cryonys** | Afinidade elemental de Grazielly; poder de gelo e cristal; manifesta-se como flores de gelo que se formam nas mãos e ao redor de lágrimas; despertou durante momento de emoção intensa |
+| **Caixa "Depois"** | Caixa de madeira clara com dobradiça de ferro; gravada com a palavra "Depois" na caligrafia de Melessa; continha um pingente com o selo de Sanctrum e a carta póstuma de Melessa |
+| **Selo de Sanctrum** | Símbolo gravado em um pingente negro encontrado na Caixa "Depois"; conexão ainda não explicada com a linhagem de Grazielly e Melessa |
+
+### Criaturas
+
+| Criatura | Descrição |
+|----------|-----------|
+| **Lyrien (Nyx)** | Mamífero pequeno, pelagem prateada, orelhas grandes e expressivas, olhos dourados; companheiro inseparável de Grazielly; chiado como forma de comunicação; vínculo empático profundo com a criança |
+| **Velrok** | Montaria usada como transporte na viagem a Mespiria; usada pela escolta militar |
+
+### Eventos
+
+| Evento | Significado |
+|--------|-------------|
+| **Fim do inverno** | Degelo abre estradas para Mespiria após 32 dias de bloqueio |
+| **Permissão de Luminara Elara** | Viagem autorizada com exigências: escolta, retorno antes do anoitecer, responsabilidade total de Lyris |
+| **Grazielly ouve a conversa** | Criança descobre que irão buscar Nyx; abraça Lyris; surge esperança |
+| **Passagem pelo Sinalizador de Aethra** | O cristal pulsou ao detectar a assinatura de Grazielly; hesitação perceptível por Lyris |
+| **Retorno a Mespiria** | Grazielly reencontra a vila menor do que lembrava; perspectiva mudada |
+| **Resgate de Nyx** | Lyrien encontrado vivo em esconderijo preparado por Melessa sob o assoalho; enfraquecido mas recuperável |
+| **Descoberta da Caixa "Depois"** | Lyris encontra compartimento secreto no assoalho separado do esconderijo de Nyx |
+| **Pingente com selo de Sanctrum** | Objeto misterioso dentro da Caixa; implica conexão entre Melessa e Sanctrum |
+| **Carta de Melessa** | Texto póstumo endereçado "Para minha pequena estrela"; último ato de amor de uma avó moribunda |
+| **Manifestação Cryonys** | Flores de gelo surgem nas mãos de Grazielly durante o funeral simbólico; primeira manifestação documentada do poder da Herdeira |
+| **Aniversário de 5 anos** | Festa surpresa organizada por Mira, Thalia e Lyris |
+| **Cristal de Aurion** | Presente enviado por Aurelius (pai secreto); cristal Aetheris com luz dourada pulsante; entregue por um Dili |
+| **Dili** | Sentinela das torres de vigia; entregou o cristal a Lyris com instruções de sigilo |
+
+### Linha do Tempo
+
+| Momento | Evento |
+|---------|--------|
+| **32 dias após chegada ao orfanato** | Fim do inverno; Lyris solicita permissão para viagem a Mespiria |
+| **Início da primavera** | Viagem de volta com escolta (Nu Bandi + 2 Aga Uru + Torvas); passagem pelo Sinalizador de Aethra |
+| **Manhã** | Chegada a Mespiria; Grazielly reencontra a casa de Melessa |
+| **Manhã** | Resgate de Nyx do esconderijo sob o assoalho |
+| **Manhã** | Descoberta da Caixa "Depois" e do pingente com selo de Sanctrum |
+| **Manhã** | Leitura da Carta de Melessa |
+| **Manhã** | Manifestação Cryonys (flores de gelo nas mãos de Grazielly) |
+| **Anoitecer** | Retorno ao Orfanato Luminis antes do anoitecer |
+| **Dia do aniversário (5 anos)** | Festa surpresa; cristal de Aurion entregue pelo Dili |
+| **Após a festa** | Lyris recebe relatório de sentinela; Lyris formula observação sobre manifestação Cryonys |
+
+---
+
+## 🔮 Previsão: Próximo Capítulo
+
+No próximo capítulo, o mundo de Grazielly se expandirá de forma definitiva. O Ciclo de Viagem — tradição anual do Orfanato Luminis — levará grupos de crianças a conhecerem além dos muros da Cidadela Luminis pela primeira vez. Para Grazielly, será a primeira oportunidade de ver o vasto mundo que existe além das colinas de Aethrys e dos telhados de Velantis.
+
+Nova Aetherion se revelará em sua escala completa: os Veleiros de Estrada que flutuam sobre Trilhos de Vento como navios de cristal; as falésias brancas de Thalendis que despencam centenas de Passos até o Mar de Lyria; os Koramis — aves gigantescas de montaria cujas penas mudam de cor com a luz de Aurion. E os cais de uma cidade costeira onde o perigo se esconde sob a aparência de normalidade.
+
+Nas sombras, Selina Thalassa — uma das agentes de inteligência mais influentes de todo Nova Aetherion — começará a costurar os fios de uma conspiração que ameaça não apenas o orfanato, mas a própria fundação do poder em Nova Aetherion.
+
+*"O mundo é maior do que qualquer muro pode conter. E para quem nunca saiu, o primeiro passo além do portão é o mais difícil — e o mais transformador."*
+
+---
+
+*Este é o capítulo em que as promessas são cumpridas e novas promessas são feitas. E a criança que perdeu tudo descobriu que, mesmo na escuridão, ainda há luz — e que às vezes a luz mais forte é aquela que vem de dentro.*
+
+*— O Arquivista-Mestre de Aetherion*
+
+---
+
+**Ao leitor:** Se você chorou com a carta de Melessa — e muitos choram —, saiba que esse é exatamente o tipo de dor que este universo foi construído para carregar. Não há vilões nesta história que sejam mais cruéis do que o tempo e o destino, e não há heróis que sejam mais fortes do que aqueles que escolhem amar mesmo sabendo que vão perder. Grazielly perdeu a mãe que a trouxe ao mundo e a avó que a criou nele, mas recebeu algo que nem a escuridão consegue apagar: a certeza inabalável de que foi amada. E essa certeza, plantada no coração de uma criança de cinco anos por uma mulher que morreu sorrindo, é a semente mais poderosa de todas.

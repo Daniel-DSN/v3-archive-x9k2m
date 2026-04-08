@@ -300,11 +300,15 @@ E nas colinas douradas de Sylvaris, o vento soprou mais forte, carregando consig
 
 ---
 
-**[CONTINUA NO CAPÍTULO II...]**
+**[FIM DO CAPÍTULO I]**
 
 ---
 
-*No próximo capítulo: A Convergência Tripla finalmente acontece. Em Sanctrum, o guardião sente que algo está mudando. E em uma pequena vila chamada Mespiria, uma criança está prestes a nascer sob a luz de três luas que marcariam seu destino para sempre.*
+Ayla, uma mulher misteriosa com um passado de guerras e segredos, chega grávida à vila de Mespiria, no reino de Sylvaris, buscando refúgio entre os ventos livres. Acobertada por uma identidade falsa, ela encontra em Melessa — uma parteira idosa que não faz perguntas — a proteção de que precisa para o parto que se aproxima. Mas a criança que carrega no ventre não é comum: parece responder às palavras da mãe, move-se com consciência incomum e, segundo as luas que se alinham no céu, nascerá sob uma Convergência Tripla — fenômeno que apenas seis vezes marcou o destino de alguém cuja existência mudaria o curso das eras. Quando os primeiros sinais do parto surgem e o Aethra ao redor se torna mais denso, mãe e parteira se preparam para um nascimento que o próprio universo parece aguardar.
+
+*"Todo refúgio é uma promessa temporária. A tempestade chega sempre — a questão é se estamos prontos para dançar com ela quando as chuvas finalmente caírem."*
+
+— Ayla, aos ventos de Sylvaris
 
 ---
 
@@ -320,7 +324,7 @@ Sylvaris é apresentado como um refúgio — não apenas para Ayla, mas para tod
 
 ## 📖 Glossário do Capítulo
 
-### Lugares Introduzidos:
+### Locais
 
 | Local | Região | Descrição |
 |-------|--------|-----------|
@@ -340,7 +344,7 @@ Sylvaris é apresentado como um refúgio — não apenas para Ayla, mas para tod
 | **Mirael** | Ervas aromáticas de cura |
 | **Giralis** | Flores de pétalas prateadas que abrem à noite |
 
-### Personagens Introduzidos:
+### Personagens
 
 | Nome | Função | Mistério |
 |------|--------|----------|
@@ -348,8 +352,45 @@ Sylvaris é apresentado como um refúgio — não apenas para Ayla, mas para tod
 | **Melessa** | Parteira de Mespiria | Acolheu Ayla; prepara-se para o parto |
 | **Aurelius (mencionado)** | Pai da criança | Guardião; não sabe sobre a criança |
 
+### Criaturas
+
+| Criatura | Descrição |
+|----------|-----------|
+| — | Nenhuma criatura formalmente introduzida neste capítulo | 
+
+### Eventos
+
+| Evento | Significado |
+|--------|-------------|
+| **Chegada de Ayla a Sylvaris** | Ayla encontra refúgio no reino dos ventos livres |
+| **Ayla se estabelece em Mespiria** | Passa a viver sob identidade falsa; Melessa a acolhe |
+| **Primeiros sinais do parto** | A Convergência Tripla se aproxima; o Aethra se torna mais denso |
+| **Convergência Tripla mencionada** | Alinhamento das três luas; fenômeno que marca destinos cósmicos |
+
+### Linha do Tempo
+
+| Momento | Evento |
+|---------|--------|
+| **~9 meses antes** | Ayla chega a Sylvaris grávida; estabelece-se em Mespiria sob identidade falsa |
+| **3 meses antes** | Ayla já vive na vila; Melessa a conhece e oferece ajuda para o parto |
+| **Dias antes da Convergência** | Ayla sente os primeiros sinais do parto; as três luas se aproximam |
+| **Noite dos diálogos com o porvir** | Ayla fala com a criança; descreve o pai e promete proteção |
+| **Véspera da Convergência** | Melessa prepara ervas; o Aethra ao redor de Ayla se torna denso |
+
+---
+
+## 🔮 Previsão: Próximo Capítulo
+
+No próximo capítulo, a Convergência Tripla finalmente acontece. Em uma pequena vila chamada Mespiria, sob a luz de três luas que dançam em um ponto único do céu, uma criança nascerá — e o universo retém a respiração. Em Sanctrum, um guardião cujo nome Ayla não ousa pronunciar em voz alta sentirá que algo mudou, que algo essencial se deslocou no tecido da realidade. E Ayla tomará a decisão mais difícil de sua vida — uma decisão que ecoará através de gerações.
+
+*"Nem toda despedida é um fim. Algumas são o princípio de uma história que o mundo ainda não está pronto para ouvir."*
+
 ---
 
 *Obrigado por acompanhar o início desta jornada. O vento de Sylvaris apenas começou a soprar.*
 
 *— O Arquivista-Mestre de Aetherion*
+
+---
+
+**Ao leitor:** Se você sentiu o peso do segredo que Ayla carrega, se seu coração se apertou quando ela sussurrou promessas à criança que ainda não conhece o mundo, se sentiu a névoa de antecipação que paira sobre as colinas de Mespiria — saiba que tudo isso é apenas o primeiro sopro do vento. Uma mãe guerreira se prepara para dar à luz uma criança cujo destino está entrelaçado com as forças mais antigas do universo. O pai, ausente por amor, não faz ideia de que seu mundo está prestes a mudar para sempre. E nas próximas páginas, quando as três luas se encontrarem e o primeiro choro ecoar na noite de Sylvaris, nada voltará a ser como antes. A jornada da Herdeira começa aqui — no silêncio de uma vila esquecida, no coração de uma mãe que ama além de qualquer fronteira.

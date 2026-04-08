@@ -781,52 +781,128 @@ Ela decidiu que observaria. Com paciência. Com cuidado. Com a mesma atenção q
 
 ---
 
-**[CONTINUA NO CAPÍTULO IV...]**
+**[FIM DO CAPÍTULO III]**
 
 ---
 
-*No próximo capítulo: A vida no orfanato traz novas descobertas. Grazielly encontra um companheiro inesperado nas ruas de Velantis, e o brilho que ela carrega dentro de si começa a se manifestar de formas que nem Lyris pode controlar. E nas sombras, olhos que não deveriam estar ali observam.*
+Lyris aprendeu a verdade sobre Grazielly das mãos moribundas de Melessa — a velha parteira que guardou o segredo mais perigoso de Sylvaris por quatro anos. Uma menina nascida sob a Convergência Tripla, filha secreta de Aurelius e Ayla, foi trazida ao Orfanato Luminis em Velantis para iniciar uma nova vida, alheia à herança que carrega. Aurelius, o Guardião Mestre, revelou apenas parte da verdade à agente aposentada, enquanto Thaloris Ventaris, o Senhor dos Ventos, reconheceu em Lyris algo que vai além de uma missão diplomática — e decidiu observá-la de perto. Nas sombras, Vethran Noll já se movia. E em um orfanato iluminado por cristais, uma criança de quatro anos dormia sem saber que seu destino havia acabado de mudar para sempre.
+
+*"O silêncio é a forma mais poderosa de amor. Mas quando o silêncio morre, o que resta é a verdade — e a verdade, carregada por mãos que tremem de urgência, é a semente de tudo o que virá depois."*
+
+— Melessa, em carta a Aurelius
 
 ---
 
+## 📜 Nota para o Leitor
+
+Caro leitor,
+
+Este capítulo é o alicerce sobre o qual todo o resto será construído. Aqui encontramos a morte de Melessa — uma das passagens mais dolorosas do Livro I — e com ela a revelação que muda tudo: Grazielly não é uma criança qualquer. Ela é filha de Aurelius e Ayla, nascida sob a Convergência Tripla, e carrega dentro de si algo que o mundo ainda não compreende.
+
+Melessa cumpriu sua promessa até o último suspiro. Ao escrever a carta que atravessaria continentes e chegaria ao Palácio do Grande Mestre em Sanctrum, ela fez a única coisa que restava — confiar a verdade a quem tinha o poder de protegê-la. E ao revelar a Grazielly, antes de morrer, que seu brilho era um segredo que precisava ser guardado, deu à menina a primeira ferramenta de sobrevivência que teria na vida: o conhecimento de que era diferente.
+
+A convocação de Lyris marca o início da guarda secreta. Aurelius escolheu-a não apenas por suas habilidades como agente, mas por sua capacidade de "cuidar sem controlar, de proteger sem aprisionar" — qualidades que uma missão de proteção exige, mas que uma missão de espionagem não valoriza. A transformação de Lyris de agente da Vanguarda para guardiã de uma criança é o arco central deste capítulo, e define o tom de tudo o que vem depois.
+
+A cena com Thaloris Ventaris no Savelumao das Brisas é, à primeira vista, uma audiência diplomática — mas como tudo neste universo, as camadas mais profundas revelam algo mais. O Senhor dos Ventos reconhece em Lyris a identidade de Nyctara. E a observação de que "a maioria das pessoas vê um quadro, mas você vê o que ele contém" não é elogio — é avaliação. Thaloris sabe mais do que demonstra.
+
+Vethran Noll, o Mestre dos Sussurros, emerge como uma presença enigmática. Seu papel neste capítulo é breve, mas seu impacto será sentido em capítulos posteriores. Ele é o olho que observa os olhos — e a sombra que vigia a sombra.
+
+E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem compreender o peso do amor que a cerca. A chegada ao Orfanato Luminis é o fim de uma vida e o início de outra. A promessa de Melessa foi cumprida. A promessa de Lyris acaba de começar.
+
+---
 
 ## 📖 Glossário do Capítulo
 
-### Termos Introduzidos:
+### Personagens
+
+| Nome | Idade | Função | Significado Narrativo |
+|------|------|--------|----------------------|
+| **Grazielly** | 4 anos | Filha secreta de Aurelius e Ayla | Herdeira; nasceu sob a Convergência Tripla; brilho manifesto |
+| **Melessa** | — | Parteira de Mespiria | Avó adotiva de Grazielly; cumpriu a promessa a Ayla; faleceu revelando a verdade |
+| **Lyris (Nyctara)** | — | Agente aposentada da Vanguarda | Nova guardiã de Grazielly; estabelece-se no Orfanato Luminis |
+| **Aurelius (En Me)** | — | Guardião Mestre de Nova Aetherion | Pai secreto de Grazielly; convocou Lyris sem revelar toda a verdade |
+| **Ayla** | — | Mãe de Grazielly | Falecida no parto; amada por Aurelius; suas últimas palavras guiaram Melessa |
+| **Thaloris Ventaris** | — | Senhor dos Ventos (Lugal Lil) | Reconheceu Lyris como Nyctara; decidiu observá-la de perto |
+| **Vethran Noll** | — | Mestre dos Sussurros (En Dili Lil) | Agente misterioso designado para vigiar Lyris |
+| **Luminara Elara** | — | Diretora do Orfanato Luminis | Recebeu Grazielly sem saber sua verdadeira identidade |
+| **Thalia** | — | Curandeira jovem de Mespiria | Auxiliou Melessa; sabia do segredo de Grazielly |
+| **Branok** | — | Ferreiro da vila | Viu o brilho de Grazielly uma vez; enganado por Melessa |
+| **Mestre Aldric** | — | Caseiro do Orfanato Luminis | Postura suspeita; observado por Lyris |
+
+### Locais
+
+| Local | Região | Descrição |
+|-------|--------|-----------|
+| **Mespiria** | Sudoeste de Sylvaris | Vila agrícola onde Grazielly cresceu; cercada por Gesh Nanna (pratafolhas) |
+| **Sanctrum** | Aetherion Prime | Capital; Palácio do Grande Mestre; sede da Ordem |
+| **Zephyra** | Sylvaris | Capital flutuante; erguida sobre pilares de cristal Aetheris |
+| **Palácio das Correntes de Ar** | Zephyra | Residência do Senhor dos Ventos; abriga o Savelumao das Brisas |
+| **Velantis** | Sylvaris | Cidade do Orfanato Luminis; destino final de Lyris |
+| **Orfanato Luminis** | Velantis, Sylvaris | Refúgio para crianças; novo lar de Grazielly |
+
+### Termos Introduzidos
 
 | Termo | Definição |
 |-------|-----------|
-| **Convergência Tripla** | Alinhamento raro das três luas; marca crianças especiais |
+| **Convergência Tripla** | Alinhamento raro das três luas; crianças nascidas sob suas luzes carregam dons excepcionais |
 | **Canto Ancestral** | Canção fúnebre na Língua dos Antigos (Emê-Gir) |
-| **Thermaris** | Fusão elemental Água + Fogo = Vapor (afinidade de Lyris) |
+| **Thermaris** | Fusão elemental Água + Fogo = Vapor; afinidade elementar de Lyris |
 | **As Sombras Celestes** | Rede de inteligência de Sylvaris (*Dilmun-Vashar*: olhos que o vento carrega) |
-| **Orfanato Luminis** | Refúgio para crianças em Velantis, Sylvaris |
-| **Nyctara** | Codinome de Lyris; agente de elite da Vanguarda |
+| **Nyctara** | Codinome lendário de Lyris; agente de elite da Vanguarda |
+| **En Dili Lil** | Título de Vethran Noll — Mestre dos Sussurros |
+| **Savelumao das Brisas** | Câmara de audiências do Senhor dos Ventos |
+| **Conselho de Correntes** | Órgão consultivo de Sylvaris; sete cadeiras no Savelumao |
+| **Cristais Aetheris** | Minerais luminescentes que armazenam e canalizam energia elemental |
+| **Brilho** | Manifestação visível de afinidade elemental sob a pele |
 
-### Personagens Introduzidos/Desenvolvidos:
+### Criaturas
 
-| Nome | Função | Status |
-|------|--------|--------|
-| **Grazielly** | Protagonista; filha secreta de Aurelius e Ayla | 4 anos (indo para o Orfanato Luminis) |
-| **Lyris (Nyctara)** | Agente aposentada da Ordem; guardiã de Grazielly | Viva (Velantis — agora sabe a verdade) |
-| **Melessa** | Parteira; avó adotiva de Grazielly | Falecida (revelou a verdade a Lyris antes de morrer) |
-| **Aurelius (En Me)** | Guardião Mestre; pai secreto de Grazielly | Vivo (Sanctrum — escondeu a verdade de Lyris) |
-| **Thaloris Ventaris** | Senhor dos Ventos (Lugal Lil) | Vivo (Zephyra — investigando Lyris) |
-| **Vethran Noll** | Mestre dos Sussurros (En Dili Lil) | Vivo (Sylvaris — agente misterioso designado para vigiar Lyris) |
-| **Luminara Elara** | Diretora do Orfanato Luminis | Viva |
-| **Thalia** | Curandeira jovem | Viva (Mespiria) |
+| Criatura | Descrição |
+|----------|-----------|
+| **Mushen Gir** | Pequenas criaturas aladas de cores vivas; chamadas asas-de-veludo; flutuam como pétalas em dança; comuns em Mespiria |
 
-### Locais:
+### Eventos
 
-| Local | Descrição |
-|-------|-----------|
-| **Zephyra** | Capital flutuante de Sylvaris |
-| **Palácio das Correntes de Ar** | Residência do Senhor dos Ventos em Zephyra |
-| **Velantis** | Cidade do Orfanato Luminis |
-| **Mespiria** | Vila agrícola onde Ayla morreu e Grazielly cresceu |
+| Evento | Significado |
+|--------|-------------|
+| **Morte de Melessa** | Fim da proteção direta de Grazielly em Mespiria; gatilho para a carta |
+| **Revelação a Grazielly** | Melessa conta à criança que seu brilho é um segredo; primeira ferramenta de sobrevivência |
+| **Carta de Melessa** | Mensagem desesperada enviada a Aurelius; revela a existência de Grazielly |
+| **Convocação de Lyris** | Aurelius chama a agente aposentada para uma missão que não pode explicar |
+| **Audiência com Thaloris** | Lyris apresenta-se ao Senhor dos Ventos; Thaloris reconhece Nyctara |
+| **Chegada ao Orfanato Luminis** | Grazielly é entregue a Luminara Elara; nova vida começa |
+
+### Linha do Tempo
+
+| Momento | Evento |
+|---------|--------|
+| **0 anos (Convergência Tripla)** | Nascimento de Grazielly; morte de Ayla; Melessa assume a guarda |
+| **0–4 anos** | Grazielly cresce em Mespiria sob proteção de Melessa; brilho controlado pela respiração |
+| **4 anos (outono)** | Primeiros sinais da doença de Melessa |
+| **4 anos (inverno)** | Melessa escreve a carta; envia pelo mercador de especiarias |
+| **4 anos (12 dias depois)** | Carta chega a Sanctrum; Aurelius convoca Lyris |
+| **4 anos (3 dias depois)** | Lyris parte de Sanctrum; travessia do continente |
+| **4 anos (6+ dias)** | Lyris chega a Zephyra; audiência com Thaloris Ventaris |
+| **4 anos (pós-audiência)** | Lyris chega a Velantis; Grazielly entra no Orfanato Luminis |
 
 ---
 
-*O destino de Grazielly começa a se revelar. As sombras se aprofundam. E no Orfanato Luminis, uma menina que brilha dorme sob a proteção de uma lenda que se recusa a morrer.*
+## 🔮 Previsão: Próximo Capítulo
+
+No próximo capítulo, a vida de Grazielly no Orfanato Luminis começará a tomar forma — os corredores de pedra e cristal, as refeições em comunidade, as noites no dormitório onde dezenas de crianças respiram em uníssono sob a luz das três luas. Ela fará suas primeiras amizades, encontrará companheiros que compartilham o peso do orfandamento e descobrirá que o brilho que carrega dentro de si não se calma apenas com respiração — ele pulsa, cresce, responde ao mundo ao seu redor de formas que nem Melessa havia previsto.
+
+Lyris, agora disfarçada de tutora aposentada, observará tudo de perto — cada manifestação, cada aproximidade perigosa, cada olhar que demora demais na direção da menina. E descobrirá que o orfanato abriga segredos que vão além de Grazielly: Mestre Aldric, o caseiro silencioso cujos passos não são os de um homem comum, e Vethran Noll, cujas sombras se estendem mais longe do que qualquer Mestre dos Sussurros deveria permitir.
+
+E nas ruas de Velantis, um encontro inesperado trará à Grazielly um companheiro que mudará sua vida para sempre — uma criatura pequena, prateada e assustada, que também carrega um segredo.
+
+*"Quando uma criança perde tudo o que conheceu e é colocada em um lugar novo, ela tem duas escolhas: encolher-se na escuridão do que perdeu ou abrir-se para a luz do que ainda pode ser. As crianças mais fortes que conheci escolheram ambas — e aprenderam a viver na fronteira entre a saudade e a esperança."*
+
+---
+
+*Obrigado por acompanhar esta jornada. As sementes foram plantadas.*
 
 *— O Arquivista-Mestre de Aetherion*
+
+---
+
+**Ao leitor:** Se seu coração se apertou quando Melessa sussurrou "eu não tenho mais ninguém" aos ouvidos de Grazielly, se sentiu o peso de uma carta escrita por mãos que tremem de urgência e amor, se reconheceu na voz de Lyris a hesitação de quem aceita uma missão que mudará sua vida para sempre — saiba que este é o capítulo onde os alicerces são erguidos. Os segredos passados de geração em geração, o amor que persiste além da morte, a promessa de uma velha parteira cumprida com o último suspiro — tudo isso converge em uma menina de quatro anos que, alheia ao destino que a aguarda, dorme pela primeira vez em um leito que não é o seu, em um orfanato iluminado por cristais, cercada por crianças que também carregam suas próprias histórias de perda. Um novo capítulo começa. E ele será maior do que qualquer um deles imagina.
