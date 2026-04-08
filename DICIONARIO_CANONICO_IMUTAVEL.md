@@ -456,7 +456,7 @@ Dispositivos analógicos usados por agentes de Umbra para capturar assinaturas e
 - **Thalyra** — Cidade costeira, Festival das Águas
   - **Ponto de contato da Vanguarda** — local de encontro para operações secretas
   - Onde Lyris encontrou **Vaelora (A Sentinela)**, informante da Vanguarda
-- **Selina Thalassa ("S.")** opera em Sanctrum, não em Thalyra
+- **Selina Thalassa ("ZU")** opera em Sanctrum, não em Thalyra
 
 ### Terraxis/Umbra
 - **Cristalnor** — Montanhas geladas, lar do avô de Grazielly (Marethyus)
@@ -682,11 +682,11 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 - Resgatado por Grazielly quando ela tinha 4 anos
 
 ---
-# 🕵️ MESTRA SELINA THALASSA (AGENTE "S.")
+# 🕵️ MESTRA SELINA THALASSA (AGENTE "ZU")
 
 ## Identidade
 - **Nome Completo:** Selina Thalassa
-- **Codinome:** "S."
+- **Codinome:** "ZU" — do sumério *zu* (𒍪), "saber, conhecer, compreender"
 - **Título:** Mestra da Informação
 
 ## Posição Oficial
@@ -1065,7 +1065,7 @@ A resposta está na própria natureza da névoa. Umbra possui neblinas tão dens
 7. **Elmo de Alyndra:** Em posse de Líder Possuído em planeta distante
 
 ## Fios Abertos para Desenvolver
-- ~~Quem é "S." (contato de Lyris em Thalassia)?~~ → **RESOLVIDO: Mestra Selina Thalassa**
+- ~~Quem é "ZU" (contato de Lyris em Thalassia)?~~ → **RESOLVIDO: Mestra Selina Thalassa**
 - O incidente que fez Marethyus se exilar
 - Conexão entre Água Sombra e Cryonys
 - O futuro da Academia Elemental para Grazielly
@@ -1150,6 +1150,7 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **𒀭** | An | Céu, acima | Cosmologia |
 | **𒍑** | Zi | Vida, sopro | Bênçãos, curas |
 | **𒈾** | Nam | Destino | Profecias |
+| **𒍪** | Zu | Saber, conhecer, compreender | Inteligência, codinome de Selina Thalassa |
 | **𒈨** | Me | Poder divino, decreto | Textos sagrados |
 
 ## Compostos Comuns

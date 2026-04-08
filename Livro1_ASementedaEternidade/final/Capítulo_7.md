@@ -10,7 +10,7 @@
 
 *"O silêncio não é a ausência de som — é a presença de quem escolhe não falar. E quando aqueles que vigiam decidem que palavras são perigosas demais para serem pronunciadas, é nos espaços entre as frases que as verdades mais letais encontram abrigo."*
 
-— Ensaio sobre a Arte da Informação, Agente S (Selina Thalassa), arquivos restritos de Sanctrum
+— Ensaio sobre a Arte da Informação, Agente ZU (Selina Thalassa), arquivos restritos de Sanctrum
 
 ---
 
@@ -132,7 +132,7 @@ Aurelius estava de pé junto à janela, as mãos entrelaçadas nas costas, olhan
 
 E era exatamente isso que tornava a conversa que estava prestes a ter tão perigosa.
 
-— Agente S — Aurelius disse, sem se virar. Sua voz era grave, moderada, carregando a autoridade natural de quem está acostumado a ser obedecido sem precisar pedir. — Eu esperava sua visita.
+— Agente ZU — Aurelius disse, sem se virar. Sua voz era grave, moderada, carregando a autoridade natural de quem está acostumado a ser obedecido sem precisar pedir. — Eu esperava sua visita.
 
 — Então o Senhor sabe por que estou aqui — Selina respondeu, caminhando até o centro do solar e parando a uma distância calculada — perto o bastante para que a conversa fosse íntima, longe o bastante para que não parecesse uma confrontação.
 
@@ -184,7 +184,7 @@ Selina observou a interação com a atenção de quem analisa um tabuleiro de xa
 
 *Não*, Selina pensou, e algo gelado se moveu em sua espinha. *Ele sabia. Ele sabia que o Nin Aga viria, e usou a interrupção para não responder às minhas perguntas.*
 
-— Agente S — Aurelius disse, voltando-se para Selina com uma expressão que era ao mesmo tempo cortês e terminativa — a expressão de quem fecha uma porta sem fazê-lo fisicamente. — Agradeço suas observações. O que foi levantado nesta sala será considerado com a devida seriedade. Mas agora, como o Senhor pode constatar, há assuntos que exigem atenção imediata.
+— Agente ZU — Aurelius disse, voltando-se para Selina com uma expressão que era ao mesmo tempo cortês e terminativa — a expressão de quem fecha uma porta sem fazê-lo fisicamente. — Agradeço suas observações. O que foi levantado nesta sala será considerado com a devida seriedade. Mas agora, como o Senhor pode constatar, há assuntos que exigem atenção imediata.
 
 Selina não respondeu imediatamente. Seus olhos foram de Aurelius para o Nin Aga e de volta, processando a cena com a velocidade que havia feito dela a Mestra da Informação mais temida — e mais respeitada — de Alyndra. Havia algo na postura dos dois homens — algo na forma como o Nin Aga se posicionou entre Selina e Aurelius, não como guarda, mas como cortina — que lhe disse que a conversa estava encerrada, não por decisão de qualquer dos presentes, mas por forças maiores que operavam além daquele solar.
 
@@ -212,7 +212,7 @@ Ela encontrou o Engenheiro-Chefe Valtheris na seção leste do laboratório, de 
 
 Valtheris era um homem de meia-idade com o rosto severo e as mãos precisas de um cirurgião — ou de um relojoeiro, que era a profissão que seus pais haviam escolhido para ele antes que seus dons etéricos o levassem para a engenharia de cristais. Seus cabelos eram de um castanho avermelhado que lembrava a ferrugem do latão, e seus olhos — de um azul acinzentado que era comum entre os engenheiros de Sanctrum — tinham a qualidade particular de focar em um ponto com uma intensidade que fazia quem estivesse sendo observado sentir que estava sendo dissecado.
 
-— Agente S — Valtheris disse, sem erguer os olhos do componente que estava ajustando — uma lente de cristal não maior do que um olho de aetheriano, montada em um suporte de metal que parecia ter sido construído com a precisão de um instrumento cirúrgico. — Eu esperava que a Senhora viesse pedir isso mais cedo ou mais tarde.
+— Agente ZU — Valtheris disse, sem erguer os olhos do componente que estava ajustando — uma lente de cristal não maior do que um olho de aetheriano, montada em um suporte de metal que parecia ter sido construído com a precisão de um instrumento cirúrgico. — Eu esperava que a Senhora viesse pedir isso mais cedo ou mais tarde.
 
 — Pedir o quê? — Selina perguntou, embora já soubesse a resposta.
 
@@ -230,7 +230,7 @@ Os Refratores de Aurion eram, em essência, lentes de cristal orbital — discos
 
 — E as Cargas Fantasmas? — Selina perguntou.
 
-— As Cargas Fantasmas são registros burocráticos — Valtheris respondeu, e havia um toque de irritação em sua voz, como se o termo ofendesse seu senso estético de engenheiro. — Documentos que apontam para destinos que não existem. Os refratores não podem rastrear papéis, Agente S. Mas podem rastrear as assinaturas etéricas das crianças que desapareceram, se elas ainda estiverem vivas e dentro do raio de cobertura.
+— As Cargas Fantasmas são registros burocráticos — Valtheris respondeu, e havia um toque de irritação em sua voz, como se o termo ofendesse seu senso estético de engenheiro. — Documentos que apontam para destinos que não existem. Os refratores não podem rastrear papéis, Agente ZU. Mas podem rastrear as assinaturas etéricas das crianças que desapareceram, se elas ainda estiverem vivas e dentro do raio de cobertura.
 
 — E se estiverem fora do raio de cobertura?
 
@@ -270,7 +270,7 @@ Valtheris a olhou com uma expressão que misturava surpresa com respeito.
 
 — Eu preciso de um — Selina disse, e a declaração não era um pedido.
 
-— Um Ressoador é um dispositivo sensível, Agente S — Valtheris disse, e sua voz carregava a cautela de um engenheiro que sabe que suas criações podem ser usadas para fins que ele não antecipou. — A calibração é delicada. A instalação requer um técnico qualificado. E o alcance efetivo depende da posição e das condições atmosféricas.
+— Um Ressoador é um dispositivo sensível, Agente ZU — Valtheris disse, e sua voz carregava a cautela de um engenheiro que sabe que suas criações podem ser usadas para fins que ele não antecipou. — A calibração é delicada. A instalação requer um técnico qualificado. E o alcance efetivo depende da posição e das condições atmosféricas.
 
 — Eu sei — Selina disse. — Envie um para a Cidadela Luminis. Em Velantis. Sob a justificativa de teste de comunicação de longa distância para orfanatos da rede oficial.
 
@@ -380,7 +380,7 @@ Depois abriu os olhos. A máscara voltou. E o En Me, Guardião Mestre de Alyndra
 
 ## Resumo Narrativo
 
-O sétimo capítulo desloca o foco para Sanctrum e para a maquinaria política e tecnológica que opera nas sombras de Alyndra. Selina Thalassa, a Mestra da Informação — Agente S do Olho de Aurion — conduz uma sabatina com um Sentinela de Fronteira de Sylvaris que revela detalhes alarmantes sobre a Frequência de Desaparecimento: quatorze crianças sequestradas em sete ciclos, todas com afinidade elementar, todas com documentação falsa impecável que aponta para uma operação de coleta sistemática orquestrada por forças que operam além dos reinos conhecidos.
+O sétimo capítulo desloca o foco para Sanctrum e para a maquinaria política e tecnológica que opera nas sombras de Alyndra. Selina Thalassa, a Mestra da Informação — Agente ZU do Olho de Aurion — conduz uma sabatina com um Sentinela de Fronteira de Sylvaris que revela detalhes alarmantes sobre a Frequência de Desaparecimento: quatorze crianças sequestradas em sete ciclos, todas com afinidade elementar, todas com documentação falsa impecável que aponta para uma operação de coleta sistemática orquestrada por forças que operam além dos reinos conhecidos.
 
 A sabatina também revela a conexão entre Lyris (Nyctara) — a agente aposentada da Ordem que protege Grazielly na Cidadela Luminis — e a criança que Selina começa a identificar como a peça central do tabuleiro. Quando Selina confronta o En Me (Aurelius) em seu solar privado, a tensão política atinge seu ápice: Selina acusa Aurelius de ter quebrado seu próprio princípio de silêncio ao enviar um cristal dourado rastreável para uma criança que deveria estar oculta. A confrontação é interrompida pela chegada do Nin Aga com notícias de movimentações de Umbra nas fronteiras de Terraxis — um lembrete de que a guerra se aproxima e de que as disputas internas sobre proteção e vigilância podem se tornar irrelevantes diante da ameaça externa.
 
@@ -412,7 +412,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 
 | Personagem | Descrição |
 |-----------|-----------|
-| **Selina Thalassa** | Agente S; Mestra da Informação; líder do Olho de Aurion; aetheriana com olhos escuros e disciplina implacável |
+| **Selina Thalassa** | Agente ZU; Mestra da Informação; líder do Olho de Aurion; aetheriana com olhos escuros e disciplina implacável |
 | **Aurelius (En Me)** | Guardião Mestre de Alyndra; título: En Me; olhos azuis transparentes; sensibilidade incomum a Aethra; pai secreto de Grazielly |
 | **Sentinela de Fronteira** | Soldado de Sylvaris; não nomeado; fornece dados sobre a Frequência de Desaparecimento |
 | **Nin Aga** | Líder dos Exércitos de Alyndra; homem alto, armadura negra com cristais vermelhos; traz notícias de Umbra |
