@@ -2,137 +2,171 @@
 
 ---
 
-## 📌 DADOS BÁSICOS
+## Melessa
+
+---
+
+> *"Eu prometi à sua mãe — que ela teria amor, família, um lar. E dei tudo isso. Mas será que dei o suficiente?"*
+> — Capítulo 3, Seção I
+
+---
+
+### DADOS BÁSICOS
 
 | Campo | Informação |
-|-------|-----------|
+|-------|------------|
 | **Nome completo** | Melessa |
-| **Título/ocupação** | Parteira e curandeira de Mespiria |
+| **Idade** | Idosa (várias décadas de vida; "decadas como parteira e curandeira") |
 | **Espécie** | Aetheriana |
-| **Idade** | Idosa (idade exata não revelada; décadas de profissão) |
-| **Status** | **Falecida** (Capítulo 3 — inverno, causas naturais) |
-| **Local de origem** | Mespiria, subúrbio de Velantis, Sylvaris |
-| **Residência** | Casa de pedra nos arredores de Mespiria |
+| **Povo/Origem** | Sylvari |
+| **Local de residência** | Casa de pedra nos arredores de Mespiria, Sylvaris |
+| **Profissão** | Parteira e curandeira de Mespiria |
+| **Status vital** | **Falecida** — Capítulo 3, Seção X ("A Despedida") |
+| **Causa da morte** | Declínio natural ligado à idade avançada; doença sem diagnóstico identificável |
 
 ---
 
-## 👁️ APARÊNCIA FÍSICA
+### APARÊNCIA FÍSICA
 
-| Aspecto | Descrição |
-|---------|-----------|
-| **Constituição** | Enfraquecida pela doença terminal nos últimos meses de vida |
-| **Mãos** | Tremeulas pela idade e pela determinação; mãos de quem trouxe dezenas de vidas ao mundo |
-| **Olhos** | Olhos experientes que sabiam distinguir verdade de mentira da mesma forma que distinguiam dor de cólica em um bebê recém-nascido |
-| **Voz** | Firme apesar do corpo fraco; nos últimos dias, mais fraca mas ainda carregando o amor que sempre a acompanhou |
-| **Caligrafia** | Letras inclinadas para a direita, com curvas firmes e ternas ao mesmo tempo; reconhecível por Grazielly |
-
----
-
-## 🧠 PERSONALIDADE E MOTIVAÇÕES
-
-### Traços principais
-
-- **Discrição absoluta** — Nunca fazia perguntas que não fossem necessárias. Aceitava meias-verdades e silêncios com a mesma naturalidade com que aceitava o nascer do sol. Como parteira, seu trabalho era trazer vidas ao mundo, não investigar segredos.
-- **Amor incondicional** — Criou Grazielly como neta adotiva durante quatro anos com devoção total. Cada gesto, cada regra, cada mentira era motivada pelo amor.
-- **Determinação imbatível** — Mesmo morrendo, encontrou forças para escrever a carta a Sanctrum, preparar o esconderijo de Nyx, criar a Caixa "Depois" e garantir que Grazielly não ficasse desamparada.
-- **Culpa silenciosa** — Sabia que não havia avisado Aurelius sobre Grazielly. Reconhecia que "nenhum dos dois fez a coisa certa, e agora uma criança vai pagar o preço."
-- **Pragmatismo disfarçado de ternura** — Ensinava Grazielly a respirar fundo e contar até três para controlar o brilho. Cada lição era um ato de proteção envolto em carinho.
-
-### Motivação central
-
-Cumprir a promessa que fez a Ayla no leito de morte: dar à filha dela uma vida de amor, família, um lar e paz — mesmo que isso significasse esconder a verdade do pai, mentir para a vila, e carregar o peso de um segredo que poderia destruir tudo.
+| Aspecto | Descrição canônica |
+|---------|-------------------|
+| **Cabelos** | Brancos |
+| **Olhos** | Experientes, perspicazes; capazes de detectar segredos e mentiras |
+| **Mãos** | Tremulais no final da vida; antes firmes e hábeis (décadas de prática) |
+| **Voz** | Firme nos momentos de determinação; suave e amorosa com Grazielly; fraca nos últimos dias |
+| **Postura** | Determinada mesmo quando o corpo fraquejava; mãos que "trouxeram centenas de crianças ao mundo" |
 
 ---
 
-## 🔗 RELACIONAMENTOS
+### PERSONALIDADE E CARÁTER
 
-| Personagem | Natureza do vínculo | Detalhes |
-|------------|-------------------|----------|
-| **Grazielly** | Neta adotiva; filha do coração | Criou-a desde o nascimento; chamava-a de "minha pequena estrela"; ensinou-a a controlar o brilho; registrou-a como neta; sua maior preocupação era deixá-la desamparada |
-| **Ayla** | Paciente; mãe de Grazielly; promessa de morte | Ayla chegou grávida a Mespiria; Melessa a acolheu sem perguntas; assistiu ao parto; Ayla morreu em seus braços; fez a promessa que definiu os últimos quatro anos de sua vida |
-| **Aurelius** | Pai de Grazielly (nunca contatado diretamente) | Recebeu de Ayla um selo e método para contatá-lo; deliberadamente NÃO avisou Aurelius por medo de que ele levasse Grazielly para Sanctrum |
-| **Lyris (Nyctara)** | Sucessora na guarda de Grazielly | Revelou-lhe toda a verdade sobre Grazielly no leito de morte; reconheceu nela a capacidade de proteger a criança; "Proteja-a, Lyris. Proteja-a de Sanctrum, de políticos, de qualquer um que queira usá-la." |
-| **Thalia** | Aprendiz; aliada de confiança | Curandeira jovem de Mespiria; estava presente no nascimento de Grazielly; sabia sobre o brilho; ajudou Melessa a enviar a carta a Sanctrum; cuidou de Melessa nos últimos dias |
-| **Luminara Elara** | Contato indireto (via Lyris) | Referida como destinatária indireta da responsabilidade sobre Grazielly |
+**Traços dominantes:**
 
----
-
-## 📖 ARCO NARRATIVO
-
-### Capítulo 1 — Acolhimento
-Ayla chega a Mespiria grávida, usando nome falso. Melessa a acolhe sem perguntas. Prepara-se para o parto durante a Convergência Tripla. Observa o universo "prender a respiração" enquanto a criança está para nascer.
-
-### Capítulo 2 — Quatro anos de silêncio
-Cria Grazielly em segredo. Ensina-a a esconder o brilho. Estabelece regras rígidas de proteção. Mentira elaborada para forasteiros: "mãe desconhecida, parto difícil, criança órfã adotada por compaixão." Esconde Grazielly de mercadores, viajantes, curiosos. Nunca usa o selo de Sanctrum para avisar Aurelius.
-
-### Capítulo 3 — A verdade e a despedida
-Adoece sem causa identificável. Reconhece os sinais da morte. Escreve a carta a Sanctrum revelando a identidade de Grazielly. Envia o pingente com selo de Sanctrum. Encontra Lyris e revela-lhe toda a verdade. Morre em paz na manhã seguinte. Grazielly canta o Canto Ancestral em seu funeral. Bênção de Elara desce sobre o túmulo.
-
-### Capítulo 4 — Legado emocional
-Mencionada nas memórias de Grazielly. Ensinou que "as lágrimas são um recurso que deve ser usado com sabedoria."
-
-### Capítulo 5 — A Caixa "Depois"
-Grazielly retorna a Mespiria. Descobre o esconderijo de Nyx que Melessa preparou. Encontra a Caixa "Depois" com o pingente e a carta póstuma. A carta de Melessa — "Para minha pequena estrela" — é lida e desencadeia a primeira manifestação Cryonys de Grazielly (flores de gelo). A manifestação ocorre ao contato com o pingente de selo Sanctrum.
-
-### Capítulos 6-7 — Referências
-Grazielly pensa em Melessa ao ouvir histórias de perda. O pingente encontrado na casa de Melessa é investigado por Lyris. O esconderijo de Nyx preparado por Melessa é evidência de seu planejamento até o fim.
+- **Discrição absoluta** — Nunca fez perguntas sobre o passado de Ayla; aceitou meias-verdades sem pressionar. Como parteira, acreditava que seu trabalho era trazer vidas ao mundo, não investigar segredos.
+- **Determinação inabalável** — Mesmo enfrentando a própria morte, moveu montanhas para garantir a segurança de Grazielly: escreveu a Aurelius, encontrou um portador, preparou o esconderijo de Nyx, criou a Caixa "Depois".
+- **Sabedoria prática** — Decadas observando a vida e a morte se encontrarem; reconhecia os sinais da morte com a mesma facilidade com que reconhecia os de um parto difícil.
+- **Amor incondicional** — Criou Grazielly como neta adotiva sem hesitar; cada decisão que tomou era guiada pelo bem-estar da criança.
+- **Medo funcional** — Temeu Sanctrum por quatro anos, o que a impediu de contacting Aurelius mais cedo; mas o medo de deixar Grazielly desamparada superou o medo da Ordem.
+- **Dignidade serena** — Na morte, partiu com "um sorriso suave nos lábios" e mãos pousadas sobre o peito, como se estivesse apenas dormindo.
 
 ---
 
-## 📦 OBJETOS E LEGADOS
+### HABILIDADES E CONHECIMENTOS
 
-| Objeto | Destino | Significado |
-|--------|---------|-------------|
-| **Carta a Sanctrum** | Recebida por Aurelius | Revelou a existência de Grazielly ao En Me; desencadeou o envio de Lyris |
-| **Caixa "Depois"** | Encontrada por Lyris em Mespiria | Caixa de madeira clara com a palavra "Depois" gravada; continha o pingente e a carta póstuma |
-| **Pingente com selo de Sanctrum** | Com Grazielly | Origem desconhecida; recebido de Ayla; possível conexão com a linhagem de Grazielly; desencadeou a manifestação Cryonys |
-| **Carta póstuma para Grazielly** | "Para minha pequena estrela" | Último ato de amor; texto emocional que definiu o coração do Capítulo 5 |
-| **Esconderijo de Nyx** | Sob o assoalho da casa | Espaço preparado nos últimos dias de vida; cobertores, comida, tigela de água; dividido em dois compartimentos (Nyx + Caixa "Depois") |
-| **Casa de pedra** | Em Mespiria | Residência onde Grazielly nasceu e cresceu; lareira fria, cadeira de balanço com almofada bordada de Giralis |
-| **Ensinamentos sobre o brilho** | Com Grazielly | "Respira fundo. Conta até três. Deixa o calor dormir." |
-
----
-
-## 💬 FRASES MARCANTES
-
-| Frase | Contexto |
-|-------|----------|
-| *"Eu sou uma velha tola que aprendeu a guardar segredos por tempo demais. Nenhum dos dois fez a coisa certa, e agora uma criança vai pagar o preço."* | Confissão a Lyris sobre não ter avisado Aurelius |
-| *"Se não for enviada, Grazielly morrerá sozinha. Essa é a única chance que ela tem. E a única coisa que me dá paz para partir."* | Sobre a carta a Sanctrum |
-| *"Cumpri da melhor forma que pude. Por anos."* | Sobre a promessa a Ayla |
-| *"Proteja-a, Lyris. Proteja-a de Sanctrum, de políticos, de qualquer um que queira usá-la. E quando ela for mais velha, quando estiver pronta... conte-lhe a verdade."* | Último pedido a Lyris |
-| *"Meu corpo está cansado. Ele me serviu bem por muitos anos, mas agora quer descansar."* | Sobre sua própria morte, para Grazielly |
-| *"Lembra do que eu te disse? Quando você sente o calor dentro de você, você respira fundo. Você conta até três. E você deixa o calor dormir."* | Ensinamento a Grazielly sobre o brilho |
-| *"Vó Melessa queria que eu fosse."* | Grazielly citando Melessa ao concordar em ir com Lyris |
+| Habilidade | Detalhe |
+|------------|---------|
+| **Parteira** | "Olhos que haviam trazido centenas de crianças ao mundo"; reconheceu parto pélvico imediatamente; enfrentou partos difíceis |
+| **Curandeira** | Tratou de "tantas doenças ao longo de sua vida"; conhecia ervas medicinais, preparava chás (raízes-doces para inchaço na gravidez), separava Lumiara e outros vegetais curativos |
+| **Herbalismo** | Separava ervas medicinais que secavam à luz de Aurion; preparava remédios para tosse e outras afecções |
+| **Observação** | Detectou que Lyris a observava à distância; percebeu que havia algo diferente em Grazielly; identificou os próprios sinais de sua doença terminal |
+| **Estratégia de proteção** | Estabeleceu regras rígidas para a vida de Grazielly na vila; criou histórias de cobertura (órfã adotada por compaixão); orientou Thalia e vizinhos sobre discrição; enganou Branok com história de cristais Aetheris |
+| **Caligrafia** | Sua letra era "inclinada para a direita, com curvas que eram ao mesmo tempo firmes e ternas" |
 
 ---
 
-## 🎭 SIGNIFICADO NARRATIVO
+### RELAÇÕES
 
-Melessa é o **coração moral** do Livro I. Ela representa o amor que não exige nada em troca — o tipo de amor que se mede não em gestos grandiosos, mas em pequenos momentos que, somados, formam a base de tudo. Sua decisão de não avisar Aurelius é o ato mais complexo de toda a história: não foi egoísmo, nem heroísmo, mas a escolha imperfeita de uma mulher que acreditava que uma vida simples em Mespiria era melhor para Grazielly do que a vida que Sanctrum poderia oferecer.
-
-Ela está morta quando a história principal acontece, mas sua presença é sentida em cada capítulo — na carta que Grazielly guarda debaixo do travesseiro, no pingente que pulsa com a assinatura de Cryonys, no Lyrien que sobreviveu ao inverno graças ao seu último ato de cuidado, e nas palavras que ecoam na mente de Grazielly como um canto que não termina.
-
-Sua carta póstuma é possivelmente o texto mais emocional de todo o Livro I — o testamento de uma mulher que sabia que estava morrendo, mas que escolheu transformar sua despedida em um ato de amor puro.
-
----
-
-## 📍 REFERÊNCIAS CRUZADAS
-
-| Capítulo | Seção | Tipo de menção |
-|----------|-------|---------------|
-| **Capítulo 1** | I. Os Sussurros do Vento; III. A Noite da Convergência | Presente; acolhe Ayla; assiste ao nascimento |
-| **Capítulo 2** | I-II; Seção narrativa | Presente; cria Grazielly; silêncio sobre Aurelius |
-| **Capítulo 3** | I, II, III, IX | Protagonista da Seção IX (A Verdade de Melessa); morte; funeral |
-| **Capítulo 4** | I | Referência; ensinamentos sobre lágrimas |
-| **Capítulo 5** | III, IV, V, VI, VII | Central; Caixa "Depois"; carta póstuma; pingente; manifestação Cryonys |
-| **Capítulo 6** | III | Referência emocional de Grazielly |
-| **Capítulo 7** | Indireto | Pingente investigado; esconderijo citado |
+| Personagem | Relação | Natureza |
+|------------|---------|----------|
+| **Grazielly** | Neta adotiva | Filha do coração; criou-a desde o nascimento; chamava-a de "minha pequena estrela"; ensinou-a a controlar o brilho; prometeu a Ayla protegê-la |
+| **Ayla** | Protegida / mãe de Grazielly | Acolheu-a sem perguntas; assistiu seu parto e morte; guardou suas últimas palavras e cartas nunca enviadas; cumpriu a promessa de cuidar da filha |
+| **Aurelius** | Destinatário de carta / pai de Grazielly | Nunca o conheceu pessoalmente; recebeu endereço de Sanctrum de Ayla em confidência; escreveu-lhe na hora da morte pedindo que enviasse alguém para proteger Grazielly |
+| **Thalia** | Assistente / amiga leal / curandeira jovem | Colaboradora de confiança; sabia do segredo de Grazielly; auxiliou no envio da carta; cuidou de Melessa na doença; encontrou o corpo após a morte |
+| **Lyris (Nyctara)** | Aliada tardia | Melessa a identificou como "a mulher de Sanctrum"; reconheceu sua missão; extraiu dela a promessa de proteger Grazielly e revelar-lhe a verdade quando estivesse pronta |
+| **Branok** | Ferreiro da vila | Viu o brilho de Grazielly uma vez; Melessa enganou-o com história de cristais Aetheris sob a casa |
+| **Nyx** | Lyrien de Grazielly | Preparou o esconderijo sob o assoalho para que Nyx sobrevivesse ao inverno após sua morte; planejou "tudo, até o fim" |
 
 ---
 
-## ❓ MISTÉRIOS NÃO RESOLVIDOS
+### ARCO NARRATIVO
 
-1. **Como Melessa obteve o selo de Sanctrum?** — Ayla lhe deu antes de morrer, mas a origem do selo e sua conexão com a linhagem de Grazielly permanecem sem explicação completa.
-2. **Melessa tinha alguma ligação prévia com Sanctrum?** — Ela conhecia o endereço do Palácio do Grande Mestre e tinha um método de contato. O nível de conhecimento sugere mais do que uma simples parteira de vila.
-3. **Por que Ayla escolheu Mespiria e Melessa?** — Ayla chegou "como se soubesse exatamente onde ir". A conexão entre Ayla e Melessa antes da chegada nunca foi explicitada.
+#### Capítulo 1 — Acolhimento
+- Acolheu Ayla grávida em sua casa de pedra nos arredores de Mespiria, sem fazer perguntas.
+- Aceitou a "meia-confissão" de Ayla com respeito profissional.
+- Preparou-se para o parto quando os primeiros sinais surgiram.
+- Observou a Convergência Tripla se aproximar e reconheceu o momento cósmico.
+
+#### Capítulo 2 — O Nascimento
+- Foi acordada por Thalia com a notícia de que Ayla estava em trabalho de parto.
+- Reconheceu que o parto seria diferente ("o bebê vem de nádegas").
+- Assistiu ao nascimento de Grazielly sob as três luas convergentes.
+- Viu a criança brilhar — "um fulgor suave que pulsava sob sua pele".
+- Testemunhou a morte de Ayla e recebeu suas últimas palavras e o pingente negro.
+- Decidiu esconder Grazielly de Sanctrum; não contactou Aurelius.
+
+#### Capítulo 3 — Os Anos na Sombra
+- Criou Grazielly por quatro anos na casa de pedra em Mespiria.
+- Ensinou-a a controlar o brilho ("respira fundo, conta até três, deixa o calor dormir").
+- Estabeleceu regras rígidas de proteção (sem brincar longe, sem estranhos, esconder o brilho).
+- Adoentou-se no inverno rigoroso; reconheceu que estava morrendo.
+- Escreveu carta desesperada a Aurelius em Sanctrum.
+- Selou a carta com cera que Thalia trouxera; encontrou portador (mercador de especiarias).
+- Revelou a verdade sobre Grazielly a Lyris.
+- Extraiu de Lyris a promessa de proteger a criança e contar-lhe a verdade.
+- Partiu pacificamente; "um sorriso suave nos lábios".
+- Grazielly cantou em língua antiga (sumério) em seu enterro.
+
+#### Capítulo 5 — Legado Póstumo
+- Sua casa de pedra foi reencontrada por Grazielly e Lyris.
+- O esconderijo de Nyx revelou-se funcional — o Lyrien sobreviveu ao inverno.
+- A Caixa "Depois" foi encontrada sob o assoalho, contendo:
+  - Um pingente com o selo de Sanctrum (mistério não resolvido).
+  - A carta "Para minha pequena estrela" — seu último ato de amor.
+- A leitura da carta desencadeou a primeira manifestação Cryonys de Grazielly.
+- Citada nos pensamentos de Grazielly no dia de seu aniversário de 5 anos.
+
+#### Capítulo 6 — Lembrança
+- Lembrada por Grazielly durante o círculo de compartilhamento de histórias no orfanato.
+
+---
+
+### OBJETOS ASSOCIADOS
+
+| Objeto | Descrição | Destino |
+|--------|-----------|---------|
+| **Casa de pedra** | Residência nos arredores de Mespiria; fornalha, cadeira de balanço com almofada bordada em padrão de Giralis, vaso de Giralis na porta | Abandonada após sua morte |
+| **Pingente negro** | Pedra negra e lisa com selo de Sanctrum gravado; recebido de Ayla em seu leito de morte | Na Caixa "Depois"; posse de Grazielly |
+| **Cartas de Ayla** | Cartas nunca enviadas de Ayla a Aurelius, encontradas entre as coisas da falecida | Possivelmente destruídas ou guardadas (não mencionadas após Cap 3) |
+| **Caixa 'Depois'** | Caixa de madeira clara com dobradiça de ferro; palavra "Depois" gravada na tampa | Posse de Grazielly; levada ao Orfanato Luminis |
+| **Carta 'Para minha pequena estrela'** | Carta póstuma endereçada a Grazielly; último ato de amor | Posse de Grazielly; guardada sob o travesseiro |
+
+---
+
+### CITAÇÕES CANÔNICAS
+
+1. *"Quando você sente o calor dentro de você, você respira fundo. Você conta até três. E você deixa o calor dormir."* — Ensinando Grazielly a controlar o brilho (Cap 3, I)
+
+2. *"Não tem problema, minha pequena. Apenas lembra-se. O calor é nosso segredo. Só nosso."* — Sobre o brilho de Grazielly (Cap 3, I)
+
+3. *"Eu prometi à sua mãe — que ela teria amor, família, um lar. E dei tudo isso. Mas será que dei o suficiente? Será que esconder é a mesma coisa que proteger?"* — Pensamento noturno (Cap 3, I)
+
+4. *"Se não for enviada, Grazielly morrerá sozinha — essa é a única chance que ela tem. E a única coisa que me dá paz para partir."* — Sobre a carta a Aurelius (Cap 3, III)
+
+5. *"Proteja-a, Lyris. Proteja-a de Sanctrum, de políticos, de qualquer um que queira usá-la. E quando ela for mais velha, quando estiver pronta... conte-lhe a verdade sobre quem ela é. Sobre seu pai. Sobre sua mãe. Ela merece saber."* — Pedido a Lyris (Cap 3, IX)
+
+6. *"Ainda não agradecer. O parto ainda está por vir. E se meu instinto estiver certo... esse não será um parto comum."* — A Ayla (Cap 1)
+
+7. *"Grazielly merece viver. E eu não posso mais garantir isso sozinha."* — Carta a Aurelius (Cap 3, III)
+
+---
+
+### ENIGMAS E MISTÉRIOS NÃO RESOLVIDOS
+
+| Mistério | Detalhe |
+|----------|---------|
+| **O pingente com selo de Sanctrum** | Como Melessa obtinha um artefato oficial de Sanctrum? Ayla o entregou em seu leito de morte, mas não se explica de onde veio nem por que Ayla o possuía |
+| **As cartas de Ayla** | Melessa encontrou "cartas nunca enviadas" de Ayla descrevendo os olhos de Aurelius. Que mais havia nessas cartas? O que aconteceu com elas? |
+| **O conhecimento do endereço** | Ayla lhe contou o endereço do Palácio do Grande Mestre em confidência — por que Ayla compartilharia isso com uma parteira de vila? |
+| **A doença** | Nenhum curandeiro identificou a causa — "como se o corpo tivesse simplesmente decidido que era o momento de parar" |
+
+---
+
+### FUNÇÃO NA NARRATIVA
+
+Melessa é a **ancoragem emocional** dos primeiros capítulos. Representa o amor desinteressado e a proteção maternal que Grazielly perde precocemente, forçando-a a encontrar essa segurança em outros lugares (Lyris, Mira, Luminara Elara). Sua morte é o catalisador que desencadeia a cadeia de eventos: a carta a Aurelius → a missão de Lyris → a descoberta do poder Cryonys → a revelação gradual da verdadeira identidade de Grazielly.
+
+Ela também funciona como **guardiã de segredos**: detém informações cruciais sobre a conexão entre Ayla, Aurelius e Sanctrum, e sobre o que Grazielly realmente é. A Caixa "Depois" e o pingente negro são elementos de mistério que alimentam a trama de livros futuros.
+
+---
+
+> ⚠️ **Nota do Arquivista:** Todos os dados desta ficha foram extraídos exclusivamente dos Capítulos 1 a 7 do Livro I — *O Despertar da Herdeira*. Quaisquer informações que venham a ser reveladas em capítulos ou livros futuros deverão ser adicionadas como atualizações canônicas.
