@@ -373,13 +373,52 @@ A existência é sustentada por atos de amor supremo que geram ondas de transfor
 
 | Reino | Elemento | Capital | Características | Nome Original |
 |-------|----------|---------|-----------------|---------------|
-| **Fulmora** | Raio/Tempestade | Alturas | Norte, auroras eternas, torres capta-raios | Fulgora |
-| **Pyralis** | Fogo | Ignatia | Oeste, vulcões, Forjas Primordiais | Pyralis |
-| **Terraxis** | Terra | Petramagna | Leste, montanhas/deserto, minas de cristal Aethra | Terrax |
-| **Thalassia** | Água | Aquarys Prime | Sul, ilhas flutuantes, cidades submersas | Aquarys |
-| **Umbra** | Gelo/Sombra | Umbralis | Extremo Norte, exilados | Umbralis (pejorativo distorcido) |
+| **Fulmora** | Raio/Tempestade | Alturas | Nordeste, "Os Everests", picos mais altos do planeta, adjacente ao Planalto de Sanctrum | Fulgora |
+| **Pyralis** | Fogo | Ignatia | Norte/Noroeste, vulcões, Forjas Primordiais | Pyralis |
+| **Terraxis** | Terra | Petramagna | Extremo leste, montanhas/deserto, minas de cristal Aethra. Conectado a Sanctrum por terra (descida do Planalto para leste) | Terrax |
+| **Thalassia** | Água | Aquarys Prime | Sudeste (analogia: Oceania), muitas ilhas e águas, ilha central | Aquarys |
+| **Umbra** | Gelo/Sombra | Umbralis | Noroeste, hemisfério norte, exilados. Sede da seita oculta de Nyxalor | Umbralis (pejorativo distorcido) |
 | **Aetherion Prime** | Todos (centro) | Sanctrum | Centro político, Palácio do GM | — |
 | **Sylvaris** | Ar/Vento | Zephyra | Sudoeste, ventos livres, montanhas flutuantes | Aeros |
+
+
+
+---
+
+## OCEANOS DE AETHERION
+
+> **REGRA FUNDAMENTAL:** Os oceanos de Aetherion são **mais volumosos** que os da Terra. As porções de terra são **menores**. O planeta é dominado pela água, e vastas regiões oceânicas permanecem inexploradas.
+
+| Oceano | Status | Posição | Descrição |
+|--------|--------|---------|-----------|
+| **Mar de Lyria** | [C] | Oeste de Sylvaris | Oceano profundo que banha Thalendris e as falésias de Thyravalis. Correntes fortes e profundezas imensas. Referência constante nos capítulos canônicos |
+| **Mar de Aurion** | [D] | Norte, entre Sylvaris e Pyralis | Oceano intercontinental separando os dois reinos através das Mil Ilhas de Aurion. Águas frias com correntes térmicas vulcânicas |
+| **Mar de Drakon** | [D] | Leste, entre Sylvaris e Terraxis | Vasto oceano de distância continental. Poucos o ousam cruzar sem escalas. Nome derivado de lendas sobre criaturas abissais |
+| **Mar das Correntes** | [D] | Equatorial | Correntes circulares que conectam Thalassia ao resto do mundo. Principal via marítima de comércio entre reinos |
+| **Mar do Silêncio** | [D] | Noroeste, entre Umbra e Sylvaris | Vastidão quase inexplorada. Águas estranhamente calmas. Rotas clandestinas passam por aqui |
+
+---
+
+## ARQUIPÉLAGOS
+
+| Arquipélago | Status | Posição | Descrição |
+|-------------|--------|---------|-----------|
+| **Mil Ilhas de Aurion** | [D] | Entre Sylvaris e Pyralis | Arquipélago vulcânico servindo como ponte natural entre os dois reinos. Ilhas com fortalezas, rotas comerciais e passagens perigosas |
+| **Arquipélago das Névoas** | [D] | Entre Fulmora e Terraxis | Eternamente coberto de névoa. Perigoso para navegação. Dizem que esconde passagens subterrâneas entre os dois reinos |
+| **Coroa de Coral** | [D] | Entre Sylvaris e Thalassia | Ilhas tropicais e recifes submersos. Culturas sylvari e thalassiana se mesclam aqui. Rota comercial importante |
+| **Ilhas do Vazio** | [D] | Extremo leste, pré-Terraxis | Mitológicas. Dizem que marcam a borda do mundo conhecido. Nenhuma expedição retornou intacta |
+| **Arquipélago Polar Norte** | [D] | Norte | Pequenas ilhas geladas parcialmente mapeadas. O polo norte além delas é desconhecido |
+
+---
+
+## TERRAS DESCONHECIDAS
+
+| Região | Status | Descrição |
+|--------|--------|-----------|
+| **Polo Sul** | INEXPLORADO | Gelo eterno. Nenhum reino reivindica. Nenhuma expedição retornou |
+| **Polo Norte** (além do Arquipélago Polar) | PARCIALMENTE MAPEADO | Águas congeladas e terras desconhecidas além das ilhas setentrionais |
+| **Leste distante** (além de Terraxis) | DESCONHECIDO | O que existe além das fronteiras orientais de Terraxis é matéria de especulação |
+| **Profundezas oceânicas** | INEXPLORADO | Os abismos marinhos de Aetherion guardam segredos que nenhum povo desvendou |
 
 ### Nota sobre Umbra
 Originalmente uma nobre guarda de fronteira. O nome "Umbra" tornou-se um pejorativo distorcido ao longo das eras, ignorando seu papel original.
@@ -533,13 +572,7 @@ Representação dos Sete Reinos, agora com **2 representantes por reino** (Líde
 | **Tempestade Vinculadora** | Tecnologia e Energia | *A definir* | — |
 | **Sombra Vinculadora** | Inteligência e Segurança | *A definir* | — |
 
-#### Sínodo da Fé
-Dois assentos adicionais representando os aspectos espirituais:
-
-| Assento | Representação | Função |
-|---------|---------------|--------|
-| **Sumo Sacerdote de Ilyos** | Luz e Construção | Bênçãos, rituais de purificação |
-| **Sumo Sacerdotisa de Nyxalor** | Sombras e Equilíbrio | Rituais de passagem, julgamentos kármicos |
+> **NOTA:** Os assentos "Sínodo da Fé" foram **removidos** — contradizem a regra canônica de que não existe veneração em Aetherion (Ilyos proibiu). Ver ficha *Mappa Mundi de Aetherion*.
 
 ---
 

@@ -168,32 +168,8 @@
 
 ---
 
-## 🎭 O Sínodo da Fé (Sanga Me)
+> **NOTA CARTOGRÁFICA:** A seção "Sínodo da Fé (Sanga Me)" foi **removida** por contradição com as regras canônicas do universo. Em Aetherion, **não existe veneração a ninguém** — Ilyos proibiu toda forma de culto. Os antigos templos são hoje ruínas arqueológicas e centros de estudo, não locais de adoração. A única exceção é uma seita oculta em Umbra dedicada a Nyxalor e Nihilaryth — uma heresia perseguida pelo resto do mundo. Ver ficha técnica *Mappa Mundi de Aetherion* para detalhes completos.
 
-**Título Ancestral:** Sanga Me ("Sacerdócio do Éter")
-
-**Função:** Representação espiritual, responsável pelos templos, rituais e preservação da memória dos Seraphyens.
-
-### Hierarquia Religiosa
-
-| Título | Nome Ancestral | Tradução | Função |
-|--------|----------------|----------|--------|
-| **Sumo Sacerdote de Ilyos** | **En Sanga Utu** | "Senhor Sacerdote do Sol" | Culto à luz; bênçãos oficiais |
-| **Suma Sacerdotisa de Nyxalor** | **Nin Sanga Gig** | "Senhora Sacerdotisa da Sombra" | Culto aos mistérios; ritos noturnos |
-| **Sacerdote do Vento** | **Sanga Lil** | "Sacerdote do Vento" | Culto a Ventus |
-| **Sacerdotisa das Águas** | **Sanga A** | "Sacerdotisa da Água" | Culto a Aquaryn |
-| **Guardião das Chamas** | **Sanga Izi** | "Sacerdote do Fogo" | Culto a Ignisara |
-| **Sacerdote da Terra** | **Sanga Ki** | "Sacerdote da Terra" | Culto a Terrakos |
-
-### Responsabilidades
-
-- Realização de cerimônias oficiais
-- Bênçãos de coroações e investiduras
-- Interpretação dos textos sagrados
-- Manutenção dos templos
-- Educação religiosa
-
----
 
 # PARTE II: O REINO DO VENTO (SYLVARIS)
 
@@ -345,15 +321,18 @@ Unidade permanente designada à proteção da **Cidadela Luminis** (Orfanato Lum
 
 ### Divisões Territoriais
 
-Sylvaris é dividido em **Cinco Províncias**, cada uma governada por um **Prefeito dos Ventos**:
+Sylvaris é dividido em **Oito Províncias** [C], cada uma governada por um **Prefeito dos Ventos**. Para detalhes completos, consultar a ficha técnica *Sylvaris — O Reino do Vento*.
 
-| Província | Capital | Característica |
-|-----------|---------|----------------|
-| **Zephyra** | Zephyra | Capital; centro político |
-| **Velantis** | Velantis | Centro comercial; orfanatos |
-| **Mespiria** | Mespiria | Agrícola; pacífica |
-| **Altomonte** | Fortaleza Alta | Militar; fronteira norte |
-| **Brisalva** | Portobrisa | Portuária; comércio exterior |
+| Província | Característica |
+|-----------|----------------|
+| **Vaelthyris** | Norte-central; maior e mais populosa; celeiro do reino |
+| **Aelanthys** | Meridional; aromáceos; portos de comércio |
+| **Kaelvrym** | Cordilheira central; Cryonys; território sagrado |
+| **Thyravalis** | Costa ocidental; falésias; faróis etéricos; banhada pelo Mar de Lyria |
+| **Orynthar** | Interior oriental; meseta tecnológica; Refratores de Aurion |
+| **Solanthir** | Sudeste; fronteira com Thalassia via Coroa de Coral; comércio |
+| **Argyris** | Centro-sul; floresta de Argentis; silêncio ecológico |
+| **Nyrvaeth** | Setentrional; fronteira marítima com Pyralis via Mil Ilhas de Aurion |
 
 ### Sistema Judiciário
 
