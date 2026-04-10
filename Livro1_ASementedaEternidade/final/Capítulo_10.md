@@ -4,7 +4,7 @@
 
 ---
 
-# CAPÍTULO X — INTERLÚDIO
+# CAPÍTULO X — A Cadeira de Vidro
 
 # A Cadeira de Vidro
 
@@ -320,7 +320,7 @@ Não ainda.
 
 | Nome | Idade | Função | Significado Narrativo |
 |------|------|--------|----------------------|
-| **Thaloris Ventaris / Lugal Lil** | Vários séculos | Senhor dos Ventos de Sylvaris / ocupante do assento sylvari no Conselho dos 10 | Protagonista do interlúdio; dualidade entre o esteta fútil e o arquiteto das Cargas Fantasmas; seu interesse por Grazielly mistura estratégia e algo mais profundo |
+| **Thaloris Ventaris / Lugal Lil** | Vários séculos | Senhor dos Ventos de Sylvaris / ocupante do assento sylvari no Conselho dos 10 | Protagonista do capítulo; dualidade entre o esteta fútil e o arquiteto das Cargas Fantasmas; seu interesse por Grazielly mistura estratégia e algo mais profundo |
 | **Vethran Noll / En Dili Lil** | 62 ciclos | Burocrata de Sanctrum / Mestre dos Sussurros | Emissário do relatório sobre a queda de Thalendris; deferente mas não servil; voz da cautela estratégica |
 | **Aurelius / En Me** | Vários séculos | Guardião Mestre de Sanctrum | Presença indireta; interage com Thaloris na Seção I como aquele que testa a máscara do Lugal Lil |
 | **Selina Thalassa (Agente ZU)** | — | Mestra da Informação do Conselho dos 10 | Ameaça central do capítulo; descrita como tendo "olhos de Velatrix"; está rastreando as Cargas Fantasmas até o Departamento de Transferências |

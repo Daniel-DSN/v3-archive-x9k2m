@@ -725,8 +725,8 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 | 6 | O Horizonte de Sal e Cristal | Ciclo de Viagem a Thalendris; Koramis; ataque dos mercenários de Umbra nos cais; Grazielly manifesta Cryonys involuntariamente |
 | 7 | A Sombra nos Penhascos de Sal | Nyctara elimina célula de mercenários de UmbRA em caverna de sal; técnicas Véu da Ausência e Névoa Calcinante; descobre ligação Vethran Noll |
 | 8 | O Olho que Tudo Vê | Selina investiga Frequência de Desaparecimento; confronto com Aurelius; Refratores de Aurion; RRA |
-| 9 | O Burocrata e o Vento (Interlúdio) | Vethran Noll — dupla identidade (En Dili Lil / burocrata); queda da célula de Thalendris; relatório secreto a Thaloris; Rotas Fantasma |
-| 10 | A Cadeira de Vidro (Interlúdio) | Thaloris Ventaris em Sanctrum — máscara de nobre fútil no Conselho dos 10; estratégia de esconder a coroa; diálogo com Vethran sobre Selina e a Semente |
+| 9 | O Burocrata e o Vento | Vethran Noll — dupla identidade (En Dili Lil / burocrata); queda da célula de Thalendris; relatório secreto a Thaloris; Rotas Fantasma |
+| 10 | A Cadeira de Vidro | Thaloris Ventaris em Sanctrum — máscara de nobre fútil no Conselho dos 10; estratégia de esconder a coroa; diálogo com Vethran sobre Selina e a Semente |
 
 ---
 
