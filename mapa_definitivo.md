@@ -401,12 +401,12 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 
 ---
 
-## Mestra Selina Thalassa (Agente ZU)
+## Mestra Selina Thalassa (A Velatrix)
 
 | Atributo | Valor |
 |----------|-------|
 | **Nome Completo** | Selina Thalassa |
-| **Codinome** | "ZU" |
+| **Codinome** | "A Velatrix" |
 | **Título** | Mestra da Informação |
 | **Posição** | Integrante do **Conselho dos 10** em Sanctrum |
 | **Origem** | Descendente de linhagem nobre de Thalassia |
@@ -460,7 +460,7 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 | **Posição Real** | Chefe de inteligência de Sylvaris; infiltrado há 30 ciclos |
 | **Função** | Cria e gerencia as Cargas Fantasmas (registros falsos de transferência de órfãos); mantém Rotas Fantasma para comunicação e transporte entre Sanctrum e Zephyra |
 | **Superior** | Thaloris Ventaris (Lugal Lil) |
-| **Ameaça** | Selina Thalassa (Agente ZU) está rastreando as Cargas Fantasmas até o seu departamento |
+| **Ameaça** | Selina Thalassa (A Velatrix) está rastreando as Cargas Fantasmas até o seu departamento |
 
 ---
 
@@ -847,7 +847,7 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 - ✅ Mãe de Grazielly confirmada como **Ayla** (Elainy movido para Ecos Ancestrais)
 
 #### 2. Atualização de Personagens e Linhagens
-- ✅ **Mestra Selina Thalassa (Agente ZU)**: Adicionada como integrante do Conselho dos 10, Mestra da Informação, descendente de linhagem nobre de Thalassia, nó central de inteligência da Vanguarda
+- ✅ **Mestra Selina Thalassa (A Velatrix)**: Adicionada como integrante do Conselho dos 10, Mestra da Informação, descendente de linhagem nobre de Thalassia, nó central de inteligência da Vanguarda
 - ✅ **Lyris (A Nyctara)**: Atualizada com pertencimento à Vanguarda e técnica assinatura Thermaris (Vapor)
 - ✅ **Marethyus (O Bruxo)**: Adicionado como patriarca da linhagem Marethyu (Filhos do Mar Profundo), avô de Grazielly, exilado em Cristalnor, domínio anômalo sobre Água Sombra
 

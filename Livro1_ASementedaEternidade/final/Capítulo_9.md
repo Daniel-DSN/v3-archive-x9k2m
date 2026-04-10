@@ -128,9 +128,23 @@ A burocracia fantasma não movia apenas crianças. Movia também o homem que as 
 
 Ele tinha mecanismos para isso. Um estagiário chamado Gorren — jovem, ambicioso, tão desesperado por reconhecimento que faria qualquer coisa que Vethran pedisse sem questionar — cobria suas ausências. Vethran pré-preparava pilhas de trabalho para Gorren processar durante sua viagem, de forma que o fluxo de documentos no terceiro andar nunca diminuísse. Os carimbos continuavam sendo usados. Os formulários continuavam sendo processados. A máquina burocrática continuava funcionando como se Vethran nunca tivesse saído.
 
+Mas Gorren era apenas a primeira camada — a camada visível, aquela que enganava os olhos humanos. Havia uma segunda, mais sutil, projetada para enganar o que os olhos humanos não podiam ver.
+
+Vethran enfiou a mão sob o tampo de sua mesa de metal — uma superfície que, ao contrário das mesas de cristal que predominavam no Palácio de Cristal, era deliberadamente opaca e funcional — e seus dedos encontraram, no espaço oco que ele havia esculpido há anos, um pequeno cristal do tamanho de um polegar. Era opaco, de um branco leitoso que não refletia luz, e se parecia com qualquer resíduo mineral que um pedreiro pudesse ter deixado acidentalmente durante a construção do prédio. Ninguém olharia duas vezes para ele. Esse era o ponto.
+
+Vethran pressionou o cristal com o polegar, sentindo a pulsação familiar de Aethra em sua superfície — uma vibração tão sutil que apenas quem sabia o que procurava conseguiria detectar. O cristal aqueceu por um instante e depois esfriou, e Vethran soube que estava funcionando. O Simulador de Assinatura Biométrica — um dispositivo que ele mesmo havia desviado das reservas de tecnologia restrita de Umbra anos atrás, antes de Sylvaris ordenar que todas as dependências com a rede das sombras fossem cortadas — estava emitindo sua frequência padrão: uma réplica exata do ritmo cardíaco, da respiração e da assinatura etérica de Vethran Noll. Para qualquer sensor de monitoramento de longo alcance — incluindo os Refratores de Aurion que Selina usava para vigiar o palácio —, aquele cristal dizia, em uma linguagem que apenas máquinas compreendiam: *Vethran Noll está sentado nesta mesa. Vethran Noll está respirando. Vethran Noll não foi a lugar nenhum.*
+
+Para os olhos onipresentes da Velatrix, ele nunca teria saído daquela cadeira — mesmo estando a centenas de léguas de distância, em um Veleiro de Estrada não registrado, cruzando fronteiras que não existiam em nenhum mapa.
+
+Vethran recolocou o cristal em seu esconderijo e ajustou o tampo da mesa com a precisão de quem já havia feito aquilo dezenas de vezes. Antes de sair, virou-se para Gorren, que estava organizando a pilha de formulários pré-aprovados na mesa ao lado.
+
+— Só carimbe o que já está pronto — Vethran disse, com a voz casual de um supervisor que dá instruções de rotina. — Não abra nada novo. Se alguém perguntar, diga que estou no arquivo, conferindo transfências do ciclo anterior.
+
+Gorren assentiu com aquele entusiasmo excessivo que caracterizava os jovens que ainda acreditavam que a burocracia era uma carreira prestigiosa. Vethran saiu sem olhar para trás.
+
 Mas Selina Thalassa não era Gorren.
 
-*Agente ZU*, Vethran pensou, e o codinome de Selina carregava um peso específico em sua mente — não o peso do medo, mas o peso do respeito profissional, da mesma forma que um xadrezista respeita um adversário que pode vê-lo pensando três lances à frente. *A Mestra da Informação. A mulher que descobre padrões onde outros veem ruído. Ela já rastreou as Cargas Fantasmas até os relatórios do Departamento de Transferências. Ela já sabe que os documentos passam pelas minhas mãos. O que ela ainda não sabe é o que existe abaixo da superfície — mas está cavando.*
+*A Velatrix*, Vethran pensou, e o codinome de Selina carregava um peso específico em sua mente — não o peso do medo, mas o peso do respeito profissional, da mesma forma que um xadrezista respeita um adversário que pode vê-lo pensando três lances à frente. *A Mestra da Informação. A mulher que descobre padrões onde outros veem ruído. Ela já rastreou as Cargas Fantasmas até os relatórios do Departamento de Transferências. Ela já sabe que os documentos passam pelas minhas mãos. O que ela ainda não sabe é o que existe abaixo da superfície — mas está cavando.*
 
 Vethran sabia que Selina estava investigando. Não sabia até onde ela havia chegado — suas fontes dentro do Palácio de Cristal eram boas, mas não oniscientes —, mas sabia o suficiente para sentir o chão tremendo sob seus pés. Cada dia que passava era um dia a menos de segurança. Cada formulário que ele processava era um formulário que Selina poderia eventualmente cruzar com os registros reais e descobrir que não correspondia.
 
@@ -152,7 +166,7 @@ Vethran esperou até o final do expediente — até que o terceiro andar esvazia
 
 Ele escreveu em um papel que parecia papel de escritório comum — os mesmos blocos que a logística do palácio fornecia, o mesmo tipo que ele usava para anotações de rotina. Mas as palavras que surgiam sob a ponta da caneta eram invisíveis a olho nu. Elas só existiam na interseção entre o composto e a frequência, um espaço que só era acessível para quem possuía a chave etérica — e Vethran possuía apenas metade dela. A outra metade estava em Zephyra, na câmara privada de Thaloris.
 
-*"Lugal Lil. Relatório de emergência. Célula Thalendris: comprometida. Cinco operativos: silenciados. Equipamento: destruído. Dados: não transmitidos. Responsável provável: agente conhecida, mesma que monitoramos por sua ordem. Recomendação: acelerar cronograma de contingência na costa oeste. Agente ZU avançando em ritmo que sugere acesso a fontes internas de nível superior. Não posso confirmar até que ponto. O risco de exposição do Canal dos Ventos é real e crescente. Aguardo instruções. En Dili Lil."*
+*"Lugal Lil. Relatório de emergência. Célula Thalendris: comprometida. Cinco operativos: silenciados. Equipamento: destruído. Dados: não transmitidos. Responsável provável: agente conhecida, mesma que monitoramos por sua ordem. Recomendação: acelerar cronograma de contingência na costa oeste. A Velatrix avançando em ritmo que sugere acesso a fontes internas de nível superior. Não posso confirmar até que ponto. O risco de exposição do Canal dos Ventos é real e crescente. Aguardo instruções. En Dili Lil."*
 
 Vethran releu a mensagem mentalmente, pesando cada palavra como quem pesa pedras em uma balança. Havia coisas que ele não escreveu — que não podia escrever, mesmo em um cifrador etérico que só Thaloris podia decifrar. Não mencionou Grazielly pelo nome, porque nomes em mensagens eram vulnerabilidades. Não mencionou os Espelhos de Eco, porque detalhes operacionais em trânsito eram riscos desnecessários. Não mencionou a possibilidade — que ele considerava real — de que Nyctara já tivesse ligado o codinome "Vethran" ao burocrata Vethran Noll do Departamento de Transferências.
 
@@ -210,6 +224,8 @@ Ao longe, as torres de cristal do Palácio brilhavam sob a luz de Aurion, impér
 | **Cilindro de Metal** | Dispositivo de comunicação física do Dilmun-Vashar; usado para transmitir mensagens cifradas entre operativos |
 | **Caneta de Aetherite** | Instrumento de escrita invisível; a tinta só se revela sob frequência etérica específica |
 | **Burocracia Fantasma** | Sistema paralelo de documentos e rotas que existe apenas na memória dos operadores; a mesma infraestrutura que move as Cargas Fantasmas |
+| **Simulador de Assinatura Biométrica** | Pequeno cristal opaco escondido sob a mesa de Vethran; emite uma réplica de sua assinatura etérica, ritmo cardíaco e respiração, enganando os sensores de monitoramento de longo alcance (incluindo os Refratores de Aurion); tecnologia desviada das reservas de Umbra |
+| **Eco de Presença** | Técnica de Vethran que combina cobertura humana (Gorren) com cobertura tecnológica (Simulador) para manter sua ausência invisível a Selina |
 
 ### Conceitos Narrativos
 

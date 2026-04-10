@@ -178,7 +178,7 @@ O Marechal de Ferro é o comandante operacional de todas as forças armadas de S
 
 ### Departamento de Investigações Especiais — Olho de Aurion
 
-**Responsável:** Selina Thalassa (Agente ZU / Mestra da Informação)
+**Responsável:** Selina Thalassa (A Velatrix / Mestra da Informação)
 
 O **Olho de Aurion** é o departamento de inteligência de Sanctrum liderado por Selina Thalassa, operando a partir da Câmara dos Sussurros no terceiro subsolo da Torre de Aurion. Embora formalmente vinculado ao assento X (A Sentinela) do Conselho dos 10, Selina opera com autonomia considerável — reporting diretamente ao En Me em questões críticas, mas mantendo independência investigativa.
 

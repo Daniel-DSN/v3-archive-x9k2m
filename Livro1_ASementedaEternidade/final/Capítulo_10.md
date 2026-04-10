@@ -112,7 +112,7 @@ Ele se virou para Vethran, e o sorriso que cruzou seus lábios não tinha absolu
 
 Ele caminhou até uma das prateleiras de cristais e retirou um exemplar — um cristal Aetheris de cor âmbar, daqueles usados para refratar luz em espectros coloridos. Segurou-o diante de si, girando-o lentamente entre os dedos até que a luz de Aurion o atravessasse e projetasse um padrão dourado na parede oposta.
 
-— A melhor forma de esconder uma coroa não é colocá-la em um cofre trancado — ele disse, sua voz baixa e precisa, como se estivesse compartilhando um segredo que apenas as pedras do palácio podiam ouvir. — É colocá-la sob um chapéu de plumas. Todos veem as plumas. Ninguém procura a coroa. Eu não mando um diplomata porque um diplomata seria observado. Um diplomata seria avaliado. Selina — a Agente ZU, como você bem sabe — monitoraria cada voto, cada aliança, cada sorriso diplomático, procurando padrões que revelassem as intenções de Sylvaris. Ela é brilhante nisso. Talvez a melhor que Sanctrum já produziu. E é exatamente por isso que eu me coloquei no caminho dela como um alvo que não vale a pena mirar.
+— A melhor forma de esconder uma coroa não é colocá-la em um cofre trancado — ele disse, sua voz baixa e precisa, como se estivesse compartilhando um segredo que apenas as pedras do palácio podiam ouvir. — É colocá-la sob um chapéu de plumas. Todos veem as plumas. Ninguém procura a coroa. Eu não mando um diplomata porque um diplomata seria observado. Um diplomata seria avaliado. Selina — a Velatrix, como você bem sabe — monitoraria cada voto, cada aliança, cada sorriso diplomático, procurando padrões que revelassem as intenções de Sylvaris. Ela é brilhante nisso. Talvez a melhor que Sanctrum já produziu. E é exatamente por isso que eu me coloquei no caminho dela como um alvo que não vale a pena mirar.
 
 Thaloris depositou o cristal de âmbar de volta na prateleira e recostou-se contra a parede, os braços cruzados, a expressão de um homem que está desfrutando profundamente de sua própria narrativa.
 
@@ -176,7 +176,7 @@ Thaloris se virou da janela e caminhou de volta à mesa, mas não voltou ao cava
 
 — Há uma segunda questão — ele disse, e a forma como pronunciou "segunda" indicava que era a questão que realmente importava. — Continue.
 
-— Selina Thalassa. — Vethran pronunciou o nome como quem pronuncia o nome de uma tempestade que se aproxima — com respeito profissional, com cautela, e com a consciência de que não há forma de impedir que ela chegue. — A Agente ZU tem olhos de Velatrix. Ela já rastreou as Cargas Fantasmas até os relatórios do Departamento de Transferências. Já sabe que os documentos passam pelas minhas mãos — ou, mais precisamente, que passam pelas mãos de Vethran Noll. O que ela ainda não sabe é o que existe abaixo da superfície.
+— Selina Thalassa. — Vethran pronunciou o nome como quem pronuncia o nome de uma tempestade que se aproxima — com respeito profissional, com cautela, e com a consciência de que não há forma de impedir que ela chegue. — A Velatrix enxerga através de qualquer cortina de fumaça. Já rastreou as Cargas Fantasmas até os relatórios do Departamento de Transferências. Já sabe que os documentos passam pelas minhas mãos — ou, mais precisamente, que passam pelas mãos de Vethran Noll. O que ela ainda não sabe é o que existe abaixo da superfície.
 
 — Ainda — Thaloris repetiu, e a palavra carregava um peso específico.
 
@@ -323,7 +323,7 @@ Não ainda.
 | **Thaloris Ventaris / Lugal Lil** | Vários séculos | Senhor dos Ventos de Sylvaris / ocupante do assento sylvari no Conselho dos 10 | Protagonista do capítulo; dualidade entre o esteta fútil e o arquiteto das Cargas Fantasmas; seu interesse por Grazielly mistura estratégia e algo mais profundo |
 | **Vethran Noll / En Dili Lil** | 62 ciclos | Burocrata de Sanctrum / Mestre dos Sussurros | Emissário do relatório sobre a queda de Thalendris; deferente mas não servil; voz da cautela estratégica |
 | **Aurelius / En Me** | Vários séculos | Guardião Mestre de Sanctrum | Presença indireta; interage com Thaloris na Seção I como aquele que testa a máscara do Lugal Lil |
-| **Selina Thalassa (Agente ZU)** | — | Mestra da Informação do Conselho dos 10 | Ameaça central do capítulo; descrita como tendo "olhos de Velatrix"; está rastreando as Cargas Fantasmas até o Departamento de Transferências |
+| **Selina Thalassa (A Velatrix)** | — | Mestra da Informação do Conselho dos 10 | Ameaça central do capítulo; descrita como tendo "olhos de Velatrix"; está rastreando as Cargas Fantasmas até o Departamento de Transferências |
 | **Lyris / Nyctara** | — | Agente aposentada / ex-lenda da Vanguarda | Responsável pela destruição da célula de Thalendris; referida como obstáculo não hostil |
 
 ### Locais
