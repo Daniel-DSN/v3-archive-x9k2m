@@ -568,11 +568,29 @@ Melessa sorriu — um sorriso que era, ao mesmo tempo, alívio e tristeza e grat
 
 — Eu prometo — Lyris disse, e a promessa não foi feita a Aurelius, nem à Ordem, mas à velha parteira cujos olhos começavam a se fechar com o peso da exaustão.
 
-— Obrigada — Melessa sussurrou. — Agora vá. Cuide da minha menina.
+Melessa apertou a mão de Lyris com força — uma força que não combinava com o corpo frágil da qual parecia estar escapando — e abriu os olhos de novo. Havia algo mais. Algo que ela estava segurando com as últimas unhas de sua vontade.
+
+— Tem uma coisa — ela sussurrou, e a voz falhou no meio da frase, como um fio que se parte. — Debaixo... debaixo das tábuas... perto da cama...
+
+Ela tossiu. Não a tosse úmida e controlada que havia interrompido sua confissão antes — essa foi diferente. Violenta. Profunda. Um som que veio dos pulmões como se algo dentro deles estivesse se rasgando. Melessa se curvou para frente, a mão que segurava a de Lyris agora apertando com desespero, seus olhos arregalados com algo que não era medo — era urgência. A urgência de quem sabe que está prestes a ser silenciado e tem uma última palavra para dizer.
+
+Lyris largou o chá e segurou os ombros de Melessa com ambas as mãos.
+
+— Melessa, não — ela disse, sua voz carregando uma autoridade que não era de agente, mas de quem se recusa a perder alguém naquele momento. — Respire. Não tente falar. Respire primeiro.
+
+Melessa respirou — ou tentou. O ar entrou em soluços curtos e irregulares, como se seus pulmões tivessem decidido que já haviam feito o suficiente. Ela ergueu uma mão trêmula na direção da cama, os dedos apontando para o assoalho, a boca se movendo em palavras que não tinham mais ar para serem pronunciadas. Seus lábios formaram algo que Lyris não conseguiu ler — uma palavra, talvez um nome — e então a mão caiu.
+
+Não sobre a cama. Sobre o braço de Lyris. Lá ficou, pesada e quente, enquanto os olhos de Melessa se fechavam novamente — desta vez não com exaustão, mas com algo que parecia resignação. A resignação de quem lutou até a última fresta de força e perdeu por uma fração de Pulso.
+
+— Amanhã — Melessa sussurrou, e a palavra era tão fina que Lyris mal ouviu. — Amanhã eu te mostro... onde está...
+
+Mas o amanhecer não trouxe a continuação da frase.
+
+— Obrigada — Melessa murmurou, e era difícil dizer se ela ainda sabia o que dizia, ou se as palavras eram o último automatismo de uma mente que estava se apagando como uma lâmpada Aetheris sem cristal. — Cuide da minha menina.
 
 ## X. A Despedida
 
-A morte veio como uma visita gentil, trazendo paz em vez de dor. Na manhã seguinte, quando Grazielly acordou com a cabeça apoiada no colo de Lyris, ela sabia — com aquela consciência que não precisava de palavras para ser compreendida — que Melessa havia partido.
+A morte veio antes do amanhecer, silenciosa como o vento entre as Giralis. Na manhã seguinte, quando Grazielly acordou com a cabeça apoiada no colo de Lyris, ela sabia — com aquela consciência que não precisava de palavras para ser compreendida — que Melessa havia partido.
 
 A velha parteira jazia em sua cama com um sorriso suave nos lábios, suas mãos pousadas sobre o peito como se estivesse apenas dormindo, seus olhos fechados em um descanso que parecia profundo e sereno. Não havia dor em seu rosto, apenas uma paz que parecia ter vindo de muito longe, de um lugar onde o sofrimento não existia e o cansaço era apenas uma memória.
 

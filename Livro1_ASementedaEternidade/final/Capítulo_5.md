@@ -260,6 +260,10 @@ Era pequena. Do tamanho aproximado de dois punhos fechados lado a lado. Feita de
 
 Lyris segurou a caixa por um momento, sentindo seu peso. Era leve — não havia muito dentro. Mas a palavra na tampa era carregada de significado que ia além das três sílabas que a compunham. *Depois.* Depois do quê? Depois da morte de Melessa? Depois de Grazielly crescer? Depois de algum evento que Melessa havia previsto mas que Lyris não conseguia imaginar?
 
+E então, como uma lâmina de luz atravessando a névoa de uma lembrança, a última noite de Melessa voltou à sua mente — a mão trêmula apontando para o assoalho, os lábios se movendo em palavras sem ar, a urgência muda de quem tenta entregar um legado e perde por uma fração de Pulso. *Debaixo... debaixo das tábuas... perto da cama...* Melessa tinha tentado lhe contar. Tinha tentado naquela última noite, quando os pulmões a traíram e as palavras morreram em sua garganta.
+
+*Depois*, Lyris pensou, e um peso se instalou em seu peito. *Depois de mim. É isso que você quis dizer, não é, Melessa? Depois que eu partir, cuide de procurar.*
+
 — Grazielly — Lyris chamou suavemente, voltando-se para a criança. — Olha o que eu encontrei.
 
 Grazielly ergueu os olhos de Nyx e olhou para a caixa que Lyris segurava. Seus olhos percorreram a madeira clara, a dobradiça de ferro, a palavra gravada na tampa. E no momento em que reconheceu a caligrafia — aquelas letras inclinadas para a direita, com curvas que eram ao mesmo tempo firmes e ternas, que eram a caligrafia de Melessa, a caligrafia das cartas que Melessa escrevia para os vizinhos, das listas de compras, dos bilhetes que deixava na mesa quando ia ao mercado —, suas mãos pararam de acariciar Nyx e começaram a tremer.
