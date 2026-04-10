@@ -189,9 +189,9 @@ As três luas ainda eram visíveis no céu da manhã durante o funeral, raras em
 
 | Origem | Destino | Distância/Tempo | Notas |
 |--------|---------|-----------------|-------|
-| **Zephyra** | Mespiria | Algumas horas de Veleiro até Velantis + caminhada até Mespiria | Ayla viajou de Veleiro (Cap. 1); Lyris a pé no inverno, com Veleiros inativos (Cap. 3) |
+| **Zephyra** | Mespiria | Algumas horas de Veleiro até Velantis + caminhada até Mespiria | Ayla viajou de Veleiro até Velantis, depois a pé (Cap. 1) |
 | **Velantis** | Mespiria | Algumas horas de viagem (meio período) | Cap. 5: "Partimos ao amanhecer, chegamos a Mespiria no fim da manhã" |
-| **Mespiria** | Velantis | Idem | Cap. 3: estradas ficam intransitáveis no inverno rigoroso |
+| **Mespiria** | Velantis | Idem | Cap. 3: 2 dias e 1 noite no inverno rigoroso (neve + criança) |
 | **Mespiria** | Sanctrum | Doze dias de viagem (via carta) | Carta de Melessa viajou 12 dias por montanhas e vilas intermediárias; Cap. 3 |
 | **Zephyra** | Velantis | Dias de viagem por estrada | Cap. 1, 3; Zephyra fica ao norte, Velantis ao sul |
 | **Velantis** | Zephyra | Dias de viagem | Cap. 5: Lyris passou por Zephyra antes de se estabelecer em Velantis |
