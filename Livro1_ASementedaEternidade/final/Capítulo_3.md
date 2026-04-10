@@ -596,6 +596,26 @@ A velha parteira jazia em sua cama com um sorriso suave nos lábios, suas mãos 
 
 Grazielly não gritou. Não correu. Não fez o que outras crianças de sua idade talvez fizessem ao encontrar a morte tão próxima. Em vez disso, ela se sentou na beira da cama e segurou a mão de Melessa — uma mão que ainda estava morna, que ainda parecia carregar o calor de uma vida bem vivida.
 
+Lyris permaneceu de pé ao lado da cama por um longo momento, imóvel, observando. Mas dentro dela a agente que durante trinta e dois anos havia sido chamada de Nyctara nas sombras de Sanctrum não conseguia desligar seus instintos — e aqueles instintos estavam gritando. *Debaixo... debaixo das tábuas... perto da cama...* As últimas palavras de Melessa ecoavam em sua mente como um farol que não se apaga. Uma testemunha moribunda apontando para um esconderijo não era algo que Nyctara ignorasse. Nunca havia ignorado. E não pretendia começar agora.
+
+Ela ajoelhou-se no assoalho de madeira, seus dedos encontrando as tábuas ao redor da cama com a eficiência de quem havia aberto compartimentos secretos em dezenas de casas ao longo de uma carreira inteira. Sentiu uma que cedia levemente sob pressão — mal perceptível, mas presente. Encaixou a ponta dos dedos na borda e puxou.
+
+Não encontrou madeira. Encontrou gelo.
+
+Uma camada fina de gelo azulado cobria a superfície das tábuas como se alguém tivesse derramado água e ela houvesse congelado instantaneamente — exceto que não era água congelada. A textura era diferente. Mais densa. Mais dura. Lyris pressionou com a unha e a superfície não cedeu, não marcou. Era como tentar riscar diamante com osso.
+
+Ela se virou para Grazielly. A criança estava sentada na beira da cama, as mãos da avó entre as suas, os olhos fixos no rosto sereno de Melessa. Mas algo estava diferente. A temperatura na sala havia caído — não o frio gradual do inverno que penetrava pelas janelas, mas algo abrupto, localizado, como se uma fonte de frio houvesse sido aberta no centro do quarto. A respiração de Lyris condensava em nuvens brancas. E das mãos de Grazielly, onde elas tocavam a pele de Melessa, pequenos veios de geada se espalhavam pelo tecido do cobertor, como se o luto da criança estivesse literalmente congelando tudo ao seu redor.
+
+Lyris olhou de volta para o assoalho. O gelo azulado permanecia intacto, selando o segredo que Melessa havia tentado revelar com seu último gesto. Tentou novamente — desta vez com a lâmina oculta no cano da bota, deslizando-a pela superfície com a força precisa de quem sabe onde aplicar alavanca. Nada. Nem um arranhão. O gelo era etérico — o tipo de manifestação que apenas um poder elemental poderia produzir — e tinha a resistência de algo que não pertencia ao mundo natural.
+
+Forçar aquilo seria destrutivo. O que quer que Melessa tivesse escondido ali, qualquer tentativa de quebrar o selo por força bruta arriscava danificar o conteúdo. E a criança... Lyris estudou Grazielly com olhos de quem avalia ameaças e vulnerabilidades há décadas. Seus olhos estavam vidrados, o corpo rígido, a pele pálida. Ela estava entrando em choque — e o frio que suas próprias mãos estavam gerando só pioraria a situação se Lyris não a removesse dali.
+
+A nevasca rugiu lá fora, fazendo a casa de pedra tremer. Se não partissem logo, ficariam presas até a primavera — e com uma criança de quatro anos em choque térmico e emocional, isso significava morte.
+
+O segredo de Melessa teria que esperar. A vida de Grazielly não podia.
+
+Lyris se levantou, afastando-se do assoalho selado com um movimento deliberado, e envolveu os ombros de Grazielly com o manto mais espesso que encontrou. A geada nas mãos da criança brilhou uma última vez — azul, fraca, quase triste — e depois se apagou, como se o próprio poder que a havia gerado entendesse que já havia cumprido sua função. Lyris fez uma nota mental: quando o gelo derretesse — quando o degelo da primavera liberasse as tábuas — ela voltaria. Melessa tinha algo importante escondido ali, e Lyris não era o tipo de agente que deixava um segredo para trás. Mas naquela manhã, com uma tempestade engolindo o mundo lá fora e uma criança em choque ao seu lado, a única decisão que uma profissional como ela podia tomar era aquela que protegia a vida. Todo o resto era secundário.
+
 — Você está em um lugar melhor agora, vó — ela sussurrou, suas lágrimas finalmente escorrendo livres como um rio que havia sido contido por muito tempo. — Você está com minha mãe. Vocês estão juntas agora. E um dia, eu vou encontrar vocês de novo. Eu prometo.
 
 Ela permaneceu ali por um tempo que não soube medir. Quando finalmente se levantou, ela lavou o rosto da avó com água morna, penteou seus cabelos brancos com delicadeza, ajeitou suas roupas com o cuidado de alguém que estava realizando um ritual sagrado.
@@ -872,6 +892,7 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | **Conselho de Correntes** | Órgão consultivo de Sylvaris; sete cadeiras no Savelumao |
 | **Cristais Aetheris** | Minerais luminescentes que armazenam e canalizam energia elemental |
 | **Brilho** | Manifestação visível de afinidade elemental sob a pele |
+| **Bloqueio de Cryonys** | Manifestação involuntária de Cryonys desencadeada pelo luto de Grazielly após a morte de Melessa; selou o assoalho com gelo etérico, impedindo Lyris de acessar o esconderijo de Melessa até o degelo da primavera |
 
 ### Criaturas
 
@@ -884,6 +905,7 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | Evento | Significado |
 |--------|-------------|
 | **Morte de Melessa** | Fim da proteção direta de Grazielly em Mespiria; gatilho para a carta |
+| **Bloqueio de Cryonys** | Gelo etérico involuntário de Grazielly sela o esconderijo no assoalho; Lyris decide priorizar a vida da criança |
 | **Revelação a Grazielly** | Melessa conta à criança que seu brilho é um segredo; primeira ferramenta de sobrevivência |
 | **Carta de Melessa** | Mensagem desesperada enviada a Aurelius; revela a existência de Grazielly |
 | **Convocação de Lyris** | Aurelius chama a agente aposentada para uma missão que não pode explicar |
@@ -902,6 +924,7 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | **4 anos (3 dias depois)** | Lyris parte de Sanctrum; travessia do continente |
 | **4 anos (6+ dias)** | Lyris chega a Zephyra; audiência com Thaloris Ventaris |
 | **4 anos (pós-audiência)** | Lyris chega a Velantis; Grazielly entra no Orfanato Luminis |
+| **4 anos (madrugada da morte de Melessa)** | Lyris tenta investigar o assoalho — Bloqueio de Cryonys impede acesso; decisão tática: priorizar Grazielly |
 
 ---
 

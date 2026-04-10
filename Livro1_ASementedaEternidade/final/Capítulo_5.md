@@ -200,6 +200,8 @@ Grazielly virou-se para Lyris, os olhos arregalados.
 
 Lyris ouviu. Seus anos como agente haviam afiado seus sentidos a ponto de detectar sons que a maioria das pessoas nem registrava, e aquele chiado — vindo de algum lugar debaixo do assoalho, próximo à cama que Melessa e Grazielly compartilhavam — era inconfundível.
 
+Mas antes de se mover, algo prendeu o olhar de Lyris nas tábuas do assoalho. Um resíduo fino de umidade nas juntas entre as peças de madeira — não a umidade natural do degelo primaveril que pingava das calhas lá fora, mas algo com uma textura diferente, mais densa, como se um gelo que não era da natureza houvesse se dissolvido ali semanas atrás e deixado para trás apenas essa lembrança. O selo. Lyris se lembrou daquela manhã — do gelo azulado que havia coberto as tábuas quando Grazielly chorava ao lado do corpo de Melessa, do frio impossível que impedira qualquer investigação, da decisão que a obrigara a deixar aquele segredo para trás. Agora, com o calor da primavera penetrando a casa de pedra, o bloqueio havia desaparecido. As tábuas estavam livres. *Eu disse que voltaria*, pensou Lyris, e a promessa silenciosa que havia feito a si mesma naquela manhã de inverno finalmente podia ser cumprida.
+
 — Fica aqui — Lyris disse, e seu tom não admitia discussão. Deixou a sacola de viagem no chão e caminhou até o canto onde a cama estava. Ajoelhou-se, seus dedos encontrando as tábuas do assoalho até que sentiu uma que estava solta — mal perceptível, mas solta. Ela a levantou.
 
 Debaixo, havia um espaço oco — um esconderijo que Lyris reconheceu como algo que Melessa havia preparado propositalmente. Um buraco forrado com cobertores velhos, alguns deles com marcas de dentes e arranhões que podiam ser apenas de um animal pequeno. E no centro desse ninho improvisado, encolhido em uma bola de pelos prateados que mal se erguiam com a respiração, havia algo que fez o coração de Lyris se apertar.
@@ -563,7 +565,7 @@ Este é o capítulo das promessas cumpridas e das que ainda aguardam. É aqui qu
 
 A carta de Melessa é o coração emocional deste capítulo — e talvez de todo o Livro I. Cada palavra foi escrita por uma mulher que sabia que estava morrendo, mas que escolheu transformar sua despedida em um ato de amor. Não há auto-piedade, não há pedido de compaixão — apenas a certeza inabalável de que o amor sobrevive à morte, e que Grazielly carrega dentro de si algo que nenhum período de escuridão poderá apagar.
 
-A manifestação Cryonys — as flores de gelo que surgiram nas mãos de Grazielly durante o funeral simbólico de Melessa — marca o despertar do poder que a define como Herdeira. Não foi uma explosão dramática, mas algo mais sutil e mais profundo: cristais formando-se ao redor de cada lágrima que escorria por seu rosto, como se o próprio Cryonys estivesse respondendo à dor com beleza.
+Há também uma revelação estrutural neste capítulo: a demora de 32 dias entre a morte de Melessa e o retorno a Mespiria nunca foi negligência de Lyris. Naquela madrugada, após a morte da parteira, a espiã tentou imediatamente investigar o esconderijo que Melessa havia indicado sob o assoalho — mas o luto de Grazielly desencadeou uma manifestação involuntária de Cryonys tão intensa que selou as tábuas com uma camada de gelo etérico impenetrável. Lyris, avaliando que forçar o bloqueio destruiria o conteúdo e que Grazielly estava entrando em choque com a nevasca ameaçando a casa, tomou a única decisão que uma profissional de seu calibre poderia tomar: proteger a vida da criança e voltar quando a primavera derretesse o selo. A primeira manifestação de Cryonys de Grazielly não foi um despertar consciente, mas um bloqueio involuntário — e serviu, ironicamente, para proteger o próprio legado de Melessa até o momento certo de ser revelado.
 
 E no dia em que completa cinco anos, Grazielly recebe um presente de um pai que não conhece — um cristal Aetheris com luz dourada que pulsa como um coração —, uma festa que a faz sentir pertencente pela primeira vez desde que perdeu tudo, e a confirmação de que, mesmo depois da maior dor, é possível ser feliz de novo.
 
@@ -623,6 +625,7 @@ E no dia em que completa cinco anos, Grazielly recebe um presente de um pai que 
 | **Passagem pelo Sinalizador de Aethra** | O cristal pulsou ao detectar a assinatura de Grazielly; hesitação perceptível por Lyris |
 | **Retorno a Mespiria** | Grazielly reencontra a vila menor do que lembrava; perspectiva mudada |
 | **Resgate de Nyx** | Lyrien encontrado vivo em esconderijo preparado por Melessa sob o assoalho; enfraquecido mas recuperável |
+| **Dissolução do Bloqueio de Cryonys** | O gelo etérico que selou o assoalho na noite da morte de Melessa finalmente derreteu com o calor da primavera, permitindo que Lyris cumprisse a promessa de investigar o esconderijo |
 | **Descoberta da Caixa "Depois"** | Lyris encontra compartimento secreto no assoalho separado do esconderijo de Nyx |
 | **Pingente com selo de Sanctrum** | Objeto misterioso dentro da Caixa; implica conexão entre Melessa e Sanctrum |
 | **Carta de Melessa** | Texto póstumo endereçado "Para minha pequena estrela"; último ato de amor de uma avó moribunda |
@@ -638,7 +641,7 @@ E no dia em que completa cinco anos, Grazielly recebe um presente de um pai que 
 | **32 dias após chegada ao orfanato** | Fim do inverno; Lyris solicita permissão para viagem a Mespiria |
 | **Início da primavera** | Viagem de volta com escolta (Nu Bandi + 2 Aga Uru + Torvas); passagem pelo Sinalizador de Aethra |
 | **Manhã** | Chegada a Mespiria; Grazielly reencontra a casa de Melessa |
-| **Manhã** | Resgate de Nyx do esconderijo sob o assoalho |
+| **Manhã** | Lyris nota que o Bloqueio de Cryonys derreteu com a primavera; resgate de Nyx do esconderijo sob o assoalho |
 | **Manhã** | Descoberta da Caixa "Depois" e do pingente com selo de Sanctrum |
 | **Manhã** | Leitura da Carta de Melessa |
 | **Manhã** | Manifestação Cryonys (flores de gelo nas mãos de Grazielly) |
