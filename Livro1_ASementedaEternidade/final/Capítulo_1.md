@@ -66,7 +66,7 @@ Era uma cidade de beleza sobrenatural. Uma cidade que parecia ter sido criada pa
 
 Mas Ayla sabia que a paz era uma ilusão. A paz era um intervalo entre guerras, uma pausa entre tempestades. E ela carregava dentro de si uma tempestade que logo viria ao mundo.
 
-— Aqui está, senhora — o comerciante disse, estendendo o pacote. — Raízes-doces das melhores plantações de Velantis. Farão bem para... — ele hesitou por apenas um momento, seus olhos passando pela barriga visivelmente crescida de Ayla — ...para a saúde.
+— Aqui está, senhora — o comerciante disse, estendendo o pacote. — raízes-doces das melhores plantações de Velantis. Farão bem para... — ele hesitou por apenas um momento, seus olhos passando pela barriga visivelmente crescida de Ayla — ...para a saúde.
 
 Ayla tomou o pacote com um sorriso que não alcançava seus olhos.
 
@@ -286,7 +286,7 @@ Ayla sorriu — um sorriso genuíno, de gratidão e alívio.
 
 — Obrigada, Melessa. Por tudo.
 
-— Ainda não agradecer — a parteira respondeu, voltando a separar as ervas. — O parto ainda está por vir. E se meu instinto estiver certo... esse não será um parto comum.
+— Não agradeça ainda — a parteira respondeu, voltando a separar as ervas. — O parto ainda está por vir. E se meu instinto estiver certo... esse não será um parto comum.
 
 O céu fora da janela continuava seu movimento lento e constante, as três luas dançando em direção ao seu encontro. E em algum lugar, no coração da tempestade que se aproximava, uma criança esperava para nascer — uma criança que carregava em suas veias o sangue de duas linhagens extraordinárias, uma criança cujo destino estava entrelaçado com as próprias forças que haviam criado o universo.
 
