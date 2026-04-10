@@ -366,7 +366,11 @@ Ele havia sentido o eco. O momento em que o Ressoador entrou em ressonância com
 
 *Ela sentiu*, Aurelius pensou, e algo em seu peito — algo que ele havia mantido trancado por anos, sob camadas de disciplina e dever e silêncio — pulsou em resposta. *Ela sentiu o eco. Minha filha sentiu o eco.*
 
-Mas a alegria — se é que aquilo era alegria, e não algo mais complexo e mais doloroso — durou apenas alguns Pulsos. Porque no mesmo instante em que o cristal de Grazielly pulsava em Velantis, outra frequência — mais fraca, mais distante, mas inequivocamente presente — havia sido captada pelos Refratores de Aurion. Uma frequência que não pertencia a Sanctrum. Que não pertencia a nenhum reino conhecido. Que vinha do norte — do vasto, gelado e silencioso norte, onde as sombras eram mais espessas e as pedras mais velhas, e onde algo que não tinha nome observava o mundo com olhos que eram feitos de escuridão e paciência.
+Mas a alegria — se é que aquilo era alegria, e não algo mais complexo e mais doloroso — durou apenas alguns Pulsos. Porque no mesmo instante em que o cristal de Grazielly pulsava em Velantis, algo que Aurelius não havia previsto aconteceu: a energia da RRA — aquele pulso bruto de potência que Valtheris enviara pelo espectro de Aethra — não se limitara à frequência calibrada do cristal. Ondas secundárias, espúrias, haviam se propagado para além do alcance pretendido, tingindo o espectro etérico com um ruído que não existia antes daquele Pulso. Um estalo no silêncio. Um som novo em um mundo que há eras ouvia apenas murmúrios.
+
+Nenhum Refratore captou coordenadas. Nenhuma antena triangulou posição. A tecnologia de Alyndra não era capaz disso — nem a de Sanctrum, e certamente nem a de Umbra. O que os sensores registraram foi algo mais sutil e, em sua própria sutileza, mais perigoso: uma anomalia. Uma perturbação nova no espectro de Aethra, Originária de Sanctrum, com uma assinatura que nenhum engenheiro poderia confundir com ruído natural.
+
+E se os sensores de Sanctrum haviam registrado aquela anomalia, os sensores do norte — primitivos, esparsos, mas existentes — também poderiam tê-lo feito.
 
 E então Aurelius entendeu. Não como um estalo de intuição, mas como a compreensão lenta e gelada de um cirurgião que percebe, no meio de uma operação, que o bisturi que segurava estava contaminado antes mesmo do primeiro corte.
 
@@ -374,17 +378,25 @@ O cristal dourado fora projetado para ser silencioso. Um receptor passivo, calib
 
 Mas ele não havia previsto a Rede de Ressonância de Aurion.
 
-A RRA não era dele. Era de Valtheris — um engenheiro brilhante, ambicioso, cuja obsessão por expandir os limites da comunicação etérica não conhecia as fronteiras do calendário de testes que o En Me havia estipulado. A ativação da rede, naquele laboratório, naquele Pulso, havia enviado um pulso de potência bruta através da frequência de Aurion — uma frequência que era, por definição, a mesma que o cristal de Grazielly estava calibrado para escutar. E o cristal respondera. Não como um receptor passivo, mas como um diapasão atingido pelo som exato para o qual foi construído: vibrando, ressoando, *retransmitindo* sua posição em todo o espectro etérico como um farol que se acende em um mar escuro.
+A RRA não era dele. Era de Valtheris — um engenheiro brilhante, ambicioso, cuja obsessão por expandir os limites da comunicação etérica não conhecia as fronteiras do calendário de testes que o En Me havia estipulado. A ativação da rede, naquele laboratório, naquele Pulso, havia enviado um pulso de potência bruta através da frequência de Aurion — uma frequência que era, por definição, a mesma que o cristal de Grazielly estava calibrado para escutar. E o cristal respondera. Não como um receptor passivo, mas como um diapasão atingido pelo som exato para o qual foi construído: vibrando, ressoando, gerando ondas espúrias que se propagaram pelo espectro etérico muito além do que qualquer cálculo previra.
 
 *Eu enviei um receptor passivo*, Aurelius pensou, e o pensamento carregava o gosto metálico de um erro que não podia ser desfeito. *E a RRA de Valtheris o transformou em um transmissor ativo.*
 
-E se Aurelius podia sentir o cristal responder, outros podiam sentir também. O norte podia sentir. Umbra podia sentir. A frequência que os Refratores acabavam de captar não era uma coincidência — era uma resposta. O inimigo ouvira o aperto de mão energético entre a RRA e o cristal, e respondera na mesma frequência, como quem bate à porta de uma casa que acabou de ter sua luz acesa pela primeira vez.
+Mas o que esse transmissor havia revelado? Não a localização de Grazielly — as ondas espúrias da RRA não carregavam coordenadas, não apontavam para Velantis, não diziam nada sobre a Cidadela Luminis. A tecnologia simplesmente não funcionava assim. O que o pulso havia revelado era algo mais sutil, e talvez mais perigoso a longo prazo: que Sanctrum estava testando algo novo no espectro de Aethra. Algo poderoso o bastante para perturbar frequências em escala continental.
 
-*Eles sabem onde ela está*, Aurelius pensou, e algo dentro dele — algo que não era o En Me, não era o Guardião Mestre, mas o pai, o pai que havia enviado um cristal dourado para o aniversário de cinco anos de uma filha que nunca poderia conhecer — gelou. *Eles sabem que ela está em Velantis. E foi eu quem os avisou.*
+*Eu acendi uma lanterna num campo escuro*, Aurelius pensou, e o peso da metáfora o fez fechar os punhos junto à janela. *Eu não mostrei onde ela está. Mas mostrei que tenho algo que vale a pena procurar.*
 
-O sacrifício de Ayla — a escolha de desaparecer para que Grazielly pudesse viver — agora pendia no ar como um fantasma. Os anos de silêncio de Lyris, o isolamento deliberado, a rede de proteção invisível que ele havia construído ao redor da criança como castelos de cartas cuidadosamente equilibrados — tudo isso podia ter sido anulado por um único momento. Não por traição. Não por espionagem. Mas por um pai que quis ouvir a filha respirar, e um engenheiro que ligou uma máquina antes da hora.
+O Igi-Bar-Zu — o dispositivo que Nyctara havia destruído em Thalendris — era o único instrumento que poderia ter conectado aquele ruído à criança de Mespiria. Sem ele, Umbra tinha um estalo no espectro e nada mais. Um eco cego. Um som sem origem, sem rosto, sem nome. Eles saberiam que Sanctrum fez algo, mas não o quê. Saberiam que algo mudou no espectro, mas não quem estava na outra ponta.
 
-A guerra estava chegando. E a menina que segurava o cristal dourado no jardim de um orfanato em Velantis era o centro de tudo — o que os dois lados buscavam, cada um a sua maneira, com ferramentas e propósitos que não podiam ser mais diferentes.
+A menos que alguém com acesso a informações de dentro de Sanctrum os ajudasse a conectar os pontos. A menos que alguém que conhecia tanto a RRA quanto a criança de Mespiria decidisse que aquelas duas informações pertenciam à mesma história.
+
+Thaloris Ventaris. Vethran Noll. Os dois nomes surgiram na mente de Aurelius como peças de um tabuleiro que ele não controlava. O Senhor dos Ventos estava em Sanctrum — recebera um Ressoador, sabia da RRA, sabia que Selina estava rastreando desaparecimentos em Sylvaris. E Vethran... Vethran estava infiltrado nas entranhas do próprio sistema, com acesso a documentos que passavam pelas mãos de Umbra todos os dias. Se qualquer um dos dois — ou ambos — decidisse falar, aquele eco cego se tornaria uma bússola apontando para Grazielly.
+
+A guerra estava chegando. E a menina que segurava o cristal dourado no jardim de um orfanato em Velantis era o centro de tudo — o que os dois lados buscavam, cada um a sua maneira, com ferramentas e propósitos que não podiam ser mais diferentes. Mas por enquanto, ela estava segura. Não porque as máquinas a protegessem — as máquinas, como Aurelius acabara de descobrir, eram capazes do erro mais eloquente. Ela estava segura porque a única pessoa fora de Sanctrum que sabia da existência do cristal dourado era Lyris, e Lyris não falava. Porque o Igi-Bar-Zu havia sido destruído. Porque a localização da Cidadela Luminis ainda era um segredo guardado por paredes de pedra e silêncio político.
+
+A segurança de Grazielly não dependia da tecnologia. Nunca tinha dependido. Dependia de pessoas — e das pessoas que a protegiam ainda estavam em silêncio.
+
+Por quanto tempo, Aurelius não sabia.
 
 Aurelius fechou os olhos e, por um breve momento — um momento que nenhum Refratore poderia capturar, nenhum engenheiro poderia medir, nenhuma agente poderia relatar —, ele permitiu que a dor o visitasse. Não a dor do corpo, mas a dor de quem sabe que está protegendo alguém que ama e que, apesar de todos os seus poderes, de todos os seus títulos, de todas as suas frequências de silêncio, pode não ser suficiente.
 
@@ -404,7 +416,7 @@ A sabatina também revela a conexão entre Lyris (Nyctara) — a agente aposenta
 
 Frustrada pelo silêncio de Aurelius, Selina vai ao Laboratório de Engenharia Etérica, onde descobre duas tecnologias que mudarão o curso da narrativa: os Refratores de Aurion (lentes de cristal orbital que mapeiam assinaturas etéricas em tempo real) e a Rede de Ressonância de Aurion (RRA), um sistema de comunicação que usa a frequência de Aurion para transmitir sinais a grandes distâncias. Selina ordena que um Ressoador seja enviado à Cidadela Luminis — oficialmente como teste de comunicação, mas na realidade como uma armadilha para monitorar Lyris e Grazielly.
 
-O capítulo se encerra com a primeira ativação da RRA em Sanctrum, cujo sinal cruza a distância e faz o cristal dourado de Grazielly pulsar em Velantis. A menina sente, através da vibração, a presença distante de alguém que a ama — sem saber que esse alguém é seu pai, Aurelius, e que a conexão entre eles é física, mediada por Aethra, e mais profunda do que qualquer um dos dois compreende plenamente. O capítulo termina com Aurelius percebendo, com horror calculista, que a ativação da RRA transformou seu cristal — projetado como receptor passivo e indetectável — em um transmissor ativo que revelou a posição de Grazielly para Umbra. O inimigo detectou o sinal no norte. O sacrifício de Ayla e o silêncio de Lyris podem ter sido anulados por um momento de saudade paterna e a ambição tecnológica de Valtheris. A guerra está chegando de ambos os lados.
+O capítulo se encerra com a primeira ativação da RRA em Sanctrum, cujo sinal cruza a distância e faz o cristal dourado de Grazielly pulsar em Velantis. A menina sente, através da vibração, a presença distante de alguém que a ama — sem saber que esse alguém é seu pai, Aurelius, e que a conexão entre eles é física, mediada por Aethra, e mais profunda do que qualquer um dos dois compreende plenamente. O capítulo termina com Aurelius percebendo que a ativação da RRA gerou ondas espúrias no espectro de Aethra — um "Eco Cego" que Umbra pode ter detectado como anomalia, mas sem capacidade de localizar Grazielly. A tecnologia de Alyndra não possui radar global; o perigo não é que as máquinas encontraram a criança, mas que o ruído revelou que Sanctrum tem algo valioso. A segurança de Grazielly continua dependendo do silêncio humano: Lyris, a destruição do Igi-Bar-Zu, e a lealdade incerta de Thaloris Ventaris e Vethran Noll.
 
 ---
 
@@ -460,7 +472,8 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Ressoador** | Dispositivo portátil da RRA; emite e recebe sinais na frequência de Aurion; três unidades protótipo iniciais |
 | **Frequência de Silêncio** | Termo conceitual de Selina; quando o silêncio deliberado gera exposição (antítese do princípio do En Me) |
 | **Assimetria de Vigilância** | Diferença de velocidade entre a vigilância interna de Sanctrum (instantânea) e os relatórios de campo de Sylvaris (12 ciclos de atraso); fonte de frustração de Selina e motivação para buscar a RRA |
-| **Protocolo de Escuta Passiva** | Princípio pelo qual Aurelius projetou o cristal dourado como receptor passivo (indetectável), calibrado apenas para sua frequência pessoal; a ativação não autorizada da RRA forçou o cristal a responder como transmissor ativo, revelando a posição de Grazielly |
+| **Protocolo de Escuta Passiva** | Princípio pelo qual Aurelius projetou o cristal dourado como receptor passivo (indetectável), calibrado apenas para sua frequência pessoal; a ativação não autorizada da RRA forçou o cristal a responder como transmissor ativo |
+| **Eco Cego** | Anomalia no espectro de Aethra gerada pelas ondas espúrias da RRA; detectável por sensores como ruído, mas sem coordenadas, identidade ou localização — não é radar; revela apenas que Sanctrum está testando algo novo |
 | **Armadilha de vigilância** | Metáfora usada internamente por Selina; enviar o Ressoador à Cidadela sob justificativa falsa para monitorar Grazielly |
 
 ### Eventos
@@ -473,8 +486,8 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |
 | **Demonstração dos Refratores** | Selina conhece o sistema de vigilância orbital; solicita acesso para rastrear anomalias |
 | **Ativação da RRA** | Primeiro sinal transmitido; cristal de Grazielly pulsa em resposta; eco de Aethra conecta pai e filha |
-| **Revelação do Protocolo de Escuta Passiva** | Aurelius percebe que a RRA transformou seu cristal receptor passivo em transmissor ativo, revelando a posição de Grazielly para Umbra |
-| **Detecção de frequência de Umbra** | Refratores captam sinal do norte durante a ativação da RRA; confirma vigilância do inimigo |
+| **Revelação do Protocolo de Escuta Passiva** | Aurelius percebe que a RRA transformou seu cristal receptor passivo em transmissor ativo; o medo é estratégico, não tático — ele revelou que Sanctrum tem algo valioso, não onde está |
+| **Eco Cego no espectro** | Ondas espúrias da RRA perturbam o espectro de Aethra em escala continental; Umbra pode detectar a anomalia mas não localizar Grazielly |
 
 ### Criaturas
 
@@ -500,7 +513,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Solar do En Me** | Confronto Selina vs. Aurelius sobre o cristal dourado; interrompido pelo Nin Aga |
 | **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |
 | **Laboratório de Engenharia Etérica** | Selina descobre os Refratores de Aurion e a RRA; solicita Ressoador para Cidadela Luminis |
-| **Primeira ativação da RRA** | Sinal transmitido; cristal de Grazielly pulsa em Velantis; frequência de Umbra detectada simultaneamente; Aurelius percebe que a RRA expôs a posição da filha |
+| **Primeira ativação da RRA** | Sinal transmitido; cristal de Grazielly pulsa em Velantis; Eco Cego gerado no espectro; Aurelius percebe que a segurança de Grazielly depende do silêncio humano (Lyris, Igi-Bar-Zu destruído), não da tecnologia |
 
 ---
 
@@ -508,7 +521,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 
 No próximo capítulo, o Ressoador chegará à Cidadela Luminis sob a justificativa oficial de teste de comunicação. Lyris — com sua experiência como agente de inteligência — poderá suspeitar que o dispositivo é mais do que parece, mas sem acesso às informações de Selina, não terá como confirmar suas suspeitas. A tensão entre vigilância e proteção se intensificará: Selina quer monitorar Grazielly; Aurelius quer protegê-la; Lyris quer mantê-la segura; e forças que operam nas sombras querem encontrá-la.
 
-A frequência de Umbra detectada pelos Refratores durante a ativação da RRA indicará que o inimigo não está apenas observando — está ativamente tentando triangular a mesma assinatura que Selina busca proteger. O cristal dourado, que deveria ser uma ponte secreta entre pai e filha, pode ter se tornado um farol visível para aqueles que sabem onde procurar.
+O Eco Cego gerado pela RRA colocará Aurelius em uma posição de alerta permanente: ele não revelou a posição de Grazielly, mas revelou que Sanctrum possui algo valioso o suficiente para justificar testes de alta potência no espectro de Aethra. A segurança da Herdeira continua dependendo exclusivamente do silêncio humano — Lyris, a destruição do Igi-Bar-Zu em Thalendris, e a lealdade incerta de Thaloris Ventaris e Vethran Noll. O conceito de radar global ou triangulação por satélite está formalmente banido do mundo de Alyndra; a tensão é puramente política e humana.
 
 E Grazielly — que sentiu o eco como amor e promessa — começará a aprender, da forma mais dolorosa possível, que nem tudo que pulsa com luz no escuro é seguro.
 
