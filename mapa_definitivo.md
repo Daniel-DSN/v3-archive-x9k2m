@@ -434,6 +434,36 @@ Cidade flutuante capital que orbita o maior cristal de Aethra conhecido, sustent
 
 ---
 
+## Thaloris Ventaris (Antagonista)
+
+| Atributo | Valor |
+|----------|-------|
+| **Nome Completo** | Thaloris Ventaris |
+| **Título** | Lugal Lil — Senhor dos Ventos de Sylvaris |
+| **Posição** | Soberano absoluto de Sylvaris; ocupa assento ancestral no Conselho dos 10 em Sanctrum |
+| **Máscara** | Em Sanctrum, comporta-se como nobre fútil — interessado em vinhos, artes e pintura; vota com indiferença; todos o veem como mobília inofensiva |
+| **Papel Real** | Arquiteto das Cargas Fantasmas — sistema de tráfico de crianças com afinidades elementais |
+| **Estratégia** | Ocupar o assento pessoalmente para "esconder a coroa sob um chapéu de plumas" — estar no centro do poder de Sanctrum enquanto opera contra ele |
+| **Relação com Grazielly** | Quer a "Semente" longe de Sanctrum/Aurelius; motivos genuínos de proteção misturados com interesses estratégicos ambíguos |
+| **Subordinado** | Vethran Noll (En Dili Lil) — seu espião-mestre infiltrado no Palácio de Cristal |
+
+---
+
+## Vethran Noll / En Dili Lil (Antagonista)
+
+| Atributo | Valor |
+|----------|-------|
+| **Nome Completo** | Vethran Noll |
+| **Codinome** | En Dili Lil — Mestre dos Sussurros |
+| **Idade** | 62 ciclos |
+| **Posição Pública** | Burocrata de médio escalão no Departamento de Transferências, Ala Administrativa Leste, Palácio de Cristal, Sanctrum |
+| **Posição Real** | Chefe de inteligência de Sylvaris; infiltrado há 30 ciclos |
+| **Função** | Cria e gerencia as Cargas Fantasmas (registros falsos de transferência de órfãos); mantém Rotas Fantasma para comunicação e transporte entre Sanctrum e Zephyra |
+| **Superior** | Thaloris Ventaris (Lugal Lil) |
+| **Ameaça** | Selina Thalassa (Agente ZU) está rastreando as Cargas Fantasmas até o seu departamento |
+
+---
+
 ## Melessa (Falecida)
 
 | Atributo | Valor |
@@ -693,8 +723,10 @@ O eixo temático do universo. A existência é sustentada por atos de amor supre
 | 4 | O Resgate do Coração | Grazielly salva Nyx |
 | 5 | O Presente das Estrelas | Aniversário 5 anos, cristal de Aurelius |
 | 6 | O Horizonte de Sal e Cristal | Ciclo de Viagem a Thalendris; Koramis; ataque dos mercenários de Umbra nos cais; Grazielly manifesta Cryonys involuntariamente |
-| 7 | A Sombra nos Penhascos de Sal | Nyctara elimina célula de mercenários de Umbra em caverna de sal; técnicas Véu da Ausência e Névoa Calcinante; descobre ligação Vethran Noll |
+| 7 | A Sombra nos Penhascos de Sal | Nyctara elimina célula de mercenários de UmbRA em caverna de sal; técnicas Véu da Ausência e Névoa Calcinante; descobre ligação Vethran Noll |
 | 8 | O Olho que Tudo Vê | Selina investiga Frequência de Desaparecimento; confronto com Aurelius; Refratores de Aurion; RRA |
+| 9 | O Burocrata e o Vento (Interlúdio) | Vethran Noll — dupla identidade (En Dili Lil / burocrata); queda da célula de Thalendris; relatório secreto a Thaloris; Rotas Fantasma |
+| 10 | A Cadeira de Vidro (Interlúdio) | Thaloris Ventaris em Sanctrum — máscara de nobre fútil no Conselho dos 10; estratégia de esconder a coroa; diálogo com Vethran sobre Selina e a Semente |
 
 ---
 

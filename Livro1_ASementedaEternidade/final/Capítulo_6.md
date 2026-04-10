@@ -406,15 +406,15 @@ Não eram apenas os registros de transferência que passavam pelo crivo de Selin
 
 Mas entre os últimos relatórios recebidos, um havia prendido a atenção de Selina — não pelo conteúdo em si, mas pela convergência que ele criava com os dados que já estava analisando. O informe, escrito por uma guardiã cuja identidade Selina reconhecia como uma agente aposentada da Ordem designada para proteção de menor, mencionava a iminência do Ciclo de Viagem anual do Orfanato Luminis e o destino planejado: Thalendris, costa oeste de Sylvaris. O relatório era de doze ciclos atrás — o que significava que, se os mensageiros mantivessem o ritmo habitual, as crianças já estavam em Thalendris. Ou muito perto.
 
-E a peça final do quebra-cabeça se encaixou quando Selina rastreou a origem do documento — não até Vethran Noll, que era apenas o intermediário, mas até a fonte que havia fornecido as instruções para que Noll preenchesse o registro. A fonte era um escritório no Palácio de Cristal — um escritório que pertencia a um funcionário de alto escalão cujo nome, quando Selina o leu, fez seu coração parar por um Pulso inteiro.
+E a peça final do quebra-cabeça se encaixou quando Selina rastreou a origem do documento — não até Vethran Noll, que era apenas o intermediário, mas até a fonte que havia fornecido as instruções para que Noll preenchesse o registro. A fonte era uma seção de aposentos diplomáticos no Palácio de Cristal — aposentos que pertenciam ao representante permanente de Sylvaris no Conselho dos 10, um homem cujo nome, quando Selina o leu, fez seu coração parar por um Pulso inteiro.
 
 Thaloris Ventaris.
 
-Selina conhecia o nome. Todos no Conselho dos 10 conheciam. Thaloris Ventaris era um nobre — não de linhagem antiga, mas de linhagem rica, o tipo de fortuna que comprava respeito e assentos em comitês e acesso a corredores que o poder verdadeiro percorria. Ele era visto em banquetes, em cerimônias, em reuniões de governança. Uma presença constante, inofensiva, como uma peça de mobília que ninguém questiona porque sempre esteve ali.
+Selina conhecia o nome. Todos no Conselho dos 10 conheciam. Thaloris Ventaris era o Lugal Lil — Senhor dos Ventos de Sylvaris, soberano de um reino independente que havia mantido seu assento ancestral no Conselho desde a Primeira Guerra. Ele fazia questão de ocupá-lo pessoalmente, quando qualquer outro monarca teria enviado um diplomata. Mas em Sanctrum, Thaloris não se comportava como um rei. Ele era visto em banquetes, em cerimônias, em reuniões de governança — sempre com um sorriso fútil, sempre com um comentário sobre vinhos ou artes, sempre votando com a indiferença de quem não tem opinião própria. Uma presença constante, inofensiva, como uma peça de mobília que ninguém questiona porque sempre esteve ali.
 
 Mas Selina, cuja vida inteira havia sido dedicada a questionar o que ninguém questionava, havia começado a notar padrões ao redor de Thaloris Ventaris há mais de um ano. Padrões que, isolados, pareciam coincidências. Padrões que, conectados, formavam uma teia que ninguém mais via porque ninguém mais estava olhando.
 
-E agora, com os dados sobre as cargas fantasmas espalhados diante dela como peças de um tabuleiro cujo jogo ela estava apenas começando a compreender, Selina percebeu algo que a fez sentir um frio que não era físico, mas político: o tráfico de talentos não era um crime isolado. Não era a ação de um burocrata corrupto ou de uma guilda de mercenários ambiciosa. Era um plano coordenado — e Thaloris Ventaris, com seus contatos nos mais altos escalões do governo, com seu acesso aos registros de transferência, com sua capacidade de mover peças no tabuleiro sem que ninguém notasse, era o arquiteto.
+E agora, com os dados sobre as cargas fantasmas espalhados diante dela como peças de um tabuleiro cujo jogo ela estava apenas começando a compreender, Selina percebeu algo que a fez sentir um frio que não era físico, mas político: o tráfico de talentos não era um crime isolado. Não era a ação de um burocrata corrupto ou de uma guilda de mercenários ambiciosa. Era um plano coordenado — e Thaloris Ventaris, o rei que todos viam como um nobre fútil, com seus contatos nos mais altos escalões do governo, com seu acesso aos registros de transferência, com sua capacidade de mover peças no tabuleiro sem que ninguém notasse porque ninguém acreditava que ele fosse capaz de mover peça alguma, era o arquiteto.
 
 Selina se recostou na cadeira e fechou os olhos por um momento, processando o peso do que havia descoberto. O que estava diante dela não era apenas uma conspiração — era uma infiltração. Alguém dentro da própria estrutura de governo de Nova Aetherion estava usando o sistema de proteção infantil como uma ferramenta para sequestrar crianças com afinidades elementais valiosas. E se Selina estava certa — e ela estava certa, porque os dados não mentiam —, esse alguém tinha aliados nas profundezas, forças que operavam além do alcance dos reinos e que buscavam algo mais específico do que talentos aleatórios.
 
@@ -446,7 +446,7 @@ E reconhecimento, acima de tudo, de que o tempo estava acabando.
 
 Grazielly saiu do Orfanato Luminis pela primeira vez e viu o mundo — os Veleiros de Estrada que flutuavam sobre Trilhos de Vento, as falésias brancas de Thalendris, o Mar de Lyria que se estendia até o infinito. E nos cais da cidade costeira, quando agentes disfarçados tentaram usar Espelhos de Eco para capturar assinaturas espirituais de crianças, o instinto de Grazielly tomou conta — uma onda involuntária de poder Cryonys que repeliu o atacante e, sem que a criança soubesse, expsôs sua assinatura primordial aos dispositivos que observavam das sombras — uma assinatura capturada nos cristais de Aetherite, mas cujo destino ainda pendia, incerto, entre os cais de Thalendris e a escuridão que os aguardava.
 
-Enquanto isso, em Sanctrum, Selina Thalassa descobriu que o tráfico de talentos não é um crime isolado, mas uma operação orquestrada por dentro da própria estrutura governamental — com Thaloris Ventaris como peça central. E a criança que Grazielly protegeu involuntariamente com seu poder é exatamente a peça que as forças das profundezas buscam.
+Enquanto isso, em Sanctrum, Selina Thalassa descobriu que o tráfico de talentos não é um crime isolado, mas uma operação orquestrada por dentro da própria estrutura governamental — e que o homem que todos viam como um nobre inofensivo, o Lugal Lil de Sylvaris, era a mente por trás de tudo. E a criança que Grazielly protegeu involuntariamente com seu poder é exatamente a peça que as forças das profundezas buscam.
 
 *"As sombras não se movem por acaso. Cada passo, cada sussurro, cada peça reposicionada no tabuleiro é parte de um desígnio que começou antes de qualquer um de nós nascer. E quando uma criança de cinco anos gera uma onda de poder que reverbera além dos muros de um orfano, não é acidente — é o universo dizendo que as peças estão em posição."*
 — Selina Thalassa, Mestra da Informação, em carta cifrada
@@ -484,7 +484,7 @@ E o final — a assinatura capturada pelos Espelhos de Eco nos cais, os relatór
 | **Lyris** | — | Tutora disfarçada; ex-agente | A Nyctara da Vanguarda; detecta os Espelhos de Eco |
 | **Selina Thalassa** | — | Mestra da Informação | Descobre conspiração de tráfico de talentos |
 | **Vethran Noll** | — | Burocrata de Sanctrum | Autoriza transferências fantasma |
-| **Thaloris Ventaris** | — | Nobre de Sanctrum | Arquiteto do tráfico de talentos nas sombras |
+| **Thaloris Ventaris** | — | Lugal Lil de Sylvaris; assento ancestral no Conselho dos 10 | Arquiteto do tráfico de talentos nas sombras; máscara de nobre fútil em Sanctrum |
 | **Luminara Elara** | — | Diretora do Orfanato Luminis | Supervisiona o Ciclo de Viagem |
 
 ### Locais
@@ -509,7 +509,7 @@ E o final — a assinatura capturada pelos Espelhos de Eco nos cais, os relatór
 | **Espelhos de Eco** | Dispositivos analógicos de Umbra; microcristais de Aetherite em superfície reflexiva; capturam assinaturas espirituais |
 | **Desprovidos** | Termo para pessoas sem poder Aethra; usado como disfarce por mercenários |
 | **Cargas Fantasmas** | Registros de crianças transferidas para academias inexistentes; rastro burocrático de sequestro |
-| **Thaloris Ventaris** | Nobre de Sanctrum; arquiteto do tráfico de talentos; aliado de forças das profundezas |
+| **Thaloris Ventaris** | Lugal Lil de Sylvaris (Senhor dos Ventos); ocupa assento ancestral no Conselho dos 10 como "nobre fútil"; arquiteto do tráfico de talentos; aliado de forças das profundezas |
 | **Vethran Noll** | Burocrata de médio escalão em Sanctrum; registra transferências fantasma |
 | **Relatórios Periódicos** | Informes rotineiros que guardiões designados enviam ao En Me sobre o bem-estar de crianças sob custódia; levam ciclos para chegar a Sanctrum; transitam pelos canais burocráticos do Palácio de Cristal |
 

@@ -4,7 +4,7 @@
 
 ---
 
-# CAPÍTULO VIII.5 — INTERLÚDIO
+# CAPÍTULO IX — INTERLÚDIO
 
 # O Burocrata e o Vento
 
