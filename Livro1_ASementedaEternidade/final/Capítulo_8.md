@@ -116,6 +116,8 @@ E por alguns Pulsos, ela apenas respirou.
 
 *A pergunta não é mais se há uma conspiração. A pergunta é: o En Me é parte dela, ou está tentando impedir que ela chegue até a criança?*
 
+*E o que a enfurecia — mais do que a conspiração em si, mais do que o silêncio de Aurelius — era a assimetria. Selina soubera do cristal dourado no instante em que ele deixara os cofres do Palácio de Cristal, porque seus olhos dentro de Sanctrum eram onipresentes: cada selo, cada registro de saída, cada item que cruzava as portas da Torre de Aurion chegava até ela na velocidade de um sussurro nos corredores. Internamente, a vigilância era quase onisciente. Mas quando a informação precisava descer do Planalto até Sylvaris, o mundo se tornava lento e fragmentado. Os relatórios que Lyris enviava de Velantis dependiam de mensageiros físicos — Veleiros de Estrada e Koramis que levavam doze ciclos para percorrer distâncias que a luz percorreria em um Pulso. Doze ciclos em que qualquer coisa podia acontecer. Doze ciclos em que a criança podia ser movida, escondida, encontrada — e Selina estaria sentada nesta câmara, cercada de cristais e murmulita, lendo notícias que já eram obsoletas antes de chegar. Se houvesse uma forma de fazer a vigilância externa viajar na mesma velocidade da interna — de transformar o sussurro dos corredores em algo que pudesse atravessar reinos —, ela não estaria cega. E a cegueira, para quem tinha o mapa diante dos olhos, era a forma mais cruel de impotência.*
+
 E a resposta, Selina sabia, só poderia ser encontrada em um lugar: face a face com o homem que se escondia atrás do título mais poderoso de Alyndra.
 
 ---
@@ -441,12 +443,14 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Rede de Ressonância de Aurion (RRA)** | Sistema de comunicação ativo que usa a frequência de Aurion para transmitir sinais a longa distância |
 | **Ressoador** | Dispositivo portátil da RRA; emite e recebe sinais na frequência de Aurion; três unidades protótipo iniciais |
 | **Frequência de Silêncio** | Termo conceitual de Selina; quando o silêncio deliberado gera exposição (antítese do princípio do En Me) |
+| **Assimetria de Vigilância** | Diferença de velocidade entre a vigilância interna de Sanctrum (instantânea) e os relatórios de campo de Sylvaris (12 ciclos de atraso); fonte de frustração de Selina e motivação para buscar a RRA |
 | **Armadilha de vigilância** | Metáfora usada internamente por Selina; enviar o Ressoador à Cidadela sob justificativa falsa para monitorar Grazielly |
 
 ### Eventos
 
 | Evento | Significado |
 |--------|-------------|
+| **Reflexão sobre a Assimetria** | Selina percebe a defasagem entre vigilância interna (instantânea) e externa (12 ciclos); motivação latente para buscar comunicação rápida |
 | **Sabatina do Sentinela** | Selina obtém dados sobre os 14 desaparecimentos e a conexão com Lyris/Mespiria |
 | **Confronto Selina vs. Aurelius** | Selina acusa Aurelius de expor Grazielly com o cristal dourado; interrompido pelo Nin Aga |
 | **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |
@@ -474,7 +478,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | Momento | Evento |
 |---------|--------|
 | **Após o Ciclo de Viagem** | Selina analisa dados da Frequência de Desaparecimento; 14 crianças sequestradas em 7 ciclos |
-| **Câmara dos Sussurros** | Sabatina com Sentinela de Fronteira de Sylvaris; revelação da operação de sequestro sistemático |
+| **Câmara dos Sussurros** | Sabatina com Sentinela de Fronteira de Sylvaris; revelação da operação de sequestro sistemático; Selina reflete sobre a assimetria entre vigilância interna e externa |
 | **Solar do En Me** | Confronto Selina vs. Aurelius sobre o cristal dourado; interrompido pelo Nin Aga |
 | **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |
 | **Laboratório de Engenharia Etérica** | Selina descobre os Refratores de Aurion e a RRA; solicita Ressoador para Cidadela Luminis |
