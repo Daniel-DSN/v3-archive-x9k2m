@@ -26,7 +26,7 @@ O quarto tinha quatro camas — três já ocupadas, com cobertores desarrumados 
 
 Ela se sentou na beira da cama e olhou pela janela. Neve caía sobre Velantis, silenciosa e constante, cobrindo telhados e ruas com um manto branco que transformava a cidade em algo que parecia um sonho. No horizonte, as torres de Zephyra brilhavam fracamente através da neblina, como castelos de um conto que alguém tivesse começado a contar e depois esquecido.
 
-*Nyx*, pensou Grazielly, e a palavra foi como uma facada — rápida, precisa, cortante. O Lyrien azul-escuro que ela havia deixado em Mespiria. A pequena criatura que Melessa lhe dera como presente, que dormia enroscada em seu peito durante noites de tempestade, que a seguia pelo quintal como uma sombra fiel. Ela o havia deixado para trás na pressa da partida, e agora, sentada em uma cama estranha em uma cidade estranha, o peso daquela despedida — uma despedida que não teve tempo de acontecer — era quase insuportável.
+*Nyx*, pensou Grazielly, e a palavra foi como uma facada — rápida, precisa, cortante. O Lyrien de pelagem clara que ela havia deixado em Mespiria. A pequena criatura que Melessa lhe dera como presente, que dormia enroscada em seu peito durante noites de tempestade, que a seguia pelo quintal como uma sombra fiel. Ela o havia deixado para trás na pressa da partida, e agora, sentada em uma cama estranha em uma cidade estranha, o peso daquela despedida — uma despedida que não teve tempo de acontecer — era quase insuportável.
 
 — Grazielly? — A voz de Lyris veio da porta, suave mas presente. — Você está bem?
 
@@ -66,11 +66,11 @@ Grazielly sentou-se ao lado de Mira, em um banco de madeira que era grande demai
 
 Nyx. O pensamento veio como uma facada, rápida e dolorosa, e Grazielly sentiu o apetite — que havia começado a surgir com o cheiro da comida — desaparecer como se alguém tivesse fechado uma torneira dentro dela. Ela olhou para a tigela de sopa à sua frente e viu a superfície do caldo refletindo seu próprio rosto — um rosto pequeno, pálido, com olhos que pareciam demasiado grandes para a cara, com manchas de neve derretida ainda nas bochechas e cabelos loiros que estavam começando a secar em tufos desgrenhados.
 
-— Você precisa comer — Mira disse ao seu lado, e na voz da menina havia uma preocupação que ia além da cortesia — era a preocupação genuína de alguém que havia visto outras crianças chegarem ao orfanato com o mesmo olhar vazio, e sabia que a comida era uma das primeiras coisas que o corpo precisava para começar a se recuperar do que quer que o tivesse quebrado. — A sopa é boa. Dona Théria coloca Mirael ralado que dá um gosto especial. E o pão é ótimo para mergulhar.
+— Você precisa comer — Mira disse ao seu lado, e na voz da menina havia uma preocupação que ia além da cortesia — era a preocupação genuína de alguém que havia visto outras crianças chegarem ao orfanato com o mesmo olhar vazio, e sabia que a comida era uma das primeiras coisas que o corpo precisava para começar a se recuperar do que quer que o tivesse quebrado. — A sopa é boa. Dona Théria coloca Mirael ralada que dá um gosto especial. E o pão é ótimo para mergulhar.
 
 Grazielly pegou a colher e mexeu a sopa sem vontade, observando os legumes brilhantes subindo e descendo no caldo dourado. Depois, por dever para com Mira — que a havia recebido com um sorriso quando tudo o que Grazielly queria era se esconder em um canto escuro e nunca mais falar com ninguém —, levou uma colherada à boca.
 
-O sabor a surpreendeu. Era bom — genuinamente bom, de uma forma que a comida da casa de pedra nunca tinha sido, não porque Melessa fosse má cozinheira mas porque Melessa era velha e cansada nos últimos meses e fazia refeições simples, funcionais, que alimentavam sem pretender encantar. Aquela sopa tinha camadas de sabor — o gosto terroso das Lumiara, o toque aromático do Mirael ralado, uma acidez suave que Grazielly não conseguia identificar. E era quente. Quente de uma forma que penetrava até o centro do peito, que derretia algo lá dentro que estava congelado desde a manhã, desde o momento em que ela acordara e soube que Melessa havia partido.
+O sabor a surpreendeu. Era bom — genuinamente bom, de uma forma que a comida da casa de pedra nunca tinha sido, não porque Melessa fosse má cozinheira mas porque Melessa era velha e cansada nos últimos meses e fazia refeições simples, funcionais, que alimentavam sem pretender encantar. Aquela sopa tinha camadas de sabor — o gosto terroso das Lumiara, o toque aromático da Mirael ralada, uma acidez suave que Grazielly não conseguia identificar. E era quente. Quente de uma forma que penetrava até o centro do peito, que derretia algo lá dentro que estava congelado desde a manhã, desde o momento em que ela acordara e soube que Melessa havia partido.
 
 Grazielly comeu outra colherada. Depois outra. E antes que percebesse, a tigela estava quase vazia.
 
@@ -110,7 +110,7 @@ A sala de desenhos ficava no outro extremo do corredor — uma sala grande, maio
 
 Mas as paredes eram o verdadeiro espetáculo. Cobertas de desenhos de crianças de todas as idades e de todos os níveis de habilidade, criavam uma galeria que era ao mesmo tempo caótica e maravilhosa. Havia dragões de cinco patas e Seraphyens de asas desiguais. Havia retratos de famílias onde o número de pessoas variava entre dois e doze. Havia paisagens impossíveis — oceanos de cor roxa, montanhas que flutuavam no céu, florestas onde as árvores tinham faces sorridentes. E no centro de uma parede, emoldurado por uma moldura de madeira simples mas feita com cuidado, havia um desenho que era diferente de todos os outros — não por sua técnica, que era tão rudimentar quanto os demais, mas por algo que emanava dele, uma urgência que transcendia a idade de quem o havia feito.
 
-Era o desenho de uma menina de olhos grandes, de mãos que brilhavam como pequenas estrelas, parada diante de uma árvore enorme cujos galhos tocavam as nuvens. Ao redor da menina, criaturas aladas — Seraphyens, Thaluris, Sylari — formavam um círculo como se a protegessem. E no topo da árvore, um pássaro azul-escuro olhava para baixo com olhos que, mesmo desenhados com lápis de cera, pareciam conter algo que era mais do que tinta sobre papel.
+Era o desenho de uma menina de olhos grandes, de mãos que brilhavam como pequenas estrelas, parada diante de uma árvore enorme cujos galhos tocavam as nuvens. Ao redor da menina, criaturas aladas — Seraphyens, Thaluris, Sylari — formavam um círculo como se a protegessem. E no topo da árvore, um animal de pelagem clara olhava para baixo com olhos que, mesmo desenhados com lápis de cera, pareciam conter algo que era mais do que tinta sobre papel.
 
 Grazielly parou diante daquele desenho.
 
@@ -118,7 +118,7 @@ Grazielly parou diante daquele desenho.
 
 — A gente não sabe — Mira respondeu, com um tom que misturava mistério e respeito. — Tava aqui quando Luminara Elara chegou, há muitos e muitos anos. Dizem que era do primeiro orfanato, o que veio antes deste. Mas ninguém lembra quem desenhou.
 
-Grazielly olhou para o pássaro azul-escuro no topo da árvore.
+Grazielly olhou para o animal de pelagem clara no topo da árvore.
 
 *Nyx.*
 
@@ -249,7 +249,7 @@ Luminara Elara se aproximou da janela e olhou para o dormitório através da fre
 
 Lyris sabia que Luminara Elara era perceptiva — era uma das razões pelas quais o Orfanato Luminis era o que era, um lugar que recebia crianças quebradas e devolvia ao mundo pessoas inteiras. A luminara não fazia perguntas por curiosidade. Fazia perguntas porque as respostas ditavam o tipo de cuidado que cada criança precisava.
 
-— Ela deixou algo para trás — Lyris disse, escolhendo cada palavra com o cuidado de quem caminha em campo minado. — Não foi apenas a avó. Há um Lyrien — um companheiro animal. Azul-escuro. Chamado Nyx. Ele ficou em Mespiria quando trouxemos Grazielly para cá.
+— Ela deixou algo para trás — Lyris disse, escolhendo cada palavra com o cuidado de quem caminha em campo minado. — Não foi apenas a avó. Há um Lyrien — um companheiro animal. De pelagem clara. Chamado Nyx. Ele ficou em Mespiria quando trouxemos Grazielly para cá.
 
 — Deixou um Lyrien para trás? — Luminara Elara repetiu, e algo em seu rosto mudou — não desapontamento, não surpresa, mas uma compreensão que vinha de décadas de experiência. — Lyris, crianças dessa idade não se separam de seus companheiros por vontade própria. Um Lyrien não é um animal de estimação — é parte da criança. Separar os dois é como arrancar uma metade do peito e esperar que a outra metade continue respirando como se nada tivesse acontecido.
 
@@ -385,7 +385,7 @@ Caro leitor,
 
 Este capítulo é, em essência, um capítulo sobre pertencimento — ou melhor, sobre a busca por pertencimento depois de ter perdido tudo. Grazielly tem quatro anos. Perdeu a avó que era seu único mundo. Deixou para trás o Lyrien que era parte de si mesma. E chegou a um lugar desconhecido, cheio de ruídos e de rostos estranhos, onde tudo — do jantar coletivo à hora das histórias — era uma lembrança constante de que sua vida anterior havia acabado.
 
-E ainda assim, há beleza aqui. A sopa de Lumiara que, contra toda expectativa, consegue ser reconfortante. O berçário onde Grazielly toca a mão de Liora — uma bebé encontrada na porta do orfanato numa madrugada de inverno — e sente algo se afrouar dentro do peito. Mira, com sua impaciência gentil e sua capacidade de transformar solidão em companhia. O desenho misterioso na parede da sala de arte — uma menina de mãos brilhantes cercada por criaturas aladas, com um pássaro azul-escuro no topo de uma árvore — que ninguém se lembra de ter feito.
+E ainda assim, há beleza aqui. A sopa de Lumiara que, contra toda expectativa, consegue ser reconfortante. O berçário onde Grazielly toca a mão de Liora — uma bebé encontrada na porta do orfanato numa madrugada de inverno — e sente algo se afrouar dentro do peito. Mira, com sua impaciência gentil e sua capacidade de transformar solidão em companhia. O desenho misterioso na parede da sala de arte — uma menina de mãos brilhantes cercada por criaturas aladas, com um animal de pelagem clara no topo de uma árvore — que ninguém se lembra de ter feito.
 
 E há Lyris. A guardiã que faz uma promessa não estratégica, não calculada, mas genuína — de que voltará a Mespiria para buscar Nyx. Esta é, talvez, a revelação mais importante do capítulo: Lyris, que em capítulos anteriores nos foi apresentada como uma agente fria e metódica, revela aqui sua humanidade. Sua conversa com Luminara Elara é um dos momentos mais delicados da narrativa — duas mulheres que dedicaram suas vidas a proteger os outros, reconhecendo em Grazielly algo que vai além de uma missão.
 
@@ -437,7 +437,7 @@ As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu 
 | **Aeriva** | Plantas com folhas que tremulam com a brisa; usadas como decoração nas paredes |
 | **Aethrys** | Grãos dourados; planta de campos que alimenta o reino; símbolo de Sylvaris |
 | **Lumiara** | Legumes bioluminescentes; base da sopa servida no orfanato |
-| **Mirael** | Temperito aromático ralado; adicionado à sopa por Dona Théria |
+| **Mirael** | Erva aromática ralada; adicionada à sopa por Dona Théria |
 | **Cristal Aetheris** | Cristais que emitem luz dourada; usados em velas, lanternas e suportes |
 | **Pulsos** | Unidade de tempo em Aetherion; equivalente a alguns minutos |
 | **Giran** | Tecido grosso usado em calças; material resistente para o frio |
@@ -447,7 +447,7 @@ As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu 
 
 | Criatura | Descrição |
 |----------|-----------|
-| **Lyrien (Nyx)** | Companheiro animal de Grazielly; azul-escuro; deixado em Mespiria; chiado como saudação |
+| **Lyrien (Nyx)** | Companheiro animal de Grazielly; pelagem cinza-claro quase branca; deixado em Mespiria; chiado como comunicação |
 | **Sylari** | Inseto alado pequeno; asas translúcidas iridescentes; pousou no ombro da estátua de Ventus |
 | **Thaluris** | Peixes alados de escamas prateadas; originários de Thalassia; alimentados por crianças no lago do orfanato |
 | **Ventus** | O último Seraphyen; ser primordial alado; fundador de Sylvaris; dissipou-se no vento |
@@ -480,7 +480,7 @@ As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu 
 
 ## 🔮 Previsão: Próximo Capítulo
 
-No próximo capítulo, o inverno começará a ceder — e com ele, a promessa de Lyris de levar Grazielly de volta a Mespiria para buscar Nyx. Mas o Lyrien azul-escuro que espera sozinho na casa de pedra sob a neve carrega dentro de si um segredo que nem mesmo Melessa conhecia. Enquanto Grazielly se adapta à rotina do orfanato, seus dons começarão a se manifestar de formas sutis — um frio inexplicável quando a emoção é forte, um brilho que lateja sob a pele — e Lyris perceberá que proteger a menina é mais complexo do que simplesmente mantê-la viva. E nas sombras, os olhos que observam desde o capítulo anterior começarão a se multiplicar.
+No próximo capítulo, o inverno começará a ceder — e com ele, a promessa de Lyris de levar Grazielly de volta a Mespiria para buscar Nyx. Mas o Lyrien de pelagem clara que espera sozinho na casa de pedra sob a neve carrega dentro de si um segredo que nem mesmo Melessa conhecia. Enquanto Grazielly se adapta à rotina do orfanato, seus dons começarão a se manifestar de formas sutis — um frio inexplicável quando a emoção é forte, um brilho que lateja sob a pele — e Lyris perceberá que proteger a menina é mais complexo do que simplesmente mantê-la viva. E nas sombras, os olhos que observam desde o capítulo anterior começarão a se multiplicar.
 
 *"Quando o inverno termina e as estradas se abrem, nem todas as promessas podem ser cumpridas da forma como foram feitas. Às vezes, o que encontramos no caminho de volta é mais transformador do que aquilo que deixamos para trás."*
 

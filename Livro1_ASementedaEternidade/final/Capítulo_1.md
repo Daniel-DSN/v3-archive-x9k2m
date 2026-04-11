@@ -371,8 +371,8 @@ Sylvaris é apresentado como um refúgio — não apenas para Ayla, mas para tod
 
 | Momento | Evento |
 |---------|--------|
-| **~9 meses antes** | Ayla chega a Sylvaris grávida; estabelece-se em Mespiria sob identidade falsa |
-| **3 meses antes** | Ayla já vive na vila; Melessa a conhece e oferece ajuda para o parto |
+| **~9 meses antes** | Ayla chega a Sylvaris grávida (Zephyra); assume identidade falsa de viúva de Pyralis |
+| **3 meses antes** | Ayla chega a Mespiria; Melessa a acolhe e oferece ajuda para o parto |
 | **Dias antes da Convergência** | Ayla sente os primeiros sinais do parto; as três luas se aproximam |
 | **Noite dos diálogos com o porvir** | Ayla fala com a criança; descreve o pai e promete proteção |
 | **Véspera da Convergência** | Melessa prepara ervas; o Aethra ao redor de Ayla se torna denso |

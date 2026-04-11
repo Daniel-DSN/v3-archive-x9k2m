@@ -955,6 +955,7 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 |----------|-----------|
 | **Mushen Gir** | Pequenas criaturas aladas de cores vivas; chamadas asas-de-veludo; flutuam como pétalas em dança; comuns em Mespiria |
 | **Nyx** | Lyrien; filhote rejeitado por mãe Nariel na fazenda dos Thorens; pelagem cinza-claro sedosa, olhos dourados; nomeado por Grazielly em homenagem à lua azulada; vínculo empático profundo com Grazielly; chiado como comunicação |
+| **Lyrien** | Mamífero raro, parente distante dos Nariel; nascem ocasionalmente em meio a crias comuns; pelagem cinza-claro quase branca, textura sedosa; olhos dourados luminosos; emitem chiado (som parecido com cristal Aetheris); maioria não sobrevive às primeiras semanas |
 | **Nariel** | Grandes mamíferos de pelagem prateada; criados para leite e lã; gentis e pacientes; comuns nas colinas de Sylvaris |
 
 ### Eventos
