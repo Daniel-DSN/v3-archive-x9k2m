@@ -56,21 +56,59 @@ Era uma mentira que Melessa contava várias vezes por dia. Grazielly não era a 
 
 E funcionava. Na maior parte do tempo.
 
-Foi durante aqueles anos que Melessa ouviu o som.
+Foi numa manhã de outono, quando o vento carregava o perfume adocicado das Giralis desabrochando nos campos e a luz de Aurion tingia o céu de tons de âmbar e cobre, que Melessa decidiu que era hora de um passeio — algo raro, pois a avó adotiva costumava preferir a segurança do quintal, mas que sentia que Grazielly precisava.
 
-Um miado fino, quase inaudível, vindo dos campos atrás da casa — entre as hastes de Aethrys que se curvavam sob o peso das espigas douradas. Melessa largou as ervas que separava e caminhou até a beira do campo, e o que viu a fez parar no meio do passo.
+— Vamos à fazenda dos Thorens — disse, segurando a mão da neta enquanto caminhavam pela estrada de terra ao sul da vila. — A senhora Thorens me contou que uma de suas Nariel deu à luz filhotes ontem. Quero ver se estão bem.
 
-Grazielly estava ajoelhada na terra, as mãozinhas cobertas de poeira, segurando contra o peito um filhote de Lyrien que mal cabia em suas palmas. A criatura era um novelo de pelagem prateada, os olhos ainda fechados, o corpo tremendo como uma folha no vento. Onde estavam os outros Lyriens do grupo, Melessa não sabia. Talvez tivessem rejeitado o filhote por ser pequeno demais. Talvez algo o tivesse separado da mãe. O que sabia era o que via: a menina segurando aquele ser frágil com uma delicadeza que não deveria existir em alguém tão jovem, e o filhote, mesmo tremendo, encolhendo-se contra o calor do pequeno corpo como se ali encontrasse algo que o mundo ainda não lhe havia dado.
+Grazielly apertou a mão de Melessa com mais força, seus passinhos apressados. Ela conhecia os Nariel — os grandes mamíferos de pelagem prateada que pastavam nas colinas, gentis e pacientes como as próprias colinas. Já tinha visto filhotes antes, pequenas bolhas de vida tremulante que tentavam ficar de pé nas pernas bambas. Mas nunca havia visto um nascimento de perto.
 
-— Vó — Grazielly ergueu os olhos, e naquele olhar havia algo que Melessa já começava a reconhecer como a marca daquela criança: não era um pedido. Era uma constatação. — Ele está sozinho.
+A fazenda dos Thorens ficava no topo de uma colina suave, cercada por cercas de madeira velha cobertas de Aeriva — trepadeiras delicadas que se enrolavam como abraços verdes de folhas finas. Thalia, que estava na fazenda para verificar a saúde dos recém-nascidos, veio ao encontro delas na porta do estábulo.
 
-Melessa abriu a boca para dizer todas as coisas certas — que Lyriens eram animais de habito, que criá-los demandava trabalho, que ela já tinha uma criança para cuidar e não precisava de mais uma boca. Mas as palavras morreram antes de chegar à língua. Porque ali, ajoelhada na terra com os cabelos loiros misturados à pelagem prateada do filhote, Grazielly parecia o retrato de algo que Melessa não tinha nome para dar — duas vidas encontradas, duas criaturas que o mundo havia deixado sozinhas, e que agora, juntas, não estavam mais.
+— Melessa — ela disse, o rosto carregando uma expressão que Melessa reconheceu como preocupação. — Que bom que veio. Temos uma situação.
 
-— Então — Melessa disse finalmente, a voz mais rouca do que esperava —, parece que ganhamos um morador.
+Dentro do estábulo, a mãe Nariel deitava sobre palha fresca, cercada por três filhotes que já mamavam com fome. Era uma cena comum, bela em sua normalidade — o tipo de cena que Melessa havia presenciado centenas de vezes. Mas no canto do estábulo, afastado dos outros, havia algo diferente.
 
-Naquela noite, Grazielly nomeou o filhote olhando para as três luas pela janela. Seus dedinhos apontaram para Nyx, a azulada, que brilhava no céu como uma mancha de tinta esquecida pelo pintor do universo.
+Uma quarta cria. Menor que as outras. Muito menor.
 
-— Nyx — ela disse, e o filhote abriu os olhos pela primeira vez — dois círculos dourados que faiscaram na escuridão da casa de pedra como lanternas pequenas. E quando Grazielly adormeceu com ele enroscado contra o peito, Melessa, que observava da beira da cama, viu algo que fez seu coração apertar: o brilho suave que pulsava sob a pele da menina e a pelagem do filhote vibravam na mesma frequência, como dois sinos afinados pelo mesmo vento.
+Era um filhote que não se parecia com nenhum Nariel que Melessa já tivesse visto. Em vez da pelagem prateada característica da espécie, aquela criatura tinha pelos de um cinza tão claro que quase parecia branco, com uma textura sedosa que lembrava as pétalas das Giralis. Era frágil — visivelmente menor que os irmãos, as pernas finas tremendo sob o peso de um corpo que parecia não ter energia para se manter de pé. Seus olhos, porém, eram o que prendia o olhar: grandes, arredondados, de um dourado profundo e luminoso que parecia conter luz própria — dois sóis em miniatura presos numa criatura que mal conseguia se sustentar.
+
+— A mãe o rejeitou — Thalia explicou, a voz carregando a tristeza de quem conhecia a crueldade inerente à natureza. — Não sei por quê. Ele nasceu assim, diferente. Ela o empurrou para longe logo após o nascimento e se recusa a deixá-lo se aproximar. Eu tentei alimentá-lo com leite de Nariel, mas ele é tão fraco... Acho que não vai sobreviver a noite.
+
+Melessa olhou para o filhote, e algo se moveu dentro dela — não compaixão apenas, mas reconhecimento. Aquela criatura pequena e diferente, rejeitada por quem deveria amá-la, lutando para sobreviver em um mundo que não havia pedido para entrar... era impossível não ver o paralelo.
+
+— É um Lyrien — Melessa disse, a voz carregando um peso que surpreendeu Thalia. Os Lyriens eram mamíferos raros, parentes distantes dos Nariel, que nasciam ocasionalmente em meio a crias comuns — uma anomalia que os criadores consideravam ao mesmo tempo bênção e azar. Bênção pela raridade. Azar pela fragilidade. A maioria não sobrevivia às primeiras semanas.
+
+— Melessa, não vai querer... — Thalia começou.
+
+— Grazielly — Melessa chamou, ajoelhando-se e apontando para o filhote. — Olha para ele. O que você sente?
+
+Grazielly se ajoelhou ao lado da avó, seus olhos castanhos encontrando os dourados do filhote. Por um longo momento, nenhuma delas se moveu. A criatura tremia, suas grandes orelhas prateadas achatadas contra a cabeça, os olhos fixos na menina como se reconhecesse algo nela — como se visse além da criança e alcançasse algo que nenhum adulto presente podia perceber.
+
+E então Grazielly estendeu a mão. Lentamente. Com uma delicadeza que parecia vir de outro lugar, de um instinto que não pertencia a uma criança de sua idade. Seus dedinhos tocaram a pelagem do filhote, e algo aconteceu — o Lyrien parou de tremer. Seus olhos se fecharam. E um som baixo, quase inaudível, escapou de sua garganta: um chiado suave e constante, como o zumbido de um cristal Aetheris vibrando em harmonia com o mundo ao redor.
+
+— Ele gosta de mim — Grazielly sussurrou, e em seus olhos havia uma alegria tão pura que Melessa sentiu as lágrimas subirem antes que pudesse detê-las.
+
+— Sim, minha pequena — Melessa disse, a voz mais rouca do que pretendia, a mão trêmula acariciando o cabelo da neta. — Ele gosta de você. E sabe de uma coisa? Esta criatura precisa de alguém que cuide dela com o mesmo amor que eu cuidei de você.
+
+— Eu vou cuidar dele, vó — Grazielly disse, pegando o filhote no colo com uma naturalidade que surpreendeu Thalia. O Lyrien se enroscou em seu peito, seu corpinho pequeno encontrando calor e segurança contra o da menina. — Eu vou cuidar muito bem. Eu prometo.
+
+Melessa sorriu — um sorriso feito de alegria e de dor em partes iguais.
+
+— Então ele precisa de um nome — disse Melessa, passando os dedos pela pelagem do animalzinho. — O que você quer chamá-lo?
+
+Grazielly olhou para os olhos dourados do filhote, depois para o céu onde as primeiras estrelas começavam a aparecer. E Nyx já estava ali — Nyx, a azulada, grande e luminosa no horizonte, sua luz refletindo-se nos olhos do Lyrien como se um espelho cósmico conectasse a criatura ao astro que daria nome ao seu futuro companheiro.
+
+— Nyx — Grazielly disse, com uma certeza que não deixava espaço para dúvidas. — Ele vai se chamar Nyx.
+
+Naquela noite, de volta à casa de pedra, Melessa observou da porta do quarto enquanto Grazielly adormecia com Nyx enroscado no pescoço — o corpinho do Lyrien subindo e descendo em sincronia com a respiração da menina, seus olhos dourados semiabertos como se vigiasse sonhos que ainda não haviam começado.
+
+*Esta será minha última dádiva para ela,* Melessa pensou, as lágrimas escorrendo silenciosamente pelo rosto enrugado enquanto a luz de Aurion se apagava no horizonte e as três luas ascendiam no céu escuro. *Quando eu partir, Grazielly terá pelo menos uma companheira. Alguém que a ame incondicionalmente. Alguém que fique ao lado dela quando o mundo se tornar demasiado grande e demasiado frio para uma criança sozinha.*
+
+Nyx abriu os olhos na escuridão, seus iris dourados brilhando como dois fragmentos de luz aprisionados na terra, e fitou Melessa por um longo momento. Depois, satisfeito por alguma razão que apenas ele conhecia, o pequeno Lyrien fechou os olhos e voltou a dormir, seu chiado preenchendo o silêncio da casa de pedra como uma canção de ninar cantada em uma língua que nenhuma pessoa conhecia.
+
+Nos dias que se seguiram, o vínculo entre Grazielly e Nyx se aprofundou com uma rapidez que surpreendia todos em Mespiria. O Lyrien, que havia nascido frágil e rejeitado, encontrou na menina não apenas calor e alimento, mas algo mais profundo — uma ressonância, como se duas frequências que vibraram separadas por toda a eternidade finalmente encontrassem harmonia. Nyx seguia Grazielly por toda parte: pela casa, pelo quintal, pela varanda onde Melessa separava Lumiara, até os limites dos campos de Aethrys onde os Sylari dançavam ao vento. Quando Grazielly corria, Nyx corria ao seu lado em passos curtos e rápidos. Quando Grazielly dormia, Nyx se enroscava no pescoço da menina, seu corpo quente contra o dela. Quando Grazielly chorava — e chorava cada vez mais nos últimos dias, como se sentisse algo que não podia nomear — Nyx lambia suas lágrimas com uma delicadeza que ia além do instinto animal.
+
+E Melessa observava tudo. E sorria. E, nas noites em que ninguém a via, chorava.
 
 Melessa havia estabelecido regras rígidas para a vida de Grazielly na vila. A criança não devia brincar longe de casa sem supervisão. Não devia ficar sozinha com estranhos. Não devia demonstrar qualquer coisa incomum na presença de forasteiros — e Melessa a ensinara desde cedo a reconhecer quem era de Mespiria e quem não era. Quando mercadores de Velantis passavam pela vila, Grazielly era mantida dentro de casa. Quando viajantes perguntavam sobre a criança loira de olhos castanhos que vivia com a parteira, Melessa respondia com uma versão simplificada de uma história que havia ensaiado muitas vezes: uma mãe desconhecida, um parto difícil, uma criança órfã que ela adotara por compaixão. Nada mais.
 
