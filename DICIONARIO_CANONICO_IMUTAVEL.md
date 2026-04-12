@@ -1141,9 +1141,12 @@ Heróis mascarados que operam fora da lei oficial, inspirando o povo quando a ju
 
 ### Convergência Tripla
 - Fenômeno raro: alinhamento das três luas
-- Ocorre aproximadamente uma vez a cada milênio
+- Ocorre aproximadamente uma vez a cada milênio (intervalo real: 957–1.107 anos)
 - Marca eventos de importância cósmica
-- Sete Convergências registradas na história
+- **Oito Convergências registradas na história** (4 A.D. + 4 E.D.)
+- A 4ª Convergência foi o Dingir-sar — Ilyos selou Nyxalor durante o alinhamento
+- A 8ª Convergência (4.098 E.D.) marcou o nascimento de Grazielly
+- Ver seção completa: 📅 CALENDÁRIO DE AETHERION
 
 ---
 
@@ -1756,6 +1759,44 @@ A língua primordial de Aetherion, falada pelos primeiros povos sob a luz dos Se
 | **Mu** | Ciclo completo (ano) | Documentos formais |
 | **Ges** | Era, período longo | História |
 | **Pul** | Pulsação (pulso) | Medida técnica |
+
+---
+
+# 📅 CALENDÁRIO DE AETHERION
+
+## Dingir-sar — O Dia Divino (Ano Zero)
+
+**𒂍𒌓 Dingir-sar** — "O Dia Divino". Marco temporal fundacional de toda a cronologia aetheriana. Comemora o momento em que Ilyos, durante a 4ª Convergência Tripla, selou Nyxalor no Cristal de Myrtha para proteger a criação da destruição. O selo foi executado aproveitando a energia cósmica do alinhamento das três luas.
+
+### Siglas Cronológicas
+
+| Sigla | Significado | Equivalente Terra |
+|-------|-------------|------------------|
+| **A.D.** | Antes de Dingir-sar | a.C. |
+| **E.D.** | Era de Dingir-sar | d.C. |
+
+### As Oito Convergências Triplas
+
+| Convergência | Ano | Intervalo | Contexto |
+|-------------|-----|-----------|----------|
+| 1ª | -3.128 A.D. | — | Nyxalor livre — mundo caótico |
+| 2ª | -2.094 A.D. | 1.034 | Nyxalor livre — corrupção crescente |
+| 3ª | -987 A.D. | 1.107 | Nyxalor livre — tensão máxima |
+| **4ª (Dingir-sar)** | **0** | **987** | **Ilyos sela Nyxalor durante a Convergência** |
+| 5ª | 1.017 E.D. | 1.017 | Primeira Convergência do mundo selado |
+| 6ª | 2.084 E.D. | 1.067 | Ordem dos Mestres se consolida |
+| 7ª | 3.041 E.D. | 957 | Era dos Sete Reinos estabelecida |
+| **8ª** | **4.098 E.D.** | **1.057** | **Nascimento de Grazielly em Mespiria** |
+
+**Ano da narrativa atual: 4.098 E.D.**
+
+> **Nota:** Intervalos variam entre 957 e 1.107 anos, coerente com "uma vez a cada milênio". A simetria entre o intervalo A.D.→Dingir-sar (987) e Dingir-sar→5ª (1.017) não é acidental — o universo levou tempo semelhante para ciclar antes e depois do selo.
+
+### Referências Internas
+- Registro do naturalista Eben de Umbralis: "3.740º ciclo" — documento histórico escrito ~358 anos antes da narrativa atual.
+- Todas as idades de personagens citadas em "ciclos" no repo referem-se a anos E.D.
+
+---
 
 ## Frases Cerimoniais
 
