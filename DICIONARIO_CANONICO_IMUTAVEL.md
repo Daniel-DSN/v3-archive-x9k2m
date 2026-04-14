@@ -15,7 +15,7 @@
 **NUNCA alterar informações aqui contadas sem autorização explícita.**
 **CONSULTAR este documento antes de escrever QUALQUER novo capítulo.**
 
-> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Thalendris** (cidade costeira das falésias brancas), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática), **Koramis** (ave gigante de montaria de Sylvaris), **Venthari** (ave de rapina de montaria, exclusiva da Esquadrilha Fantasma — Mushen Ven), **Terravox** (besta de carga de Terraxis). **Nyctara** é ave noturna de Umbra (NÃO é montaria) — reservada como referência para o codinome de Lyris. Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna, Maris-Aetheria) sao OBSOLETOS fora de logs de versao.
+> **NOTA DE SINCRONIZACAO (06/04/2026):** Nomenclatura canonica definitiva: **Sylvaris** (Reino do Vento), **Zephyra** (capital), **Velantis** (cidade do Orfanato Luminis), **Thalendris** (cidade costeira das falésias brancas), **Sylentis** (classe social adormecida, antigo *Silentis*), **Thaluris** (pl. de Thaluri, criatura aquática), **Koramis** (ave gigante de montaria de Sylvaris), **Venthari** (ave de rapina de montaria, exclusiva da Esquadrilha Fantasma — Mushen Ven), **Terravox** (besta de carga de Terraxis). **Nyctara** é ave noturna de Umbra (NÃO é montaria) — reservada como referência para o codinome de Lyris. Termos anteriores (Aerya, Serravento, Ventania, Zephyria, Orfanato das Asas, Aethrum-dourado, Pratafolha, Ventorro, Capraluna, **Nariel**, Maris-Aetheria) sao OBSOLETOS fora de logs de versao.
 
 ---
 
@@ -2412,7 +2412,7 @@ Cada reino mantém seus próprios festivais ao longo do Mu, independentes do Din
 - ✅ **Frases cerimoniais** — Canção de Despedida, Bênção Antiga
 
 #### 2. Ajustes de Consistência
-- ✅ **Nyx removido do Cap. III** — Lyrien aparece apenas no Cap. IV
+- ✅ **Nyx mantido no Cap. III** — Cena do resgate do filhote Lyrien (Seção I "Os Anos na Sombra") é canônica; Nyx aparece nos Caps. III, IV e V
 - ✅ **Convergências reestruturadas** — 6 em ~4000 anos, Kaelthor = 3º Guardião Antigo
 - ✅ **GMs numerados** — Aurelius = 33º GM, Théssaly = 32º GM
 - ✅ **Guardiões Antigos** — Era pré-Sanctrum, guardiões do Selo de Mytra

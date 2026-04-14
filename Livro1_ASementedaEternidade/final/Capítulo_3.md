@@ -58,25 +58,25 @@ E funcionava. Na maior parte do tempo.
 
 Foi numa manhã de outono, quando o vento carregava o perfume adocicado das Giralis desabrochando nos campos e a luz de Aurion tingia o céu de tons de âmbar e cobre, que Melessa decidiu que era hora de um passeio — algo raro, pois a avó adotiva costumava preferir a segurança do quintal, mas que sentia que Grazielly precisava.
 
-— Vamos à fazenda dos Thorens — disse, segurando a mão da neta enquanto caminhavam pela estrada de terra ao sul da vila. — A senhora Thorens me contou que uma de suas Nariel deu à luz filhotes ontem. Quero ver se estão bem.
+— Vamos à fazenda dos Thorens — disse, segurando a mão da neta enquanto caminhavam pela estrada de terra ao sul da vila. — A senhora Thorens me contou que uma de suas Velrok deu à luz filhotes ontem. Quero ver se estão bem.
 
-Grazielly apertou a mão de Melessa com mais força, seus passinhos apressados. Ela conhecia os Nariel — os grandes mamíferos de pelagem prateada que pastavam nas colinas, gentis e pacientes como as próprias colinas. Já tinha visto filhotes antes, pequenas bolhas de vida tremulante que tentavam ficar de pé nas pernas bambas. Mas nunca havia visto um nascimento de perto.
+Grazielly apertou a mão de Melessa com mais força, seus passinhos apressados. Ela conhecia os Velrok — os grandes mamíferos de pelagem prateada que pastavam nas colinas, gentis e pacientes como as próprias colinas. Já tinha visto filhotes antes, pequenas bolhas de vida tremulante que tentavam ficar de pé nas pernas bambas. Mas nunca havia visto um nascimento de perto.
 
 A fazenda dos Thorens ficava no topo de uma colina suave, cercada por cercas de madeira velha cobertas de Aeriva — trepadeiras delicadas que se enrolavam como abraços verdes de folhas finas. Thalia, que estava na fazenda para verificar a saúde dos recém-nascidos, veio ao encontro delas na porta do estábulo.
 
 — Melessa — ela disse, o rosto carregando uma expressão que Melessa reconheceu como preocupação. — Que bom que veio. Temos uma situação.
 
-Dentro do estábulo, a mãe Nariel deitava sobre palha fresca, cercada por três filhotes que já mamavam com fome. Era uma cena comum, bela em sua normalidade — o tipo de cena que Melessa havia presenciado centenas de vezes. Mas no canto do estábulo, afastado dos outros, havia algo diferente.
+Dentro do estábulo, a mãe Velrok deitava sobre palha fresca, cercada por três filhotes que já mamavam com fome. Era uma cena comum, bela em sua normalidade — o tipo de cena que Melessa havia presenciado centenas de vezes. Mas no canto do estábulo, afastado dos outros, havia algo diferente.
 
 Uma quarta cria. Menor que as outras. Muito menor.
 
-Era um filhote que não se parecia com nenhum Nariel que Melessa já tivesse visto. Em vez da pelagem prateada característica da espécie, aquela criatura tinha pelos de um cinza tão claro que quase parecia branco, com uma textura sedosa que lembrava as pétalas das Giralis. Era frágil — visivelmente menor que os irmãos, as pernas finas tremendo sob o peso de um corpo que parecia não ter energia para se manter de pé. Seus olhos, porém, eram o que prendia o olhar: grandes, arredondados, de um dourado profundo e luminoso que parecia conter luz própria — dois sóis em miniatura presos numa criatura que mal conseguia se sustentar.
+Era um filhote que não se parecia com nenhum Velrok que Melessa já tivesse visto. Em vez da pelagem prateada característica da espécie, aquela criatura tinha pelos de um cinza tão claro que quase parecia branco, com uma textura sedosa que lembrava as pétalas das Giralis. Era frágil — visivelmente menor que os irmãos, as pernas finas tremendo sob o peso de um corpo que parecia não ter energia para se manter de pé. Seus olhos, porém, eram o que prendia o olhar: grandes, arredondados, de um dourado profundo e luminoso que parecia conter luz própria — dois sóis em miniatura presos numa criatura que mal conseguia se sustentar.
 
-— A mãe o rejeitou — Thalia explicou, a voz carregando a tristeza de quem conhecia a crueldade inerente à natureza. — Não sei por quê. Ele nasceu assim, diferente. Ela o empurrou para longe logo após o nascimento e se recusa a deixá-lo se aproximar. Eu tentei alimentá-lo com leite de Nariel, mas ele é tão fraco... Acho que não vai sobreviver a noite.
+— A mãe o rejeitou — Thalia explicou, a voz carregando a tristeza de quem conhecia a crueldade inerente à natureza. — Não sei por quê. Ele nasceu assim, diferente. Ela o empurrou para longe logo após o nascimento e se recusa a deixá-lo se aproximar. Eu tentei alimentá-lo com leite de Velrok, mas ele é tão fraco... Acho que não vai sobreviver a noite.
 
 Melessa olhou para o filhote, e algo se moveu dentro dela — não compaixão apenas, mas reconhecimento. Aquela criatura pequena e diferente, rejeitada por quem deveria amá-la, lutando para sobreviver em um mundo que não havia pedido para entrar... era impossível não ver o paralelo.
 
-— É um Lyrien — Melessa disse, a voz carregando um peso que surpreendeu Thalia. Os Lyriens eram mamíferos raros, parentes distantes dos Nariel, que nasciam ocasionalmente em meio a crias comuns — uma anomalia que os criadores consideravam ao mesmo tempo bênção e azar. Bênção pela raridade. Azar pela fragilidade. A maioria não sobrevivia às primeiras semanas.
+— É um Lyrien — Melessa disse, a voz carregando um peso que surpreendeu Thalia. Os Lyriens eram mamíferos raros, parentes distantes dos Velrok, que nasciam ocasionalmente em meio a crias comuns — uma anomalia que os criadores consideravam ao mesmo tempo bênção e azar. Bênção pela raridade. Azar pela fragilidade. A maioria não sobrevivia às primeiras semanas.
 
 — Melessa, não vai querer... — Thalia começou.
 
@@ -805,7 +805,7 @@ A placa de bronze no portão principal dizia "Orfanato Luminis — Onde toda cri
 
 — Este é o orfanato onde trabalho — Lyris explicou enquanto conduzia Grazielly pela entrada. — Luminara Elara é a diretora. Ela é gentil, embora possa parecer um pouco séria no começo.
 
-— Lyris! Você voltou! — uma voz chamou do topo das escadas. Era uma menina de talvez oito ou nove anos, cabelos castanhos presos em tranças e um sorriso que parecia iluminar o corredor. — Quem é essa?
+— Lyris! Você voltou! — uma voz chamou do topo das escadas. Era uma menina de dez anos, cabelos castanhos presos em tranças e um sorriso que parecia iluminar o corredor. — Quem é essa?
 
 — Esta é Grazielly — Lyris respondeu, sua voz calorosa de uma forma que surpreendeu a si mesma. — Ela ficará conosco. Grazielly, esta é Mira.
 
@@ -926,7 +926,7 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | Local | Região | Descrição |
 |-------|--------|-----------|
 | **Mespiria** | Sudoeste de Sylvaris | Vila agrícola onde Grazielly cresceu; cercada por Gesh Nanna (pratafolhas) |
-| **Fazenda dos Thorens** | Arredores de Mespiria | Criação de Nariel; onde Grazielly encontrou o filhote Lyrien rejeitado |
+| **Fazenda dos Thorens** | Arredores de Mespiria | Criação de Velrok; onde Grazielly encontrou o filhote Lyrien rejeitado |
 | **Sanctrum** | Aetherion Prime | Capital; Palácio do Grande Mestre; sede da Ordem |
 | **Zephyra** | Sylvaris | Capital flutuante; erguida sobre pilares de cristal Aetheris |
 | **Palácio das Correntes de Ar** | Zephyra | Residência do Senhor dos Ventos; abriga o Savelumao das Brisas |
@@ -954,9 +954,9 @@ E no centro de tudo, Grazielly — quatro anos, brilhando sem saber, amada sem c
 | Criatura | Descrição |
 |----------|-----------|
 | **Mushen Gir** | Pequenas criaturas aladas de cores vivas; chamadas asas-de-veludo; flutuam como pétalas em dança; comuns em Mespiria |
-| **Nyx** | Lyrien; filhote rejeitado por mãe Nariel na fazenda dos Thorens; pelagem cinza-claro sedosa, olhos dourados; nomeado por Grazielly em homenagem à lua azulada; vínculo empático profundo com Grazielly; chiado como comunicação |
-| **Lyrien** | Mamífero raro, parente distante dos Nariel; nascem ocasionalmente em meio a crias comuns; pelagem cinza-claro quase branca, textura sedosa; olhos dourados luminosos; emitem chiado (som parecido com cristal Aetheris); maioria não sobrevive às primeiras semanas |
-| **Nariel** | Grandes mamíferos de pelagem prateada; criados para leite e lã; gentis e pacientes; comuns nas colinas de Sylvaris |
+| **Nyx** | Lyrien; filhote rejeitado por mãe Velrok na fazenda dos Thorens; pelagem cinza-claro sedosa, olhos dourados; nomeado por Grazielly em homenagem à lua azulada; vínculo empático profundo com Grazielly; chiado como comunicação |
+| **Lyrien** | Mamífero raro, parente distante dos Velrok; nascem ocasionalmente em meio a crias comuns; pelagem cinza-claro quase branca, textura sedosa; olhos dourados luminosos; emitem chiado (som parecido com cristal Aetheris); maioria não sobrevive às primeiras semanas |
+| **Velrok** | Grandes mamíferos de pelagem prateada (ur Nanna); criados para leite e lã; gentis e pacientes; comuns nas colinas de Sylvaris |
 
 ### Eventos
 
