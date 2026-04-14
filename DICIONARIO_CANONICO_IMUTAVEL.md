@@ -2127,9 +2127,24 @@ Aurelius torna-se En Me (Guardião Mestre de Sanctrum)
 - Operações diplomáticas de alto risco
 - Sanctrum fornece apoio logístico e reconhecimento formal, mas não comanda as operações
 
+### Colaboradores Externos
+
+**Thaloris Ventaris — Colaborador informal (nunca membro oficial):**
+
+Thaloris Ventaris, príncipe herdeiro e futuro Lugal Lil de Sylvaris, **nunca foi membro formal da Mul-vael**. Seu trono hereditário (Casa Ascanius, 200 ciclos de reinado) tornava qualquer associação oficial com uma guilda politicamente inaceitável — um herdeiro real pertencer a uma facção de guerreiros seria visto como favoritismo e comprometeria a neutralidade da coroa sylvari.
+
+Porém, como futuro líder de um dos reinos mais estratégicos do continente, Thaloris **colaborava informalmente** com a guilda em missões conjuntas e troca de inteligência. Esse arranjo era vantajoso para ambos: a Mul-vael obtinha acesso direto à Rede dos Sussurros de Sylvaris e à infraestrutura de espionagem de um reino-chave, enquanto Thaloris ganhava proteção política continental e acesso a informações operacionais que nenhum outro reino possuía. O contato era mantido através de encontros discretos e canais indiretos — nunca registrado oficialmente.
+
+**A ruptura:** Quando Aurelius se tornou En Me e renunciou ao cargo de En Mul-vael, a guilda perdeu coesão e influência. Para Thaloris, isso significou a perda da rede de proteção e apoio que a parceria oferecia. Sem o respaldo da Mul-vael — e sem Aurelius como intermediário — ele começou a buscar canais alternativos de poder, incluindo conexões com redes ligadas aos Nyctari. Essa transição explica a trajetória que o levaria ao esquema de tráfico de talentos elementais em parceria com Vethran Noll.
+
+**Impacto na diplomacia:** A "diplomacia fria" entre Aurelius e Thaloris não nasceu de rivalidade, mas de abandono percebido — Thaloris sentiu que Aurelius usou a influência da guilda para ascender ao trono supremo e depois abandonou quem o apoiou. Essa ressentimento subjacente explica por que Thaloris, apesar de reconhecer formalmente a autoridade do En Me, protege seus próprios segredos e opera nas sombras com independência crescente. O conhecimento de Thaloris sobre o mundo clandestino (ele deduziu que Lyris é a Nyctara e compreendeu a natureza da missão em Mespiria) vem diretamente dos anos de colaboração com a Mul-vael — ele conhece o modus operandi das guildas de elite porque operou ao lado delas.
+
+> **Por que membro formal nunca funcionaria:** A Casa Ascanius reina há 200 ciclos em Sylvaris precisamente porque mantém aparências de neutralidade entre facções. Se Thaloris fosse oficialmente Mul-vael, estaria alinhando publicamente Sylvaris com uma facção — e isso afastaria aliados, provocaria rivalidades com outras guildas e daria ao Círculo de Cristal motivos para questionar a imparcialidade do Lugal Lil na Mesa dos Vinculadores. A colaboração informal era o único caminho viável.
+
 ### Na narrativa
 
 - A relação entre Aurelius (ex-líder dos Mul-vael) e os Nyctari (guilda clandestina) tem raízes no período em que ele liderava a guilda — laços formados quando ambos os lados lutavam pelas mesmas causas, antes de seguirem caminhos diferentes
+- Thaloris conhece o mundo clandestino das guildas não por ser membro, mas por ter sido colaborador informal da Mul-vael durante anos — isso explica por que ele reconhece padrões operacionais (como deduzir que Lyris é a Nyctara)
 
 ---
 
