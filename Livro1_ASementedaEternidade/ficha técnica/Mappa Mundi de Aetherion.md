@@ -187,7 +187,7 @@ O Vaelantor é também uma barreira natural: embora seja navegável, sua largura
 
 ## OS SETE OCEANOS
 
-Aetherion é, antes de tudo, um planeta de água. Os oceanos que cobrem a maior parte de sua superfície não são massas homogêneas — cada um possui características próprias de temperatura, correnteza, profundidade e periculosidade. Os cartógrafos de Nova Aetherion identificaram **sete grandes massas oceânicas**, cada uma com sua identidade e seus mistérios. A ampliação de cinco para sete oceanos na revisão v2 reflete a reclassificação de águas antes consideradas secundárias e o reconhecimento de massas oceânicas distinctas no norte e no centro do planeta.
+Aetherion é, antes de tudo, um planeta de água. Os oceanos que cobrem a maior parte de sua superfície não são massas homogêneas — cada um possui características próprias de temperatura, correnteza, profundidade e periculosidade. Os cartógrafos de Nova Aetherion identificaram **sete grandes massas oceânicas**, cada uma com sua identidade e seus mistérios. Dos sete, **dois são gélidos** — o Mar de Cristal, no Polo Norte, e o Mar do Silêncio, no Polo Sul — formando as calotas polares de um planeta onde a água domina a superfície.
 
 ### Tabela Sintética dos Oceanos
 
@@ -197,8 +197,8 @@ Aetherion é, antes de tudo, um planeta de água. Os oceanos que cobrem a maior 
 | 2 | **Mar de Aurion** | [D] Derivado | Leste do istmo Sylvaris-Pyralis | Mar do Caribe | Águas tropicais; Mil Ilhas de Aurion |
 | 3 | **Mar de Drakon** | [D] Derivado | Leste de Terraxis | Oceano Índico | Vasto, profundo, perigoso; monstros lendários |
 | 4 | **Mar das Correntes** | [D] Derivado | Faixa equatorial | Pacífico/Índico equatorial | Correntes quentes; vida marinha abundante |
-| 5 | **Mar do Silêncio** | [D] Derivado | Oceano Austral (Polo Sul) | Oceano Antártico | Frio, escuro, absorve o som; Polo Sul |
-| 6 | **Mar de Cristal** | [NEW] | Oceano Ártico (Polo Norte) | Oceano Ártico | Congelado; placas de gelo; auroras |
+| 5 | **Mar do Silêncio** | [D] Derivado | Oceano Austral (Polo Sul) | Oceano Antártico | **Gélido**; absorve o som; icebergs; Polo Sul |
+| 6 | **Mar de Cristal** | [NEW] | Oceano Ártico (Polo Norte) | Oceano Ártico | **Gélido**; placas de gelo permanente; auroras |
 | 7 | **Mar de Vaelantor** | [NEW] | Intercontinental (W↔E) | Oceano Atlântico | O mais largo e profundo; separa blocos |
 
 ### Mar de Lyria [C]
@@ -272,10 +272,10 @@ A importância do Mar das Correntes para o comércio inter-reinos é imensuráve
 | **Classificação** | Derivado criativo (relocalizado na v2) |
 | **Localização** | Oceano Austral; circunda o Polo Sul inexplorado |
 | **Analogia** | Oceano Antártico (Southern Ocean) |
-| **Características** | Frio, escuro, absorve o som; correntes circumpolares |
+| **Características** | **Gélido**; gelo permanente na maior parte do ano; absorve o som; correntes circumpolares |
 | **Importância** | Fronteira do desconhecido; local do personagem misterioso do Cap. 1 |
 
-O Mar do Silêncio é, de todos os oceanos de Aetherion, o mais temido e o menos compreendido. **Na revisão v2, foi relocalizado**: não mais entre Sylvaris e Umbra, mas sim ao redor do Polo Sul, como o Oceano Antártico da Terra. Esse oceano circumpolar circunda o continente gelado inexplorado, separando as águas conhecidas do mundo da escuridão absoluta do extremo sul.
+O Mar do Silêncio é, de todos os oceanos de Aetherion, o mais temido e o menos compreendido. **Na revisão v2, foi relocalizado**: não mais entre Sylvaris e Umbra, mas sim ao redor do Polo Sul, como o Oceano Antártico da Terra. Esse oceano circumpolar circunda o continente gelado inexplorado, separando as águas conhecidas do mundo da escuridão absoluta do extremo sul. É, junto com o Mar de Cristal, um dos dois oceanos gélidos de Aetherion — suas águas permanecem congeladas na maior parte do ano, com icebergs de proporções colossais que se desprendem das calotas polares.
 
 O nome do mar não é poético — é literal. As águas do Mar do Silêncio possuem uma propriedade que desafia a explicação dos estudiosos: uma capacidade de absorver o som. Navios que adentram suas águas relatam que o ruído das ondas diminui progressivamente, que o vento parece perder sua voz e que, em determinado ponto, o silêncio se torna tão absoluto que é possível ouvir o próprio batimento cardíaco. Esse fenômeno não é acústico no sentido tradicional — teorias etéricas sugerem que o Mar do Silêncio se encontra sobre uma região onde o fluxo de Aethra é anômalo, absorvendo ou distorcendo as ondas sonoras de maneiras que a ciência de Nova Aetherion ainda não compreende totalmente.
 
@@ -290,10 +290,10 @@ As correntes do Mar do Silêncio são circumpolares — fluem de oeste para lest
 | **Classificação** | Novo — criado na revisão v2 |
 | **Localização** | Oceano Ártico; circunda o norte de Umbra e o Polo Norte |
 | **Analogia** | Oceano Ártico |
-| **Características** | Congelado na maior parte do ano; placas de gelo; auroras etéricas |
+| **Características** | **Gélido**; congelado quase o ano inteiro; placas de gelo; auroras etéricas |
 | **Importância** | Separa Pyralis de Umbra; fronteira setentrional do mundo conhecido |
 
-O Mar de Cristal é o oceano polar norte de Aetherion — uma vastidão de águas geladas que circunda o extremo setentrional do planeta, banhando as costas ocidentais e setentrionais de Umbra e estendendo-se até o Polo Norte. Seu nome deriva da aparência que suas águas adquirem durante os meses de congelamento: quando a superfície se cobre de gelo, a luz de Aurion refrata através das placas cristalinas, criando um efeito de caleidoscópio que pode ser avistado a grandes distâncias — como se o próprio oceano fosse um imenso cristal partido em fragmentos irregulares.
+O Mar de Cristal é o oceano polar norte de Aetherion — o primeiro dos dois oceanos gélidos do planeta — uma vastidão de águas congeladas que circunda o extremo setentrional do planeta, banhando as costas ocidentais e setentrionais de Umbra e estendendo-se até o Polo Norte. Seu nome deriva da aparência que suas águas adquirem durante os meses de congelamento: quando a superfície se cobre de gelo, a luz de Aurion refrata através das placas cristalinas, criando um efeito de caleidoscópio que pode ser avistado a grandes distâncias — como se o próprio oceano fosse um imenso cristal partido em fragmentos irregulares.
 
 O Mar de Cristal é **congelado durante a maior parte do ano**. Apenas nos meses de verão polar — quando a luz de Aurion incide sobre o norte durante 24 horas por dia — as águas chegam a descongelar parcialmente, abrindo canais entre as placas de gelo que permitem a navegação limitada. Mesmo durante o degelo, a navegação é extremamente perigosa: as placas de gelo deslocam-se imprevisivelmente, as correntes sub-superficiais são rápidas e frias, e a névoa que se forma sobre as águas abertas reduz a visibilidade a quase zero.
 
