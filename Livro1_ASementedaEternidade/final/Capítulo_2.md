@@ -254,7 +254,7 @@ E na caixa escondida debaixo da cama, o pingente negro esperava — paciente, si
 
 ## VIII. O Eco nas Trevas
 
-Em Sanctrum, do outro lado do continente, Aurelius acordou com um sobressalto.
+Em Sanctrum, do outro lado do mar, Aurelius acordou com um sobressalto.
 
 Não havia sido um pesadelo — não exatamente. Foi mais como uma sensação, um aperto no peito que veio de algum lugar além do sono, além da vigília, além de tudo o que ele conhecia. Como se algo tivesse sido arrancado do mundo durante a noite — algo que ele não conseguia nomear, mas cuja ausência sentia como se fosse parte de si mesmo.
 
@@ -318,7 +318,7 @@ O destino começara a se mover — silencioso, paciente, inabalável. E em Mespi
 
 Na noite da Convergência Tripla — quando Lyria, Nyx e Elara se alinharam no céu pela oitava vez em toda a história conhecida — Grazielly nasceu em uma pequena casa de pedra nos arredores de Mespiria. Sua mãe, Ayla, uma guerreira que carregava segredos de reinos distantes, morreu nos momentos que se seguiram ao parto, deixando para trás um nome, um pingente negro e uma promessa: que a filha seria livre das guerras que ela própria havia lutado.
 
-Melessa, a velha parteira que a trouxe ao mundo, assumiu o fardo de criar a criança em segredo — registrando-a como sua neta, escondendo o brilho que emanava de sua pele, e enterrando o selo dos emissários de Sanctrum no fundo de uma caixa de madeira marcada com uma única palavra: *Depois.* Em Sanctrum, do outro lado do continente, Aurelius — o Guardião Mestre que não sabia ser pai — acordou com a sensação de que algo havia se quebrado naquela noite, sem conseguir nomear o que era.
+Melessa, a velha parteira que a trouxe ao mundo, assumiu o fardo de criar a criança em segredo — registrando-a como sua neta, escondendo o brilho que emanava de sua pele, e enterrando o selo dos emissários de Sanctrum no fundo de uma caixa de madeira marcada com uma única palavra: *Depois.* Em Sanctrum, do outro lado do mar, Aurelius — o Guardião Mestre que não sabia ser pai — acordou com a sensação de que algo havia se quebrado naquela noite, sem conseguir nomear o que era.
 
 E nos anos que se seguiram, enquanto Grazielly crescia entre colinas douradas e campos de aethrys, o destino começou a se mover — silencioso, paciente, inabalável.
 

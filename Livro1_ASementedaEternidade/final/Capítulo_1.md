@@ -108,7 +108,7 @@ Ela não tinha respostas. Só tinha perguntas. E o peso de ter que protegê-la s
 
 Enquanto caminhava, Ayla observava a paisagem ao redor com olhos que haviam visto muito mais do que deixavam transparecer. Sylvaris era diferente de qualquer outro reino que conhecera — e ela conhecera muitos em sua vida como guerreira.
 
-Ao norte, Fulmora era um reino de tempestades perpétuas e auroras eternas, onde o povo vivia em constante estado de alerta e intensidade. Ao oeste, Pyralis era terra de fogo e vulcões, onde a paixão queimava tão forte quanto as forjas que sustentavam sua economia. Ao leste, Terraxis guardava seus segredos em montanhas e cavernas, um povo de memórias longas e tradições profundas. Ao sul, Thalassia flutuava sobre águas cristalinas, adaptável e fluido como o elemento que o definia.
+Ao norte, Fulmora era um reino de tempestades perpétuas e auroras eternas, onde o povo vivia em constante estado de alerta e intensidade. Ao noroeste, Pyralis era terra de fogo e vulcões, onde a paixão queimava tão forte quanto as forjas que sustentavam sua economia. A leste, além do mar, Terraxis guardava seus segredos em montanhas e cavernas, um povo de memórias longas e tradições profundas. Ao sul, Thalassia flutuava sobre águas cristalinas, adaptável e fluido como o elemento que o definia.
 
 Mas Sylvaris... Sylvaris era algo inteiramente diferente.
 

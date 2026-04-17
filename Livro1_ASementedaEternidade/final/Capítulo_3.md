@@ -202,7 +202,7 @@ O mercador partiu três dias depois, quando uma breve pausa no inverno permitiu 
 
 A viagem levou doze dias. Doze dias em que Melessa enfraquecia visivelmente, em que Grazielly se recusava a deixar o lado de sua avó adotiva, em que o inverno continuava sua marcha implacável sobre Mespiria.
 
-E em Sanctrum, do outro lado do continente, a carta finalmente chegou.
+E em Sanctrum, do outro lado do mar, a carta finalmente chegou.
 
 ---
 

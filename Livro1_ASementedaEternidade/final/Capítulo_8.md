@@ -64,7 +64,7 @@ O Sentinela hesitou. E naquela hesitação — naquele microinstante em que seus
 
 — O Olho de Aurion decide o que está relacionado — Selina respondeu, sem elevação, sem ameaça. Apenas uma afirmação de fato. — Continue.
 
-— Há três ciclos — o Sentinela começou —, durante uma patrulha rotineira na estrada entre Velantis e a fronteira sul, minha unidade interceptou um transporte que não constava dos registros. Uma carruagem coberta, sem insígnias, conduzida por um casal de meia-idade que se identificou como comerciantes de aromáceos. Nada de extraordinário — exceto por um detalhe.
+— Há três ciclos — o Sentinela começou —, durante uma patrulha rotineira na estrada ao sul de Velantis, rumo às províncias meridionais, minha unidade interceptou um transporte que não constava dos registros. Uma carruagem coberta, sem insígnias, conduzida por um casal de meia-idade que se identificou como comerciantes de aromáceos. Nada de extraordinário — exceto por um detalhe.
 
 — Qual detalhe?
 
