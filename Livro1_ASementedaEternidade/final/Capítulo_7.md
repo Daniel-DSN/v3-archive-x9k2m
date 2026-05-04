@@ -296,7 +296,7 @@ Ela caminhou até sua própria cama — uma modesta cama de voluntária no canto
 
 Deitou-se. Fechou os olhos.
 
-E nos momentos entre a vigília e o sono — aqueles momentos liminares onde Nyctara e Lyris coexistiam brevemente antes que uma cedesse lugar à outra — ela pensou na carta de Selina, naquela frase cifrada que havia chegado três dias antes pela via secreta da Vanguarda:
+E nos momentos entre a vigília e o sono — aqueles momentos liminares onde Nyctara e Lyris coexistiam brevemente antes que uma cedesse lugar à outra — ela pensou na carta de Selina, naquela frase cifrada que havia chegado aquela mesma noite, interceptada por um canal Aetheris de alta velocidade da Vanguarda — o tipo de via reservada apenas para emergências:
 
 *"O mapa está mais completo do que eu temia. As peças se movem em Thalendris. Proteja o que não pode ser substituído."*
 
