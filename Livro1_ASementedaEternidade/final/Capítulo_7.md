@@ -228,7 +228,7 @@ O estojo de couro continha o que ela esperava: instrumentos de calibração para
 
 *Os dados capturados nos cais*, ela pensou, sentindo o peso daquele conhecimento como uma pedra no estômago. *A assinatura da Herdeira. Se esses cristais já foram transmitidos antes de eu chegar aqui...*
 
-Mas não foram. Nyctara verificou o log de transmissões do cristal de comunicação — o dispositivo mantinha um registro das últimas transmissões enviadas e recebidas, mesmo após a destruição dos cristais de armazenamento. O log mostrava que a última transmissão havia sido enviada há doze ciclos — dados de uma operação em Velantis, provavelmente o mapeamento de rotas de transferência de órfãos. A operação de Thalendris ainda não havia reportado. Os Espelhos de Eco haviam capturado dados, mas os dados ainda estavam nos cristais de armazenamento — cristais que agora eram pó.
+Mas não foram. Nyctara verificou o log de transmissões do cristal de comunicação — o dispositivo mantinha um registro das últimas transmissões enviadas e recebidas, mesmo após a destruição dos cristais de armazenamento. O log mostrava que a última transmissão havia sido enviada há doze giros — dados de uma operação em Velantis, provavelmente o mapeamento de rotas de transferência de órfãos. A operação de Thalendris ainda não havia reportado. Os Espelhos de Eco haviam capturado dados, mas os dados ainda estavam nos cristais de armazenamento — cristais que agora eram pó.
 
 *Por enquanto*, Nyctara pensou. *Os dados não foram transmitidos por enquanto. Mas a célula não respondendo vai levantar suspeitas. Umbra vai enviar alguém para verificar. E quando verificarem, vão saber que algo deu errado.*
 

@@ -64,17 +64,13 @@ O Sentinela hesitou. E naquela hesitação — naquele microinstante em que seus
 
 — O Olho de Aurion decide o que está relacionado — Selina respondeu, sem elevação, sem ameaça. Apenas uma afirmação de fato. — Continue.
 
-— Há três ciclos — o Sentinela começou —, durante uma patrulha rotineira na estrada ao sul de Velantis, rumo às províncias meridionais, minha unidade interceptou um transporte que não constava dos registros. Uma carruagem coberta, sem insígnias, conduzida por um casal de meia-idade que se identificou como comerciantes de aromáceos. Nada de extraordinário — exceto por um detalhe.
+— Algumas semanas atrás — no início da primavera, durante o degelo —, minha unidade cruzou com uma escolta da Nu Bandi na estrada para Mespiria. Eles protegiam uma mulher, uma criança e um Lyrien. O que chamou a atenção não foi a escolta militar — patrulhas da Nu Bandi naquela estrada são rotina —, mas o fato de a mulher carregar um salvo-conduto com o selo direto do En Me. Um documento daquele nível, expedido para uma rota de patrulha comum, é incomum. Minha unidade registrou os detalhes por protocolo.
 
-— Qual detalhe?
+Selina sentiu algo se movimentar dentro de seu peito — não emoção, ela não podia se permitir emoção naquele momento, mas algo adjacente. Reconhecimento. Uma mulher com salvo-conduto do En Me, uma criança e um Lyrien — os elementos combinavam com relatórios que ela havia cruzado nos arquivos, relatórios que até então eram fichas soltas em um quebra-cabeça cujo formato ela ainda não compreendia.
 
-— O casal viajava com uma criança. Pequena, talvez quatro ou cinco anos. Loira, olhos castanhos. E ao lado da criança, um Lyrien.
+— A criança manifestou alguma reação durante a passagem? — Selina perguntou, controlando cada sílaba.
 
-Selina sentiu algo se movimentar dentro de seu peito — não emoção, ela não podia se permitir emoção naquele momento, mas algo adjacente. Reconhecimento. A descrição combinava com relatórios que ela havia cruzado nos arquivos, relatórios que até então eram fichas soltas em um quebra-cabeça cujo formato ela ainda não compreendia.
-
-— A criança manifestou alguma reação durante a inspeção? — Selina perguntou, controlando cada sílaba.
-
-— Não diretamente. Mas a carruagem carregava um salvo-conduto real — um documento que identificava a acompanhante da criança como agente aposentada da Ordem, designada para proteção de menor sob autoridade direta do... — o Sentinela fez uma pausa, como se a próxima palavra fosse pesada demais para pronunciar. — ...do En Me.
+— Não diretamente. Mas o salvo-conduto identificava a acompanhante como agente aposentada da Ordem, designada para proteção de menor sob autoridade direta do... — o Sentinela fez uma pausa, como se a próxima palavra fosse pesada demais para pronunciar. — ...do En Me.
 
 O silêncio que se seguiu foi do tipo que a murmulita parecia absorver com avidez, engolindo cada som que tentasse se formar no ar. Selina ficou imóvel por três Pulsos — exatamente três, porque ela contava os Pulsos da mesma forma que contava tudo o mais, com uma precisão que era ao mesmo tempo conforto e maldição.
 
@@ -100,7 +96,7 @@ O Sentinela assentiu.
 
 E era essa perfeição — essa ausência absoluta de irregularidade — que a incomodava. Selina havia passado a vida inteira lendo os espaços entre as palavras, e os espaços entre os procedimentos de Lyris eram tão limpos que só podiam ter sido limpos por alguém que sabia exatamente quais espaços ela procuraria.
 
-*O En Me enviou a melhor agente da Ordem para proteger uma criança em uma vila agrícola*, Selina pensou, desligando a projeção do mapa com um gesto seco da mão. *O mesmo En Me que pregou, durante décadas, que o silêncio é a primeira linha de defesa. Que informação é poder. Que exposição é vulnerabilidade. E em uma única noite — exatamente na mesma noite em que Lyris esteve em seu gabinete — um cristal dourado desapareceu dos cofres restritos da Torre de Aurion. Um cristal com uma assinatura etérica rastreável por qualquer um com equipamento básico. E agora esse cristal pulsa em Velantis.*
+*O En Me enviou a melhor agente da Ordem para proteger uma criança em uma vila agrícola*, Selina pensou, desligando a projeção do mapa com um gesto seco da mão. *O mesmo En Me que pregou, durante décadas, que o silêncio é a primeira linha de defesa. Que informação é poder. Que exposição é vulnerabilidade. E em uma única noite — exatamente na mesma noite em que Lyris esteve em seu gabinete — um cristal dourado desapareceu dos cofres restritos da Torre de Aurion. Um cristal forjado nos cofres mais restritos da Torre — o tipo de artefato que só o En Me teria autoridade para requisitar. E no dia seguinte àquela noite, a melhor agente da Ordem parte para Velantis. É muita ingenuidade achar que o Olho de Aurion não conectaria os pontos.*
 
 *Isso não é proteção. Isso é uma frequência de silêncio quebrada.*
 
@@ -112,7 +108,7 @@ E por alguns Pulsos, ela apenas respirou.
 
 *A pergunta não é mais se há uma conspiração. A pergunta é: o En Me é parte dela, ou está tentando impedir que ela chegue até a criança?*
 
-*E o que a enfurecia — mais do que a conspiração em si, mais do que o silêncio de Aurelius — era a assimetria. Selina soubera do cristal dourado no instante em que ele deixara os cofres do Palácio de Cristal, porque seus olhos dentro de Sanctrum eram onipresentes: cada selo, cada registro de saída, cada item que cruzava as portas da Torre de Aurion chegava até ela na velocidade de um sussurro nos corredores. Internamente, a vigilância era quase onisciente. Mas quando a informação precisava descer do Planalto até Sylvaris, o mundo se tornava lento e fragmentado. Os relatórios que Lyris enviava de Velantis dependiam de mensageiros físicos — Veleiros de Estrada e Koramis que levavam doze ciclos para percorrer distâncias que a luz percorreria em um Pulso. Doze ciclos em que qualquer coisa podia acontecer. Doze ciclos em que a criança podia ser movida, escondida, encontrada — e Selina estaria sentada nesta câmara, cercada de cristais e murmulita, lendo notícias que já eram obsoletas antes de chegar. Se houvesse uma forma de fazer a vigilância externa viajar na mesma velocidade da interna — de transformar o sussurro dos corredores em algo que pudesse atravessar reinos —, ela não estaria cega. E a cegueira, para quem tinha o mapa diante dos olhos, era a forma mais cruel de impotência.*
+*E o que a enfurecia — mais do que a conspiração em si, mais do que o silêncio de Aurelius — era a assimetria. Selina soubera do cristal dourado no instante em que ele deixara os cofres do Palácio de Cristal, porque seus olhos dentro de Sanctrum eram onipresentes: cada selo, cada registro de saída, cada item que cruzava as portas da Torre de Aurion chegava até ela na velocidade de um sussurro nos corredores. Internamente, a vigilância era quase onisciente. Mas quando a informação precisava descer do Planalto até Sylvaris, o mundo se tornava lento e fragmentado. Os relatórios que Lyris enviava de Velantis dependiam de mensageiros físicos — Veleiros de Estrada e Koramis que levavam doze giros para percorrer distâncias que a luz percorreria em um Pulso. Doze giros em que qualquer coisa podia acontecer. Doze giros em que a criança podia ser movida, escondida, encontrada — e Selina estaria sentada nesta câmara, cercada de cristais e murmulita, lendo notícias que já eram obsoletas antes de chegar. Se houvesse uma forma de fazer a vigilância externa viajar na mesma velocidade da interna — de transformar o sussurro dos corredores em algo que pudesse atravessar reinos —, ela não estaria cega. E a cegueira, para quem tinha o mapa diante dos olhos, era a forma mais cruel de impotência.*
 
 E a resposta, Selina sabia, só poderia ser encontrada em um lugar: face a face com o homem que se escondia atrás do título mais poderoso de Alyndra.
 
@@ -150,7 +146,7 @@ Aurelius não reagiu ao corte. Seus olhos permaneceram fixos nos de Selina com a
 
 Selina deu um passo à frente. Apenas um. Mas no contexto daquele solar, naquele confronto, aquele passo carregava o peso de todas as palavras não ditas que se acumulavam entre ela e Aurelius como camadas de sedimento em um leito de rio.
 
-— E então — ela continuou, sua voz mais baixa agora, mais perigosa —, o Senhor requisitou um cristal dourado dos cofres restritos da Torre de Aurion. Exatamente na mesma noite em que Lyris esteve em seu gabinete. E agora esse mesmo cristal pulsa em Velantis. Para uma criança que supostamente deveria estar escondida.
+— E então — ela continuou, sua voz mais baixa agora, mais perigosa —, o Senhor requisitou um cristal dourado dos cofres restritos da Torre de Aurion. Exatamente na mesma noite em que Lyris esteve em seu gabinete. No dia seguinte, a melhor agente da Ordem parte com destino a Velantis. É muita ingenuidade achar que o Olho de Aurion não conectaria os pontos, En Me.
 
 O silêncio que se instalou entre eles era denso o bastante para ser cortado. Os cristais nas paredes pulsavam com sua luz azul constante, e a cortina etérica na janela filtrava a luz de Aurion em um padrão que projetava sombras geométricas no piso de pedra — sombras que dançavam lentamente, como se a própria sala estivesse respirando.
 
@@ -158,7 +154,7 @@ O silêncio que se instalou entre eles era denso o bastante para ser cortado. Os
 
 Ela fez uma pausa. Deixou o silêncio trabalhar — aquela mesma ferramenta que Aurelius havia aperfeiçoado, agora empregada contra ele.
 
-— Mas agora — Selina continuou, e cada palavra era medida, pesada, colocada no ar como uma pedra em um tabuleiro de xadrez —, o silêncio do En Me criou ruído. Um cristal dourado com assinatura etérica rastreável. Uma agente da Ordem reposicionada para uma vila que está no epicentro da Frequência de Desaparecimento. Uma criança cuja existência deveria ser secreta, mas que agora está conectada — por um fio brilhante e visível — ao coração de Sanctrum. Isso não é silêncio, En Me. Isso é um convite.
+— Mas agora — Selina continuou, e cada palavra era medida, pesada, colocada no ar como uma pedra em um tabuleiro de xadrez —, o silêncio do En Me criou ruído. Um cristal dourado requisitado dos cofres mais protegidos de Alyndra. Uma agente da Ordem reposicionada para uma vila que está no epicentro da Frequência de Desaparecimento. Uma criança cuja existência deveria ser secreta, mas que agora está conectada — por um fio brilhante e visível — ao coração de Sanctrum. Isso não é silêncio, En Me. Isso é um convite.
 
 — Um convite para quem? — Aurelius perguntou, e pela primeira vez desde que Selina entrara no solar, sua voz carregava algo que não era controle. Era algo mais bruto, mais próximo da superfície — como se a pergunta tivesse arranhado uma camada de proteção que ele mantinha erigida com a mesma disciplina que mantinha sua postura.
 
@@ -192,7 +188,7 @@ Mas antes de ir, Selina fez algo que era, ao mesmo tempo, um gesto de desafio e 
 
 Ela saiu. A porta se fechou atrás dela com o mesmo clique silencioso com que havia se aberto, e Selina caminhou pelo corredor fora do solar com passos que eram medidos não pela compostura, mas pela fúria contida que ameaçava transbordar a cada Pulso.
 
-*Guerra*, ela pensou, sentindo o peso das palavras do Nin Aga penduradas no ar como um machado sobre um pescoço. *Guerra está vindo. E a Semente está em Velantis, protegida por uma agente aposentada e um cristal que brilha no escuro como uma lanterna em uma floresta cheia de predadores.*
+*Guerra*, ela pensou, sentindo o peso das palavras do Nin Aga penduradas no ar como um machado sobre um pescoço. *Guerra está vindo. E a Semente está em Velantis, protegida por uma agente aposentada e um cristal cuja própria requisição deixou um rastro de papel direto dos cofres do En Me até o coração de Sylvaris.*
 
 *Se eu não conseguir建立 uma linha de monitoramento até ela antes que as sombras cheguem, ninguém conseguirá.*
 
@@ -200,7 +196,7 @@ Ela saiu. A porta se fechou atrás dela com o mesmo clique silencioso com que ha
 
 ## III. O Laboratório de Engenharia Etérica
 
-O Laboratório de Engenharia Etérica ficava no segundo subsolo da Torre de Aurion, em um nível que era, em muitos aspectos, o oposto da Câmara dos Sussurros. Onde a câmara era silenciosa, escura e absorvente, o laboratório era ruidoso, luminoso e expansivo — um vasto salão abobadado onde dezenas de engenheiros trabalhavam em bancadas de metal e cristal, cercados por aparelhos que chiavam, pulsavam e irradiavam luz em frequências que variavam do visível ao quase imperceptível. O ar cheirava a ozônio — o odor característico da manipulação etérica intensa — misturado com o perfume metálico do latão polido e algo que Selina identificava, desde suas primeiras visitas ao laboratório, como o cheiro da inovação: uma mistura indefinível de excitação, tensão e aquele desespero produtivo que fazia os engenheiros trabalharem por ciclos sem dormir.
+O Laboratório de Engenharia Etérica ficava no segundo subsolo da Torre de Aurion, em um nível que era, em muitos aspectos, o oposto da Câmara dos Sussurros. Onde a câmara era silenciosa, escura e absorvente, o laboratório era ruidoso, luminoso e expansivo — um vasto salão abobadado onde dezenas de engenheiros trabalhavam em bancadas de metal e cristal, cercados por aparelhos que chiavam, pulsavam e irradiavam luz em frequências que variavam do visível ao quase imperceptível. O ar cheirava a ozônio — o odor característico da manipulação etérica intensa — misturado com o perfume metálico do latão polido e algo que Selina identificava, desde suas primeiras visitas ao laboratório, como o cheiro da inovação: uma mistura indefinível de excitação, tensão e aquele desespero produtivo que fazia os engenheiros trabalharem por giros sem dormir.
 
 Selina entrou no laboratório com o passo de quem conhecia o espaço — não intimamente, como os engenheiros que ali passavam a maior parte de suas vidas, mas com a familiaridade suficiente para navegar entre as bancadas e os aparelhos sem precisar de guia. Seus olhos escuros percorreram o salão com a eficiência de um scanner, catalogando cada rosto, cada projeto, cada anomalia. Alguns engenheiros ergueram os olhos de seus trabalhos ao vê-la — o tipo de olhar que misturava respeito com cautela, como se a presença da Mestra da Informação em um laboratório de engenharia fosse um evento que exigia atenção.
 
@@ -264,7 +260,7 @@ Valtheris a olhou com uma expressão que misturava surpresa com respeito.
 
 — Quantos Ressoadores estão prontos? — ela perguntou.
 
-— Três unidades protótipo — Valtheris respondeu. — E mais doze em produção, com previsão de conclusão em dois ciclos.
+— Três unidades protótipo — Valtheris respondeu. — E mais doze em produção, com previsão de conclusão em dois giros.
 
 — Eu preciso de um — Selina disse, e a declaração não era um pedido.
 
@@ -408,7 +404,7 @@ Depois abriu os olhos. A máscara voltou. E o En Me, Guardião Mestre de Alyndra
 
 O sétimo capítulo desloca o foco para Sanctrum e para a maquinaria política e tecnológica que opera nas sombras de Alyndra. Selina Thalassa, a Mestra da Informação — A Velatrix do Olho de Aurion — conduz uma sabatina com um Sentinela de Fronteira de Sylvaris que revela detalhes alarmantes sobre a Frequência de Desaparecimento: quatorze crianças sequestradas em sete ciclos, todas com afinidade elementar, todas com documentação falsa impecável que aponta para uma operação de coleta sistemática orquestrada por forças que operam além dos reinos conhecidos.
 
-A sabatina também revela a conexão entre Lyris (Nyctara) — a agente aposentada da Ordem que protege Grazielly na Cidadela Luminis — e a criança que Selina começa a identificar como a peça central do tabuleiro. Quando Selina confronta o En Me (Aurelius) em seu solar privado, a tensão política atinge seu ápice: Selina acusa Aurelius de ter quebrado seu próprio princípio de silêncio ao requisitar um cristal dourado rastreável dos cofres restritos para uma criança que deveria estar oculta. A confrontação é interrompida pela chegada do Nin Aga com notícias de movimentações de Umbra nas fronteiras de Terraxis — um lembrete de que a guerra se aproxima e de que as disputas internas sobre proteção e vigilância podem se tornar irrelevantes diante da ameaça externa.
+A sabatina também revela a conexão entre Lyris (Nyctara) — a agente aposentada da Ordem que protege Grazielly na Cidadela Luminis — e a criança que Selina começa a identificar como a peça central do tabuleiro. Quando Selina confronta o En Me (Aurelius) em seu solar privado, a tensão política atinge seu ápice: Selina acusa Aurelius de ter quebrado seu próprio princípio de silêncio ao requisitar um cristal dourado dos cofres restritos na mesma noite em que Lyris esteve em seu gabinete — uma coincidência que, para o Olho de Aurion, é impossível de ignorar. A confrontação é interrompida pela chegada do Nin Aga com notícias de movimentações de Umbra nas fronteiras de Terraxis — um lembrete de que a guerra se aproxima e de que as disputas internas sobre proteção e vigilância podem se tornar irrelevantes diante da ameaça externa.
 
 Frustrada pelo silêncio de Aurelius, Selina vai ao Laboratório de Engenharia Etérica, onde descobre duas tecnologias que mudarão o curso da narrativa: os Refratores de Aurion (lentes de cristal orbital que mapeiam assinaturas etéricas em tempo real) e a Rede de Ressonância de Aurion (RRA), um sistema de comunicação que usa a frequência de Aurion para transmitir sinais a grandes distâncias. Selina ordena que um Ressoador seja enviado à Cidadela Luminis — oficialmente como teste de comunicação, mas na realidade como uma armadilha para monitorar Lyris e Grazielly.
 
@@ -467,7 +463,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 | **Rede de Ressonância de Aurion (RRA)** | Sistema de comunicação ativo que usa a frequência de Aurion para transmitir sinais a longa distância |
 | **Ressoador** | Dispositivo portátil da RRA; emite e recebe sinais na frequência de Aurion; três unidades protótipo iniciais |
 | **Frequência de Silêncio** | Termo conceitual de Selina; quando o silêncio deliberado gera exposição (antítese do princípio do En Me) |
-| **Assimetria de Vigilância** | Diferença de velocidade entre a vigilância interna de Sanctrum (instantânea) e os relatórios de campo de Sylvaris (12 ciclos de atraso); fonte de frustração de Selina e motivação para buscar a RRA |
+| **Assimetria de Vigilância** | Diferença de velocidade entre a vigilância interna de Sanctrum (instantânea) e os relatórios de campo de Sylvaris (12 giros de atraso); fonte de frustração de Selina e motivação para buscar a RRA |
 | **Protocolo de Escuta Passiva** | Princípio pelo qual Aurelius projetou o cristal dourado como receptor passivo (indetectável), calibrado apenas para sua frequência pessoal; a ativação não autorizada da RRA forçou o cristal a responder como transmissor ativo |
 | **Eco Cego** | Anomalia no espectro de Aethra gerada pelas ondas espúrias da RRA; detectável por sensores como ruído, mas sem coordenadas, identidade ou localização — não é radar; revela apenas que Sanctrum está testando algo novo |
 | **Armadilha de vigilância** | Metáfora usada internamente por Selina; enviar o Ressoador à Cidadela sob justificativa falsa para monitorar Grazielly |
@@ -476,7 +472,7 @@ A observação de Selina sobre as capacidades tecnológicas de Umbra — "melhor
 
 | Evento | Significado |
 |--------|-------------|
-| **Reflexão sobre a Assimetria** | Selina percebe a defasagem entre vigilância interna (instantânea) e externa (12 ciclos); motivação latente para buscar comunicação rápida |
+| **Reflexão sobre a Assimetria** | Selina percebe a defasagem entre vigilância interna (instantânea) e externa (12 giros); motivação latente para buscar comunicação rápida |
 | **Sabatina do Sentinela** | Selina obtém dados sobre os 14 desaparecimentos e a conexão com Lyris/Mespiria |
 | **Confronto Selina vs. Aurelius** | Selina acusa Aurelius de expor Grazielly com o cristal dourado; interrompido pelo Nin Aga |
 | **Alerta do Nin Aga** | Movimentações de Umbra nas fronteiras de Terraxis; guerra iminente |

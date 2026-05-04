@@ -36,9 +36,9 @@ Thaloris endireitou-se lentamente, como se o ato de se despregar da contemplaç�
 
 Aurelius o estudou por um Pulso inteiro — um Pulso longo, pesado, carregado da percepção etérica avançada que fazia dele o homem mais perigoso de Nova Aetherion. Thaloris sentiu aquele olhar como quem sente uma corrente de ar frio em uma noite de inverno: desagradável, mas não insuportável. Ele sustentou o sorriso jovial, os olhos azulados com uma expressão de inocência cultivada com décadas de prática.
 
-— O relatório chegou há três ciclos — disse Aurelius, e sua voz não carregava acusação, apenas constatação. — A votação sobre as cotas de exportação de cristal Aetheris é na próxima semana. Sua assinatura é necessária.
+— O relatório chegou há três giros — disse Aurelius, e sua voz não carregava acusação, apenas constatação. — A votação sobre as cotas de exportação de cristal Aetheris é na próxima semana. Sua assinatura é necessária.
 
-— Três ciclos? — Thaloris piscou, com uma credibilidade que teria feito um ator de trupes itinerantes corar de inveja. — O tempo voa quando se está distraído com coisas que realmente importam, não é, En Me? — Ele deu um tapinha amigável no ombro de Aurelius, um gesto que poucos no universo teriam ousado fazer com o Guardião Mestre. — Não se preocupe. Assinarei. Antes da votação. Provavelmente.
+— Três giros? — Thaloris piscou, com uma credibilidade que teria feito um ator de trupes itinerantes corar de inveja. — O tempo voa quando se está distraído com coisas que realmente importam, não é, En Me? — Ele deu um tapinha amigável no ombro de Aurelius, um gesto que poucos no universo teriam ousado fazer com o Guardião Mestre. — Não se preocupe. Assinarei. Antes da votação. Provavelmente.
 
 Aurelius não respondeu. Aquela impaciência controlada — a espera como tática, como Selina já havia identificado — era uma arma que ele empunhava com a mesma fluidez com que empunharia a espada cerimonial Aurum. Mas Thaloris não era Selina. Thaloris não se deixava afetar por silêncios porque, ao contrário de Selina, não estava ali para descobrir a verdade. Estava ali para ocultá-la.
 
@@ -52,7 +52,7 @@ O sorriso desapareceu.
 
 Não gradualmente, como o pôr de Aurion sobre as planícies de Vaelthyris. Imediatamente. Como se alguém tivesse puxado uma alavanca invisível por trás de seu rosto, desligando uma fonte de luz. Os olhos de Thaloris — que momentos antes brilhavam com a falsa vivacidade de um esteta distraído — se tornaram algo completamente diferente: frios, calculistas, tão penetrantes quanto os de Aurelius, mas de uma frieza que não tinha nada a ver com o gelo de Kaelvrym. Era a frieza de quem vê o tabuleiro inteiro e sabe exatamente onde cada peça está.
 
-*Três ciclos*, ele pensou, e o tom interno de sua voz não tinha absolutamente nada de jovial. *O relatório esteve na minha mesa por três ciclos e ele não mandou ninguém buscá-lo. Não mandou um assistente. Não enviou uma lembrança formal pelo canal diplomático. Veio pessoalmente.*
+*Três giros*, ele pensou, e o tom interno de sua voz não tinha absolutamente nada de jovial. *O relatório esteve na minha mesa por três giros e ele não mandou ninguém buscá-lo. Não mandou um assistente. Não enviou uma lembrança formal pelo canal diplomático. Veio pessoalmente.*
 
 Thaloris começou a caminhar pelo corredor em direção aos seus aposentos diplomáticos, e seu passo mudou tão completamente que parecia outro homem. O andar vagaroso e distraído deu lugar a um caminhar preciso, ritmado, de alguém que sabia exatamente onde estava indo e quanto tempo cada trecho do caminho leva. As manchas de tinta em suas mãos — que ele havia acrescentado deliberadamente antes da sessão do Conselho para reforçar a persona — agora pareciam exatamente o que eram: um acessório de disfarce, tão cuidadosamente calculado quanto cada palavra que havia pronunciado diante de Aurelius.
 
@@ -84,7 +84,7 @@ Vethran apareceu quarenta Pulsos depois, como sempre aparecia: sem som, sem avis
 
 — En Dili Lil — Thaloris disse, sem se virar. Ele estava sentado diante de uma tela que havia sido montada em um cavalete improvisado, seu pincel traçando linhas finas sobre uma superfície que ainda era majoritariamente branca. — Sente-se. Há vinho na jarra. O da costa de Thyravalis — o bom, não aquele que sirvo nas recepções para impressionar diplomatas que não sabem a diferença entre Aethrys e Giralis.
 
-Vethran sentou-se em uma cadeira de madeira escura posicionada ao lado da mesa de trabalho. Suas mãos — as mãos de um burocrata de sessenta e dois ciclos, envelhecidas pelo tédio administrativo e pela precisão invisível de quem move peças em tabuleiros que ninguém sabe que existem — repousaram sobre os joelhos com a disciplina de um homem que nunca se permite estar inteiramente à vontade, mesmo em um quarto onde sua vida não está em risco.
+Vethran sentou-se em uma cadeira de madeira escura posicionada ao lado da mesa de trabalho. Suas mãos — as mãos de um burocrata de sessenta e dois Ciclos Solares, envelhecidas pelo tédio administrativo e pela precisão invisível de quem move peças em tabuleiros que ninguém sabe que existem — repousaram sobre os joelhos com a disciplina de um homem que nunca se permite estar inteiramente à vontade, mesmo em um quarto onde sua vida não está em risco.
 
 — Não vim para vinho — ele disse, e sua voz era exatamente como Thaloris se lembrava: controlada, eficiente, desprovida de qualquer emoção que não fosse a necessidade funcional de comunicar informação.
 
@@ -116,7 +116,7 @@ Ele caminhou até uma das prateleiras de cristais e retirou um exemplar — um c
 
 Thaloris depositou o cristal de âmbar de volta na prateleira e recostou-se contra a parede, os braços cruzados, a expressão de um homem que está desfrutando profundamente de sua própria narrativa.
 
-— Eu sou o nobre fútil, Vethran. O esteta distraído que se importa mais com a tonalidade dos afrescos do que com o preço do cristal Aetheris. O rei que vota com a maioria, nunca lidera oposições, nunca propõe iniciativas ousadas, e que — de vez em quando — esquece de assinar relatórios de exportação por três ciclos porque estava ocupado pintando a lua Nyx. Essa é a minha cadeira de vidro. Transparente, frágil, aparentemente inofensiva. E eu nela meço, enquanto Sanctrum olha através de mim sem ver absolutamente nada.
+— Eu sou o nobre fútil, Vethran. O esteta distraído que se importa mais com a tonalidade dos afrescos do que com o preço do cristal Aetheris. O rei que vota com a maioria, nunca lidera oposições, nunca propõe iniciativas ousadas, e que — de vez em quando — esquece de assinar relatórios de exportação por três giros porque estava ocupado pintando a lua Nyx. Essa é a minha cadeira de vidro. Transparente, frágil, aparentemente inofensiva. E eu nela meço, enquanto Sanctrum olha através de mim sem ver absolutamente nada.
 
 O silêncio que se seguiu foi preenchido pelo som distante de um Korami — os grandes pássaros de montaria que circulavam as torres superiores do palácio — e pelo zumbido etérico dos cristais Aetheris que sustentavam a estrutura do edifício. Vethran ouviu tudo, processou tudo, e quando finalmente falou, sua voz carregava algo que não era exatamente admiração — era algo mais clínico, mais profissional: o reconhecimento de um colega que entende a mecânica de uma operação brilhante.
 
@@ -140,7 +140,7 @@ Os pincéis pararam. Não porque Thaloris os tivesse largado — Thaloris não l
 
 — Detalhes — Thaloris disse. Uma palavra. Não um pedido.
 
-— Cinco operativos — Vethran respondeu, e cada sílaba era uma pedra colocada com precisão cirúrgica sobre a mesa de um anatomista. — Eliminados. Nenhuma transmissão. Nenhuma resposta. A janela de verificação foi ultrapassada há dois ciclos sem que nenhum sinal de vida fosse registrado.
+— Cinco operativos — Vethran respondeu, e cada sílaba era uma pedra colocada com precisão cirúrgica sobre a mesa de um anatomista. — Eliminados. Nenhuma transmissão. Nenhuma resposta. A janela de verificação foi ultrapassada há dois giros sem que nenhum sinal de vida fosse registrado.
 
 — Responsável?
 
@@ -321,7 +321,7 @@ Não ainda.
 | Nome | Idade | Função | Significado Narrativo |
 |------|------|--------|----------------------|
 | **Thaloris Ventaris / Lugal Lil** | Vários séculos | Senhor dos Ventos de Sylvaris / ocupante do assento sylvari no Conselho dos 10 | Protagonista do capítulo; dualidade entre o esteta fútil e o arquiteto das Cargas Fantasmas; seu interesse por Grazielly mistura estratégia e algo mais profundo |
-| **Vethran Noll / En Dili Lil** | 62 ciclos | Burocrata de Sanctrum / Mestre dos Sussurros | Emissário do relatório sobre a queda de Thalendris; deferente mas não servil; voz da cautela estratégica |
+| **Vethran Noll / En Dili Lil** | 62 Ciclos Solares | Burocrata de Sanctrum / Mestre dos Sussurros | Emissário do relatório sobre a queda de Thalendris; deferente mas não servil; voz da cautela estratégica |
 | **Aurelius / En Me** | Vários séculos | Guardião Mestre de Sanctrum | Presença indireta; interage com Thaloris na Seção I como aquele que testa a máscara do Lugal Lil |
 | **Selina Thalassa (A Velatrix)** | — | Mestra da Informação do Conselho dos 10 | Ameaça central do capítulo; descrita como tendo "olhos de Velatrix"; está rastreando as Cargas Fantasmas até o Departamento de Transferências |
 | **Lyris / Nyctara** | — | Agente aposentada / ex-lenda da Vanguarda | Responsável pela destruição da célula de Thalendris; referida como obstáculo não hostil |
