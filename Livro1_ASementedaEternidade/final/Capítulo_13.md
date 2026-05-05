@@ -46,7 +46,7 @@ O estômago de Lyris revirou, mas seu rosto manteve-se uma máscara de serenidad
 
 Grazielly apertou Nyx contra o peito. A temperatura no quarto caiu imperceptivelmente. Uma fina névoa começou a se formar quando o ar quente dos pulmões de Lyris encontrou o frio repentino que emanava da criança. O *Cryonys* estava reagindo ao medo.
 
-— Não precisa ter medo — Lyris disse, segurando as smallenas mãos de Grazielly antes que a geada pudesse se formar nas pontas dos dedos. — Eu estou aqui. Ninguém vai roubar a sua estrela enquanto eu estiver com você. Mas preciso que você me ajude a escondê-la. Nós precisamos ensiná-la a dormir.
+— Não precisa ter medo — Lyris disse, segurando as pequenas mãos de Grazielly antes que a geada pudesse se formar nas pontas dos dedos. — Eu estou aqui. Ninguém vai roubar a sua estrela enquanto eu estiver com você. Mas preciso que você me ajude a escondê-la. Nós precisamos ensiná-la a dormir.
 
 — Como? — a voz da menina era apenas um sussurro assustado.
 

@@ -24,7 +24,7 @@ Foi nesse cenário de quietude opressiva que a mensagem do Engenheiro-Chefe Valt
 
 O cristal receptor de alta prioridade, embutido no centro da mesa, piscou uma vez em vermelho vivo antes de reproduzir a gravação de áudio com a fidelidade crua que só a Rede de Ressonância de Aurion possuía:
 
-*"Velatrix. Temos uma anomalia no nó sete. A assinatura que registrei há cinco dias... acabou de interagir com o Farol de forma não prevista. A criança tocou o dispositivo. E o dispositivo respondeu. A freqüência de ressonância bidirecional... está em um nível que não deveria ser possível para um indivíduo com menos de dez ciclos de idade."*
+*"Velatrix. Temos uma anomalia no nó sete. A assinatura que registrei há cinco dias... acabou de interagir com o Farol de forma não prevista. A criança tocou o dispositivo. E o dispositivo respondeu. A frequência de ressonância bidirecional... está em um nível que não deveria ser possível para um indivíduo com menos de dez ciclos de idade."*
 
 O áudio terminou com um chiado estático e a câmara voltou ao silêncio. Mas na mente de Selina, o som daquelas palavras continuava reverberando como um sino de alarme.
 
@@ -81,7 +81,7 @@ Selina ficou sozinha.
 
 O mapa de Sylvaris flutuava diante dela, e no centro dele, o ponto luminoso de Velantis pulsava como um coração exposto. Ela traçou uma linha mental entre a Torre de Aurion e a Cidadela Luminis — quinhentos Passos em linha reta, mas muito mais se contornassem as rotas de patrulha e os postos de verificação de Sylvaris. Seus operativos precisariam de pelo menos dois dias para chegar à vizinhança do orfanato sem serem detectados pela guarnição local. Dois dias em que qualquer coisa podia acontecer.
 
-*E vai acontecer*, ela pensou. *Porque eu não sou a única que sentiu aquele eco. Se o sinal atravessou o espectro de Aethra com intensidade suficiente para ser registrado pelos Refratores da Torre, então atravessou com intensidade suficiente para ser registrado por qualquer dispositivo no continente que operasse na mesma freqüência.*
+*E vai acontecer*, ela pensou. *Porque eu não sou a única que sentiu aquele eco. Se o sinal atravessou o espectro de Aethra com intensidade suficiente para ser registrado pelos Refratores da Torre, então atravessou com intensidade suficiente para ser registrado por qualquer dispositivo no continente que operasse na mesma frequência.*
 
 Selina fechou os olhos. Nos anos em que havia construído o Olho de Aurion a partir de relatórios cruzados e intuições cirúrgicas, ela havia aprendido uma regra que nenhuma academia de espionagem ensinava: a verdadeira ameaça nunca é a que você está caçando. É a que está caçando a mesma presa que você, e que você ainda não viu.
 
@@ -95,7 +95,7 @@ Ela reprimiu o impulso de começar uma varredura interna imediata — não havia
 
 Selina ativou o cristal de comunicação com um toque seco.
 
-— Central de Operações. Código Velatrix Alfa. Preciso de três equipes de reconhecimento não-assinaladas na rota Sanctrum-Velantis dentro de doze Pulsos. Perfil de infiltración: viajantes comerciais, funcionários de cross-reinos. Nenhuma conexão com a Torre de Aurion. Nenhuma conexão com o Conselho dos 10. E preciso do relatório completo de todas as assinaturas etéricas não-catalogadas que foram detectadas pelos Refratores nos últimos sete dias, com especial atenção a qualquer pulso anômalo originado além da fronteira norte.
+— Central de Operações. Código Velatrix Alfa. Preciso de três equipes de reconhecimento não-assinaladas na rota Sanctrum-Velantis dentro de doze Pulsos. Perfil de infiltração: viajantes comerciais, funcionários de cross-reinos. Nenhuma conexão com a Torre de Aurion. Nenhuma conexão com o Conselho dos 10. E preciso do relatório completo de todas as assinaturas etéricas não-catalogadas que foram detectadas pelos Refratores nos últimos sete dias, com especial atenção a qualquer pulso anômalo originado além da fronteira norte.
 
 A voz do operador respondeu com a eficiência mecânica de quem estava acostumado a receber ordens impossíveis às três da manhã:
 — Entendido, Velatrix. Tempo estimado de montagem: nove Pulsos. Os dados dos Refratores serão compilados e enviados ao seu cristal privado dentro de quatro Pulsos.
@@ -136,17 +136,17 @@ Draven Kael, seu segundo-em-comando, estava encostado na moldura da porta que da
 
 — O indicador primário — Yvra disse, sem se virar. — Três pulsos anômalos. Origem: sul-sudeste. Além da fronteira de Sylvaris.
 
-Draven afastou-se da moldura e caminhou até o painel. Seus olhos varreram os cristais receptores, os gráficos de freqüência, os mapas de triangulação.
+Draven afastou-se da moldura e caminhou até o painel. Seus olhos varreram os cristais receptores, os gráficos de frequência, os mapas de triangulação.
 
 — Isso é... — ele começou, e então parou.
 
-Yvra entendeu por que ele parou. Os dados no painel não faziam sentido. A assinatura do pulso anômalo não correspondia a nenhum padrão conhecido no espectro de Aethra. Não era um Refratore de Sanctrum — os Refratores emitiam pulsos limpos, angulares, com freqüências calibradas que poderiam ser identificadas em meio segundo. Não era um dispositivo natural — as formações geológicas de Aethra pulsavam em ritmos lentos, orgânicos, como o bater de um coração de montanha. E não era equipamento do Gelo Negro — Yvra conhecia cada freqüência que os Espelhos de Eco emitiam, e aquilo não era um Espelho.
+Yvra entendeu por que ele parou. Os dados no painel não faziam sentido. A assinatura do pulso anômalo não correspondia a nenhum padrão conhecido no espectro de Aethra. Não era um Refratore de Sanctrum — os Refratores emitiam pulsos limpos, angulares, com frequências calibradas que poderiam ser identificadas em meio segundo. Não era um dispositivo natural — as formações geológicas de Aethra pulsavam em ritmos lentos, orgânicos, como o bater de um coração de montanha. E não era equipamento do Gelo Negro — Yvra conhecia cada frequência que os Espelhos de Eco emitiam, e aquilo não era um Espelho.
 
 — O que é, então? — Draven perguntou, a voz mais baixa agora.
 
-Yvra passou os dedos sobre os cristais de controle, ajustando filtros e ampliando freqüências. O mapa tridimensional oscilou, expandiu, contraiu — e então, no centro da projeção, a assinatura anômala apareceu em detalhe.
+Yvra passou os dedos sobre os cristais de controle, ajustando filtros e ampliando frequências. O mapa tridimensional oscilou, expandiu, contraiu — e então, no centro da projeção, a assinatura anômala apareceu em detalhe.
 
-Era bonita. Essa foi a primeira palavra que veio à mente de Yvra, e ela a rejeitou imediatamente porque não havia nada de bonito naquilo que seus olhos viam. A assinatura era uma espiral de luz — um vórtice de freqüências entrelaçadas que se expandia e contraía como a respiração de algo vivo. No núcleo do vórtice, duas assinaturas distintas estavam fundidas: uma que Yvra reconheceu parcialmente como o padrão de emissão dos Faróis de Aethra — os dispositivos de conforto que Sanctrum distribuía para orfanatos — e outra que era completamente desconhecida. Uma assinatura que puljava com uma intensidade que Yvra nunca havia visto em seus vinte e três anos de carreira. Uma assinatura que era, ao mesmo tempo, jovem — absurdamente, impossivelmente jovem — e mais poderosa do que qualquer assinatura individual que os registros do Gelo Negro haviam catalogado.
+Era bonita. Essa foi a primeira palavra que veio à mente de Yvra, e ela a rejeitou imediatamente porque não havia nada de bonito naquilo que seus olhos viam. A assinatura era uma espiral de luz — um vórtice de frequências entrelaçadas que se expandia e contraía como a respiração de algo vivo. No núcleo do vórtice, duas assinaturas distintas estavam fundidas: uma que Yvra reconheceu parcialmente como o padrão de emissão dos Faróis de Aethra — os dispositivos de conforto que Sanctrum distribuía para orfanatos — e outra que era completamente desconhecida. Uma assinatura que pulsava com uma intensidade que Yvra nunca havia visto em seus vinte e três anos de carreira. Uma assinatura que era, ao mesmo tempo, jovem — absurdamente, impossivelmente jovem — e mais poderosa do que qualquer assinatura individual que os registros do Gelo Negro haviam catalogado.
 
 — É uma ressonância bidirecional — Yvra disse, a voz plana, mas os olhos dizendo outra coisa. — Um Farol de Aethra está interagindo com uma assinatura etérica individual. E a interação não é passiva. É... mútua. O Farol está lendo a assinatura, e a assinatura está reescrevendo o Farol.
 
@@ -154,7 +154,7 @@ Draven ficou em silêncio por um longo momento. No norte, o silêncio entre dois
 
 — Criança — ele disse finalmente.
 
-— Criança — Yvra confirmou. — A assinatura individual tem o perfil de desenvolvimento de um menor de dez ciclos. Talvez menos. A freqüência de base é instável, o que é consistente com um sistema nervoso etérico imaturo. Mas a *potência* da assinatura...
+— Criança — Yvra confirmou. — A assinatura individual tem o perfil de desenvolvimento de um menor de dez ciclos. Talvez menos. A frequência de base é instável, o que é consistente com um sistema nervoso etérico imaturo. Mas a *potência* da assinatura...
 
 Ela não terminou a frase. Não precisava.
 
@@ -174,13 +174,13 @@ Draven cuspiu no chão de gelo — um gesto que os Caçadores faziam quando ouvi
 
 Ela se virou para encarar Draven. A luz azul-esverdeada dos Lumivael nas paredes pintava seu rosto com sombras que a faziam parecer mais velha do que era.
 
-— Triangulei também a freqüência de propagação do pulso — ela continuou. — O sinal não se limitou ao espectro de Aethra convencional. Ele atravessou camadas de freqüência que nossos Espelhos de Eco sequer monitoram. Camadas que, até onde sei, não são monitoradas por ninguém além de...
+— Triangulei também a frequência de propagação do pulso — ela continuou. — O sinal não se limitou ao espectro de Aethra convencional. Ele atravessou camadas de frequência que nossos Espelhos de Eco sequer monitoram. Camadas que, até onde sei, não são monitoradas por ninguém além de...
 
 Ela parou. A expressão de Yvra mudou — não dramaticamente, mas com a sutileza de uma armadilha sendo engatilhada.
 
 — Além de quem? — Draven perguntou.
 
-— Além dos fundadores — Yvra disse, e seu tom era tão sério que Draven restringiu os ombros, um gesto instintivo de um soldado ouvindo algo que mudava as regras do campo de batalha. — Camadas primordiais, Draven. Freqüências que não existem mais nos manuais atuais. Apenas nos registros arqueológicos do *En Me* e nos catálogos dos Engenheiros Originais. Freqüências que deveriam ter se dissipado há eras.
+— Além dos fundadores — Yvra disse, e seu tom era tão sério que Draven restringiu os ombros, um gesto instintivo de um soldado ouvindo algo que mudava as regras do campo de batalha. — Camadas primordiais, Draven. Frequências que não existem mais nos manuais atuais. Apenas nos registros arqueológicos do *En Me* e nos catálogos dos Engenheiros Originais. Frequências que deveriam ter se dissipado há eras.
 
 O silêncio que se seguiu foi tão denso que o som da respiração de ambos era audível — o ar gélido condensando em pequenas nuvens que se formavam e desapareciam diante de seus rostos como fantasmas em miniatura.
 
@@ -226,7 +226,7 @@ Yvra ficou sozinha no laboratório. Olhou para o indicador primário — escuro 
 
 Ela se aproximou do painel de monitoramento e reexaminou os dados do pulso anômalo. A espiral de luz ainda girava na projeção, duas assinaturas fundidas em um abraço que nenhuma tecnologia conhecida deveria ser capaz de produzir.
 
-*A assinatura individual é jovem*, Yvra pensou. *Incrivelmente jovem. Mas a freqüência em que ela opera... é anterior. É como se algo do início dos tempos tivesse nascido no corpo de uma criança.*
+*A assinatura individual é jovem*, Yvra pensou. *Incrivelmente jovem. Mas a frequência em que ela opera... é anterior. É como se algo do início dos tempos tivesse nascido no corpo de uma criança.*
 
 E na profundez gelada abaixo de seus pés, a trezentos e dez Passos no coração da terra, dentro de um cofre de pedra negra que não recebia luz há eras, algo que não era exatamente humano abriu os olhos pela segunda vez naquela noite — e, pela primeira vez em um período que ninguém poderia medir, sorriu.
 
@@ -246,7 +246,7 @@ Ela havia gastado as primeiras horas da noite processando o que acontecera. A se
 
 O pulso atravessou as paredes da Cidadela Luminis. Atravessou os limites de Velantis. Atravessou as fronteiras de Sylvaris. E continuou viajando — Lyris podia senti-lo, mesmo agora, horas depois, como um zumbido residual na borda inferior de sua percepção etérica, como o silêncio que sobra depois de um sino de igreja parar de tocar.
 
-*O mundo inteiro sabe que algo aconteceu aqui*, Lyris pensou. *Valtheris sabe. Selina sabe. Qualquer pessoa ou organização com um receptor etérico calibrado na freqüência certa sabe. E se eu — que passei trinta e dois anos desenvolvendo métodos para não ser detectada — posso sentir o residual do pulso a esta distância, então whoever está do outro lado desse Farol não apenas sabe que a Semente está aqui. Eles sabem exatamente onde.*
+*O mundo inteiro sabe que algo aconteceu aqui*, Lyris pensou. *Valtheris sabe. Selina sabe. Qualquer pessoa ou organização com um receptor etérico calibrado na frequência certa sabe. E se eu — que passei trinta e dois anos desenvolvendo métodos para não ser detectada — posso sentir o residual do pulso a esta distância, então aquele que está do outro lado desse Farol não apenas sabe que a Semente está aqui. Eles sabem exatamente onde.*
 
 Lyris fechou os olhos e revisou as opções pela quadragésima vez desde o cair da noite.
 
@@ -281,7 +281,7 @@ E então, do quarto de Grazielly, veio um som que gelou o sangue de Lyris com ma
 
 Nyx uivou.
 
-Não era o uivo suave e melodioso que o Lyrien emitia ocasionalmente durante a noite — um som quase comovente que fazia as crianças mais novas dormirem melhor. Era um uivo baixo, grave, contínuo, que vinha do fundo da garganta do animal como um motor funcionando em uma freqüência que não deveria ser possível para uma criatura daquele tamanho. Um uivo de alerta. Um uivo que Lyris só havia ouvido uma vez antes — na noite em que os espiões da célula de Thalendris se aproximaram da Cidadela Luminis, três semanas atrás, antes que Lyris os destruísse nos becos escuros do porto.
+Não era o uivo suave e melodioso que o Lyrien emitia ocasionalmente durante a noite — um som quase comovente que fazia as crianças mais novas dormirem melhor. Era um uivo baixo, grave, contínuo, que vinha do fundo da garganta do animal como um motor funcionando em uma frequência que não deveria ser possível para uma criatura daquele tamanho. Um uivo de alerta. Um uivo que Lyris só havia ouvido uma vez antes — na noite em que os espiões da célula de Thalendris se aproximaram da Cidadela Luminis, três semanas atrás, antes que Lyris os destruísse nos becos escuros do porto.
 
 Lyris estava de pé antes que o som terminasse. Seus pés descalços se moveram sobre a pedra fria do corredor com a velocidade de quem não pensa — apenas reage. Três Passos. Dois. Um. Sua mão tocou a maçaneta do quarto de Grazielly e a porta se abriu.
 
@@ -289,7 +289,7 @@ O quarto estava banhado em uma luz que não era dos cristais noturnos.
 
 Era uma luz dourada, quente, pulsante, que vinha do Farol de Aethra — mas o Farol não estava no refeitório. O Farol estava ali, no quarto de Grazielly, repousando sobre o travesseiro ao lado da menina, brilhando com uma intensidade que Lyris nunca havia visto em cinco dias de observação. As pétalas de quartzo translúcido estavam completamente abertas — não semiabertas como quando Derya Volanis o havia instalado, mas expandidas como os braços de uma estrela-do-mar se estendendo na água. O núcleo central pulsava com uma luz que era quase insuportável de olhar diretamente, e o campo de conforto — aquela camada superficial que Derya havia descrito — havia sido completamente engolido pela ressonância.
 
-Grazielly estava sentada na cama, os olhos abertos, olhando diretamente para o Farol. Seus olhos — normalmente de um azul claro e sereno — brilhavam com uma luminescência prateada que Lyris nunca havia visto. A temperatura do quarto havia despencado: a umidade no ar havia condensado nas paredes formando cristais de gelo finos que cintilavam na luz do Farol como diamantes microscópicos. O hálito de Lyris saía em nuvens brancas. A roupa de cama de Grazielly estava coberta de geada. Nyx estava de pé na ponta da cama, o pelo eriçado, os olhos fixos no Farol, uivando naquela freqüência grave e contínua que fazia o ar vibrar.
+Grazielly estava sentada na cama, os olhos abertos, olhando diretamente para o Farol. Seus olhos — normalmente de um azul claro e sereno — brilhavam com uma luminescência prateada que Lyris nunca havia visto. A temperatura do quarto havia despencado: a umidade no ar havia condensado nas paredes formando cristais de gelo finos que cintilavam na luz do Farol como diamantes microscópicos. O hálito de Lyris saía em nuvens brancas. A roupa de cama de Grazielly estava coberta de geada. Nyx estava de pé na ponta da cama, o pelo eriçado, os olhos fixos no Farol, uivando naquela frequência grave e contínua que fazia o ar vibrar.
 
 E o Farol respondia.
 
@@ -297,7 +297,7 @@ A cada uivo de Nyx, as pétalas de quartzo pulsavam. A cada pulso, a luz dourada
 
 O Farol estava *cantando*.
 
-Não com som — com Aethra. Uma freqüência tão profunda, tão primordial, que Lyris sentiu vibrar nos ossos antes de sentir na pele. Era como se o cristal estivesse traduzindo algo — uma mensagem, um eco, uma resposta — que vinha de muito, muito longe. De além das fronteiras. De além dos Reinos.
+Não com som — com Aethra. Uma frequência tão profunda, tão primordial, que Lyris sentiu vibrar nos ossos antes de sentir na pele. Era como se o cristal estivesse traduzindo algo — uma mensagem, um eco, uma resposta — que vinha de muito, muito longe. De além das fronteiras. De além dos Reinos.
 
 Grazielly sorriu.
 
@@ -315,11 +315,11 @@ Nessa noite — ou naquela manhã, porque o Sol de Aurion já começava a rasgar
 
 Para Sylvaris.
 
-O cristal dourado descansava sobre a mesa de aethero atrás dele. Quando o Eco Cego varreu o espectro de Aethra, o cristal havia reagido — não com o pulso suave que costumava emitir quando era ativado por uma assinatura familiar, mas com uma explosão de luz que havia iluminado o solar inteiro por três Pulsos consecutivos antes de se apagar. O cristal agora descansava silencioso, mas sua superfície estava quente ao toque, e a freqüência que emitia — baixa, constante, quase subliminar — era diferente de qualquer freqüência que Aurelius havia sentido dele antes.
+O cristal dourado descansava sobre a mesa de aethero atrás dele. Quando o Eco Cego varreu o espectro de Aethra, o cristal havia reagido — não com o pulso suave que costumava emitir quando era ativado por uma assinatura familiar, mas com uma explosão de luz que havia iluminado o solar inteiro por três Pulsos consecutivos antes de se apagar. O cristal agora descansava silencioso, mas sua superfície estava quente ao toque, e a frequência que emitia — baixa, constante, quase subliminar — era diferente de qualquer frequência que Aurelius havia sentido dele antes.
 
 *Diferente porque não é mais apenas um farol*, ele pensou. *É um eco. Ela respondeu.*
 
-Aurelius não se moveu. Não precisava. O Guardião Mestre de Sanctrum — Estágio VII, Primordial, o ser vivo mais antigo do continente conhecido — tinha uma relação com a Aethra que transcendia os sentidos convencionais. Ele não "ouvia" freqüências etéricas como os Refratores ouvia. Ele não "sentia" variações no espectro como Lyris sentia. Ele *era* parte do espectro — havia sido parte dele por mais ciclos do que a maioria das nações existia. A Aethra fluía em seu sangue como a água flui nos rios, e quando algo perturbava o fluxo — quando uma assinatura anômala cruzava o espectro com força suficiente para fazer os cristais de Aurion tremerem — Aurelius sentia como se alguém tivesse mergulhado as mãos em seu peito e apertado.
+Aurelius não se moveu. Não precisava. O Guardião Mestre de Sanctrum — Estágio VII, Primordial, o ser vivo mais antigo do continente conhecido — tinha uma relação com a Aethra que transcendia os sentidos convencionais. Ele não "ouvia" frequências etéricas como os Refratores ouvia. Ele não "sentia" variações no espectro como Lyris sentia. Ele *era* parte do espectro — havia sido parte dele por mais ciclos do que a maioria das nações existia. A Aethra fluía em seu sangue como a água flui nos rios, e quando algo perturbava o fluxo — quando uma assinatura anômala cruzava o espectro com força suficiente para fazer os cristais de Aurion tremerem — Aurelius sentia como se alguém tivesse mergulhado as mãos em seu peito e apertado.
 
 O Eco Cego não fora apenas uma perturbação. Havia sido um *grito*. Um grito tão poderoso, tão primordial, que atravessou o continente em uma fração de Pulso e fez Aurelius fechar os punhos com tanta força que os nós dos dedos ficaram brancos.
 
@@ -341,9 +341,9 @@ E Selina não era a única. Se o Eco Cego teve a potência que Aurelius sentira 
 
 Ele se virou finalmente, afastando-se da janela. O cristal dourado sobre a mesa pulsava com sua luz suave — não mais a explosão brilhante de antes, mas um brilho constante, morno, que parecia conter dentro de si a essência de algo vivo. Aurelius estendeu a mão e tocou a superfície do cristal com a ponta dos dedos.
 
-A freqüência mudou.
+A frequência mudou.
 
-Não dramaticamente — mas o suficiente para que Aurelius, cuja sensibilidade etérica excedia em ordens de magnitude a de qualquer outro ser vivo, sentisse a mudança como uma mudança de temperatura em um lago. A freqüência do cristal se ajustou à sua assinatura, e por um instante — um instante tão breve que sequer poderia ser medido em Pulsos — houve uma ressonância. O cristal ecoou a assinatura de Aurelius, e a assinatura de Aurelius ecoou o cristal, e no espaço entre os dois ecos, Aurelius sentiu algo que não deveria ser possível.
+Não dramaticamente — mas o suficiente para que Aurelius, cuja sensibilidade etérica excedia em ordens de magnitude a de qualquer outro ser vivo, sentisse a mudança como uma mudança de temperatura em um lago. A frequência do cristal se ajustou à sua assinatura, e por um instante — um instante tão breve que sequer poderia ser medido em Pulsos — houve uma ressonância. O cristal ecoou a assinatura de Aurelius, e a assinatura de Aurelius ecoou o cristal, e no espaço entre os dois ecos, Aurelius sentiu algo que não deveria ser possível.
 
 Sentiu ela.
 
@@ -353,7 +353,7 @@ Por um instante que durou menos de um batimento de coração, Aurelius sentiu a 
 
 Sentiu-a sorrindo.
 
-A conexão se rompeu. A freqüência voltou ao normal. O cristal dourado repousou sobre a mesa, silencioso e morno, como se nada tivesse acontecido.
+A conexão se rompeu. A frequência voltou ao normal. O cristal dourado repousou sobre a mesa, silencioso e morno, como se nada tivesse acontecido.
 
 Aurelius ficou de pé no centro do solar, os olhos fechados, a respiração controlada. Quando os abriu, não havia lágrimas — havia algo mais perigoso que lágrimas. Havia decisão.
 
@@ -383,13 +383,13 @@ Ele decidiu confiar.
 
 Nos sete reinos, a noite que se seguiu ao Eco Cego não foi uma noite como as outras — embora apenas um punhado de pessoas soubesse disso.
 
-Em Sanctrum, os operativos do Olho de Aurion partiram antes do amanhecer. Três equipes de reconhecimento não-assinaladas, vestidas como viajantes comerciais, desceram pela estrada leste em carruagens alugadas que não levavam estandartes nem insígnias. Suas mochilas continham cristais de comunicação sintonizados na freqüência da Velatrix, e suas ordens eram simples: chegar aos arredores de Velantis em quarenta e oito Pulsos, estabelecer pontos de observação ao redor da Cidadela Luminis, e aguardar. Nenhuma ação. Nenhum contato. Apenas observar e reportar. Selina Thalassa estava na Câmara dos Sussurros quando as carruagens passaram pelo portão leste, e seus olhos escuros acompanharam cada uma delas na projeção etérica até que desapareceram no horizonte, como gotas de tinta caindo em água.
+Em Sanctrum, os operativos do Olho de Aurion partiram antes do amanhecer. Três equipes de reconhecimento não-assinaladas, vestidas como viajantes comerciais, desceram pela estrada leste em carruagens alugadas que não levavam estandartes nem insígnias. Suas mochilas continham cristais de comunicação sintonizados na frequência da Velatrix, e suas ordens eram simples: chegar aos arredores de Velantis em quarenta e oito Pulsos, estabelecer pontos de observação ao redor da Cidadela Luminis, e aguardar. Nenhuma ação. Nenhum contato. Apenas observar e reportar. Selina Thalassa estava na Câmara dos Sussurros quando as carruagens passaram pelo portão leste, e seus olhos escuros acompanharam cada uma delas na projeção etérica até que desapareceram no horizonte, como gotas de tinta caindo em água.
 
 No extremo norte, os Cães de Gelo despertaram.
 
 O processo levou quarenta e sete Pulsos — sete a mais do que o protocolo padrão, porque os Cães haviam entrado em um estado de hibernação mais profundo do que o habitual, como se seus corpos tivessem sentido a aproximação de algo que exigia preservação absoluta de energia. O primeiro a abrir os olhos foi Kael — o mais jovem dos três, com trinta e dois ciclos e o rosto liso e impasível de uma estátua de gelo. Depois veio Thyra — a única mulher entre os Cães, com cabelos brancos cortados rentes ao crânio e olhos de um azul tão pálido que pareciam congelados. Por último veio Orin — o mais velho, com cicatrizes antigas cruzando o rosto como mapas de batalhas esquecidas, e as mãos que tremiam levemente — não de fraqueza, mas da tensão acumulada de décadas de caçadas sem fim.
 
-Yvra Thessel entregou a cada um deles um cristal receptor calibrado com a assinatura do Eco Cego. Os três Cães seguraram os cristais simultaneamente, e por um instante, uma luz fria emanou dos dispositivos, e os três pares de olhos se fecharam — não em sono, mas em concentração. Eles estavam *sintonizando*. Ajustando seus próprios sistemas nervosos etéricos à freqüência da assinatura alvo, como músicos afinando instrumentos antes de uma sinfonia.
+Yvra Thessel entregou a cada um deles um cristal receptor calibrado com a assinatura do Eco Cego. Os três Cães seguraram os cristais simultaneamente, e por um instante, uma luz fria emanou dos dispositivos, e os três pares de olhos se fecharam — não em sono, mas em concentração. Eles estavam *sintonizando*. Ajustando seus próprios sistemas nervosos etéricos à frequência da assinatura alvo, como músicos afinando instrumentos antes de uma sinfonia.
 
 Quando abriram os olhos, os três olharam na mesma direção: sul.
 
@@ -448,7 +448,7 @@ O sol subiu. O mundo acordou. E em sete direções diferentes, forças que não 
 | **Draven Kael** | Segundo-em-comando de Yvra Thessel. Homem grande, barba ruiva, cicatrizes cruzadas. Veterano de caçadas em território hostil. |
 | **Cães de Gelo** | Unidade de elite do Sindicato do Gelo Negro — três caçadores (Kael, Thyra, Orin) treinados para operar independentemente e rastrear assinaturas etéricas através de continentes. |
 | **A Cova** | Cofre de pedra negra 310 Passos abaixo da superfície de Umbralis, abaixo da própria Fundição. Contém um ocupante desconhecido que emite ordens escritas ao Sindicato. |
-| **Assinatura Primordial** | Termo usado pelo ocupante da Cova para descrever a assinatura etérica de Grazielly — freqüências que datam de eras anteriores aos Sete Reinos. |
+| **Assinatura Primordial** | Termo usado pelo ocupante da Cova para descrever a assinatura etérica de Grazielly — frequências que datam de eras anteriores aos Sete Reinos. |
 | **Espelhos de Eco** | Dispositivos antigos de captura de assinatura etérica usados pelo Sindicato do Gelo Negro para identificar alvos em populações. |
 | **Cristais Lumivael** | Cristais luminescentes azul-esverdeados incrustados nas paredes da Fundição. Fornecem iluminação constante sem emissão etérica detectável. |
 | **Murmulita** | Liga vulcânica com cristal usada nas paredes da Câmara dos Sussurros — absorve vibrações e as transforma em calor, garantindo isolamento acústico total. |

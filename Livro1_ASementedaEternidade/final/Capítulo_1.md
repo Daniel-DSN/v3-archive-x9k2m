@@ -66,7 +66,7 @@ Era uma cidade de beleza sobrenatural. Uma cidade que parecia ter sido criada pa
 
 Mas Ayla sabia que a paz era uma ilusão. A paz era um intervalo entre guerras, uma pausa entre tempestades. E ela carregava dentro de si uma tempestade que logo viria ao mundo.
 
-— Aqui está, senhora — o comerciante disse, estendendo o pacote. — raízes-doces das melhores plantações de Velantis. Farão bem para... — ele hesitou por apenas um momento, seus olhos passando pela barriga visivelmente crescida de Ayla — ...para a saúde.
+— Aqui está, senhora — o comerciante disse, estendendo o pacote. — Raízes-doces das melhores plantações de Velantis. Farão bem para... — ele hesitou por apenas um momento, seus olhos passando pela barriga visivelmente crescida de Ayla — ...para a saúde.
 
 Ayla tomou o pacote com um sorriso que não alcançava seus olhos.
 

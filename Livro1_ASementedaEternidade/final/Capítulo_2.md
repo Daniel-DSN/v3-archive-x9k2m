@@ -20,7 +20,7 @@ A noite do primeiro Audin chegou diferente em Mespiria.
 
 Não era algo que os aldeões pudessem nomear com precisão. O céu estava claro, sem nuvens, e Aurion havia se posto como sempre fazia. Mas havia algo no ar — uma tensão sutil, como a corda de um instrumento musical sendo esticada cada vez mais, esperando o momento em que finalmente se romperia.
 
-Os animais sentiram primeiro. Os lyriens nos estábulos agitavam-se sem razão aparente, suas orelhas prateadas girando para sons que ninguém mais ouvia. Os velrok nas pastagens recusavam-se a deitar, seus olhos fixos no horizonte como se vissem algo que os aetherianos não podiam perceber.
+Os animais sentiram primeiro. Os lyriens nos estábulos agitavam-se sem razão aparente, suas orelhas prateadas girando para sons que ninguém mais ouvia. Os Velrok nas pastagens recusavam-se a deitar, seus olhos fixos no horizonte como se vissem algo que os aetherianos não podiam perceber.
 
 Então as luas surgiram.
 
@@ -384,9 +384,9 @@ E o velho de olhos tristes nas montanhas geladas entre Terraxis e Umbra? Esse mi
 | Criatura | Descrição |
 |----------|-----------|
 | **Lyriens** | Animais de estimação em Mespiria; orelhas prateadas; sensíveis a sons que os humanos não percebem |
-| **Velroks** | Animais de pastagem em Mespiria; recusam-se a deitar durante eventos cósmicos |
+| **Velrok** | Animais de pastagem em Mespiria; recusam-se a deitar durante eventos cósmicos |
 
-> *Nota: Nenhuma criatura mágica ou mitológica foi formalmente introduzida neste capítulo. Os lyriens e velroks são animais comuns do cotidiano de Mespiria.*
+> *Nota: Nenhuma criatura mágica ou mitológica foi formalmente introduzida neste capítulo. Os lyriens e Velrok são animais comuns do cotidiano de Mespiria.*
 
 ### Eventos
 

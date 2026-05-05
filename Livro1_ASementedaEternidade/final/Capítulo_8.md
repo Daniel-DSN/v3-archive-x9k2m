@@ -140,7 +140,7 @@ Aurelius não reagiu ao corte. Seus olhos permaneceram fixos nos de Selina com a
 
 — O que o Senhor sabe sobre a reativação de Nyctara? — Selina perguntou, e a pergunta saiu com a precisão de um punhal sendo lançado.
 
-— Lyris não foi reativada — Aurelius respondeu, e sua voz não mudou. Nem um semitom. Nem uma microvariação na pressão. Selina, que podia detectar mentiras pela freqüência cardíaca de um interlocutor a três Passos de distância, sentiu algo que não conseguia nomear — não exatamente uma mentira, mas não exatamente a verdade também. Era algo no espaço entre, como uma nota que está entre duas teclas de um instrumento. — Ela solicitou aposentadoria há seis ciclos. O pedido foi aprovado. Ela é uma cidadã privada agora.
+— Lyris não foi reativada — Aurelius respondeu, e sua voz não mudou. Nem um semitom. Nem uma microvariação na pressão. Selina, que podia detectar mentiras pela frequência cardíaca de um interlocutor a três Passos de distância, sentiu algo que não conseguia nomear — não exatamente uma mentira, mas não exatamente a verdade também. Era algo no espaço entre, como uma nota que está entre duas teclas de um instrumento. — Ela solicitou aposentadoria há seis ciclos. O pedido foi aprovado. Ela é uma cidadã privada agora.
 
 — Uma cidadã privada com salvo-conduto real — Selina disse. — Uma cidadã privada que foi designada para proteger uma criança específica em uma vila específica, sob autoridade direta do En Me. Uma cidadã privada que, coincidência das coincidências, acabou na Cidadela Luminis no exato momento em que a Frequência de Desaparecimento atingiu seu pico em Sylvaris.
 

@@ -244,7 +244,7 @@ Havia duas razões pelas quais Thaloris se importava com a criança de Mespiria.
 
 Mas havia uma segunda razão. Uma razão que Thaloris não articulava para Vethran, não porque não confiasse em seu espião-mestre, mas porque essa segunda razão era algo que ele mesmo ainda não compreendia completamente. Era um sentimento que se aproximava da proteção, mas que não era inteiramente proteção. Uma curiosidade que ia além do interesse estratégico. Uma... afinidade que ele não conseguia nomear, e que, se fosse nomeada, poderia se tornar uma vulnerabilidade.
 
-*Protegida — mas não manipulada, não transformada em ferramenta de Sanctrum.* Foi o que ele dissera a Lyris quando ela estivera em seu savelumao. E na época, Vethran interpretara a frase como pura estratégia: uma posição política que servia aos interesses de Sylvaris impedindo que Sanctrum ganhasse uma nova arma.
+*Protegida — mas não manipulada, não transformada em ferramenta de Sanctrum.* Foi o que ele dissera a Lyris quando ela estivera em seu salão. E na época, Vethran interpretara a frase como pura estratégia: uma posição política que servia aos interesses de Sylvaris impedindo que Sanctrum ganhasse uma nova arma.
 
 Agora, ouvindo o silêncio de Thaloris diante da tela inacabada, Vethran não tinha tanta certeza.
 
