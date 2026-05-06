@@ -84,7 +84,7 @@ E o segredo que ela carregava agora, dentro de si, era maior que qualquer outro 
 
 ## III. A Jornada para Mespiria
 
-A estrada de Velantis a Mespiria serpenteava através de colinas suaves cobertas por campos de Aethrys, cereal de espigas que ondulava ao vento como mares de ouro. Mais adiante, pequenos bosques de Sylvaris — árvores de casca clara e folhas que tilintavam como sinos quando o vento passava — ofereciam sombra e refresco para os viajantes.
+A estrada de Velantis a Mespiria serpenteava através de colinas suaves cobertas por campos de Aethrys, cereal de espigas que ondulava ao vento como mares de ouro. Mais adiante, pequenos bosques de Argentis — árvores de casca prateada e folhas que tilintavam como sinos quando o vento passava — ofereciam sombra e refresco para os viajantes.
 
 Ayla caminhava devagar, seu corpo pesado com a vida que crescia dentro dela. A cada passo, ela sentia a criança se mover — pequenos chutes, pequenos alongamentos, como se o bebê já estivesse ansioso para conhecer o mundo que o aguardava.
 
@@ -108,7 +108,7 @@ Ela não tinha respostas. Só tinha perguntas. E o peso de ter que protegê-la s
 
 Enquanto caminhava, Ayla observava a paisagem ao redor com olhos que haviam visto muito mais do que deixavam transparecer. Sylvaris era diferente de qualquer outro reino que conhecera — e ela conhecera muitos em sua vida como guerreira.
 
-Ao norte, Fulmora era um reino de tempestades perpétuas e auroras eternas, onde o povo vivia em constante estado de alerta e intensidade. Ao noroeste, Pyralis era terra de fogo e vulcões, onde a paixão queimava tão forte quanto as forjas que sustentavam sua economia. A leste, além do mar, Terraxis guardava seus segredos em montanhas e cavernas, um povo de memórias longas e tradições profundas. Ao sul, Thalassia flutuava sobre águas cristalinas, adaptável e fluido como o elemento que o definia.
+Ao nordeste, Fulmora era um reino de tempestades perpétuas e auroras eternas, onde o povo vivia em constante estado de alerta e intensidade. Ao norte, Pyralis era terra de fogo e vulcões, onde a paixão queimava tão forte quanto as forjas que sustentavam sua economia. A leste, além do mar, Terraxis guardava seus segredos em montanhas e cavernas, um povo de memórias longas e tradições profundas. Ao sudeste, Thalassia flutuava sobre águas cristalinas, adaptável e fluido como o elemento que o definia.
 
 Mas Sylvaris... Sylvaris era algo inteiramente diferente.
 
@@ -174,7 +174,7 @@ Ela parou, lutando contra as lágrimas que ameaçavam surgir.
 
 — Se soubesse, ele faria qualquer coisa para nos proteger. E isso colocaria em risco tudo o que ele construiu. Tudo o que ele precisa proteger. Então eu parti. Parti sem dizer nada. Parti para que você pudesse ter uma vida de paz. Uma vida longe das guerras que eu vivi, longe dos perigos que eu enfrentei, longe de tudo o que me fez ser quem sou.
 
-O vento soprou mais forte por um momento, e as Sylvaris no quintal tilintaram como sinos, criando uma melodia que parecia uma canção de ninar.
+O vento soprou mais forte por um momento, e as Argentis no quintal tilintaram como sinos, criando uma melodia que parecia uma canção de ninar.
 
 — Eu vou te contar sobre ele um dia — Ayla prometeu. — Quando você for mais velha. Quando for seguro. Eu vou te contar sobre o homem que me amou apesar de tudo, que me seguiu através de batalhas e sombras, que me olhava como se eu fosse a única estrela no céu. Mas por agora... por agora, é apenas você e eu, minha pequena.
 
@@ -228,7 +228,7 @@ Gentilmente, a parteira tocou o abdômen de Ayla, pressionando em pontos especí
 
 Ela não completou a frase, mas Ayla sabia o que ela queria dizer. Como se o universo estivesse se preparando para algo. Como se as forças que governavam a existência estivessem convergindo para aquele pequeno ponto no mapa — uma vila esquecida em um reino de ventos, onde uma mulher misteriosa carregava uma criança cujo destino ninguém podia imaginar.
 
-— Eu vou me preparar — Melessa disse, sua voz agora firme com a determinação de quem havia enfrentado partos difíceis antes. — Vou avisar Thalia. Vou reunir o que for necessário. Se o tempo está chegando... então vamos estar prontos.
+— Eu vou me preparar — Melessa disse, sua voz agora firme com a determinação de quem havia enfrentado partos difíceis antes. — Vou avisar Thalia. Vou reunir o que for necessário. Se o tempo está chegando... então vamos estar prontas.
 
 Ayla assentiu, observando a parteira se afastar apressadamente. Então voltou-se para a janela, para o céu onde as três luas continuavam sua dança lenta em direção ao ponto de convergência.
 
@@ -304,7 +304,7 @@ E nas colinas douradas de Sylvaris, o vento soprou mais forte, carregando consig
 
 ---
 
-Ayla, uma mulher misteriosa com um passado de guerras e segredos, chega grávida à vila de Mespiria, no reino de Sylvaris, buscando refúgio entre os ventos livres. Acobertada por uma identidade falsa, ela encontra em Melessa — uma parteira idosa que não faz perguntas — a proteção de que precisa para o parto que se aproxima. Mas a criança que carrega no ventre não é comum: parece responder às palavras da mãe, move-se com consciência incomum e, segundo as luas que se alinham no céu, nascerá sob uma Convergência Tripla — fenômeno que apenas seis vezes marcou o destino de alguém cuja existência mudaria o curso das eras. Quando os primeiros sinais do parto surgem e o Aethra ao redor se torna mais denso, mãe e parteira se preparam para um nascimento que o próprio universo parece aguardar.
+Ayla, uma mulher misteriosa com um passado de guerras e segredos, retorna grávida à vila de Mespiria, no reino de Sylvaris, onde encontra refúgio entre os ventos livres há três meses — acobertada por uma identidade falsa de viúva de Pyralis. Ela encontra em Melessa — uma parteira idosa que não faz perguntas — a proteção de que precisa para o parto que se aproxima. Mas a criança que carrega no ventre não é comum: parece responder às palavras da mãe, move-se com consciência incomum e, segundo as luas que se alinham no céu, nascerá sob uma Convergência Tripla — fenômeno que apenas seis vezes marcou o destino de alguém cuja existência mudaria o curso das eras. Quando os primeiros sinais do parto surgem e o Aethra ao redor se torna mais denso, mãe e parteira se preparam para um nascimento que o próprio universo parece aguardar.
 
 *"Todo refúgio é uma promessa temporária. A tempestade chega sempre — a questão é se estamos prontos para dançar com ela quando as chuvas finalmente caírem."*
 
@@ -339,7 +339,7 @@ Sylvaris é apresentado como um refúgio — não apenas para Ayla, mas para tod
 |-------|-----------|
 | **Convergência Tripla** | Alinhamento das três luas; fenômeno raro que marca eventos de importância cósmica |
 | **Sylvari** | Povo de Sylvaris; conhecidos por hospitalidade e discrição |
-| **Sylvaris** | Árvores de casca clara; folhas tilintam como sinos no vento |
+| **Argentis** | Árvores de casca prateada (*Gesh Nanna*); folhas tilintam como sinos no vento |
 | **Aethrys** | Cereal dourado; ondula nos campos como mares de ouro |
 | **Mirael** | Ervas aromáticas de cura |
 | **Giralis** | Flores de pétalas prateadas que abrem à noite |
