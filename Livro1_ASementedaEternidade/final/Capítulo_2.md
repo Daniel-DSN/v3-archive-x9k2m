@@ -64,7 +64,7 @@ Ayla respirou fundo, e quando seus olhos encontraram os da parteira, Melessa viu
 
 Fora da casa, o céu começou a mudar.
 
-Nuvens se formaram do nada — não do norte, de Fulmora onde tempestades eram comuns, mas do próprio ar sobre Mespiria, como se o céu estivesse respondendo a algo que a terra ainda não compreendia. Relâmpagos rasgavam a escuridão em padrões que os mais velhos da vila reconheceriam como estranhos — mas não vinham acompanhados de trovões.
+Nuvens se formaram do nada — não do nordeste, de Fulmora onde tempestades eram comuns, mas do próprio ar sobre Mespiria, como se o céu estivesse respondendo a algo que a terra ainda não compreendia. Relâmpagos rasgavam a escuridão em padrões que os mais velhos da vila reconheceriam como estranhos — mas não vinham acompanhados de trovões.
 
 Era uma tempestade silenciosa. Uma tempestade que observava. Uma tempestade que esperava.
 
@@ -178,7 +178,7 @@ Na sala, apenas o som do choro silencioso de curandeiras que haviam visto a mort
 
 ## VI. A Bênção de Elara
 
-A notícia da morte de Ayla se espalhou como fogo em palha seca.
+A notícia da morte de Ayla se espalhou como fogo em um campo de Aethrys seco.
 
 Antes do amanhecer, toda Mespiria sabia que a mulher gentil que havia chegado à vila meses antes havia morrido dando à luz uma filha. As mulheres da vila vieram em silêncio, trazendo flores colhidas no escuro da madrugada. Os homens permaneceram do lado de fora, cabeças baixas em respeito.
 
@@ -230,7 +230,7 @@ O pingente sobre a mesa parecia pulsar na escuridão, como se aguardasse ser usa
 
 Melessa pegou-o. Sentiu seu peso frio na palma da mão. Pensou em Ayla — na confiança absoluta que a jovem guerreira havia depositado nela em seus últimos momentos. Na promessa que havia feito: *eu prometo que vou avisá-lo, quando for o momento certo.*
 
-Mas qual seria o momento certo? Quando Grazielly fosse velha o suficiente para ser arrancada de seus braços e levada para Sanctrum? Quando o brilho que emanava de sua pele se tornasse impossível de esconder? Quando os emissários da Ordem aparecessem na vila, atraídos por rumores que viajavam mais rápido que qualquer cavalo?
+Mas qual seria o momento certo? Quando Grazielly tivesse idade suficiente para ser arrancada de seus braços e levada para Sanctrum? Quando o brilho que emanava de sua pele se tornasse impossível de esconder? Quando os emissários da Ordem aparecessem na vila, atraídos por rumores que viajavam mais rápido que qualquer cavalo?
 
 *O momento certo não existe*, Melessa pensou com a clareza brutal de quem já havia visto demais. *Não enquanto houver alguém em Sanctrum que possa reivindicar esta criança.*
 
@@ -294,7 +294,7 @@ Nos anos que se seguiram, Mespiria continuou sendo o que sempre foi — uma vila
 
 Grazielly cresceu.
 
-Melessa a registrou como sua neta — filha de uma mãe que havia morrido longe, cujo nome ela nunca mencionava, e de um pai que ninguém conhecia. A história era simples, crível, e ninguém em Mespiria tinha razão para questioná-la. A vila tinha seus próprios problemas, suas próprias tragédias, seus próprios mistérios. Mais uma órfã não era motivo para curiosidade.
+Melessa a registrou como sua neta — filha da viúva de Pyralis que a vila inteira ajudara a enterrar. A história era simples, as pessoas sentiam pena, e ninguém em Mespiria tinha razão para fazer mais perguntas. A vila tinha seus próprios problemas, suas próprias tragédias, seus próprios mistérios. Mais uma órfã não era motivo para curiosidade.
 
 A menina cresceu forte e saudável, com os olhos castanhos profundos de sua mãe e um sorriso que iluminava qualquer cômodo. Aprendeu a ajudar Melessa nos afazeres da parteira, a reconhecer ervas curativas no mato, a acalmar bebês chorões com um toque suave. Era uma criança como qualquer outra — exceto pelas noites em que, quando pensava que ninguém a via, suas pontas dos dedos brilhavam com uma luz suave que ela própria não entendia.
 
