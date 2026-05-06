@@ -130,13 +130,13 @@ Desviou o olhar e não perguntou mais nada.
 
 Mais tarde, as crianças se reuniram na biblioteca para a hora das histórias — o mesmo ritual que todas as crianças novas vivenciavam em sua primeira noite, mas que para ela era tudo — novo, fresco, carregado de primeira impressões. A biblioteca era maior do que qualquer cômodo que Grazielly já havia visto — paredes cobertas de estantes que iam do chão ao teto, livros de todas as cores e tamanhos empilhados e organizados com um cuidado que sugeria que aquele lugar era sagrado. Velas de cristal Aetheris tremiam em suportes de parede, projetando luz dourada que fazia as páginas antigas parecerem conter universos inteiros.
 
-Grazielly sentou-se ao lado de Mira em um canto perto da janela, de onde podia ver tanto a narradora quanto o mundo lá fora. Mas o mundo lá fora era apenas neve e escuridão, então ela concentrou-se na narradora, uma mulher idosa chamada Mirella cuja voz era suave como brisa de verão e cujos olhos brilhavam com a sabedoria de quem havia contado histórias por décadas.
+Grazielly sentou-se ao lado de Mira em um canto perto da janela, de onde podia ver tanto a narradora quanto o mundo lá fora. Mas o mundo lá fora era apenas neve e escuridão, então ela concentrou-se na narradora, uma mulher idosa chamada Lyrna, cuja voz era suave como brisa de verão e cujos olhos brilhavam com a sabedoria de quem havia contado histórias por décadas.
 
-— Esta noite — Mirella disse, abrindo um livro antigo de capa desgastada — vou contar a história de Ventus, o último dos Seraphyens, que fundou nosso reino de Sylvaris com seu último ato de amor pela criação.
+— Esta noite — a Senhora Lyrna disse, abrindo um livro antigo de capa desgastada — vou contar a história de Ventus, o último dos Seraphyens, que fundou nosso reino de Sylvaris com seu último ato de amor pela criação.
 
 Grazielly sentiu algo ao ouvir aquele nome. Não reconhecimento exato — ela nunca havia ouvido a história de Ventus, não da forma como seria contada ali —, mas algo mais profundo, mais instintivo. Como se o nome fosse uma música que ela já conhecesse mas não conseguisse lembrar de onde.
 
-Mirella começou a narrar, mas não como quem conta uma história — como quem recita algo que aprendeu de cor há tanto tempo que as palavras já não moram em sua mente mas em seu sangue. E as crianças, que normalmente não conseguiam ficar caladas por mais de alguns Pulsos, se aquietaram. Até as mais inquietas pararam de se mexer. E Mirella recitou:
+A Senhora Lyrna começou a narrar, mas não como quem conta uma história — como quem recita algo que aprendeu de cor há tanto tempo que as palavras já não moram em sua mente mas em seu sangue. E as crianças, que normalmente não conseguiam ficar caladas por mais de alguns Pulsos, se aquietaram. Até as mais inquietas pararam de se mexer. E a Senhora Lyrna recitou:
 
 *"Havia dez que guardavam o mundo,*
 *cada um com seu dom, sua luz, seu canto:*
@@ -187,7 +187,7 @@ Mirella começou a narrar, mas não como quem conta uma história — como quem 
 *Porque o vento é livre — e sendo livre,*
 *não esquece ninguém."*
 
-Silêncio na biblioteca. O tipo de silêncio que vem depois de algo que não se pode seguir com palavras comuns. Crianças que normalmente não conseguiam ficar calmas por mais de alguns Pulsos estavam imóveis, olhando para Mirella com expressões que oscilavam entre o encanto e algo mais profundo — a compreensão instintiva, mesmo na infância, de que certas verdades não precisam ser entendidas para serem sentidas.
+Silêncio na biblioteca. O tipo de silêncio que vem depois de algo que não se pode seguir com palavras comuns. Crianças que normalmente não conseguiam ficar calmas por mais de alguns Pulsos estavam imóveis, olhando para a Senhora Lyrna com expressões que oscilavam entre o encanto e algo mais profundo — a compreensão instintiva, mesmo na infância, de que certas verdades não precisam ser entendidas para serem sentidas.
 
 E uma lágrima escorreu pelo rosto de Grazielly sem que ela percebesse. Não era uma lágrima de tristeza — ou não era apenas tristeza. Era algo mais complexo, mais estratificado. Era a sensação de ouvir uma verdade que sempre soube mas nunca teve palavras para articular. Era a sensação de pertencimento, de reconhecimento, de estar ouvindo a história de alguém que, de alguma forma, era parte de quem ela era.
 
@@ -311,7 +311,7 @@ A estátua ficava no jardim à esquerda dos portões, parcialmente escondida por
 
 Ventus.
 
-Grazielly sabia que era Ventus antes de ler a placa na base da estátua — uma placa de bronze envelhecida que dizia "Ventus — O Último Voo — Fundador de Sylvaris". Sabia da mesma forma que havia sabido no cemitério que Melessa havia partido, da mesma forma que havia sabido ao ouvir a história de Mirella que Ventus era parte de quem ela era. Uma certeza que não vinha do conhecimento mas do ser, que não era aprendida mas lembrada, que era tão antiga quanto o vento que soprava através da neve e tocava seu rosto como uma bênção.
+Grazielly sabia que era Ventus antes de ler a placa na base da estátua — uma placa de bronze envelhecida que dizia "Ventus — O Último Voo — Fundador de Sylvaris". Sabia da mesma forma que havia sabido no cemitério que Melessa havia partido, da mesma forma que havia sabido ao ouvir a história da Senhora Lyrna que Ventus era parte de quem ela era. Uma certeza que não vinha do conhecimento mas do ser, que não era aprendida mas lembrada, que era tão antiga quanto o vento que soprava através da neve e tocava seu rosto como uma bênção.
 
 Ela se aproximou da estátua, seus passos deixando marcas na neve que se acumulava ao redor da base. De perto, a pedra revelava detalhes que não eram visíveis à distância — as penas das asas, esculpidas com uma delicadeza que sugeria reverência; as mãos da figura, abertas em um gesto de oferecimento; a fímbria do manto que flutuava atrás do corpo como se o vento o movesse mesmo sendo feito de pedra. Era uma obra-prima de algum escultor cujo nome havia se perdido no tempo, e carregava em cada linha e cada curva uma devoção que ia além da arte — era um monumento não apenas a um ser, mas a uma ideia, a um legado, a uma promessa que o vento carregava através de Sylvaris há eras.
 
@@ -371,11 +371,11 @@ E mostraria àquela criança uma última peça do mundo que ela havia perdido.
 
 ---
 
-Grazielly chegou ao Orfanato Luminis carregando o peso de uma perda devastadora — a avó Melessa havia partido, e o Lyrien Nyx ficara para trás em Mespiria, sob a neve. Sua primeira noite foi marcada pelo silêncio e pela dor, mas também pelos primeiros gestos de acolhimento: Mira, a menina de dez anos que a recebeu com um sorriso insistente, levou-a ao jantar e a um tour pelo orfanato. Na biblioteca, Mirella contou a história de Ventus, o último dos Seraphyens, e Grazielly sentiu uma conexão profunda e inexplicável com aquele nome — um reconhecimento que vinha de algo mais antigo que a própria memória. Enquanto isso, Lyris observava da sala ao lado, e em uma conversa com Luminara Elara, a diretora do orfanato, revelou a separação forçada entre Grazielly e Nyx. Elara, com a sabedoria de décadas cuidando de crianças partidas, prometeu proteger a menina até que as estradas reabrissem. Na primeira manhã, Grazielly encontrou no jardim a estátua de Ventus — e uma Sylari pousou em seu ombro como se o próprio vento quisesse lhe dizer que ela não estava sozinha.
+Grazielly chegou ao Orfanato Luminis carregando o peso de uma perda devastadora — a avó Melessa havia partido, e o Lyrien Nyx ficara para trás em Mespiria, sob a neve. Sua primeira noite foi marcada pelo silêncio e pela dor, mas também pelos primeiros gestos de acolhimento: Mira, a menina de dez anos que a recebeu com um sorriso insistente, levou-a ao jantar e a um tour pelo orfanato. Na biblioteca, a Senhora Lyrna contou a história de Ventus, o último dos Seraphyens, e Grazielly sentiu uma conexão profunda e inexplicável com aquele nome — um reconhecimento que vinha de algo mais antigo que a própria memória. Enquanto isso, Lyris observava da sala ao lado, e em uma conversa com Luminara Elara, a diretora do orfanato, revelou a separação forçada entre Grazielly e Nyx. Elara, com a sabedoria de décadas cuidando de crianças partidas, prometeu proteger a menina até que as estradas reabrissem. Na primeira manhã, Grazielly encontrou no jardim a estátua de Ventus — e uma Sylari pousou em seu ombro como se o próprio vento quisesse lhe dizer que ela não estava sozinha.
 
 *"Quando tudo o que conhecemos desaparece, restam duas escolhas: construir algo novo sobre as cinzas ou deixar que o vento leve o que sobrou."*
 
-— Mirella, narradora do Orfanato Luminis
+— Senhora Lyrna, narradora do Orfanato Luminis
 
 ---
 
@@ -389,7 +389,7 @@ E ainda assim, há beleza aqui. A sopa de Lumiara que, contra toda expectativa, 
 
 E há Lyris. A guardiã que faz uma promessa não estratégica, não calculada, mas genuína — de que voltará a Mespiria para buscar Nyx. Esta é, talvez, a revelação mais importante do capítulo: Lyris, que em capítulos anteriores nos foi apresentada como uma agente fria e metódica, revela aqui sua humanidade. Sua conversa com Luminara Elara é um dos momentos mais delicados da narrativa — duas mulheres que dedicaram suas vidas a proteger os outros, reconhecendo em Grazielly algo que vai além de uma missão.
 
-A história de Ventus, contada por Mirella, é o fio que costura o capítulo. Ela não é apenas uma lenda — é uma promessa. O vento de Sylvaris não esquece ninguém. E quando um sopro morno atravessa a janela da biblioteca no meio de uma nevasca e toca o rosto de Grazielly, o leitor é convidado a acreditar que essa promessa é real.
+A história de Ventus, contada pela Senhora Lyrna, é o fio que costura o capítulo. Ela não é apenas uma lenda — é uma promessa. O vento de Sylvaris não esquece ninguém. E quando um sopro morno atravessa a janela da biblioteca no meio de uma nevasca e toca o rosto de Grazielly, o leitor é convidado a acreditar que essa promessa é real.
 
 As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu tudo está aprendendo, devagar e com dor, que é possível construir algo novo sobre as cinzas.
 
@@ -407,7 +407,7 @@ As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu 
 | **Luminara Elara** | — | Diretora do Orfanato Luminis | Décadas de experiência; percebe a gravidade da separação Nyx-Grazielly |
 | **Nyx (Lyrien)** | — | Companheiro animal de Grazielly | Vivo em Mespiria, esperando retorno; presença ausente que domina o capítulo |
 | **Melessa** | — | Avó adotiva de Grazielly | Falecida; mencionada na dor de Grazielly e no sonho |
-| **Mirella** | — | Narradora do orfanato | Conta a história de Ventus; voz que desperta reconhecimento em Grazielly |
+| **Senhora Lyrna** | — | Narradora do orfanato | Conta a história de Ventus; voz que desperta reconhecimento em Grazielly |
 | **Liora** | Recém-nascida | Bebé do berçário | Encontrada na porta do orfanato; símbolo de acolhimento |
 | **Dona Théria** | — | Cozinheira do orfanato | Prepara a sopa de Lumiara que reconforta Grazielly |
 | **Thalia** | — | Agente que providenciou roupas para Grazielly | Mencionada indiretamente |
@@ -421,7 +421,7 @@ As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu 
 | **Mespiria** | Interior de Sylvaris | Vila natal de Grazielly; Nyx ainda está lá, na casa de pedra |
 | **Berçário (Luminis)** | Interior do orfanato | Sala iluminada por Giralis; seis berços; onde Liora dorme |
 | **Sala de Desenhos** | Interior do orfanato | Galerias de arte infantil; o misterioso desenho da menina brilhante |
-| **Biblioteca do Orfanato** | Interior do orfanato | Estantes do chão ao teto; hora das histórias com Mirella |
+| **Biblioteca do Orfanato** | Interior do orfanato | Estantes do chão ao teto; hora das histórias com a Senhora Lyrna |
 | **Jardim / Estátua de Ventus** | Exterior do orfanato | Estátua de pedra do último Seraphyen; Sylari pousa ali |
 
 ### Termos Introduzidos
@@ -459,7 +459,7 @@ As sementes estão sendo plantadas. O orfanato é o solo. E a menina que perdeu 
 | **Chegada ao Orfanato** | Grazielly chega após a morte de Melessa; separada de Nyx pela nevasca |
 | **Primeiro jantar** | Mira convence Grazielly a comer; sopa de Lumiara como primeiro conforto |
 | **Tour pelo Luminis** | Berçário (encontro com Liora) e sala de desenhos (o misterioso desenho profético) |
-| **Hora das Histórias** | Mirella conta a lenda de Ventus; Grazielly sente reconhecimento instintivo; sopro de vento no rosto |
+| **Hora das Histórias** | A Senhora Lyrna conta a lenda de Ventus; Grazielly sente reconhecimento instintivo; sopro de vento no rosto |
 | **Primeira noite** | Sonho com Melessa, Ayla e uma figura masculina (pai?); primeiro sono descansado |
 | **Conversa Lyris–Elara** | Lyris revela a separação de Nyx; Elara promete proteger Grazielly |
 | **Primeira manhã** | Grazielly desperta; explora o jardim; encontra a estátua de Ventus |

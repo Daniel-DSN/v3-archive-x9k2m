@@ -126,9 +126,9 @@ Lanternas de cristal grandes o bastante para iluminar uma praça inteira haviam 
 
 Kira caminhava entre os grupos com a atenção de quem está fazendo uma contagem mental, verificando cada criança, cada rosto, cada nome. Mas havia algo em seus passos — uma desaceleração quase imperceptível quando ela passava perto de Dorian, sentado sozinho contra uma pedra nas bordas do acampamento, os olhos escuros fixos nas chamas das lanternas como se estivesse olhando para algo que só ele podia ver.
 
-— Vinte e sete, vinte e oito, vinte e nove — Kira murmurava para si mesma, os lábios se movendo sem emitir som. — Onde está...
+— Trinta e sete, trinta e oito, trinta e nove — Kira murmurava para si mesma, os lábios se movendo sem emitir som. — Onde está...
 
-— Trinta — Mira disse, aparecendo ao lado de Kira com Grazielly a reboque — a menina menor segurando Nyx sob a capa como um tesouro vivo. — Todos presentes. Eu contei.
+— Quarenta — Mira disse, aparecendo ao lado de Kira com Grazielly a reboque — a menina menor segurando Nyx sob a capa como um tesouro vivo. — Todos presentes. Eu contei.
 
 Kira olhou para Mira com uma sobrancelha erguida.
 
@@ -346,7 +346,7 @@ Ela sabia — com a certeza gelada de quem conectava os pontos de um quadro que 
 
 O pulso de energia Aethra que Grazielly havia involuntariamente gerado — a onda que arremessou o mercenário e estabilizou o cristal do Veleiro — não foi apenas uma manifestação de poder Cryonys. Foi uma assinatura. Uma assinatura que os Espelhos de Eco, mesmo aquele que quase rolou para a água antes de ser recolhido às pressas pelo comparsa em fuga, provavelmente haviam capturado.
 
-*Eles encontraram o que procuravam*, Lyris pensou, e uma frieza que não tinha nada a ver com o Cryonys de Grazielly se instalou em seus ossos. *Se os Espelhos de Eco capturaram aquela emissão, a assinatura da Herdeira pode ter sido registrada. E se foi, será apenas uma questão de tempo até que a transmitam.*
+*Eles encontraram o que procuravam*, Lyris pensou, e uma frieza que não tinha nada a ver com o Cryonys de Grazielly se instalou em seus ossos. *Se os Espelhos de Eco capturaram aquela emissão, a assinatura da Herdeira Primordial pode ter sido registrada. E se foi, será apenas uma questão de tempo até que a transmitam.*
 
 Kira chegou ao lado delas, seus olhos âmbar vasculhando o rosto de Grazielly com uma atenção que era mais do que preocupação protetora.
 
@@ -463,7 +463,7 @@ Mas o coração deste capítulo está nas pessoas — nas histórias de perda qu
 
 A seção de Selina Thalassa em Sanctrum revela que o tráfico de talentos é muito maior do que parecia — não um crime isolado, mas uma conspiração orquestrada com interceptações nas estradas, confirmações de chegada forjadas e registros burocráticos alterados. Uma fonte diplomática anônima movimenta as peças por trás da imunidade dos aposentos estrangeiros, e Selina não tem um nome — apenas a certeza de que a mente por trás de tudo é tão brilhante quanto perigosa.
 
-E o final — a assinatura capturada pelos Espelhos de Eco nos cais, os relatórios periódicos que Selina intercepta nos canais do Palácio, a carta cifrada, a convergência de linhas que antes pareciam separadas — indica que as peças estão se movendo rumo a algo maior. A Herdeira pode ter sido identificada. E os que a procuram estão mais perto do que qualquer um imagina.
+E o final — a assinatura capturada pelos Espelhos de Eco nos cais, os relatórios periódicos que Selina intercepta nos canais do Palácio, a carta cifrada, a convergência de linhas que antes pareciam separadas — indica que as peças estão se movendo rumo a algo maior. A Herdeira Primordial pode ter sido identificada. E os que a procuram estão mais perto do que qualquer um imagina.
 
 ---
 
@@ -473,7 +473,7 @@ E o final — a assinatura capturada pelos Espelhos de Eco nos cais, os relatór
 
 | Nome | Idade | Função | Significado Narrativo |
 |------|------|--------|----------------------|
-| **Grazielly** | 5 anos | Órfã do Orfanato Luminis | Herdeira; manifestação instintiva de Cryonys |
+| **Grazielly** | 5 anos | Órfã do Orfanato Luminis | Herdeira Primordial; manifestação instintiva de Cryonys |
 | **Nyx** | — | Lyrien companheiro de Grazielly | Escondido sob a capa durante a viagem |
 | **Mira** | 10 anos | Melhor amiga de Grazielly | Guia informal; afinidade Terra fraca |
 | **Tomas** | 7 anos | Amigo do orfanato | Afinidade Água fraca; sobrevivente de incêndio |

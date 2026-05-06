@@ -74,7 +74,7 @@ Era uma tempestade silenciosa. Uma tempestade que observava. Uma tempestade que 
 
 O tempo perdeu seu significado dentro da casa de pedra.
 
-Pulsos se estiravam como Passos. Passos se comprimiam como batidas de um coração acelerado. Ayla empurrava e respirava, empurrava e respirava, seu corpo exausto se recusando a desistir enquanto a vida dentro dela lutava para sair.
+Pulsos se estiravam como Giros. Giros se comprimiam como batidas de um coração acelerado. Ayla empurrava e respirava, empurrava e respirava, seu corpo exausto se recusando a desistir enquanto a vida dentro dela lutava para sair.
 
 A cada contração, as velas de cristal Aetheris tremiam — não com o vento, mas com algo mais profundo. Uma energia que parecia emanar da própria Ayla, ou talvez da criança que ela carregava, pulsando no ar como ondas de calor em um dia de verão.
 
