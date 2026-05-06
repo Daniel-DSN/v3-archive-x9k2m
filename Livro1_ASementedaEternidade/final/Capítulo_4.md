@@ -96,7 +96,7 @@ Havia seis berços dispostos em semicírculo ao redor de uma janela grande que d
 
 Grazielly se aproximou do berço mais próximo sem perceber. O bebê dentro tinha talvez poucas semanas de vida — cabelos quase invisíveis, tão finos quanto fios de teia, e olhos de um azul tão claro que pareciam feitos do próprio céu de Sylvaris em uma manhã sem nuvens. O bebê não chorava. Não se movia. Apenas a olhava com aquela serenidade absurda dos que ainda não aprenderam que o mundo pode ser cruel, e Grazielly sentiu algo dentro de si se afrouar — não completamente, não o bastante para apagar a dor, mas o bastante para sentir que havia ainda espaço dentro do peito para coisas que não fossem apenas perda.
 
-— A mãe dela deixou ela na porta num madrugada de inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Luminara Elara encontrou de manhã, embrulhada num cobertor de veluma. Ela se chama Liora.
+— A mãe dela deixou ela na porta numa madrugada de inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — Luminara Elara encontrou de manhã, embrulhada num cobertor de veluma. Ela se chama Liora.
 
 Grazielly não perguntou por que a mãe tinha partido. Não precisava perguntar. Havia coisas que uma criança de quatro anos compreendia sem palavras — e a possibilidade de ser deixada, de ser solta, de ter o único vínculo do mundo rompido por mãos que não eram as suas, era uma delas.
 
@@ -106,7 +106,7 @@ Com a ponta dos dedos — o mesmo gesto que Melessa lhe ensinara para tocar as f
 
 Ela ficou ali por um momento que nem Mira interrompeu. Depois soltou o dedo — Liora não reclamou, apenas continuou olhando para o teto com a filosofia serena dos bebês — e seguiu Mira para fora.
 
-A sala de desenhos ficava no outro extremo do corredor — uma sala grande, maior que o berçário, com janelas que iam do chão quase ao teto e mesas baixas espalhadas pelo espaço como ilhas em um arquipélago. Cada mesa estava coberta de papéis e lápis de cera feitos de cera de Giralis — que brilhavam com cores que pareciam impossíveis, como se cada cor fosse uma nota musical diferente. Havia potes de tinta, pincéis de cerdas grossas e finas, pedaços de argila modelados e abandonados em vários estágios de secura, e no canto, uma prancheta grande com um desenho inacabado que alguém havia deixado de um dia para o outro — um castelo no topo de uma montanha, com bandeiras que pareciam feitas de vento.
+A sala de desenhos ficava no outro extremo do corredor — uma sala grande, maior que o berçário, com janelas que iam do chão quase ao teto e mesas baixas espalhadas pelo espaço como ilhas em um arquipélago. Cada mesa estava coberta de papéis e lápis de cera feitos de cera de Giralis — que brilhavam com cores que pareciam impossíveis, como se cada cor fosse uma nota musical diferente. Havia potes de tinta, pincéis de cerdas grossas e finas, pedaços de argila modelados e abandonados em vários estágios de secagem, e no canto, uma prancheta grande com um desenho inacabado que alguém havia deixado de um dia para o outro — um castelo no topo de uma montanha, com bandeiras que pareciam feitas de vento.
 
 Mas as paredes eram o verdadeiro espetáculo. Cobertas de desenhos de crianças de todas as idades e de todos os níveis de habilidade, criavam uma galeria que era ao mesmo tempo caótica e maravilhosa. Havia dragões de cinco patas e Seraphyens de asas desiguais. Havia retratos de famílias onde o número de pessoas variava entre dois e doze. Havia paisagens impossíveis — oceanos de cor roxa, montanhas que flutuavam no céu, florestas onde as árvores tinham faces sorridentes. E no centro de uma parede, emoldurado por uma moldura de madeira simples mas feita com cuidado, havia um desenho que era diferente de todos os outros — não por sua técnica, que era tão rudimentar quanto os demais, mas por algo que emanava dele, uma urgência que transcendia a idade de quem o havia feito.
 
@@ -141,16 +141,16 @@ Mirella começou a narrar, mas não como quem conta uma história — como quem 
 *"Havia dez que guardavam o mundo,*
 *cada um com seu dom, sua luz, seu canto:*
 *do fogo, da água, da terra e do vento,*
-*das sombras, das estrelas, do tempo e do ferro,*
-*do sono profundo e da luz primeva.*
+*do relâmpago vivo que corta a neblina,*
+*metade em luz, metade em sombra envoltos.*
 
 *Dez irmãos que dançavam com o cosmos,*
 *que seguravam o céu como quem sustenta um manto,*
 *que protegiam os mundos como quem cobre um filho.*
 
 *Mas a guerra veio — e um a um caíram.*
-*Primeiro o do sono, que adormeceu para sempre.*
-*Depois o do ferro, que se partiu em mil lâminas.*
+*Primeiro o das sombras, que se perdeu nas trevas.*
+*Depois o que revelava, que se partiu em mil faíscas.*
 *E assim por diante, cada queda um eco,*
 *cada ausência um vazio que o universo não sabia preencher.*
 
@@ -263,7 +263,7 @@ Luminara Elara assentiu lentamente, e no assentimento havia algo que era aceita�
 
 — Nós vamos buscá-lo — Lyris confirmou.
 
-— Então enquanto isso — Luminara Elara disse, virando-se para olhar Lyris nos olhos com uma firmeza que não permitia discussão — eu vou cuidar para que essa menina não se quebre antes de vocês voltarem. Ela é bem-vinda aqui. Tanto tempo quanto precisar. E se houver algo que eu possa fazer para ajudar na viagem — provisões, Velrok para a estrada, um guia que conheça o caminho por dentro das montanhas —, diga.
+— Então enquanto isso — Luminara Elara disse, virando-se para olhar Lyris nos olhos com uma firmeza que não permitia discussão — eu vou cuidar para que essa menina não se quebre antes de vocês voltarem. Ela é bem-vinda aqui. Tanto tempo quanto precisar. E se houver algo que eu possa fazer para ajudar na viagem — provisões, Velrok para a estrada, um guia que conheça os atalhos pelas colinas —, diga.
 
 Lyris sentiu algo que raramente sentia em missões da Ordem — gratidão genuína, não a gratidão calculada de quem recebe um recurso estratégico, mas a gratidão simples de quem oferece um ombro e recebe um porto seguro em troca.
 
@@ -299,7 +299,7 @@ Desceu as escadas em silêncio, seus pés descalços sobre a pedra fria, e encon
 
 Grazielly seguiu um impulso que não conseguia explicar — uma atração que não vinha da razão mas de algum lugar mais profundo, mais instintivo, como se algo a estivesse chamando do lado de fora do edifício. Passou pela porta principal — que estava destrancada, como se o orfanato confiasse no mundo o suficiente para não precisar de trancas naquelas horas — e saiu para o exterior.
 
-O ar a atingiu como uma parede de gelo, mas era um gelo diferente do dia anterior. A nevasca havia passado durante a noite, e o mundo que se revelava diante de Grazielly era de uma beleza devastadora — e acolhedora ao mesmo tempo. O terreno dentro das muralhas era uma mistura de jardins e brinquedos: um balanço de corda amarrado ao galho de um Argentis enorme coberto de neve, uma estrutura de madeira que parecia um castelo de crianças com torres e escorregadores, e mais adiante, escondida atrás de um arbusto de Aeriva, a entrada de uma pequena gruta natural de pedra que os moradores mais antigos diziam ter sido formada pelas raízes de um Sylvaris milenar. Mesmo sob a neve, dava para ver que dentro da gruta havia almofadas de tecido, lanternas de cristal apagadas e pilhas de livros infantis — um esconderijo que alguém, em algum momento, havia transformado em um refúgio dentro do refúgio. Além da gruta, um canteiro de Giralis adormecidas sob a geada cercava um pequeno lago congelado onde, na primavera, crianças menores alimentavam Thaluris — aqueles peixes alados de escamas prateadas que diziam ter vindo de Thalassia — com migalhas de pão. Tudo coberto por uma camada de neve branca e imaculada que brilhava sob a primeira luz de Aurion como se tivessem polido o universo durante a noite. Os telhados de Velantis eram montanhas de neve. As ruas eram caminhos de cristal. E o céu, o céu era de um azul tão profundo e tão claro que parecia falso, como se alguém o tivesse pintado enquanto ela dormia.
+O ar a atingiu como uma parede de gelo, mas era um gelo diferente do dia anterior. A nevasca havia passado durante a noite, e o mundo que se revelava diante de Grazielly era de uma beleza devastadora — e acolhedora ao mesmo tempo. O terreno dentro das muralhas era uma mistura de jardins e brinquedos: um balanço de corda amarrado ao galho de um Argentis enorme coberto de neve, uma estrutura de madeira que parecia um castelo de crianças com torres e escorregadores, e mais adiante, escondida atrás de um arbusto de Aeriva, a entrada de uma pequena gruta natural de pedra que os moradores mais antigos diziam ter sido formada pelas raízes de um Argentis milenar. Mesmo sob a neve, dava para ver que dentro da gruta havia almofadas de tecido, lanternas de cristal apagadas e pilhas de livros infantis — um esconderijo que alguém, em algum momento, havia transformado em um refúgio dentro do refúgio. Além da gruta, um canteiro de Giralis adormecidas sob a geada cercava um pequeno lago congelado onde, na primavera, crianças menores alimentavam Thaluris — aqueles peixes alados de escamas prateadas que diziam ter vindo de Thalassia — com migalhas de pão. Tudo coberto por uma camada de neve branca e imaculada que brilhava sob a primeira luz de Aurion como se tivessem polido o universo durante a noite. Os telhados de Velantis eram montanhas de neve. As ruas eram caminhos de cristal. E o céu, o céu era de um azul tão profundo e tão claro que parecia falso, como se alguém o tivesse pintado enquanto ela dormia.
 
 Grazielly caminhou até os portões do orfanato — portões de ferro forjado que ficavam na frente do prédio, adornados com desenhos de Sylari e Aerélia entrelaçadas em padrões que eram belos mesmo sob a camada de neve que os cobria. E foi ali, parada diante dos portões, olhando para a rua coberta de branco que se estendia em ambas as direções, que ela viu.
 
