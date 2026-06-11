@@ -1,0 +1,25 @@
+# System files
+.accesslog
+.config
+.env
+.stats
+
+# Project management (local only)
+AGENTS.md
+CANON_INDEX.md
+GOALS.md
+TASK_LOOP.md
+canon_survey_report.md
+worklog.md
+
+# Scripts and scratch (local only)
+scratch/
+scripts/
+
+# Nested references
+repo/
+v3-archive-x9k2m
+
+# Python cache
+__pycache__/
+scripts/__pycache__/
