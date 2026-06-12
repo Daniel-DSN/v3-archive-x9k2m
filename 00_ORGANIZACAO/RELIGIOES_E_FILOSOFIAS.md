@@ -318,3 +318,14 @@ Seita profética que acredita que a **Convergência Tripla** não é um fenômen
 > **Canonicidade:** Complementa LORE_COSMOLOGIA_E_MAGIA.md (cosmologia de Ilyos/Nyxalor),
 > FAMILIAS_E_CULTURAS.md e a espiritualidade de cada reino.
 > Em caso de conflito, prevalece LORE_COSMOLOGIA_E_MAGIA.md.
+
+---
+
+## DOCUMENTOS COMPLEMENTARES
+
+| Documento | Relação |
+|-----------|---------|
+| [LORE_SERAPHYENS_E_DESCENDENCIA.md](LORE_SERAPHYENS_E_DESCENDENCIA.md) | Perfis detalhados dos Seraphyens (Myrrhiel, Elarys, Veridion), sistema de criação de Ilyos, famílias descendentes |
+| [LORE_GUERRA_E_SELO.md](LORE_GUERRA_E_SELO.md) | A Guerra dos Irmãos em 4 fases, o selamento de Nyxalor por Elarys |
+| [LORE_ALYNDRA_PRIMORDIAL.md](LORE_ALYNDRA_PRIMORDIAL.md) | A origem de Ilyos e Nyxalor como gêmeos nascidos da Semente de Alyndra Primordial |
+| [NIHILARYTH_EXPANSÃO_DETALHADA.md](NIHILARYTH_EXPANSÃO_DETALHADA.md) | Relação entre o Culto de Nyxalor e os Nihilaryth (Plano de Sombra) |
