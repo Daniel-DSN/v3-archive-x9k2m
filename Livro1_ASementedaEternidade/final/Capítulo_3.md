@@ -436,7 +436,7 @@ Perguntas para as quais ainda não tinha respostas. Mas Lyris havia construído 
 
 ³² **Lyrdin** — Segundo dia do ciclo; dia de Lyrdin no calendário Seraphyen.
 
-³³ **Nihilarys** — Entidades de sombra e ausência que se alimentam de aethra dos hospedeiros; ameaça latente da Primeira Civilização. São parasitas imateriais que podem possuir corpos humanos em um processo gradativo de cinco estágios (sussurros → permissividade → rituais forçados → dissolução → casca).
+³³ **Nihilaryth** — Entidades de sombra e ausência que se alimentam de aethra dos hospedeiros; ameaça latente da Primeira Civilização. São parasitas imateriais que podem possuir corpos humanos em um processo gradativo de cinco estágios (sussurros → permissividade → rituais forçados → dissolução → casca).
 
 ³⁴ **Umbra** — Reino das Sombras e Mistérios; uma das sete terras de Nova Aetherion.
 
