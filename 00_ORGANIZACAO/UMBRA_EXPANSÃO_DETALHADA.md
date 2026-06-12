@@ -81,7 +81,7 @@ Os umbráticos desenvolveram uma cultura baseada no silêncio e na introspecçã
    171|| **800 E.D.** | começa a ser apagado | Registros queimados; estátuas derretidas; histórias proibidas |
    172|| **1.200 E.D.** | O Culto toma o governo | A família Nythor é infiltrada; o *En Nu Me* é estabelecido |
    173|| **~2.900 E.D.** | Fundação dos Tar-Gig | O título "Velatrix" é criado para a líder da nova organização vigilante |
-   174|| **~3.600 E.D.** | Infiltração Nihilaryth completa | Portais abertos nas montanhas; She-Zuris operam livremente |
+   174|| **~3.600 E.D.** | Infiltração Nihilaryth completa | Portais abertos nas montanhas; Nihil Shid operam livremente |
    175|| **4.103 E.D. (Atual)** | Umbra é uma sociedade falida | O Culto controla tudo; é esquecido; o povo vive com medo |
    176|
    177|### 3.3 Comparação: Leis de Ilyos vs Realidade Umbrática
