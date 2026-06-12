@@ -184,9 +184,9 @@ O rastreador era a ferramenta. A coordenada era a localização. E a coordenada 
 
 *Thaloris*, ela pensou, e o pensamento era preciso como um bisturi. *Você não é o arquiteto. Você é a porta. E portas, eventualmente, se abrem.*
 
-Mas Selynis não era impaciente. A impaciência era o luxo dos amadores, e ela não era amadora. Cada movimento tinha que ser calculado — porque se movesse rápido demais, os *nihilarys*³⁵ ligados aos *She-Zuris*³⁶ acelerariam o cronograma. As cargas seriam movidas. Os pontos de retenção seriam abandonados. As provas, destruídas. E as pessoas dentro daquelas carroças — as crianças, os trabalhadores, os que ninguém reclamaria — desapareceriam como haviam desaparecido antes: sem sombra, sem rastro, sem chance.
+Mas Selynis não era impaciente. A impaciência era o luxo dos amadores, e ela não era amadora. Cada movimento tinha que ser calculado — porque se movesse rápido demais, os *nihilarys*³⁵ ligados aos *Nihil Shid*³⁶ acelerariam o cronograma. As cargas seriam movidas. Os pontos de retenção seriam abandonados. As provas, destruídas. E as pessoas dentro daquelas carroças — as crianças, os trabalhadores, os que ninguém reclamaria — desapareceriam como haviam desaparecido antes: sem sombra, sem rastro, sem chance.
 
-Se movesse devagar demais, mais pessoas morriam. Brenn já estava morto. Três de seus soldados estavam mortos. E a próxima carga já estava sendo preparada — Selynis sentia isso com a certeza instintiva de quem viveu valens lendo os movimentos do tabuleiro continental: os She-Zuris não paravam. Nunca paravam. Cada pausa era um reagrupamento, cada silêncio era um preparativo.
+Se movesse devagar demais, mais pessoas morriam. Brenn já estava morto. Três de seus soldados estavam mortos. E a próxima carga já estava sendo preparada — Selynis sentia isso com a certeza instintiva de quem viveu valens lendo os movimentos do tabuleiro continental: os Nihil Shid não paravam. Nunca paravam. Cada pausa era um reagrupamento, cada silêncio era um preparativo.
 
 — Ordem para operativos *Tar-Gig*³¹ — ela ditou. — Equipe Alpha: manter vigilância sobre o ponto de retenção nos Montes de Cinza. Sem contato. Sem intervenção. Documentação exclusiva. Equipe Beta: infiltrar dois agentes na guarda pessoal de Thaloris Ventaris — posições de confiança, acesso aos aposentos privados. Quero transcrições de todas as conversas que o *Lugal Lil*⁵ tiver dentro do Palácio de Zephyra² durante as próximas dois meses.
 
@@ -254,7 +254,7 @@ E *Nyx*³⁸ não apareceu sobre Zephyra.
 
 ## VI. O Último Pagamento
 
-Eles se encontraram nas ruínas do Templo de *Ventus*⁴⁰, nas colinas ao sul de Zephyra — um lugar que já havia sido sagrado e que agora era apenas pedra, musgo e silêncio. Thaloris escolhera o local. O representante dos *She-Zuris*³⁶ aceitara.
+Eles se encontraram nas ruínas do Templo de *Ventus*⁴⁰, nas colinas ao sul de Zephyra — um lugar que já havia sido sagrado e que agora era apenas pedra, musgo e silêncio. Thaloris escolhera o local. O representante dos *Nihil Shid*³⁶ aceitara.
 
 O representante não era uma sombra desta vez. Era um homem.
 
@@ -278,7 +278,7 @@ Thaloris sentiu o calor subir pelo pescoço. Controlou-se. Não podia perder a c
 
 — Garantias — o representante repetiu, saboreando a palavra como quem saboreia uma fruta estragada.
 
-— Sim. Garantias de que isso não vai se repetir. Garantias de que os She-Zuris controlam a situação. E — Thaloris fez uma pausa, porque o que vinha a seguir era a parte que mais o queimava — *garantias de que vou receber o que me foi prometido*.
+— Sim. Garantias de que isso não vai se repetir. Garantias de que os Nihil Shid controlam a situação. E — Thaloris fez uma pausa, porque o que vinha a seguir era a parte que mais o queimava — *garantias de que vou receber o que me foi prometido*.
 
 O silêncio que se seguiu durou três segundos. Três segundos nos quais Thaloris sentiu o peso de todos os meses que havia esperado, de todas as mentiras que havia se contado, de todas as nyxaras que havia passado deitado no escuro ouvindo uma voz que prometia eternidade em troca de almas que ele não conhecia.
 
@@ -314,7 +314,7 @@ O representante desapareceu entre as ruínas. Não se teletransportou, não se t
 
 E Thaloris ficou sozinho no templo de Ventus, de pé sobre pedras que há valens foram sagradas, rodeado por silêncio, com o gosto de ferro na boca e a certeza — a certeza absoluta, cristalina, inegável — de que estava preso.
 
-Não pelas sombras. Não pelos *She-Zuris*³⁶. Não pela *nihilary*³⁵ que sussurrava em seus sonhos.
+Não pelas sombras. Não pelos *Nihil Shid*³⁶. Não pela *nihilary*³⁵ que sussurrava em seus sonhos.
 
 Por si mesmo.
 
@@ -326,7 +326,7 @@ Então caminhou de volta para Zephyra, com os passos pesados de quem carrega nã
 
 A última carga seria enviada.
 
-E depois — o que? Imortalidade, se os She-Zuris cumprissem sua promessa. Ou a verdade, se não cumprissem.
+E depois — o que? Imortalidade, se os Nihil Shid cumprissem sua promessa. Ou a verdade, se não cumprissem.
 
 De qualquer forma, Thaloris Ventaris sabia: não havia terceira opção. Nunca houve. A escolha havia sido feita na nyxara em que ele dissera "sim" pela primeira vez — e todas as escolhas subsequentes não foram escolhas, mas ecos.
 
@@ -409,9 +409,9 @@ Ecos de um homem que olhou no espelho, viu o cinza em seu cabelo, e decidiu que 
 
 ³⁴ **Sanctrum** — Capital continental; sede do Conselho dos 12 e da Torre de Aurion.
 
-³⁵ **nihilary / nihilarys** — Agentes dos She-Zuris; seres capazes de manipular escuridão e ausência. Feminino: nihilary. Plural: nihilarys.
+³⁵ **nihilary / nihilarys** — Agentes dos Nihil Shid; seres capazes de manipular escuridão e ausência. Feminino: nihilary. Plural: nihilarys.
 
-³⁶ **She-Zuris** — Organização secreta que se autodenomina "Os Iluminados"; operam nas sombras do continente. Orquestram as *cargas fantasmas*.
+³⁶ **Nihil Shid** — Organização secreta que se autodenomina "Os Iluminados"; operam nas sombras do continente. Orquestram as *cargas fantasmas*.
 
 ³⁷ **Velantis** — Cidade principal do interior de Sylvaris; onde se localiza o Orfanato Luminis.
 
@@ -431,6 +431,6 @@ Ecos de um homem que olhou no espelho, viu o cinza em seu cabelo, e decidiu que 
 
 ## 🔮 Previsão: Próximo Capítulo
 
-No próximo capítulo, a rede de Selynis começa a produzir resultados concretos. Os agentes do *Tar-Gig*³¹ infiltrados na guarda pessoal de Thaloris conseguem as primeiras transcrições de suas conversas privadas — e nelas, algo que Selynis não esperava: não arrogância, não indiferença, mas *desespero*. Thaloris está caindo aos pedaços, e a fratura pode ser tanto uma oportunidade quanto um perigo. Enquanto isso, em *Velantis*³⁷, Lyris percebe que a conexão de *cryonys*⁴² de Alyndra está se intensificando de formas que desafiam qualquer explicação racional — e uma mensagem cifrada de Selynis, interceptada por Vethran Noll, coloca o *Orfanato Luminis* no radar dos *She-Zuris*³⁶.
+No próximo capítulo, a rede de Selynis começa a produzir resultados concretos. Os agentes do *Tar-Gig*³¹ infiltrados na guarda pessoal de Thaloris conseguem as primeiras transcrições de suas conversas privadas — e nelas, algo que Selynis não esperava: não arrogância, não indiferença, mas *desespero*. Thaloris está caindo aos pedaços, e a fratura pode ser tanto uma oportunidade quanto um perigo. Enquanto isso, em *Velantis*³⁷, Lyris percebe que a conexão de *cryonys*⁴² de Alyndra está se intensificando de formas que desafiam qualquer explicação racional — e uma mensagem cifrada de Selynis, interceptada por Vethran Noll, coloca o *Orfanato Luminis* no radar dos *Nihil Shid*³⁶.
 
 *"Há dois tipos de prisão: a que tem grades e a que tem espelhos. A primeira pode ser quebrada. A segunda — essa é para sempre."*
