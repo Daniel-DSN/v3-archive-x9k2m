@@ -498,7 +498,7 @@ Talvez seja humanidade.
 
 ³¹ **Guilda dos Arautos do Éter** — Primeira organização de imprensa do continente.
 
-³² **cargas fantasmas** — Registros de carga falsos usados para encobrir tráfico humano nas rotas marítimas entre Umbra e os outros reinos; desaparecimentos sistemáticos ligados à conspiração nihilary dos She-Zuris.
+³² **cargas fantasmas** — Registros de carga falsos usados para encobrir tráfico humano nas rotas marítimas entre Umbra e os outros reinos; desaparecimentos sistemáticos ligados à conspiração nihilary dos Nihil Shid.
 
 ³³ **arauto do éter** — Locutor oficial da Guilda dos Arautos do Éter.
 
