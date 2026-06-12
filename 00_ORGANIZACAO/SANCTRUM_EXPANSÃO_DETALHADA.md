@@ -3,7 +3,7 @@
 > **Documento de Worldbuilding:** Expansão completa de Sanctrum
 > **Baseado nos capítulos do Livro I e nas Leis de Ilyos**
 > **Referência cruzada:** Os 7 Pilares aqui detalhados são os mesmos do documento `RELIGIOES_E_FILOSOFIAS.md`
-> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são filhos de Yggorath. Nyxalor foi corrompido por Mytra (Nihilaryth). Ilyos e Elarys selaram Nyxalor no Dingir-sar.
+> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são filhos de Yggorath. Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys selaram Nyxalor no Dingir-sar.
 > **Atualizado:** 31 de Maius de 2026
 
 ---
@@ -1035,7 +1035,7 @@ Aurelius sabe que endurecer a perseguição é contraproducente, mas **não pode
 
 ### 14.1 O Plano dos Nihilaryth
 
-Os Nihilaryth têm um plano de longo prazo para Sanctrum, orquestrado por **Mytra (O Engano)** — o mais antigo e astuto dos Três Líderes:
+Os Nihilaryth têm um plano de longo prazo para Sanctrum, orquestrado por **Mythra (O Engano)** — o mais antigo e astuto dos Três Líderes:
 
 | Fase | Descrição | Duração | Status |
 |------|-----------|---------|--------|
