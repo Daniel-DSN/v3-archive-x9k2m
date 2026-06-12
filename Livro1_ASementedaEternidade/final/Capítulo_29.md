@@ -40,7 +40,7 @@ Ela continuou andando.
 
 *Nyx*³ não a deixou. O *lyrien*⁴ — cujas patas já estavam feridas pela rocha vulcânica, cujo pelo havia perdido o brilho e adquirido um tom acinzentado coberto de cinza e suor — mantinha-se colado ao lado de Alyndra¹, o corpo quente pressionado contra a perna dela a cada passo, como se a gravidade entre os dois tivesse aumentado e o *lyrien*⁴ agora pertencesse a Alyndra¹ com mais força do que antes. Korath⁶ não tentava separá-los. Isso — o fato de que Korath⁶, que podia ter arrancado o *lyrien*⁴ de Alyndra¹ a qualquer segundo, escolhesse não fazê-lo — era outro dos mistérios que Alyndra¹ catalogava em silêncio: ele não a machucava, ele não separava *Nyx*³, e as ordens que ele cumpria — as ordens que Alyndra¹ não conhecia, mas que podia sentir na precisão de cada ação de Korath⁶ — incluíam a presença do *lyrien*⁴ no grupo.
 
-Os *She-Zuris*¹⁰ queriam ambos. A menina e o *lyrien*³. E o porquê — o porquê de um *lyrien*⁴ importar tanto quanto uma criança portadora de *cryonys*¹¹ — era algo que Alyndra¹ não podia imaginar e que Korath⁶ não iria explicar.
+Os *Nihil Shid*¹⁰ queriam ambos. A menina e o *lyrien*³. E o porquê — o porquê de um *lyrien*⁴ importar tanto quanto uma criança portadora de *cryonys*¹¹ — era algo que Alyndra¹ não podia imaginar e que Korath⁶ não iria explicar.
 
 A paisagem se tornou mais hostil a cada hora. As *argentis*⁵ desapareceram — não gradualmente, mas de uma vez, como se uma linha invisível dividisse o mundo em duas metades e a metade onde entraram não conhecesse árvores. Em seu lugar: formações rochosas bizarras, pilares de basalto que se erguiam do chão como dedos de pedra apontando para um céu que parecia mais escuro do que o céu deveria ser. A vegetação — se é que se podia chamar aquilo de vegetação — era rasteira, retorcida, de um tom vermelho-escuro que sugeria ferro no solo. Não havia *giralis*¹². Não havia *argentis*⁵. Não havia nada que Alyndra¹ reconhecesse como pertencente ao mundo que conhecia.
 
@@ -172,7 +172,7 @@ Estava de pé no centro da câmara final — uma sala circular de paredes lisas,
 
 A figura era alta — mais alta do que Korath⁶, o que era raro — e vestia um manto negro que não era tecido: era *escuridão materializada*, um tecido que parecia absorver a luz e devolvê-la distorcida, como se o manto fosse uma extensão do próprio templo, feito da mesma pedra negra mas flexível, líquida, viva. O rosto estava escondido sob um capuz que caía sobre os ombros e cobria tudo exceto a boca — e a boca, o que era visível dela, estava imóvel, como esculpida, como se a figura não tivesse mais uso para expressões humanas.
 
-Um *She-Zuris*¹⁰. Ou o que restava de um — um *nihilary*¹⁷ em corpo humano, um hospedeiro que havia cedido não apenas seu corpo mas sua humanidade, e que agora era um recipiente para algo que não era humano e que operava com a precisão fria de uma máquina construída para fins que nenhuma máquina deveria servir.
+Um *Nihil Shid*¹⁰. Ou o que restava de um — um *nihilary*¹⁷ em corpo humano, um hospedeiro que havia cedido não apenas seu corpo mas sua humanidade, e que agora era um recipiente para algo que não era humano e que operava com a precisão fria de uma máquina construída para fins que nenhuma máquina deveria servir.
 
 Korath⁶ parou a três passos da figura. Ajoelhou-se.
 
@@ -244,7 +244,7 @@ E Alyndra³, no escuro, apertou *Nyx*³ contra o peito — o peito gelado, o pei
 
 ² **Sylvaris** — Reino dos Ventos, Florestas e Cristais; primeiro reino. Alyndra¹ foi transportada para fora de *Sylvaris*² por Korath⁶.
 
-³ **Nyx** — O *lyrien*⁴ prateado companheiro de Alyndra¹. Mantém-se junto a ela durante toda a travessia. Os *She-Zuris*¹⁰ exigem que *Nyx*³ seja entregue junto com Alyndra¹.
+³ **Nyx** — O *lyrien*⁴ prateado companheiro de Alyndra¹. Mantém-se junto a ela durante toda a travessia. Os *Nihil Shid*¹⁰ exigem que *Nyx*³ seja entregue junto com Alyndra¹.
 
 ⁴ **lyrien** — Animal companheiro de tamanho médio. *Nyx*³ demonstra capacidade de emitir sons com *aethra*¹³ — fenômeno raro que sugere vínculo profundo com Alyndra¹.
 
@@ -258,7 +258,7 @@ E Alyndra³, no escuro, apertou *Nyx*³ contra o peito — o peito gelado, o pei
 
 ⁹ **Umbra** — Reino das Sombras e Mistérios; sétimo reino. Origem de Korath⁶ e dos *nihilarys*¹³.
 
-¹⁰ **She-Zuris** — Organização secreta "Os Iluminados"; operam o templo na fronteira e coordenam o tráfico de pessoas.
+¹⁰ **Nihil Shid** — Organização secreta "Os Iluminados"; operam o templo na fronteira e coordenam o tráfico de pessoas.
 
 ¹¹ **cryonys** — SinDrarys de Água + Vento; manifesta gelo. Alyndra¹ manifesta uma casca de *cryonys*¹¹ como resposta involuntária ao medo.
 
@@ -272,7 +272,7 @@ E Alyndra³, no escuro, apertou *Nyx*³ contra o peito — o peito gelado, o pei
 
 ¹⁶ **aethrys** — Cristal elemental. Korath⁶ carrega um fragmento de cristal negro (não *aethrys*¹⁶) que permite acesso ao templo.
 
-¹⁷ **nihilary / nihilarys** — Agentes dos *She-Zuris*¹⁰; capazes de manipular escuridão. A figura encapuzada é um *nihilary*¹⁷ em corpo humano hospedeiro.
+¹⁷ **nihilary / nihilarys** — Agentes dos *Nihil Shid*¹⁰; capazes de manipular escuridão. A figura encapuzada é um *nihilary*¹⁷ em corpo humano hospedeiro.
 
 ¹⁸ **Lyris** — Administradora e guardiã do Orfanato Luminis; Alyndra¹ acredita que Lyris¹⁸ virá buscá-la.
 
@@ -280,6 +280,6 @@ E Alyndra³, no escuro, apertou *Nyx*³ contra o peito — o peito gelado, o pei
 
 ## 🔮 Previsão: Próximo Capítulo
 
-No capítulo seguinte, o templo revela seus segredos — e os segredos são mais antigos e mais terríveis do que qualquer um dos reinos imaginou. Alyndra¹, separada de *Nyx*³ por procedimentos que ainda não compreende, enfrenta algo que não é tortura nem prisão — é processamento: um ritual que os *She-Zuris*¹⁰ realizam há milênios para extrair e redirecionar o *aethra*¹³ de portadores de SinDrarys raros. O *cryonys*¹¹ de Alyndra¹ responde de um modo que o templo não previu. Enquanto isso, Sera e Lysias Thyrion cruzam a fronteira de *Fulmora*⁸ — eles estão mais perto do que pensam. E Korath⁶, sozinho na noite após a entrega, faz algo que não fazia há anos: questiona uma ordem.
+No capítulo seguinte, o templo revela seus segredos — e os segredos são mais antigos e mais terríveis do que qualquer um dos reinos imaginou. Alyndra¹, separada de *Nyx*³ por procedimentos que ainda não compreende, enfrenta algo que não é tortura nem prisão — é processamento: um ritual que os *Nihil Shid*¹⁰ realizam há milênios para extrair e redirecionar o *aethra*¹³ de portadores de SinDrarys raros. O *cryonys*¹¹ de Alyndra¹ responde de um modo que o templo não previu. Enquanto isso, Sera e Lysias Thyrion cruzam a fronteira de *Fulmora*⁸ — eles estão mais perto do que pensam. E Korath⁶, sozinho na noite após a entrega, faz algo que não fazia há anos: questiona uma ordem.
 
 *"O que os deuses constroem, o tempo desmonta. Mas o que foi construído antes dos deuses — isso, nem o tempo ousa tocar."*
