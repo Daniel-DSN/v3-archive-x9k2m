@@ -34,7 +34,7 @@ Alyndra Primordial é a **origem de tudo o que vem depois**. Ela é a ponte entr
 
 ### Contexto
 
-Alyndra viveu durante o período em que os Nihilarys estavam consumindo tudo. Ela pertencia a uma das civilizações atacadas. Era poderosa o suficiente para **controlar o Fruto Primordial** — algo que poucos seres na história conseguiram.
+Alyndra viveu durante o período em que os Nihilaryth estavam consumindo tudo. Ela pertencia a uma das civilizações atacadas. Era poderosa o suficiente para **controlar o Fruto Primordial** — algo que poucos seres na história conseguiram.
 
 ---
 
@@ -68,7 +68,7 @@ Antes de usar o Fruto para seu sacrifício final, Alyndra **olhou para o futuro*
 
 ### Opções que Alyndra viu
 
-1. **Destruir todos os Nihilarys** — Sacrificando todos, Alyndra poderia se fortalecer o suficiente para aniquilar os Nihilarys completamente. Mas o custo seria a aniquilação de tudo o mais.
+1. **Destruir todos os Nihilaryth** — Sacrificando todos, Alyndra poderia se fortalecer o suficiente para aniquilar os Nihilaryth completamente. Mas o custo seria a aniquilação de tudo o mais.
 
 2. **Renascimento através de Yggorath** — Usar o Fruto para destruição com renascimento, permitindo que a criação se refizesse a partir da semente.
 
@@ -76,7 +76,7 @@ Antes de usar o Fruto para seu sacrifício final, Alyndra **olhou para o futuro*
 
 Dois fatoresWeight a decisão de Alyndra:
 
-1. **O passado íntimo de Mytra** — Ao vislumbrar o futuro, Alyndra viu também o passado de Mytra. Viu quem Mytra era antes da queda, viu a dor, viu o que a transformou na "Que Espera". Essa visão criou empatia ou ao menos compreensão — suficiente para que Alyndra escolhesse um caminho que não fosse aniquilação pura.
+1. **O passado íntimo de Mythra** — Ao vislumbrar o futuro, Alyndra viu também o passado de Mythra. Viu quem Mythra era antes da queda, viu a dor, viu o que a transformou na "Que Espera". Essa visão criou empatia ou ao menos compreensão — suficiente para que Alyndra escolhesse um caminho que não fosse aniquilação pura.
 
 2. **Os descendentes** — Alyndra não poderia recriar os mesmos seres após a destruição. Cada ser que nascesse depois seria um **descendente de seu povo**, lutando para construir e resistir pela existência da vida. A continuidade importava mais que a vingança.
 
@@ -151,13 +151,13 @@ EVENTO                                              CONSEQUÊNCIA
 ─────────────────────────────────────────────────────────────────
 Alvorada da criação                              Primeiras civilizações
 Civilização Nihilary floresce                    Tecnologia extrema
-Nihilarys alcançam o Fruto Primordial            Cultivo e estudo
+Nihilaryth alcançam o Fruto Primordial            Cultivo e estudo
 Ambição por imortalidade                          Drenagem de aethra
-Canibalismo de aethra entre Nihilarys            Parasitismo generalizado
-Ur-Nyxal + Mytra = líderes                       Casal real dos Nihilarys
+Canibalismo de aethra entre Nihilaryth            Parasitismo generalizado
+Ur-Nyxal + Mythra = líderes                       Casal real dos Nihilaryth
 Ur-Nyxal usa o Fruto inadequadamente             Civilização condenada
 Maldição transdimensional                        Todos viram parasitas imateriais
-Ur-Nyxal extinto                                 Mytra assume liderança
+Ur-Nyxal extinto                                 Mythra assume liderança
                                                    Vha-Korath se opõe a Alyndra Primordial
 ```
 
@@ -168,9 +168,9 @@ EVENTO                                              CONSEQUÊNCIA
 ─────────────────────────────────────────────────────────────────
 Alyndra Primordial emerge                       Ser poderoso, controla o Fruto
 Alyndra engravida de gêmeos                     Ilyos e Nyxalor na semente
-Nihilarys atacam civilizações                    Destruição em massa
+Nihilaryth atacam civilizações                    Destruição em massa
 Alyndra vislumbra o futuro                       Vê possibilidades
-Alyndra vê o passado de Mytra                    Compreensão, empatia
+Alyndra vê o passado de Mythra                    Compreensão, empatia
 Alyndra escolhe renascimento                    Via Yggorath
 Alyndra usa o Fruto                              Destruição + renascimento
 Alyndra morre                                    Semente frutifica
@@ -186,7 +186,7 @@ EVENTO                                              CONSEQUÊNCIA
 ─────────────────────────────────────────────────────────────────
 Seraphyens nascem (luz+sombra periférica)       10 seres, 5 elementos
 Ilyos conhece Myrrhiel                           Amor mútuo
-Nyxalor começa a ser corrompido por Mytra        Sussurros, paranoia
+Nyxalor começa a ser corrompido por Mythra        Sussurros, paranoia
 Nyxalor ama Elarys → trai                        Relação amorosa destruída
 Ilyos e Myrrhiel têm filhos orgânicos           Mareth e Nymyra
 Primeiras famílias descendentes                  Marethyus, Nymyrias, etc.
@@ -197,7 +197,7 @@ Myrrhiel morre em combate                        Compra tempo para Ilyos
 Ilyos concentra aethra                           Não é suficiente
 Elarys oferece corpo → selo completo             Selada no corpo de Nyxalor
 Ilyos fragmenta-se no selo                       Dispersa em âncoras de luz
-Mytra sobrevive nas bordas do selo              "A Que Espera"
+Mythra sobrevive nas bordas do selo              "A Que Espera"
 ```
 
 ### Era dos Mortais
@@ -214,7 +214,7 @@ Aurelius nasce (Marethyus)                      Guardião Mestre de Sanctrum
 Mãe de Alyndra foge para Mespiria               Linhagem se esconde
 Ayla gera Alyndra                                A essência chega ao destino
 Oitava convergência das luas se aproxima         O selo enfraquece
-Mytra sente o momento                            Começa a sussurrar de novo
+Mythra sente o momento                            Começa a sussurrar de novo
 ```
 
 ---
