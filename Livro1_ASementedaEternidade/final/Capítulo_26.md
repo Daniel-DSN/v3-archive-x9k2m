@@ -58,7 +58,7 @@ Durante os próximos horas — quantos, ela não sabia; o tempo havia perdido a 
 
 Mas também observava outras coisas.
 
-Korath² não a machucava. Isso era estranho — não porque ela esperasse ser machucada, mas porque tudo o que sabia sobre pessoas como Korath² — sobre mercenários de *Umbra*¹⁷, sobre os *nihilarys*¹⁸ que serviam aos *She-Zuris*¹⁹ — sugeria que a violência era o método padrão, a ferramenta primeira, a resposta automática a qualquer resistência ou lentidão. E ainda assim: quando ela tropeçou, ele a segurou. Quando *Nyx*⁵ rosnou, ele não chutou o *lyrien*⁶ — apenas olhou, com aqueles olhos que absorviam luz, e continuou andando. Quando o chão ficou acidentado, ele diminuiu o ritmo sem que ela pedisse.
+Korath² não a machucava. Isso era estranho — não porque ela esperasse ser machucada, mas porque tudo o que sabia sobre pessoas como Korath² — sobre mercenários de *Umbra*¹⁷, sobre os *nihilarys*¹⁸ que serviam aos *Nihil Shid*¹⁹ — sugeria que a violência era o método padrão, a ferramenta primeira, a resposta automática a qualquer resistência ou lentidão. E ainda assim: quando ela tropeçou, ele a segurou. Quando *Nyx*⁵ rosnou, ele não chutou o *lyrien*⁶ — apenas olhou, com aqueles olhos que absorviam luz, e continuou andando. Quando o chão ficou acidentado, ele diminuiu o ritmo sem que ela pedisse.
 
 Ele estava seguindo ordens. Alyndra³ não sabia que ordens, não sabia quem as dava, não sabia por que aquelas ordens incluíam "não machucar a carga" mas não incluíam "não sequestrar a carga" — mas sentia que as ordens existiam, e que Korath² as cumpria com a precisão mecânica de quem aprendeu que obediência é mais segura que questionamento.
 
@@ -204,9 +204,9 @@ Algo que ainda não tinha nome.
 
 ¹ **Val-Koras** — Região de passagem nas fronteiras orientais de *Sylvaris*.
 
-² **Korath** — Mercenário de *Umbra* contratado pelos *She-Zuris* para o sequestro de Alyndra. Segue um código pessoal que exclui violência desnecessária contra crianças.
+² **Korath** — Mercenário de *Umbra* contratado pelos *Nihil Shid* para o sequestro de Alyndra. Segue um código pessoal que exclui violência desnecessária contra crianças.
 
-³ **Alyndra** — Criança do *Orfanato Luminis*; portadora de *cryonys* inconsciente e alvo prioritário dos *She-Zuris*.
+³ **Alyndra** — Criança do *Orfanato Luminis*; portadora de *cryonys* inconsciente e alvo prioritário dos *Nihil Shid*.
 
 ⁴ **valen / valens** — Unidade de tempo longa; equivalente a um ano (~365 dias). Na narração, usa-se "ano" (já aplicado nos capítulos).
 
@@ -233,9 +233,9 @@ Algo que ainda não tinha nome.
 
 ¹⁷ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
 
-¹⁸ **nihilary / nihilarys** — Agentes dos *She-Zuris*; seres capazes de manipular escuridão e ausência.
+¹⁸ **nihilary / nihilarys** — Agentes dos *Nihil Shid*; seres capazes de manipular escuridão e ausência.
 
-¹⁹ **She-Zuris** — Organização secreta que se autodenomina "Os Iluminados"; orquestram as *cargas fantasmas* e a rede de *nihilarys*.
+¹⁹ **Nihil Shid** — Organização secreta que se autodenomina "Os Iluminados"; orquestram as *cargas fantasmas* e a rede de *nihilarys*.
 
 ²⁰ **cryonys** — SinDrarys (fusão elemental) de Água + Vento; manifesta gelo e congelamento absoluto. Alyndra é portadora.
 
