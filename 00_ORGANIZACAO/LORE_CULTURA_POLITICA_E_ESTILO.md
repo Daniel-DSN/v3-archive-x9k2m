@@ -368,7 +368,7 @@
 
 1. ❌ **NENHUM termo terrestre**: zero. Nem "café", "sol", "lua", "trigo", "cavalo", "água" (use "veluma", "Aurion", "Lyria/Nyx/Elara", "Aethrys", "Velrok", "Hydris").
 2. ❌ **NENHUMA tecnologia terrestre**: "eletricidade", "motor", "computador", "lâmpada".
-3. ❌ **NENHUMA referência cultural terrestre**: "deus" (use "Ventus", "Ilyos", "Mytra"), "herói" (use "guerreiro", "guardião").
+3. ❌ **NENHUMA referência cultural terrestre**: "deus" (use "Ventus", "Ilyos", "Mythra"), "herói" (use "guerreiro", "guardião").
 4. ❌ **NENHUM termo genérico para elementos do mundo**: sempre nomear.
 5. ❌ **NENHUMA quebra de lore**: Velantis é capital (não "Aethyron"), Thalassia é continental (não submersa), Kira é Sylentis (não afinidade Elétrica).
 6. ✅ **SEMPRE usar nomes corretos** de personagens, lugares e termos.
@@ -502,7 +502,7 @@ Todo o sistema de tempo de Nova Aetherion é mapeado de acordo com a terminologi
 | **outubro** | `Elarys` | 10ª Nyra; 26 Daens (Inverno) |
 | **novembro** | `Ilyos` | 11ª Nyra; 28/31 Daens (Inverno) |
 | **dezembro** | `Nyxalor` | 12ª Nyra; 27 Daens (Inverno) |
-| *(13º mês)* | `Yggoraty` | 13ª Nyra; 30 Daens (Transição/Festa) |
+| *(13º mês)* | `Yggorath` | 13ª Nyra; 30 Daens (Transição/Festa) |
 | **ano bissexto** | `Ilyos Triplo` (*Ilyos Tel*) | A cada 12 Valens; Ilyos ganha +3 Daens |
 | **semana** | `Syra` | 7 Daens |
 | **fim de semana** | `Zidin` + descanso | Especificamente o 7º dia |
@@ -578,7 +578,7 @@ Quando em dúvida, pergunte-se: **"Esta palavra existe apenas porque alguém na 
 | **Trilhos de Vento** | Correntes de ar para Veleiros | Já estabelecido |
 | **Veleiro de Estrada** | Veículo suspenso sobre Trilhos de Vento | Já estabelecido |
 | **Timoneiro de Vento** | Condutor de Veleiros | Já estabelecido |
-| **Calmaria (Serenitia)** | Período em que os ventos cessam; Nyra de Yggoraty | Novo |
+| **Calmaria (Serenitia)** | Período em que os ventos cessam; Nyra de Yggorath | Novo |
 | **Fogueira dos Sushurros** | Ritual de renovação na Calmaria | Novo |
 | **Silêncio de Boas-Vindas** | Costume de 3 daens sem perguntas | Novo |
 | **Marca do Vento** | Tatuagem de maioridade aos 12 valens | Novo |
@@ -635,7 +635,7 @@ Quando em dúvida, pergunte-se: **"Esta palavra existe apenas porque alguém na 
 | **Tar-Gig** | Rede de inteligência externa | Liderada por Selynis Thalassa |
 | **Ordem dos Guardiões** | Instituição militar e de inteligência | Já estabelecido |
 | **Guardião de Cristal** | Golem senciente (Veritas, Justitia, Memoria) | Novo |
-| **Recesso (Recessus)** | Período de silêncio em Yggoraty | Novo |
+| **Recesso (Recessus)** | Período de silêncio em Yggorath | Novo |
 | **Ritual da Escolha** | Teste de aptidões aos 12 valens | Novo |
 | **Cerimônia da Verdade** | Entrevista com cristal Veritas | Novo |
 | **Juramento de Luz** | Juramento cívico aos 15 valens | Novo |
@@ -999,7 +999,7 @@ Cada dia da Syra é consagrado a uma divindade ou corpo celeste. O sufixo **-din
 
 ## 3. AS 13 NYRAS (nyras do valen)
 
-O valen começa com a luz que retorna (Aethros) e percorre o ciclo completo dos Seraphyens: da revelação ao sustento, da primeira sombra ao sacrifício, da memória do criador ao descanso do caído, até a grande festa de renascimento em Yggoraty.
+O valen começa com a luz que retorna (Aethros) e percorre o ciclo completo dos Seraphyens: da revelação ao sustento, da primeira sombra ao sacrifício, da memória do criador ao descanso do caído, até a grande festa de renascimento em Yggorath.
 
 ### Tabela das Nyrás
 
@@ -1017,7 +1017,7 @@ O valen começa com a luz que retorna (Aethros) e percorre o ciclo completo dos 
 | 10 | **Elarys** | Elarys | 🔥 Fogo/Sombra | **26** | ❄️ Inverno | Consumo, o sacrifício que prepara o novo |
 | 11 | **Ilyos** | Ilyos (divina) | ✨ Luz pura | **28** (31) | ❄️ Inverno | Memória do criador, a luz na escuridão |
 | 12 | **Nyxalor** | Nyxalor (caído) | 🌑 Sombra pura | **27** | ❄️ Inverno | Introspecção, a noite mais longa |
-| 13 | **Yggoraty** | Yggorath (mãe) | 🌳 Matriz | **30** | 🎉 Transição | Festa do renascimento, virada do ano |
+| 13 | **Yggorath** | Yggorath (mãe) | 🌳 Matriz | **30** | 🎉 Transição | Festa do renascimento, virada do ano |
 
 **Total de dias num valen padrão:** 29+28+29+28+30+27+28+27+28+26+28+27+30 = **365 Daens**
 
@@ -1027,7 +1027,7 @@ Os dias variam conforme a estação e o elemento de cada Nyra:
 
 - **Nyrás de Luz (Aethros a Solaris, #1-5):** Mais longas — Aurion reina. Solaris é a mais longa com 30 Daens, o ápice do ano.
 - **Nyrás de Sombra (Aerynis a Elarys, #6-10):** Mais curtas — a luz declina. Elarys é a mais curta com 26 Daens, o sacrifício final antes do inverno.
-- **Nyrás Divinas (Ilyos a Yggoraty, #11-13):** Marcam a transição. Ilyos tem 28 (ou 31 em valen bissexto), Nyxalor 27 (a introspecção), e Yggoraty 30 (a festa que celebra a vida).
+- **Nyrás Divinas (Ilyos a Yggorath, #11-13):** Marcam a transição. Ilyos tem 28 (ou 31 em valen bissexto), Nyxalor 27 (a introspecção), e Yggorath 30 (a festa que celebra a vida).
 
 ---
 
@@ -1069,7 +1069,7 @@ O valen de Nova Aetherion tem quatro estações, distribuídas assimetricamente 
 | ☀️ **Verão** | Myrrhis, Solaris, Aerynis (4-6) | 85 | Crescimento, plenitude, virada silenciosa |
 | 🍂 **Outono** | Altheris, Lioris, Calyssos (7-9) | 83 | Colheita, recolhimento, preparação |
 | ❄️ **Inverno** | Elarys, Ilyos, Nyxalor (10-12) | 81 | Sacrifício, memória, introspecção |
-| 🎉 **Transição** | Yggoraty (13) | 30 | Festa, renovação, porta entre os anos |
+| 🎉 **Transição** | Yggorath (13) | 30 | Festa, renovação, porta entre os anos |
 
 ---
 
@@ -1102,7 +1102,7 @@ Ou, por extenso:
 |-----------------|-------------|
 | 1 de Aethros, 1º Valen | O primeiro dia do calendário — marco zero da Era |
 | 28 de Ilyos, 1.248º Valen | O último dia de um Ilyos Triplo (ano bissexto) |
-| 30 de Yggoraty, 4.097º Valen | Véspera da Convergência Tripla, noite em que Alyndra nasceu |
+| 30 de Yggorath, 4.097º Valen | Véspera da Convergência Tripla, noite em que Alyndra nasceu |
 
 ### Contagem dos Valens
 
@@ -1181,7 +1181,7 @@ NYRAS (13 nyras):
   4. Myrrhis (28d)  5. Solaris (30d)  6. Aerynis (27d)
   7. Altheris (28d) 8. Lioris (27d)   9. Calyssos (28d)
   10. Elarys (26d)  11. Ilyos (28/31d) 12. Nyxalor (27d)
-  13. Yggoraty (30d)
+  13. Yggorath (30d)
 
 PERÍODOS DO DAEN:
   Aebril (amanhecer) | Alara (manhã) | Zênir (meio-dia)
@@ -1190,7 +1190,7 @@ PERÍODOS DO DAEN:
 
 ---
 
-*Atualizado na Era do Despertar — 4.099º Valen, 13ª Nyra (Yggoraty)*
+*Atualizado na Era do Despertar — 4.099º Valen, 13ª Nyra (Yggorath)*
 
 
 ---
