@@ -43,7 +43,7 @@ Esta secao foi criada apos leitura dos capitulos oficiais do GitHub (`Prologo` +
 | Valtheris | Ficha completa |
 | Matriarca Zerynthia | Ficha completa |
 | Nin Kaelia Marethyus | Ficha completa |
-| Lugal Torgath | Ficha completa |
+| Lugal Durok | Ficha completa |
 | Lugal Izi Ignar Vulkarys | Ficha completa |
 | Lysias Thyrion | Ficha completa |
 | Mestre Tronus | Ficha completa |
@@ -75,7 +75,7 @@ Todas as fichas de personagens prioritários e secundários levantadas nas audit
 | `Mila Aldebar` | Resolvido: Cap. 9 renomeado para Mila | Consistente com a ficha consolidada |
 | Selynis = Velatrix em glossarios | Alto: a regra de sigilo e quebrada para o leitor em glossarios dos Caps. 7 e 10 | Nao alterar capitulos agora; registrar para futura revisao editorial autorizada |
 | `Kaelia` | Resolvido: Ficha completa criada como Nin Kaelia Marethyus | Consistente com a ficha consolidada |
-| `Lideres dos reinos` | Resolvido: Fichas criadas para Zerynthia, Torgath, Ignar | Fichas curtas padronizadas criadas |
+| `Lideres dos reinos` | Resolvido: Fichas criadas para Zerynthia, Durok, Ignar | Fichas curtas padronizadas criadas |
 | `Valtheris` | Resolvido: Ficha completa criada | Consistente com a ficha consolidada |
 | `Mestre Tronus` | Resolvido: Ficha completa criada | Consistente com a ficha consolidada |
 
@@ -3690,13 +3690,13 @@ Kaelia assumiu o Assento Nin A de Thalassia como Nin A após a abdicação e ex�
 
 ---
 
-## Fonte: `05_Personagens/Lugal_Torgath.md`
+## Fonte: `05_Personagens/Lugal_Durok.md`
 
 # FICHA TÉCNICA DE PERSONAGEM
 
 ---
 
-## Lugal Torgath — O Senhor da Terra
+## Lugal Durok — O Senhor da Terra
 
 ---
 
@@ -3709,7 +3709,7 @@ Kaelia assumiu o Assento Nin A de Thalassia como Nin A após a abdicação e ex�
 
 | Campo | Informação |
 |-------|------------|
-| **Nome completo** | Lugal Ki Torgath |
+| **Nome completo** | Lugal Ki Durok |
 | **Título(s)** | Senhor da Terra, Lugal Ki de Terraxis |
 | **Reino de origem** | Terraxis (Fortaleza de Rocha) |
 | **Elemento** | Terra |
@@ -3720,14 +3720,14 @@ Kaelia assumiu o Assento Nin A de Thalassia como Nin A após a abdicação e ex�
 
 ### BIOGRAFIA
 
-Torgath governa Terraxis há 80 valens. Sob seu comando, o reino consolidou o monopólio das minas de Aetherite de Alyndra. Votou a favor da RRA após garantir contratos lucrativos de fornecimento de cristais para Sanctrum. Guarda o segredo de que os veios mais ricos de Aetherite de seu reino estão se esgotando.
+Durok governa Terraxis há 80 valens. Sob seu comando, o reino consolidou o monopólio das minas de Aetherite de Alyndra. Votou a favor da RRA após garantir contratos lucrativos de fornecimento de cristais para Sanctrum. Guarda o segredo de que os veios mais ricos de Aetherite de seu reino estão se esgotando.
 
 ### RELAÇÕES
 
 | Personagem | Relação |
 |------------|---------|
-| **Thorin Torgath** | Filho Dumu Nin — a quem considera diplomático e mole demais. |
-| **Helga Torgath** | Filha e comandante das forças armadas de Terraxis. |
+| **Thorin Durok** | Filho Dumu Nin — a quem considera diplomático e mole demais. |
+| **Helga Durok** | Filha e comandante das forças armadas de Terraxis. |
 | **Mestre Ouric** | Conselheiro de mineração próximo. |
 
 ### APARIÇÕES NOS CAPÍTULOS
@@ -3906,11 +3906,11 @@ Tronus não é Lush Lugal — é o Fulmoran mais importante depois da própria M
 | **Reino de origem** | Terraxis (Fortaleza de Rocha) |
 | **Idade** | ~60 valens |
 | **Aparência** | Corpo atarracado e robusto, mãos grossas e calejadas, veste túnicas de lã cinza com broches de aetherite bruta. |
-| **Personalidade** | Pragmático, focado em números e extração de minério. Leal ao Lugal Torgath. |
+| **Personalidade** | Pragmático, focado em números e extração de minério. Leal ao Lugal Durok. |
 | **Afinidade etérica** | Afinidade fraca com Terra, usada para detectar pureza de minérios. |
 
 ### BIOGRAFIA
-Ouric atua como principal conselheiro econômico e de mineração do Lugal Torgath. Ele é responsável pelo controle das planilhas de exportação de aetherite para Sanctrum e Fulmora, e é um dos poucos que sabe que os veios mais ricos de minério em Terraxis estão começando a se esgotar.
+Ouric atua como principal conselheiro econômico e de mineração do Lugal Durok. Ele é responsável pelo controle das planilhas de exportação de aetherite para Sanctrum e Fulmora, e é um dos poucos que sabe que os veios mais ricos de minério em Terraxis estão começando a se esgotar.
 
 ---
 

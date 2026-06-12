@@ -576,7 +576,7 @@ Diferente do Conselho dos Contratos (Terraxis, 12 assentos políticos), a **Nim 
 | **RRA** | Comunicação | Vaela Zerynthia | Engenheira-Chefe da RRA |
 | **Inovação** | Pesquisa e patentes | Mestre Lúmen | Diretor da Academia |
 | **Defesa** | Torres voadoras e exército | Almirante Zephyron | Comandante das Torres |
-| **Recursos** | Mineração e logística | Mestre Ouric (fulmori) | Supervisor de Aetherite |
+| **Recursos** | Mineração e logística | Mestre Baelith | Supervisor de Aetherite |
 | **Ética** | Consequências técnicas | Conselheira Vela | Especialista em bioética |
 
 ### 11.2 O Processo Decisório

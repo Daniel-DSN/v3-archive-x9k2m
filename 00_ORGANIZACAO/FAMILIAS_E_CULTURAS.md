@@ -474,7 +474,7 @@ O Culto de Nyxalor tem presença moderada (~8%), alimentada por soldados descont
 ### 6.1 A Casa Durok
 
 [Conteúdo existente em LORE_MUNDO_E_REINOS.md — seção 8. A Casa Durok]
-[Genealogia, Lugal Torgath, Thorin, Helga, Bortak, Ouric documentados]
+[Genealogia, Lugal Durok, Thorin, Helga, Bortak, Ouric documentados]
 
 #### Expansão: Tradições da Casa Durok
 
@@ -515,7 +515,7 @@ O Culto de Nyxalor tem presença moderada (~8%), alimentada por soldados descont
 
 #### Religião e Espiritualidade
 
-Terraxis é um reino de **contratos, não crenças** — oficialmente. O Lugal Torgath mantém que a fé é assunto pessoal, desde que não interfira nos negócios. As Leis de Ilyos têm penetração moderada (~55%), interpretadas como "contrato universal" — todos iguais perante a pedra e a lei escrita.
+Terraxis é um reino de **contratos, não crenças** — oficialmente. O Lugal Durok mantém que a fé é assunto pessoal, desde que não interfira nos negócios. As Leis de Ilyos têm penetração moderada (~55%), interpretadas como "contrato universal" — todos iguais perante a pedra e a lei escrita.
 
 O Culto de Nyxalor tem presença **alta** (~10%), alimentada por mineradores insatisfeitos com as condições de trabalho e a influência de Sanctrum nas minas. O Punho da Terra (radicais) rouba Aetherite para financiar ataques, liderado por Mina Negra (ex-Mestre de Ofício). Os Duri da Pedra (seita local, ~15.000 seguidores) veneram a pedra como a forma mais pura de existência, rejeitando tanto Ilyos quanto Nyxalor.
 

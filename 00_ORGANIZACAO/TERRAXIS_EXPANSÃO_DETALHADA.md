@@ -320,7 +320,7 @@ O En Dur Kun é o **órgão máximo de governo** de Terraxis — tanto executivo
 
 | Assento | Representante | Nome Atual | Poder Específico |
 |---------|---------------|------------|------------------|
-| **Lugal Ki** | Monarca | Torgath | Veto sobre contratos de mineração |
+| **Lugal Ki** | Monarca | Durok | Veto sobre contratos de mineração |
 | **Mestre dos Contratos (Gush Dur)** | Juiz-chefe | Ouric | Interpreta a lei contratual |
 | **Mestre das Minas (Gush Kur)** | Chefe de mineração | Gromm | Regula extração e segurança |
 | **Casa Ferrum** | Nobreza | Lorde Ferrum | Controla 30% das minas de ferro |
@@ -345,18 +345,18 @@ Nada em Terraxis é decidido por voto popular. Tudo é decidido por **contrato**
 
 Se um assento recusa assinar, o contrato não passa. Isto significa que **qualquer membro do Conselho tem poder de veto absoluto** — e, na prática, o Conselho vive em impasse permanente.
 
-### 5.3 O Lugal Ki Torgath
+### 5.3 O Lugal Ki Durok
 
-Torgath é o governante de Terraxis, mas seu poder é limitado:
+Durok é o governante de Terraxis, mas seu poder é limitado:
 
-- **Nome:** Lugal Ki Torgath (*Tor* = montanha, *gath* = fortaleza)
+- **Nome:** Lugal Ki Durok (*Tor* = montanha, *gath* = fortaleza)
 - **Idade:** 52 valens
 - **Tempo de governo:** 18 valens
 - **Personalidade:** Prático, bruto, sem sutilezas diplomáticas
 
-Torgath chegou ao poder após seu pai ser morto em um **desabamento nas minas** que, segundo rumores, não foi acidental. Ele governa com punho de pedra, mas sua verdadeira lealdade é a Terraxis — não às Casas, não aos contratos, não aos Duri.
+Durok chegou ao poder após seu pai ser morto em um **desabamento nas minas** que, segundo rumores, não foi acidental. Ele governa com punho de pedra, mas sua verdadeira lealdade é a Terraxis — não às Casas, não aos contratos, não aos Duri.
 
-Diferente de outros governantes, Torgath não é um aristocrata de Kun Gal Uru:
+Diferente de outros governantes, Durok não é um aristocrata de Kun Gal Uru:
 - Anda com as mãos sujas de minério
 - Come o mesmo pão de pedra que os mineiros
 - Dorme no nível 10 quando quer "sentir o pulso da mina"
@@ -625,7 +625,7 @@ Oficialmente, Terraxis aboliu a escravidão há 800 valens. Na prática:
 
 | Nível | Nome | % da População | Quem |
 |:-----:|------|:--------------:|------|
-| **1** | Mestres de Ofício | 0.5% | Chefes das Casas Mineradoras, Conselheiros, Torgath |
+| **1** | Mestres de Ofício | 0.5% | Chefes das Casas Mineradoras, Conselheiros, Durok |
 | **2** | Nobreza Menor | 4.5% | Parentes de Casas, burocratas de alto escalão, juízes |
 | **3** | Artesãos de Elite | 8% | Armeiros, lapidadores, engenheiros de mina, mestres ferreiros |
 | **4** | Comerciantes | 12% | Mercadores, transportadores, donos de taverna |
@@ -738,9 +738,9 @@ Vorn é um veterano de 30 valens de serviço:
 - **Ascensão:** Alistou-se na Guarda aos 25 — em 5 anos era Mestre de Armadura
 - **Comandante:** Há 15 valens
 
-Vorn é leal a Terraxis acima de Torgath. Ele sabe que o Conselho está podre, mas acredita que a Guarda deve proteger o reino, não a Kun Zagin. Seu lema: *"A rocha não escolhe lado. A rocha simplesmente sustenta."*
+Vorn é leal a Terraxis acima de Durok. Ele sabe que o Conselho está podre, mas acredita que a Guarda deve proteger o reino, não a Kun Zagin. Seu lema: *"A rocha não escolhe lado. A rocha simplesmente sustenta."*
 
-Sua história pessoal é trágica: sua filha mais nova, Lira, morreu aos 16 valens em um desabamento na Mina do Abismo — o mesmo desabamento que matou o pai de Torgath. Desde então, Vorn nunca mais sorriu. Ele não odeia as Casas — ele simplesmente as despreza. Para ele, todo Mestre de Ofício que senta no Conselho enquanto crianças morrem nas minas é um assassino.
+Sua história pessoal é trágica: sua filha mais nova, Lira, morreu aos 16 valens em um desabamento na Mina do Abismo — o mesmo desabamento que matou o pai de Durok. Desde então, Vorn nunca mais sorriu. Ele não odeia as Casas — ele simplesmente as despreza. Para ele, todo Mestre de Ofício que senta no Conselho enquanto crianças morrem nas minas é um assassino.
 
 ### 10.8 Grandes Batalhas da Aga Kur
 
@@ -1017,16 +1017,16 @@ Diferente de Umbra (onde os Nihilaryth controlam o governo abertamente), em Terr
 
 1. **Contaminar a Aetherite** — Introduzir Aetherite Negra no estoque mundial, corrompendo a RRA e os geradores de plasma de Fulmora
 2. **Radicalizar os Nu Dur Im** — Transformar o ressentimento em revolta armada, desestabilizando o Conselho
-3. **Corromper Torgath** — Substituir o Lugal Ki por um joguete sob seu controle (Ouric seria ideal)
+3. **Corromper Durok** — Substituir o Lugal Ki por um joguete sob seu controle (Ouric seria ideal)
 4. **Abrir o Selo de Galamar** — Libertar Vor'Gath (ou o que restou dele) das profundezas
 
-Até agora, o passo 1 está em andamento (sabe-se que Aetherite Negra chegou a Fulmora disfarçada de Aetherite pura), o passo 2 está avançado (o Punho da Terra recruta ativamente), o passo 3 não começou (Torgath é difícil de corromper), e o passo 4 é o objetivo final — mas ninguém fora do Conselho sabe que o Selo existe.
+Até agora, o passo 1 está em andamento (sabe-se que Aetherite Negra chegou a Fulmora disfarçada de Aetherite pura), o passo 2 está avançado (o Punho da Terra recruta ativamente), o passo 3 não começou (Durok é difícil de corromper), e o passo 4 é o objetivo final — mas ninguém fora do Conselho sabe que o Selo existe.
 
 ### 13.10 A Reação do Conselho
 
 O En Dur Kun **sabe** da infiltração Nihilaryth — mas escolhe ignorá-la:
 
-- **Torgath:** Quer agir, mas está amarrado pelo Conselho. Sabe que Ouric documenta tudo em segredo. Desconfia da Casa Petra.
+- **Durok:** Quer agir, mas está amarrado pelo Conselho. Sabe que Ouric documenta tudo em segredo. Desconfia da Casa Petra.
 - **Ouric:** Documenta tudo, não faz nada — "provas não são contratos". Na verdade, Ouric tem um **plano pessoal**: usar a crise para reformar o sistema contratual após a ameaça passar, ganhando poder no processo.
 - **Casas:** Negam que exista (abrir investigação prejudicaria os negócios). Casa Petra suspeita que a Aetherite Negra está afetando o preço do cristal puro — mas prefere não investigar para não assustar compradores.
 - **Aga Kur:** Vorn tem uma lista de suspeitos, mas não pode prender sem ordem do Conselho. Ele mantém a lista no peito, debaixo da armadura, esperando o momento certo.
@@ -1053,7 +1053,7 @@ Este plano levou 5 valens para ser implementado. Estima-se que, hoje, **15% da A
 |:---:|----------|----------------------|-------------------|
 | **1º** (Primavera) | **Abertura das Minas (Kur Gibil)** | Renovação do ciclo de trabalho, benção sobre os túneis | Cerimônia onde Mestres benzem novos veios; daen sem trabalho |
 | **2º** | **Festa do Pão de Pedra** | Partilha comunitária do primeiro pão do ano | Feira onde pão é vendido a preço fixo (controlado pelo Conselho) |
-| **4º** | **Dia do Mineiro** | Honrar os mortos nas minas, reconhecer os vivos | Discurso de Torgath, medalhas para Mestres, salário extra (para quem tem contrato) |
+| **4º** | **Dia do Mineiro** | Honrar os mortos nas minas, reconhecer os vivos | Discurso de Durok, medalhas para Mestres, salário extra (para quem tem contrato) |
 | **6º** | **Noite da Pedra** | A celebração dos Duri — vigília silenciosa na montanha | Os Duri acendem fogueiras no Templo da Primeira Pedra; silêncio absoluto por 12 velares |
 | **7º** | **Roda do Mar-tu (Gish Simug)** | Original: trabalho comunitário. Atual: torneio de ferreiros | Competição de forja; o vencedor ganha um contrato vitalício com uma Casa |
 | **9º** | **Colheita de Cristal** | Festa da primeira Aetherite extraída na temporada | Leilão de Aetherite bruta; a Casa que paga mais leva o lote |
@@ -1167,7 +1167,7 @@ A relação entre Terraxis e Pyralis é de **desconfiança mútua temperada por 
 ### 15.3 A Posição de Terraxis na RRA
 
 - Terraxis **votou a favor** da RRA (capítulo 10)
-- Torgath discursou: *"Aetherite move o mundo. Que a RRA mova as palavras."*
+- Durok discursou: *"Aetherite move o mundo. Que a RRA mova as palavras."*
 - A torre de Terraxis foi construída na Fortaleza de Fronteira (fronteira com Sanctrum)
 - Terraxis **não tem interesse** em expandir a RRA para leste ou norte — não quer que Fulmora ou Pyralis tenham comunicação mais rápida que eles
 
@@ -1231,7 +1231,7 @@ O Acampamento é uma **ferida aberta** no lado de Durok — visível do Nível 1
 | **~3.600 E.D.** | Ascensão da Casa Petra como Casa dominante |
 | **~3.900 E.D.** | Primeiros sinais de infiltração Nihilaryth nas minas |
 | **~4.000 E.D.** | Mina Negra abandonada após crise de Aethra |
-| **4.085 E.D.** | Torgath assume como Lugal Ki |
+| **4.085 E.D.** | Durok assume como Lugal Ki |
 | **4.101 E.D.** | Roubo de 200 kg de Aetherite pelo Punho da Terra |
 | **4.103 E.D. (Atualidade)** | Tensão crescente entre Conselho, Nu Dur Im, Duri e Nihilaryth |
 

@@ -377,7 +377,7 @@ Audin, Lyrdin, Nydin, Eldin, Vendin, Ilydin, Zidin
 | **Sanctrum** | Aurelius Lumivael | En Me | Sanctrum | Luz/Éter |
 | **Thalassia** | Kaelia Marethyus | Nin A | Maré de Cristal | Água |
 | **Pyralis** | Ignar Vulkarys | Lugal Izi | Monte Pyralis | Fogo |
-| **Terraxis** | Torgath | Lugal Ki | Fortaleza de Rocha | Terra |
+| **Terraxis** | Durok | Lugal Ki | Fortaleza de Rocha | Terra |
 | **Fulmora** | Zerynthia | Nin Nim | Torre do Céu | Raio |
 | **Umbra** | Varek Nythor | — | Cidadela Sombria | Sombra |
 

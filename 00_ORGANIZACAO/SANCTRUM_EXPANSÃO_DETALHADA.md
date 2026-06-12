@@ -358,9 +358,9 @@ Com o tempo, o Conselho evoluiu de órgão consultivo para **órgão governante*
 | Assento | Título Sanctrino | Símbolo | Função | Atual Ocupante |
 |---------|-----------------|---------|--------|---------------|
 | **1** | En Me | Sol Radiante | Líder supremo, Guardião Mestre | **Aurelius Lumivael** |
-| **2** | Me Gish | Espada de Luz | Comandante militar, defesa | **Comandante Valtheris** |
-| **3** | Me Zagin | Livro Aberto | Educação, arquivos, pesquisa | **Mestre Ouric** |
-| **4** | Me Sha | Balança | Justiça, tribunais, leis | **Juíza Selynis** |
+| **2** | Me Gish | Espada de Luz | Comandante militar, defesa | **Comandante Kaelen** |
+| **3** | Me Zagin | Livro Aberto | Educação, arquivos, pesquisa | **Mestre Caldris** |
+| **4** | Me Sha | Balança | Justiça, tribunais, leis | **Juíza Thessaly** |
 | **5** | Me Dur | Raiz | Agricultura, provisões, território | **Senhora Terra** |
 | **6** | Me Nam | Máscara | Relações exteriores, diplomacia | **Embaixador Lian** |
 | **7** | Me Gibil | Fênix | Renovação, reconstrução (pós-guerra) | **Mestre das Obras** |
@@ -381,7 +381,7 @@ Aurelius é o **33º En Me** de Sanctrum e o mais poderoso aetheriano vivo. Sua 
 - **Segredo:** É pai de **Alyndra** com **Ayla Marethyus**, fruto de um amor proibido entre reinos. Sacrificou o direito de criar a filha para protegê-la. Envia recursos ao Orfanato Luminis através de canais secretos
 - **Relação com Velatrix:** Confia nela como não confia em ninguém mais. Eles compartilham o segredo de Alyndra
 
-#### 5.3.2 Comandante Valtheris — Me Gish (Assento 2)
+#### 5.3.2 Comandante Kaelen — Me Gish (Assento 2)
 
 - **Função:** Chefe militar da En Me Du
 - **Personalidade:** Rígido, disciplinado, leal a Sanctrum acima de tudo
@@ -389,7 +389,7 @@ Aurelius é o **33º En Me** de Sanctrum e o mais poderoso aetheriano vivo. Sua 
 - **Conflito:** Desconfia de Aurelius — acha que o En Me é "misterioso demais" e "esconde coisas". Não sabe sobre Alyndra
 - **Lealdade:** À Ordem, não a Aurelius pessoalmente
 
-#### 5.3.3 Mestre Ouric — Me Zagin (Assento 3)
+#### 5.3.3 Mestre Caldris — Me Zagin (Assento 3)
 
 - **Função:** Supervisor da educação e arquivos
 - **Personalidade:** Erudito, burocrata, defensor ferrenho da "pureza doutrinária"
@@ -397,7 +397,7 @@ Aurelius é o **33º En Me** de Sanctrum e o mais poderoso aetheriano vivo. Sua 
 - **Papel:** Supervisiona a censura de livros e a reescrita da história oficial
 - **Lealdade:** À doutrina oficial de Sanctrum — acredita sinceramente que está preservando a verdade
 
-#### 5.3.4 Juíza Selynis — Me Sha (Assento 4)
+#### 5.3.4 Juíza Thessaly — Me Sha (Assento 4)
 
 - **Função:** Juíza-chefe de Sanctrum
 - **Personalidade:** Justa, inflexível, incorruptível (o que a torna perigosa)
@@ -454,16 +454,16 @@ Aurelius é o **33º En Me** de Sanctrum e o mais poderoso aetheriano vivo. Sua 
 - **Aparência:** Sempre vestida de branco imaculado, rosto coberto por véu. Voz suave, quase musical. Movimentos fluídos, como se dançasse
 - **História no Conselho:** Entrou como "representante do povo" há 12 valens, quando o assento original (ocupado por um velho estudioso que questionava a doutrina) foi "removido" em circunstâncias convenientes
 - **Objetivo:** Corromper o Conselho por dentro, lentamente, décadas de influência sutil. Aproximar Sanctrum das sombras
-- **Quem sabe:** Aurelius **suspeita**, mas não tem provas. Velatrix **confirmou** através de informantes, mas não pode expor sem comprometer suas fontes. Juíza Selynis **desconfia** mas não sabe o quê
+- **Quem sabe:** Aurelius **suspeita**, mas não tem provas. Velatrix **confirmou** através de informantes, mas não pode expor sem comprometer suas fontes. Juíza Thessaly **desconfia** mas não sabe o quê
 - **Método:** Sugere políticas que parecem razoáveis mas criam divisão. Incentiva a perseguição ao Culto (sabendo que isso gera mais simpatizantes). Vota a favor de medidas que isolam Sanctrum diplomaticamente
 
 ### 5.4 A Dinâmica do Conselho
 
 | Facção | Membros | Objetivo |
 |--------|---------|----------|
-| **Puristas** | Valtheris, Ouric, Senhora Terra | Manter Sanctrum puro, hierarquia rígida, doutrina inflexível |
+| **Puristas** | Kaelen, Caldris, Senhora Terra | Manter Sanctrum puro, hierarquia rígida, doutrina inflexível |
 | **Moderados** | Verena, Lian, Mestre das Obras | Flexibilizar, negociar, evitar guerras desnecessárias |
-| **Incorruptível** | Selynis | A lei acima de tudo — nem purista nem moderada |
+| **Incorruptível** | Thessaly | A lei acima de tudo — nem purista nem moderada |
 | **Sombra** | Velatrix (via representante) | Vigiar todos, não se alinhar |
 | **Infiltração** | Mulher de Branco | Corromper, dividir, enfraquecer |
 | **Acima de todos** | Aurelius | Equilibrar as facções, proteger Alyndra, manter Sanctrum unido |
@@ -622,7 +622,7 @@ Os **Olhos de Luz** (*Isi Zagin*) são os responsáveis pela vigilância interna
 
 A **Mão Pálida** (*Shu Babbar*) é a unidade mais secreta e temida da Velatrix, encarregada de executar as operações mais sombrias e sensíveis de Sanctrum.
 
-*   **Composição e Lealdade:** Seus agentes são selecionados entre os Guardiões do Círculo do Raio que demonstraram desapego emocional absoluto. Passam por um processo alquímico-arcano secreto conduzido por Valtheris, que apaga suas memórias passadas e restringe seu Aethra apenas à obediência de comandos. Vestem mantos brancos sem adornos e usam máscaras de porcelana sem feições.
+*   **Composição e Lealdade:** Seus agentes são selecionados entre os Guardiões do Círculo do Raio que demonstraram desapego emocional absoluto. Passam por um processo alquímico-arcano secreto conduzido por Kaelen, que apaga suas memórias passadas e restringe seu Aethra apenas à obediência de comandos. Vestem mantos brancos sem adornos e usam máscaras de porcelana sem feições.
 *   **Operações Clandestinas:** A Mão Pálida opera fora de toda jurisprudência civil e da Ordem dos Guardiões. Suas missões principais envolvem o assassinato silencioso de heréticos de alta linhagem, sequestro de alvos de interesse que possuam alta densidade de Aethra, e a proteção extrema dos repetidores centrais da RRA.
 *   **Segurança das Instalações RRA:** Eles guardam os laboratórios subterrâneos onde Sanctrum realiza testes de canalização de Aethra corrompido para alimentar armas experimentais. Se qualquer técnico ou Guardião tentar expor estes experimentos proibidos, a Mão Pálida o elimina antes que ele saia das instalações.
 
@@ -1051,9 +1051,9 @@ Os **Nihil Shid** (Emê-Gir: "Aqueles que Sussurram na Sombra") são agentes Nih
 
 | Agente | Posição | Nível de Infiltração | Conhecido por |
 |--------|---------|:--------------------:|---------------|
-| **Xaryntha** (A Sussurrante) | Mulher de Branco (Assento 10) | **Total** | Aurelius suspeita; Velatrix confirmou; Selynis desconfia |
-| **Voz Sem Rosto** | Ajudante do Mestre Ouric (Arquivos) | **Alto** | Velatrix monitora |
-| **Mão Pálida** | Guarda pessoal de Valtheris | **Médio** | Desconhecido |
+| **Xaryntha** (A Sussurrante) | Mulher de Branco (Assento 10) | **Total** | Aurelius suspeita; Velatrix confirmou; Thessaly desconfia |
+| **Voz Sem Rosto** | Ajudante do Mestre Caldris (Arquivos) | **Alto** | Velatrix monitora |
+| **Mão Pálida** | Guarda pessoal de Kaelen | **Médio** | Desconhecido |
 | **Sussurro Dourado** | Funcionário da RRA | **Médio** | Velatrix suspeita |
 | **Olho Vazio** | Informante na Cidade Baixa | **Baixo** | Desconhecido |
 
@@ -1071,7 +1071,7 @@ Xaryntha, a Sussurrante, ocupa a casca de uma mulher sanctrina de 40 valens cham
 **Métodos:**
 - Nunca vota abertamente contra Aurelius (sempre encontra uma justificativa)
 - Sugere políticas extremas de forma indireta: "Talvez devêssemos considerar..."
-- Cultiva aliados entre os Puristas (Valtheris, Ouric)
+- Cultiva aliados entre os Puristas (Kaelen, Caldris)
 - Isola os Moderados (Verena, Lian) espalhando boatos
 - Mantém um "séquito" de assistentes que são todos agentes Nihil Shid
 
@@ -1116,7 +1116,7 @@ Aurelius sabe que a Mulher de Branco é uma infiltrada há 6 valens (confirmado 
 - O método seria um "acidente" — queda da Torre, envenenamento disfarçado de doença
 - Aurelius prefere não chegar a este ponto (criaria um vácuo de poder e alertaria outros Nihil Shid)
 
-**O Dilema:** Aurelius não pode expulsar a Mulher de Branco sem provas irrefutáveis — os Puristas do Conselho (Valtheris, Ouric) a apoiam. Se agir sem provas, causará uma crise política. Se esperar tempo demais, ela pode executar seu plano.
+**O Dilema:** Aurelius não pode expulsar a Mulher de Branco sem provas irrefutáveis — os Puristas do Conselho (Kaelen, Caldris) a apoiam. Se agir sem provas, causará uma crise política. Se esperar tempo demais, ela pode executar seu plano.
 
 ### 14.6 Quem Está Contra a Infiltração
 
@@ -1124,10 +1124,10 @@ Aurelius sabe que a Mulher de Branco é uma infiltrada há 6 valens (confirmado 
 |--------|:-----:|-----------|
 | **Aurelius** | Suspeita fortemente | Não age sem provas concretas; protege Alyndra como prioridade |
 | **Velatrix** | Confirmou | Mantém vigilância; prepara um dossiê; aguarda ordem de Aurelius |
-| **Juíza Selynis** | Desconfia | Investigou Lysanna Vael por conta própria; encontrou inconsistências |
+| **Juíza Thessaly** | Desconfia | Investigou Lysanna Vael por conta própria; encontrou inconsistências |
 | **Matriarca Verena** | Desconfia | Aliada de Aurelius; tenta neutralizar a influência da Mulher de Branco |
-| **Valtheris** | Não sabe | É manipulado pela Mulher de Branco (inconscientemente) |
-| **Ouric** | Não sabe | É manipulado (seu assistente é Nihil Shid) |
+| **Kaelen** | Não sabe | É manipulado pela Mulher de Branco (inconscientemente) |
+| **Caldris** | Não sabe | É manipulado (seu assistente é Nihil Shid) |
 
 ---
 

@@ -40,7 +40,7 @@ Uso recomendado:
 | Sanctrum | Luz / ordem / engenharia eterica | Sanctrum, Torre de Aurion, Salao dos Ventos | Aurelius Lumivael | Planalto luminoso, florestas claras, lagos de cristal, minas de Aetheris | Centro politico e espiritual; lugar onde decisao vira lei continental |
 | Sylvaris | Vento / liberdade / refugio | Zephyra; Velantis como polo narrativo | Thaloris Ventaris | Campos de Aethrys, florestas de Argentis, falesias de sal, pantanos sussurrantes, colinas de vento | Berco de Alyndra; reino da camuflagem social e da aparente paz |
 | Pyralis | Fogo / forja / disciplina | Monte Pyralis | Ignar Vulkarys | Vulcoes, planicies de cinza, rios de lava, cavernas de obsidiana, costa fria | Potencia militar; cultura de dureza e sucessao pela forja |
-| Terraxis | Terra / mineracao / contrato | Fortaleza de Rocha | Torgath | Cordilheiras, desfiladeiros, minas de Aetherite, desertos de pedra, vales termais | Economia mineral; barganha politica; fonte da infraestrutura da RRA |
+| Terraxis | Terra / mineracao / contrato | Fortaleza de Rocha | Durok | Cordilheiras, desfiladeiros, minas de Aetherite, desertos de pedra, vales termais | Economia mineral; barganha politica; fonte da infraestrutura da RRA |
 | Fulmora | Raio / invencao / instabilidade | Torre do Ceu | Zerynthia | Planaltos ionizados, desertos de sal, torres voadoras, campos de plasma, tempestades perpetuas | Motor tecnologico; reino mais seduzivel por promessas de progresso |
 | Thalassia | Agua / memoria / linhagem | Mare de Cristal; Reino Submerso como ferida historica | Kaelia Marethyus | Arquipelagos, corais, lagoas, abismos, manguezais luminosos | Linhagem de Ayla; lealdade a Sanctrum; memoria de perdas submersas |
 | Umbra | Sombra / gelo / infiltracao | Cidadela Sombria | Varek Nythor, chamado em notas internas de En Nu Me (Governante Vazio) | Tundra escura, gelo negro, florestas petrificadas, montanhas de obsidiana, fendas para Nihilaryth | Antagonismo politico; superficie diplomatica de uma vontade subterranea |
@@ -164,7 +164,7 @@ Uso recomendado:
 | Trilhos de Vento de Sylvaris | Velantis, Zephyra, Thalendris, Mespiria | Conselho de Correntes e patrulhas Aga Uru | Sabotagem de Aetherite, tempestades de vento, emboscadas em estacoes rurais | Viagens de orfanato, fuga discreta, espionagem |
 | Corredor de Vaelantor | Sylvaris, Sanctrum, Terraxis | Portos civis e fiscalizacao sanctrina | Tempestades, pirataria, monstros marinhos, atrasos de alfandega | Comercio e deslocamento continental |
 | Enseadas de Thyravalis | Costa oeste de Sylvaris para rotas discretas ao sul e ao Mar de Vaelantor | Patrulhas locais, contrabandistas e Tar-Gig | Nevoeiro, maré alta, falésias de sal, guias falsos | Rota Fantasma, exilio, travessia secreta |
-| Estrada das Minas | Terraxis para Sanctrum | Casas mercantis de Torgath | Colapso, roubo de Aetherite, contratos abusivos | Politica economica da RRA |
+| Estrada das Minas | Terraxis para Sanctrum | Casas mercantis de Durok | Colapso, roubo de Aetherite, contratos abusivos | Politica economica da RRA |
 | Rota das Torres | Fulmora para Sanctrum | Engenheiros fulmorianos e guardas da Ordem | Raios, interferencia, espionagem tecnica | Instalar/reparar RRA |
 | Cinturao de Corais | Thalassia externa para Mare de Cristal | Frota de Vaelor e navegadores thalassianos | Recifes vivos, nevoeiro, culto do abismo | Controle de acesso a Thalassia |
 | Costa dos Ossos | Umbra para mares frios | Varek Nythor oficialmente; Nihilaryth na pratica | Gelo negro, naufragios, patrulhas silenciosas | Entrada antagonica sem declaracao de guerra |
@@ -280,7 +280,7 @@ Sylvaris se abre para o Mar de Lyria a oeste, onde fica a Costa de Thyravalis, e
 **Localizacao:** Centro-leste de Nova Aetherion
 **Extensao:** ~200.000 Passos quadrados (segundo maior territorio)
 **Capital:** Fortaleza de Rocha (cidade escavada na montanha, 7 niveis)
-**Governante:** Lugal Ki Torgath, Senhor da Terra
+**Governante:** Lugal Ki Durok, Senhor da Terra
 **Clima:** Quatro zonas — Montanhas Centrais (frias), Planalto Pedregoso (temperado seco), Deserto de Pedra (arido), Costa Sul (maritima amena)
 **Caracteristicas:** Cordilheira de Kur-Martu (picos de 6.200 Passos), Deserto de Pedra (50.000 Passos quadrados de rocha lisa), Desfiladeiro de Karrak, Abismo dos Ecos, Minas de Aetherite
 **Populacao:** ~2.8 milhoes
@@ -1184,7 +1184,7 @@ A política do continente é decidida pela postura dos líderes de cada reino fr
 1. **Sanctrum Prime (Centro):** O reino central, dominado pelo Planalto Global e governado diretamente pelo Guardião Mestre (Aurelius). Sede de Sanctrum.
 2. **Sylvaris (Sudoeste):** O Reino do Vento. Governado por **Thaloris Ventaris** (*Lugal Lil*). Adota uma fachada de Kun Zagin fútil, mas secretamente orquestra redes de espionagem e tráfico de talentos elementais. *(Ver documento detalhado expandido: `02_Geografia_e_Reinos/Reino_de_Sylvaris.md`)*
 3. **Pyralis (Norte/Noroeste):** O Reino do Fogo. Governado pelo **Lugal Izi Ignar Vulkarys** (*Lugal Izi*). O maior poder militar bruto. Mantém uma **neutralidade rígida**, focado em transformar sua filha (Elainy) na guerreira perfeita para o próximo Grande Duelo Divino.
-4. **Terraxis (Centro-Leste):** O Reino da Terra. Governado pelo **Lugal Torgath** (*Lugal Ki*). Detém o monopólio das minas de Aetherite. Mantém uma **neutralidade comercial**, barganhando poder com Sanctrum em troca de cristais.
+4. **Terraxis (Centro-Leste):** O Reino da Terra. Governado pelo **Lugal Durok** (*Lugal Ki*). Detém o monopólio das minas de Aetherite. Mantém uma **neutralidade comercial**, barganhando poder com Sanctrum em troca de cristais.
 5. **Fulmora (Nordeste):** O Reino do Raio. Governado pela **Matriarca Zerynthia** (*Nin Nim*). Impaciente e incisiva, apoia o avanço tecnológico, mas seu reino está sendo silenciosamente corrompido pelas promessas de Umbra.
 6. **Umbra (Extremo Norte):** O Reino da Sombra e do Gelo. Lar do Sindicato do Gelo Negro. Governado por um **En Nu Me** (Governante Vazio) que se mostra dócil nas reuniões em Sanctrum, mas que secretamente manipula Fulmora e Sylvaris para desestabilizar a Ordem.
 7. **Thalassia (Sudeste):** O Reino da Água. Governado pela **Nin Kaelia Marethyus** (*Nin A*), a irmã mais velha de Ayla. É o único reino incondicionalmente **leal** a Sanctrum, embora Kaelia carregue o luto pela irmã desaparecida, sem saber que o Guardião Mestre é o motivo da fuga de Ayla.
@@ -5751,7 +5751,7 @@ No ultimo dia de cada Verao Ardente (quando as erupcoes vulcanicas sao mais inte
 
 **Nome oficial:** Reino Terraxis / O Reino da Terra
 **Capital:** Fortaleza de Rocha
-**Governante:** Lugal Ki Torgath, Senhor da Terra
+**Governante:** Lugal Ki Durok, Senhor da Terra
 **Lema:** *"Pedra nao falha. Contrato nao quebra. Palavra dada e divida eterna."*
 **Populacao estimada:** ~2.8 milhoes de almas (continente + colonias mineiras)
 **Extensao territorial:** ~200.000 Passos quadrados (o segundo maior territorio de Nova Aetherion)
@@ -5832,7 +5832,7 @@ A maior cadeia montanhosa de Terraxis, estendendo-se por 15.000 Passos de norte 
 **Picos Principais:**
 | Pico | Altura | Significado |
 |------|:------:|-------------|
-| **Mar-tu de Durok** | 6.200 Passos | Ponto mais alto de Terraxis; dizem que Torgath subiu la para falar com os Seraphyens |
+| **Mar-tu de Durok** | 6.200 Passos | Ponto mais alto de Terraxis; dizem que Durok subiu la para falar com os Seraphyens |
 | **Bigorna do Ceu** | 5.800 Passos | Pico achatado como uma bigorna; usado para rituais |
 | **Dedo de Pedra** | 5.400 Passos | Pico fino e agudo como um dedo apontando |
 | **Torre dos Ventos** | 5.100 Passos | Pico onde os ventos criam sons musicais |
@@ -5970,13 +5970,13 @@ Fortaleza de Rocha e a capital de Terraxis, com aproximadamente 400.000 habitant
 
 ### 4.3 O Kun Gal Uru Real (Palatium Regis)
 
-Residencia do Lugal Torgath e centro do governo de Terraxis:
-1. **Sala do Mar-tu** — Sala do Gal Lugal; um malho de pedra de 3 Passos repousa ao lado do Gal Lugal de Torgath
-2. **Camaras Reais** — Aposentos de Torgath, escavados na rocha mais profunda
+Residencia do Lugal Durok e centro do governo de Terraxis:
+1. **Sala do Mar-tu** — Sala do Gal Lugal; um malho de pedra de 3 Passos repousa ao lado do Gal Lugal de Durok
+2. **Camaras Reais** — Aposentos de Durok, escavados na rocha mais profunda
 3. **Sala dos Mapas** — Mapas de todas as minas de Terraxis
 4. **Arquivo dos Contratos** — Todos os contratos oficiais dos ultimos 200 valens
-5. **Forja Real** — Torgath mesmo forja suas proprias armas
-6. **Sala do Conselho** — Onde Torgath reune os Mestres de Oficio
+5. **Forja Real** — Durok mesmo forja suas proprias armas
+6. **Sala do Conselho** — Onde Durok reune os Mestres de Oficio
 7. **Torre de Vigia** — Ponto mais alto da Fortaleza, vista para todo o Planalto
 8. **Sala da Memoria** — Reliquias Seraphyen da epoca de Petros
 
@@ -6144,7 +6144,7 @@ Os Duri (singular: Duro) — membros da **Casa Durok** e suas ramificacoes — s
 
 **O Contrato de Sangue:** Quando um Duro faz um juramento solene, ele corta a palma da mao e aperta a mao de quem recebe o juramento. O sangue misturado sela o pacto. Quebrar um Contrato de Sangue e a pior traicao que um Duro pode cometer.
 
-**A Jornada da Forja:** Aos 15 valens, todo Duro deve passar um valen como aprendiz em uma forja, mina ou estaleiro, independentemente de sua classe social. A Jornada da Forja ensina o valor do trabalho manual. Mesmo o Dumu Gal de Torgath passa um valen nas minas.
+**A Jornada da Forja:** Aos 15 valens, todo Duro deve passar um valen como aprendiz em uma forja, mina ou estaleiro, independentemente de sua classe social. A Jornada da Forja ensina o valor do trabalho manual. Mesmo o Dumu Gal de Durok passa um valen nas minas.
 
 **O Enterro na Pedra:** Quando um Duro morre, seu corpo e colocado em uma cavidade escavada na rocha, coberto com minerais que ele mais amava em vida, e selado com pedra e argamassa. Acredita-se que o espirito do Duro retorna a pedra de onde veio e que, um dia, sera extraido como um novo mineral por alguem que precisa dele.
 
@@ -6233,30 +6233,30 @@ Petros (Seraphyen da Terra, desaparecido)
 ├── Primeiros Lugal-e Duri (linhagem semi-mitica)
 │   └── ...
 │       └── ...
-│           └── Lugal Torgath, atual Lugal Ki
+│           └── Lugal Durok, atual Lugal Ki
 │               ├── Dumu Lugal Thorin Durok (Dumu Gal, 45 valens)
 │               ├── Dumu Nin Helga Durok (comandante militar, 42 valens)
 │               └── Dumu Lugal Bortak Durok (Mestre das Minas, 38 valens)
 │                   └── (netos: Dreng, 15; Myra, 12)
 ```
 
-### 8.2 Lugal Torgath — O Senhor da Terra
+### 8.2 Lugal Durok — O Senhor da Terra
 
 Atual governante de Terraxis, com 120 valens de idade. Baixo, largo como um escudo, pele como granito cinzento, cabelos e barba negros salpicados de branco. Direto, comerciante nato, fala com a lentidão de quem pesa cada palavra. Neutro — vende Aetherite para todos. Nao confia em politicos — confia em contratos.
 
 **Historia:**
-Torgath assumiu o Gal Lugal ha 80 valens, apos a morte de seu pai em um desabamento na Mina-Mae. Desde entao, triplicou a producao de Aetherite de Terraxis, modernizou as tecnicas de mineração e estabeleceu rotas comerciais com todos os sete reinos. Sob seu governo, Terraxis tornou-se a **economia mais estavel de Nova Aetherion**.
+Durok assumiu o Gal Lugal ha 80 valens, apos a morte de seu pai em um desabamento na Mina-Mae. Desde entao, triplicou a producao de Aetherite de Terraxis, modernizou as tecnicas de mineração e estabeleceu rotas comerciais com todos os sete reinos. Sob seu governo, Terraxis tornou-se a **economia mais estavel de Nova Aetherion**.
 
 **Personalidade:**
-Torgath e conhecido por sua **teimosia lendaria** — uma vez que decide algo, nem todos os ventos de Sylvaris o moverao. Mas tambem e justo: paga bem, cobra bem, e nunca, em 80 valens, quebrou um contrato. Seu aperto de mao e mais forte que a assinatura de qualquer nobre de Sanctrum.
+Durok e conhecido por sua **teimosia lendaria** — uma vez que decide algo, nem todos os ventos de Sylvaris o moverao. Mas tambem e justo: paga bem, cobra bem, e nunca, em 80 valens, quebrou um contrato. Seu aperto de mao e mais forte que a assinatura de qualquer nobre de Sanctrum.
 
 ### 8.3 Principe Thorin Durok — O Dumu Gal
 
-Filho mais velho de Torgath, 45 valens. Passou a Jornada da Forja nas minas mais profundas e carrega cicatrizes de desabamentos e encontros com Urraks. Mais diplomatico que o pai — prefere negociar a impor. Dizem que Torgath o considera "mole demais", mas Thorin ja provou seu valor em batalha contra piratas do Mar de Vaelantor.
+Filho mais velho de Durok, 45 valens. Passou a Jornada da Forja nas minas mais profundas e carrega cicatrizes de desabamentos e encontros com Urraks. Mais diplomatico que o pai — prefere negociar a impor. Dizem que Durok o considera "mole demais", mas Thorin ja provou seu valor em batalha contra piratas do Mar de Vaelantor.
 
 ### 8.4 Dumu Nin Helga Durok — A Comandante
 
-Filha do meio, 42 valens. Comandante das forcas armadas de Terraxis. Severa, disciplinada, passou 20 valens nas fronteiras lutando contra invasores de Umbra. Nao tem interesse no Gal Lugal — prefere o campo de batalha. Torgath a respeita mais que a qualquer outro filho.
+Filha do meio, 42 valens. Comandante das forcas armadas de Terraxis. Severa, disciplinada, passou 20 valens nas fronteiras lutando contra invasores de Umbra. Nao tem interesse no Gal Lugal — prefere o campo de batalha. Durok a respeita mais que a qualquer outro filho.
 
 ### 8.5 Principe Bortak Durok — O Mestre das Minas
 
@@ -6264,7 +6264,7 @@ Filho caçula, 38 valens. Supervisor-geral de todas as minas de Aetherite. Passa
 
 ### 8.6 Mestre Ouric — O Braco Direito
 
-Nao e Ush Lugal, mas e o Duro mais importante depois de Torgath. Supervisor-geral das Minas de Aetherite, Ouric comecou como minerador comum e subiu ate o topo por merito. Conhece a Mina-Mae como ninguem — dizem que ele sente quando a montanha "esta nervosa". Representou Terraxis na inauguracao da RRA.
+Nao e Ush Lugal, mas e o Duro mais importante depois de Durok. Supervisor-geral das Minas de Aetherite, Ouric comecou como minerador comum e subiu ate o topo por merito. Conhece a Mina-Mae como ninguem — dizem que ele sente quando a montanha "esta nervosa". Representou Terraxis na inauguracao da RRA.
 
 ---
 
@@ -6329,7 +6329,7 @@ Minerar e a profissao mais perigosa de Terraxis. Cerca de 50 Duri morrem por val
 
 ### 10.1 Estrutura de Poder
 
-**Lugal Ki (Senhor da Terra)** — Lugal Torgath
+**Lugal Ki (Senhor da Terra)** — Lugal Durok
 - Monarca com poder absoluto, mas limitado pelo Conselho dos Mestres
 - Sucessao hereditaria (primogenito, mas o Conselho pode vetar)
 
@@ -6368,7 +6368,7 @@ Minerar e a profissao mais perigosa de Terraxis. Cerca de 50 Duri morrem por val
 
 ### 10.4 A Neutralidade Comercial
 
-A politica externa de Terraxis e simples: **vende-se para quem paga**. Torgath nao faz aliancas militares, nao toma partido em conflitos e nao fecha portas para ninguem. Esta neutralidade e tanto uma virtude quanto uma critica:
+A politica externa de Terraxis e simples: **vende-se para quem paga**. Durok nao faz aliancas militares, nao toma partido em conflitos e nao fecha portas para ninguem. Esta neutralidade e tanto uma virtude quanto uma critica:
 
 - **Vantagem:** Terraxis nunca e alvo de guerras (ninguem quer perder o acesso a Aetherite)
 - **Desvantagem:** Terraxis e acusado de alimentar os proprios inimigos (vender Aetherite para Umbra, por exemplo)
@@ -6398,7 +6398,7 @@ A moeda oficial de Terraxis e o **Peso** (plural: **Pesos**). 1 Peso = 100 centa
 | **Centavo de Cobre** | Cobre puro | 0.01 Peso |
 | **Quinto de Prata** | Prata | 0.20 Peso |
 | **Meio-Peso** | Prata com selo de bigorna | 0.50 Peso |
-| **Peso** | Prata pura com selo de Torgath | 1.00 Peso |
+| **Peso** | Prata pura com selo de Durok | 1.00 Peso |
 | **Peso de Ouro** | Ouro com malho cunhado | 10.00 Pesos |
 | **Gema Real** | Granada lapidada em ouro | 100.00 Pesos |
 
@@ -6528,7 +6528,7 @@ Navios mercantes de Terraxis desaparecem nas rotas do extremo leste, nas aguas q
 
 ### 14.2 A Tensão com Umbra
 
-Terraxis vende Aetherite para Umbra — negocios sao negocios. Mas nos ultimos anos, agentes de Umbra foram descobertos tentando infiltrar as minas para roubar tecnologia de extracao. A relacao e tensa: Torgath nao quer perder o cliente, mas tambem nao quer entregar os segredos das minas.
+Terraxis vende Aetherite para Umbra — negocios sao negocios. Mas nos ultimos anos, agentes de Umbra foram descobertos tentando infiltrar as minas para roubar tecnologia de extracao. A relacao e tensa: Durok nao quer perder o cliente, mas tambem nao quer entregar os segredos das minas.
 
 ### 14.3 O Culto da Pedra Viva
 
@@ -6540,7 +6540,7 @@ Seita religiosa que acredita que a mineracao e um sacrilégio contra a terra. Sa
 
 ### 14.5 O Declinio da Aetherite
 
-A producao de Aetherite esta caindo. As veias mais ricas estao se esgotando, e encontrar novas esta cada vez mais dificil e perigoso. Em 50 valens, se novas veias nao forem encontradas, a producao pode cair pela metade. Este e o **maior medo de Torgath** — e o segredo que ele guarda mais proximo do peito.
+A producao de Aetherite esta caindo. As veias mais ricas estao se esgotando, e encontrar novas esta cada vez mais dificil e perigoso. Em 50 valens, se novas veias nao forem encontradas, a producao pode cair pela metade. Este e o **maior medo de Durok** — e o segredo que ele guarda mais proximo do peito.
 
 ---
 
@@ -6568,7 +6568,7 @@ Nas montanhas geladas entre Terraxis e Umbra, um velho de olhos tristes sente o 
 **Teorias:**
 - Um antigo Guardiao Seraphyen que protege a fronteira entre os reinos
 - Um exilado de Umbra que sabe a verdade sobre a Sombra do Vento
-- Um parente distante de Torgath que vive em reclusao voluntaria
+- Um parente distante de Durok que vive em reclusao voluntaria
 - O verdadeiro guardiao do equilibrio entre os Sete Reinos
 
 ### 15.3 A Rota Fantasma
