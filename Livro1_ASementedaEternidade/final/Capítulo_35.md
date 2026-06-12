@@ -192,7 +192,7 @@ Marethyus¹⁷ ergueu a relíquia. A esfera pulsava com uma luz que era quase do
 
 Os dois olhos verdes piscaram.
 
-— Você é uma aberração. Uma ferramenta. Um recipiente que os She-Zuris²² encheram com *nihilarys*¹⁴ e escuridão e nada. Mas sob o nada — sob o nada, Thaloris — ainda há vento. Eu posso senti-lo. Os *nihilarys*¹⁴ não conseguiram corromper tudo. Ainda há Sylvaris¹⁹ dentro de você. Ainda há vento.
+— Você é uma aberração. Uma ferramenta. Um recipiente que os Nihil Shid²² encheram com *nihilarys*¹⁴ e escuridão e nada. Mas sob o nada — sob o nada, Thaloris — ainda há vento. Eu posso senti-lo. Os *nihilarys*¹⁴ não conseguiram corromper tudo. Ainda há Sylvaris¹⁹ dentro de você. Ainda há vento.
 
 A aberração tremeu.
 
@@ -348,7 +348,7 @@ Alyndra¹⁸ olhou para a aberração.
 
 A aberração olhou para Alyndra¹⁸.
 
-Dezesseis olhos contra dois olhos azuis. Milhares de *nihilarys*¹⁴ contra uma torrente de *cryonys*²⁴. A criatura que os She-Zuris²² haviam construído contra a força que eles queriam destruir.
+Dezesseis olhos contra dois olhos azuis. Milhares de *nihilarys*¹⁴ contra uma torrente de *cryonys*²⁴. A criatura que os Nihil Shid²² haviam construído contra a força que eles queriam destruir.
 
 E no rosto de Alyndra¹⁸ — no rosto de uma garota que nunca tinha lutado, que tinha passado toda a vida sendo protegida por outros, que estava sentada no chão de um templo tremendo de medo segundos atrás — havia algo que não era medo, não era raiva, não era desespero.
 
@@ -416,9 +416,9 @@ A herdeira de Thalassia¹³ desperta.
 
 ²¹ **velrok** — Fera lendária marinha colossal; referenciada como analogia para expressar a força da relíquia.
 
-²² **Thaloris Ventaris** — O antigo governante de Sylvaris¹⁹ que se uniu aos She-Zuris²³ em pacto de escuridão.
+²² **Thaloris Ventaris** — O antigo governante de Sylvaris¹⁹ que se uniu aos Nihil Shid²³ em pacto de escuridão.
 
-²³ **She-Zuris** — Organização conspiratória oculta de magos sob a liderança do vazio.
+²³ **Nihil Shid** — Organização conspiratória oculta de magos sob a liderança do vazio.
 
 ²⁴ **giralis** — Flor de pétalas prateadas translúcidas e bioluminescentes nativa de Sylvaris¹⁹.
 
@@ -440,7 +440,7 @@ A herdeira de Thalassia¹³ desperta.
 
 ## 🔮 Previsão: Próximo Capítulo
 
-No capítulo seguinte, Alyndra Marethyus¹⁸ — a herdeira de Thalassia¹³, a portadora do *cryonys*²⁶ que não deveria existir, a garota que despertou — enfrenta a aberração. Não sozinha — Velatrix⁸, mesmo com o *aethra*¹² esgotado, encontra uma última reserva de *thermaris*⁷; Lyris⁴ se levanta da coluna contra a qual foi lançada e empunha a espada; Aldric⁹ agarra a espada fria de Ayla¹⁰ e corre; Urrak¹⁵ se arrasta do chão e ergue o malho. Mas a verdadeira batalha é entre Alyndra¹⁸ e a aberração — entre o *cryonys*²⁶ e os *nihilarys*¹⁴, entre a herdeira de Thalassia¹³ e o que restou de Thaloris Ventaris²². E no coração dessa batalha, algo impossível acontece: os dois olhos verdes de Thaloris — os olhos que se apagaram duas vezes, que foram extintos pela escuridão dos *nihilarys*¹⁴ — brilham de novo. E Alyndra¹⁸, que sente o *cryonys*²⁶ em suas veias e o *aethra*¹² thalassiano em seu sangue e o peso de uma linhagem que afundou com um reino inteiro, faz algo que ninguém — nem Velatrix⁸, nem Marethyus¹⁷, nem os She-Zuris²³ — esperava: ela não luta contra a aberração. Ela fala com ela. Com ele. Com o que resta de Thaloris Ventaris²² dentro da casca de obsidiana e escuridão. E no diálogo entre a herdeira do mar e o senhor dos ventos, um segredo é revelado — um segredo sobre o que os She-Zuris²³ realmente querem, sobre o que Alyndra¹⁸ realmente é, e sobre o que a aberração — a coisa que foi Thaloris — está prestes a fazer.
+No capítulo seguinte, Alyndra Marethyus¹⁸ — a herdeira de Thalassia¹³, a portadora do *cryonys*²⁶ que não deveria existir, a garota que despertou — enfrenta a aberração. Não sozinha — Velatrix⁸, mesmo com o *aethra*¹² esgotado, encontra uma última reserva de *thermaris*⁷; Lyris⁴ se levanta da coluna contra a qual foi lançada e empunha a espada; Aldric⁹ agarra a espada fria de Ayla¹⁰ e corre; Urrak¹⁵ se arrasta do chão e ergue o malho. Mas a verdadeira batalha é entre Alyndra¹⁸ e a aberração — entre o *cryonys*²⁶ e os *nihilarys*¹⁴, entre a herdeira de Thalassia¹³ e o que restou de Thaloris Ventaris²². E no coração dessa batalha, algo impossível acontece: os dois olhos verdes de Thaloris — os olhos que se apagaram duas vezes, que foram extintos pela escuridão dos *nihilarys*¹⁴ — brilham de novo. E Alyndra¹⁸, que sente o *cryonys*²⁶ em suas veias e o *aethra*¹² thalassiano em seu sangue e o peso de uma linhagem que afundou com um reino inteiro, faz algo que ninguém — nem Velatrix⁸, nem Marethyus¹⁷, nem os Nihil Shid²³ — esperava: ela não luta contra a aberração. Ela fala com ela. Com ele. Com o que resta de Thaloris Ventaris²² dentro da casca de obsidiana e escuridão. E no diálogo entre a herdeira do mar e o senhor dos ventos, um segredo é revelado — um segredo sobre o que os Nihil Shid²³ realmente querem, sobre o que Alyndra¹⁸ realmente é, e sobre o que a aberração — a coisa que foi Thaloris — está prestes a fazer.
 
 *"A guerra não termina quando um lado vence. Termina quando ambos os lados descobrem que estavam lutando pela mesma coisa — e que a coisa não era o que pensavam que era."*
 
