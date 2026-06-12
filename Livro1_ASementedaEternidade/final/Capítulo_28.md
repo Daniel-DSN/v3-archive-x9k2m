@@ -98,7 +98,7 @@ Lysias Thyrion¹³ escreveu. Escreveu com as mãos tremendo — e as mãos de Ly
 
 O equipe socorreu a menina — água, compressas, o pouco de alimento que carregavam nas bolsas. Ela não pronunciou uma palavra. Mas quando a equipe a levantou do chão, a menina de olhos âmbar abriu a mão — e na palma havia um fragmento de *aetherite*¹², tão pequeno quanto uma unha, que emanava uma luz azul-esverdeada: a cor da *RRA*⁶.
 
-Ela o segurava desde que a embalaram ali — dois dias, talvez três. A *aetherite*¹² não era uma ferramenta de comunicação; era uma *bússola*. Alguém — talvez os próprios *She-Zuris*²⁵, talvez um operativo infiltrado que sabia que as crianças precisariam de alguma forma de contato — havia colocado o fragmento no bolso de uma das crianças menores. E a menina de olhos âmbar o encontrara, o ativara instintivamente, e o segurara com a tenacidade de quem sabe que um fragmento de luz, no escuro, pode ser a diferença entre viver e desaparecer.
+Ela o segurava desde que a embalaram ali — dois dias, talvez três. A *aetherite*¹² não era uma ferramenta de comunicação; era uma *bússola*. Alguém — talvez os próprios *Nihil Shid*²⁵, talvez um operativo infiltrado que sabia que as crianças precisariam de alguma forma de contato — havia colocado o fragmento no bolso de uma das crianças menores. E a menina de olhos âmbar o encontrara, o ativara instintivamente, e o segurara com a tenacidade de quem sabe que um fragmento de luz, no escuro, pode ser a diferença entre viver e desaparecer.
 
 Sera — que monitorava todas as equipes pela *RRA*⁶ — recebeu o sinal do fragmento. A localização foi triangulada em segundos. E no mapa de cristal na *Câmara dos Sussurros*², um ponto azul piscou onde antes só havia escuridão: cinco crianças vivas, uma menina exausta, e um fragmento de *aetherite*¹² que brilhava como uma estrela caída nas mãos de quem não tinha nada além das próprias mãos.
 
@@ -112,13 +112,13 @@ Nem todas as frentes voltaram inteiras.
 
 A terceira equipe — a que cobria os portos de *Sylvaris*¹⁰ — foi emboscada no ante-aurion do terceiro dia de operação. A emboscada foi perfeita: três operativos avançando pela estrada costeira, confiantes porque a rota havia sido varrida e considerada segura, e do nada — do silêncio, da névoa que o mar ergue nas nyxaras, da escuridão entre os postes de iluminação que haviam sido apagados um a um sem que ninguém notasse — os *nihilarys*²¹ surgiram.
 
-*Nihilarys*²¹ não lutam como humanos lutam. *Nihilarys*²¹ lutam como escuridão luta: sem forma fixa, sem peso, sem som. Eles se movem nas sombras entre as sombras, e quando atacam, o ataque não vem de uma direção — vem de todas, simultaneamente, como se a própria escuridão se curvasse em torno da presa e a engolisse por inteiro. Dois operativos morreram ali — dois homens e mulheres que meses de serviço haviam transformado em máquinas de sobrevivência, e que naquela estrada costeira, naquela nyxara, descobriram que mesmo máquinas podem ser desmontadas.
+*Nihilaryth*²¹ não lutam como humanos lutam. *Nihilaryth*²¹ lutam como escuridão luta: sem forma fixa, sem peso, sem som. Eles se movem nas sombras entre as sombras, e quando atacam, o ataque não vem de uma direção — vem de todas, simultaneamente, como se a própria escuridão se curvasse em torno da presa e a engolisse por inteiro. Dois operativos morreram ali — dois homens e mulheres que meses de serviço haviam transformado em máquinas de sobrevivência, e que naquela estrada costeira, naquela nyxara, descobriram que mesmo máquinas podem ser desmontadas.
 
 O terceiro operativo — um homem chamado Varn, que havia chegado à *Tar-Gig*²⁶ por recomendação de Aldric²⁷ — sobreviveu. Sobreviveu não por habilidade — a habilidade, contra *nihilarys*²¹, é insuficiente — mas por *aetherite*¹². O fragmento que carregava no peito, dentro de um compartimento blindado, emitiu um segundo de luz quando a emboscada começou — um segundo automático, uma última mensagem que *aetherite*¹² envia quando o portador está prestes a morrer — e o segundo alertou a equipe aérea, que chegou em tempo de afastar os *nihilarys*²¹ com explosões concentradas de *aethra*²⁰, mas não em tempo de salvar os dois que já tinham caído.
 
 Varn voltou sozinho. Trazia nos braços o corpo de um companheiro — não podia carregar dois — e nos olhos a expressão de quem viu o rosto do inimigo e reconheceu algo que não deveria existir: *preparação*. Os *nihilarys*²¹ não estavam ali por acaso. Não haviam interceptado a equipe por sorte. Sabiam que a equipe viria. Sabiam a rota. Sabiam o segundo de chegada.
 
-Os *She-Zuris*²⁵ anteciparam os resgates. Esperavam que as equipes fossem enviadas. E emboscá-las era tão importante para eles quanto capturar as crianças — talvez mais importante, porque cada equipe eliminada era uma equipe a menos buscando Alyndra⁵.
+Os *Nihil Shid*²⁵ anteciparam os resgates. Esperavam que as equipes fossem enviadas. E emboscá-las era tão importante para eles quanto capturar as crianças — talvez mais importante, porque cada equipe eliminada era uma equipe a menos buscando Alyndra⁵.
 
 Sera recebeu a notícia na manhã seguinte. Sua expressão não mudou — o rosto de Sera era um instrumento de precisão que não desperdiçava movimentos em emoções. Mas suas mãos — as mãos que seguravam o cristal de comunicação — tremeram. E Sera não tremia.
 
@@ -152,7 +152,7 @@ Aurelius²⁹ colocou as mãos sobre o painel de cristal. Fechou os olhos. Esten
 
 Por um segundo — um único segundo — ele sentiu.
 
-Frio. Não o frio do *cryonys*³⁰ — esse frio era diferente, mais profundo, mais antigo, como se viesse do núcleo de Alyndra em vez da superfície. E medo — não o medo de Alyndra⁵, mas algo que a cercava, que a pressionava, que estava tentando, com a paciência geológica de algo que existe há milênios, moldá-la, contê-la, reduzi-la a uma forma que coubesse dentro do plano que os *She-Zuris*²⁵ tinham para ela.
+Frio. Não o frio do *cryonys*³⁰ — esse frio era diferente, mais profundo, mais antigo, como se viesse do núcleo de Alyndra em vez da superfície. E medo — não o medo de Alyndra⁵, mas algo que a cercava, que a pressionava, que estava tentando, com a paciência geológica de algo que existe há milênios, moldá-la, contê-la, reduzi-la a uma forma que coubesse dentro do plano que os *Nihil Shid*²⁵ tinham para ela.
 
 E depois — silêncio.
 
@@ -196,9 +196,9 @@ E onde, em breve, alguém precisaria ir buscá-la.
 
 ³ **Ponto Ômega** — Designação da *Tar-Gig*²⁶ para o templo na fronteira *Fulmora*⁹-*Umbra*¹¹, onde as *cargas fantasmas*⁴ convergem.
 
-⁴ **cargas fantasmas** — Operação de tráfico de pessoas sem registro, orquestrada pelos *She-Zuris*²⁵.
+⁴ **cargas fantasmas** — Operação de tráfico de pessoas sem registro, orquestrada pelos *Nihil Shid*²⁵.
 
-⁵ **Alyndra** — Criança do Orfanato Luminis; portadora de *cryonys*³⁰; alvo prioritário dos *She-Zuris*²⁵. Sua assinatura de *aethra*²⁰ desapareceu do alcance de *Sanctrum*¹⁵.
+⁵ **Alyndra** — Criança do Orfanato Luminis; portadora de *cryonys*³⁰; alvo prioritário dos *Nihil Shid*²⁵. Sua assinatura de *aethra*²⁰ desapareceu do alcance de *Sanctrum*¹⁵.
 
 ⁶ **RRA** — Rede de Ressonância de *Aurion*¹⁷; sistema de comunicação instantânea por pulsos etéricos.
 
@@ -230,7 +230,7 @@ E onde, em breve, alguém precisaria ir buscá-la.
 
 ²⁰ **aethra** — Energia elemental que permeia Alyndra; base de poderes elementais.
 
-²¹ **nihilary / nihilarys** — Agentes dos *She-Zuris*²⁵; seres capazes de manipular escuridão. Emboscaram a terceira equipe de resgate.
+²¹ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²⁵; seres capazes de manipular escuridão. Emboscaram a terceira equipe de resgate.
 
 ²² **giralis** — Flores de pétalas prateadas que abrem durante a noite.
 
@@ -238,7 +238,7 @@ E onde, em breve, alguém precisaria ir buscá-la.
 
 ²⁴ **argentis** — Árvore de casca prateada; metáfora para exaustão vital.
 
-²⁵ **She-Zuris** — Organização secreta "Os Iluminados"; orquestram as *cargas fantasmas*⁴ e a rede de *nihilarys*²¹.
+²⁵ **Nihil Shid** — Organização secreta "Os Iluminados"; orquestram as *cargas fantasmas*⁴ e a rede de *nihilarys*²¹.
 
 ²⁶ **Tar-Gig** — Organização de inteligência e espionagem aliada a Selynis Thalassa¹.
 
@@ -256,6 +256,6 @@ E onde, em breve, alguém precisaria ir buscá-la.
 
 ## 🔮 Previsão: Próximo Capítulo
 
-No capítulo seguinte, Korath¹⁸ chega ao destino com Alyndra⁵ — e o destino não é o que ninguém esperava. A jornada que separa *Sylvaris*¹⁰ da fronteira de *Fulmora*⁹ e *Umbra*¹¹ é um inferno de rocha vulcânica, fontes de enxofre e uma escuridão que parece ter peso próprio. Alyndra⁵, apesar do medo, faz perguntas — perguntas que Korath¹⁸ não quer responder — e uma delas ("Você tem filhos?") desencadeia algo no mercenário que nem ele mesmo esperava. *Nyx*¹⁹ permanece ao lado da menina em cada passo da travessia, e Korath¹⁸ permite — não por compaixão, mas por ordens precisas: os *She-Zuris*²⁵ querem *ambos*, a menina e o *lyrien*, e o porquê disso ainda é um mistério que ninguém na superfície compreende. Quando chegam ao templo — uma estrutura ancestral esculpida na face de um penhasco, mais antiga que qualquer reino — Alyndra⁵ é entregue a uma figura encapuzada, e Korath¹⁸, antes de partir, olha para ela pela última vez. O que passa entre eles não é amizade. É reconhecimento.
+No capítulo seguinte, Korath¹⁸ chega ao destino com Alyndra⁵ — e o destino não é o que ninguém esperava. A jornada que separa *Sylvaris*¹⁰ da fronteira de *Fulmora*⁹ e *Umbra*¹¹ é um inferno de rocha vulcânica, fontes de enxofre e uma escuridão que parece ter peso próprio. Alyndra⁵, apesar do medo, faz perguntas — perguntas que Korath¹⁸ não quer responder — e uma delas ("Você tem filhos?") desencadeia algo no mercenário que nem ele mesmo esperava. *Nyx*¹⁹ permanece ao lado da menina em cada passo da travessia, e Korath¹⁸ permite — não por compaixão, mas por ordens precisas: os *Nihil Shid*²⁵ querem *ambos*, a menina e o *lyrien*, e o porquê disso ainda é um mistério que ninguém na superfície compreende. Quando chegam ao templo — uma estrutura ancestral esculpida na face de um penhasco, mais antiga que qualquer reino — Alyndra⁵ é entregue a uma figura encapuzada, e Korath¹⁸, antes de partir, olha para ela pela última vez. O que passa entre eles não é amizade. É reconhecimento.
 
 *"A fronteira entre dois mundos não é uma linha — é uma ferida. E toda ferida, se não for cuidada, se abre."*
