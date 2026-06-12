@@ -32,17 +32,17 @@ Esperou.
 
 **II. A Civilização que Esqueceu o Limite**
 
-Antes da Vontade, antes dos Seraphyens, antes do selo — Yggoraty já era. E nas bordas do que era, outras civilizações tinham florescido e murchado na esquecida alvorada da criação. Uma delas, porém, não murchou: **queimou**.
+Antes da Vontade, antes dos Seraphyens, antes do selo — Yggorath já era. E nas bordas do que era, outras civilizações tinham florescido e murchado na esquecida alvorada da criação. Uma delas, porém, não murchou: **queimou**.
 
 E queimou por dentro primeiro.
 
-Os Nihilarys não eram apenas antigos — eram uma civilização que se acreditava eterna. Sua compreensão da aethra era tão profunda que as terras ao redor pareciam obedecer-lhes por instinto; os rios mudavam de curso quando pediam, as montanhas se abriam quando precisavam, e a luz se curvava em volta de suas cidades como se reconhecesse uma autoridade superior. Alcançaram o Fruto Primordial e o cultivaram. Por um tempo — um tempo longo o suficiente para esquecer que era finito —, pareceram dignos dele.
+Os Nihilaryth não eram apenas antigos — eram uma civilização que se acreditava eterna. Sua compreensão da aethra era tão profunda que as terras ao redor pareciam obedecer-lhes por instinto; os rios mudavam de curso quando pediam, as montanhas se abriam quando precisavam, e a luz se curvava em volta de suas cidades como se reconhecesse uma autoridade superior. Alcançaram o Fruto Primordial e o cultivaram. Por um tempo — um tempo longo o suficiente para esquecer que era finito —, pareceram dignos dele.
 
 Mas o que arde por tempo demais sem se apagar começa a devorar o próprio ar. E quem devora o ar, cedo ou tarde, olha para fora — em busca de combustível.
 
 Ninguém sabe quando a primeira gota foi roubada. Talvez tenha sido um ato desesperado num inverno sem fim; talvez curiosidade, ou fome, ou o tédio que assola quem já conheceu tudo. Mas uma vez provado, não houve volta. Começaram a drenar aethra de tudo o que vivia — primeiro as terras vizinhas, que murcharam como florestas num incêndio lento, sem que seus habitantes entendessem por quê; depois os povos menores, cujo brilho se apagava como lanternas num vento sem nome. Quando as fontes externas cessaram, voltaram-se para os próprios. Cada gota consumida de um semelhante era mais um dia sem morrer.
 
-Quando a fome pela eternidade superou qualquer resto de prudência, o grande líder dos Nihilarys — Ur-Nyxal — tomou o Fruto Primordial e exigiu o que ninguém pode exigir: poder infinito sem custo.
+Quando a fome pela eternidade superou qualquer resto de prudência, o grande líder dos Nihilaryth — Ur-Nyxal — tomou o Fruto Primordial e exigiu o que ninguém pode exigir: poder infinito sem custo.
 
 O Fruto não é lâmpada mágica. A lei da existência é clara: *quem pede, entrega; e quanto mais denso o pedido, mais absoluto o preço.*
 
@@ -60,15 +60,15 @@ Mythra é paciente. Era paciente antes da luz. Esperar é tudo o que sabe fazer.
 
 **III. A Que Escolheu Renascer**
 
-Enquanto os Nihilarys devoravam o que existia, outras civilizações resistiam como podiam. Uma delas produziu algo que nem os Nihilarys esperavam: um ser cujo poder rivalizava com o deles. Não por tecnologia, mas por algo que nenhuma máquina replica — a capacidade de **ver além do agora**.
+Enquanto os Nihilaryth devoravam o que existia, outras civilizações resistiam como podiam. Uma delas produziu algo que nem os Nihilaryth esperavam: um ser cujo poder rivalizava com o deles. Não por tecnologia, mas por algo que nenhuma máquina replica — a capacidade de **ver além do agora**.
 
 Ela se chamava Alyndra.
 
-Alyndra controlava o Fruto Primordial. Sua mente alcançava tanto o passado profundo quanto o futuro por vir — não como palavras, mas como visões, possibilidades que se bifurcavam como rios em planície. E quando os Nihilarys avançaram sobre o que restava de seu povo, Alyndra fez o que ninguém antes havia feito: olhou para todas as possibilidades e **escolheu**.
+Alyndra controlava o Fruto Primordial. Sua mente alcançava tanto o passado profundo quanto o futuro por vir — não como palavras, mas como visões, possibilidades que se bifurcavam como rios em planície. E quando os Nihilaryth avançaram sobre o que restava de seu povo, Alyndra fez o que ninguém antes havia feito: olhou para todas as possibilidades e **escolheu**.
 
-Poderia ter-se fortalecido com o Fruto, sacrificando tudo para aniquilar os Nihilarys. Tinha o poder. Mas ao vislumbrar o futuro, viu também o passado — e no passado de Mythra, viu algo que a fez hesitar. Viu a dor. Viu o que a civilização tinha sido antes de esquecer o limite. Viu que a aniquilação pura seria apenas repetir o erro que estava destruindo Yggoraty.
+Poderia ter-se fortalecido com o Fruto, sacrificando tudo para aniquilar os Nihilaryth. Tinha o poder. Mas ao vislumbrar o futuro, viu também o passado — e no passado de Mythra, viu algo que a fez hesitar. Viu a dor. Viu o que a civilização tinha sido antes de esquecer o limite. Viu que a aniquilação pura seria apenas repetir o erro que estava destruindo Yggorath.
 
-E Alyndra tomou a decisão mais pesada da criação: renascer através da destruição. Usou o Fruto para desfazer o que os Nihilarys haviam feito — não com fúria, mas com semente. Cada ser consumido foi reposto por um descendente da essência original. Não os mesmos — nunca os mesmos — mas seus. Construtores, resistidores, lutadores pela vida. O povo de Alyndra renasceu na esteira da destruição.
+E Alyndra tomou a decisão mais pesada da criação: renascer através da destruição. Usou o Fruto para desfazer o que os Nihilaryth haviam feito — não com fúria, mas com semente. Cada ser consumido foi reposto por um descendente da essência original. Não os mesmos — nunca os mesmos — mas seus. Construtores, resistidores, lutadores pela vida. O povo de Alyndra renasceu na esteira da destruição.
 
 O que ninguém soube naquele momento — porque ninguém podia ver o que Alyndra via — é que ela estava grávida. De gêmeos. Duas vidas que cresceriam da semente que ela plantaria em sua morte.
 
@@ -110,7 +110,7 @@ Elarys parou de lutar. E ao parar, os que lutavam ao lado dela pararam também �
 
 Mas já era tarde.
 
-Mythra havia amplificado o poder de Nyxalor além do que qualquer ser podia enfrentar sozinho. Deu-lhe armas que não deveriam existir, abriu-lhe caminhos que nunca deveriam ser trilhados. Dizem que Mythra sussurrou a Nyxalor o caminho até a armadura que Ilyos guardava — a chave para o reino além do quasar, onde uma árvore guarda o fruto que subjugaria Yggoraty¹⁴ por completo. Não por vontade dele: Mythra conduzia, e Nyxalor marchava.
+Mythra havia amplificado o poder de Nyxalor além do que qualquer ser podia enfrentar sozinho. Deu-lhe armas que não deveriam existir, abriu-lhe caminhos que nunca deveriam ser trilhados. Dizem que Mythra sussurrou a Nyxalor o caminho até a armadura que Ilyos guardava — a chave para o reino além do quasar, onde uma árvore guarda o fruto que subjugaria Yggorath¹⁴ por completo. Não por vontade dele: Mythra conduzia, e Nyxalor marchava.
 
 Os Seraphyens, mais tarde, dariam àquela presença um nome.
 
@@ -240,13 +240,13 @@ Esta é a história dela.
 
 ⁷ **Myrrhiel** — Seraphyen. Escudo e braço direito de Ilyos. Amor mútuo. Morreu lutando para dar tempo a Ilyos — o primeiro sacrifício sem o qual o selo não existiria.
 
-⁸ **Alyndra Primordial** — Ser poderoso da primeira civilização. Controlava o Fruto Primordial e via o futuro. Grávida dos gêmeos Ilyos e Nyxalor, morreu antes do nascimento. Escolheu o renascimento através de Yggorath em vez da aniquilação dos Nihilarys. Sua essência flui pelas gerações.
+⁸ **Alyndra Primordial** — Ser poderoso da primeira civilização. Controlava o Fruto Primordial e via o futuro. Grávida dos gêmeos Ilyos e Nyxalor, morreu antes do nascimento. Escolheu o renascimento através de Yggorath em vez da aniquilação dos Nihilaryth. Sua essência flui pelas gerações.
 
-⁹ **Mythra** — A Que Espera. Líder dos Nihilarys sobreviventes. Esposa de Ur-Nyxal. Consciência parasita imemorial. Corrompeu Nyxalor por paciência. Sobrevive nas bordas do selo.
+⁹ **Mythra** — A Que Espera. Líder dos Nihilaryth sobreviventes. Esposa de Ur-Nyxal. Consciência parasita imemorial. Corrompeu Nyxalor por paciência. Sobrevive nas bordas do selo.
 
-¹⁰ **Nihilarys** — Uma das primeiras civilizações da criação. Compreendiam aethra a ponto de as terras lhes obedecerem por instinto. Cultivaram o Fruto Primordial. A ambição pela eternidade os levou a drenar aethra de seres vivos — primeiro vizinhos, depois os próprios. Amaldiçoados ao tornarem-se seres transdimensionais sem corpo; precisam de hospedeiros para sentir qualquer coisa. Seu objetivo é alcançar o Fruto novamente para reverter a maldição.
+¹⁰ **Nihilaryth** — Uma das primeiras civilizações da criação. Compreendiam aethra a ponto de as terras lhes obedecerem por instinto. Cultivaram o Fruto Primordial. A ambição pela eternidade os levou a drenar aethra de seres vivos — primeiro vizinhos, depois os próprios. Amaldiçoados ao tornarem-se seres transdimensionais sem corpo; precisam de hospedeiros para sentir qualquer coisa. Seu objetivo é alcançar o Fruto novamente para reverter a maldição.
 
-¹¹ **Ur-Nyxal** — Grande líder dos Nihilarys. Marido de Mythra. Usou o Fruto Primordial inadequadamente e foi extinto — o ato que condenou toda a civilização à maldição.
+¹¹ **Ur-Nyxal** — Grande líder dos Nihilaryth. Marido de Mythra. Usou o Fruto Primordial inadequadamente e foi extinto — o ato que condenou toda a civilização à maldição.
 
 ¹² **valen / valens** — Ciclo completo das estações (~365 dias). Na narração, equivale a "ano".
 
@@ -258,6 +258,6 @@ Esta é a história dela.
 
 ¹⁶ **Armadura primordial** — Relíquia confiada a Ilyos; única chave para o mundo imaterial além do grande quasar da galáxia.
 
-¹⁷ **Árvore primordial** — Árvore que existe no mundo imaterial além do quasar. Guarda o fruto capaz de subjugar Yggoraty por completo.
+¹⁷ **Árvore primordial** — Árvore que existe no mundo imaterial além do quasar. Guarda o fruto capaz de subjugar Yggorath por completo.
 
-¹⁸ **Yggoraty** — O nome antigo do mundo — não apenas um lugar, mas a totalidade do que existe. Subjugar Yggoraty é dominar a realidade em si.
+¹⁸ **Yggorath** — O nome antigo do mundo — não apenas um lugar, mas a totalidade do que existe. Subjugar Yggorath é dominar a realidade em si.
