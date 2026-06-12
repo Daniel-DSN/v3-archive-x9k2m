@@ -85,7 +85,7 @@ Os Aetheriani valorizam **a forma acima da emoção**. Nunca se chega a um compr
 | Festival | Época | Duração | Descrição |
 |----------|-------|:-------:|-----------|
 | **Festa da Luz** | Solstício de Verão | 3 daens | Sanctrum inteiro acende lampiões de cristal. Desfiles noturnos com carroças luminosas. |
-| **Semana do Balanço (Recessus)** | Yggoraty | 3 daens | Tudo fecha. Jejum, meditação, balanço financeiro e emocional. |
+| **Semana do Balanço (Recessus)** | Yggorath | 3 daens | Tudo fecha. Jejum, meditação, balanço financeiro e emocional. |
 | **Dia da Verdade** | 1º daen de cada lua | 1 daen | Auditórios públicos onde qualquer cidadão pode confrontar autoridades com perguntas. |
 | **Noite dos Cristais** | Convergência Tripla | 1 noite | Os cristais de Sanctrum pulsam mais forte. Dizem que os mortos sussurram através deles. |
 
@@ -375,7 +375,7 @@ Os Fulmori são **diretos e impacientes**. Rodeios são considerados perda de te
 | **Festa do Plasma** | Solstício de Primavera | 3 daens | Demostrações de novas invenções. Competições de engenharia. Queima de fogos de plasma. |
 | **Dia do Relâmpago** | Primeira tempestade do ano | 1 daen | Corrida de Caçadores de Raios. Quem coletar mais plasma vence. |
 | **Noite das Invenções** | Último daen do ano | 1 noite | Cada fulmori apresenta sua invenção do ano. A melhor ganha financiamento real. |
-| **Semana de Calibração** | Yggoraty | 3 daens | Feriado técnico — tudo é desligado, limpo, recalibrado. Manutenção geral do reino. |
+| **Semana de Calibração** | Yggorath | 3 daens | Feriado técnico — tudo é desligado, limpo, recalibrado. Manutenção geral do reino. |
 
 #### Rituais de Passagem
 
