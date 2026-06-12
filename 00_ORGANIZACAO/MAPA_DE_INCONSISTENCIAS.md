@@ -340,3 +340,28 @@ Todas as inconsistências críticas, altas e médias identificadas nas varredura
 
 *Fim do Relatório Atualizado — 5 de Junho de 2026*
 
+
+---
+
+## 10. CORREÇÕES ADICIONAIS — SESSÃO DE 12 DE JUNHO DE 2026
+
+Varredura completa de todos os 88 arquivos .md do repositório revelou problemas de nomenclatura não detectados nas auditorias anteriores. Todas as correções foram aplicadas:
+
+### Nomenclatura Canônica — Repositório Limpo
+
+| Correção | Arquivos Afetados | Total de Substituições |
+|----------|------------------|----------------------|
+| **She-Zuris → Nihil Shid** | 31 capítulos (Cap 14-46, ENREDO_LIVRO1_MASTER), RESUMO_LORE_COMPLETO, lore/ (5 arquivos), IDEIAS_E_CENAS_SOLTAS | ~175 |
+| **Nihilarys → Nihilaryth** | Cap 3 (glossário), Cap 24/28/40, rascunhos/Prólogo, RESUMO_LORE_COMPLETO, lore/ (5 arquivos), ESTUDO_DE_LOGICA_DOS_PERSONAGENS, ENREDO_LIVRO1_MASTER | ~70 |
+| **Mytra → Mythra** | LORE_COSMOLOGIA_E_MAGIA (21), PERSONAGENS_MASTER (12), lore/ (4 arquivos), DICIONARIO_REFERENCIA_MESTRE, LIVRO1_CONTROLE, SANCTRUM/SYLVARIS/PYRALIS/UMBRA expansões, RELATORIO_CORRECOES_GLOSSARIO | ~60 |
+| **Yggoraty → Yggorath** | LORE_MUNDO_E_REINOS (17), LORE_CULTURA_POLITICA_E_ESTILO (11), FAMILIAS_E_CULTURAS, LIVRO1_CONTROLE, RELATORIO_CORRECOES_JUNHO_2026, ENREDO_LIVRO1_MASTER, lore/LORE_NIHILARYS | ~44 |
+
+**Nota:** "Noctis" foi preservado onde é nome legítimo (Ursus Noctis = espécie, Pico de Noctis = localização geográfica em Umbra).
+
+**Nota 2:** Arquivos de auditoria (este, AUDITORIA_LOGICA_Prologo_Cap10.md, RELATORIO_CORRECOES_JUNHO_2026.md) mantêm termos originais como registro histórico das inconsistências detectadas.
+
+### Verificação Final
+
+Scan de todos os 88 arquivos .md do repositório confirmou: **zero ocorrências de termos incorretos fora dos arquivos de auditoria/relatório**.
+
+*Atualizado: 12 de Junho de 2026*
