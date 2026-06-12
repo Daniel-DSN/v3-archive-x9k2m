@@ -102,7 +102,7 @@ Não em velocidade — em *certeza*. Os dezesseis olhos encontraram a entrada de
 
 E a aberração *caminhou*.
 
-Não correu. Não saltou. *Caminhou*. Com a mesma deliberada lentidão do capítulo anterior — a lentidão de algo que sabe que já venceu. Mas desta vez a lentidão era *diferente*. Antes, a lentidão tinha sido estratégica — a aberração estava avaliando, calculando, decidindo. Agora, a lentidão era *desprezo*. A aberração sabia — porque os *nihilarys*⁶ dentro dela sabiam, porque os She-Zuris²³ que haviam criado aquela criatura sabiam, porque o próprio *nihilary*⁶ ancestral que comandava a operação sabia — que nada naquele campo de batalha podia impedi-la de chegar a Alyndra. Nada. Ninguém. Nenhuma arma, nenhum poder, nenhum guerreiro.
+Não correu. Não saltou. *Caminhou*. Com a mesma deliberada lentidão do capítulo anterior — a lentidão de algo que sabe que já venceu. Mas desta vez a lentidão era *diferente*. Antes, a lentidão tinha sido estratégica — a aberração estava avaliando, calculando, decidindo. Agora, a lentidão era *desprezo*. A aberração sabia — porque os *nihilarys*⁶ dentro dela sabiam, porque os Nihil Shid²³ que haviam criado aquela criatura sabiam, porque o próprio *nihilary*⁶ ancestral que comandava a operação sabia — que nada naquele campo de batalha podia impedi-la de chegar a Alyndra. Nada. Ninguém. Nenhuma arma, nenhum poder, nenhum guerreiro.
 
 Os passos da aberração rachavam o chão.
 
@@ -302,7 +302,7 @@ A mão de obsidiana — enorme, maior que o corpo inteiro de Alyndra, as garras 
 
 Dentro da aberração, algo *lutou*.
 
-Não os *nihilarys*⁶ — algo *mais*. Algo que não era escuridão, que não era vazio, que não era a ausência que os She-Zuris²³ tinham instalado no corpo de Thaloris Ventaris²². Algo que era *vento* — vento antigo, vento de Sylvaris²⁵, vento dos campos de *giralis*³0 que Thaloris havia voado quando era homem e não aberração. O vento *empurrou* — não fisicamente, não o suficiente para deter o braço, mas o suficiente para *atrasá-lo*, um segundo, dois, três segundos de resistência que vieram de dentro da aberração, de dentro de Thaloris, do lugar onde os *nihilarys*⁶ ainda não tinham conseguido *chegar*.
+Não os *nihilarys*⁶ — algo *mais*. Algo que não era escuridão, que não era vazio, que não era a ausência que os Nihil Shid²³ tinham instalado no corpo de Thaloris Ventaris²². Algo que era *vento* — vento antigo, vento de Sylvaris²⁵, vento dos campos de *giralis*³0 que Thaloris havia voado quando era homem e não aberração. O vento *empurrou* — não fisicamente, não o suficiente para deter o braço, mas o suficiente para *atrasá-lo*, um segundo, dois, três segundos de resistência que vieram de dentro da aberração, de dentro de Thaloris, do lugar onde os *nihilarys*⁶ ainda não tinham conseguido *chegar*.
 
 A mão desceu.
 
@@ -320,7 +320,7 @@ Olhou para os dois olhos verdes que *lutavam*.
 
 E não fechou os olhos.
 
-A mão estava a dois passos do rosto de Alyndra. A um passo. A meio passo. As garras de cristal negro brilhavam com uma luz que era *fome*, e a fome era por Alyndra, pelo *cryonys*¹ dentro dela, pela assinatura thalassiana que fazia dela a *vasilha* perfeita para o que os She-Zuris²³ queriam fazer.
+A mão estava a dois passos do rosto de Alyndra. A um passo. A meio passo. As garras de cristal negro brilhavam com uma luz que era *fome*, e a fome era por Alyndra, pelo *cryonys*¹ dentro dela, pela assinatura thalassiana que fazia dela a *vasilha* perfeita para o que os Nihil Shid²³ queriam fazer.
 
 Velatrix¹² viu e não podia se mover. Lyris¹⁴ viu e não podia respirar. Aldric¹⁵ viu e não podia se levantar. Marethyus⁹ viu e não podia se pôr de pé. Urrak⁸ viu e não podia abrir a boca. Korath³¹ — que estava a trinta passos de distância, as mãos livres das cordas, os olhos vendo tudo — viu e sentiu algo que não sentia desde que era criança: *impotência total*.
 
@@ -354,7 +354,7 @@ Era Nyx².
 
 ⁵ **aethra** — Energia espiritual fundamental; a substância de toda vida e poder elemental em Alyndra.
 
-⁶ **nihilary / nihilarys** — Entidade de escuridão e ausência; agente dos She-Zuris²³. A aberração é composta de milhares de *nihilarys*⁶ compactados no corpo de Thaloris Ventaris²².
+⁶ **nihilary / nihilarys** — Entidade de escuridão e ausência; agente dos Nihil Shid²³. A aberração é composta de milhares de *nihilarys*⁶ compactados no corpo de Thaloris Ventaris²².
 
 ⁷ **argenis** — Árvore; termo genérico para vegetais lenhosos de grande porte.
 
@@ -388,7 +388,7 @@ Era Nyx².
 
 ²² **Thaloris Ventaris** — *Lugal Lil* de Sylvaris²⁵; Senhor dos Ventos, possuído por legiões de *nihilarys*⁶ e transformado na aberração.
 
-²³ **She-Zuris** — Ordem secreta de *nihilarys*⁶; "A Ordem da Luz". Responsáveis pela possessão de Thaloris Ventaris²².
+²³ **Nihil Shid** — Ordem secreta de *nihilarys*⁶; "A Ordem da Luz". Responsáveis pela possessão de Thaloris Ventaris²².
 
 ²⁴ **ante-aurion** — A madrugada; período que antecede o nascer de Aurion⁴.
 
