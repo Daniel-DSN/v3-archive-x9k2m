@@ -11,7 +11,7 @@
 Esta sessão foi dedicada a **corrigir inconsistências de nomenclatura e lore** que foram introduzidas por IAs anteriores ou que surgiram durante o desenvolvimento. As principais correções foram:
 
 1. **Unificação de nomenclatura** ("Nin Gal")
-2. **Correção de nomes próprios** ("Yggoraty" → "Yggorath", "Mytra" → "Mythra")
+2. **Correção de nomes próprios** ("Yggorath" → "Yggorath", "Mythra" → "Mythra")
 3. **Remoção de personagem inexistente** (Noctis)
 4. **Atualização de documentação** (glossários, mapas de inconsistência)
 
@@ -36,11 +36,11 @@ Esta sessão foi dedicada a **corrigir inconsistências de nomenclatura e lore**
 
 ## 2. CORREÇÃO DE NOMES PRÓPRIOS
 
-### 2.1 "Yggoraty" → "Yggorath"
+### 2.1 "Yggorath" → "Yggorath"
 
-**Problema:** O nome da entidade cosmológica (a consciência nascida da árvore no Jardim Imaterial) aparecia grafado como "Yggoraty" em vários arquivos, criando confusão com o nome do 13º mês do calendário (Yggoraty).
+**Problema:** O nome da entidade cosmológica (a consciência nascida da árvore no Jardim Imaterial) aparecia grafado como "Yggorath" em vários arquivos, criando confusão com o nome do 13º mês do calendário (Yggorath).
 
-**Solução:** Todas as referências à entidade foram corrigidas para "Yggorath", mantendo "Yggoraty" apenas como nome do 13º mês.
+**Solução:** Todas as referências à entidade foram corrigidas para "Yggorath", mantendo "Yggorath" apenas como nome do 13º mês.
 
 **Arquivos afetados:**
 - `Livro1_ASementedaEternidade/final/Capítulo_40.md` (1 ocorrência)
@@ -50,11 +50,11 @@ Esta sessão foi dedicada a **corrigir inconsistências de nomenclatura e lore**
 - `00_ORGANIZACAO/LORE_MUNDO_E_REINOS.md` (1 ocorrência adicionada)
 - `00_ORGANIZACAO/LORE_COSMOLOGIA_E_MAGIA.md` (já estava correto)
 
-**Nota:** O calendário mantém "Yggoraty" como nome do 13º mês (festividade de transição) — isto é intencional e canônico.
+**Nota:** O calendário mantém "Yggorath" como nome do 13º mês (festividade de transição) — isto é intencional e canônico.
 
-### 2.2 "Mytra" → "Mythra"
+### 2.2 "Mythra" → "Mythra"
 
-**Problema:** O nome da líder Nihilaryth (A Que Espera) estava grafado como "Mytra" em vez de "Mythra".
+**Problema:** O nome da líder Nihilaryth (A Que Espera) estava grafado como "Mythra" em vez de "Mythra".
 
 **Solução:** Todas as ocorrências foram corrigidas para "Mythra" em toda a obra.
 
@@ -119,8 +119,8 @@ Esta sessão foi dedicada a **corrigir inconsistências de nomenclatura e lore**
 **Novas entradas adicionadas à seção de RESOLVIDOS:**
 
 - **Unificar nomenclatura "Nin Gal" (RESOLVIDO)**
-- **Corrigir "Yggoraty" → "Yggorath" (RESOLVIDO)**
-- **Corrigir "Mytra" → "Mythra" (RESOLVIDO)**
+- **Corrigir "Yggorath" → "Yggorath" (RESOLVIDO)**
+- **Corrigir "Mythra" → "Mythra" (RESOLVIDO)**
 - **Remover Noctis (RESOLVIDO)**
 - **Atualizar glossário do Prólogo (RESOLVIDO)**
 
@@ -137,8 +137,8 @@ Esta sessão foi dedicada a **corrigir inconsistências de nomenclatura e lore**
 ### 5.1 Buscas Realizadas
 
 - ✅ "Nin Gal" — 7 ocorrências encontradas e corrigidas
-- ✅ "Yggoraty" — 42 ocorrências encontradas; todas corrigidas exceto as do calendário (intencional)
-- ✅ "Mytra" — ~100 ocorrências encontradas e corrigidas
+- ✅ "Yggorath" — 42 ocorrências encontradas; todas corrigidas exceto as do calendário (intencional)
+- ✅ "Mythra" — ~100 ocorrências encontradas e corrigidas
 - ✅ "Noctis" — ~50 ocorrências encontradas e removidas
 
 ### 5.2 Arquivos Modificados
@@ -185,7 +185,7 @@ Esta sessão foi dedicada a **corrigir inconsistências de nomenclatura e lore**
 
 ## 7. PRÓXIMOS PASSOS SUGERIDOS
 
-1. **Validar com o usuário** as correções de nomenclatura (principalmente "Mythra" vs "Mytra")
+1. **Validar com o usuário** as correções de nomenclatura (principalmente "Mythra" vs "Mythra")
 2. **Revisar capítulos 12-46** (rascunhos) para garantir que todas as correções foram aplicadas
 3. **Atualizar PERSONAGENS_MASTER.md** se necessário (remover qualquer referência residual a Noctis)
 4. **Rodar script de validação** (se existir) para verificar consistência de termos
