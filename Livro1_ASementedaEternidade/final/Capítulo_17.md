@@ -184,7 +184,7 @@ O padrão estava acelerando.
 
 Nos dois valens anteriores, havia registrado vinte e três desaparecimentos — todos seguindo a mesma metodologia: seleção por idade e afinidade elemental presumida, rotas que convergiam para territórios de *Umbra*²⁹, transportes operados por companhias de fachada cujos donos eram fantasmas legais com residências em *Cidadela Sombria*³⁰. Vinte e três em dois valens. Agora, três em uma única mês.
 
-A aceleração era deliberada. Selynis sabia disso porque tudo o que os *She-Zuris*³¹ faziam era deliberado — cada desaparecimento era planejado com a precisão cirúrgica de quem remove um órgão sem que o paciente perceba que está sendo operado, e a aceleração só poderia significar uma coisa: eles estavam chegando perto de algo que precisavam completar antes que as portas se fechassem.
+A aceleração era deliberada. Selynis sabia disso porque tudo o que os *Nihil Shid*³¹ faziam era deliberado — cada desaparecimento era planejado com a precisão cirúrgica de quem remove um órgão sem que o paciente perceba que está sendo operado, e a aceleração só poderia significar uma coisa: eles estavam chegando perto de algo que precisavam completar antes que as portas se fechassem.
 
 Ou antes que alguém as fechasse para eles.
 
@@ -244,7 +244,7 @@ Lyris não respirou durante três segundos.
 
 O ar entre elas pareceu diminuir de temperatura — não o frio do cryonys¹⁶ de Alyndra, mas algo mais denso, mais ameaçador, como se o próprio aethra ao redor delas tivesse percebido a gravidade do que estava sendo dito e tivesse recuado.
 
-Ela conhecia aqueles sintomas. Conhecia aquele padrão. Conhecia aquela voz — não a voz in si, mas o tipo de voz, a categoria de fenômeno a que aquela voz pertencia. Em seus valens como operativa do *Tar-Gig*³⁵, antes de ser designada para Sylvaris² e antes de conhecer Alyndra e antes de se tornar a guardiã de uma criança cujo valor para o mundo era maior do que qualquer missão que já recebera, Lyris havia visto aquilo antes. Havia visto pessoas — adultos, na maioria, mas também crianças, pois os *She-Zuris*³¹ não faziam distinção de idade quando escolhiam seus alvos — que começavam a ouvir vozes no sono. Vozes gentis. Vozes amorosas. Vozes que diziam coisas que as pessoas queriam ouvir.
+Ela conhecia aqueles sintomas. Conhecia aquele padrão. Conhecia aquela voz — não a voz in si, mas o tipo de voz, a categoria de fenômeno a que aquela voz pertencia. Em seus valens como operativa do *Tar-Gig*³⁵, antes de ser designada para Sylvaris² e antes de conhecer Alyndra e antes de se tornar a guardiã de uma criança cujo valor para o mundo era maior do que qualquer missão que já recebera, Lyris havia visto aquilo antes. Havia visto pessoas — adultos, na maioria, mas também crianças, pois os *Nihil Shid*³¹ não faziam distinção de idade quando escolhiam seus alvos — que começavam a ouvir vozes no sono. Vozes gentis. Vozes amorosas. Vozes que diziam coisas que as pessoas queriam ouvir.
 
 E depois, aos poucos, as vozes mudavam. Pediam coisas. Exigiam coisas. E as pessoas — as que não tinham sido preparadas, as cujas mentes não tinham sido fortalecidas para resistir — começavam a mudar.
 
@@ -414,9 +414,9 @@ E nos confins mais profundos do aethra — naquele lugar onde a luz de Aurion³ 
 
 ³⁰ **Cidadela Sombria** — Capital de Umbra; fortaleza nas montanhas negras.
 
-³¹ **She-Zuris** — Organização nihilária secreta, conhecida popularmente como "Os Iluminados". Acreditam que a aethra é uma anomalia e que crianças com afinidade elemental devem ser eliminadas antes da manifestação. Conectados aos *cargas fantasmas*.
+³¹ **Nihil Shid** — Organização nihilária secreta, conhecida popularmente como "Os Iluminados". Acreditam que a aethra é uma anomalia e que crianças com afinidade elemental devem ser eliminadas antes da manifestação. Conectados aos *cargas fantasmas*.
 
-³² **cargas fantasmas** — Registros de carga falsos usados para encobrir o desaparecimento sistemático de pessoas — especialmente crianças — nas rotas entre os reinos. Operação ligada aos She-Zuris e a facilitadores dentro dos próprios reinos.
+³² **cargas fantasmas** — Registros de carga falsos usados para encobrir o desaparecimento sistemático de pessoas — especialmente crianças — nas rotas entre os reinos. Operação ligada aos Nihil Shid e a facilitadores dentro dos próprios reinos.
 
 ³³ **Thaloris Ventaris** — *Lugal Lil* de Sylvaris, Senhor dos Ventos. Político brilhante e enigmático. Selynis suspeita de seu envolvimento com as cargas fantasmas, mas carece de provas.
 
