@@ -16,7 +16,7 @@
 
 Trinta passos abaixo do nível mais baixo das fundações de um templo abandonado na fronteira entre *Fulmora*² e *Umbra*³ — um templo que não constava em nenhum mapa oficial, que não tinha nome em nenhum registro eclesiástico, que existia apenas como coordenadas em cristais de dados protegidos por sete camadas de encriptação e pela indiferença de quem não queria saber — havia uma sala. Escavada na rocha-mãe, com o cheiro adocicado de pedra milenar e o peso de toneladas de terra sobre o teto, a sala respirava com a paciência de algo que esperava há mais tempo do que a memória alcançava.
 
-Não uma sala natural. As paredes eram de pedra negra, lisa, cortada com a precisão de uma lâmina cirúrgica — fria ao toque como pele de criatura morta, polida por mãos que não viam a superfície do mundo há valens. O teto era baixo o suficiente para forçar quem entrava a curvar os ombros — não por acidente, mas por design, porque os *She-Zuris*¹ haviam aprendido há valens que a humildade física facilitava a obediência mental. O ar era filtrado e ressecado — sem umidade, sem cheiro, sem textura — como se a própria atmosfera tivesse sido escrutinada e aprovada por um comitê de sombras. Não havia janelas. Não havia *Aurion*⁵. Não havia nada que lembrasse o mundo acima, o mundo dos vivos, o mundo que ainda acreditava que a escuridão era algo que se podia acender com uma tocha. Até o silêncio tinha uma qualidade diferente — não o silêncio de um lugar vazio, mas o silêncio de um lugar que havia aprendido a não fazer barulho.
+Não uma sala natural. As paredes eram de pedra negra, lisa, cortada com a precisão de uma lâmina cirúrgica — fria ao toque como pele de criatura morta, polida por mãos que não viam a superfície do mundo há valens. O teto era baixo o suficiente para forçar quem entrava a curvar os ombros — não por acidente, mas por design, porque os *Nihil Shid*¹ haviam aprendido há valens que a humildade física facilitava a obediência mental. O ar era filtrado e ressecado — sem umidade, sem cheiro, sem textura — como se a própria atmosfera tivesse sido escrutinada e aprovada por um comitê de sombras. Não havia janelas. Não havia *Aurion*⁵. Não havia nada que lembrasse o mundo acima, o mundo dos vivos, o mundo que ainda acreditava que a escuridão era algo que se podia acender com uma tocha. Até o silêncio tinha uma qualidade diferente — não o silêncio de um lugar vazio, mas o silêncio de um lugar que havia aprendido a não fazer barulho.
 
 Havia, no centro da sala, uma mesa.
 
@@ -28,7 +28,7 @@ O edifício era o *Orfanato Luminis*⁹.
 
 Seis figuras estavam sentadas ao redor da mesa. Seis corpos humanos — ou o que restava de humanos — vestidos com túnicas cinzentas que absorviam a pouca luz que os cristais nas paredes emitiam. Seus rostos eram calmos. Seus olhos eram outros: não os olhos dos corpos que habitavam, mas olhos que pertenciam a algo mais antigo, algo que se lembrava de valens antes que aqueles corpos nascessem, algo que observava o mapa com a expressão de um cirurgião observando um coração exposto. Quando respiravam — e respiravam, porque os corpos que ocupavam ainda precisavam de ar — o som era uniforme, sincronizado, como se um único par de pulmões inflasse seis caixas torácicas.
 
-*Nihilarys*¹⁰. Três deles habitavam corpos que haviam sido adquiridos nas fronteiras de *Umbra*³ — camponeses, mercadores, ninguém cuja ausência seria notada. Outros dois ocupavam antigos funcionários de *cargas fantasmas*¹¹, corpos já desgastados pelo uso que os *She-Zuris*¹ faziam deles. O sexto — o que ocupava a posição de honra na cabeceira da mesa — estava em um corpo diferente: mais jovem, mais forte, com os ombros largos e as mãos firmes de quem trabalhou ao ar livre antes de se tornar um recipiente.
+*Nihilaryth*¹⁰. Três deles habitavam corpos que haviam sido adquiridos nas fronteiras de *Umbra*³ — camponeses, mercadores, ninguém cuja ausência seria notada. Outros dois ocupavam antigos funcionários de *cargas fantasmas*¹¹, corpos já desgastados pelo uso que os *Nihil Shid*¹ faziam deles. O sexto — o que ocupava a posição de honra na cabeceira da mesa — estava em um corpo diferente: mais jovem, mais forte, com os ombros largos e as mãos firmes de quem trabalhou ao ar livre antes de se tornar um recipiente.
 
 A voz veio do sexto. Não uma voz humana — algo por baixo da voz, uma ressonância que fazia as paredes vibrarem em frequências que os ouvidos não captavam mas a pele sentia, como o zumbido de um cristal de *aethra*¹⁵ prestes a partir.
 
@@ -40,7 +40,7 @@ O *nihilary*¹⁰ na cabeceira tocou o mapa. Seu dedo — o dedo do corpo que ha
 
 — A infiltração primária será aqui. A dobradiça do portão leste está solta. Identificada pela própria defensora.
 
-Outra pulsão de *aethra*¹⁵ percorreu a mesa. Se os *nihilarys*¹⁰ pudessem sorrir — e podiam, em seus corpos emprestados, embora o sorriso nunca alcançasse os olhos porque os olhos não pertenciam ao rosto — teriam sorrido. Havia uma ironia que transcendia a compreensão humana naquele detalhe: a mulher que protegia o orfanato havia literalmente identificado para eles o ponto mais vulnerável de sua própria defesa. Em sua diligência, em sua paranoia, em sua tentativa de reforçar cada fraqueza que encontrava, Lyris¹⁶ havia inspecionado o portão leste, notado a dobradiça solta, e — sem saber — entregue aos *She-Zuris*¹ a chave da porta dos fundos.
+Outra pulsão de *aethra*¹⁵ percorreu a mesa. Se os *nihilarys*¹⁰ pudessem sorrir — e podiam, em seus corpos emprestados, embora o sorriso nunca alcançasse os olhos porque os olhos não pertenciam ao rosto — teriam sorrido. Havia uma ironia que transcendia a compreensão humana naquele detalhe: a mulher que protegia o orfanato havia literalmente identificado para eles o ponto mais vulnerável de sua própria defesa. Em sua diligência, em sua paranoia, em sua tentativa de reforçar cada fraqueza que encontrava, Lyris¹⁶ havia inspecionado o portão leste, notado a dobradiça solta, e — sem saber — entregue aos *Nihil Shid*¹ a chave da porta dos fundos.
 
 O dedo moveu-se para outro ponto no mapa: o dormitório principal.
 
@@ -60,7 +60,7 @@ O *nihilary*¹⁰ na cabeceira retirou o dedo do mapa e cruzou as mãos sobre a 
 
 Outra pulsão de *aethra*¹⁵. Desta vez, a ressonância carregava algo diferente — algo que, em um humano, seria chamado de respeito. Ou expectativa. Ou ambas as coisas ao mesmo tempo, entrelaçadas como raízes de *argentis*²¹ sob a terra.
 
-O *mercador*²⁰. Era assim que os *She-Zuris*¹ chamavam Korath²² entre si — não por disfarce, mas porque a linguagem dos *She-Zuris*¹ era econômica, e mercadores e assassinos compartilham a mesma habilidade fundamental: a capacidade de calcular o valor exato de qualquer coisa, incluindo vidas.
+O *mercador*²⁰. Era assim que os *Nihil Shid*¹ chamavam Korath²² entre si — não por disfarce, mas porque a linguagem dos *Nihil Shid*¹ era econômica, e mercadores e assassinos compartilham a mesma habilidade fundamental: a capacidade de calcular o valor exato de qualquer coisa, incluindo vidas.
 
 A mesa brilhou mais uma vez. E no mapa do orfanato, as rotas de ataque começaram a pulsar — linhas vermelhas que se desenharam sobre as paredes e portas como veias de um corpo que estava prestes a despertar.
 
@@ -82,13 +82,13 @@ Korath²² entrou na câmara subterrânea e curvou os ombros para passar pela po
 
 Os seis *nihilarys*¹⁰ estavam onde ele esperava que estivessem: ao redor da mesa, em seus corpos emprestados, com seus olhos que não pertenciam aos rostos. Korath²² não se sentou. Ficou de pé no lado oposto da mesa, com as mãos apoiadas na borda negra da superfície de *aethrys*⁶, e olhou para o mapa do orfanato como quem olha para um tabuleiro de xadrez antes do primeiro lance. Recomporia as peças em silêncio — era o que fazia antes de qualquer operação: visualizar cada movimento antes de executá-lo, ensaiar a coreografia da violência na mente para que o corpo não precisasse pensar quando chegasse o momento.
 
-Ele não era um homem de ideologia. Isso era importante — os *She-Zuris*¹ o haviam escolhido por isso. Korath²² não acreditava em luz ou escuridão, não servia a deuses ou profecias, não nutria ressentimentos contra reinos ou sistemas. Servia a *Umbra*³ porque *Umbra*³ o havia treinado, e ele tinha um código — simples, imutável, não sujeito a interpretações: quem paga, manda. Quem obedece, vive. Quem quebra o contrato, não respira mais. Era um código feio, um código que os poetas de *Velantis*²⁵ cantariam como barbárie, mas Korath²² não era poeta. Era profissional. E a profissionalidade era a forma mais elegante de violência que existia.
+Ele não era um homem de ideologia. Isso era importante — os *Nihil Shid*¹ o haviam escolhido por isso. Korath²² não acreditava em luz ou escuridão, não servia a deuses ou profecias, não nutria ressentimentos contra reinos ou sistemas. Servia a *Umbra*³ porque *Umbra*³ o havia treinado, e ele tinha um código — simples, imutável, não sujeito a interpretações: quem paga, manda. Quem obedece, vive. Quem quebra o contrato, não respira mais. Era um código feio, um código que os poetas de *Velantis*²⁵ cantariam como barbárie, mas Korath²² não era poeta. Era profissional. E a profissionalidade era a forma mais elegante de violência que existia.
 
 Seu código tinha uma regra sobre crianças. Não as mata sem necessidade. Isso não era compaixão — era economia. Crianças mortas não têm valor no mercado de *cargas fantasmas*¹¹. Crianças vivas, sim. E Korath²² era, acima de tudo, um homem que entendia de valor.
 
 — Doze operativos — ele disse, e sua voz era grave o bastante para fazer a água em um copo vibrar. — Todos possuídos ou aliados. Quatro com treinamento avançado em infiltração. Três com capacidade de supressão de *aethra*¹⁵ de campo. Os demais, combate corpo a corpo.
 
-Ele não perguntou se era suficiente. Não perguntava coisas assim. Se os *She-Zuris*¹ dissessem que doze era o número, doze era o número. E se doze não fossem suficientes, Korath²² faria que fossem. Era isso que o diferenciava dos outros comandantes de *Umbra*³: não a força — muitos eram fortes — mas a recusa em aceitar que a força pudesse ser insuficiente.
+Ele não perguntou se era suficiente. Não perguntava coisas assim. Se os *Nihil Shid*¹ dissessem que doze era o número, doze era o número. E se doze não fossem suficientes, Korath²² faria que fossem. Era isso que o diferenciava dos outros comandantes de *Umbra*³: não a força — muitos eram fortes — mas a recusa em aceitar que a força pudesse ser insuficiente.
 
 — A criança²⁶ é o alvo primário — ele continuou, e ao dizer "criança"²⁶ sua voz não mudou. Não havia peso especial na palavra, não havia revolta, não havia relutância. Era um dado. Uma coordenada. Um ponto no mapa como qualquer outro. — Entregá-la ao templo intacta. As outras são cargas secundárias — valor menor, mas valor. Não as danifique além do necessário para o transporte.
 
@@ -122,7 +122,7 @@ Era a isca. A mais antiga, a mais simples, a mais eficaz.
 
 Enquanto a *Equipe Alfa* mantinha a atenção no norte, a *Equipe Beta* entraria pelo leste — pelo portão com a dobradiça solta que Lyris¹⁶ havia identificado em sua inspeção do perímetro. Dois operativos de infiltração, treinados para se mover no escuro com mais naturalidade do que os peixes se movem na água. Eles não carregavam armas pesadas — carregavam silêncio, e o silêncio, nas mãos certas, era mais letal do que qualquer lâmina.
 
-A ironia era perfeita. Em sua tentativa de proteger o orfanato, Lyris¹⁶ havia inspecionado cada centímetro do perímetro. Havia notado a dobradiça do portão leste. Havia provavelmente planejado consertá-la — ou já tinha mandado alguém consertá-la. Mas os *She-Zuris*¹ tinham uma regra sobre informação: quando uma informação é útil, ela é usada imediatamente. Quando uma fonte revela uma vulnerabilidade, a janela de exploração dessa vulnerabilidade se abre e nunca se fecha, porque a velocidade com que a informação perde valor é a velocidade com que a defesa se adapta.
+A ironia era perfeita. Em sua tentativa de proteger o orfanato, Lyris¹⁶ havia inspecionado cada centímetro do perímetro. Havia notado a dobradiça do portão leste. Havia provavelmente planejado consertá-la — ou já tinha mandado alguém consertá-la. Mas os *Nihil Shid*¹ tinham uma regra sobre informação: quando uma informação é útil, ela é usada imediatamente. Quando uma fonte revela uma vulnerabilidade, a janela de exploração dessa vulnerabilidade se abre e nunca se fecha, porque a velocidade com que a informação perde valor é a velocidade com que a defesa se adapta.
 
 A *Equipe Beta* não esperaria pela adaptação.
 
@@ -164,11 +164,11 @@ A *Nyctara*¹⁷ era uma usuária de *thermaris*²⁹. Isso era fato — havia s
 
 Mas *thermaris*²⁹ era a base de seu poder. Sem *aethra*¹⁵ para canalizar, Lyris¹⁶ não seria mais perigosa do que qualquer outra mulher com um punhal e boa formação. Perigosa, sim — mas contida. Gerenciável.
 
-Vex sabia tudo isso porque os *She-Zuris*¹ o haviam instruído durante horas. Ele sabia que Lyris¹⁶ era a guardiã de Alyndra²⁷. Sabia que era uma ex-operativa do *Tar-Gig*³⁷. Sabia que havia sido reativada recentemente e que sua lealdade ao orfanato — e especificamente à menina de olhos castanhos — era o tipo de lealdade que fazia pessoas cometerem atos irracionais. E os *She-Zuris*¹ tinham um plano para explorar essa lealdade.
+Vex sabia tudo isso porque os *Nihil Shid*¹ o haviam instruído durante horas. Ele sabia que Lyris¹⁶ era a guardiã de Alyndra²⁷. Sabia que era uma ex-operativa do *Tar-Gig*³⁷. Sabia que havia sido reativada recentemente e que sua lealdade ao orfanato — e especificamente à menina de olhos castanhos — era o tipo de lealdade que fazia pessoas cometerem atos irracionais. E os *Nihil Shid*¹ tinham um plano para explorar essa lealdade.
 
 Se Lyris¹⁶ lutasse — e lutaria, porque o tipo de pessoa que protege é o tipo de pessoa que luta — Vex ativaria o dispositivo e criaria o campo de supressão. A *Nyctara*¹⁷ sentiria o *aethra*¹⁵ se esvair de suas veias como água de um vaso rachado. Seus *thermaris*²⁹ falhariam. Seus reflexos, condicionados a contar com a energia elemental, seriam mais lentos. E nesse momento de desequilíbrio — nesses poucos segundos em que um guerreiro descobre que sua arma principal não funciona — um operativo de apoio, posicionado nas sombras atrás dela, faria o que precisava ser feito.
 
-Não matá-la. Os *She-Zuris*¹ não queriam Lyris¹⁶ morta — morta, ela se tornaria mártir, e mártires são mais perigosos vivos do que mortos. Queriam-na neutralizada. Imobilizada. E, idealmente, forçada a observar enquanto Alyndra²⁷ era levada embora — porque os *nihilarys*¹⁰ entendiam algo que os humanos frequentemente esqueciam: a dor de não poder proteger é mais devastadora do que a dor de ser ferido. E uma Lyris¹⁶ quebrada pela impotência era uma Lyris¹⁶ que não voltaria a ser uma ameaça.
+Não matá-la. Os *Nihil Shid*¹ não queriam Lyris¹⁶ morta — morta, ela se tornaria mártir, e mártires são mais perigosos vivos do que mortos. Queriam-na neutralizada. Imobilizada. E, idealmente, forçada a observar enquanto Alyndra²⁷ era levada embora — porque os *nihilarys*¹⁰ entendiam algo que os humanos frequentemente esqueciam: a dor de não poder proteger é mais devastadora do que a dor de ser ferido. E uma Lyris¹⁶ quebrada pela impotência era uma Lyris¹⁶ que não voltaria a ser uma ameaça.
 
 Vex ajustou as correias da caixa nas costas e respirou fundo. Não era corajoso — não era medroso. Era funcional. Assim como Korath²², assim como os *nihilarys*¹⁰, Vex era uma peça no tabuleiro, e as peças não questionam o jogo.
 
@@ -208,9 +208,9 @@ Korath²² pegou o cristal. Era pequeno, opaco, quase sem peso — como todas as
 
 Korath²² processou a informação. Um ajudante de cozinha. Subornado por Vethran Noll — um nome que conhecia de relatórios, o *Mestre dos Sussurros* de *Sylvaris*⁷, um homem cuja habilidade de comprar lealdades era rivalizada apenas por sua discrição. A escolha era típica de Noll: não um espião, não um agente — uma pessoa comum, com uma fraqueza comum, transformada em ferramenta pelo peso das moedas certas no momento certo.
 
-O ajudante fugiria antes da operação. Isso era prudente — testemunhas sobreviventes geravam perguntas, e perguntas atrasavam operações. Noll sabia disso. Os *She-Zuris*¹ sabiam disso. E Korath²², que não confiava em ninguém que não tivesse um contrato assinado em sangue, sabia que a distância entre um ajudante de cozinha e uma boca frouxa era medida em minutos, não em dias.
+O ajudante fugiria antes da operação. Isso era prudente — testemunhas sobreviventes geravam perguntas, e perguntas atrasavam operações. Noll sabia disso. Os *Nihil Shid*¹ sabiam disso. E Korath²², que não confiava em ninguém que não tivesse um contrato assinado em sangue, sabia que a distância entre um ajudante de cozinha e uma boca frouxa era medida em minutos, não em dias.
 
-Quanto ao zelador — Aldric³³ — Korath²² o havia observado durante cinco meses. Homem silencioso, quarto no alpendre da cozinha, rotina previsível, sono pesado. Nada em seu perfil sugeria ligação com *Umbra*³ ou com a rede dos *She-Zuris*¹. Era uma variável descartada — um homem comum em um lugar que, em três dias, deixaria de ser comum.
+Quanto ao zelador — Aldric³³ — Korath²² o havia observado durante cinco meses. Homem silencioso, quarto no alpendre da cozinha, rotina previsível, sono pesado. Nada em seu perfil sugeria ligação com *Umbra*³ ou com a rede dos *Nihil Shid*¹. Era uma variável descartada — um homem comum em um lugar que, em três dias, deixaria de ser comum.
 
 — A nyxara mais profunda — Korath²² disse, voltando ao mapa. — *Lyria*¹⁴ no zênite. O *aethra*¹⁵ natural mais denso. Maior probabilidade de sonhos profundos. Menor probabilidade de vigília espontânea.
 
@@ -278,7 +278,7 @@ E quando a nyxara atingiu seu ponto mais profundo — quando *Lyria*¹⁴ atingi
 
 ## 📖 Glossário do Capítulo
 
-¹ **She-Zuris** — Seita secreta que se autodenomina "Os Iluminados"; orquestram as *cargas fantasmas* e a rede de *nihilarys*.
+¹ **Nihil Shid** — Seita secreta que se autodenomina "Os Iluminados"; orquestram as *cargas fantasmas* e a rede de *nihilarys*.
 
 ² **Fulmora** — Reino dos Raios; quinto reino.
 
@@ -294,9 +294,9 @@ E quando a nyxara atingiu seu ponto mais profundo — quando *Lyria*¹⁴ atingi
 
 ⁸ **Sanctrum** — Capital continental; sede do Conselho dos 12 e da Torre de *Aurion*.
 
-⁹ **Orfanato Luminis** — Orfanato em *Velantis*; alvo do ataque coordenado pelos *She-Zuris*.
+⁹ **Orfanato Luminis** — Orfanato em *Velantis*; alvo do ataque coordenado pelos *Nihil Shid*.
 
-¹⁰ **nihilary / nihilarys** — Agentes dos *She-Zuris*; seres capazes de manipular escuridão e ausência. Habitam corpos humanos como receptáculos.
+¹⁰ **nihilary / nihilarys** — Agentes dos *Nihil Shid*; seres capazes de manipular escuridão e ausência. Habitam corpos humanos como receptáculos.
 
 ¹¹ **cargas fantasmas** — Termo não oficial para o tráfico de pessoas através das fronteiras sem registro.
 
@@ -308,13 +308,13 @@ E quando a nyxara atingiu seu ponto mais profundo — quando *Lyria*¹⁴ atingi
 
 ¹⁶ **Lyris (Nyctara)** — Administradora do Orfanato Luminis; ex-operativa do *Tar-Gig* com afinidade ao *thermaris*.
 
-¹⁷ **Nyctara** — Codinome operacional de Lyris; usado pelos *She-Zuris* para designá-la como ameaça tática.
+¹⁷ **Nyctara** — Codinome operacional de Lyris; usado pelos *Nihil Shid* para designá-la como ameaça tática.
 
 ¹⁸ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos literários específicos, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo" (já aplicado nos capítulos).
 
 ¹⁹ **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
 
-²⁰ **o mercador** — Designação interna dos *She-Zuris* para Korath.
+²⁰ **o mercador** — Designação interna dos *Nihil Shid* para Korath.
 
 ²¹ **argentis** — Árvore de casca prateada e folhas translúcidas; comum em *Sylvaris*.
 
@@ -339,7 +339,7 @@ E quando a nyxara atingiu seu ponto mais profundo — quando *Lyria*¹⁴ atingi
 
 ³² **Kira** — Auxiliar do Orfanato Luminis; monitora as meninas menores.
 
-³³ **Aldric** — Zelador do Orfanato Luminis; observado pelos *She-Zuris* durante a fase de reconhecimento.
+³³ **Aldric** — Zelador do Orfanato Luminis; observado pelos *Nihil Shid* durante a fase de reconhecimento.
 
 ³⁴ **Nyx** — *Lyrien* prateada companheira de Alyndra.
 
