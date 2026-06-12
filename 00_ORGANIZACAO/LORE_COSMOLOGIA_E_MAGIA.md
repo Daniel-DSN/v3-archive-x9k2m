@@ -2216,3 +2216,18 @@ Exige no mínimo Estágio IV (Cultivador) e afinidade com Vento. O aetheriano ma
 Raríssimo (Requer Estágio VI+). O usuário canaliza Aethra pura contra a própria gravidade. O corpo se torna uma extensão da energia.
 *Exceção Mortal:* Aurelius Lumivael. Devido à sua afinidade (Vento + Luz) aliada à Manopla de Vinculação, ele realiza voos continentais em segundos no "Modo Ativo", embora isso corroa a contenção do primordial selado.
 
+---
+
+## DOCUMENTOS COMPLEMENTARES DE LORE
+
+Os seguintes documentos contêm definições canônicas detalhadas que expandem os tópicos tratados neste arquivo:
+
+| Documento | Conteúdo | Relação com este arquivo |
+|-----------|----------|--------------------------|
+| [LORE_ALYNDRA_PRIMORDIAL.md](LORE_ALYNDRA_PRIMORDIAL.md) | Alyndra Primordial, gravidez dos gêmeos (Ilyos ♀ / Nyxalor ♂), vislumbrar do futuro, mecanismo da Semente, linhagem até a protagonista | Expande as seções "A PRIMEIRA ERA DE AERTHERION" e "A GRANDE EXTINÇÃO" |
+| [LORE_GUERRA_E_SELO.md](LORE_GUERRA_E_SELO.md) | Guerra dos Irmãos em 4 fases (Divisão → Redenção → Derrota → Selamento), papel de Elarys, estrutura do selo | Expande as seções "A QUEDA DE NYXALOR" e "A ÚLTIMA BATALHA" |
+| [LORE_SERAPHYENS_E_DESCENDENCIA.md](LORE_SERAPHYENS_E_DESCENDENCIA.md) | Os Dez Seraphyens (5 luz / 5 sombra), perfis de Myrrhiel, Elarys e Veridion, sistema de criação de Ilyos, famílias descendentes | Expande as seções sobre Seraphyens e seus legados nos reinos |
+| [LORE_NIHILARYS.md](LORE_NIHILARYS.md) | Origem dos Nihilaryth, a Queda (Ur-Nyxal e o Fruto), líderes (Ur-Nyxal, Vha-Korath, Mythra), maldição transdimensional | Expande a seção "OS NIHILARYTH — A PRIMEIRA QUEDA" |
+| [VOZ_PERSONAGENS.md](VOZ_PERSONAGENS.md) | Perfis de voz para escrita — Alyndra (dócil, serena), Lyris (sarcástica, afiada), dinâmica entre personagens, jargões chiclete | Referência de escrita para manter consistência nos capítulos |
+| [NIHILARYTH_EXPANSÃO_DETALHADA.md](NIHILARYTH_EXPANSÃO_DETALHADA.md) | Estrutura de poder, Plano de Sombra, hierarquia, infiltração por reino, linha do tempo completa | Detalha a ameaça Nihilaryth na era atual |
+| [CIVILIZACAO_PRIMORDIAL_VS_ATUAL.md](CIVILIZACAO_PRIMORDIAL_VS_ATUAL.md) | Comparação Kardashev: Aertherion Primordial (Tipo 2) vs Nova Aetherion (0.3-0.4), degradação por reino | Contexto tecnológico e civilizatório |
