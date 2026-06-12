@@ -23,7 +23,7 @@
 11. [As Minas de Aetherite](#11-as-minas-de-aetherite)
 12. [Rituais e Festivais — O Ciclo Anual](#12-rituais-e-festivais-o-ciclo-anual)
 13. [A Perseguição ao Culto de Nyxalor](#13-a-perseguicao-ao-culto-de-nyxalor)
-14. [Infiltração Nihilaryth — Os She-Zuris no Conselho](#14-infiltracao-nihilaryth-os-she-zuris-no-conselho)
+14. [Infiltração Nihilaryth — Os Nihil Shid no Conselho](#14-infiltracao-nihilaryth-os-Nihil Shid-no-conselho)
 15. [Relações Diplomáticas de Sanctrum](#15-relacoes-diplomaticas-de-sanctrum)
 16. [Linha do Tempo de Sanctrum](#16-linha-do-tempo-de-sanctrum)
 17. [Glossário Sanctrino](#17-glossario-sanctrino)
@@ -179,10 +179,10 @@ Cada reescrita adicionou mais divindade e removeu mais humanidade. Ao final, Ily
 
 Embora a distorção inicial tenha sido feita por humanos bem-intencionados, os Nihilaryth **se infiltraram** no processo assim que perceberam seu potencial.
 
-Por volta da 20ª geração humana, os primeiros She-Zuris (agentes Nihilaryth infiltrados) começaram a ocupar posições de influência na hierarquia de Sanctrum. Sua estratégia era brilhante em sua simplicidade:
+Por volta da 20ª geração humana, os primeiros Nihil Shid (agentes Nihilaryth infiltrados) começaram a ocupar posições de influência na hierarquia de Sanctrum. Sua estratégia era brilhante em sua simplicidade:
 
 - **Não criar o mal** — eles não precisavam criar conflitos. Os humanos já faziam isso sozinhos.
-- **Amplificar distorções existentes** — quando um Guardião sugeria uma regra mais rígida, os She-Zuris a apoiavam. Quando um Conselheiro propunha perseguir hereges, eles incentivavam.
+- **Amplificar distorções existentes** — quando um Guardião sugeria uma regra mais rígida, os Nihil Shid a apoiavam. Quando um Conselheiro propunha perseguir hereges, eles incentivavam.
 - **Corromper pela estrutura** — a própria hierarquia que Sanctrum havia criado era uma arma contra si mesma. Quanto mais rígida, mais fácil de manipular.
 
 ### 3.4 A Ironia Final
@@ -1016,7 +1016,7 @@ Na prática, a perseguição é **menos brutal do que a propaganda sugere**, mas
 - **Prisões preventivas** são comuns — pessoas acusadas sem provas, mantidas presas por meses
 - **Interrogatórios duros** — a En Me Du usa métodos que beiram a tortura
 - **Execuções públicas** são raras (uma a cada 2-3 valens), mas amplamente divulgadas como dissuasão
-- **O Culto se alimenta da perseguição** — cada prisão injusta gera 10 novos simpatizantes (exatamente como os She-Zuris planejam)
+- **O Culto se alimenta da perseguição** — cada prisão injusta gera 10 novos simpatizantes (exatamente como os Nihil Shid planejam)
 
 ### 13.4 A Infiltração na Perseguição
 
@@ -1031,7 +1031,7 @@ Aurelius sabe que endurecer a perseguição é contraproducente, mas **não pode
 
 ---
 
-## 14. Infiltração Nihilaryth — Os She-Zuris no Conselho
+## 14. Infiltração Nihilaryth — Os Nihil Shid no Conselho
 
 ### 14.1 O Plano dos Nihilaryth
 
@@ -1045,9 +1045,9 @@ Os Nihilaryth têm um plano de longo prazo para Sanctrum, orquestrado por **Mytr
 | **4. Isolar** | Alienar Sanctrum dos outros reinos | 100 valens | Em andamento |
 | **5. Colapsar** | Quando Sanctrum estiver isolado e dividido, atacar | Próximos 50 valens | Planejado |
 
-### 14.2 Os She-Zuris em Sanctrum
+### 14.2 Os Nihil Shid em Sanctrum
 
-Os **She-Zuris** (Emê-Gir: "Aqueles que Sussurram na Sombra") são agentes Nihilaryth infiltrados em posições de poder. Em Sanctrum:
+Os **Nihil Shid** (Emê-Gir: "Aqueles que Sussurram na Sombra") são agentes Nihilaryth infiltrados em posições de poder. Em Sanctrum:
 
 | Agente | Posição | Nível de Infiltração | Conhecido por |
 |--------|---------|:--------------------:|---------------|
@@ -1073,16 +1073,16 @@ Xaryntha, a Sussurrante, ocupa a casca de uma mulher sanctrina de 40 valens cham
 - Sugere políticas extremas de forma indireta: "Talvez devêssemos considerar..."
 - Cultiva aliados entre os Puristas (Valtheris, Ouric)
 - Isola os Moderados (Verena, Lian) espalhando boatos
-- Mantém um "séquito" de assistentes que são todos agentes She-Zuris
+- Mantém um "séquito" de assistentes que são todos agentes Nihil Shid
 
 **Momento Crítico:** A Mulher de Branco está **acelerando seus planos** desde que descobriu (através de informantes) que Alyndra despertou o Cryonys. Ela quer:
 1. Criar uma crise que force Aurelius a sair de Sanctrum
 2. Na ausência dele, tomar o controle do Conselho
 3. Declarar guerra total ao Culto (gerando o caos que os Nihilaryth precisam)
 
-### 14.4 A Rede She-Zuri em Sanctrum
+### 14.4 A Rede Nihil Shid em Sanctrum
 
-Além da Mulher de Branco, os She-Zuris mantêm uma rede de agentes menores em Sanctrum, organizados em **células de 3** — cada agente conhece apenas outros dois.
+Além da Mulher de Branco, os Nihil Shid mantêm uma rede de agentes menores em Sanctrum, organizados em **células de 3** — cada agente conhece apenas outros dois.
 
 | Célula | Localização | Função | Status |
 |--------|-------------|--------|:------:|
@@ -1092,7 +1092,7 @@ Além da Mulher de Branco, os She-Zuris mantêm uma rede de agentes menores em S
 | **Mãos de Pedra (Kin Kur)** | Minas de Aetherite | Contrabando e financiamento | Desmantelada (Velatrix) |
 | **Coração de Cristal** | Velatrix (infiltração) | Tentativa de acesso aos arquivos | Em andamento |
 
-**Financiamento:** Os She-Zuris em Sanctrum operam com **~100.000 Lumens por valen**, vindos de:
+**Financiamento:** Os Nihil Shid em Sanctrum operam com **~100.000 Lumens por valen**, vindos de:
 - Contrabando de Aetherite (40%)
 - Negócios de fachada em Cidade Baixa (30%)
 - Doações "anônimas" de simpatizantes do Culto (20%)
@@ -1114,7 +1114,7 @@ Aurelius sabe que a Mulher de Branco é uma infiltrada há 6 valens (confirmado 
 **Fase 3 — Eliminar:**
 - Se necessário, a Velatrix tem autorização para "remover" a Mulher de Branco
 - O método seria um "acidente" — queda da Torre, envenenamento disfarçado de doença
-- Aurelius prefere não chegar a este ponto (criaria um vácuo de poder e alertaria outros She-Zuris)
+- Aurelius prefere não chegar a este ponto (criaria um vácuo de poder e alertaria outros Nihil Shid)
 
 **O Dilema:** Aurelius não pode expulsar a Mulher de Branco sem provas irrefutáveis — os Puristas do Conselho (Valtheris, Ouric) a apoiam. Se agir sem provas, causará uma crise política. Se esperar tempo demais, ela pode executar seu plano.
 
@@ -1127,7 +1127,7 @@ Aurelius sabe que a Mulher de Branco é uma infiltrada há 6 valens (confirmado 
 | **Juíza Selynis** | Desconfia | Investigou Lysanna Vael por conta própria; encontrou inconsistências |
 | **Matriarca Verena** | Desconfia | Aliada de Aurelius; tenta neutralizar a influência da Mulher de Branco |
 | **Valtheris** | Não sabe | É manipulado pela Mulher de Branco (inconscientemente) |
-| **Ouric** | Não sabe | É manipulado (seu assistente é She-Zuri) |
+| **Ouric** | Não sabe | É manipulado (seu assistente é Nihil Shid) |
 
 ---
 
@@ -1211,7 +1211,7 @@ Aurelius sabe que a Mulher de Branco é uma infiltrada há 6 valens (confirmado 
 | **~3.900 E.D.** | Segunda reescrita (Ilyos como deusa) |
 | **~4.000 E.D.** | Edubba Gal Aurion fundada na forma atual |
 | **~4.050 E.D.** | Terceira reescrita (versão atual) — doutrina oficial |
-| **~4.070 E.D.** | Primeiros She-Zuris infiltrados no Conselho |
+| **~4.070 E.D.** | Primeiros Nihil Shid infiltrados no Conselho |
 | **4.073 E.D.** | Velatrix criada como serviço de inteligência |
 | **~4.083 E.D.** | Perseguição ao Culto de Nyxalor se intensifica |
 | **4.053 E.D.** | RRA concebida por Zerynthia e Aurelius (há 50 valens) |
@@ -1233,7 +1233,7 @@ Aurelius sabe que a Mulher de Branco é uma infiltrada há 6 valens (confirmado 
 | **En Me Du** | "Aqueles que Mantêm a Luz" (bibliotecários armados) | "En Me Du" (exército teocrático) |
 | **Vel Atrix** | "Aquela que Vê nas Sombras" (arquivista) | "Velatrix" (chefe de inteligência) |
 | **Ukam** | "Olho" (observador) | Assento de inteligência no Conselho |
-| **She-Zuri** | "Sussurrador na Sombra" (antigo) | Agente Nihilaryth infiltrado |
+| **Nihil Shid** | "Sussurrador na Sombra" (antigo) | Agente Nihilaryth infiltrado |
 
 ### Termos Geográficos
 
