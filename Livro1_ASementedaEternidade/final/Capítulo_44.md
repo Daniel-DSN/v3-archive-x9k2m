@@ -123,13 +123,13 @@ E Aurelius³ *descreveu*.
 
 Não tudo. Não *cryonys*⁷ de Alyndra¹¹ — o despertar, a explosão, a garota de cinco valens *congelando* uma aberração que tinha *milhares* de *nihilarys*²¹. Não a *Erupção do Carmesim*²² — a técnica que Aurelius³ tinha usado como último recurso, a liberação da totalidade de sua *aethra*¹⁵ vital, a invocação do poder aprisionado de Nyxalor²³ através da *Manopla da Vinculação*²⁴. Não a relação entre Alyndra¹¹ e o selo de Elarys²⁵, não a possibilidade de que Alyndra¹¹ fosse algo *mais* do que uma criança com afinidade para o gelo.
 
-Aurelius³ descreveu o que era *seguro* descrever: a aberração era a fusão de múltiplos *nihilarys*²¹ em um único hospedeiro. O hospedeiro era Thaloris Ventaris¹⁰, *Lugal Lil*¹⁸ de *Sylvaris*²⁶. A coordenação dos *nihilarys*²¹ demonstrava um nível de sofisticação dos *She-Zuris*²⁷ que *ultrapassava* qualquer manifestação anterior. A aberração estava *construindo* algo no templo — um *nexus* de energia negativa que teria *propagado* a corrupção se não fosse destruída.
+Aurelius³ descreveu o que era *seguro* descrever: a aberração era a fusão de múltiplos *nihilarys*²¹ em um único hospedeiro. O hospedeiro era Thaloris Ventaris¹⁰, *Lugal Lil*¹⁸ de *Sylvaris*²⁶. A coordenação dos *nihilarys*²¹ demonstrava um nível de sofisticação dos *Nihil Shid*²⁷ que *ultrapassava* qualquer manifestação anterior. A aberração estava *construindo* algo no templo — um *nexus* de energia negativa que teria *propagado* a corrupção se não fosse destruída.
 
 Cada frase era *pesada* — não pelo conteúdo, pela *omissão*. Aurelius³ estava *selecionando* o que dizia com a precisão de um cirurgião, removendo os detalhes que eram *perigosos* e preservando os que eram *inocentes*, construindo uma narrativa que era *verdadeira* e ao mesmo tempo *incompleta* — a verdade de quem sabe que está sendo avaliado e que não pode, *não pode*, revelar tudo.
 
 A mulher de garras falou em seguida.
 
-— Os *She-Zuris*²⁷ — disse, e a voz era *áspera*, como unhas arranhando pedra, como o som que existe antes de um *desmoronamento*. — O que você *sabe* sobre as intenções deles?
+— Os *Nihil Shid*²⁷ — disse, e a voz era *áspera*, como unhas arranhando pedra, como o som que existe antes de um *desmoronamento*. — O que você *sabe* sobre as intenções deles?
 
 — O que qualquer operador de inteligência de *Sanctrum*¹³ sabe — Aurelius³ respondeu, e a voz era *neutra*, a voz do *En Me*¹² respondendo a uma audiência, sem emoção, sem *infiltração*, apenas *fatos*. — Buscam a reconstrução do *nihilary*²¹ primordial. A aberração era um *teste* — uma demonstração de que a possessão múltipla em um único hospedeiro é *viável*. O próximo passo será *escalar* a técnica, aplicá-la a hospedeiros mais *poderosos*, ou a múltiplos hospedeiros simultâneos.
 
@@ -353,7 +353,7 @@ Não *nada*.
 
 Cinco *valens*³⁴ de *nada*.
 
-E agora, quando o mundo estava *mudando*, quando os *She-Zuris*²⁷ tinham demonstrado que podiam *possuir* um *Lugal Lil*¹⁸, quando um mal que os Anciãos²⁰ *recusavam* nomear estava *por vir* — *agora* eles *falavam*. Agora eles *revelavam*. Agora eles *agiam*. Não porque *quisessem* — porque *precisavam*. E a necessidade *tinha* uma direção, e a direção era *Thalassia*³³, e o *destino* era Alyndra¹¹, e Aurelius³ não tinha *controle* sobre *nenhuma* dessas coisas.
+E agora, quando o mundo estava *mudando*, quando os *Nihil Shid*²⁷ tinham demonstrado que podiam *possuir* um *Lugal Lil*¹⁸, quando um mal que os Anciãos²⁰ *recusavam* nomear estava *por vir* — *agora* eles *falavam*. Agora eles *revelavam*. Agora eles *agiam*. Não porque *quisessem* — porque *precisavam*. E a necessidade *tinha* uma direção, e a direção era *Thalassia*³³, e o *destino* era Alyndra¹¹, e Aurelius³ não tinha *controle* sobre *nenhuma* dessas coisas.
 
 Aurelius³ parou no corredor.
 
@@ -455,7 +455,7 @@ E agora *mais do que nunca*.
 
 ²⁰ **Anciãos** — Seis seres ancestrais que habitam as profundezas de *Sanctrum*¹³. Precedem a Ordem, o Conselho dos 12¹⁹ e o próprio conceito de *Sanctrum*¹³ como instituição. Observam sem interferir. Sabiam de Ayla¹⁶, de Alyndra¹¹ e de toda a vida secreta de Aurelius³.
 
-²¹ **nihilary / nihilarys** — Agentes dos *She-Zuris*²⁷; seres de escuridão e ausência. A aberração do templo continha milhares de *nihilarys*²¹ operando em coordenação.
+²¹ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²⁷; seres de escuridão e ausência. A aberração do templo continha milhares de *nihilarys*²¹ operando em coordenação.
 
 ²² **Erupção do Carmesim** — Técnica suprema de Aurelius³; liberação controlada da totalidade da *aethra*¹⁵ vital. Não mencionada por Aurelius³ durante a audiência.
 
@@ -467,7 +467,7 @@ E agora *mais do que nunca*.
 
 ²⁶ **Sylvaris** — Reino dos Ventos Livres. Sob custódia administrativa de *Sanctrum*¹³ após a sabatina.
 
-²⁷ **She-Zuris** — Ordem sombria que se autodenomina "A Ordem da Luz"; responsável pela rede de *nihilarys*²¹ e pela conspiração contra Alyndra¹¹.
+²⁷ **Nihil Shid** — Ordem sombria que se autodenomina "A Ordem da Luz"; responsável pela rede de *nihilarys*²¹ e pela conspiração contra Alyndra¹¹.
 
 ²⁸ **Aga Uru** — Guerreiros de armadura prateada; força de elite de *Sylvaris*²⁶. Aurelius³ reconhece o ângulo de ataque da mulher de garras como o de um *Aga Uru*²⁸.
 
