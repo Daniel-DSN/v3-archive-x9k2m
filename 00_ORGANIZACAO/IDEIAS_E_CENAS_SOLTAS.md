@@ -607,7 +607,7 @@ Alyndra começa a sentir ressonâncias etéricas inexplicáveis ao passar perto 
 
 #### Fase 3 — O Encontro (PENDENTE — Livro II ou ponto alto do Livro I)
 
-Alyndra está em uma fortaleza Nihilaryth, templo corrompido, ou local de poder dos She-Zuris. Ela vê uma figura feminina, imóvel, de pé contra a parede. Cabelos escuros. Pele pálida. Olhos abertos — mas não são olhos. São poços de escuridão com uma luz azulada no fundo.
+Alyndra está em uma fortaleza Nihilaryth, templo corrompido, ou local de poder dos Nihil Shid. Ela vê uma figura feminina, imóvel, de pé contra a parede. Cabelos escuros. Pele pálida. Olhos abertos — mas não são olhos. São poços de escuridão com uma luz azulada no fundo.
 
 A figura move-se com rigidez — algo que aprendeu a imitar uma pessoa, mas não se importa em ser convincente. Quando fala, a voz é da coisa dentro dela, não de Ayla.
 
@@ -632,7 +632,7 @@ Enterro completo. Cinco valens depois.
 #### Notas de Implementação
 
 - **Ordem temporal:** Se o encontro acontecer ANTES da projeção do Coração de Thalassia (Cap 32), a projeção se torna ainda mais devastadora — Alyndra acabou de ver o rosto da mãe profanado, e agora o eco aparece limpo e amoroso. Se acontecer DEPOIS, a casca é o espelho negro do que ela acabou de viver.
-- **Informação Nihilaryth:** Os Nihilaryth sabem que Ayla era mãe de Alyndra. Como? Através de She-Zuris na Câmara dos Sussurros? Dos velkoramis? Da RRA? Essa pista pode abrir uma subtrama sobre o nível de infiltração Nihilaryth em Sanctrum.
+- **Informação Nihilaryth:** Os Nihilaryth sabem que Ayla era mãe de Alyndra. Como? Através de Nihil Shid na Câmara dos Sussurros? Dos velkoramis? Da RRA? Essa pista pode abrir uma subtrama sobre o nível de infiltração Nihilaryth em Sanctrum.
 - **Aldric sabe:** Ele carrega essa verdade desde antes do Cap 31. A culpa de não ter contado pode ser explorada em cenas futuras.
 - **Kaelia Marethyus:** A irmã de Ayla, se souber do destino do corpo, terá uma reação — luto, raiva, ou a determinação de recuperar os restos da irmã para um enterro Thalassiano digno.
 
