@@ -197,9 +197,9 @@ A sombra da aberração caiu sobre Alyndra².
 
 A aberração se inclinou.
 
-Quatro metros e meio de obsidiana e *nihilarys*³ e dor e fome se curvando sobre uma criança de cinco valens que jazia inconsciente em um leito de gelo rachado, com o corpo branco e os olhos fechados e o *cryonys*¹ silenciado e Nyx²⁰ morta ao lado como uma sentinela que falhou. A aberração conhecia o rosto — os *nihilarys*³ conheciam, tinham estudado, tinham *rastreado* — porque Alyndra² era o *alvo*, era a razão pela qual a aberração existia, era a semente que os She-Zuris²¹ queriam destruir antes que germinasse.
+Quatro metros e meio de obsidiana e *nihilarys*³ e dor e fome se curvando sobre uma criança de cinco valens que jazia inconsciente em um leito de gelo rachado, com o corpo branco e os olhos fechados e o *cryonys*¹ silenciado e Nyx²⁰ morta ao lado como uma sentinela que falhou. A aberração conhecia o rosto — os *nihilarys*³ conheciam, tinham estudado, tinham *rastreado* — porque Alyndra² era o *alvo*, era a razão pela qual a aberração existia, era a semente que os Nihil Shid²¹ queriam destruir antes que germinasse.
 
-Os quatorze olhos examinaram Alyndra² com uma atenção que era *cirúrgica*. A aberração não via uma garota — via um *potencial* não realizado, via o que Alyndra² poderia se tornar, via a ameaça que a herdeira de Thalassia⁶ representava para os planos dos She-Zuris²¹. E nos quatorze olhos havia algo que era pior que fúria: *intenção*. A intenção deliberada, calculada, *paciente* de algo que sabe exatamente o que fazer.
+Os quatorze olhos examinaram Alyndra² com uma atenção que era *cirúrgica*. A aberração não via uma garota — via um *potencial* não realizado, via o que Alyndra² poderia se tornar, via a ameaça que a herdeira de Thalassia⁶ representava para os planos dos Nihil Shid²¹. E nos quatorze olhos havia algo que era pior que fúria: *intenção*. A intenção deliberada, calculada, *paciente* de algo que sabe exatamente o que fazer.
 
 Os quatro braços se abriram.
 
@@ -241,7 +241,7 @@ E a espada quebrada nas mãos tremia — não de frio, não de medo, de *raiva*,
 
 A mão da aberração desceu.
 
-Os dedos de obsidiana se abriram sobre o rosto de Alyndra² — sobre as pálpebras fechadas, sobre os lábios brancos, sobre o queixo que tinha o traço Marethyus. A aberração ia *tomar*. Não matar — *tomar*. Os She-Zuris²¹ queriam a garota *viva*. Queriam a semente. Queriam extrair o que havia dentro de Alyndra² antes que germinasse, antes que se tornasse o que os Cantos de Adormecimento²² chamavam de "a eternidade em forma de sangue".
+Os dedos de obsidiana se abriram sobre o rosto de Alyndra² — sobre as pálpebras fechadas, sobre os lábios brancos, sobre o queixo que tinha o traço Marethyus. A aberração ia *tomar*. Não matar — *tomar*. Os Nihil Shid²¹ queriam a garota *viva*. Queriam a semente. Queriam extrair o que havia dentro de Alyndra² antes que germinasse, antes que se tornasse o que os Cantos de Adormecimento²² chamavam de "a eternidade em forma de sangue".
 
 A mão desceu.
 
@@ -315,7 +315,7 @@ E a figura na cratera — a silhueta de prata e branco e ouro e *fúria carmesim
 
 ² **Alyndra / Alyndra Marethyus** — Última herdeira de Thalassia⁶. Usou seu *cryonys*¹ no templo e caiu inconsciente.
 
-³ **nihilary / nihilarys** — Entidade de escuridão e ausência; agentes dos She-Zuris²¹.
+³ **nihilary / nihilarys** — Entidade de escuridão e ausência; agentes dos Nihil Shid²¹.
 
 ⁴ **Velatrix** — Figura enigmática que lidera forças de elite; domina *thermaris*¹⁰. Identidade velada.
 
@@ -351,7 +351,7 @@ E a figura na cratera — a silhueta de prata e branco e ouro e *fúria carmesim
 
 ²⁰ **Nyx** — *Lyrien* de pelagem prateada; companheiro de Alyndra² desde Mespiria. Nyx²⁰ está morta — o corpo permanece intacto mas vazio de luz.
 
-²¹ **She-Zuris** — Ordem secreta de *nihilarys*³; "A Ordem da Luz." Conspiradores que criaram a aberração.
+²¹ **Nihil Shid** — Ordem secreta de *nihilarys*³; "A Ordem da Luz." Conspiradores que criaram a aberração.
 
 ²² **Cantos de Adormecimento** — Compilação antiga de textos sobre entidades e rituais proibidos.
 
