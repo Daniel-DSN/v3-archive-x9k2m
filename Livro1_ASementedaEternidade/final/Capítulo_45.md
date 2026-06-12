@@ -349,7 +349,7 @@ Como *sempre*.
 
 ³² **Nyxalor** — Entidade ancestral de fogo e destruição; aprisionada na *Manopla da Vinculação*¹⁴.
 
-³³ **nihilary / nihilarys** — Agentes dos *She-Zuris*⁴⁰; seres de escuridão. A aberração que matou Nyx¹² era composta de milhares de *nihilarys*³³.
+³³ **nihilary / nihilarys** — Agentes dos *Nihil Shid*⁴⁰; seres de escuridão. A aberração que matou Nyx¹² era composta de milhares de *nihilarys*³³.
 
 ³⁴ **Elara** — Título concedido a operativas de alto escalão em Sanctrum⁹. Elara³⁴ Elara³⁵ coordena a reconstrução do Orfanato Luminis⁸ e o transporte das crianças.
 
@@ -362,7 +362,7 @@ Como *sempre*.
 
 ³⁹ **aetherite** — Mineral cristalino denso. A ponte que liga Sanctrum⁹ ao continente é feita de *aetherite*³⁹.
 
-⁴⁰ **She-Zuris** — Ordem secreta de *nihilarys*³³; responsáveis pela conspiração contra Alyndra⁷.
+⁴⁰ **Nihil Shid** — Ordem secreta de *nihilarys*³³; responsáveis pela conspiração contra Alyndra⁷.
 
 ⁴¹ **sylentis** — Indivíduo sem afinidade elemental ativa; sem *aethra*¹⁸ manifestado.
 
