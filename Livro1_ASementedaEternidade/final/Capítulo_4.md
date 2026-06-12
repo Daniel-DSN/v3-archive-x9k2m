@@ -64,6 +64,8 @@ Lyris permaneceu imóvel por um momento, avaliando a situação. A velha parteir
 
 — Melessa — Lyris disse, aproximando-se. — Eu sou Lyris. Fui enviada pelo En Me Aurelius para...
 
+*A Velatrix saberia disto.* Lyris não perguntara — não era seu lugar questionar a cadeia de comando acima dela —, mas a rede funcionava de uma forma: a informação subia. Sempre subia. O que o En Me decidisse compartilhar com a chefe dos *Tar-Gig*¹⁹ era questão dele. A ela cabia executar.
+
 — Para observar minha neta — Melessa completou, e um sorriso amargo cruzou seus lábios secos. — Para protegê-la, talvez. Ou para estudá-la. Ou para levá-la quando eu não estiver mais aqui para impedi-lo.
 
 — Para protegê-la — Lyris corrigiu, a voz firme. — Nada mais.
@@ -383,6 +385,8 @@ Observaria. Com paciência. Se Aldric era apenas o que parecia, ninguém sairia 
 ¹⁷ **ilhas-descanso** — Ilhas no Mar de Vaelantor com tabernas e estábulos de koramis; postos de repouso da Rota dos Ventos.
 
 ¹⁸ **Nyctara** — Codinome de Lyris; 'A Sombra de Sanctrum', agente dos Tar-Gig.
+
+¹⁹ **Tar-Gig** — Rede de inteligência e operativos secretos de Nova Aetherion. Lyris é uma agente aposentada.
 
 ---
 

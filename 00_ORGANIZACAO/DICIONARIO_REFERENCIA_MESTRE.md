@@ -52,6 +52,8 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 | **Dumu** | 𒌉 | Filho, herdeiro, broto de linhagem | *Dumu En Me Du* (Guardião-Novato) |
 | **Kun** | 𒆭 | Ofício, arte, habilidade técnica | *En Dur Kun* (Conselho dos Contratos de Terraxis) |
 
+> **Nota de polissemia — Gish (𒄑):** Este radical possui três camadas de significado conforme o contexto. *(1) Sentido literal/primordial:* árvore, madeira, fundação que se enraíza — registrado na tabela acima. *(2) Sentido político-militar:* força, poder, comando — como em *Me Gish* (Mestre da Força, Assento II do En Me Nim) e *En Gesh* (forma honorífica alternativa do mesmo cargo). *(3) Sentido filosófico-espiritual:* sacrifício escolhido, entrega voluntária — como em *Ilyos Gish* (O Sacrifício Escolhido, Pilar IV do Ilyos-Gir) e *Gish Tar* (o dever de compartilhar). A dualidade não é contraditória: nos ensinamentos de Ilyos, a verdadeira força reside no sacrifício, e o verdadeiro sacrifício exige força. Os três significados convergem no mesmo princípio — o que se funda com profundidade suficiente para suportar o peso da entrega.
+
 ### 1.2 Tabela de Títulos por Reino
 
 | Reino | Título de Poder | Emê-Gir | Portador / Significado |
@@ -59,7 +61,8 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 | **Sanctrum** | *En Me* (Supremo) | 𒂗𒈨 | **Aurelius** (Guardião Mestre de Sanctrum) |
 | **Sanctrum** | *Nin Din* | 𒊩𒆪𒋭 | Senhora da Vida (Assento no Conselho) |
 | **Sanctrum** | *Nin Unken* | 𒊩𒆪𒌦𒆠 | Primeira Voz (Liderança do Conselho dos 12) |
-| **Sylvaris** | *Lugal Lil* | 𒈗𒅆 | **Thaloris Ventaris** (Rei dos Ventos) |
+| **Sylvaris** | *Lugal Lil* | 𒈗𒅆 | **Thaloris Ventaris** (Senhor dos Ventos) |
+| **Sylvaris** | *En Dili Lil* | 𒂗𒋆𒋆𒅆 | **Vethran Noll** (Senhor da Rede dos Sussurros — chefe de inteligência) |
 | **Thalassia** | *Nin A* | 𒊩𒆪𒀀 | **Kaelia Marethyus** (Rainha de Thalassia) |
 | **Thalassia** | *En A Gal* | 𒂗𒀀𒃲 | Almirante-Mor (Comando da Frota de Cristal) |
 | **Terraxis** | *Lugal Ki* | 𒈗𒆠 | **Torgath Duro** (Lorde de Terraxis) |
@@ -75,6 +78,16 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 |-------|-------------|
 | **Coroa Sombria** | Símbolo do RPA para Despertados de Sombra. Um losango envolto por uma auréola de pontas agudas, representando a afinidade sombria. Impõe segregação oficializada e vigilância constante. |
 | **Filhos do Traidor** (*Dumu Nu Me*) | Termo coloquial e pejorativo para pessoas com afinidade elemental de Sombra. Baseado na crença teológica de que carregam a mácula da traição de Nyxalor contra Ilyos. Usado para justificar discriminação sistêmica. |
+
+---
+
+### 1.3 Formas de Tratamento e Títulos Honoríficos
+
+| Termo | Significado | Contexto de Uso |
+|:---|:---|:---|
+| **En Gesh** | Forma honorífica alternativa para *Me Gish* | Usada em contexto cerimonial ou por quem lhe deve deferência. Não é um título separado — é o mesmo cargo (Mestre da Força, Assento II do En Me Nim) com tratamento diferente. O sufixo *-esh* é uma variação enfática de *Gish* que marca respeito formal. |
+| **Lugal Lil** | Senhor do Vento | Título do governante de Sylvaris. *Lil* = vento/ar. Equivalente Sylvarino de *Lugal Ki* (Terraxis) ou *Lugal Izi* (Pyralis). |
+| **En Dili Lil** | Senhor da Rede dos Sussurros | Título do chefe de inteligência de Sylvaris. *Dili Lil* = a rede de sussurros/espionagem; *En* = senhor. Equivalente à função de Ukam (Sentinela) em Sanctrum, mas com jurisdição exclusiva sobre Sylvaris. |
 
 ---
 
