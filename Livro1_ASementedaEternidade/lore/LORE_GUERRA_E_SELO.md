@@ -27,14 +27,14 @@ Não foi uma guerra declarada — foi revelada quando Nyxalor, em vez de dissolv
 
 ### Corrupção de Nyxalor
 
-- Começou com **sussurros de Mytra** nas bordas de sua consciência
-- Mytra plantou ideias: Nyxalor não era parte do ciclo — ele era o ciclo. Ilyos criava sem perguntar; ele dissolvia com propósito.
+- Começou com **sussurros de Mythra** nas bordas de sua consciência
+- Mythra plantou ideias: Nyxalor não era parte do ciclo — ele era o ciclo. Ilyos criava sem perguntar; ele dissolvia com propósito.
 - O propósito foi distorcido: de devolver, para **acabar**.
 - Nyxalor passou a ver a luz de Ilyos como acumulação, o ciclo como prisão, e a si mesmo como o único libertador.
 
 ### Muitos seguiram Nyxalor
 
-Diversos seres seguiram Nyxalor — enganados como ele fora. Mytra ampliou o poder de Nyxalor além do que qualquer ser podia enfrentar sozinho. Nyxalor subjulgou até os que ousaram rebelar-se.
+Diversos seres seguiram Nyxalor — enganados como ele fora. Mythra ampliou o poder de Nyxalor além do que qualquer ser podia enfrentar sozinho. Nyxalor subjulgou até os que ousaram rebelar-se.
 
 **Este ponto é crítico:** a rebelião existiu. Ilyos NÃO lutou sozinha. Mas os que se rebelaram contra Nyxalor foram subjugados.
 
@@ -49,7 +49,7 @@ Quando a guerra se revelou, os Seraphyens se dividiram:
 
 ### Lado de Nyxalor (engano)
 - **Elarys** — amava Nyxalor. Foi manipulada pelo amor a lutar contra Ilyos.
-- **Outros Seraphyens** — alguns foram enganados pela retórica de Nyxalor ou por Mytra, sem ver o erro.
+- **Outros Seraphyens** — alguns foram enganados pela retórica de Nyxalor ou por Mythra, sem ver o erro.
 - Esses não eram "maus" — eram equivocados, cegos pela confiança no irmão de Ilyos.
 
 ### Importância narrativa
@@ -66,21 +66,21 @@ Essa divisão resolve a contradição original do Prólogo. A frase "muitos o se
 
 O ponto de virada da guerra:
 
-1. **Elarys percebe a traição** — No meio do combate, ela vê quem Nyxalor se tornou. Vê a influência de Mytra. Percebe que o ser que amava já não existe — foi consumido pela ambição e parasitismo.
+1. **Elarys percebe a traição** — No meio do combate, ela vê quem Nyxalor se tornou. Vê a influência de Mythra. Percebe que o ser que amava já não existe — foi consumido pela ambição e parasitismo.
 
 2. **Elarys muda de lado** — Ela abandona Nyxalor e se junta a Ilyos. Não por estratégia, mas por dor.
 
 3. **Os demais abrem os olhos** — A deserção de Elarys é o catalisador. Os Seraphyens que lutavam contra Ilyos percebem que foram enganados. Nyxalor não era o libertador — era a prisão.
 
-4. **União** — Os que estavam contra Ilyos se unem a ela. Todos os Seraphyens (exceto os já perdidos) lutam juntos contra Nyxalor e Mytra.
+4. **União** — Os que estavam contra Ilyos se unem a ela. Todos os Seraphyens (exceto os já perdidos) lutam juntos contra Nyxalor e Mythra.
 
-5. **Mas já é tarde demais** — Mytra já havia dominado Nyxalor completamente. Deu-lhe armas para aniquilar todos. O poder de Nyxalor ultrapassou qualquer coisa que os Seraphyens pudessem enfrentar em combate aberto.
+5. **Mas já é tarde demais** — Mythra já havia dominado Nyxalor completamente. Deu-lhe armas para aniquilar todos. O poder de Nyxalor ultrapassou qualquer coisa que os Seraphyens pudessem enfrentar em combate aberto.
 
 ---
 
 ## 4. Fase 3 — Derrota Iminente
 
-Com Nyxalor imensamente poderoso (amplificado por Mytra), a situação se torna desesperadora:
+Com Nyxalor imensamente poderoso (amplificado por Mythra), a situação se torna desesperadora:
 
 1. **Myrrhiel assume o papel de escudo** — Ele se posiciona entre Nyxalor e Ilyos. Seu objetivo não é vencer — é **dar tempo**.
 
@@ -90,7 +90,7 @@ Com Nyxalor imensamente poderoso (amplificado por Mytra), a situação se torna 
 
 4. **Ilyos concentra aethra** — Com o tempo que Myrrhiel lhe deu, Ilyos realiza a concentração de aethra necessária para tentar selar Nyxalor.
 
-5. **Mas não é suficiente** — O poder de Ilyos, por maior que seja, não consegue selar Nyxalor sozinho. A corrupção de Mytra é profunda demais. A força necessária excede o que uma única primordial pode gerar.
+5. **Mas não é suficiente** — O poder de Ilyos, por maior que seja, não consegue selar Nyxalor sozinho. A corrupção de Mythra é profunda demais. A força necessária excede o que uma única primordial pode gerar.
 
 ---
 
@@ -121,7 +121,7 @@ Não porque Elarys seja superior aos outros Seraphyens. Não porque ela seja mai
 
 - **Elarys** fundiu-se ao selo. Cada fibra carrega sua assinatura. Enquanto o selo resistir, Elarys resiste.
 - **Ilyos** fragmentou-se. Não morreu — espalhou-se como âncoras de luz. No reflexo da água, na cintilação das estrelas, no clarão dos moribundos.
-- **Mytra** encolheu. Não foi destruída. Parasitas dessa antiguidade não morrem — encolhem para as bordas do selo, onde a luz é mais fina e a promessa mais frágil.
+- **Mythra** encolheu. Não foi destruída. Parasitas dessa antiguidade não morrem — encolhem para as bordas do selo, onde a luz é mais fina e a promessa mais frágil.
 
 ---
 
@@ -143,7 +143,7 @@ A rede de relações amorosas é a estrutura emocional central da mitologia:
     Nyxalor ♂ ←—————(amava)——→ Elarys ♀
       │                           │
       │  Irmão gêmeo de Ilyos      │  Amava Nyxalor → ele a traiu
-      │  Corrompido por Mytra     │  Selou-se por ele
+      │  Corrompido por Mythra     │  Selou-se por ele
       │  Traiu Elarys             │  (amor mesmo após traição)
 ```
 
@@ -174,11 +174,11 @@ A rede de relações amorosas é a estrutura emocional central da mitologia:
 
 Com essa nova lore, os problemas identificados pelo autor no Prólogo original ficam resolvidos:
 
-### 7.1 Mytra revelada e reapresentada
+### 7.1 Mythra revelada e reapresentada
 
-**Problema:** O nome de Mytra aparece na seção dos sussurros (L49) e depois é "apresentada" formalmente (L51-53).
+**Problema:** O nome de Mythra aparece na seção dos sussurros (L49) e depois é "apresentada" formalmente (L51-53).
 
-**Solução:** Com a remodelagem total, Mytra será introduzida de forma orgânica — primeiro como presença (a que espera nas bordas), depois nomeada quando os Seraphyens a nomearem. A introdução dos Nihilarys como civilização contextualiza Mytra antes de ela aparecer individualmente.
+**Solução:** Com a remodelagem total, Mythra será introduzida de forma orgânica — primeiro como presença (a que espera nas bordas), depois nomeada quando os Seraphyens a nomearem. A introdução dos Nihilaryth como civilização contextualiza Mythra antes de ela aparecer individualmente.
 
 ### 7.2 "Rebelião" vs "Ilyos lutou sozinha"
 
@@ -206,10 +206,10 @@ Com essa nova lore, os problemas identificados pelo autor no Prólogo original f
 
 | # | Título provisório | Conteúdo |
 |---|---|---|
-| I | O Vazio que Não Era Vazio | Mytra como presença anterior à Vontade. Manter a escrita existente (funciona). |
-| II | A Civilização que Esqueceu o Limite | **NOVA** — Os Nihilarys, seu florescimento, Ur-Nyxal e o Fruto. A queda e a maldição. |
+| I | O Vazio que Não Era Vazio | Mythra como presença anterior à Vontade. Manter a escrita existente (funciona). |
+| II | A Civilização que Esqueceu o Limite | **NOVA** — Os Nihilaryth, seu florescimento, Ur-Nyxal e o Fruto. A queda e a maldição. |
 | III | A Que Escolheu Renascer | **NOVA** — Alyndra Primordial, grávida dos gêmeos, vislumbra o futuro, sacrifício via Yggorath. |
-| IV | Os Gêmeos da Semente | **MODIFICADA** — Nascimento de Ilyos e Nyxalor. Nyxalor corrompido por Mytra. Relação com Elarys. |
+| IV | Os Gêmeos da Semente | **MODIFICADA** — Nascimento de Ilyos e Nyxalor. Nyxalor corrompido por Mythra. Relação com Elarys. |
 | V | A Guerra que Dividiu Irmãos | **MODIFICADA** — Divisão dos Seraphyens. Myrrhiel ao lado de Ilyos. Elarys manipulada. Redenção de Elarys. |
 | VI | O Escudo e a Chama | **NOVA** — Myrrhiel morre por Ilyos. Ilyos concentra aethra — não suficiente. Elarys se oferece. O selo. |
 | VII | Os Dez que Andaram Entre Nós | **MANTIDA com ajustes** — Os Seraphyens andam entre mortais. Veridion como último. Criação das três luas. |
