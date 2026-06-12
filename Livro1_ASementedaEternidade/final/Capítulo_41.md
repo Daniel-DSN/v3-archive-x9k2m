@@ -73,7 +73,7 @@ Aldric⁹ olhou. E suas mãos — que seguravam a espada fria de Ayla¹⁶ — *
 
 Urrak¹⁸ olhou. E o guerreiro de *Terraxis*¹⁹ — que já tinha enfrentado criaturas impossíveis, que já tinha lutado com *nihilarys*²⁰ e sobrevivido, que acreditava que não existia nada no mundo que pudesse fazê-lo *recuar* — *recuou*. Um passo. Involuntário. Instintivo. O corpo reconhecendo que o que estava diante dele era *superior* e reagindo antes que a mente pudesse intervir.
 
-Marethyus²¹ olhou. E o velho — deitado no chão, a relíquia vazia contra o peito, o sangue seco na testa, os olhos azuis abertos para o céu — *sorriu*. Um sorriso pequeno, quase invisível, o sorriso de quem está vendo algo que esperou milênios para ver. Um sorriso de *alívio* — porque Marethyus²¹ sabia, como poucos sabiam, que Nyxalor⁹ era a única força em Alyndra capaz de destruir o que os *She-Zuris*²² haviam criado.
+Marethyus²¹ olhou. E o velho — deitado no chão, a relíquia vazia contra o peito, o sangue seco na testa, os olhos azuis abertos para o céu — *sorriu*. Um sorriso pequeno, quase invisível, o sorriso de quem está vendo algo que esperou milênios para ver. Um sorriso de *alívio* — porque Marethyus²¹ sabia, como poucos sabiam, que Nyxalor⁹ era a única força em Alyndra capaz de destruir o que os *Nihil Shid*²² haviam criado.
 
 A aberração olhou.
 
@@ -159,7 +159,7 @@ O desespero de algo que percebe que vai ser *desfeito*.
 
 A casca *rachou*.
 
-Não de cima para baixo, não de um lado para o outro — de *todas as direções* ao mesmo tempo. A obsidiana que recobria o corpo da aberração — a obsidiana que era a *pele* dos *nihilarys*²⁰, a armadura que os *She-Zuris*²² haviam construído para proteger sua criação — começou a se fragmentar em cacos que não caíram, que *voaram*, arrancados do corpo pela força do vórtice como folhas de uma árvore em um furacão. Os cacos giraram na espiral de fogo e energia e se *dissolveram*, convertidos em fumaça e luz e *nada*.
+Não de cima para baixo, não de um lado para o outro — de *todas as direções* ao mesmo tempo. A obsidiana que recobria o corpo da aberração — a obsidiana que era a *pele* dos *nihilarys*²⁰, a armadura que os *Nihil Shid*²² haviam construído para proteger sua criação — começou a se fragmentar em cacos que não caíram, que *voaram*, arrancados do corpo pela força do vórtice como folhas de uma árvore em um furacão. Os cacos giraram na espiral de fogo e energia e se *dissolveram*, convertidos em fumaça e luz e *nada*.
 
 E *debaixo* da casca — havia um homem.
 
@@ -179,9 +179,9 @@ Velatrix⁷ viu o rosto. E *reconheceu*.
 
 — Thaloris Ventaris²⁴ — ela disse, e a voz era um sussurro que ninguém ouviu mas todos *sentiram*, porque o nome carregava peso, porque o nome era um *reino*, porque o nome era o líder que havia desaparecido de *Sylvaris*²⁵ e cujo paradeiro ninguém sabia, e agora o paradeiro era *isto* — um corpo distorcido, um rosto emergindo de uma casca de *nihilarys*²⁰, dois olhos verdes cheios de dor no meio de uma criatura de dois metros e quarenta.
 
-Lyris⁸ viu. E Lyris⁸ — que tinha ouvido falar do *Lugal Lil*²⁸ em missões de *Sanctrum*³, que conhecia a reputação de Thaloris Ventaris²⁴ como o *aetheriano* mais forte de *Sylvaris*²⁵ — sentiu algo que era entre a tristeza e o horror, a tristeza de ver um homem grande reduzido a *isto*, o horror de perceber que os *She-Zuris*²² eram capazes de fazer isto com qualquer pessoa, com *qualquer* reino, com *qualquer* líder.
+Lyris⁸ viu. E Lyris⁸ — que tinha ouvido falar do *Lugal Lil*²⁸ em missões de *Sanctrum*³, que conhecia a reputação de Thaloris Ventaris²⁴ como o *aetheriano* mais forte de *Sylvaris*²⁵ — sentiu algo que era entre a tristeza e o horror, a tristeza de ver um homem grande reduzido a *isto*, o horror de perceber que os *Nihil Shid*²² eram capazes de fazer isto com qualquer pessoa, com *qualquer* reino, com *qualquer* líder.
 
-Aldric⁹ viu. E apertou a espada fria de Ayla¹⁶ com tanta força que os nós dos dedos ficaram brancos. Porque Aldric⁹ sabia — sabia por experiência, sabia porque havia visto coisas parecidas na fronteira de *Umbra*²⁹, sabia porque a Kalúdris tinha arquivos sobre possessão que faziam os estômagos dos agentes se revirarem — que o que havia acontecido com Thaloris Ventaris²⁴ era o que os *She-Zuris*²² planejavam fazer com Alyndra³⁰. Se não fosse por Aurelius⁶, se não fosse por Velatrix⁷, se não fosse por todos os que tinham lutado e sangrado e morrido — *Alyndra³⁰* seria *isto*.
+Aldric⁹ viu. E apertou a espada fria de Ayla¹⁶ com tanta força que os nós dos dedos ficaram brancos. Porque Aldric⁹ sabia — sabia por experiência, sabia porque havia visto coisas parecidas na fronteira de *Umbra*²⁹, sabia porque a Kalúdris tinha arquivos sobre possessão que faziam os estômagos dos agentes se revirarem — que o que havia acontecido com Thaloris Ventaris²⁴ era o que os *Nihil Shid*²² planejavam fazer com Alyndra³⁰. Se não fosse por Aurelius⁶, se não fosse por Velatrix⁷, se não fosse por todos os que tinham lutado e sangrado e morrido — *Alyndra³⁰* seria *isto*.
 
 A aberração *lutar*.
 
@@ -297,7 +297,7 @@ Velatrix⁷ estava de pé — de pé, como sempre — mas os olhos estavam *úmi
 
 Lyris⁸ estava debruçada contra a coluna quebrada, a espada ainda na mão, o *Thermaris*¹⁵ extinto nas ranhuras da lâmina. Ela olhava para Aurelius⁶ — o *En Me* de joelhos, a manopla fumegando, o corpo *gasto* — e sentia algo que era entre a admiração e a confusão e o *alívio*. A batalha estava *acabada*. A aberração estava *destruída*. Alyndra³⁰ estava *a salvo*. E o homem que havia feito tudo isso — o homem que havia quebrado todos os protocolos, que havia cruzado o continente em velocidade absurda, que havia liberado a *Erupção do Carmesim*¹³ e invocado os colossais e *vencido* — estava de joelhos, fumegando, quase *destroído*.
 
-Aldric⁹ estava de joelhos também. A espada de Ayla¹⁶ — fria, sem *aethra*¹¹, sem *cryonys*³³ thalassiano, sem *nada* além de aço e memória — descansava no chão ao lado dele. Ele olhava para a cratera, para o corpo de Thaloris Ventaris²⁴, para o *Lugal Lil*²⁸ de *Sylvaris*²⁵ que era agora um homem quebrado deitado no fundo de uma cratera. E nos olhos de Aldric⁹ havia algo que era *compreensão* — a compreensão de que Thaloris Ventaris²⁴ era uma vítima tanto quanto os soldados que tinham morrido defendendo o templo, tanto quanto Nyx³⁴ que tinha morrido defendendo Alyndra³⁰, tanto quanto *todos* que tinham sido consumidos pela conspiração dos *She-Zuris*²².
+Aldric⁹ estava de joelhos também. A espada de Ayla¹⁶ — fria, sem *aethra*¹¹, sem *cryonys*³³ thalassiano, sem *nada* além de aço e memória — descansava no chão ao lado dele. Ele olhava para a cratera, para o corpo de Thaloris Ventaris²⁴, para o *Lugal Lil*²⁸ de *Sylvaris*²⁵ que era agora um homem quebrado deitado no fundo de uma cratera. E nos olhos de Aldric⁹ havia algo que era *compreensão* — a compreensão de que Thaloris Ventaris²⁴ era uma vítima tanto quanto os soldados que tinham morrido defendendo o templo, tanto quanto Nyx³⁴ que tinha morrido defendendo Alyndra³⁰, tanto quanto *todos* que tinham sido consumidos pela conspiração dos *Nihil Shid*²².
 
 Urrak¹⁸ estava sentado. O malho de *aetherite*²¹ deitado entre as pernas. Os olhos cinza-prateados varrendo o campo de batalha — os corpos, as armas quebradas, a cratera, o vidro vitrificado, a *devastação* — e calculando. Não como Velatrix⁷ calculava — Urrak¹⁸ não calculava com equações, calculava com *instinto*, o instinto de um guerreiro que está vendo o resultado de uma batalha e sabe que o resultado poderia ter sido *pior*. Muito pior.
 
@@ -377,11 +377,11 @@ E a nyxara — a mais longa, a mais devastadora, a mais *impossível* nyxara da 
 
 ¹⁹ **Terraxis** — Reino montanhoso; fonte de *aetherite*²¹ e guerreiros lendários.
 
-²⁰ **nihilary / nihilarys** — Agentes dos *She-Zuris*²²; seres que manipulam escuridão e ausência. A aberração continha milhares de *nihilarys*²⁰ compactados.
+²⁰ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²²; seres que manipulam escuridão e ausência. A aberração continha milhares de *nihilarys*²⁰ compactados.
 
 ²¹ **Marethyus** — Avô materno de Alyndra³⁰; ex-Guardião Mestre de *Sanctrum*³; último descendente direto dos reis de Thalassia³⁶.
 
-²² **She-Zuris** — Ordem dos *nihilarys*²⁰; os conspiradores que orquestraram a possessão de Thaloris Ventaris²⁴.
+²² **Nihil Shid** — Ordem dos *nihilarys*²⁰; os conspiradores que orquestraram a possessão de Thaloris Ventaris²⁴.
 
 
 ²⁴ **Thaloris Ventaris** — Ex-*Lugal Lil*²⁸ de *Sylvaris*²⁵; possuído por legiões de *nihilarys*²⁰ e transformado na aberração. Sobreviveu ao Julgamento Final — inconsciente, quebrado, mas vivo.
