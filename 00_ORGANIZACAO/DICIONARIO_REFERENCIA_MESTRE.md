@@ -27,7 +27,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 | **Du / Dur** | 𒁺 / 𒂍𒉭 | Guardar / Berço, laço, origem, eterno | *Ekur Dur An* (Cripta dos Primórdios) |
 | **Kur** | 𒆳 | Montanha, terra, mineral | *Aga Kur* (Guarda de Terraxis), *Kur Gig* (Gelo Negro) |
 | **Aga** | 𒂍𒃡 | Escudo, guarda, proteção | *Aga Gibil* (Exército de Fogo de Pyralis) |
-| **Kin** | 干净 | Punho, trabalho, força | *Kin Mytra* (Mão/Punho de Mytra), *Kin Gig* (Mão Negra) |
+| **Kin** | 干净 | Punho, trabalho, força | *Kin Mythra* (Mão/Punho de Mythra), *Kin Gig* (Mão Negra) |
 | **Lil** | 𒅆 | Vento, sopro, atmosfera | *En Lil Nim* (Conselho dos Ventos em Sylvaris) |
 | **Nim** | 𒉏 | Raio, relâmpago, eletricidade ativa | *Nim Gush En* (Conselho de Fulmora) |
 | **Zagin** | 𒍝𒄀𒅔 | Luz, precioso, alvorecer | *Isi Zagin* (Olhos de Luz de Sanctrum) |
