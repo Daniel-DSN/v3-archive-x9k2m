@@ -49,7 +49,7 @@
 
 ---
 
-### DC-02: [RESOLVIDO] Natureza de Nyx — Aniquilação Definitiva pelo Nihilarys
+### DC-02: [RESOLVIDO] Natureza de Nyx — Aniquilação Definitiva pelo Nihilaryth
 
 **Severidade:** 🔴 RESOLVIDO (Lore canônica unificada)
 
