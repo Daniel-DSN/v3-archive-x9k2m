@@ -36,7 +36,7 @@ Aurelius⁵ abriu os olhos pela segunda vez. Desta vez, os olhos não eram os ol
 
 A ordem partiu pelo cristal como um raio que se ramifica: em *Sanctrum*⁷, os operativos da *Tar-Gig*³ receberam a transmissão e pararam o que estavam fazendo — relatórios, vigilância, contra-inteligência — e se prepararam para a única missão que importava. Em *Zephyra*⁹, o sinal alcançou os canais secundários e foi retransmitido para as células operacionais no interior de *Sylvaris*¹⁰. Em *Fulmora*¹¹, os contatos comerciais que Selynis mantinha sob fachadas de importação e exportação receberam o alerta codificado e começaram a rastrear rotas de *cargas fantasmas*¹².
 
-Em *Umbra*¹³, onde as sombras eram mais espessas e os ouvidos mais numerosos, a notícia não chegou — porque em *Umbra*¹³, a notícia já era conhecida. Os *She-Zuris*¹⁴ operavam há meses. Sabiam que o momento viria. E quando veio, estavam prontos.
+Em *Umbra*¹³, onde as sombras eram mais espessas e os ouvidos mais numerosos, a notícia não chegou — porque em *Umbra*¹³, a notícia já era conhecida. Os *Nihil Shid*¹⁴ operavam há meses. Sabiam que o momento viria. E quando veio, estavam prontos.
 
 Aurelius⁵ sabia disso. Sentia isso — uma pressão no peito que não era ansiedade mas *clareza*, a clareza brutal de quem enxerga o tabuleiro inteiro e percebe que o inimigo fez a jogada que esperava. Não havia surpresa na reação de Aurelius⁵. Havia algo pior: a certeza absoluta de que cada momento perdido era um momento em que Alyndra¹⁵ se afastava, e que a distância entre eles — a distância que ele havia mantido por valens, a distância que era ao mesmo tempo proteção e covardia — estava crescendo a cada segundo.
 
@@ -240,9 +240,9 @@ Algo que tinha Alyndra¹⁵.
 
 ¹³ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
 
-¹⁴ **She-Zuris** — Seita secreta que se autodenomina "Os Iluminados"; orquestram as *cargas fantasmas* e a rede de *nihilarys*.
+¹⁴ **Nihil Shid** — Seita secreta que se autodenomina "Os Iluminados"; orquestram as *cargas fantasmas* e a rede de *nihilarys*.
 
-¹⁵ **Alyndra** — Criança do Orfanato Luminis; portadora de *cryonys* inconsciente; alvo prioritário dos *She-Zuris*.
+¹⁵ **Alyndra** — Criança do Orfanato Luminis; portadora de *cryonys* inconsciente; alvo prioritário dos *Nihil Shid*.
 
 ¹⁶ **Guardião Mestre** — Líder supremo da Ordem dos Guardiões de *Sanctrum*. Título atualmente ocupado por Aurelius⁵.
 
