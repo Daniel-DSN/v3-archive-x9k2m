@@ -80,7 +80,7 @@ Aldric³ fez uma pausa. A *koramis* ajustou sua altitude automaticamente, subind
 
 Aldric³ soltou os ombros — um gesto mínimo que, na tensão do voo, era o equivalente a um desabafar. E Lyris⁴ percebeu que aquela não era a primeira vez que ele contava essa história — era a primeira vez que ele a contava para alguém. Que ele havia carregado aquelas palavras dentro de si por valens, como pedras no bolso de um afogado, e que as pedras finalmente se tornaram pesadas demais para continuar carregando.
 
-— Eu deveria ter reportado a Kaelia¹⁷. Era minha missão. Era meu dever para com a Câmara. Mas quando vi Ayla¹⁶ — quando vi a barriga, quando vi o medo nos olhos dela, quando vi o gelo formando cascas nos próprios braços dela a cada vez que a criança se movia — eu não pude. Não pude entregar aquela mulher e aquela criança aos She-Zuris¹⁹. Nem indiretamente. Nem através da Câmara.
+— Eu deveria ter reportado a Kaelia¹⁷. Era minha missão. Era meu dever para com a Câmara. Mas quando vi Ayla¹⁶ — quando vi a barriga, quando vi o medo nos olhos dela, quando vi o gelo formando cascas nos próprios braços dela a cada vez que a criança se movia — eu não pude. Não pude entregar aquela mulher e aquela criança aos Nihil Shid¹⁹. Nem indiretamente. Nem através da Câmara.
 
 Lyris⁴ não interrompeu. Não porque não tivesse perguntas — tinha dezenas, centenas — mas porque entendia algo que a experiência de valens no Orfanato Luminis¹⁴ havia lhe ensinado: que certas confissões só podem ser completadas se quem ouve permanecer em silêncio até o fim. Interromper era arriscar que o confessor fechasse a boca e nunca mais a abrisse.
 
@@ -88,7 +88,7 @@ Lyris⁴ não interrompeu. Não porque não tivesse perguntas — tinha dezenas,
 
 Aldric³ falou com a clareza dolorosa de quem testemunhou o preço supremo daquela convergência no parto. Não foi uma doença ou força misteriosa que a levou, mas a exaustão extrema da canalização que drenou suas forças até o fim.
 
-— Depois — ele continuou, e a voz era mais firme agora, como se atravessar a memória do parto tivesse sido o mais difícil e o resto fosse descer uma colina —, Melessa²⁰ Solynthr a criou. A parteira que ajudou no parto, que viu Ayla¹⁶ sucumbir à exaustão logo após o nascimento — Melessa ficou com Alyndra⁶. Eu vigiei de longe, não entrei. Passei meses em Mespiria¹⁸, morando em uma pensão, acompanhando de fora, certificando-me de que os She-Zuris¹⁹ não tinham rastreado a criança. Melessa a criou até ficar doente. Até não poder mais. E foi só depois que Alyndra⁶ foi para o Orfanato Luminis¹⁴ — levada por outros, não por mi, porque se alguém me visse colocando aquela criança em um orfanato, as perguntas começariam.
+— Depois — ele continuou, e a voz era mais firme agora, como se atravessar a memória do parto tivesse sido o mais difícil e o resto fosse descer uma colina —, Melessa²⁰ Solynthr a criou. A parteira que ajudou no parto, que viu Ayla¹⁶ sucumbir à exaustão logo após o nascimento — Melessa ficou com Alyndra⁶. Eu vigiei de longe, não entrei. Passei meses em Mespiria¹⁸, morando em uma pensão, acompanhando de fora, certificando-me de que os Nihil Shid¹⁹ não tinham rastreado a criança. Melessa a criou até ficar doente. Até não poder mais. E foi só depois que Alyndra⁶ foi para o Orfanato Luminis¹⁴ — levada por outros, não por mi, porque se alguém me visse colocando aquela criança em um orfanato, as perguntas começariam.
 
 — E você ficou vigiando — Lyris⁴ disse. Não era pergunta.
 
@@ -308,7 +308,7 @@ A *koramis* mergulhou em direção ao templo, e o vento gritou, e o *aethra* cor
 
 ¹⁸ **Mespiria** — Vila rural em Sylvaris onde Alyndra⁶ nasceu em segredo.
 
-¹⁹ **She-Zuris** — Organização conspiratória que persegue a semente da eternidade.
+¹⁹ **Nihil Shid** — Organização conspiratória que persegue a semente da eternidade.
 
 ²⁰ **Melessa Solynthr** — Parteira e curandeira rural de Mespiria¹⁸ que criou Alyndra⁶ em seus primeiros anos de vida.
 
@@ -328,7 +328,7 @@ A *koramis* mergulhou em direção ao templo, e o vento gritou, e o *aethra* cor
 
 ²⁸ **giralis** — Flores de pétalas prateadas translúcidas e bioluminescentes nativas de Sylvaris, cuja vitalidade é negada na trilha de corrupção.
 
-²⁹ **Thaloris Ventaris** — O antigo governante de Sylvaris que aceitou o pacto dos She-Zuris¹⁹ e acabou transformado no monstro em metamorfose.
+²⁹ **Thaloris Ventaris** — O antigo governante de Sylvaris que aceitou o pacto dos Nihil Shid¹⁹ e acabou transformado no monstro em metamorfose.
 
 ³⁰ **Lugal Lil** — O antigo título em língua *Emê-Gir*⁵ de governante supremo de Sylvaris.
 
