@@ -505,7 +505,7 @@
 | Período | Idade | Eventos | Capítulos |
 |:-------:|:-----:|---------|:---------:|
 | Política | 42 | Lugal Lil de Sylvaris. Presente na Assembleia. | 9, 14 |
-| Transformação | 42 | Traído pelos She-Zuris. Torna-se Aberração. | 30 |
+| Transformação | 42 | Traído pelos Nihil Shid. Torna-se Aberração. | 30 |
 | Aberração | — | Forma de obsidiana e nihilarys. Hiperveloz. | 30-40 |
 | Morte | — | Destruído por Aurelius (Erupção do Carmesim). | 40 |
 
@@ -545,7 +545,7 @@ AURELIUS ──┬── (amante) ── AYLA ──┬── (pai) ── MARET
            (amigos) ── MIRA/MILA, KIRA, DRAVYN, TORVIN, TOMAS
                 │
            (alvo) ── THALORIS → ABERRAÇÃO
-                     ── SHE-ZURIS / NIHILARYTH
+                     ── Nihil Shid / NIHILARYTH
                 │
            (protetora) ── SELYNIS / VELATRIX
                 │
