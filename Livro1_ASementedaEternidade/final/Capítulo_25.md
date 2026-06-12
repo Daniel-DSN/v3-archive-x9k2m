@@ -86,7 +86,7 @@ Ninguém ficou junto. Todos correram. E no meio da correria, no centro do caos q
 
 A dobradiça solta cedeu sem resistência.
 
-Os dois operativos da *Equipe Beta*¹⁹ atravessaram o portão leste no exato momento em que a segunda onda sonora atingia o norte — o timing era preciso por design, porque os *She-Zuris*²⁰ não acreditavam em coincidências e Korath²¹ não acreditava em improviso. Enquanto todos — crianças, Kira⁴, as sombras que se moviam no pátio — olhavam para o norte, para o fogo e o som e a destruição que se multiplicavam no portão principal, dois homens vestidos de preto entraram pelo leste como sombras que tivessem decidido se tornar sólidas.
+Os dois operativos da *Equipe Beta*¹⁹ atravessaram o portão leste no exato momento em que a segunda onda sonora atingia o norte — o timing era preciso por design, porque os *Nihil Shid*²⁰ não acreditavam em coincidências e Korath²¹ não acreditava em improviso. Enquanto todos — crianças, Kira⁴, as sombras que se moviam no pátio — olhavam para o norte, para o fogo e o som e a destruição que se multiplicavam no portão principal, dois homens vestidos de preto entraram pelo leste como sombras que tivessem decidido se tornar sólidas.
 
 Eles se moviam com uma eficiência que era quase bela — quase, porque a beleza da violência é sempre uma beleza deformada, uma estética destruída, uma harmonia que existe apenas para criar dissonância. O primeiro operativo — mais baixo, com o rosto coberto por uma máscara de absorção de luz que fazia sua cabeça parecer uma ausência no espaço — avançou pelo corredor de serviço com passos que não faziam som, cada pisada calculada para cair nos pontos onde o assoalho de madeira era mais espesso e portanto mais silencioso. O segundo operativo cobria a retaguarda, com uma besta de braço carregada com dardos de sedativo e os olhos escaneando cada porta, cada canto, cada sombra como quem lê um mapa de ameaças em tempo real.
 
@@ -296,7 +296,7 @@ Um silêncio que era o som do mundo desmoronando.
 
 ## 📖 Glossário do Capítulo
 
-¹ **Orfanato Luminis** — Instituição de acolhimento em *Velantis*; alvo do ataque coordenado pelos *She-Zuris*.
+¹ **Orfanato Luminis** — Instituição de acolhimento em *Velantis*; alvo do ataque coordenado pelos *Nihil Shid*.
 
 ² **giralis** — Flores de pétalas prateadas que abrem durante a noite; cultivadas por Lyris no jardim do orfanato.
 
@@ -334,13 +334,13 @@ Um silêncio que era o som do mundo desmoronando.
 
 ¹⁹ **Equipe Alfa / Equipe Beta** — Grupos táticos da operação; Alfa (diversão no norte), Beta (infiltração pelo leste).
 
-²⁰ **She-Zuris** — Seita secreta que se autodenomina "Os Iluminados"; orquestram o ataque ao orfanato.
+²⁰ **Nihil Shid** — Seita secreta que se autodenomina "Os Iluminados"; orquestram o ataque ao orfanato.
 
 ²¹ **Korath** — Mercenário de *Umbra*; dois metros e meio, cicatrizes de gelo no rosto, olhos quase brancos, armadura e lâmina de obsidiana. Comandante de campo da operação.
 
 ²² **Vex** — Operativo de *Umbra*; portador do dispositivo de supressão de *aethra*.
 
-²³ **Nyctara** — Codinome operacional de Lyris; designação tática dos *She-Zuris*.
+²³ **Nyctara** — Codinome operacional de Lyris; designação tática dos *Nihil Shid*.
 
 ²⁴ **Tar-Gig** — Organização de inteligência e espionagem de *Sanctrum*; Lyris serviu como operativa.
 
