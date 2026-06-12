@@ -30,7 +30,7 @@ Aurelius¹¹ leu a mensagem.
 
 Velatrix¹ sabia que ele ia ler. Sabia porque conhecia Aurelius¹¹ — não como um subordinado conhece um superior, mas como uma ex-Guardiã Mestre conhece o homem que tomou seu lugar. Sabia que Aurelius¹¹ monitorava as transmissões da RRA³ com uma dedicação que beirava a obsessão. Sabia que ele tinha sensores de cristal sintonizados na frequência de Tar-Gig⁴, não oficiais, *pessoais*, sensores que ele havia instalado sem autorização do Conselho, em segredo, porque Aurelius¹¹ não pedia autorização para coisas que considerava *necessárias*.
 
-E Velatrix¹ sabia — era o segredo que ambos compartilhavam, o segredo que explicava por que um Guardião Mestre monitorava as transmissões de uma organização de inteligência com a atenção de um pai ouvindo o respirador de um filho prematuro — que Aurelius¹¹ *sabia* sobre Alyndra⁷. Não sabia o que Alyndra⁷ era. Não sabia o que os She-Zuris¹² queriam dela. Mas sabia que *existia*, sabia que estava em perigo, e sabia — porque Velatrix¹ tinha descoberto por conta própria, valens atrás, quando uma carta de uma parteira moribunda de uma vila chamada Mespiria¹³ havia cruzado a mesa do novo Guardião Mestre com uma urgência que não combinava com assuntos de província. Velatrix¹ não confrontou Aurelius¹¹ — não precisava. Bastou-lhe observar as movimentações atípicas dele nos meses seguintes: as consultas secretas ao Conselho, as transferências discretas de fundos para um orfanato em Velantis¹⁴, o olhar de um homem que não sabia que era pai mas que *sentia* que era. E em uma sombra de um corredor de Sanctrum⁵, Velatrix¹ lhe dissera apenas o bastante: *Eu sei. E se os She-Zuris¹² também souberem, você precisará de olhos que não sejam os seus. A Tar-Gig⁴ será aqueles olhos.* E desde aquele dia, a promessa foi silenciosa, absoluta, e cumprida — que se alguma coisa acontecesse à garota, Aurelius¹¹ seria o *primeiro* a saber.
+E Velatrix¹ sabia — era o segredo que ambos compartilhavam, o segredo que explicava por que um Guardião Mestre monitorava as transmissões de uma organização de inteligência com a atenção de um pai ouvindo o respirador de um filho prematuro — que Aurelius¹¹ *sabia* sobre Alyndra⁷. Não sabia o que Alyndra⁷ era. Não sabia o que os Nihil Shid¹² queriam dela. Mas sabia que *existia*, sabia que estava em perigo, e sabia — porque Velatrix¹ tinha descoberto por conta própria, valens atrás, quando uma carta de uma parteira moribunda de uma vila chamada Mespiria¹³ havia cruzado a mesa do novo Guardião Mestre com uma urgência que não combinava com assuntos de província. Velatrix¹ não confrontou Aurelius¹¹ — não precisava. Bastou-lhe observar as movimentações atípicas dele nos meses seguintes: as consultas secretas ao Conselho, as transferências discretas de fundos para um orfanato em Velantis¹⁴, o olhar de um homem que não sabia que era pai mas que *sentia* que era. E em uma sombra de um corredor de Sanctrum⁵, Velatrix¹ lhe dissera apenas o bastante: *Eu sei. E se os Nihil Shid¹² também souberem, você precisará de olhos que não sejam os seus. A Tar-Gig⁴ será aqueles olhos.* E desde aquele dia, a promessa foi silenciosa, absoluta, e cumprida — que se alguma coisa acontecesse à garota, Aurelius¹¹ seria o *primeiro* a saber.
 
 Velatrix¹ cumpriu a promessa.
 
@@ -128,7 +128,7 @@ Não morte física — morte *elemental*. O *aethra*² no corpo dela tinha caíd
 
 A mão da aberração estava a um palmo do rosto dela.
 
-Os dedos de obsidiana se abriam — lentos, deliberados, com a paciência cirúrgica de algo que sabe que não há pressa. Os catorze olhos examinavam cada detalhe do rosto de Alyndra⁷ — a curva da mandíbula, o traço Marethyus no queixo, a palidez extrema da pele, os cílios cerrados sobre as pálpebras. A aberração *catalogava*. Os *nihilarys*²⁰ dentro dela enviavam informações para algo que existia além do corpo, para os She-Zuris¹², para a rede de controle que operava a aberração como um boneco de sombras. *O alvo está adormecido. O alvo está sem defesa. O alvo pode ser coletado.*
+Os dedos de obsidiana se abriam — lentos, deliberados, com a paciência cirúrgica de algo que sabe que não há pressa. Os catorze olhos examinavam cada detalhe do rosto de Alyndra⁷ — a curva da mandíbula, o traço Marethyus no queixo, a palidez extrema da pele, os cílios cerrados sobre as pálpebras. A aberração *catalogava*. Os *nihilarys*²⁰ dentro dela enviavam informações para algo que existia além do corpo, para os Nihil Shid¹², para a rede de controle que operava a aberração como um boneco de sombras. *O alvo está adormecido. O alvo está sem defesa. O alvo pode ser coletado.*
 
 A mão desceu.
 
@@ -208,7 +208,7 @@ O corpo estava *destroçado* — não destruído, *danificado* de uma forma que 
 
 A aberração *olhou* para Aurelius¹¹.
 
-E nos quatorze olhos — nos olhos dos *nihilarys*²⁰, nos olhos dos She-Zuris¹², nos olhos de milhares de consciências fragmentadas que não sabiam o que era medo mas estavam prestes a *aprender* — havia algo que ninguém jamais tinha visto na aberração.
+E nos quatorze olhos — nos olhos dos *nihilarys*²⁰, nos olhos dos Nihil Shid¹², nos olhos de milhares de consciências fragmentadas que não sabiam o que era medo mas estavam prestes a *aprender* — havia algo que ninguém jamais tinha visto na aberração.
 
 Havia *alerta*.
 
@@ -246,7 +246,7 @@ Havia *alerta*.
 
 ¹¹ **Aurelius** — Guardião Mestre²⁸ supremo atual de Sanctrum⁵. Pai biológico secreto de Alyndra⁷. Seus olhos em combate tornam-se carmesins.
 
-¹² **She-Zuris** — Facção sombria de magos que construiu a aberração. Querem capturar Alyndra⁷ viva.
+¹² **Nihil Shid** — Facção sombria de magos que construiu a aberração. Querem capturar Alyndra⁷ viva.
 
 ¹³ **Mespiria** — Vila rural no oeste de Sylvaris, onde Alyndra⁷ nasceu sob segredo.
 
@@ -296,4 +296,4 @@ Havia *alerta*.
 
 ## 🔮 Previsão: Próximo Capítulo
 
-A batalha entre Aurelius¹¹ e a aberração no campo de vidro. Aurelius¹¹ é o mais forte aetheriano de Alyndra — cada golpe reescreve a geografia. Mas a aberração tem legiões de *nihilarys*²⁰, regeneração instantânea, e o poder de absorver *aethra*². E Aurelius¹¹ está contendo — cada técnica calculada para não atingir Alyndra⁷, inconsciente a poucos passos de distância. A aberração não se contem. O impasse é insustentável. Marethyus¹⁸, Lyris²¹, Korath²³ — os que ainda conseguem se mover — precisam tirar Alyndra⁷ da linha de fogo. Enquanto isso, os dois combatentes mais poderosos do livro se enfrentam em um duelo que ameaça destruir o que resta do templo na fronteira. E nos olhos mortos da aberração — os dois olhos verdes de Thaloris Ventaris — algo *treme*. Não *nihilary*²⁰. Vento. O vento de Sylvaris. Como se o despertar do *cryonys*²⁹ de Alyndra⁷ tivesse feito mais do que congelar a aberração — como se tivesse *despertado* algo dentro de Thaloris que nem os She-Zuris¹² podiam controlar.
+A batalha entre Aurelius¹¹ e a aberração no campo de vidro. Aurelius¹¹ é o mais forte aetheriano de Alyndra — cada golpe reescreve a geografia. Mas a aberração tem legiões de *nihilarys*²⁰, regeneração instantânea, e o poder de absorver *aethra*². E Aurelius¹¹ está contendo — cada técnica calculada para não atingir Alyndra⁷, inconsciente a poucos passos de distância. A aberração não se contem. O impasse é insustentável. Marethyus¹⁸, Lyris²¹, Korath²³ — os que ainda conseguem se mover — precisam tirar Alyndra⁷ da linha de fogo. Enquanto isso, os dois combatentes mais poderosos do livro se enfrentam em um duelo que ameaça destruir o que resta do templo na fronteira. E nos olhos mortos da aberração — os dois olhos verdes de Thaloris Ventaris — algo *treme*. Não *nihilary*²⁰. Vento. O vento de Sylvaris. Como se o despertar do *cryonys*²⁹ de Alyndra⁷ tivesse feito mais do que congelar a aberração — como se tivesse *despertado* algo dentro de Thaloris que nem os Nihil Shid¹² podiam controlar.
