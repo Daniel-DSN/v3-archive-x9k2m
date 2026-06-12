@@ -788,6 +788,88 @@ A comida em Pyralis é **apimentada, grelhada e abundante**:
 
 ---
 
+## 11.1 Hierarquia Completa de Pyralis
+
+### 11.1.1 Perfil Étnico Pyraliano
+
+Os pyralianos carregam em sua aparência a herança de **Ignisara**, o Seraphyen do Fogo que fundou o reino nas encostas do vulcão:
+
+| Traço | Descrição |
+|-------|-----------|
+| **Cabelo** | A marca registrada: ruivo em todas as tonalidades — do cobre escuro ao fogo vivo, do acobreado ao vermelho-sangue. Cabelos cacheados ou ondulados são mais comuns que lisos. Raros pyralianos têm cabelo negro ou castanho (são chamados de "filhos da cinza") |
+| **Pele** | Tons quentes: bronzeado natural, pêssego, porcelana com sardas. Queimaduras solares são raras — a pele pyraliana é naturalmente resistente ao calor |
+| **Olhos** | Predominantemente castanho, âmbar, dourado e verde-esmeralda. Olhos azuis são extremamente raros e considerados sinal de "fogo frio" (presagio de poder anômalo) |
+| **Corpo** | Constituição forte e compacta. Ombros largos, mãos grandes e calejadas (mesmo entre nobres — o trabalho na forja é tradição). Estatura média, mas presença física imponente |
+| **Rosto** | Traços marcados: mandíbulas quadradas, sobrancelhas grossas (frequentemente ruivas mesmo em cabelos escuros), nariz reto ou levemente aquilino. Sardas são marca de beleza, não defeito |
+| **Marcas culturais** | Marcas de fogo (queimaduras rituais com brasas controladas) são comuns na军事 e em forjadores. Padrões de chamas nas costas ou antebraços indicam patente ou guilda |
+
+### 11.1.2 Governo — A Forja do Poder
+
+| Cargo | Titular | Função |
+|-------|---------|--------|
+| **Lugal Izi** (Senhor Supremo) | **Ignar Vulkarys** | Governante absoluto. 55 valens. Ex-ferreiro que ascendeu ao poder pela força. Implacável, mas não cruel sem motivo |
+| **Dumu Nin** (Herdeira) | **Elainy Vulkarys** | Filha de Ignar. 22 valens. Enviada como "hóspede" ao Conselho dos 12 em Sanctrum — na prática, refém política. Ruiva de fogo vivo, olhos âmbar, temperamento explosivo mas inteligente |
+| **Forja-Chefe** (Conselheiro militar) | **General Vorath** | Comandante das Legiões. 60 valens. Cicatriz de queimadura em metade do rosto. Leal a Ignar desde os 20 valens |
+| **Mestra das Sete Forjas** | **Mestra Elara Forjavis** | Supervisiona toda a produção metalúrgica e as Forjas Primordiais. 58 valens. Considerada a melhor forjadora viva de Nova Aetherion |
+| **Gish Simug — Juiz Supremo** | **Krahns** | Chefe do sistema jurídico e das execuções. 50 valens. Conhecido como "A Balança de Ferro" — segue a lei ao pé da letra, sem compaixão |
+| **Casa Vulkarys** | Família do Lugal Izi | A dinastia governante há 8 gerações |
+
+### 11.1.3 As Legiões Pyralianas
+
+| Patente | Efetivo | Função |
+|---------|:-------:|--------|
+| **Lugal Izi** | 1 | Comandante supremo |
+| **General das Chamas** | 1 (Vorath) | Segundo em comando |
+| **Comandantes de Legião** | 7 | Um por legião |
+| **Krahns** (Centuriões) | 70 | Comandam 100 guerreiros cada |
+| **Legionários Plenos** | 7.000 | Infantaria pesada |
+| **Ferroiros** (arqueiros de fogo) | 2.000 | Arqueiros especializados em flechas incendiárias |
+| **Escudeiros** | 3.000 | Tropa leve, patrulha |
+| **Forjadores de Guerra** | 500 | Armeiros e engenheiros de cerco |
+
+### 11.1.4 As Sete Forjas Primordiais
+
+Cada forja é uma instituição quase independente, com seu próprio Mestre e tradições:
+
+| Forja | Localização | Mestre | Especialidade |
+|-------|-------------|--------|---------------|
+| **Forja do Coração** | Monte Pyralis (cume) | Mestra Elara Forjavis | Aetherite puro, armas Seraphyen |
+| **Forja Real** | Fornalis | Mestre Brannok | Armas cerimoniais, armaduras da guarda |
+| **Forja da Lâmina** | Cordilheira do Fogo | Mestra Kaelen | Espadas e lâminas de corte |
+| **Forja do Escudo** | Planalto de Brasalis | Mestre Durmok | Armaduras e escudos |
+| **Forja da Chama** | Urrak (fronteira) | Mestra Irith | Flechas incendiárias, catapultas |
+| **Forja do Pilar** | Cidadela Pyralis | Mestre Theron | Equipamentos de engenharia |
+| **Forja Negra** | Subsolo — secreta | Desconhecido | Armas proibidas, experimentais |
+
+### 11.1.5 Genealogia Vulkarys
+
+```
+Vulkarys Prime (avô de Ignar — morto em duel)
+    │
+    ├── Ignar Vulkarys (Lugal Izi — 55 valens)
+    │   ∞ Seraphina Vaelis (esposa — morta 10 valens atrás, "febre de cinzas")
+    │   │
+    │   ├── Elainy Vulkarys (Dumu Nin — 22 valens, refém em Sanctrum)
+    │   ├── Thorn Vulkarys (filho mais velho — 28 valens, morto em batalha 3 valens atrás)
+    │   │   ∞ (deixou viúva e filha: Vela Vulkarys, 8 valens)
+    │   └── Vaelis Vulkarys (filho caçula — 18 valens, aspirante a ferreiro)
+    │
+    └── Vorath Negro (irmão mais novo de Ignar — 50 valens)
+        (General das Chamas, sem filhos, leal ao irmão)
+```
+
+### 11.1.6 Personagens Secundários Nomeados
+
+| Nome | Função | Descrição |
+|------|--------|-----------|
+| **Seraphina Vaelis** (falecida) | Esposa de Ignar | Morreu de "febre de cinzas" 10 valens atrás — rumores de envenenamento por Nihil Shid, nunca confirmados. Era descendente de uma família nobre de Fornalis. Ruiva de tom acobreado |
+| **Vela Vulkarys** | Órfã, neta de Ignar | 8 valens. Filha de Thorn (morto). Criada na Forja Real por Mestre Brannok. Não sabe que sua mãe era "Seraphina" — nome proibido na corte |
+| **Mestre Brannok** | Mestre da Forja Real | 62 valens. Padre adotivo de Vela. Ex-ferreiro de guerra. Mão esquerda de metal (perdida em explosão, substituída por prótese aetherite) |
+| **Krahns** | Gish Simug (Juiz Supremo) | 50 valens. "A Balança de Ferro". Rosto quadrado, barba ruiva trançada. Executa as leis sem piedade — mas é o único juiz em Pyralis que nunca aceitou suborno |
+
+---
+
+
 ## 13. A Perseguição em Pyralis — O Fardo dos Fracos
 
 ### 13.1 A Política Oficial
