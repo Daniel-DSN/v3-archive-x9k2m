@@ -22,6 +22,12 @@
 
 ## 1. As Leis de Ilyos
 
+
+> **Contexto primordial:** Ilyos e Nyxalor são **gêmeos** nascidos da Semente de Alyndra Primordial — Ilyos (♀, a luz que constrói) e Nyxalor (♂, a sombra que dissolve). Os **Dez Seraphyens** são seres primordiais: cinco da luz e cinco da sombra, cada par tecido em torno de um dos cinco elementos (fogo, água, terra, vento, relâmpago). Nasceram da luz e sombra periféricas que se espalharam demais para ter vontade única, mas que, ao encontrar matéria, ganhou forma. Não são deuses — recusaram o título. Caminharam entre mortais e ensinaram. Os Seraphyens nomeados conhecidos são: **Myrrhiel** (Água-sombra, escudo de Ilyos, morto em combate), **Elarys** (Fogo-sombra, selou-se no corpo de Nyxalor), **Veridion** (Vento, fundou Sylvaris, dispersou-se no vento).
+>
+> **Ver também:** [`LORE_SERAPHYENS_E_DESCENDENCIA.md`](LORE_SERAPHYENS_E_DESCENDENCIA.md) para perfis completos e [`LORE_GUERRA_E_SELO.md`](LORE_GUERRA_E_SELO.md) para a Guerra dos Irmãos em 4 fases.
+
+
 ### 1.1 Origem
 
 As **Leis de Ilyos** não são uma religião no sentido tradicional — são uma **filosofia de vida** baseada nos ensinamentos de **Ilyos**, a Filha da Luz que se sacrificou para selar Nyxalor. Após o sacrifício de Ilyos, seus seguidores compilaram seus ensinamentos em um conjunto de princípios conhecidos como **As Leis de Ilyos** (ou, em Emê-Gir antigo, *Ilyos Dur An* — "A Verdade Duradoura de Ilyos").
