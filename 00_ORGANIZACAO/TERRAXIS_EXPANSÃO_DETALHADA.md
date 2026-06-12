@@ -762,6 +762,57 @@ O Punho da Terra cercou um comboio de Aetherite no Deserto de Pedra. Vorn lidero
 
 ---
 
+## 10.1 Hierarquia Completa de Terraxis
+
+### 10.1.1 Perfil Étnico Terraxiano
+
+Os terraxianos são herdeiros de **Galamar**, o Seraphyen da Solidez. Sua aparência reflete a vida sob a rocha e o calor das minas:
+
+| Traço | Descrição |
+|-------|-----------|
+| **Pele** | Espectro amplo: marrom-escuro, cobre, bronze, pardo-avermelhado. A diversidade é enorme — das planícies quentes ao deserto, das montanhas ao litoral. Pele mais escura é associada às famílias mais antigas das profundezas |
+| **Cabelo** | Predominantemente negro azeviche — liso, longo e grosso. Tanto em homens quanto mulheres. O cabelo é sinal de orgulho: nunca cortado curto por escolha (apenas em luto ou escravidão). Tranças elaboradas indicam status social |
+| **Olhos** | Castanho-escuro, âmbar, negro, verde-escuro. Olhos claros são raros mas ocorrem nas famílias das montanhas (mistura com sangue de Sylvaris nas fronteiras) |
+| **Corpo** | Robusto e compacto. Ombros largos, braços fortes (mesmo entre comerciantes — todos trabalham a pedra em alguma fase). Estatura média. Pernas curtas e firmes, adaptadas à escalada |
+| **Rosto** | Traços fortes e marcados: mandíbulas quadradas, testas largas, sobrancelhas grossas. Nariz largo e narinas abertas (adaptação ao ar rarefeito das minas). Lábios grossos |
+| **Marcas culturais** | Cicatrizes de mina são marcas de honra — cada cicatriz conta uma história. Tatuagens geométricas com pigmento de Aetherite nas mãos indicam ofício (ferreiro, mineiro, lapidador). Brincos e colares de pedra indicam riqueza |
+
+> **Nota de diversidade interna:** Os terraxianos das planícies têm pele mais clara e traços mais suaves. Os das montanhas têm pele mais escura e traços mais duros. Os do deserto são os mais altos e esguios. Essa variação interna é uma fonte de preconceito sutil dentro do próprio reino.
+
+### 10.1.2 Famílias Nobres — Nomes Completos e Conexões
+
+| Casa | Líder | Nome Completo | Aparência | Conexões |
+|------|-------|---------------|-----------|----------|
+| **Petra** | Lady Mira Petra | **Mira Petra Gal-Dur** | 43 valens. Pele cobre, cabelo negro em tranças complexas, olhos âmbar. Rosto anguloso e implacável | Viúva (marido morto em guerra). Controla 40% da riqueza. Milícia privada de 2.000 |
+| **Ferrum** | Lorde Ferrum | **Kormag Ferrum Gal-Dur** | 55 valens. Pele marrom-escura, cabeça raspada, barba trançada, cicatriz cruzada na testa | Casado com filhos. Rival histórico da Casa Petra |
+| **Rocha** | Lorde Rocha | **Duran Rocha Gal-Dur** | 48 valens. Pele pardo-escura, cabelo negro longo, olhos castanho-escuros. Barrigudo, voz grave | Em dívida com a Casa Monte. Filha única: Thara Rocha (16 valens, prometida a Kormag Ferrum Júnior) |
+| **Monte** | Lady Monte | **Vala Monte Gal-Dur** | 51 valens. Pele marrom-média, cabelo negro com mechas brancas (prematuras), olhos verde-escuros. Magra, alta, articulada | Arquiteta do sistema de transporte. Milícia de 2.000 mercenários |
+
+### 10.1.3 Subordinados Nomeados do Governo
+
+| Nome | Cargo | Descrição |
+|------|-------|-----------|
+| **Gromm** | Mestre das Minas (Gush Kur) | 60 valens. Ex-mineiro que se tornou o maior especialista em Aetherite do reino. Pele escura como rocha molhada, braços grossos, poucas palavras |
+| **Mestre Telkh** | Líder da Guilda dos Mestres | 70 valens. Armeiro lendário. Forjou a espada de Torgath. Mão direita deformada por decades de trabalho |
+| **Mestre Durn** | Líder da Guilda dos Mineiros | 45 valens. Ex-mineiro contratado que ascendeu à guilda. Defende os direitos dos trabalhadores — o único contrapeso popular no En Dur Kun |
+| **Alto Duri Kormag** | Líder da Ordem dos Duri | 75 valens. O mais velho do conselho. Voz dos Duri da Pedra. Barba branca até o peito. Cego de um olho (acidente de mina) |
+
+### 10.1.4 Genealogia Notável
+
+```
+Torgath (Lugal Ki — 52 valens)
+    ∞ Desconhecida (esposa — morta 20 valens atrás, "colapso de veio")
+    │
+    ├── Filha mais velha: Thora Torgath (30 valens) — casada com lorde da Casa Vale
+    │   └── Netos: dois meninos (10 e 8 valens) — criados em Durok
+    │
+    └── Filho caçula: Krag Torgath (18 valens) — aspirante a mineiro (recusa a política)
+        (Sendo treinado por Gromm pessoalmente — Torgath insiste que o filho conheça as minas)
+```
+
+---
+
+
 ## 11. Geografia, Biomas e Passagens de Fronteira
 
 ### 11.1 Biomas e Pontos Geográficos Notáveis
