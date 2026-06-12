@@ -858,6 +858,83 @@ A Academia de Inovação no Nível 4 da Torre é a **escola de engenharia mais p
 
 ---
 
+## 13.1 Hierarquia Completa de Fulmora
+
+### 13.1.1 Perfil Étnico Fulmori
+
+Os fulmorianos são herdeiros de **Fulm**, o Seraphyen do Conhecimento. Sua aparência reflete a valorização da mente sobre o corpo:
+
+| Traço | Descrição |
+|-------|-----------|
+| **Pele** | Tons claros: porcelana, pêssego claro, marfim. Queima fácil ao sol (o que os fulmorianos consideram sinal de "trabalho de campo" — inferior). Pele impecável é sinal de status |
+| **Cabelo** | Loiro, castanho-claro, ruivo-claro. Cabelos escuros são menos comuns mas não raros. Tendência a fios finos e lisos. Trens e coques são estilos comuns na academia |
+| **Olhos** | Azul, verde, cinza, castanho-claro. Olhos escuros (castanho-escuro, negro) são associados a imigrantes de outros reinos |
+| **Corpo** | Constituição variada — desde magros intelectuais até corpos fortes de engenheiros. Estatura média a alta. Menos musculosos que pyralianos ou terraxianos |
+| **Rosto** | Traços delicados e regulares. Testas altas (sinal de inteligência em Fulmora), queixos definidos, narizes estreitas. Óculos de cristal são comuns entre acadêmicos |
+| **Marcas culturais** | Tatuagens de circuito (padrões geométricos que simulam circuitos de Aetherite) são usadas por engenheiros e técnicos. Colares de cristal indicam graduação acadêmica |
+
+### 13.1.2 Governo — O Nim Gush En
+
+Fulmora é governada por um **conselho tecnocrático** onde cargo é conquistado por mérito intelectual, não por sangue:
+
+| Cargo | Titular | Função |
+|-------|---------|--------|
+| **Nin Nim** (Matriarca) | **Vaela Zerynthia** | Líder suprema. 58 valens. Inventora da RRA junto com Valtheris. Implacável na defesa do conhecimento. Descendente de Fulm. Cabelo grisalho penteado para trás, olhos azul-aço, nunca sorri em público |
+| **Nim Seraph** (Vice-Meritíssimo) | **Conselheira Vela** | Segunda no comando. 52 valens. Especialista em comunicação e diplomacia. Rosto gentil, mas mente afiada. Gerencia as relações com os outros 6 reinos |
+| **Arquiteto-Chefe** | **Mestre Tronus** | Supervisor de toda engenharia e construção. 65 valens. Construiu as Torres de Repetição. Mão firme, olhar analítico. Considerado o terceiro homem mais inteligente de Nova Aetherion |
+| **Mestre da RRA** | **Valtheris** (En Gesh) | Criador da RRA. 45 valens. Não é fulmori nativo — veio de Sanctrum, mas foi adotado pela academia. Cabelo escuro, olhos castanhos, sempre com ferramentas nos bolsos |
+| **Mestre Kaelen** | **Kaelen Zu-Me** | Chefe do Departamento de Energia. 40 valens. Especialista em plasma e Aetherite. Quietos, observador, fala pouco mas quando fala, todos escutam |
+| **Almirante Zephyron** | **Almirante Zephyron** | Comandante da força aérea (Koramis de reconhecimento). 48 valens. Um dos poucos militares de alto escalão. Ex-piloto de teste |
+| **Mestra Lyra** | **Mestra Lyra** | Diretora da Academia Nova. 55 valens. Responsável por formar a próxima geração de técnicos. Rigorosa mas justa |
+
+### 13.1.3 A Estrutura Acadêmica
+
+Fulmora não tem exército tradicional — sua "força" é intelectual:
+
+| Instituição | Líder | Função |
+|-------------|-------|--------|
+| **Academia Nova** | Mestra Lyra | Formação de técnicos, engenheiros, cientistas. 2.000 estudantes |
+| **Torre do Céu (Zerynthium)** | Vaela Zerynthia | Centro de pesquisa avançada, laboratórios, arquivo Seraphyen |
+| **Departamento de Energia** | Mestre Kaelen | Pesquisa em plasma, Aetherite, geradores |
+| **Departamento de Comunicação** | Conselheira Vela | RRA, Torres de Repetição, criptografia |
+| **Departamento de Engenharia** | Mestre Tronus | Construção civil, mecânica, engenharia reversa |
+| **Guarda Técnica** | Almirante Zephyron | 500 guardas com treinamento básico + 50 Koramis de reconhecimento |
+
+### 13.1.4 Genealogia Zerynthia
+
+```
+Fulm (Seraphyen fundador — dissipado)
+    │
+    └── [linhagem guardiã — ~3.000 valens de descendência]
+        │
+        ├── Zerynthia I (fundadora da Torre do Céu)
+        │
+        └── ... gerações ...
+            │
+            ├── Vaela Zerynthia (Nin Nim — 58 valens)
+            │   ∞ Consorte (falecido — "colapso de aetherite", 12 valens atrás)
+            │   │
+            │   ├── Filho mais velho (falecido em acidente de laboratório, 5 valens atrás)
+            │   │   └── Neto: Zeph Zerynthia (15 valens — estudante prodígio na Academia)
+            │   │
+            │   └── Filha caçula: Lyra Zerynthia (20 valens — não confundir com Mestra Lyra)
+            │       (Estudante de engenharia, ambiciosa, rival de Zeph)
+            │
+            └── Irmã de Vaela: Thessa Zerynthia (54 valens)
+                (Conselheira aposentada, vive na Cidade de Alvorada)
+```
+
+### 13.1.5 Personagens Secundários Nomeados
+
+| Nome | Função | Descrição |
+|------|--------|-----------|
+| **Zeph Zerynthia** | Estudante prodígio | 15 valens. Neto de Vaela. Cabelo loiro-platinado, olhos azul-elétrico. Genial mas arrogante. Quer superar a avó |
+| **Thessa Zerynthia** | Conselheira aposentada | 54 valens. Irmã mais velha de Vaela. Vive em Alvorada. Mais diplomática que a irmã. Desconfia do quão rápido a tecnologia avança sem ética |
+| **Cristal Mestre Orin** | Guardião do Arquivo Seraphyen | 70 valens. Único com acesso total aos textos primordiais na Torre do Céu. Memória fotográfica. Cego do olho esquerdo (acidente com cristal) |
+
+---
+
+
 ## 14. Infiltração Nihilaryth — Técnicos Descontentes e Sabotagem
 
 ### 14.1 A Porta de Entrada: O Descontentamento
