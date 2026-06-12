@@ -296,7 +296,7 @@ E Velatrix² avançou para o encontro.
 
 ¹⁸ **Kest** Kest — Operativo Tar-Gig⁶ que morre infectado pela corrupção canalizada através de sua própria lâmina.
 
-¹⁹ **Thaloris Ventaris** — O antigo governante de Sylvaris que aceitou o pacto dos She-Zuris e acabou transformado no monstro.
+¹⁹ **Thaloris Ventaris** — O antigo governante de Sylvaris que aceitou o pacto dos Nihil Shid e acabou transformado no monstro.
 
 ²⁰ **Nyctara** — Título de combate e identidade secreta de Lyris²⁹.
 
