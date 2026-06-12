@@ -70,7 +70,7 @@ A aberração olhou para Nyx¹.
 
 Os dezesseis olhos focaram no corpo prateado que estava cravado na palma da mão como um parasita que se recusa a cair. Os dois olhos verdes — os olhos de Thaloris Ventaris¹⁶, os olhos que tinham visto os campos de *giralis*¹² e as torres de Zephyra¹⁷ e o rosto de uma mulher que talvez tivesse sido mãe — *brilharam*.
 
-Não com a luz dos *nihilarys*⁶. Com a luz de Sylvaris¹⁸. Verde e puro e *vivo* — a primeira vez desde a possessão que os olhos de Thaloris brilhavam com algo que era *dele* e não dos She-Zuris¹⁹.
+Não com a luz dos *nihilarys*⁶. Com a luz de Sylvaris¹⁸. Verde e puro e *vivo* — a primeira vez desde a possessão que os olhos de Thaloris brilhavam com algo que era *dele* e não dos Nihil Shid¹⁹.
 
 E por um segundo — um único segundo — a mão da aberração *parou*.
 
@@ -220,7 +220,7 @@ O velho — caído no chão, as costelas fraturadas, a relíquia vazia nas mãos
 
 Marethyus¹⁰ *chorou*.
 
-Não lágrimas de tristeza — lágrimas de *reconhecimento*. Ele viu o poder de Alyndra e soube o que era — soube que os She-Zuris¹⁹ tinham razão de temer a garota, soube que a profecia dos Cantos de Adormecimento²⁶ era *verdadeira*, soube que a última herdeira de Thalassia²⁴ era tudo que os textos antigos diziam que era e *mais*. E soube — com a clareza brutal de um homem que está vendo o futuro se desenrolar diante de seus olhos — que aquele poder ia *matar* Alyndra se não parasse.
+Não lágrimas de tristeza — lágrimas de *reconhecimento*. Ele viu o poder de Alyndra e soube o que era — soube que os Nihil Shid¹⁹ tinham razão de temer a garota, soube que a profecia dos Cantos de Adormecimento²⁶ era *verdadeira*, soube que a última herdeira de Thalassia²⁴ era tudo que os textos antigos diziam que era e *mais*. E soube — com a clareza brutal de um homem que está vendo o futuro se desenrolar diante de seus olhos — que aquele poder ia *matar* Alyndra se não parasse.
 
 O gelo alcançou os guerreiros caídos.
 
@@ -258,7 +258,7 @@ O corpo de Alyndra *não aguentava*.
 
 A aberração *se libertou*.
 
-Não completamente — metade dos braços ainda estava congelada, as juntas das pernas estavam travadas, a obsidiana da superfície estava rachada em uma dezena de pontos. Mas os *nihilarys*⁶ dentro do corpo — milhares, talvez dezenas de milhares — *resistiram*. A escuridão que os She-Zuris¹⁹ tinham instalado no corpo de Thaloris Ventaris¹⁶ era *profunda*, e o *cryonys*⁵ de Alyndra, por mais devastador que fosse, era *incontrolado* — e o incontrolado tem limites, porque o incontrolado não escolhe onde atinge e não escolhe onde *para*, e o *cryonys*⁵ estava atingindo tudo e não estava *concentrado* na aberração, estava espalhado, estava *diluído*, e a diluição era a fraqueza de todo poder que não tem direção.
+Não completamente — metade dos braços ainda estava congelada, as juntas das pernas estavam travadas, a obsidiana da superfície estava rachada em uma dezena de pontos. Mas os *nihilarys*⁶ dentro do corpo — milhares, talvez dezenas de milhares — *resistiram*. A escuridão que os Nihil Shid¹⁹ tinham instalado no corpo de Thaloris Ventaris¹⁶ era *profunda*, e o *cryonys*⁵ de Alyndra, por mais devastador que fosse, era *incontrolado* — e o incontrolado tem limites, porque o incontrolado não escolhe onde atinge e não escolhe onde *para*, e o *cryonys*⁵ estava atingindo tudo e não estava *concentrado* na aberração, estava espalhado, estava *diluído*, e a diluição era a fraqueza de todo poder que não tem direção.
 
 A aberração rasgou a jaula de gelo com os dois braços que ainda funcionavam. A obsidiana *rasgou* o *cryonys*⁵ — não como metal rasga papel, como *dente* rasga carne, com a brutalidade de algo que está *faminto* e que foi privado de sua presa por tempo demais. Os fragmentos de gelo voaram pelo campo de batalha como estilhaços de cristal, e onde os fragmentos caíam, o chão *congelava* — mas o congelamento era residual, *enfraquecido*, o *cryonys*⁵ se dissipando no contato com a obsidiana quente da aberração.
 
@@ -364,7 +364,7 @@ E no centro do jardim de gelo, uma garota de cinco valens deitava com um *lyrien
 
 A aberração se *moveu*.
 
-Criatura mancava — os dois braços mortos pendiam dos ombros, as pernas travadas rangiam a cada passo, a superfície rachada sangrava um líquido negro que fumegava onde tocava o gelo. Mas os dez olhos que ainda funcionavam estavam focados em Alyndra. A fome — a fome dos *nihilarys*⁶, a fome dos She-Zuris¹⁹, a fome do que queria devorar o *cryonys*⁵ dentro da garota — ainda *queimava*.
+Criatura mancava — os dois braços mortos pendiam dos ombros, as pernas travadas rangiam a cada passo, a superfície rachada sangrava um líquido negro que fumegava onde tocava o gelo. Mas os dez olhos que ainda funcionavam estavam focados em Alyndra. A fome — a fome dos *nihilarys*⁶, a fome dos Nihil Shid¹⁹, a fome do que queria devorar o *cryonys*⁵ dentro da garota — ainda *queimava*.
 
 Cinco passos.
 
@@ -402,7 +402,7 @@ E ninguém — *ninguém* — tinha mais nada para dar.
 
 ⁵ **cryonys** — Fusão elemental de Água e Vento; gelo e congelamento absoluto. Disciplina de Alyndra, não vista desde os Seraphyens²².
 
-⁶ **nihilary / nihilarys** — Entidade de escuridão e ausência; agentes dos She-Zuris¹⁹.
+⁶ **nihilary / nihilarys** — Entidade de escuridão e ausência; agentes dos Nihil Shid¹⁹.
 
 ⁷ **Velatrix** — Figura enigmática que lidera forças de elite; domina *thermaris*²⁰. Identidade velada.
 
@@ -428,7 +428,7 @@ E ninguém — *ninguém* — tinha mais nada para dar.
 
 ¹⁸ **Sylvaris** — Reino dos Ventos Livres; terra natal de Thaloris Ventaris¹⁶.
 
-¹⁹ **She-Zuris** — Ordem secreta de *nihilarys*⁶; "A Ordem da Luz." Querem Alyndra como vasilha.
+¹⁹ **Nihil Shid** — Ordem secreta de *nihilarys*⁶; "A Ordem da Luz." Querem Alyndra como vasilha.
 
 ²⁰ **thermaris** — Fusão elemental de Água e Fogo; vapor superaquecido. Disciplina de Velatrix⁷ e Lyris¹⁴.
 
