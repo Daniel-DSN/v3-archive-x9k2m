@@ -38,7 +38,7 @@ Vethran entrou no aposento. Seus passos não faziam som — haviam valens em que
 
 — As *cargas fantasmas*¹¹ — Vethran disse, e a voz era baixa, contida, como se cada palavra fosse uma pedra que ele colocava com cuidado sobre um muro que ameaçava desabar — foram entregues. Todos os comboios chegaram ao *Ponto Ômega*¹². A operação está completa.
 
-Thaloris assentiu. Sentiu algo se mover dentro dele — não emoção, porque a emoção havia sido uma das primeiras coisas que o pacto com os *She-Zuris*¹³ havia consumido, mas uma vibração, um eco distante do que antes seria alívio e agora era apenas reconhecimento de que mais uma peça havia se movido no tabuleiro.
+Thaloris assentiu. Sentiu algo se mover dentro dele — não emoção, porque a emoção havia sido uma das primeiras coisas que o pacto com os *Nihil Shid*¹³ havia consumido, mas uma vibração, um eco distante do que antes seria alívio e agora era apenas reconhecimento de que mais uma peça havia se movido no tabuleiro.
 
 — Então é hora de cobrar — ele disse.
 
@@ -132,7 +132,7 @@ Não emergiram gradualmente — saíram da escuridão como se a escuridão os ti
 
 O líder era alto — mais alto que Thaloris, o que era raro — e usava uma máscara de *aethrys*⁵ negro que cobria a metade inferior do rosto, deixando visíveis apenas os olhos: olhos de um cinza escuro, quase preto, que absorviam a luz do *aethrys*⁵ pulsante do altar como areia seca absorve água.
 
-— Trouxe o que foi combinado — o líder disse, e a voz era mais clara agora, mais articulada, como se as sombras tivessem engrossado a sonoridade antes. — Os *She-Zuris*¹³ estão satisfeitos com sua cooperação. As *cargas fantasmas*¹¹ chegaram ao destino. Tudo foi processado.
+— Trouxe o que foi combinado — o líder disse, e a voz era mais clara agora, mais articulada, como se as sombras tivessem engrossado a sonoridade antes. — Os *Nihil Shid*¹³ estão satisfeitos com sua cooperação. As *cargas fantasmas*¹¹ chegaram ao destino. Tudo foi processado.
 
 Thaloris não respondeu imediatamente. Seus olhos verdes varreram os três mercenários — o líder mascarado e mais dois que flanqueavam as colunas atrás dele, posicionados em ângulos de cobertura que sugeriam treinamento militar avançado. Um dos flancadores segurava uma besta de cristal, a arma apontada para o chão — não ameaçadora, mas pronta. O outro tinha as mãos livres, mas a postura era a de quem pode sacar uma lâmina em menos de um segundo.
 
@@ -142,7 +142,7 @@ O líder mascarado inclinou a cabeça. Um gesto mínimo, quase imperceptível. M
 
 — A promessa será cumprida — o líder disse. — Mas primeiro, precisamos de uma coisa.
 
-A palavra "coisa" atingiu Thaloris como um soco no peito — não pela palavra em si, mas pelo tom. O tom não era de negociação. Era de *demanda*. E os *She-Zuris*¹³ não demandavam — eles *sugeriam*, *sussurravam*, *prometiam*. Demandar era coisa de homens, não de entidades que existiam há milênios nas profundezas do *aethra*¹⁵.
+A palavra "coisa" atingiu Thaloris como um soco no peito — não pela palavra em si, mas pelo tom. O tom não era de negociação. Era de *demanda*. E os *Nihil Shid*¹³ não demandavam — eles *sugeriam*, *sussurravam*, *prometiam*. Demandar era coisa de homens, não de entidades que existiam há milênios nas profundezas do *aethra*¹⁵.
 
 — Que coisa? — Thaloris perguntou, e a voz era mais fria agora, e suas mãos — que estavam relaxadas ao lado do corpo — começaram a se mover em direção aos bolsos do manto, onde guardava os cristais de vento que eram suas armas desde que tinha dezoito valens.
 
@@ -152,7 +152,7 @@ Respondeu com um gesto — um aceno mínimo da mão esquerda, quase casual, como
 
 Não para frente — para os lados. Cada um se deslocou três passos, em direções opostas, fechando um arco ao redor de Thaloris que reduzia suas opções de escape. O do flanco esquerdo ergueu a besta de cristal e a apontou — não para o peito de Thaloris, mas para a *koramis*¹⁴ negra que estava imóvel atrás dele, com as asas semiabertas e os olhos âmbar fixos nos mercenários com a atenção feroz de um predador que percebeu que foi cercado. O do flanco direito sacou uma lâmina — não uma lâmina comum, uma lâmina de *aethrys*⁵ escuro, com veios que pulsavam em vermelho como artérias expostas, o tipo de lâmina que mercenários de alto escalão de *Umbra*²⁴ usavam quando a missão não era captura, mas eliminação.
 
-— Uma formalidade — o líder disse, e a máscara de *aethrys*⁵ distorceu o que poderia ter sido um sorriso. — Precisamos de uma amostra de seu *aethra*¹⁵. Para o ritual. Os *She-Zuris*¹³ precisam calibrar a entrega ao seu padrão elemental.
+— Uma formalidade — o líder disse, e a máscara de *aethrys*⁵ distorceu o que poderia ter sido um sorriso. — Precisamos de uma amostra de seu *aethra*¹⁵. Para o ritual. Os *Nihil Shid*¹³ precisam calibrar a entrega ao seu padrão elemental.
 
 Thaloris não acreditou.
 
@@ -206,7 +206,7 @@ O líder mascarado ainda não havia se movido. Ficara de pé, com os braços cru
 
 O líder era o teste.
 
-— Você é mais forte do que esperávamos — o líder disse. A voz não tinha emoção — nem admiração, nem medo, nem raiva. Era a voz de alguém que registra dados e os processa sem julgamento. — Os *She-Zuris*¹³ calcularam seu poder em oitenta e três por cento do limite elemental. Estimaram que três operativos seriam suficientes para contê-lo no caso de resistência.
+— Você é mais forte do que esperávamos — o líder disse. A voz não tinha emoção — nem admiração, nem medo, nem raiva. Era a voz de alguém que registra dados e os processa sem julgamento. — Os *Nihil Shid*¹³ calcularam seu poder em oitenta e três por cento do limite elemental. Estimaram que três operativos seriam suficientes para contê-lo no caso de resistência.
 
 O líder descruzou os braços. E fez algo que ninguém no templo esperava: tirou a máscara de *aethrys*⁵.
 
@@ -260,11 +260,11 @@ E o *nihilary*²⁵ ainda estava de pé, com os braços cruzados e os olhos negr
 
 — Sessenta e três por cento — o líder disse, e o tom era o de um professor que lê uma nota: clinicamente neutro, sem aprovação nem desaprovação. — Você gastou trinta e um por cento em trinta e sete segundos. Impressionante, para um humano. Inadequado, para o que vem depois.
 
-O líder não avançou. Não precisava. E Thaloris percebeu — com a desesperança de um homem que joga todas as cartas e descobre que o adversário não estava jogando o mesmo jogo — que o combate nunca teve a finalidade de derrotá-lo. Tinha a finalidade de *exauri-lo*. Os três mercenários eram isca. O *nihilary*²⁵ era o cronômetro. E o que vinha depois — o que os *She-Zuris*¹³ tinham planejado desde o início — não exigia que Thaloris estivesse fraco. Exigia que ele estivesse *presente*.
+O líder não avançou. Não precisava. E Thaloris percebeu — com a desesperança de um homem que joga todas as cartas e descobre que o adversário não estava jogando o mesmo jogo — que o combate nunca teve a finalidade de derrotá-lo. Tinha a finalidade de *exauri-lo*. Os três mercenários eram isca. O *nihilary*²⁵ era o cronômetro. E o que vinha depois — o que os *Nihil Shid*¹³ tinham planejado desde o início — não exigia que Thaloris estivesse fraco. Exigia que ele estivesse *presente*.
 
 Presente, vulnerável, e esperando.
 
-Porque a armadilha — Thaloris percebeu agora, com a clareza tardia e devastadora que é o privilégio dos condenados — não era o combate. O combate era o *prelúdio*. A armadilha era o que os *She-Zuris*¹³ iam oferecer depois que o combate acabasse.
+Porque a armadilha — Thaloris percebeu agora, com a clareza tardia e devastadora que é o privilégio dos condenados — não era o combate. O combate era o *prelúdio*. A armadilha era o que os *Nihil Shid*¹³ iam oferecer depois que o combate acabasse.
 
 A oferta que ele mesmo tinha vindo buscar.
 
@@ -460,11 +460,11 @@ E o *Senhor dos Ventos*³ de *Sylvaris*¹ começou a gritar.
 
 ¹⁰ **Aeriva** — Região vinícola de *Sylvaris*¹; produtora do vinho âmbar.
 
-¹¹ **cargas fantasmas** — Operação de tráfico de pessoas; Thaloris² facilitou as entregas em troca da promessa dos *She-Zuris*¹³.
+¹¹ **cargas fantasmas** — Operação de tráfico de pessoas; Thaloris² facilitou as entregas em troca da promessa dos *Nihil Shid*¹³.
 
 ¹² **Ponto Ômega** — Designação do templo na fronteira *Fulmora*²⁷-*Umbra*²⁴ onde as *cargas fantasmas*¹¹ convergiam.
 
-¹³ **She-Zuris** — Organização secreta "Os Iluminados". Prometeram imortalidade a Thaloris² em troca de sua cooperação.
+¹³ **Nihil Shid** — Organização secreta "Os Iluminados". Prometeram imortalidade a Thaloris² em troca de sua cooperação.
 
 ¹⁴ **koramis** — Ave gigante usada como montaria aérea. A *koramis*¹⁴ negra de Thaloris² é a maior dos estábulos reais.
 
@@ -488,7 +488,7 @@ E o *Senhor dos Ventos*³ de *Sylvaris*¹ começou a gritar.
 
 ²⁴ **Umbra** — Reino das Sombras e Mistérios; sétimo reino. Origem dos mercenários que emboscam Thaloris².
 
-²⁵ **nihilary / nihilarys** — Agentes dos *She-Zuris*¹³; seres de escuridão.
+²⁵ **nihilary / nihilarys** — Agentes dos *Nihil Shid*¹³; seres de escuridão.
 
 ²⁶ **cryonys** — Energia ou cristal que manifesta gelo. Um dos mercenários usa uma rede de *cryonys*²⁶ contra Thaloris².
 
