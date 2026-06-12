@@ -955,6 +955,57 @@ Sabe que a maioria destes objetivos levará décadas — se é que algum dia ser
 
 ---
 
+## 22.1 Hierarquia Completa de Sylvaris
+
+### 22.1.1 Perfil Étnico Sylvari
+
+Sylvaris é o reino da diversidade — herdeiro de **Veridion**, que se dispersou no vento. Seu povo é a mistura mais variada de Nova Aetherion:
+
+| Traço | Descrição |
+|-------|-----------|
+| **Pele** | Impossível definir um "tipo" — toda a paleta existe. Das planícies de Aeriva (tons mais quentes, bronzeado) às florestas de Argentis (pele mais clara). A diversidade é o traço definidor |
+| **Cabelo** | Todas as cores e texturas. Castanho e negro são os mais comuns. Loiro e ruivo aparecem em famílias com sangue de Fulmora ou Pyralis. Cabelos longos são comuns em homens e mulheres |
+| **Olhos** | Verde é o mais comum (herança simbólica de Veridion e das florestas). Castanho, castanho-claro e azul também frequentes. Olhos de duas cores (heterocromia) aparecem com frequência maior que em outros reinos |
+| **Corpo** | Variado — de esguio a robusto, de baixo a alto. A única constante é a graciosidade herdada do vento — mesmo os mais fortes se movem com fluidez |
+| **Rosto** | Traços suaves e regulares são a média, mas a mistura gera combinações únicas. Orelhas ligeiramente pontiagudas são comuns (não tanto quanto os thalassianos). Sorrisos fáceis |
+| **Marcas culturais** | Brincos de folha de prata (símbolo de Veridion) são usados em festivais. Tatuagens de cipó (padrões de vinhas) nos pulsos são comuns entre os Aga Uru |
+
+> **Nota:** A diversidade étnica de Sylvaris não é acidental — é filosófica. Os ensinamentos originais de Veridion enfatizavam que "o vento toca todos igualmente." O preconceito é mais sutil em Sylvaris do que em outros reinos, mas existe: baseia-se em **origem** (nascido em Zephyra vs. nascido em província) mais que em aparência.
+
+### 22.1.2 As Sete Casas Nobres — Nomes e Conexões
+
+| Casa | Líder Atual | Nome Completo | Status | Conexões |
+|------|-------------|---------------|--------|----------|
+| **Ventaris** | *Vago* (Thaloris caído) | — | Sem líder — Thaloris é aberração | Antiga casa governante. Agora sob regência de Vethran |
+| **Noll** | **Vethran Noll** | Vethran Gal-Noll | Regente interino | Amigo de infância de Thaloris. En Shid. Único leal |
+| **Aerivas** | **Senhora Mira Aerivas** | Mira Gal-Aerivas | Ativa, fortalecendo | Vinícolas. Congelou ativos de Kaelvrym. Aliada de Vethran |
+| **Thalendris** | **Senhor Korath Thalendris** | Korath Gal-Thalendris | Ativa, neutra | Portos e pesca. Pragmático — apoia quem vencer |
+| **Kaelvrym** | *Vago* (Draven preso/desacreditado) | — | Desacreditada | Minas e fronteiras. Draven foi cúmplice de Thaloris. Casa sob investigação |
+| **Mespir** | **Senhora Elara Mespir** | Elara Gal-Mespir | Ativa, enlutada | Agricultura. Declarou luto público. Neutra |
+| **Zephyr** | **Senhor Vael Zephyr** | Vael Gal-Zephyr | Ativa, tentando negociar | Burocracia. Tentou contato com Sanctrum. Fracassou |
+
+### 22.1.3 Personagens Secundários Nomeados
+
+| Nome | Função | Descrição |
+|------|--------|-----------|
+| **Mira Aerivas** | Líder da Casa Aerivas | 45 valens. Mulher de negócios afiada. Cabelo castanho-avermelhado, olhos verdes. Vinícola de sucesso. Vendeu vinhos até para Fulmora. Apoia Vethran em segredo |
+| **Korath Thalendris** | Líder da Casa Thalendris | 52 valens. Ex-pescador tornado senhor. Pele bronzeada pelo sol, mãos calejadas. Pragmático: não toma lados até ver quem vence |
+| **Elara Mespir** | Líder da Casa Mespir | 48 valens. Viúva, dois filhos adultos. Pele clara, cabelo negro longo. Gentil mas não fraca — protege suas terras com eficiência |
+| **Vael Zephyr** | Líder da Casa Zephyr | 40 valens. O mais jovem do antigo conselho. Ambicioso. Cabelo loiro, olhos azuis. Quer ser o novo Lugal Lil |
+| **Thara Gal-Aerivas** | Filha de Mira | 20 valens. Estudante da Academia de Aethra de Zephyra. Amiga de infância de personagens do orfanato. Potencial Aga Zagin |
+| **Lysias Thyrion** | Repórter | 30 valens. Não é nobre — é o primeiro jornalista continental. Olhos verde-escuros, cabelo desgrenhado, sempre com caderno. Fonte de Vethran |
+
+### 22.1.4 Aga Uru — Comandantes Nomeados
+
+| Cargo | Titular | Descrição |
+|-------|---------|-----------|
+| **Lugal Aga** | **Senhora Kaelen Vaelis** | 55 valens. Comandante da Aga Uru. Leal a Vethran (e a Veridion). Pele parda, cabelo grisalho preso em coque apertado, olhos cinza. Veterana de 30 anos de serviço |
+| **Gush Lil (Instrutores)** | 12 Mestres de Vento | Os mais notáveis: Mestre Rynn (voo avançado), Mestra Lyss (combate aéreo), Mestre Dael (vento ofensivo) |
+| **Guarda do Orfanato** | **Capitã Soren** | 35 valens. Comandante da guarnição do Orfanato Luminis. Responde diretamente a Lyris. Uma das raras sentinelas que sabe quem Alyndra realmente é |
+
+---
+
+
 ## 23. Linha do Tempo de Sylvaris
 
 | Data | Evento |
