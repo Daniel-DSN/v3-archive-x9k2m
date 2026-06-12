@@ -674,6 +674,41 @@ Ao longo dos valen Gal-e, várias tentativas foram feitas para acessar ou roubar
 
 ---
 
+## 9.1 Hierarquia e Perfil Étnico de Thalassia
+
+### 9.1.1 Perfil Étnico Thalassiano
+
+Os thalassianos são herdeiros de **Myrrhiel** e do mar. Sua aparência reflete a vida nas ilhas e o contato com as profundezas:
+
+| Traço | Descrição |
+|-------|-----------|
+| **Pele** | Tons escuros a médios: marrom-escuro, cobre, bronze-oliváceo. A exposição constante ao sol e à maresia cria uma pele que parece sempre dourada. Pele muito clara é rara e geralmente indica sangue de outras terras |
+| **Cabelo** | Negro azeviche, liso, longo e grosso — tanto em homens quanto mulheres. O cabelo é quase sempre longo (cortar é sinal de luto ou punição). Tranças marinhas (padrões de nós que imitam ondas) são usadas em cerimônias. Cabelo molhado com brilho de cristal é considerado o padrão de beleza |
+| **Olhos** | Castanho-escuro, negro, verde-escuro (herança de Myrrhiel). Olhos azul-marinho são raros e associados à "visão abissal" — dom da linhagem Marethyus |
+| **Corpo** | Esguio e alongado — magros mas fortes (a natação e o mergulho constroem musculatura funcional). Ombros estreitos, braços longos, pernas fortes. Adaptados ao nado e à escalada de recifes. Estatura média a alta |
+| **Rosto** | Traços suaves e alongados: rosto oval, maxilares delicados, lábios cheios. Orelhas levemente pontiagudas (adaptação ao mergulho?). Nariz pequena e reta. Olhos amendoados são comuns |
+| **Marcas culturais** | Tatuagens de ondas e corais nos pulsos e tornozelos. Conchas no cabelo indicam status. Escamas de peixe-cristal como joias em festivais |
+
+### 9.1.2 Famílias das Guildas — Nomes Completos
+
+| Casa/Guilda | Líder | Nome Completo | Aparência | Notas |
+|-------------|-------|---------------|-----------|-------|
+| **Marethyus** | Kaelia (Nin A) | **Kaelia Marethyus Gal-A** | 50 valens. Cabelo negro longo até a cintura, olhos verde-escuros. Porte majestoso e solene | Casa governante. Crise sucessória. Ayla era sua irmã caçula |
+| **Talassa** | Desconhecido | **Lord Talon Gal-Talassa** | 60 valens. Cabelo branco prematuro, olhos negros. Rosto imperturbável. | Rival histórico dos Marethyus. Cresceu em poder. Sob suspeita de assassinato de Lyanna |
+| **Coralys** | Desconhecido | **Mestra Sereia Gal-Coralys** | 55 valens. Cabelo negro com mechas azuladas (coloração natural). Olhos azul-marinho | Coralista-Mor. Guardiã dos recifes. Neutra na política |
+| **Vaelor** | Desconhecido | **Construtor Vaelor Gal-Vaelor** | 45 valens. Ex-marinheiro. Pele bronzeada, cicatriz de arpão no peito. Mãos enormes | Construção naval. Aliado histórico de Marethyus. Almirante Vaelor é da mesma família |
+
+### 9.1.3 Subordinados Nomeados
+
+| Nome | Cargo | Descrição |
+|------|-------|-----------|
+| **Ancião Nyrian** | Mestre dos Cantos (Gush A) | 80+ valens. O mais velho de Thalassia. Cego (visão abissal compensa). Guardião das tradições orais. Cabelo branco como espuma, voz grave como maré |
+| **Capitã Theron** (do mar) | Sub-comandante da marinha | 42 valens. Comandante da frota do sul. Leal a Comandante Theron (Aga Gal). Mulher implacável em combate |
+| **Senhora Talia** (não confundir com Thalia Seren) | Representante de Thalassia no Conselho das 7 Ilhas | 38 valens. Da ilha de Coral. Voz da pesca artesanal. Oposição moderada a Talassa |
+
+---
+
+
 ## 10. Economia Marítima
 
 ### 10.1 Os Pilares Econômicos
