@@ -112,7 +112,7 @@ Nem toda relíquia tem o mesmo poder. A força de uma relíquia depende de:
 ### 4.1 Sha A Zagin (Coração Líquido de Luz) — Myrrhiel
 
 **Seraphyen:** Myrrhiel (Nutrir) — Água-Luz, aspecto Construtor (também conhecido como Myrrhiel)
-**Estado:** ❌ **Perdida** — teoria: está no fundo do Uru A Gig (Cidade Submersa), guardada pelos She-Zuris
+**Estado:** ❌ **Perdida** — teoria: está no fundo do Uru A Gig (Cidade Submersa), guardada pelos Nihil Shid
 **Descrição:** Uma esfera de água pura que flutua por conta própria, pulsando com luz bioluminescente azul-clara. Quem toca a esfera sente uma paz profunda — como se o mar inteiro coubesse dentro do peito.
 **Poder:**
 - **Cura:** Fecha ferimentos em segundos
