@@ -106,7 +106,7 @@ Todas as fichas de personagens prioritários e secundários levantadas nas audit
 | **Nome completo** | Alyndra Solanthir |
 | **Nome conhecido/usado** | Alyndra Solanthir (no orfanato) |
 | **Nota sobre o nome** | Ayla/Aelyria revela no leito de morte que a linhagem verdadeira é **Marethyus** (Cap 2), mas esta revelação morre com Melessa — nunca chega a Sanctrum nem aos registos oficiais. Lyris, ao registar Alyndra no Orfanato Luminis, usa o sobrenome **Solanthir** (em homenagem a Melessa Solanthir, a parteira que a criou), tanto para a proteger como para honrar a memória da avó de criação. Alyndra cresce como Alyndra Solanthir. No futuro, quando confrontada com a verdade da sua linhagem Marethyus, ela **escolhe livremente** manter o nome Solanthir — carregando o nome que a mãe (Alyndra) lhe deu e o sobrenome da avó que a criou. Ninguém no orfanato ou em Sylvaris sabe da sua linhagem thalassiana no início. |
-| **Mitologia do Nome** | Alyndra era o nome da líder do antigo reino primordial, a primeira Aetherion antes do desastre e da destruição. Em tempos antigos, ela usou o fruto da eternidade para aniquilar a invasão dos nihilarys, deixando o desejo de que uma futura semente descendente dela se ergueria para pôr fim a eles. Na atualidade, o nome Alyndra foi completamente esqueçido há muitos éons por todos — exceto por Mytra (a comandante selada dos nihilarys), que reconhece a conexão imediata. Ayla escolheu esse nome de forma profética e instintiva. |
+| **Mitologia do Nome** | Alyndra era o nome da líder do antigo reino primordial, a primeira Aetherion antes do desastre e da destruição. Em tempos antigos, ela usou o fruto da eternidade para aniquilar a invasão dos nihilarys, deixando o desejo de que uma futura semente descendente dela se ergueria para pôr fim a eles. Na atualidade, o nome Alyndra foi completamente esqueçido há muitos éons por todos — exceto por Mythra (a comandante selada dos nihilarys), que reconhece a conexão imediata. Ayla escolheu esse nome de forma profética e instintiva. |
 | **Idade** | 5 anos (completa 5 anos no Capítulo 5) |
 | **Espécie** | Aetheriana |
 | **Povo/Origem** | Sylvari (nascida em Mespiria, criada em Sylvaris) |
@@ -487,7 +487,7 @@ Ela é o coração de *A Semente da Eternidade* — não porque carregue o poder
 | **Classificação Etérica** | **Estágio VII (Primordial)** — exigência canônica para o cargo de GM, membro do Círculo de Cristal, com poder de 50.000–500.000 Æ. Condição genética rara que amplifica sua sensibilidade a Aethra. [C/D] |
 | **Local de residência** | Palácio do Grande Mestre, Sanctrum, Sanctrum Prime [C] |
 | **Solar Privado** | Torre de Aurion, ponto mais alto — um nível abaixo do Farol de Cristal [C] |
-| **Profissão** | Líder supremo da Ordem dos Mestres, guardião do Selo de Mytra, comandante-chefe das forças de defesa de Nova Aetherion [C] |
+| **Profissão** | Líder supremo da Ordem dos Mestres, guardião do Selo de Mythra, comandante-chefe das forças de defesa de Nova Aetherion [C] |
 | **Status vital** | **Vivo** [C] |
 | **Pai de** | Alyndra (identidade secreta — ninguém sabe, exceto Lyris, que deduziu) [C] |
 | **Amante de** | Ayla (falecida — ex-guerreira da Kalúdris, morreu dando à luz Alyndra) [C] |
@@ -542,7 +542,7 @@ Ela é o coração de *A Semente da Eternidade* — não porque carregue o poder
 | Item | Descrição |
 |------|----------|
 | **Manto Branco de Aurion** | Manto cerimonial de tecido luminoso que irradia uma aura de pureza — símbolo de serviço e autoridade suprema. Usado em cerimônias oficiais e audiências formais. [C] |
-| **Anel de Cristal Aetheris** | Anel no dedo indicador direito — conexão direta com o Selo de Mytra. Pulsa em sincronia com o fluxo etérico de Aurelius. [C] |
+| **Anel de Cristal Aetheris** | Anel no dedo indicador direito — conexão direta com o Selo de Mythra. Pulsa em sincronia com o fluxo etérico de Aurelius. [C] |
 | **Espada Seraphyen "Aurum"** | Espada cerimonial — ornamental, não para combate. Empunhada apenas em rituais de investidura e cerimônias de Estado. [C] |
 | **Vestes cotidianas** | Túnicas longas de giran branco com bordados discretos em fio de cristal Aetheris nos punhos e na gola. Simplicidade que esconde sofisticação — cada fio funcional, cada bordado parte de uma malha de contenção etérica leve. [D] |
 | **Botas** | De couro negro polido, com solas reforçadas por cristal Aetheris — permitem que Aurelius sinta as vibrações etéricas do solo sob seus pés. [D] |
@@ -600,7 +600,7 @@ Ela é o coração de *A Semente da Eternidade* — não porque carregue o poder
 | **Inteligência e contra-inteligência** | Construiu o sistema de inteligência mais sofisticado de Alyndra. Escreveu tratados sobre o poder do silêncio como ferramenta de informação. Conhece os protocolos de espionagem tão bem quanto Selynis. [C] |
 | **Caligrafia identificável** | Sua letra possui padrões que Lyris reconhece mesmo sem assinatura: inclinação dos *a*s, cruzamento dos *t*s, espaçamento generoso entre palavras. [C] |
 | **Controle emocional supremo** | Capacidade de empacotar emoções "com uma precisão que décadas de liderança haviam refinado até a perfeição." Na verdade, parte desse controle é necessário para resistir ao Sussurro de Nyxalor (Fase 1) — o estoicismo não é apenas virtude, é armadura contra a influência do selado. [C/D] |
-| **Guardião do Selo de Mytra** | Deve portar a Manopla de Vinculação para assegurar que o selo não seja rompido pelas forças de Myrthanna. Acesso ao conhecimento iniciático sobre o sacrifício de Elarys e a verdadeira função do GM. A Manopla contém as essências de Nyxalor (prisioneiro) e Elarys (guardiã). [C] |
+| **Guardião do Selo de Mythra** | Deve portar a Manopla de Vinculação para assegurar que o selo não seja rompido pelas forças de Myrthanna. Acesso ao conhecimento iniciático sobre o sacrifício de Elarys e a verdadeira função do GM. A Manopla contém as essências de Nyxalor (prisioneiro) e Elarys (guardiã). [C] |
 | **Experiência em operações especiais** | Como líder do Esquadrão Aurora antes de se tornar GM, possui experiência direta em missões de alto risco. Conhecia Ayla como subordinada antes de se tornarem amantes. [C/D] |
 
 ---
@@ -610,7 +610,7 @@ Ela é o coração de *A Semente da Eternidade* — não porque carregue o poder
 | Personagem | Relação | Natureza |
 |------------|---------|----------|
 | **Alyndra** | Filha biológica (secreto) | Pai que nunca pode se revelar. Enviou Lyris para protegê-la. Enviou um cristal dourado com seu selo pessoal no aniversário de 5 anos — um ato de amor que criou um rastro etérico rastreável. Através da Rede de Ressonância de Aurion, Alyndra sentiu "o eco" de sua presença sem saber que era seu pai. Cada decisão de proteção a expõe de outra forma. [C] |
-| **Ayla** | Amante secreta (falecida) | Ex-guerreira da Kalúdris que serviu sob seu comando. Como conhecia os segredos da Ordem e o fardo da Manopla da Vinculação, partiu em silêncio quando engravidou para poupar Aurelius de ter que escolher entre sua família e a manutenção do selo de Mytra. Aurelius nunca soube da gravidez até receber a carta de Melessa. A morte dela, sozinha em uma vila que ele nunca ouviu falar, e a percepção de que nunca teve a chance de provar que a teria escolhido, constituem sua maior fonte de culpa e dor. [C] |
+| **Ayla** | Amante secreta (falecida) | Ex-guerreira da Kalúdris que serviu sob seu comando. Como conhecia os segredos da Ordem e o fardo da Manopla da Vinculação, partiu em silêncio quando engravidou para poupar Aurelius de ter que escolher entre sua família e a manutenção do selo de Mythra. Aurelius nunca soube da gravidez até receber a carta de Melessa. A morte dela, sozinha em uma vila que ele nunca ouviu falar, e a percepção de que nunca teve a chance de provar que a teria escolhido, constituem sua maior fonte de culpa e dor. [C] |
 | **Lyris (Nyctara)** | Agente mais confiável / guardiã de Alyndra | "Você sempre foi minha melhor agente, Lyris." Confiou-lhe a vida da filha — não pela eficiência, mas "pelo seu julgamento. Pela sua capacidade de cuidar sem controlar." Na Cena I das Cenas de Lyris, revelou-lhe a paternidade diretamente. No Capítulo 3, porém, manteve o segredo de forma mais velada — escolhendo revelar apenas o que era estritamente necessário. [C] |
 | **Selynis Thalassa (A Velatrix)** | Mestra da Informação / confrontadora | Selynis é o espelho que Aurelius não quer olhar — a personificação dos próprios princípios de silêncio que ele quebrou. Confrontou-o diretamente no Solar Privado sobre o cristal dourado e a reativação de Lyris. A relação é de tensão profissional latente: respeito intelectual misturado com desconfiança mútua. Selynis "começou a questionar não apenas as ações de Umbra, mas a própria estrutura de poder que deveria impedir que Umbra existisse." [C] |
 | **Nin Aga** | Comandante militar supremo | Única pessoa além do En Me com "autoridade absoluta em Sanctrum." Chegou ao Solar Privado de Aurelius com notícias de movimentações de Umbra — interrompendo o confronto com Selynis. Aurelius reagiu a sua chegada com "reconhecimento," como se soubesse que a interrupção viria. A relação sugere cumplicidade estratégica, mas também dependência: sem o Nin Aga, Aurelius não tem força militar direta. [C] |
@@ -630,9 +630,9 @@ Ela é o coração de *A Semente da Eternidade* — não porque carregue o poder
 - Liderou o Esquadrão Aurora antes de assumir o cargo supremo. [C/D]
 - Envolveu-se romanticamente com Ayla, uma guerreira da Kalúdris de origem thalassiana sob seu comando, quando já era Guardião Mestre. [C]
 - A relação era secreta — a posição de En Me proibia laços públicos que pudessem comprometer sua imparcialidade ou criar vulnerabilidades para o selo. [C/D]
-- Ayla engravidou e partiu de Sanctrum sem revelar a gravidez a Aurelius — sabendo do fardo da Manopla, ela viajou em silêncio para Mespiria, Sylvaris, para ter a filha longe das maquinações políticas e proteger o selo de Mytra. [C]
+- Ayla engravidou e partiu de Sanctrum sem revelar a gravidez a Aurelius — sabendo do fardo da Manopla, ela viajou em silêncio para Mespiria, Sylvaris, para ter a filha longe das maquinações políticas e proteger o selo de Mythra. [C]
 - Aurelius permaneceu sem saber da existência de Alyndra por quatro anos. [C]
-- O cargo consumiu suas décadas — relatórios sobre Nihilaryth, mediação entre reinos, proteção do Selo de Mytra. O luto por Ayla foi sepultado "sob camadas de dever, responsabilidade e uma dor que ele não podia permitir que o mundo visse." [C]
+- O cargo consumiu suas décadas — relatórios sobre Nihilaryth, mediação entre reinos, proteção do Selo de Mythra. O luto por Ayla foi sepultado "sob camadas de dever, responsabilidade e uma dor que ele não podia permitir que o mundo visse." [C]
 
 #### Capítulo 1 — Ayla no Mito
 - A morte de Ayla é narrada ao leitor, mas Aurelius está ausente — distante em Sanctrum, sem saber. [C]
@@ -718,7 +718,7 @@ O conflito central de Aurelius é a tensão entre duas identidades irreconciliá
 
 | Responsabilidade | Descrição |
 |-----------------|-----------|
-| Proteção do Selo de Mytra | Guardar o artefato de selamento que contém a essência fundida de Elarys |
+| Proteção do Selo de Mythra | Guardar o artefato de selamento que contém a essência fundida de Elarys |
 | Comando supremo militar | Líder das forças de defesa de Nova Aetherion |
 | Presidência do Conselho dos 12 | Direção do órgão executivo (Unken En) |
 | Mediação inter-reinos | Resolver conflitos entre os Sete Reinos |
@@ -750,7 +750,7 @@ O conflito central de Aurelius é a tensão entre duas identidades irreconciliá
 | Símbolo | Nome | Descrição | Significado |
 |---------|------|-----------|-------------|
 | **Manto** | Manto Branco de Aurion | Manto cerimonial de tecido luminoso | Pureza e serviço — simboliza que o GM serve a Alyndra, não a si mesmo |
-| **Anel** | Anel de Cristal Aetheris | Anel no dedo indicador direito | Conexão direta com o Selo de Mytra — pulsa em sincronia com o fluxo etérico do GM |
+| **Anel** | Anel de Cristal Aetheris | Anel no dedo indicador direito | Conexão direta com o Selo de Mythra — pulsa em sincronia com o fluxo etérico do GM |
 | **Espada** | Espada Seraphyen "Aurum" | Espada cerimonial, não para combate | Herança dos Seraphyens — usada apenas em rituais de investidura |
 
 ---
@@ -865,7 +865,7 @@ Ayla Marethyus nasceu como Dumu Nin de Thalassia, filha do Lugal Marethyus e irm
 
 Para escapar de um casamento arranjado, fugiu de Thalassia e viajou para Sylvaris, onde se alistou na Kalúdris — a ordem de elite de Sanctrum. Foi lá que conheceu Aurelius Lumivael, o Guardião Mestre (En Me). Como guerreira da Kalúdris, ela servia sob seu comando direto.
 
-Os dois se apaixonaram. Mas a posição de Aurelius como En Me impunha deveres intransponíveis, e a existência de um herdeiro seria um alvo fatal para os Nihilaryth. Quando Ayla engravidou, tomou a decisão mais difícil de sua vida: partiu em silêncio. Como guerreira da Kalúdris, ela conhecia o segredo da Manopla da Vinculação e o peso que Aurelius carregava para manter o selo de Mytra. Sabia que, se revelasse a gravidez, ele abandonaria o selo e o próprio dever para protegê-la e ao bebê — o que libertaria Mytra e condenaria o mundo. Para poupá-lo dessa escolha impossível, ela partiu sem despedidas, refugiando-se em Mespiria, Sylvaris, para dar à luz em segredo.
+Os dois se apaixonaram. Mas a posição de Aurelius como En Me impunha deveres intransponíveis, e a existência de um herdeiro seria um alvo fatal para os Nihilaryth. Quando Ayla engravidou, tomou a decisão mais difícil de sua vida: partiu em silêncio. Como guerreira da Kalúdris, ela conhecia o segredo da Manopla da Vinculação e o peso que Aurelius carregava para manter o selo de Mythra. Sabia que, se revelasse a gravidez, ele abandonaria o selo e o próprio dever para protegê-la e ao bebê — o que libertaria Mythra e condenaria o mundo. Para poupá-lo dessa escolha impossível, ela partiu sem despedidas, refugiando-se em Mespiria, Sylvaris, para dar à luz em segredo.
 
 Sob as três luas em Convergência Tripla, Alyndra nasceu. O parto foi difícil — o bebê vinha de nádegas, e Ayla perdeu sangue demais. Antes de morrer, entregou seu pingente de comunicador a Melessa, a parteira, instruindo-a a contatar Aurelius em Sanctrum. Suas últimas palavras foram para a filha: abençoou-a, libertou-a das guerras do passado, e pediu que vivesse uma vida de paz.
 
@@ -876,7 +876,7 @@ Cinco valens depois, sua projeção — uma memória viva armazenada no Coraçã
 | Personagem | Relação |
 |------------|---------|
 | **Alyndra** | Filha — morreu para que ela vivesse. Deixou diário, medalhão e a profecia de Thalassia. Reencontra-se como projeção no Palácio Submerso. |
-| **Aurelius** | Amante — serviu sob seu comando na Kalúdris. Amou-o até o último instante. Nunca revelou a gravidez para que ele não tivesse que escolher entre sua família e o fardo de manter o selo de Mytra. |
+| **Aurelius** | Amante — serviu sob seu comando na Kalúdris. Amou-o até o último instante. Nunca revelou a gravidez para que ele não tivesse que escolher entre sua família e o fardo de manter o selo de Mythra. |
 | **Marethyus** | Pai — ex-Lugal de Thalassia, em exílio voluntário secreto com a relíquia *Isi A Gig*. |
 | **Kaelia Marethyus** | Irmã — Nin de Thalassia, irmã mais velha de Ayla. Nunca soube que Ayla estava viva em Sylvaris. |
 | **Melessa** | Parteira — confiou-lhe a filha e o segredo para contatar Aurelius. |
