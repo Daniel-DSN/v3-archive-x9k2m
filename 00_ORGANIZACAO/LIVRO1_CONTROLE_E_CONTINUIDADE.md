@@ -230,8 +230,8 @@ Os seguintes easter eggs foram inseridos nos capítulos selados pelo DeepSeek SE
 - **Aertherion**: Civilização estelar de Alyndra (Esfera de Dyson, 7 sub-reinos). Yggorath era sua general e irmã.
 - **Grande Quasar**: Onde a Semente foi selada e germinou. Yggorath (original) morreu criando o selo.
 - **Nova Yggorath**: Nascida da consciência da árvore no Jardim Imaterial. Mãe de Ilyos e Nyxalor. Confinada.
-- **Ilyos e Nyxalor**: Filhos de Yggorath. Ilyos = luz/criação, Nyxalor = sombra/equilíbrio. Nyxalor caiu por Mytra.
-- **Mytra**: Nihilaryth que seduziu/corrompeu Nyxalor. Aprisionada com ele.
+- **Ilyos e Nyxalor**: Filhos de Yggorath. Ilyos = luz/criação, Nyxalor = sombra/equilíbrio. Nyxalor caiu por Mythra.
+- **Mythra**: Nihilaryth que seduziu/corrompeu Nyxalor. Aprisionada com ele.
 - **Elarys**: Seraphyen do Fogo (aspecto Sombra). Sacrificou-se com Ilyos para selar Nyxalor.
 - **Armadura de Alyndra**: Fragmentada em 5 partes. Manopla com Aurelius mantém o selo.
 - **As 3 luas**: Nyx (Nyxalor), Elara (Elarys), Lyria (Ilyos).
@@ -773,7 +773,7 @@ Pessoas com essência "adormecida" — sem afinidade ativa. Estigma social. Mas 
 Audin, Lyrdin, Nydin, Eldin, Vendin, Ilydin, Zidin
 
 ### As 13 Nyrás
-Aethros (29d), Veridis (28d), Ignara (29d), Myrrhis (28d), Solaris (30d), Aerynis (27d), Altheris (28d), Lioris (27d), Calyssos (28d), Elarys (26d), Ilyos (28/31d), Nyxalor (27d), Yggoraty (30d)
+Aethros (29d), Veridis (28d), Ignara (29d), Myrrhis (28d), Solaris (30d), Aerynis (27d), Altheris (28d), Lioris (27d), Calyssos (28d), Elarys (26d), Ilyos (28/31d), Nyxalor (27d), Yggorath (30d)
 
 ### Valen bissexto = Ilyos Triplo (a cada 12 Valens)
 Ilyos ganha 3 Daens extras (28→31).
