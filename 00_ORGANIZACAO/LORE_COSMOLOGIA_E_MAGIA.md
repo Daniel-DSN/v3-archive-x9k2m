@@ -38,7 +38,7 @@ Entidade consciente nascida da árvore secundária que germinou da Semente de Ae
 ### 1. Nível Divino (Os Filhos Legítimos)
 Criados diretamente da essência de Yggorath. Possuem poder imensurável (500.000+ Æ).
 - **Ilyos (Luz):** Encarnação da força construtiva. Sacrificou-se para selar Nyxalor.
-- **Nyxalor (Sombras):** Encarnação da força destrutiva e equilibradora. Sucumbiu a Mytra. Atualmente selado.
+- **Nyxalor (Sombras):** Encarnação da força destrutiva e equilibradora. Sucumbiu a Mythra. Atualmente selado.
 
 ### 2. Nível Primordial (Os Seraphyens)
 Nascidos do Fruto no Jardim Imaterial (50.000 - 500.000 Æ).
@@ -51,7 +51,7 @@ Nascidos do Fruto no Jardim Imaterial (50.000 - 500.000 Æ).
 *Nota:* Ventus (Veridion) foi o último Seraphyen a morrer, dissipando-se nos ventos para fundar espiritualmente Sylvaris.
 
 ### 3. Nível Corrompido (Os Nihilaryth)
-Primordiais caídos. Antiga civilização que perdeu seus corpos ao usar o Fruto com egoísmo. Vagam como almas penadas. Líderes: Vorynthrix (O Testemunha), Xaryntha (A Sussurrante), Mytra (O Engano).
+Primordiais caídos. Antiga civilização que perdeu seus corpos ao usar o Fruto com egoísmo. Vagam como almas penadas. Líderes: Vorynthrix (O Testemunha), Xaryntha (A Sussurrante), Mythra (O Engano).
 
 ---
 
@@ -112,7 +112,7 @@ Contém:
 - [Parte IX: A Nova Criação — Yggorath, os Seraphyens, Ilyos e Nyxalor](#parte-ix-a-nova-criacao-yggorath-os-seraphyens-ilyos-e-nyxalor)
 - [Parte X: A Travessia — Do Imaterial ao Material](#parte-x-a-travessia-do-imaterial-ao-material)
 - [Parte XI: Nova Aertherion — O Mundo-Túmulo](#parte-xi-nova-aertherion-o-mundo-tumulo)
-- [Parte XII: A Queda de Nyxalor — A Sedução de Mytra](#parte-xii-a-queda-de-nyxalor-a-seducao-de-mytra)
+- [Parte XII: A Queda de Nyxalor — A Sedução de Mythra](#parte-xii-a-queda-de-nyxalor-a-seducao-de-mytra)
 - [Parte XIII: A Última Batalha — O Sacrifício de Ilyos e Elarys](#parte-xiii-a-ultima-batalha-o-sacrificio-de-ilyos-e-elarys)
 - [Parte XIV: A Armadura de Alyndra — Legado Espalhado pelo Cosmos](#parte-xiv-a-armadura-de-alyndra-legado-espalhado-pelo-cosmos)
 - [Parte XV: Nova Aetherion Hoje — Os Sete Reinos como Ecos](#parte-xv-nova-aetherion-hoje-os-sete-reinos-como-ecos)
@@ -254,7 +254,7 @@ Para isso, desenvolveram habilidades únicas:
 |------|--------|--------|
 | **Vorynthrix** | O Testemunha | Estrategista paciente que coordena operações através de eões |
 | **Xaryntha** | A Sussurrante | Mestra da corrupção de mentes |
-| **Mytra** | O Engano | A mais perigosa — arquiteta da queda de Nyxalor |
+| **Mythra** | O Engano | A mais perigosa — arquiteta da queda de Nyxalor |
 
 ---
 
@@ -330,7 +330,7 @@ Quando a possessão se completava, não restava nada da vítima original — ape
 
 O primeiro a cair foi o **Primeiro Sábio de Alyndra** — o conselheiro mais antigo e confiável da líder suprema.
 
-Mytra, a Nihilaryth conhecida como "O Engano", liderou pessoalmente esta possessão. Através do Primeiro Sábio, ela ganhou acesso aos segredos mais profundos de Aertherion: suas defesas, suas fraquezas, suas linhagens de poder.
+Mythra, a Nihilaryth conhecida como "O Engano", liderou pessoalmente esta possessão. Através do Primeiro Sábio, ela ganhou acesso aos segredos mais profundos de Aertherion: suas defesas, suas fraquezas, suas linhagens de poder.
 
 ### 5.4 A Propagação do Câncer
 
@@ -649,22 +649,22 @@ Os humanos mantiveram vivas as histórias — mas o tempo as suavizou em mitos e
 
 Enquanto Nova Aertherion florescia, uma sombra se movia nas bordas do cosmos.
 
-**Mytra** — a Nihilaryth conhecida como "O Engano" — havia sobrevivido à Grande Extinção. Estivera entre os que perseguiram Yggorath. Testemunhara o selamento da Semente no quasar. Quando os filhos emergiram no plano material, ela **observou**.
+**Mythra** — a Nihilaryth conhecida como "O Engano" — havia sobrevivido à Grande Extinção. Estivera entre os que perseguiram Yggorath. Testemunhara o selamento da Semente no quasar. Quando os filhos emergiram no plano material, ela **observou**.
 
 E viu a vulnerabilidade.
 
 ### 12.2 A Observação
 
-Mytra estudou Ilyos e Nyxalor por valen Gal-e. Aprendeu:
+Mythra estudou Ilyos e Nyxalor por valen Gal-e. Aprendeu:
 
 - **Ilyos** era amada, respeitada, tinha a Armadura, tinha a confiança dos Seraphyens.
 - **Nyxalor** era poderoso, mas silencioso. Vivia à sombra da irmã. Sua contribuição era menos visível.
 
-Mytra viu a **fissura** e começou a trabalhar.
+Mythra viu a **fissura** e começou a trabalhar.
 
 ### 12.3 A Sedução
 
-Mytra não atacou Nyxalor diretamente — começou a **sussurrar**:
+Mythra não atacou Nyxalor diretamente — começou a **sussurrar**:
 
 - _"Você é tão poderoso quanto ela — por que ela tem a Armadura?"_
 - _"Sua mãe a ama mais. Ela deu a Ilyos a chave para visitá-la."_
@@ -678,7 +678,7 @@ O ciúme de Nyxalor focou-se na **Armadura de Alyndra** — a herança da mãe, 
 
 ### 12.5 A Ruptura
 
-Nyxalor confrontou Ilyos. A discussão não terminou bem. Cego pelo ciúme alimentado por Mytra, convenceu-se de que Ilyos era sua inimiga — e que a única saída era **tomar** o que era seu por direito.
+Nyxalor confrontou Ilyos. A discussão não terminou bem. Cego pelo ciúme alimentado por Mythra, convenceu-se de que Ilyos era sua inimiga — e que a única saída era **tomar** o que era seu por direito.
 
 ### 12.6 A Guerra Entre Irmãos
 
@@ -712,7 +712,7 @@ A guerra consumia os Seraphyens. Já exaustos de milênios de manutenção do mu
 Entre os seguidores de Nyxalor, **Elarys** (Fogo/Sombra) começou a ver a verdade:
 
 - Nyxalor não lutava por justiça — lutava por **vingança**.
-- Ele era um instrumento de **Mytra**.
+- Ele era um instrumento de **Mythra**.
 - A guerra não era sobre equilíbrio — era sobre **ciúmes**.
 
 Elarys tentou alertá-lo:
@@ -750,7 +750,7 @@ A batalha final ocorreu no coração do que hoje é Sanctrum. Nyxalor lutou com 
 
 O selo se fechou.
 
-Nyxalor foi aprisionado. Mytra, ligada a ele, foi **parcialmente aprisionada também** — viva, esperando.
+Nyxalor foi aprisionado. Mythra, ligada a ele, foi **parcialmente aprisionada também** — viva, esperando.
 
 Ilyos fragmentou-se, sua essência espalhada pelo mundo em cada raio de luz, cada sopro de vida.
 
@@ -781,7 +781,7 @@ Quando Yggorath usou a Armadura para a Travessia, a tensão a **rachou**. Fragme
 
 | Fragmento | Localização | Função | Portador |
 |-----------|-------------|--------|----------|
-| **Manopla de Vinculação** | Sanctrum, Nova Aetherion | Mantém o selo de Nyxalor e Mytra | **Aurelius Lumivael** |
+| **Manopla de Vinculação** | Sanctrum, Nova Aetherion | Mantém o selo de Nyxalor e Mythra | **Aurelius Lumivael** |
 | **Peitoral de Aertherion** | Desconhecido | Proteção contra ataques etéricos | Desconhecido |
 | **Grevas da Travessia** | Desconhecido | Deslocamento entre planos | Desconhecido |
 | **Elmo da Verdade** | Desconhecido | Revela verdadeira natureza de ilusões | Desconhecido |
@@ -807,8 +807,8 @@ Aurelius não pode se distrair, abandonar seu posto, viver uma vida normal. Cada
 Esta é a razão pela qual **Ayla** fugiu sem contar a verdade:
 
 - Se Aurelius soubesse que tinha uma filha, abandonaria seu posto para protegê-la.
-- Se abandonasse o posto, Mytra se libertaria.
-- Se Mytra se libertasse, o mundo seria destruído.
+- Se abandonasse o posto, Mythra se libertaria.
+- Se Mythra se libertasse, o mundo seria destruído.
 
 Ayla escolheu o **sacrifício silencioso**: viver e morrer anônima, para que o homem que amava pudesse proteger o mundo e sua filha pudesse viver.
 
@@ -960,7 +960,7 @@ Seu poder não é uma herança passiva — é a **arma definitiva do Desejo**. O
 - **Travessia:** Portal para o plano material.
 - **Confinamento:** Yggorath presa no Jardim.
 - **Fundação:** Nova Aertherion construída.
-- **Sedução:** Mytra corrompe Nyxalor.
+- **Sedução:** Mythra corrompe Nyxalor.
 - **Guerra:** Irmãos lutam. Reinos divididos.
 - **Sacrifício:** Ilyos e Elarys selam Nyxalor.
 - **Declínio:** Seraphyens se dissipam.
@@ -1105,7 +1105,7 @@ Seu poder não é uma herança passiva — é a **arma definitiva do Desejo**. O
 
 **Manopla de Vinculação** — Fragmento mais crítico da Armadura de Alyndra. Atualmente com Aurelius em Sanctrum. Mantém o selo de Nyxalor.
 
-**Mytra** — Nihilaryth conhecida como "O Engano". Arquiteta da corrupção de Nyxalor. Parcialmente aprisionada no selo.
+**Mythra** — Nihilaryth conhecida como "O Engano". Arquiteta da corrupção de Nyxalor. Parcialmente aprisionada no selo.
 
 ### N
 
@@ -1113,7 +1113,7 @@ Seu poder não é uma herança passiva — é a **arma definitiva do Desejo**. O
 
 **Nova Aertherion** — Planeta fundado por Ilyos, Nyxalor e os Seraphyens. O mundo atual dos Sete Reinos. Prisão e túmulo.
 
-**Nyxalor** — Filho caçula de Yggorath (a nova). Essência de sombra e equilíbrio. Corrompido por Mytra. Atualmente selado.
+**Nyxalor** — Filho caçula de Yggorath (a nova). Essência de sombra e equilíbrio. Corrompido por Mythra. Atualmente selado.
 
 ### P
 
@@ -1166,7 +1166,7 @@ Seu poder não é uma herança passiva — é a **arma definitiva do Desejo**. O
 | **Prólogo:** Três luas (Nyx, Elara, Lyria) | Nyx (Nyxalor), Elara (Elarys), Lyria (Ilyos). Ecos do sacrifício primordial. |
 | **Alyndra** | A Semente. Herdeira direta da linhagem de Aertherion. Carrega o DNA da civilização de Alyndra. |
 | **Ayla** (mãe) | Eco de Alyndra e Yggorath: sacrificou-se para proteger a Semente. Ayla parte sem revelar a gravidez: não por medo de Aurelius, mas por conhecimento do selo que ele mantém. Como guerreira da Kalúdris, ela compreende que um herdeiro do En Me seria o alvo perfeito para os Nihilaryth — e que Aurelius sacrificaria o mundo para salvar sua família. |
-| **Aurelius** (pai) | Guardião da Manopla de Vinculação. Mantém o selo de Mytra sem saber que tem uma filha. |
+| **Aurelius** (pai) | Guardião da Manopla de Vinculação. Mantém o selo de Mythra sem saber que tem uma filha. |
 | **Melessa** | Última guardiã da Semente antes de Lyris. Eco de Yggorath protegendo a Semente. |
 | **Lyris/Nyctara** | Guardiã atual. Eco moderno de Yggorath — a sombra que protege. |
 | **Selynis/Velatrix** | Estrategista nas sombras. Única que sabe fragmentos da verdade. Lidera a resistência. |
@@ -1940,7 +1940,7 @@ Aertherion tinha o que os Nihilaryth haviam perdido: **corpos, vida, propósito*
 
 ### 10.2 A Estratégia da Infiltração
 
-Mytra — "O Engano" — liderou a operação. Ela havia estudado Aertherion por milênios e entendia sua maior fraqueza: **confiança**.
+Mythra — "O Engano" — liderou a operação. Ela havia estudado Aertherion por milênios e entendia sua maior fraqueza: **confiança**.
 
 Os Aertherianos não estavam preparados para um inimigo que não podia ser visto. A Trama Aetheris, projetada para detectar corrupção espiritual, não reconhecia a assinatura dos Nihilaryth — eles eram antigos demais, diferentes demais.
 
@@ -1952,7 +1952,7 @@ Os Nihilaryth, invisíveis, começaram a sussurrar nas mentes de cidadãos vulne
 **Fase 2 — Possessão Gradual (Séculos 4-10):**
 Os primeiros a cair foram os **descontentes** — aqueles que, por razões pessoais, sentiam-se negligenciados. Os Nihilaryth os possuíam lentamente, substituindo suas consciências gota a gota.
 
-O Primeiro Sábio de Alyndra — **Orion Val Aetheris**, o mais antigo conselheiro da Nin Gal — foi a possessão mais valiosa. Através dele, Mytra ganhou acesso aos segredos de defesa de Aertherion.
+O Primeiro Sábio de Alyndra — **Orion Val Aetheris**, o mais antigo conselheiro da Nin Gal — foi a possessão mais valiosa. Através dele, Mythra ganhou acesso aos segredos de defesa de Aertherion.
 
 **Fase 3 — Propagação (Séculos 10-50):**
 Como um câncer metastático, a possessão se espalhou. Cada Nihilaryth em uma casca material podia plantar a semente da corrupção em outros. Em 50 valen Gal-e, milhões estavam comprometidos:
