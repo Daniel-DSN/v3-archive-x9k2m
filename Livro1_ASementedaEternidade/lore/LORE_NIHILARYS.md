@@ -11,7 +11,7 @@
 1. [Origem](#1-origem)
 2. [A Queda — O Uso do Fruto](#2-a-queda--o-uso-do-fruto)
 3. [A Maldição Transdimensional](#3-a-maldição-transdimensional)
-4. [Líderes Nihilarys](#4-lideres-nihilarys)
+4. [Líderes Nihilaryth](#4-lideres-nihilarys)
 5. [Sobrevivência e Parasitismo](#5-sobrevivencia-e-parasitismo)
 6. [O Objetivo — O Fruto Primordial](#6-o-objetivo--o-fruto-primordial)
 7. [Vha-Korath — O Sobrevivente Abandonado](#7-vha-korath--o-sobrevivente-abandonado)
@@ -20,9 +20,9 @@
 
 ## 1. Origem
 
-Os Nihilarys foram uma das **primeiras civilizações** da alvorada da criação, surgidas nos primórdios de Yggoraty — o nome antigo do mundo, a totalidade do que existe. Eram seres de tecnologia extrema, capazes de manipular aethra em níveis que as civilizações posteriores sequer imaginaram.
+Os Nihilaryth foram uma das **primeiras civilizações** da alvorada da criação, surgidas nos primórdios de Yggorath — o nome antigo do mundo, a totalidade do que existe. Eram seres de tecnologia extrema, capazes de manipular aethra em níveis que as civilizações posteriores sequer imaginaram.
 
-Alcançaram e **cultivaram o Fruto Primordial** — a entidade que existe no mundo imaterial além do grande quasar da galáxia. O Fruto é a fonte de todo poder criacional. Manipulá-lo é a mais antiga e perigosa ambição de Yggoraty.
+Alcançaram e **cultivaram o Fruto Primordial** — a entidade que existe no mundo imaterial além do grande quasar da galáxia. O Fruto é a fonte de todo poder criacional. Manipulá-lo é a mais antiga e perigosa ambição de Yggorath.
 
 ---
 
@@ -38,7 +38,7 @@ O uso contínuo da energia roubada lhes concedia uma **imortalidade forçada** n
 
 ### O Evento Catalisador
 
-O **Ur-Nyxal**, grande líder dos Nihilarys e marido de Mytra, decidiu usar o Fruto Primordial para alcançar poder infinito e imortalidade definitiva. O Fruto, porém, **não funciona como lâmpada mágica**.
+O **Ur-Nyxal**, grande líder dos Nihilaryth e marido de Mythra, decidiu usar o Fruto Primordial para alcançar poder infinito e imortalidade definitiva. O Fruto, porém, **não funciona como lâmpada mágica**.
 
 **A lei da existência:** *quem pede, tem que entregar. Principalmente se o que pede é mal e danoso à existência.*
 
@@ -50,7 +50,7 @@ Ur-Nyxal foi extinto no uso do Fruto — não sobreviveu nem mesmo como imateria
 
 ## 3. A Maldição Transdimensional
 
-Após o evento, os Nihilarys tornaram-se:
+Após o evento, os Nihilaryth tornaram-se:
 
 - **Seres imateriais** — sem corpo físico, sem forma tangível
 - **Transdimensionais** — existem entre os planos, presos ao limbo
@@ -62,7 +62,7 @@ Apenas possuir um corpo vivo lhes permite sentir algo — mas é temporário, e 
 
 ---
 
-## 4. Líderes Nihilarys
+## 4. Líderes Nihilaryth
 
 Três líderes marcaram a história Nihilary:
 
@@ -71,8 +71,8 @@ Três líderes marcaram a história Nihilary:
 | Atributo | Detalhe |
 |----------|---------|
 | **Gênero** | Masculino |
-| **Papel** | Grande líder dos Nihilarys |
-| **Relação** | Esposo de Mytra |
+| **Papel** | Grande líder dos Nihilaryth |
+| **Relação** | Esposo de Mythra |
 | **Destino** | Usou o Fruto Primordial inadequadamente → extinto |
 | **Legado** | Condenou toda a civilização à maldição |
 
@@ -88,12 +88,12 @@ Três líderes marcaram a história Nihilary:
 |----------|---------|
 | **Gênero** | Masculino |
 | **Papel** | Segundo líder Nihilary |
-| **Idade** | Imemorial — tão antigo quanto Mytra |
+| **Idade** | Imemorial — tão antigo quanto Mythra |
 | **Ação** | Lutou contra Alyndra Primordial |
 | **Resultado** | Perdeu — Alyndra usou o Fruto para renascimento |
 | **Status atual** | Espírito imaterial em **estado de hibernação** |
-| **Abandonado** | Pelos demais Nihilarys que seguiram Mytra |
-| **Destino na trama** | Alyndra (protagonista) o encontra → ele conta a história dos Nihilarys |
+| **Abandonado** | Pelos demais Nihilaryth que seguiram Mythra |
+| **Destino na trama** | Alyndra (protagonista) o encontra → ele conta a história dos Nihilaryth |
 
 **Nome:** *Vha-Korath*
 - **Vha** = antigo, primeiro, profundo
@@ -101,28 +101,28 @@ Três líderes marcaram a história Nihilary:
 - **-ath** = sufixo agentivo (aquele que é/faz)
 - Significado: *"Aquele que é o coração antigo"*
 
-**Personalidade provável:** Amargo pela derrota, sapiente por ter vivido desde os primórdios. Pode estar redimido pelo tempo ou ainda ressentido. Sua perspectiva da história dos Nihilarys é **a versão do perdedor** — contraponto à versão dos vencedores (Seraphyens).
+**Personalidade provável:** Amargo pela derrota, sapiente por ter vivido desde os primórdios. Pode estar redimido pelo tempo ou ainda ressentido. Sua perspectiva da história dos Nihilaryth é **a versão do perdedor** — contraponto à versão dos vencedores (Seraphyens).
 
-### 4.3 Mytra (ativa, líder dos restantes)
+### 4.3 Mythra (ativa, líder dos restantes)
 
 | Atributo | Detalhe |
 |----------|---------|
 | **Gênero** | Feminino |
 | **Título** | "A Que Espera" |
-| **Papel** | Líder dos Nihilarys que restaram |
+| **Papel** | Líder dos Nihilaryth que restaram |
 | **Natureza** | Consciência parasita anterior à Vondade |
 | **Idade** | Imemorial — mais antiga que a própria Vontade |
 | **Origem** | Esposa de Ur-Nyxal; estava lá antes da luz |
 
-Mytra não é deusa nem demônio — é o que resta quando a luz se apaga e o vazio esquece de ser vazio. Após a queda, liderou os Nihilarys que a seguiram.
+Mythra não é deusa nem demônio — é o que resta quando a luz se apaga e o vazio esquece de ser vazio. Após a queda, liderou os Nihilaryth que a seguiram.
 
-**Nota:** Mytra é tratada como singular nos textos ("A Que Espera"). Os "demais" que a seguem são outros Nihilarys individuals que aceitaram sua liderança.
+**Nota:** Mythra é tratada como singular nos textos ("A Que Espera"). Os "demais" que a seguem são outros Nihilaryth individuals que aceitaram sua liderança.
 
 ---
 
 ## 5. Sobrevivência e Parasitismo
 
-Os Nihilarys sobreviventes mantêm-se de uma única forma:
+Os Nihilaryth sobreviventes mantêm-se de uma única forma:
 
 ### Sistema de Possessão (5 estágios)
 
@@ -136,21 +136,21 @@ Os Nihilarys sobreviventes mantêm-se de uma única forma:
 
 No caso do Lider do Vento (Livro I), não é um único Nihilary — são **legiões** que entram simultaneamente. O corpo se transforma em **aberração**.
 
-### Nihilarys que deixaram de existir
+### Nihilaryth que deixaram de existir
 
-Muitos Nihilarys foram extintos ao longo das eras. Sempre precisam se alimentar (drenar aethra de vivos). Diversos motivos levaram à extinção:
+Muitos Nihilaryth foram extintos ao longo das eras. Sempre precisam se alimentar (drenar aethra de vivos). Diversos motivos levaram à extinção:
 
 - Falta de hospedeiros
 - Dissolução por fraqueza
 - Conflito com Alyndra Primordial (o uso do Fruto por ela)
-- Conflitos internos entre Nihilarys
+- Conflitos internos entre Nihilaryth
 - A passagem das eras consumindo-os
 
 ---
 
 ## 6. O Objetivo — O Fruto Primordial
 
-O objetivo central de todos os Nihilarys (liderados por Mytra) é:
+O objetivo central de todos os Nihilaryth (liderados por Mythra) é:
 
 **Alcançar novamente o Fruto Primordial para reverter definitivamente a maldição e voltar ao plano material.**
 
@@ -161,7 +161,7 @@ O objetivo central de todos os Nihilarys (liderados por Mytra) é:
 
 ### A Armadura de Ilyos como chave
 
-A Armadura primordial de Ilyos é a única chave para o mundo imaterial além do quasar — onde o Fruto existe. Por isso os Nihilarys buscam reunir a Armadura: é o caminho até o Fruto.
+A Armadura primordial de Ilyos é a única chave para o mundo imaterial além do quasar — onde o Fruto existe. Por isso os Nihilaryth buscam reunir a Armadura: é o caminho até o Fruto.
 
 ---
 
@@ -172,17 +172,17 @@ Vha-Korath é um personagem-chave para o Livro I ou posteriores.
 ### Estado atual
 
 - Espírito imaterial em **hibernação**
-- Abandonado pelos demais Nihilarys que seguiram Mytra
+- Abandonado pelos demais Nihilaryth que seguiram Mythra
 - Não se dissolveu por estar inativo (hibernação reduz o consumo de aethra)
 - Espera em algum lugar entre os planos
 
 ### Função narrativa
 
-Alyndra encontrará Vha-Korath, que lhe contará a **verdadeira história dos Nihilarys** — do ponto de vista de quem perdeu. Isso fornece ao leitor (e a Alyndra) o contexto completo:
+Alyndra encontrará Vha-Korath, que lhe contará a **verdadeira história dos Nihilaryth** — do ponto de vista de quem perdeu. Isso fornece ao leitor (e a Alyndra) o contexto completo:
 
 - Como eram antes da queda
 - O que Ur-Nyxal fez com o Fruto
-- Por que Mytra é como é
+- Por que Mythra é como é
 - A natureza real do perigo que a ameaça
 
 ### Importância
@@ -193,9 +193,9 @@ Vha-Korath é a **fonte de lore viva** — mais pessoal e visceral que qualquer 
 
 ## NOTAS PARA O PRÓLOGO
 
-No Prólogo remodelado, os Nihilarys devem aparecer como:
+No Prólogo remodelado, os Nihilaryth devem aparecer como:
 
-- **Contexto da presença de Mytra** — explicar o que ela é, de onde vem
+- **Contexto da presença de Mythra** — explicar o que ela é, de onde vem
 - **A ameaça original** — não são monstros, são uma civilização caída
 - **Motivação** — parasitismo por desespero, não por maldade inata (embora os métodos sejam monstruosos)
 - **Vha-Korath** — NÃO mencionar no Prólogo (surpresa para quando Alyndra o encontrar)
