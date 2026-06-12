@@ -965,19 +965,19 @@ Ar ionizado, relampagos constantes, plantas que conduzem eletricidade e brilham 
 
 ### 12.4 A Mare das Profundezas (Mare Profundis)
 
-**Ocorrencia:** Thalassia, durante Yggoraty (Nyra 13)
+**Ocorrencia:** Thalassia, durante Yggorath (Nyra 13)
 **Descricao:** A mare baixa a niveis extraordinarios — ate 50 Passos abaixo do normal — revelando ruinas submersas, plataformas de coral e entradas de cavernas que so sao acessiveis neste periodo.
 **Significado:** Epoca mais sagrada do valen thalasiano. Peregrinacoes a Gruta da Profecia.
 
 ### 12.5 O Silencio de Recessus
 
-**Ocorrencia:** Sanctrum, durante Yggoraty (tres dias)
+**Ocorrencia:** Sanctrum, durante Yggorath (tres dias)
 **Descricao:** O sol de Aurion nao nasce nas regioes mais ao norte de Sanctrum Prime — nao por escuridao literal, mas por um fenomeno de refracao atmosferica que faz a luz parecer ausente. Sanctrum e iluminada exclusivamente por lampioes de Giralis e cristais Aetheris.
 **Significado:** Periodo de introspeccao, balanco contabil e planejamento estrategico.
 
 ### 12.6 Calmaria de Sylvaris (Serenitia)
 
-**Ocorrencia:** Sylvaris, durante Yggoraty (3-5 dias)
+**Ocorrencia:** Sylvaris, durante Yggorath (3-5 dias)
 **Descricao:** Os ventos de Sylvaris param completamente. Silencio absoluto. Os Sylvari acreditam que Ventus esta escutando. Comercio cessa. Escolas fecham.
 **Significado:** Periodo sagrado de introspeccao. Rituais da Fogueira dos Sussurros.
 
@@ -1281,13 +1281,13 @@ Sanctrum Prime e grande o suficiente para ter tres zonas climaticas distintas:
 | **Verao Ardente** | Ardens | 4-6 | Calor intenso, tempestades eletricas ao entardecer |
 | **Outono das Sombras** | Umbralis | 7-9 | Dias mais curtos, nevoa matinal, ventos moderados |
 | **Inverno Silencioso** | Silentium | 10-12 | Neve nas terras altas, geada nas planicies, ceu limpo |
-| **Recesso** | Recessus | 13 (Yggoraty) | Periodo de balanco; tres dias de escuridao total no extremo norte |
+| **Recesso** | Recessus | 13 (Yggorath) | Periodo de balanco; tres dias de escuridao total no extremo norte |
 
 ### Fenomenos Climaticos e Celestes
 
 - **Aurora Luminosa (Aurora Luminis):** Fenomeno raro em que o ceu noturno de Sanctrum se ilumina com ondas de luz dourada e azul — semelhante a aurora boreal da Terra, mas causada pela interacao dos cristais Aetheris das montanhas com as particulas das Correntes Altas de vento. Ocorre apenas 3-4 vezes por valen, e e considerado um pressagio de mudanca.
 
-- **O Silencio de Recessus:** Durante os tres dias do Recesso (Yggoraty), o sol de Aurion nao nasce nas regioes mais ao norte de Sanctrum Prime — nao por escuridao literal, mas por um fenomeno de refracao atmosferica que faz a luz parecer ausente. As ruas de Sanctrum sao iluminadas exclusivamente por lampioes de Giralis e cristais Aetheris. E um periodo de introspeccao, balanco contabil e planejamento estrategico.
+- **O Silencio de Recessus:** Durante os tres dias do Recesso (Yggorath), o sol de Aurion nao nasce nas regioes mais ao norte de Sanctrum Prime — nao por escuridao literal, mas por um fenomeno de refracao atmosferica que faz a luz parecer ausente. As ruas de Sanctrum sao iluminadas exclusivamente por lampioes de Giralis e cristais Aetheris. E um periodo de introspeccao, balanco contabil e planejamento estrategico.
 
 - **A Nevoa das Revelacoes (Nebula Revelatio):** Nevoeiro espesso que desce do Planalto de Aetheris durante o outono. Diz a lenda que quem entra na nevoa ve verdades sobre si mesmo que nao queria confrontar. Os Guardioes usam a Nevoa como teste final para neofitos.
 
@@ -1622,7 +1622,7 @@ Os Aetheriani sao o povo nativo de Sanctrum e Sanctrum Prime. Diferentemente dos
 
 **O Velorio de Luz:** Quando um Aetheriano morre, seu corpo e velado por 3 daens em uma camara aberta. Amigos e familiares trazem pequenos cristais e os colocam ao redor do corpo. No terceiro daen, o corpo e levado ao topo da Colina dos Guardioes (se for um Guardiao) ou ao Vale dos Caidos (cidadaos comuns) e cremado em uma pira de cristal. As cinzas sao misturadas com cristal moido e enterradas sob uma lapide de cristal branco.
 
-**A Semana do Balanco (Recessus):** Durante os 3 daens de Recessus (Yggoraty), Sanctrum inteiro para. Tudo fecha. Os cidadaos ficam em casa com suas familias. E um periodo de:
+**A Semana do Balanco (Recessus):** Durante os 3 daens de Recessus (Yggorath), Sanctrum inteiro para. Tudo fecha. Os cidadaos ficam em casa com suas familias. E um periodo de:
 - Balanco financeiro (todo comercio fecha)
 - Balanco emocional (conversas familiares obrigatorias)
 - Balanco espiritual (meditacao e jejum no ultimo daen)
@@ -1933,7 +1933,7 @@ O Sinalizador tem alcance efetivo de ~200 Passos em campo aberto, e ~50 Passos e
 | **Festival da Luz Eterna** | Lua Cheia de Ardens | 3 noites | A cidade inteira e iluminada com lampioes de cristal; musica e danca nas pracas |
 | **A Noite das Revelacoes** | Meio de Umbralis | 1 noite | A Nevoa das Revelacoes desce; aqueles que desejam confrontar verdades ocultas entram na nevoa |
 | **Dia dos Caidos** | 10o Daen de Silentium | 1 daen | Homenagem aos Guardioes mortos em servico; velas nos tumulos do Vale dos Caidos |
-| **Recesso (Yggoraty)** | Nyra 13 | 3 daens | Silencio total; tudo fecha; introspeccao e balanco |
+| **Recesso (Yggorath)** | Nyra 13 | 3 daens | Silencio total; tudo fecha; introspeccao e balanco |
 | **Celebracao das Colheitas** | Solaria | 5 daens | Acao de gracas pelo Aethrys Imperial; banquetes publicos |
 | **Dia do Merito** | Final de Lux Aebrilis | 1 daen | Cerimonia onde novos Guardioes recebem suas insiginias e cidadaos recebem Marcas de Merito |
 | **A Noite dos Cristais** | Solsticio de Inverno | 1 noite | Todos os cristais da cidade sao polidos e expostos as luas para recarregar; festa nas ruas |
@@ -2045,7 +2045,7 @@ O Sinalizador tem alcance efetivo de ~200 Passos em campo aberto, e ~50 Passos e
 | **Cerimonia da Verdade** | Entrevista com cristal Veritas para cargos publicos |
 | **Velorio de Luz** | Funeral com cristais ao redor do corpo |
 | **Ritual da Escolha** | Teste de aptidoes aos 12 valens |
-| **Recesso (Recessus)** | Periodo de silencio e balanco em Yggoraty |
+| **Recesso (Recessus)** | Periodo de silencio e balanco em Yggorath |
 | **Marca de Merito** | Tatuagem de prestigio |
 | **Aurora Luminosa** | Aurora celestial rara |
 | **Nevo das Revelacoes** | Nevoeiro de auto-confronto no outono |
@@ -2164,7 +2164,7 @@ Sylvaris tem **cinco estações**:
 | **Verão** | Solaria | 4-6 | Ventos fortes, dias longos |
 | **Outono** | Ventália | 7-9 | Ventos tempestuosos, folhas caem |
 | **Inverno** | Gelum | 10-12 | Ventos gelados, neve nas terras altas |
-| **Calmaria** | Serenitia | 13 (Yggoraty) | Ventos cessam por 3-5 daens |
+| **Calmaria** | Serenitia | 13 (Yggorath) | Ventos cessam por 3-5 daens |
 
 ### Fenômenos Climáticos
 
@@ -2479,7 +2479,7 @@ Reverenciam: Ventus (Seraphyen dos Ventos), as Três Luas (Lyria cura, Nyx mist�
 | **Festival dos Ventos** | 3º Daen de Aebrilis | 3 daens | Celebração da primavera; corridas de Veleiros |
 | **Noite das Lanternas** | Lua Cheia de Solaris | 1 noite | Lanternas de Giralis flutuam no Lago Velum |
 | **Fogueira dos Sussurros** | 1º Daen de Serenitia | 1 noite | Rituais de renovação e catarse |
-| **Dia da Calmaria** | Meio de Yggoraty | 3-5 daens | Silêncio total, introspecção, jejum |
+| **Dia da Calmaria** | Meio de Yggorath | 3-5 daens | Silêncio total, introspecção, jejum |
 | **Ciclo de Viagem** | Primavera | 10 daens | Expedições educacionais do Orfanato Luminis |
 | **Colheita de Aethrys** | Solaria | 5 daens | Festival da colheita; gratidão a Ventus |
 
@@ -3302,11 +3302,11 @@ Thalassia e um arquipelago de 47 ilhas habitadas, dispostas em tres aneis concen
 | **Estacao da Luz** | Elara | 4-6 | Ceu limpo, mares calmos, temperaturas amenas |
 | **Estacao dos Ventos** | Ventalia | 7-9 | Tempestades, ondas altas, navegacao perigosa |
 | **Estacao do Silencio** | Silentia | 10-12 | Brisa suave, nevoa matinal, mar sereno |
-| **Semana das Profundezas** | Profundis | 13 (Yggoraty) | Mare baixa extraordinaria; ruinas submersas ficam visiveis |
+| **Semana das Profundezas** | Profundis | 13 (Yggorath) | Mare baixa extraordinaria; ruinas submersas ficam visiveis |
 
 ### Fenomenos Marinhos e Celestes
 
-- **A Mare das Profundezas (Mare Profundis):** Durante a Semana das Profundezas (Yggoraty), a mare baixa a niveis extraordinarios — ate 50 Passos abaixo do normal — revelando ruinas submersas, plataformas de coral e entradas de cavernas que so sao acessiveis neste periodo. E a epoca mais sagrada do ano thalassiano.
+- **A Mare das Profundezas (Mare Profundis):** Durante a Semana das Profundezas (Yggorath), a mare baixa a niveis extraordinarios — ate 50 Passos abaixo do normal — revelando ruinas submersas, plataformas de coral e entradas de cavernas que so sao acessiveis neste periodo. E a epoca mais sagrada do ano thalassiano.
 
 - **O Coral Luminoso (Coral Luminis):** Fenomeno noturno em que os recifes de coral ao redor das ilhas emitem uma luz bioluminescente azul-esverdeada. Ocorre em noites de lua nova, quando as tres luas estao ocultas. Os Thalassianos acreditam que sao as almas dos antepassados Seraphyens se comunicando.
 
@@ -4056,7 +4056,7 @@ Fulmora tem **apenas tres estacoes** — o clima tempestuoso domina o valen todo
 | **Tempestade Alta** | Alta Tempestas | 1-4 | Relampagos intensos, chuvas torrenciais, ventos de 80 Passos/velar |
 | **Tempestade Baixa** | Baixa Tempestas | 5-8 | Chuvas moderadas, relampagos esporadicos, ventos de 40 Passos/velar |
 | **Calmaria Ionica** | Serenitas Ionis | 9-12 | Relampagos raros, ceu limpo, ar ionizado e pesado |
-| **Recesso** | Recessus Ionis | 13 (Yggoraty) | Silencio eletrico; ate os relampagos param |
+| **Recesso** | Recessus Ionis | 13 (Yggorath) | Silencio eletrico; ate os relampagos param |
 
 ### Fenomenos Climaticos
 
@@ -4846,7 +4846,7 @@ O simbolo de Pyralis e uma **chama bifurcada que queima para cima e para baixo s
 | **Verao Ardente** | Ardens Ignis | 4-6 | Vulcoes em erupcao, rios de lava transbordam, ceu encoberto de cinzas |
 | **Outono das Brasas** | Ventalia Ignis | 7-9 | Ventos fortes, cinzas suspensas no ar, temperaturas estaveis |
 | **Inverno Cinzento** | Gelum Ignis | 10-12 | Vulcoes adormecidos, neve de cinzas frias, ceu cinzento permanente |
-| **Tempo do Recesso** | Recessus Ignis | 13 (Yggoraty) | Todas as forjas param; a Peregrinacao da Chama acontece |
+| **Tempo do Recesso** | Recessus Ignis | 13 (Yggorath) | Todas as forjas param; a Peregrinacao da Chama acontece |
 
 ### Fenomenos Climaticos
 
@@ -5662,7 +5662,7 @@ Celebrado no inicio de cada novo valen (1o de Aebrilis Ignis), o Festival da Cha
 
 ### 15.2 A Peregrinacao da Chama
 
-Durante o Recesso (Yggoraty), todo Pyraliano deve, ao menos uma vez na vida, peregrinar ao Templo das Chamas Eternas para ver a chama que nunca se apaga. A peregrinacao e feita a pe, em silencio, carregando uma brasa em uma lamparina de barro.
+Durante o Recesso (Yggorath), todo Pyraliano deve, ao menos uma vez na vida, peregrinar ao Templo das Chamas Eternas para ver a chama que nunca se apaga. A peregrinacao e feita a pe, em silencio, carregando uma brasa em uma lamparina de barro.
 
 **Significado:** Simboliza a jornada da vida — solitaria, ardente, mas iluminada pela fe.
 
@@ -5706,7 +5706,7 @@ No ultimo dia de cada Verao Ardente (quando as erupcoes vulcanicas sao mais inte
 | **Verme de Magma** | Serpente predadora das Planicies de Cinzas |
 | **Cavernas Sussurrantes** | Rede de tuneis sob as montanhas de Pyralis |
 | **Ponte do Sal** | Vila fronteirica com Fulmora |
-| **Recesso** | Feriado anual (Yggoraty) quando as forjas param |
+| **Recesso** | Feriado anual (Yggorath) quando as forjas param |
 
 ---
 
@@ -5795,7 +5795,7 @@ O simbolo de Terraxis e um **malho cruzado com um cinzel sobre uma bigorna de pe
 | **Verao Ardente** | Ardens Petros | 4-6 | Calor intenso no deserto, tempestades de poeira |
 | **Outono dos Ventos** | Ventalia Petros | 7-9 | Ventos fortes, nevoeiro nas montanhas, primeiras neves |
 | **Inverno Silencioso** | Gelum Petros | 10-12 | Neve nas montanhas, geada no planalto, ceu limpo |
-| **Tempo do Recesso** | Recessus Petros | 13 (Yggoraty) | Tudo para; as minas fecham; balanco anual |
+| **Tempo do Recesso** | Recessus Petros | 13 (Yggorath) | Tudo para; as minas fecham; balanco anual |
 
 ### Fenomenos Climaticos
 
