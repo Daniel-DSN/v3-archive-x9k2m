@@ -12,17 +12,17 @@
 - A Vontade despertou e criou a Luz, indivisível e pura.
 - A Luz expandiu-se e criou fissuras entre os raios — o espaço onde o parasita podia agir.
 
-### 1.2 Os Nihilarys (Primeira Civilização)
+### 1.2 Os Nihilaryth (Primeira Civilização)
 - Civilização que dominava a aethra a ponto de a natureza obedecer-lhes.
 - Cultivaram o Fruto Primordial e tornaram-se gananciosos por eternidade.
 - Começaram a drenar aethra de seres vivos — vizinhos, povos menores, depois os próprios.
 - Ur-Nyxal exigiu poder infinito do Fruto; ele se extinguiu e todo o povo foi reduzido a consciências imateriais, sem corpo, sem tato, sem voz.
 - Mythra sobreviveu como a única hospedeira original.
-- Desde então, os Nihilarys precisam de hospedeiros para sentir e agir no mundo.
+- Desde então, os Nihilaryth precisam de hospedeiros para sentir e agir no mundo.
 
 ### 1.3 Alyndra Primordial e os Gêmeos
 - Uma mulher chamada **Alyndra Primordial** controlava o Fruto Primordial e via **todos os futuros possíveis**.
-- Em vez de aniquilar os Nihilarys, escolheu renascer através da destruição — usou o Fruto para repor cada ser consumido.
+- Em vez de aniquilar os Nihilaryth, escolheu renascer através da destruição — usou o Fruto para repor cada ser consumido.
 - Estava grávida de gêmeos: **Ilyos** (luz, construção) e **Nyxalor** (sombra, dissolução).
 - Morreu antes de dar à luz; os gêmeos nasceram mesmo sem o ventre.
 - Sua essência flui pelas gerações através do tempo, programada para convergir na **8ª Convergência Tripla**.
@@ -33,8 +33,8 @@
 - Nyxalor obedeceu — criou ou cedeu um corpo para Mythra habitar.
 - Ambos foram selados juntos por Elarys e Ilyos. Mythra não está solta — está **aprisionada dentro do selo junto com Nyxalor**.
 
-### 1.3b Objetivo dos She-Zuris
-- Os She-Zuris (Nihilarys) buscam **libertar Mythra e Nyxalor** do selo.
+### 1.3b Objetivo dos Nihil Shid
+- Os Nihil Shid (Nihilaryth) buscam **libertar Mythra e Nyxalor** do selo.
 - Para isso, precisam de Alyndra como receptáculo — seu corpo tem **ligação divina** (herdeira Seraphyen, convergência da essência primordial).
 - Um corpo comum não sustentaria o poder de Mythra em sua totalidade. Apenas a Semente (Alyndra) é capaz.
 - **Objetivo final:** Com o corpo de Alyndra sob controle, podem usar a **Armadura de Ilyos** para alcançar **Yggorath** e o **Fruto Primordial** — a fonte de todo poder criacional.
@@ -48,7 +48,7 @@
 - Myrrhiel morreu protegendo Ilyos para dar tempo ao selo.
 - Elarys percebeu a verdade, voltou-se e **fundiu-se ao selo junto com Ilyos** — selando Nyxalor **e Mythra juntos** no mesmo selo.
 - **O Selo de Elarys** aprisiona ambos: Nyxalor dorme, Mythra está contida nas bordas internas.
-- **Mythra e o nome Alyndra:** Mythra é a única entre os Nihilarys que sabe quem Alyndra realmente é. Quando ela ouvir que a Semente viva se chama "Alyndra" — o nome da mulher que a derrotou —, o choque será devastador. A inimiga que a selou renasceu na mesma menina que ela precisa como receptáculo.
+- **Mythra e o nome Alyndra:** Mythra é a única entre os Nihilaryth que sabe quem Alyndra realmente é. Quando ela ouvir que a Semente viva se chama "Alyndra" — o nome da mulher que a derrotou —, o choque será devastador. A inimiga que a selou renasceu na mesma menina que ela precisa como receptáculo.
 - Ilyos fragmentou-se pelo mundo. Elarys tornou-se o próprio selo.
 
 ### 1.5 Os Seraphyens
@@ -75,8 +75,8 @@
 - **Aparência:** Loira, olhos castanhos, mãos que brilham sob a pele quando emocionada
 - **Nome completo no Orfanato Luminis:** Alyndra Solynthr — Lyris cria um registro falso usando o sobrenome da avó adotiva, a parteira Melessa Solynthr.
 - **Linhagem verdadeira:** Filha de Ayla (morta no parto) e Aurelius Lumivael (Guardião Mestre de Sanctrum). Neta de Marethyus (último Lugal de Thalassia, Seraphyen de sangue puro). Herdeira Seraphyen — Dumu Nin Marethyus.
-- **Natureza única:** Alyndra não é apenas mais uma descendente — ela é **a convergência final**. Alyndra Primordial, ao usar o Fruto Primordial para deter os Nihilarys, **programou sua própria essência** para fluir pelas gerações e convergir **exclusivamente na 8ª Convergência Tripla**. Não há outros herdeiros com a mesma essência. A linhagem foi um canal, e Alyndra é o destino. Se ela morrer sem descendência, a essência se perde para sempre — e com ela, a única chance de renovar o Selo de Elarys.
-- **A escolha de Alyndra Primordial:** Ela possuía o poder de ver **todos os futuros possíveis**. Entre infinitas linhas do tempo, escolheu aquela que levaria sua descendência à vitória sobre os Nihilarys. Mas ver o futuro não é controlá-lo — ela viu o caminho, depositou sua fé na geração que havia de vir, e fez o sacrifício sabendo que não estaria lá para garantir o resultado. O nascimento de Alyndra (a menina) não foi uma fatalidade inevitável — foi **a aposta de uma mulher que viu uma chance entre milhares e escolheu acreditar**.
+- **Natureza única:** Alyndra não é apenas mais uma descendente — ela é **a convergência final**. Alyndra Primordial, ao usar o Fruto Primordial para deter os Nihilaryth, **programou sua própria essência** para fluir pelas gerações e convergir **exclusivamente na 8ª Convergência Tripla**. Não há outros herdeiros com a mesma essência. A linhagem foi um canal, e Alyndra é o destino. Se ela morrer sem descendência, a essência se perde para sempre — e com ela, a única chance de renovar o Selo de Elarys.
+- **A escolha de Alyndra Primordial:** Ela possuía o poder de ver **todos os futuros possíveis**. Entre infinitas linhas do tempo, escolheu aquela que levaria sua descendência à vitória sobre os Nihilaryth. Mas ver o futuro não é controlá-lo — ela viu o caminho, depositou sua fé na geração que havia de vir, e fez o sacrifício sabendo que não estaria lá para garantir o resultado. O nascimento de Alyndra (a menina) não foi uma fatalidade inevitável — foi **a aposta de uma mulher que viu uma chance entre milhares e escolheu acreditar**.
 - **Característica principal:** Herdou a essência de Alyndra Primordial — carrega o poder de renovar o selo de Elarys.
 - **Lyrien de estimação:** Nyx — mamífero de pelagem clara, que a acompanha desde o nascimento e morre no Cap. 37 defendendo-a.
 - **Poder latente:** Cryonys (gelo elemental), desperta em momentos de estresse extremo (Cap. 9 em Thalendris; Cap. 37 após a morte de Nyx).
@@ -103,7 +103,7 @@
 
 ### 2.5 Thaloris Ventaris / Líder do Vento
 - **Título:** Lugal Lil (Senhor dos Ventos) de Sylvaris
-- **Arco:** Conivente com o tráfico de cargas fantasmas; vai cobrar sua recompensa (Cap. 30); é enganado e possuiído por legiões de Nihilarys (Cap. 31); transforma-se na **Aberração** — criatura de 2,40m de obsidiana e Nihilarys compactados; enfrenta Velatrix, Marethyus e todos; é finalmente derrotado por Aurelius.
+- **Arco:** Conivente com o tráfico de cargas fantasmas; vai cobrar sua recompensa (Cap. 30); é enganado e possuiído por legiões de Nihilaryth (Cap. 31); transforma-se na **Aberração** — criatura de 2,40m de obsidiana e Nihilaryth compactados; enfrenta Velatrix, Marethyus e todos; é finalmente derrotado por Aurelius.
 
 ### 2.6 Vethran Noll
 - **Papel público:** Burocrata de médio escalão em Sanctrum
@@ -194,9 +194,9 @@
 
 ### 4.2a Korr'Val Nihl — A Sombra do Vento
 - **Korr'Val Nihl** — A Sombra do Vento em pessoa. Líder da Seh'Zuris e membro mais temido da seita. Antiga líder de Umbra. Mais de 3.000 anos de idade — sobrevive parasitando Aethra de suas vítimas para perpetuar sua vida. Nunca aparece pessoalmente — comunica-se por mensageiros, cartas com selo de cera negra, e sussurros nas mentes de subordinados. O En Nu Me (Varek Nythor) executa suas ordens sem nunca ter visto seu rosto.
-- **Nasceu na era de Nyxalor** — lutou ao lado de Mythra na guerra original. Alyndra Primordial é de éons atrás, em tempos quase imemoriais — Korr'Val Nihl veio depois, mas ainda assim é ancestral. Os Nihilarys são seres imateriais que não morrem — esse conhecimento é passado entre eles.
+- **Nasceu na era de Nyxalor** — lutou ao lado de Mythra na guerra original. Alyndra Primordial é de éons atrás, em tempos quase imemoriais — Korr'Val Nihl veio depois, mas ainda assim é ancestral. Os Nihilaryth são seres imateriais que não morrem — esse conhecimento é passado entre eles.
 - **Afundou Thalassia na 7ª Convergência** (há quase 1 século) — invocou seu poder e afundou a ilha-continente em uma noite.
-- **Alvo:** Sabe que a Semente é um hospedeiro adequado para novos seres extremamente poderosos — o uso dos Nihilarys. Quer Alyndra viva: "Tragame a menina Cryonys."
+- **Alvo:** Sabe que a Semente é um hospedeiro adequado para novos seres extremamente poderosos — o uso dos Nihilaryth. Quer Alyndra viva: "Tragame a menina Cryonys."
 
 ### 4.3 Conselho dos 12
 - Órgão governante dos Sete Reinos
@@ -242,7 +242,7 @@
 ### ARCO 4 — A Infiltração (Caps 16-22)
 - Selynis prepara dossiê contra Lyris (Cap. 16)
 - Cargas fantasmas aumentam (Cap. 17)
-- POV dos She-Zuris no subsolo de Sanctrum (Cap. 18)
+- POV dos Nihil Shid no subsolo de Sanctrum (Cap. 18)
 - Thaloris aprofunda cooperação com a guilda sombria (Cap. 19)
 - Treinamento de Alyndra (Cap. 20)
 - Sussurros do Nihilary nos sonhos de Alyndra (Cap. 21)
@@ -333,7 +333,7 @@
 5. **Casca** — apenas o Nihilary dentro do corpo, a pessoa já não existe
 
 ### Possessão Múltipla
-- Legiões de Nihilarys entram simultaneamente
+- Legiões de Nihilaryth entram simultaneamente
 - Transforma o corpo em **Aberração** — criatura terrivelmente forte
 - Foi o que aconteceu com Thaloris Ventaris
 
@@ -389,7 +389,7 @@ Audin, Lyrdin, Nydin, Eldin, Vendin, Ilydin, Zidin
 - **Controle de Selynis sobre o RRA** — precisa de justificativa técnica ou política
 - **Mensagem na parede do quarto de Ayla** — provavelmente escrita por Ayla antes de fugir para Mespiria
 - **Relíquia do avô de Alyndra** — o que é? De onde veio?
-- **Subsolo secreto de Sanctrum** — rede de túneis onde She-Zuris operam
+- **Subsolo secreto de Sanctrum** — rede de túneis onde Nihil Shid operam
 - **Mercenário da Umbra (Korath)** — precisa de ficha completa
 - **Nihilary de Alyndra (Kal-Nyxar)** — precisa de nome e método de abordagem
 - **Armadura de Ilyos** — apenas a manopla é conhecida (em Sanctrum)
