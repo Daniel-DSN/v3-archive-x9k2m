@@ -261,6 +261,12 @@ Para isso, desenvolveram habilidades únicas:
 # PARTE IV
 ## A PRIMEIRA ERA DE AERTHERION — O REINO DE ALYNDRA
 
+
+> **Alyndra Primordial** é a origem de tudo. Ser extremamente poderoso da primeira civilização, controlava o Fruto Primordial e possuía visão do futuro. Estava **grávida de gêmeos** (Ilyos ♀ e Nyxalor ♂) quando fez seu sacrifício final — morreu antes do nascimento, mas a Semente carregava a essência e a promessa dos filhos. Seu vislumbrar do futuro revelou especificamente a **filha de Ayla** como esperança para um futuro melhor, justificando a essência fluir por gerações até a protagonista.
+>
+> **Ver também:** [`LORE_ALYNDRA_PRIMORDIAL.md`](LORE_ALYNDRA_PRIMORDIAL.md) para a timeline completa da criação, o mecanismo da Semente e a linhagem Marethyus.
+
+
 ### 4.1 O Surgimento de uma Nova Civilização
 
 Milênios após a queda dos Nihilaryth, **uma nova civilização surgiu** das cinzas de mundos antigos. Esta civilização era diferente dos Nihilaryth em um aspecto fundamental: **buscava a harmonia entre os seres existentes**. Seus valores eram crescimento, compartilhamento, equilíbrio e compaixão.
