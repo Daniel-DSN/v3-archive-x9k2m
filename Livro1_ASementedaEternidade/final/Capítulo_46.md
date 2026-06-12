@@ -133,7 +133,7 @@ Lyris¹⁰ parou na frente da casa.
 
 Ela *sabia* — sabia o que era aquela casa, sabia *quem* tinha vivido ali, sabia que os passos que estavam prestes a dar eram passos que Alyndra⁹ nunca tinha dado e que Lyris¹⁰, por valens, tinha *impedido* que fossem dados, porque a verdade sobre Ayla³⁰ era *perigosa*, e a filha de Ayla³⁰ era *alvo*, e saber *muito* sobre si mesma era o tipo de coisa que fazia os alvos *vulneráveis*.
 
-Mas agora — agora a guerra tinha acabado. A aberração estava destruída. Os *She-Zuris*²⁹ tinham recuado. E Alyndra⁹ merecia *saber*. Não tudo — não que Aurelius²⁶ era seu pai, não que ela era a herdeira de *Thalassia*²⁴, não que os Anciãos³¹ tinham planos para ela — mas *algo*. Algo que conectasse Alyndra⁹ à mulher que tinha dado a vida para que ela existisse.
+Mas agora — agora a guerra tinha acabado. A aberração estava destruída. Os *Nihil Shid*²⁹ tinham recuado. E Alyndra⁹ merecia *saber*. Não tudo — não que Aurelius²⁶ era seu pai, não que ela era a herdeira de *Thalassia*²⁴, não que os Anciãos³¹ tinham planos para ela — mas *algo*. Algo que conectasse Alyndra⁹ à mulher que tinha dado a vida para que ela existisse.
 
 — Essa casa — Lyris¹⁰ começou, e a voz era *cuidadosa*, cada palavra escolhida como quem pisa em gelo fino — foi o refúgio de uma mulher muito querida, que precisou se esconder do mundo.
 
@@ -303,7 +303,7 @@ Os arredores de *Velantis*²⁷ apareceram ao longe — os telhados das casas, a
 
 Lyris¹⁰ parou.
 
-Não porque tivesse chegado ao destino — porque *olhou*. Olhou para trás — não para *Velantis*²⁷, para *Alyndra⁹*. Para a garota que caminhava um passo atrás, com os olhos fixos no horizonte, com a mão vazia ao lado do corpo, com o *cryonys*¹⁴ silenciado nas veias e o *aethra*⁷ de *Thalassia*²⁴ pulsando no peito e o *coração* — o coração — *quebrado* e *funcionando* e *batendo* e *vivendo*, apesar de tudo, apesar de Nyx¹⁵, apesar da aberração, apesar dos *She-Zuris*²⁹, apesar de *tudo*.
+Não porque tivesse chegado ao destino — porque *olhou*. Olhou para trás — não para *Velantis*²⁷, para *Alyndra⁹*. Para a garota que caminhava um passo atrás, com os olhos fixos no horizonte, com a mão vazia ao lado do corpo, com o *cryonys*¹⁴ silenciado nas veias e o *aethra*⁷ de *Thalassia*²⁴ pulsando no peito e o *coração* — o coração — *quebrado* e *funcionando* e *batendo* e *vivendo*, apesar de tudo, apesar de Nyx¹⁵, apesar da aberração, apesar dos *Nihil Shid*²⁹, apesar de *tudo*.
 
 — *Thalassia*²⁴ — Lyris¹⁰ disse, e a palavra era uma *seta* — apontando para a frente, para o horizonte, para o mar, para o desconhecido.
 
@@ -377,7 +377,7 @@ Para *tudo* que estava por *vir*.
 
 ⁷ **aethra** — Manifestação física da alma; energia espiritual fundamental. O amor de Ayla³⁰ por Alyndra⁹ é comparado a *aethra*⁷ — não morre, transforma-se.
 
-⁸ **nihilary / nihilarys** — Agentes dos *She-Zuris*²⁹. A ameaça que destruiu parte do orfanato e que motiva a ida de Alyndra⁹ a Thalassia²⁴.
+⁸ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²⁹. A ameaça que destruiu parte do orfanato e que motiva a ida de Alyndra⁹ a Thalassia²⁴.
 
 ⁹ **Alyndra / Alyndra Marethyus** — Última herdeira de Thalassia²⁴; cinco *valens*⁵. Caminha para *Thalassia*²⁴ ao final do capítulo. Filha de Aurelius²⁶ e Ayla³⁰. Não sabe que as palavras na parede são de sua mãe.
 
@@ -418,7 +418,7 @@ Para *tudo* que estava por *vir*.
 
 ²⁸ *(entrada removida — velrok, vide nota ¹⁶)*
 
-²⁹ **She-Zuris** — Ordem secreta de *nihilarys*⁸. A ameaça que motiva a partida de Alyndra⁹ a *Thalassia*²⁴. A aberração destruída por Aurelius²⁶ foi uma *experiência* dos *She-Zuris*²⁹.
+²⁹ **Nihil Shid** — Ordem secreta de *nihilarys*⁸. A ameaça que motiva a partida de Alyndra⁹ a *Thalassia*²⁴. A aberração destruída por Aurelius²⁶ foi uma *experiência* dos *Nihil Shid*²⁹.
 
 ³⁰ **Ayla / Ayla Marethyus** — Mãe de Alyndra⁹; princesa de *Thalassia*²⁴; falecida no parto. Escreveu uma mensagem de amor em *Emê-Gir*³⁹ na parede do quarto onde se escondeu durante a gravidez. Alyndra⁹ não sabe que as palavras são de sua mãe.
 
