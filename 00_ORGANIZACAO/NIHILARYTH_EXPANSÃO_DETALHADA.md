@@ -21,7 +21,7 @@
 9. [Possessão vs Sedução — Métodos de Controle](#9-possessao-vs-seducao-metodos-de-controle)
 10. [A Queda de Nyxalor — A Sedução de Mythra](#10-a-queda-de-nyxalor-a-seducao-de-mytra)
 11. [A Guerra Original — Ilyos e Elarys Selam Nyxalor](#11-a-guerra-original-ilyos-e-elarys-selam-nyxalor)
-12. [Os She-Zuris — Os Iluminados](#12-os-she-zuris-os-iluminados)
+12. [Os Nihil Shid — Os Iluminados](#12-os-Nihil Shid-os-iluminados)
 13. [O Culto de Nyxalor — Relação com os Nihilaryth](#13-o-culto-de-nyxalor-relacao-com-os-nihilaryth)
 14. [Os Radicais de Nyxalor — Ferramentas Descartáveis](#14-os-radicais-de-nyxalor-ferramentas-descartaveis)
 15. [A Infiltração Atual por Reino](#15-a-infiltracao-atual-por-reino)
@@ -207,7 +207,7 @@ Xaryntha é a especialista em **corrupção de mentes**. Ela:
 - Tece teias de engano que abrangem reinos inteiros
 - Mantém a lealdade do En Nu Me (Governante Vazio) de Umbra
 
-Ela é a responsável por todos os agentes humanos que servem aos Nihilaryth — os chamados **She-Zuris** (Os Iluminados).
+Ela é a responsável por todos os agentes humanos que servem aos Nihilaryth — os chamados **Nihil Shid** (Os Iluminados).
 
 ### 4.4 Relação com Mythra
 
@@ -540,19 +540,19 @@ Ilyos e Elarys canalizaram **toda a sua essência** em uma única explosão de l
 
 ---
 
-## 12. Os She-Zuris — Os Iluminados
+## 12. Os Nihil Shid — Os Iluminados
 
 ### 12.1 Quem São
 
-Os **She-Zuris** (Emê-Gir: *"Aqueles que Sussurram na Sombra"*, também chamados de **Os Iluminados**) são agentes humanos que servem voluntariamente aos Nihilaryth.
+Os **Nihil Shid** (Emê-Gir: *"Aqueles que Sussurram na Sombra"*, também chamados de **Os Iluminados**) são agentes humanos que servem voluntariamente aos Nihilaryth.
 
-Diferente das vítimas de possessão, os She-Zuris **escolheram** servir — seduzidos por promessas de poder, imortalidade ou conhecimento.
+Diferente das vítimas de possessão, os Nihil Shid **escolheram** servir — seduzidos por promessas de poder, imortalidade ou conhecimento.
 
 ### 12.2 Estrutura
 
 ```
 Sussurrador-Mor (líder — identidade secreta)
-├── Mestre She-Zuri (12 — um por Senhor do Vazio)
+├── Mestre Nihil Shid (12 — um por Senhor do Vazio)
 │   ├── Agentes de Alto Nível (conhecem o plano)
 │   │   ├── Agentes de Médio Nível (recebem ordens, não sabem o plano total)
 │   │   │   ├── Agentes de Baixo Nível (executam tarefas específicas)
@@ -563,7 +563,7 @@ Sussurrador-Mor (líder — identidade secreta)
 
 ### 12.3 Recrutamento
 
-Os She-Zuris recrutam através de:
+Os Nihil Shid recrutam através de:
 
 | Método | Descrição | Eficácia |
 |--------|-----------|:--------:|
@@ -575,7 +575,7 @@ Os She-Zuris recrutam através de:
 
 ### 12.4 Infiltração Conhecida
 
-She-Zuris estão infiltrados em todos os reinos:
+Nihil Shid estão infiltrados em todos os reinos:
 
 | Reino | Agentes Conhecidos | Nível Máximo Alcançado |
 |-------|:------------------:|:----------------------:|
@@ -616,7 +616,7 @@ Se o Culto descobrisse que seu "deus" é uma marionete, muitos membros se voltar
 
 ### 13.3 O Sussurrador-Mor
 
-O **Sussurrador-Mor** é o líder humano do Culto — e é um **She-Zuri** de altíssimo escalão. Ele conhece a verdade sobre os Nihilaryth e aceita-a. Sua identidade é o segredo mais bem guardado do Culto.
+O **Sussurrador-Mor** é o líder humano do Culto — e é um **Nihil Shid** de altíssimo escalão. Ele conhece a verdade sobre os Nihilaryth e aceita-a. Sua identidade é o segredo mais bem guardado do Culto.
 
 Quem é? Especula-se:
 - Um membro do **Conselho dos 12** infiltrado
@@ -658,20 +658,20 @@ Os Radicais são chamados coletivamente de **Mão Negra**, e seus líderes receb
 | Reino | Nível de Infiltração | Principal Ameaça | Resistência |
 |-------|:--------------------:|------------------|:-----------:|
 | **Umbra** | **Crítico** (90%) | Portais ativos, governo controlado | **Baixa** — resistência fragmentada |
-| **Sylvaris** | **Alto** (40%) | Ex-Lugal corrompido, She-Zuris no poder | **Média** — Vethran Noll ativo |
+| **Sylvaris** | **Alto** (40%) | Ex-Lugal corrompido, Nihil Shid no poder | **Média** — Vethran Noll ativo |
 | **Pyralis** | **Médio** (15%) | Punho de Fogo, Vorath Negro | **Alta** — Ignar caça infiltrados |
-| **Sanctrum** | **Médio** (10%) | She-Zuris no Conselho, Mulher de Branco | **Alta** — Aurelius sabe e monitora |
+| **Sanctrum** | **Médio** (10%) | Nihil Shid no Conselho, Mulher de Branco | **Alta** — Aurelius sabe e monitora |
 | **Terraxis** | **Médio-Baixo** (8%) | Mineradores corrompidos, contrabando | **Média** — Torgath é vigilante |
 | **Fulmora** | **Baixo** (5%) | Técnicos infiltrados | **Baixa** — Zerynthia não percebe |
 | **Thalassia** | **Muito Baixo** (3%) | Ilhas remotas com cultistas | **Alta** — Kaelia isola ameaças |
 
 ### 15.2 A Mulher de Branco
 
-Uma figura misteriosa em Sanctrum — uma agente She-Zuri de altíssimo escalão, possivelmente **Xaryntha** em casca humana. Ela:
+Uma figura misteriosa em Sanctrum — uma agente Nihil Shid de altíssimo escalão, possivelmente **Xaryntha** em casca humana. Ela:
 - Circula entre a elite de Sanctrum
 - Nunca fala — apenas observa
 - Veste-se sempre de branco (contraste irônico com sua natureza)
-- É temida até mesmo por outros She-Zuris
+- É temida até mesmo por outros Nihil Shid
 
 ### 15.3 O Objetivo em Cada Reino
 
@@ -758,10 +758,10 @@ Mythra nunca contou isso a ninguém. Nem a Xaryntha. Nem a Vorynthrix. É o segr
 
 | Termo | Significado |
 |-------|-------------|
-| **She-Zuris** | "Os Iluminados" — humanos que servem os Nihilaryth |
+| **Nihil Shid** | "Os Iluminados" — humanos que servem os Nihilaryth |
 | **Sussurrador-Mor** | Líder humano do Culto de Nyxalor |
 | **Enviado Silente** | Nihilaryth em casca humana (guarda do En Nu Me Varek Nythor) |
-| **Mulher de Branco** | Agente She-Zuri de alto escalão em Sanctrum |
+| **Mulher de Branco** | Agente Nihil Shid de alto escalão em Sanctrum |
 
 ### Conceitos
 
@@ -780,7 +780,7 @@ Mythra nunca contou isso a ninguém. Nem a Xaryntha. Nem a Vorynthrix. É o segr
 | Nome | Tipo | Função |
 |------|:----:|--------|
 | **Xyl'Morath** | Devorador | Invocado na Cidadela do Gélio; banido por Marethyus |
-| **Korr'Val Nihl** | Organização | Célula de She-Zuris que opera sequestros |
+| **Korr'Val Nihl** | Organização | Célula de Nihil Shid que opera sequestros |
 | **Malkor Sutai** | Humano | Líder da Korr'Val Nihl; invocou Xyl'Morath |
 
 ---
@@ -791,7 +791,7 @@ Os Nihilaryth não habitam cascas aleatórias. Quando um corpo é exumado e pres
 
 ### O Que São
 
-Cascas de Valor são corpos de indivíduos com **potencial etérico significativo** — guerreiros Seraphyen, *dumu* de linhagens puras, portadores de afinidades elementais raras — que são exumados por agentes Nihilaryth (She-Zuris ou corrompidos locais) e mantidos em locais de preservação etérica conectados ao Plano das Sombras. O corpo não é possuído imediatamente; é *preparado*. A alma foi destruída há muito (ou nunca habitou o corpo de forma completa, como no caso de mortes por exaustão da canalização). O que resta é um vaso — limpo, forte, e carregado de ressonância etérica residual.
+Cascas de Valor são corpos de indivíduos com **potencial etérico significativo** — guerreiros Seraphyen, *dumu* de linhagens puras, portadores de afinidades elementais raras — que são exumados por agentes Nihilaryth (Nihil Shid ou corrompidos locais) e mantidos em locais de preservação etérica conectados ao Plano das Sombras. O corpo não é possuído imediatamente; é *preparado*. A alma foi destruída há muito (ou nunca habitou o corpo de forma completa, como no caso de mortes por exaustão da canalização). O que resta é um vaso — limpo, forte, e carregado de ressonância etérica residual.
 
 ### Por Que Preservam
 
@@ -804,7 +804,7 @@ Cascas de Valor são corpos de indivíduos com **potencial etérico significativ
 
 ### O Processo
 
-1. **Identificação** — A Convergência Tripla de 4.098 E.D. emitiu uma assinatura etérica massiva que foi detectada pelos Nihilaryth. Levariam alguns anos para rastrear a fonte até Mespiria. A identificação do corpo como "mãe da Semente" exigiria acesso a informações da Câmara dos Sussurros — possivelmente através de She-Zuris infiltrados.
+1. **Identificação** — A Convergência Tripla de 4.098 E.D. emitiu uma assinatura etérica massiva que foi detectada pelos Nihilaryth. Levariam alguns anos para rastrear a fonte até Mespiria. A identificação do corpo como "mãe da Semente" exigiria acesso a informações da Câmara dos Sussurros — possivelmente através de Nihil Shid infiltrados.
 
 2. **Exumação** — Executada por agentes locais com conhecimento preciso da localização. A terra é removida com cuidado cirúrgico; itens superficiais (flores, marcadores) são deixados intactos para não levantar suspeitas imediatas. O corpo é transportado em receptáculos de preservação etérica.
 
@@ -819,7 +819,7 @@ O corpo de Ayla Marethyus — Dumu Nin de Thalassia, ex-guerreira da Kalúdris, 
 **Status atual:** Desconhecido. Presumivelmente preservado em local de poder Nihilaryth, aguardando o momento estratégico de habilitação.
 
 **Implicações:**
-- Se os Nihilaryth descobriram que Ayla era mãe de Alyndra, isso significa que têm acesso a informações sobre a linhagem da Semente — possivelmente através de She-Zuris na Câmara dos Sussurros.
+- Se os Nihilaryth descobriram que Ayla era mãe de Alyndra, isso significa que têm acesso a informações sobre a linhagem da Semente — possivelmente através de Nihil Shid na Câmara dos Sussurros.
 - A habilitação da casca como arma psicológica contra Alyndra seria devastadora: Alyndra nunca viu o rosto da mãe. Encontrá-lo pela primeira vez preenchido por um parasita seria a profanação definitiva.
 - A bênção de Elara no enterro (Cap 2) operava sobre a alma de Ayla — não sobre seu corpo. A profanação da casca não invalida a bênção.
 
@@ -865,9 +865,9 @@ O corpo de Ayla Marethyus — Dumu Nin de Thalassia, ex-guerreira da Kalúdris, 
 | **~300 E.D.** | Primeiros sussurros Nihilaryth chegam a Umbra |
 | **~500 E.D.** | Fundação do Culto de Nyxalor (influência de Xaryntha) |
 | **~1.200 E.D.** | Primeiros Portais Nihilaryth abertos em Umbra |
-| **~1.500 E.D.** | Primeiros She-Zuris infiltrados em Sanctrum |
+| **~1.500 E.D.** | Primeiros Nihil Shid infiltrados em Sanctrum |
 | **~2.000 E.D.** | Infiltração Nihilaryth em Sylvaris começa |
-| **~2.500 E.D.** | Vorath Negro contata She-Zuris em Pyralis |
+| **~2.500 E.D.** | Vorath Negro contata Nihil Shid em Pyralis |
 | **4.098 E.D.** | 8ª Convergência Tripla — nascimento de Alyndra |
 | **4.101 E.D.** | Thaloris Ventaris é possuído no Templo de Ventus |
 | **4.102 E.D.** | Malkor Sutai invoca Xyl'Morath na Cidadela do Gélio |
@@ -876,5 +876,5 @@ O corpo de Ayla Marethyus — Dumu Nin de Thalassia, ex-guerreira da Kalúdris, 
 ---
 
 > **Documento criado em:** 31 de Maius de 2026
-> **Canonicidade:** Complementa `LORE_COSMOLOGIA_E_MAGIA.md` (cosmologia, origem Nihilaryth), `RELIGIOES_E_FILOSOFIAS.md` (Culto de Nyxalor, She-Zuris), `PERSONAGENS_MASTER.md` (Mythra, Xaryntha, Vorynthrix, Xyl'Morath)
+> **Canonicidade:** Complementa `LORE_COSMOLOGIA_E_MAGIA.md` (cosmologia, origem Nihilaryth), `RELIGIOES_E_FILOSOFIAS.md` (Culto de Nyxalor, Nihil Shid), `PERSONAGENS_MASTER.md` (Mythra, Xaryntha, Vorynthrix, Xyl'Morath)
 > **Em caso de conflito, prevalece LORE_COSMOLOGIA_E_MAGIA.md** como fonte primária de cosmologia.
