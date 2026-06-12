@@ -56,7 +56,7 @@ A galeria terminava em uma câmara circular, cujo teto alto era sustentado por c
 
 No centro da câmara, uma bacia de bronze estava cheia de uma substância escura que não refletia a luz azul da lâmpada.
 
-Era um óleo denso e aromático, extraído dos poços profundos do reino de *Umbra*⁹, que os *She-Zuris*¹⁰ usavam para ancorar as correntes de sombra subterrâneas.
+Era um óleo denso e aromático, extraído dos poços profundos do reino de *Umbra*⁹, que os *Nihil Shid*¹⁰ usavam para ancorar as correntes de sombra subterrâneas.
 
 — Você está atrasado — disse uma voz na penumbra, vinda de trás da maior coluna.
 
@@ -78,7 +78,7 @@ Sarkis aproximou-se da bacia de bronze, retirando uma luva de couro para tocar o
 
 Xalvador tocou a borda da bacia de bronze com a ponta dos dedos magros de escriba.
 
-Ao seu toque, pequenas runas vermelhas acenderam na lateral da estrutura, um brilho opaco que revelava os símbolos geométricos dos She-Zuris¹⁰.
+Ao seu toque, pequenas runas vermelhas acenderam na lateral da estrutura, um brilho opaco que revelava os símbolos geométricos dos Nihil Shid¹⁰.
 
 — A calibragem está pronta — Xalvador murmurou, observando as runas pulsarem.
 
@@ -110,7 +110,7 @@ Nas celas, dezenas de jovens estavam deitados sobre estrados de pedra, cobertos 
 
 Eles não estavam acorrentados; o vapor que saía dos braseiros nos cantos mantinha-os em um estado de transe de onde era impossível acordar.
 
-Era o vapor de *giralis*²⁰-negra, uma variante modificada da flor prateada que os She-Zuris¹⁰ cultivavam nos jardins subterrâneos.
+Era o vapor de *giralis*²⁰-negra, uma variante modificada da flor prateada que os Nihil Shid¹⁰ cultivavam nos jardins subterrâneos.
 
 Seus rostos eram pálidos, quase translúcidos, e sob a pele de seus braços e têmporas, as veias brilhavam com um azul etéreo.
 
@@ -184,7 +184,7 @@ O brilho roxo do cristal de sombra refletia-se nas fivelas de sua capa, criando 
 
 — Ele teme a morte e a passagem do tempo. Vê seu poder sobre o vento enfraquecer a cada valen que passa, e teme perder o assento no Conselho.
 
-— A promessa dos She-Zuris¹⁰ de que lhe concederemos a imortalidade em um corpo ressuscitado é o suficiente para fazê-lo trair seu povo.
+— A promessa dos Nihil Shid¹⁰ de que lhe concederemos a imortalidade em um corpo ressuscitado é o suficiente para fazê-lo trair seu povo.
 
 — Ele acredita que será um deus no novo reino de *Mythra*²⁸. Não percebe que será apenas mais um escravo da legião de sombra.
 
@@ -362,7 +362,7 @@ No subsolo circular, a bacia de bronze permaneceu imóvel, contendo a escuridão
 
 ⁹ **Umbra** — Reino das Sombras e Mistérios; um dos sete reinos.
 
-¹⁰ **She-Zuris** — Organização secreta que se autodenomina *Os Iluminados*; operam nas sombras do continente sob Sanctrum e Umbra, coordenando o tráfico de pessoas.
+¹⁰ **Nihil Shid** — Organização secreta que se autodenomina *Os Iluminados*; operam nas sombras do continente sob Sanctrum e Umbra, coordenando o tráfico de pessoas.
 
 ¹¹ **Selynis Thalassa** — Membro do Conselho dos 12 e líder dos Tar-Gig (Mestra da Informação).
 
@@ -380,7 +380,7 @@ No subsolo circular, a bacia de bronze permaneceu imóvel, contendo a escuridão
 
 ¹⁹ **aetherite** — Mineral condutor de energia elemental; usado nos cabos de cobre para extração.
 
-²⁰ **giralis** — Flor nativa de Sylvaris, cujas pétalas prateadas emitem luz azul na nyxara; a variante negra é usada pelos She-Zuris para induzir letargia.
+²⁰ **giralis** — Flor nativa de Sylvaris, cujas pétalas prateadas emitem luz azul na nyxara; a variante negra é usada pelos Nihil Shid para induzir letargia.
 
 ²¹ **Fulmora** — Reino dos Raios; um dos sete reinos.
 
@@ -391,11 +391,11 @@ No subsolo circular, a bacia de bronze permaneceu imóvel, contendo a escuridão
 
 ²⁵ **Orfanato Luminis** — Complexo fortificado nos arredores de Velantis, Sylvaris; abrigo de Alyndra.
 
-²⁶ **Thaloris Ventaris** — Lugal de Sylvaris; governante corrompido que coopera com os She-Zuris em troca da imortalidade.
+²⁶ **Thaloris Ventaris** — Lugal de Sylvaris; governante corrompido que coopera com os Nihil Shid em troca da imortalidade.
 
 ²⁷ **Thyravalis** — Faixa costeira do reino de Sylvaris, caracterizada por canais e ilhas.
 
-²⁸ **Mythra** — Entidade Nihilary ancestral, cujo ressurgimento no corpo de Alyndra os She-Zuris planejam.
+²⁸ **Mythra** — Entidade Nihilary ancestral, cujo ressurgimento no corpo de Alyndra os Nihil Shid planejam.
 
 ²⁹ **Velantis** — Cidade principal de Sylvaris, próxima à qual fica o Orfanato Luminis.
 
@@ -411,7 +411,7 @@ No subsolo circular, a bacia de bronze permaneceu imóvel, contendo a escuridão
 
 ³⁵ **Thalassia** — Reino das Águas e dos Mares; um dos sete reinos.
 
-³⁶ **Iluminados** — Membros do alto conselho dos She-Zuris, geralmente cascas habitadas permanentemente por entidades Nihilary.
+³⁶ **Iluminados** — Membros do alto conselho dos Nihil Shid, geralmente cascas habitadas permanentemente por entidades Nihilary.
 
 ³⁷ **velrok** — Equino de grande porte usado para montaria e tração.
 
@@ -419,6 +419,6 @@ No subsolo circular, a bacia de bronze permaneceu imóvel, contendo a escuridão
 
 ## 🔮 Previsão: Próximo Capítulo
 
-No próximo capítulo, *O Coração do Vento*, a narrativa se desloca das profundezas rochosas de Sanctrum para os céus abertos de *Sylvaris*¹³. O Lugal *Thaloris Ventaris*²⁶ retorna ao seu palácio flutuante após a Assembleia Geral, mas o vento que sopra em suas torres não carrega mais a leveza de outrora. Entre sussurros na noite e mapas estendidos sobre mesas de ébano, ele começa a perceber que o preço do seu pacto com os *She-Zuris*¹⁰ está prestes a ser cobrado. Enquanto isso, em Velantis²⁹, *Lysias Thyrion* descobre um navio sem bandeira atracado nas enseadas ocultas, dando o primeiro passo em direção a um segredo que pode custar sua própria vida.
+No próximo capítulo, *O Coração do Vento*, a narrativa se desloca das profundezas rochosas de Sanctrum para os céus abertos de *Sylvaris*¹³. O Lugal *Thaloris Ventaris*²⁶ retorna ao seu palácio flutuante após a Assembleia Geral, mas o vento que sopra em suas torres não carrega mais a leveza de outrora. Entre sussurros na noite e mapas estendidos sobre mesas de ébano, ele começa a perceber que o preço do seu pacto com os *Nihil Shid*¹⁰ está prestes a ser cobrado. Enquanto isso, em Velantis²⁹, *Lysias Thyrion* descobre um navio sem bandeira atracado nas enseadas ocultas, dando o primeiro passo em direção a um segredo que pode custar sua própria vida.
 
 *"O vento fala a quem sabe ouvir, mas quando ele se cala, é porque as sombras aprenderam a gritar."*
