@@ -224,7 +224,7 @@ Fato quatro — e este era o que a mantinha acordada: quando Alyndra apareceu na
 
 Ela abriu os olhos. A nyxara continuava lá fora, indiferente. As *argentis*⁸ continuavam sussurrando ao vento. E o silêncio do orfanato era tão profundo que ela podia ouvir o próprio coração batendo — um som pequeno, regular, que nada explicava e nada resolvia.
 
-Mas havia algo mais. Algo que Lyris não queria nomear mas que insistia em existir, como uma *giralis*⁴ que cresce no escuro: a possibilidade de que Aldric não fosse um agente dos *She-Zuris*³², não fosse um infiltrado de *Umbra*²⁶, não fosse nenhuma das ameaças que ela havia catalogado em seus relatórios mentais. A possibilidade de que ele fosse exatamente o que aparentava ser — um homem com um passado pesado que escolheu cuidar de *giralis*⁴ em vez de quebrar ossos. A possibilidade de que a paranoia a tivesse feito ver inimigos onde não havia nada além de sombras.
+Mas havia algo mais. Algo que Lyris não queria nomear mas que insistia em existir, como uma *giralis*⁴ que cresce no escuro: a possibilidade de que Aldric não fosse um agente dos *Nihil Shid*³², não fosse um infiltrado de *Umbra*²⁶, não fosse nenhuma das ameaças que ela havia catalogado em seus relatórios mentais. A possibilidade de que ele fosse exatamente o que aparentava ser — um homem com um passado pesado que escolheu cuidar de *giralis*⁴ em vez de quebrar ossos. A possibilidade de que a paranoia a tivesse feito ver inimigos onde não havia nada além de sombras.
 
 — Aumentei a vigilância — ela sussurrou para o escuro. — Três meses. Se ele for o que eu penso que é, três meses bastam.
 
@@ -412,7 +412,7 @@ E Aldric ficou ali, deitado no escuro, com os olhos abertos, esperando uma nyxar
 
 ³¹ **RRA** — Rede de Ressonância de Aurion; sistema de comunicação instantânea por pulsos etéricos.
 
-³² **She-Zuris** — Organização secreta que se autodenomina *Os Iluminados*; operam nas sombras do continente, ligados às cargas fantasmas.
+³² **Nihil Shid** — Organização secreta que se autodenomina *Os Iluminados*; operam nas sombras do continente, ligados às cargas fantasmas.
 
 ³³ **ante-aurion** — Período que antecede o nascer de Aurion; a madrugada em Alyndra.
 
@@ -424,6 +424,6 @@ E Aldric ficou ali, deitado no escuro, com os olhos abertos, esperando uma nyxar
 
 ## 🔮 Previsão: Próximo Capítulo
 
-No próximo capítulo, *A Teia nas Sombras*, o Arco II — *Infiltração* — mergulha nas profundezas do que ninguém vê. Nos corredores ocultos sob *Sanctrum*, os *She-Zuris*³² coordenam suas operações com uma precisão que só séculos de planejamento podem produzir. Novos recrutas são avaliados. Novos rituais são preparados. E nas fronteiras, os fios vermelhos que Selynis traçou começam a se mover — não para os destinos que ela previu, mas para algo que ela ainda não imagina. Enquanto isso, no *Orfanato Luminis*³, a rotina continua: exercícios de *cryonys*¹², *Giralis*⁴ de gelo, risadas de crianças. Mas a noite está mais longa do que deveria, e há sombras nos cantos do jardim que não pertencem a nenhuma *Argentis*⁸.
+No próximo capítulo, *A Teia nas Sombras*, o Arco II — *Infiltração* — mergulha nas profundezas do que ninguém vê. Nos corredores ocultos sob *Sanctrum*, os *Nihil Shid*³² coordenam suas operações com uma precisão que só séculos de planejamento podem produzir. Novos recrutas são avaliados. Novos rituais são preparados. E nas fronteiras, os fios vermelhos que Selynis traçou começam a se mover — não para os destinos que ela previu, mas para algo que ela ainda não imagina. Enquanto isso, no *Orfanato Luminis*³, a rotina continua: exercícios de *cryonys*¹², *Giralis*⁴ de gelo, risadas de crianças. Mas a noite está mais longa do que deveria, e há sombras nos cantos do jardim que não pertencem a nenhuma *Argentis*⁸.
 
 *"O que você não pode ver é o que mais precisa vigiar. Mas o que você pode ver — isso também pode ser mentira."*
