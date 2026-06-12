@@ -53,7 +53,7 @@ E então ele *atacou*.
 
 ---
 
-## II. O Oceano de Nihilarys
+## II. O Oceano de Nihilaryth
 
 O *aethra*¹⁵ de Aurelius³ era diferente.
 
@@ -85,7 +85,7 @@ Sentiu a regeneração não com os olhos — com o *aethra*¹⁵. Cada fragmento
 
 E havia *milhares* de *nihilarys*¹² dentro daquele corpo.
 
-Milhares. Não centenas. Não dezenas. *Milhares*. Cada *nihilary*¹² era um fragmento de consciência escura, uma gota do vazio que os *She-Zuris*³¹ haviam coletado ao longo de milênios de manipulação e corrupção. Cada gota era pequena — individualmente, um *nihilary*¹² era tão fraco quanto uma vela diante de uma fornalha. Mas milhares de gotas juntas, compactadas em um único corpo, alimentadas pelo *aethra*¹⁵ do próprio mundo — isso não era uma vela. Era um *incêndio*. Um incêndio que queimava ao contrário, sugando luz em vez de emitir, sugando calor em vez de produzir, sugando *vida* em vez de dar.
+Milhares. Não centenas. Não dezenas. *Milhares*. Cada *nihilary*¹² era um fragmento de consciência escura, uma gota do vazio que os *Nihil Shid*³¹ haviam coletado ao longo de milênios de manipulação e corrupção. Cada gota era pequena — individualmente, um *nihilary*¹² era tão fraco quanto uma vela diante de uma fornalha. Mas milhares de gotas juntas, compactadas em um único corpo, alimentadas pelo *aethra*¹⁵ do próprio mundo — isso não era uma vela. Era um *incêndio*. Um incêndio que queimava ao contrário, sugando luz em vez de emitir, sugando calor em vez de produzir, sugando *vida* em vez de dar.
 
 Aurelius³ atacou de novo.
 
@@ -341,7 +341,7 @@ A três passos de Aurelius³, a aberração *congelou*. Os dezesseis olhos — q
 
 Nyxalor²³.
 
-Os *nihilarys*¹² *conheciam* Nyxalor²³. Nyxalor²³ era uma das *armas* mais poderosas que os *She-Zuris*³¹ haviam criado — uma entidade de fogo e destruição que havia sido usada por Mythra, a *nihilary*¹² ancestral, para quase destruir Yggorath. Elarys a selara com sua vida. O selo fora incrustado na manopla. E agora, milênios depois, a manopla estava no pulso de Aurelius³, e a vibração de Nyxalor²³ estava subindo pelo braço dele, e os *nihilarys*¹² dentro da aberração *sabiam* o que isso significava.
+Os *nihilarys*¹² *conheciam* Nyxalor²³. Nyxalor²³ era uma das *armas* mais poderosas que os *Nihil Shid*³¹ haviam criado — uma entidade de fogo e destruição que havia sido usada por Mythra, a *nihilary*¹² ancestral, para quase destruir Yggorath. Elarys a selara com sua vida. O selo fora incrustado na manopla. E agora, milênios depois, a manopla estava no pulso de Aurelius³, e a vibração de Nyxalor²³ estava subindo pelo braço dele, e os *nihilarys*¹² dentro da aberração *sabiam* o que isso significava.
 
 A aberração recuou.
 
@@ -349,7 +349,7 @@ Um passo. Dois. Três. Por *medo*. Pela primeira vez — por *medo*. Não o medo
 
 Aurelius³ olhou para a aberração recuando. Depois olhou para Alyndra³⁶.
 
-A garota respirava. Fraco, irregular, mas *respirava*. As pestanas não se mexiam. Os lábios estavam entreabertos. O rosto — o rosto de uma criança que não deveria estar ali, que não deveria ter sido o alvo de uma conspiração que envolvia reinos e *nihilarys*¹² e *She-Zuris*³¹ — estava sereno, como se o sono que a consumia fosse um refúgio, como se Alyndra³⁶ tivesse decidido que aquele era o melhor lugar para estar enquanto o mundo se despedaçava ao redor dela.
+A garota respirava. Fraco, irregular, mas *respirava*. As pestanas não se mexiam. Os lábios estavam entreabertos. O rosto — o rosto de uma criança que não deveria estar ali, que não deveria ter sido o alvo de uma conspiração que envolvia reinos e *nihilarys*¹² e *Nihil Shid*³¹ — estava sereno, como se o sono que a consumia fosse um refúgio, como se Alyndra³⁶ tivesse decidido que aquele era o melhor lugar para estar enquanto o mundo se despedaçava ao redor dela.
 
 Aurelius³ olhou para a manopla. Para o selo de Elarys²². Para a vibração que subia pelo braço.
 
@@ -405,7 +405,7 @@ O selo de Elarys²² se *abriu*.
 
 ¹¹ **Marethyus** — Avô materno de Alyndra³⁶; ex-Guardião Mestre de *Sanctrum*¹⁷; último descendente direto dos reis de Thalassia³³.
 
-¹² **nihilary / nihilarys** — Agentes dos *She-Zuris*³¹; seres que manipulam escuridão e ausência. A aberração contém milhares de *nihilarys*¹² compactados no corpo de Thaloris Ventaris²⁴.
+¹² **nihilary / nihilarys** — Agentes dos *Nihil Shid*³¹; seres que manipulam escuridão e ausência. A aberração contém milhares de *nihilarys*¹² compactados no corpo de Thaloris Ventaris²⁴.
 
 ¹³ **Tar-Gig** — Organização de inteligência e operações especiais; forças de Velatrix⁷.
 
@@ -427,7 +427,7 @@ O selo de Elarys²² se *abriu*.
 
 ²² **selo de Elarys** — Selo criado pelo sacrifício de Elarys para aprisionar Nyxalor²³. Incrustado na *Manopla da Vinculação*²¹.
 
-²³ **Nyxalor** — Entidade ancestral de fogo e destruição; uma das armas mais poderosas dos *She-Zuris*³¹. Selada por Elarys há *aethrons*²⁵.
+²³ **Nyxalor** — Entidade ancestral de fogo e destruição; uma das armas mais poderosas dos *Nihil Shid*³¹. Selada por Elarys há *aethrons*²⁵.
 
 ²⁴ **Thaloris Ventaris** — Ex-*Lugal Lil* de *Sylvaris*²⁵; possuído por legiões de *nihilarys*¹² e transformado na aberração.
 
@@ -442,7 +442,7 @@ O selo de Elarys²² se *abriu*.
 
 ³⁰ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos literários específicos, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo" (já aplicado nos capítulos).
 
-³¹ **She-Zuris** — Ordem dos *nihilarys*¹²; os conspiradores que orquestraram a possessão de Thaloris Ventaris²⁴.
+³¹ **Nihil Shid** — Ordem dos *nihilarys*¹²; os conspiradores que orquestraram a possessão de Thaloris Ventaris²⁴.
 
 ³² **Ayla** — Ayla Marethyus; mãe de Alyndra³⁷; morta no parto sob a 8ª Convergência Tripla.
 
