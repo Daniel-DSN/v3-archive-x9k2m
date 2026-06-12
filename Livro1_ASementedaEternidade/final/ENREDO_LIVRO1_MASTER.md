@@ -65,7 +65,7 @@ Um grupo de nihilarys que se autodenomina com um titulo grandioso. Eles coordena
 
 Os nihilarys se alimentam e se mantem de **aerthera dos hospedeiros**, como parasitas imateriais (o livro NAO usa o termo "espirito" para nao empurrar o universo ao religioso terrestre).
 
-### 2.3 Nihilarys Instalados
+### 2.3 Nihilaryth Instalados
 
 Ja existem nihilarys **totalmente instalados** em corpos de maneira permanente. Geralmente sao:
 - Mercenarios de alta periculosidade
@@ -102,7 +102,7 @@ No caso do Lider do Vento, nao e um unico nihilary que o possui — sao **legioe
 
 Os nihilarys buscam reunir a **Armadura de Ilyos**. Por que?
 
-**Ilyos era a chave que levava a Yggorath.** E Yggoraty detem o **Fruto** dentro do **grande quasar no centro da galaxia** — no mundo imaterial. O Fruto e a fonte de todo poder criacional, a mesma que os nihilarys da Primeira Civilizacao usaram e abusaram ate serem amaldicoados.
+**Ilyos era a chave que levava a Yggorath.** E Yggorath detem o **Fruto** dentro do **grande quasar no centro da galaxia** — no mundo imaterial. O Fruto e a fonte de todo poder criacional, a mesma que os nihilarys da Primeira Civilizacao usaram e abusaram ate serem amaldicoados.
 
 ### 4.2 A Manopla da Vinculacao
 
@@ -112,7 +112,7 @@ A **manopla** da Armadura esta em Sanctrum. As demais partes ainda sao desconhec
 
 No passado:
 - **Nyxalor** (uma das armas mais poderosas dos nihilarys) foi usado por **Mythra**, a nihilary ancestral e comandante
-- Mythra quase matou a antiga Yggoraty antes do sacrificio
+- Mythra quase matou a antiga Yggorath antes do sacrificio
 - **Elarys** se sacrificou com suas **chamas da aniquilacao**, selando Nyxalor e Mythra em seu proprio corpo
 - O corpo de Elarys se transformou no **Selo de Mythra** — incrustado na **manopla da vinculacao**
 - O selo se incrustou durante o processo porque **Ilyos segurava o corpo de Elarys** enquanto ele se dissipava e selava os adversarios
@@ -563,13 +563,13 @@ Esta e a sequencia detalhada dos eventos da batalha no templo da fronteira Fulmo
 
 ## 14. Nomes Pendentes (Propostas)
 
-### 14.1 "Os Iluminados" → **She-Zuris**
+### 14.1 "Os Iluminados" → **Nihil Shid**
 
 **Analise Emê-Gir:**
 - **She** = luz, brilho, radiância (radical de elemento)
 - **Zu** = saber, conhecer (radical)
 - **-ris** = ordem, hierarquia, organização (sufixo)
-- **She-Zuris** = "A Ordem da Luz" / "Os Que Sabem a Luz"
+- **Nihil Shid** = "A Ordem da Luz" / "Os Que Sabem a Luz"
 
 **Por que funciona:** Os nihilarys se autodenominam com um titulo nobre e luminoso — o apice da ironia, ja que sao entidades das trevas. O nome soa solene e antigo, como uma ordem fundada nos primordios. A pronuncia ("She-ZOO-ris") e marcante.
 
