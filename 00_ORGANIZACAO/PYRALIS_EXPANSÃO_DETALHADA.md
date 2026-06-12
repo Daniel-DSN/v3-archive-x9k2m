@@ -3,7 +3,7 @@
 > **Documento de Worldbuilding:** Expansão completa de Pyralis
 > **Baseado nos capítulos do Livro I e nas Leis de Ilyos** (conforme estabelecido em `RELIGIOES_E_FILOSOFIAS.md`)
 > **Referência cruzada:** Os 7 Pilares aqui detalhados são os mesmos do documento `RELIGIOES_E_FILOSOFIAS.md` — usar em conjunto
-> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são os dois filhos de Yggorath. Nyxalor foi corrompido por Mytra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
+> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são os dois filhos de Yggorath. Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
 > **Atualizado:** 31 de Maius de 2026
 
 ---
