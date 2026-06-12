@@ -485,7 +485,7 @@ Kaelia governa Thalassia há 20 valens (desde a abdicação de seu pai) com mão
 - **Personalidade:** Digna, reservada, carrega o peso do Gal Lugal com graça.
 - **Relação com Marethyus:** Tensa e fraturada — ela nunca perdoou o pai por ter abdicado, encenado o desaparecimento do *Isi A Gig* e partido para o exílio voluntário, forçando-a a assumir o reino sozinha sob constante cerco político da Casa Talassa.
 - **Relação com Ayla:** Irmã mais nova (falecida). Chora a perda de Ayla, acreditando que ela faleceu em missão em Sylvaris. Desconhece por completo que Alyndra é sua sobrinha e herdeira direta da coroa.
-- **Segredo:** Sabe que a morte de seu marido (Rei consorte) e o assassinato de sua mãe Lyanna Coralys foram orquestrados por conspiradores ligados aos She-Zuris e à Casa Talassa.
+- **Segredo:** Sabe que a morte de seu marido (Rei consorte) e o assassinato de sua mãe Lyanna Coralys foram orquestrados por conspiradores ligados aos Nihil Shid e à Casa Talassa.
 
 ### 7.3 Marethyus — O Lugal em Exílio
 
@@ -512,7 +512,7 @@ Ayla Marethyus (Aelyria) é a filha caçula de Marethyus e irmã mais nova de Ka
 A esposa de Marethyus (mãe de Kaelia e Ayla) chamava-se **Lyanna Coralys**:
 
 - **Morte:** Assassinada em sua própria residência na Cidadela de Coral.
-- **Circunstâncias:** A ala residencial foi consumida por chamas arcanas suspeitas; seu corpo apresentava marcas de garras sombrias, indicando a ação de assassinos infiltrados (She-Zuris).
+- **Circunstâncias:** A ala residencial foi consumida por chamas arcanas suspeitas; seu corpo apresentava marcas de garras sombrias, indicando a ação de assassinos infiltrados (Nihil Shid).
 - **Impacto em Marethyus:** Consumido pela culpa de não estar presente para salvá-la, ele abdicou do trono, levou o *Isi A Gig* para o exílio voluntário e rompeu os laços com a corte, mudando-se para o isolamento.
 
 ### 7.6 Ayla Marethyus — O Romance com Aurelius
@@ -1027,7 +1027,7 @@ Ritual de passagem para jovens thalassianos (16-18 valens):
 
 Diferente de Sanctrum (onde a infiltração é política) e de Umbra (onde é aberta), a presença Nihilaryth em Thalassia é **sutil, aquática e lenta**:
 
-Os She-Zuris em Thalassia não buscam poder político — buscam **corromper o Sha Thalassia** e, através dele, todo o mar.
+Os Nihil Shid em Thalassia não buscam poder político — buscam **corromper o Sha Thalassia** e, através dele, todo o mar.
 
 ### 15.2 Agentes Conhecidos
 
@@ -1054,10 +1054,10 @@ O **Punho do Mar** é a célula radical do Culto de Nyxalor em Thalassia:
 
 ### 15.4 A Conexão com o Kur A Gig
 
-Os She-Zuris em Thalassia exploram uma **brecha teológica** interessante:
+Os Nihil Shid em Thalassia exploram uma **brecha teológica** interessante:
 
 - O Kur A Gig acredita que Myrrhiel veio do Abismo
-- Os She-Zuris **distorcem** esta crença: "Myrrhiel veio do Abismo, sim — e o Abismo quer seu coração de volta"
+- Os Nihil Shid **distorcem** esta crença: "Myrrhiel veio do Abismo, sim — e o Abismo quer seu coração de volta"
 - Eles tentam convencer membros do Kur A Gig a **ajudar na corrupção do Sha Thalassia**
 - Alguns membros do Culto (minoria) caíram na propaganda — acreditam que o Coração "deve ser libertado para retornar ao Abismo"
 
@@ -1074,13 +1074,13 @@ Um fenômeno recente preocupa os thalassianos mais atentos:
 
 **Explicação oficial:** A Nin Kaelia atribui os sussurros a **corais doentes** que emitem pulsos de Aethra distorcidos.
 
-**Explicação real:** Os She-Zuris estão **testando comunicação em massa** através do Sha Thalassia — se conseguirem corrompê-lo, poderão enviar sussurros para **todos os thalassianos simultaneamente**, transformando-os em marionetes.
+**Explicação real:** Os Nihil Shid estão **testando comunicação em massa** através do Sha Thalassia — se conseguirem corrompê-lo, poderão enviar sussurros para **todos os thalassianos simultaneamente**, transformando-os em marionetes.
 
 ### 15.6 Quem Sabe
 
 | Pessoa | Sabe? | O que faz |
 |--------|:-----:|-----------|
-| **Nin Kaelia** | Suspeita | Reforçou a guarda do Coração, mas não sabe identificar She-Zuris |
+| **Nin Kaelia** | Suspeita | Reforçou a guarda do Coração, mas não sabe identificar Nihil Shid |
 | **Comandante Theron** | Confirmou parcialmente | Investigou o ex-Templário desonrado; encontrou provas |
 | **Marethyus** | Desconfia | Por isso abandonou o Gal Lugal — sentia que algo estava errado |
 | **A Velatrix (Sanctrum)** | Monitora | Passa informações para Theron através de canais secretos |
