@@ -409,3 +409,98 @@ Os umbráticos desenvolveram uma cultura baseada no silêncio e na introspecçã
    499|| **A Colheita (Kur Gig Gibil)** | Recrutamento forçado de crianças talentosas | Sindicato executa |
    500|
    501|
+## 7.5 Hierarquia Completa de Umbra
+
+### 7.5.1 Perfil Étnico Umbrático
+
+Os habitantes de Umbra desenvolveram traços físicos marcados por milênios de vida sob luz mínima e frio extremo:
+
+| Traço | Descrição |
+|-------|-----------|
+| **Pele** | Pálida, quase translúcida em muitos — tom marfim-acinzentado. Algumas famílias mais antigas têm pele com leve tom azulado nas veias visíveis |
+| **Cabelo** | Predominantemente negro azeviche ou castanho muito escuro. Liso e fino. Cabelos brancos prematuros são comuns (a partir dos 25 valens) |
+| **Olhos** | Tons escuros predominam: castanho-escuro, cinza-escuro, negro. Olhos claros (azul-gelo, cinza-prateado) aparecem em famílias nobres e são considerados sinal de "sangue antigo" |
+| **Corpo** | Esguio, magro — o frio e a escassez moldaram corpos delgados. Estatura média a alta. Músculos firmes mas compactos |
+| **Rosto** | Traços afilados, mandíbulas definidas, olheiras profundas (não apenas por cansaço — é genético). Nariz geralmente estreito e pontiagudo |
+| **Marcas culturais** | Tatuagens de gelo (scarificações com cristal de gelo) são comuns na nobreza e nos Tar-Gig — padrões geométricos nas mãos, pescoço e têmporas |
+
+> **Nota:** A aparência pálida de Umbra NÃO é associada a doença — é adaptação genética. Nas outras terras, um umbrático é imediatamente reconhecível pelo tom de pele e pelos olhos fundos.
+
+### 7.5.2 Governo Fantoche — A Fachada Diplomática
+
+O governo oficial de Umbra existe apenas para manter aparências perante os outros 6 reinos e o Conselho dos 12:
+
+| Cargo | Titular | Aparência | Realidade |
+|-------|---------|-----------|-----------|
+| **En Nu Me** | **Varek Nythor** | Governante co-supremo de Nova Aetherion | Figurante — vigiado pelo Enviado Silente, completamente marginalizado |
+| **Conselho das Sombras** | 5 membros nomeados por Varek | Órgão consultivo | Fantoche — todos são fantoches do Culto ou do Sindicato |
+| **Magistrado-Chefe** | **Korvus Nythor** (sobrinho de Varek) | Judiciário | Executa as ordens do Culto disfarçadas de lei |
+| **Comandante da Guarda** | **Guarda-Capitão Torven** | Militar | Leal a Varek pessoalmente — o único militar honesto |
+
+### 7.5.3 Poder Real — O Culto de Nyxalor
+
+A verdadeira estrutura de poder de Umbra é dual: o Culto controla a população e a religião; os Nihilaryth (via Nihil Shid) controlam o Culto.
+
+**Nível 1 — O Véu (visível ao povo):**
+| Cargo | Titular | Descrição |
+|-------|---------|-----------|
+| **Sumo Sacerdote do Retorno** | **Malkor Sutai** | Fundador espiritual do Culto, 70+ valens. Pale, calvo, olhos negros como abismos. Nunca sorri. Transformou a fé em Nyxalor de seita marginal em religião estatal |
+| **Sacerdotisa da Noite Eterna** | **Velkora** | Segunda em comando do Culto. Mulher envolta em túnicas negras, rosto sempre coberto. Executa os rituais de possessão. Idade desconhecida |
+| **Cânticos do Silêncio** (3 sacerdotes) | Nominalmente: **Drenth**, **Ysara**, **Korrin** | Coordenam os templos noturnos, recrutam novos fiéis, mantêm a doutrina |
+
+**Nível 2 — O Punho (execução e controle):**
+| Cargo | Titular | Descrição |
+|-------|---------|-----------|
+| **Lugal Kur Gig** (Mestre do Gelo) | **Identidade desconhecida** | Líder do Sindicato do Gelo Negro. Possivelmente um Nihil Shid de alto escalão. Coordena assassinos, espionagem e sabotagem em todos os 7 reinos |
+| **Mão Esquerda** (sub-líder do Sindicato) | **Xyl'Morath** | Nihil Shid Gal — o Sussurrador do Fim. Opera em Nyxgiggal. Coordenador operacional do Sindicato |
+| **Sete Lâminas** | Identidades desconhecidas | Os 7 assassinos de elite do Sindicato. Cada um responsável por um reino-alvo |
+
+**Nível 3 — A Sombra (Nihilaryth):**
+| Entidade | Descrição |
+|----------|-----------|
+| **Mythra** ("A Que Espera") | Líder suprema dos Nihilaryth. Não é vista, mas seus sussurros guiam o Culto e o Sindicato |
+| **Vha-Korath** | Segundo líder Nihilaryth, em hibernação nas profundezas de Umbra. Não atua — mas sua existência é o segredo mais bem guardado do reino |
+| **Cascas** | Corpos etéricos preservados de hospedeiros consumidos. Estoque de "vasos" para Nihilaryth de alto escalão |
+
+### 7.5.4 Os Tar-Gig — Hierarquia da Ordem
+
+| Patente | Efetivo | Função |
+|---------|:-------:|--------|
+| **Velatrix** | 1 | Líder suprema (Selynis Thalassa) |
+| **Mão da Velatrix** | 2 | Adjuntos diretos — coordenam operações regionais |
+| **Tecelões-Mestres** | 12 | Operativos seniores — cada um responsável por uma região |
+| **Tecelões Plenos** | ~150 | Agentes operacionais ativos |
+| **Fios** (informantes) | ~2.000 | Olhos e ouvidos em todos os reinos |
+
+> **Nota:** Os Tar-Gig são INDEPENDENTES do Culto e do Sindicato. A Velatrix tolera ambas as organizações porque combatê-las abertamente revelaria sua rede. Mas os Tar-Gig sabotam operações do Sindicato sempre que podem.
+
+### 7.5.5 Genealogia Notável — Casa Nythor
+
+```
+Nythor (avô — morto em "acidente" nas minas, 30 valens atrás)
+    │
+    ├── Varek Nythor (En Nu Me — 48 valens, figurante)
+    │   ∞ Desconhecida (esposa morta — "febre do gelo", 15 valens atrás)
+    │   │
+    │   └── Nenhum herdeiro vivo — filhos morreram em "acidentes"
+    │       (suspeita: eliminados pelo Culto para enfraquecer a linhagem legítima)
+    │
+    └── Korvus Nythor (Magistrado-Chefe — 35 valens, sobrinho de Varek)
+        ∞ Sylva Nythor (nascida Drenth, da Casa Drenth — 33 valens)
+        │
+        ├── Thara Nythor (15 valens) — criada isolada no Kun Gal Uru
+        └── Nyxan Nythor (8 valens) — filho mais novo, doente crônico
+```
+
+### 7.5.6 Personagens Secundários Nomeados
+
+| Nome | Função | Descrição |
+|------|--------|-----------|
+| **Guarda-Capitão Torven** | Comandante da Guarda Cidadã | 55 valens. Um dos poucos militares honestos de Umbra. Leal a Varek, desconfia do Culto. Pele pálida, cicatriz de gelo na bochecha direita |
+| **Enviado Silente** | Guarda pessoal mudo de Varek | Na verdade vigia Varek, não o protege. Nunca fala. Rosto coberto por máscara de obsidiana. Gênero desconhecido |
+| **Anciã Nyxara** | Curandeira do Distrito das Brumas | 80+ valens. Única pessoa em Nyxgiggal que ainda se lembra dos ensinamentos de Ilyos. Mantém um refúgio secreto para perseguidos do Culto |
+| **Senhora Lyrna** | Administradora do Mercado Negro | 40 valens. Controla o comércio ilegal de Nyxgiggal. Neutra em relação ao Culto — desde que pague impostos |
+| **Drenth** (Sacerdote do Silêncio) | Um dos 3 Cânticos do Silêncio | 50 valens. O mais jovem dos três. Secretamente duvida da doutrina — mas o medo o paralisa |
+
+---
+
