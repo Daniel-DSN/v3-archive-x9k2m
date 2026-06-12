@@ -9,7 +9,7 @@
 
 | # | Arquivo | Conteúdo |
 |---|---------|----------|
-| 1 | [LORE_NIHILARYS.md](LORE_NIHILARYS.md) | Origem, queda e maldição dos Nihilarys. Líderes (Ur-Nyxal, Vha-Korath, Mytra). Parasitismo. Objetivo: o Fruto Primordial. |
+| 1 | [LORE_NIHILARYS.md](LORE_NIHILARYS.md) | Origem, queda e maldição dos Nihilaryth. Líderes (Ur-Nyxal, Vha-Korath, Mythra). Parasitismo. Objetivo: o Fruto Primordial. |
 | 2 | [LORE_SERAPHYENS_E_DESCENDENCIA.md](LORE_SERAPHYENS_E_DESCENDENCIA.md) | Os 10 Seraphyens. Myrrhiel (escudo de Ilyos), Elarys (fogo-sombra), Veridion (vento). Relações amorosas. Primeiros filhos (Mareth, Nymyra). Famílias descendentes (Marethyus, Nymyrias, Vorrath, Aelythar, Theryllis). |
 | 3 | [LORE_ALYNDRA_PRIMORDIAL.md](LORE_ALYNDRA_PRIMORDIAL.md) | Alyndra Primordial. Gravidez dos gêmeos (Ilyos + Nyxalor). Vislumbrar do futuro. Sacrifício via Yggorath. A semente e a linhagem até a protagonista. Timeline cronológica. |
 | 4 | [LORE_GUERRA_E_SELO.md](LORE_GUERRA_E_SELO.md) | A guerra dos irmãos. 4 fases (divisão, redenção, derrota, selamento). Cadeia de sacrifícios. Relações amorosas como motor. Problemas do Prólogo original resolvidos. Estrutura proposta para o Prólogo remodelado. |
@@ -31,19 +31,19 @@
 
 ## Resumo das Decisões desta Sessão
 
-### Lore dos Nihilarys
+### Lore dos Nihilaryth
 - Civilização primordial com tecnologia extrema
 - Alcançaram e cultivaram o Fruto Primordial
 - Viraram parasitas: drenavam aethra, canibalismo entre si
-- Ur-Nyxal (marido de Mytra) usou o Fruto → extinguiu-se → civilização condenada
+- Ur-Nyxal (marido de Mythra) usou o Fruto → extinguiu-se → civilização condenada
 - Maldição: seres transdimensionais sem corpo, consciências parasitas
-- Mytra = líder dos que restaram ("A Que Espera")
+- Mythra = líder dos que restaram ("A Que Espera")
 - Vha-Korath = segundo líder, hibernando, será encontrado por Alyndra
 
 ### Alyndra Primordial
 - Grávida de gêmeos (Ilyos e Nyxalor), morreu antes do nascimento
 - Gêmeos nasceram da semente
-- Vislumbrou o futuro, viu o passado de Mytra
+- Vislumbrou o futuro, viu o passado de Mythra
 - Escolheu renascimento via Yggorath (não aniquilação pura)
 - Essência flui pelas gerações → filha de Ayla (protagonista)
 
@@ -54,10 +54,10 @@
 - **Veridion ♂**: vento, último a partir, fundou Sylvaris
 
 ### Guerra
-- Nyxalor corrompido por Mytra, traiu Elarys
+- Nyxalor corrompido por Mythra, traiu Elarys
 - Seraphyens se dividiram (alguns enganados lutaram contra Ilyos)
 - Elarys percebeu traição → abriu olhos dos demais → uniram forças
-- Tarde demais: Mytra já dominou Nyxalor, deu-lhe armas
+- Tarde demais: Mythra já dominou Nyxalor, deu-lhe armas
 - Myrrhiel morreu por Ilyos → Ilyos concentrou aethra (insuficiente)
 - Elarys selou-se no corpo de Nyxalor → Ilyos fragmentou-se
 
