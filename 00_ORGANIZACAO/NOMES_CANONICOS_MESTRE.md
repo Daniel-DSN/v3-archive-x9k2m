@@ -276,7 +276,7 @@
 | Duri da Pedra | **Duri Kur Im** (𒁺𒊑𒆳𒅎) | Terraxis | "Filhos da Pedra da Montanha" |
 | Visionários da Convergência | **An Gal Shid** (𒀭𒃲𒋆) | Todos | "Profetas do Grande Céu" |
 | Culto do Abismo | **A Gig Kur** (𒀀𒈪𒆳) | Thalassia | "Culto das Águas Profundas" |
-| She-Zuris (Os Iluminados) | **She-Zuris** | Todos | "Os Iluminados" (já existente) |
+| Nihil Shid (Os Iluminados) | **Nihil Shid** (𒉌𒄭𒇻𒋆) | Todos | "Sussurradores do Vazio" — agentes humanos voluntários dos Nihilaryth |
 | Forjadores Silenciosos | **Simug Shid Im** (𒋜𒈥𒋆𒅎) | Pyralis | "Filhos Ferreiros do Silêncio" |
 
 ---
