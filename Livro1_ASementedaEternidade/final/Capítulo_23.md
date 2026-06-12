@@ -36,7 +36,7 @@ Depois chegou a terceira.
 
 Daress havia encontrado uma lista.
 
-Não um documento oficial — nada que os *She-Zuris*¹⁷ fossem descuidados o bastante para deixar em papel. Era um cristal de dados, escondido numa cavidade detrás de uma pedra solta¹⁸ na parede do templo, protegido por um selo de *aethra*¹⁹ que o próprio Daress quase não conseguiu romper. Dentro do cristal: nomes. Datas. Locais. Uma planilha de alvos, organizada com a precisão cirúrgica que era a assinatura dos *She-Zuris*¹⁷.
+Não um documento oficial — nada que os *Nihil Shid*¹⁷ fossem descuidados o bastante para deixar em papel. Era um cristal de dados, escondido numa cavidade detrás de uma pedra solta¹⁸ na parede do templo, protegido por um selo de *aethra*¹⁹ que o próprio Daress quase não conseguiu romper. Dentro do cristal: nomes. Datas. Locais. Uma planilha de alvos, organizada com a precisão cirúrgica que era a assinatura dos *Nihil Shid*¹⁷.
 
 Selynis percorreu a lista com os olhos. Nomes que não conhecia — homens, mulheres, crianças de vilas fronteiriças cuja existência era tão frágil que um sopro de burocracia bastava para apagá-las. Corpos sem raízes. Vidas sem testemunhas. O tipo de pessoa que o mundo já havia decidido esquecer.
 
@@ -54,7 +54,7 @@ Não pararam de tremer — Selynis não tremia. Pararam de *mover*. Como se o co
 
 *No topo*, ela pensou. *Não no meio. Não no fim. No topo.*
 
-Isso significava que Alyndra não era um alvo aleatório — um corpo a mais na corrente de desaparecidos que alimentava a máquina dos *She-Zuris*¹⁷. Era uma prioridade. Era o alvo. E se era o alvo, havia algo nela — naquela criança de olhos castanhos que praticava *cryonys*²³ sem saber que o fazia, que ouvia vozes nas nyxaras sem saber de onde vinham — que os *She-Zuris*¹⁷ queriam mais do que queriam qualquer outro corpo no continente.
+Isso significava que Alyndra não era um alvo aleatório — um corpo a mais na corrente de desaparecidos que alimentava a máquina dos *Nihil Shid*¹⁷. Era uma prioridade. Era o alvo. E se era o alvo, havia algo nela — naquela criança de olhos castanhos que praticava *cryonys*²³ sem saber que o fazia, que ouvia vozes nas nyxaras sem saber de onde vinham — que os *Nihil Shid*¹⁷ queriam mais do que queriam qualquer outro corpo no continente.
 
 Selynis reativou os dedos. Digitou uma sequência de comandos na mesa de vidro negro. As imagens mudaram — o mapa de rotas desapareceu, substituído por um rosto: o rosto de Alyndra, capturado por um cristal de observação há quatro meses, quando Selynis ainda acreditava que poderia manter o orfanato fora do radar.
 
@@ -176,7 +176,7 @@ Thaloris estava sentado na borda da cama, com a taça de vinho âmbar de *Aeriva
 
 — Fale — Thaloris disse.
 
-— Você solicitou uma reunião com o contato dos *She-Zuris*¹⁷. Nas ruínas do Templo de *Ventus*⁴³. — Vethran não fez isso como pergunta; fez como acusação. — Eu aconselho contra.
+— Você solicitou uma reunião com o contato dos *Nihil Shid*¹⁷. Nas ruínas do Templo de *Ventus*⁴³. — Vethran não fez isso como pergunta; fez como acusação. — Eu aconselho contra.
 
 — Eu sei.
 
@@ -335,7 +335,7 @@ Mas já se podia sentir o vento que a precedia.
 
 ¹⁶ **cargas fantasmas** — Termo não oficial para o tráfico de pessoas através das fronteiras sem registro.
 
-¹⁷ **She-Zuris** — Organização secreta que se autodenomina "Os Iluminados"; operam nas sombras do continente. Orquestram as cargas fantasmas e a rede de nihilarys.
+¹⁷ **Nihil Shid** — Organização secreta que se autodenomina "Os Iluminados"; operam nas sombras do continente. Orquestram as cargas fantasmas e a rede de nihilarys.
 
 ¹⁸ **pedra solta** — Elemento comum em construções antigas, usado aqui como ponto de ocultação de dados.
 
@@ -362,7 +362,7 @@ Mas já se podia sentir o vento que a precedia.
 
 ³⁰ **Velantis** — Cidade principal do interior de Sylvaris; onde se localiza o Orfanato Luminis.
 
-³¹ **nihilary / nihilarys** — Agentes dos She-Zuris; seres capazes de manipular escuridão e ausência.
+³¹ **nihilary / nihilarys** — Agentes dos Nihil Shid; seres capazes de manipular escuridão e ausência.
 
 ³² **Alara** — Período que corresponde à manhã em Alyndra.
 
@@ -375,7 +375,7 @@ Mas já se podia sentir o vento que a precedia.
 
 ³⁷ **Nyx** — A Menor das três luas de Alyndra; também o nome da lyrien prateada companheira de Alyndra.
 
-³⁸ **Thaloris Ventaris** — Lugal Lil de Sylvaris; o Senhor dos Ventos. Envolveu-se com os She-Zuris em troca de promessas de imortalidade.
+³⁸ **Thaloris Ventaris** — Lugal Lil de Sylvaris; o Senhor dos Ventos. Envolveu-se com os Nihil Shid em troca de promessas de imortalidade.
 
 ³⁹ **Vethran Noll** — Conselheiro-chefe de Thaloris; Mestre dos Sussurros de Sylvaris.
 
