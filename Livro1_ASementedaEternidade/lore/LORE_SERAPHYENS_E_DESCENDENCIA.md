@@ -85,8 +85,8 @@ A essência de Myrrhiel flui para Alyndra através da linhagem Marethyus. O "ág
 
 ### A trajetória de Elarys
 
-1. **Amava Nyxalor** — vínculo profundo, anterior à corrupção de Mytra.
-2. **Nyxalor a traiu** — escolheu Mytra e o poder em vez do amor.
+1. **Amava Nyxalor** — vínculo profundo, anterior à corrupção de Mythra.
+2. **Nyxalor a traiu** — escolheu Mythra e o poder em vez do amor.
 3. **Elarys foi manipulada** — lutou contra Ilyos ao lado de Nyxalor.
 4. **Percebeu a traição** — no meio do caminho, viu quem Nyxalor se tornou.
 5. **Abriu os olhos dos demais** — sua percepção fez os outros Seraphyens enganados se unirem a Ilyos.
@@ -146,7 +146,7 @@ Ilyos ♀ ←——amor mútuo——→ Myrrhiel ♂
 Nyxalor ♂ ←——amor unilateral——→ Elarys ♀
    │                          │
    │  Irmão gêmeo de Ilyos     │  Seraphyen, fogo-sombra
-   │  Corrompido por Mytra    │  Selou-se por Nyxalor
+   │  Corrompido por Mythra    │  Selou-se por Nyxalor
    │  Traiu Elarys            │  (amor mesmo após traição)
    │                          │
    └──────────相互──────────┘
@@ -230,12 +230,12 @@ Ilyos ♀ + Myrrhiel ♂
 
 ### Por que Alyndra é "a única candidata viável"
 
-Com 5 famílias sobreviventes, Alyndra não é a única descendente. Mas é **a candidata viável** para possessão por Mytra porque:
+Com 5 famílias sobreviventes, Alyndra não é a única descendente. Mas é **a candidata viável** para possessão por Mythra porque:
 
 - Os Marethyus são o **ramo mais puro** (menos diluição com mortais)
-- Outros membros das famílias podem ter sido **testados e descartados** pelos Nihilarys
+- Outros membros das famílias podem ter sido **testados e descartados** pelos Nihilaryth
 - Alyndra combina a **essência de Ilyos** (pelo sangue) com a **chama de Elarys** (pelo selo/herança)
-- Possivelmente outras famílias foram **caçadas** pelos Nihilarys ao longo das eras
+- Possivelmente outras famílias foram **caçadas** pelos Nihilaryth ao longo das eras
 
 *(Ajuste fino dessa justificativa pendente conforme desenvolvimento da trama)*
 
