@@ -477,7 +477,7 @@ Impaciência.
 
 ³² **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
 
-³³ **Thaloris Ventaris** — *Lugal Lil* de Sylvaris; "Senhor dos Ventos". Comprometido com os She-Zuris e as *cargas fantasmas*.
+³³ **Thaloris Ventaris** — *Lugal Lil* de Sylvaris; "Senhor dos Ventos". Comprometido com os Nihil Shid e as *cargas fantasmas*.
 
 ³⁴ **Palácio de Zephyra** — Residência oficial do Lugal Lil de Sylvaris; complexo de torres conectadas por pontes de vento.
 
