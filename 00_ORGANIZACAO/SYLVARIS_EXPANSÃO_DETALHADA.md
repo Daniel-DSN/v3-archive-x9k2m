@@ -192,7 +192,7 @@ Mas em vez de questionar a hierarquia, questionou a si mesmo: *"Sou digno deste 
 
 Se ele tivesse encontrado os escritos originais de Veridion com os 7 Pilares — se alguém os tivesse preservado — talvez tivesse percebido que a resposta não era imortalidade, mas **dissolução**: tornar-se parte do vento como Veridion, não como aberração.
 
-Mas ninguém preservou. E a busca por imortalidade (a maior distorção da Doutrina — a crença de que um indivíduo deve durar para sempre) o levou aos She-Zuris.
+Mas ninguém preservou. E a busca por imortalidade (a maior distorção da Doutrina — a crença de que um indivíduo deve durar para sempre) o levou aos Nihil Shid.
 
 ---
 
@@ -738,7 +738,7 @@ A Ilha dos Koramis representa **o último reduto da conexão original entre Sylv
 
 ### 17.2 A Queda do Conselho (Cronologia dos Capítulos)
 
-1. **7 nyras antes do Cap. 29:** Thaloris faz contato com os She-Zuris
+1. **7 nyras antes do Cap. 29:** Thaloris faz contato com os Nihil Shid
 2. **5 nyras antes:** Primeira carga fantasma (Vethran descobre, tenta impedir, falha)
 3. **3 nyras antes:** Casa Kaelvrym se alia a Thaloris (em troca de promessas de riqueza)
 4. **1 nyra antes:** Vethran confronta Thaloris — última discussão
@@ -774,14 +774,14 @@ Com a queda de Thaloris e a Casa Kaelvrym desmoralizada:
 
 Vethran Noll, como En Shid, sabe mais do que qualquer um sobre o que realmente aconteceu:
 - Sabe que Thaloris foi possuído
-- Sabe que os She-Zuris estão envolvidos
+- Sabe que os Nihil Shid estão envolvidos
 - Sabe que a Casa Kaelvrym traiu Sylvaris
 - Sabe que ele mesmo falhou em impedir
 
 Seu plano silencioso:
 1. Estabilizar o Conselho (manter as aparências)
 2. Proteger as crianças do Orfanato Luminis (especialmente Alyndra)
-3. Investigar os She-Zuris (usando sua rede de informantes)
+3. Investigar os Nihil Shid (usando sua rede de informantes)
 4. Encontrar os textos originais de Veridion (os Sussurradores do Vento (Shid Lil Im))
 5. **Restaurar os 7 Pilares das Leis de Ilyos** — não publicamente (morte certa), mas plantando sementes
 
@@ -845,7 +845,7 @@ Diferente de Umbra (onde os Nihilaryth infiltraram o governo abertamente), a inf
 
 1. **Cultura de Hierarquia** — Séculos de distanciamento dos ensinamentos de Ilyos criaram o terreno fértil
 2. **Desespero de Thaloris** — Medo da morte, desejo de imortalidade, vaidade de governante
-3. **Os She-Zuris** — A organização "Os Iluminados" serviu como ponte; prometeram imortalidade, entregaram possessão
+3. **Os Nihil Shid** — A organização "Os Iluminados" serviu como ponte; prometeram imortalidade, entregaram possessão
 4. **As Cargas Fantasmas** — Tráfico de pessoas talentosas (crianças com alto potencial de Aethra) alimentava os Nihilaryth
 
 ### 20.2 Quem Sabia em Sylvaris
@@ -911,7 +911,7 @@ Mencionado nos capítulos 9, 10 e 14:
 - Thaloris fez um discurso na Assembleia (cap. 14) sobre "o vento não conhecer fronteiras"
 - A torre de Zephyra foi a primeira a ser construída (junto com Sanctrum)
 - Sylvaris sediou a segunda torre de ressonância — "presente" de Thaloris ao povo
-- **Ironia:** Enquanto Thaloris discursava sobre união, ele já negociava com os She-Zuris
+- **Ironia:** Enquanto Thaloris discursava sobre união, ele já negociava com os Nihil Shid
 
 ---
 
@@ -966,7 +966,7 @@ Sabe que a maioria destes objetivos levará décadas — se é que algum dia ser
 | **Construção de Zephyra (~2.100 E.D.)** | Sete pilares erguidos; capital fundada |
 | **Criação do Culto a Ventus (~2.600 E.D.)** | Veridion reclassificado como deus; Edubba viram templos |
 | **Era de Thaloris Ventaris (4.058-4.103 E.D.)** | Governo de Thaloris |
-| **7 meses antes da queda** | Thaloris contata os She-Zuris |
+| **7 meses antes da queda** | Thaloris contata os Nihil Shid |
 | **Cap. 29 (4.103 E.D.)** | Thaloris possuído; aberração criada |
 | **Pós-queda (4.103 E.D. em diante)** | Sylvaris sem governante; Vethran como regente; guerra de influência |
 
