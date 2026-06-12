@@ -318,11 +318,11 @@ Vinte e três crianças. Dois meses. Um padrão que ninguém mais havia percebid
 
 O nome ecoou em sua mente com a ressonância de algo que ela conhecia há muito tempo. *Os Iluminados* — como o povo os chamava, com a ironia involuntária de quem nomeia o horror com a linguagem da esperança. Mas Selynis conhecia o nome verdadeiro, o nome que existia antes que o eufemismo o cobrisse como terra sobre um túmulo.
 
-*She-Zuris*²⁹.
+*Nihil Shid*²⁹.
 
 O grupo nihilário que a maioria dos estudiosos considerava uma lenda — um mito dos tempos de *Aetherion*¹⁴, algo que se contava para assustar crianças desobedientes, não algo que existisse na realidade dos sete reinos. Mas Selynis sabia. Sabia porque sua rede de informantes — tecida durante valens de paciência e silêncio — havia coletado fragmentos de evidência que, sozinhos, pareciam coincidências, e juntos, formavam um mosaico que ninguém queria olhar de frente.
 
-Os She-Zuris não eram uma lenda. Eram uma organização — antiga, metódica, paciente. Eram aqueles que acreditavam que a existência era um erro que precisava ser desfeito, que a *aethra*¹ que fluía pelos seres vivos era uma anomalia que deveria ser corrigida, e que as crianças com afinidade elemental — sementes de poder que ainda não haviam desabrochado — eram a prova viva de tudo que consideravam abominável.
+Os Nihil Shid não eram uma lenda. Eram uma organização — antiga, metódica, paciente. Eram aqueles que acreditavam que a existência era um erro que precisava ser desfeito, que a *aethra*¹ que fluía pelos seres vivos era uma anomalia que deveria ser corrigida, e que as crianças com afinidade elemental — sementes de poder que ainda não haviam desabrochado — eram a prova viva de tudo que consideravam abominável.
 
 E agora estavam colhendo essas sementes antes que nascessem.
 
@@ -334,7 +334,7 @@ E se o padrão dos desaparecimentos era coordenado — se havia uma operação a
 
 Tudo era a mesma coisa. A mesma teia. Os mesmos fios.
 
-E no centro dela — ou em algum ponto que ainda não era visível, mas que Selynis sentia como se pudesse tocá-lo — estava Alyndra. Uma menina de cinco valens cujo cryonys já havia se manifestado publicamente. Cujo nome era conhecido em todo o continente. Que era, para os She-Zuris, não apenas uma semente, mas a semente — a mais valiosa que poderiam imaginar.
+E no centro dela — ou em algum ponto que ainda não era visível, mas que Selynis sentia como se pudesse tocá-lo — estava Alyndra. Uma menina de cinco valens cujo cryonys já havia se manifestado publicamente. Cujo nome era conhecido em todo o continente. Que era, para os Nihil Shid, não apenas uma semente, mas a semente — a mais valiosa que poderiam imaginar.
 
 Selynis retirou de uma gaveta oculta um pequeno cilindro de latão — não um *receptor de ressonância*¹⁵ comum, mas um transmissor de frequência restrita, projetado para enviar mensagens em canais que a RRA oficial não alcançava.
 
@@ -430,7 +430,7 @@ E a escuridão, como sempre, não respondeu.
 
 ²⁸ **ante-aurion** — Período do dia correspondente à madrugada.
 
-²⁹ **She-Zuris** — Organização secreta que acredita que a *aethra* é uma anomalia e que crianças com afinidade elemental devem ser eliminadas. Conhecidos popularmente como "Os Iluminados".
+²⁹ **Nihil Shid** — Organização secreta que acredita que a *aethra* é uma anomalia e que crianças com afinidade elemental devem ser eliminadas. Conhecidos popularmente como "Os Iluminados".
 
 Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.
 
