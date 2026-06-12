@@ -143,6 +143,44 @@ Nyxalor é, para Mythra, uma **ferramenta**. Uma chama para queimar a porta. Dep
 
 ---
 
+## 2.1 Ur-Nyxal — O Senhor das Trevas Primordiais (Extinto)
+
+| Atributo | Detalhe |
+|----------|---------|
+| **Nome** | Ur-Nyxal (*Ur* = antigo/primordial, *Nyx* = sombra, *-al* = grandeza/liderança) |
+| **Gênero** | Masculino |
+| **Papel** | Grande líder dos Nihilaryth na primeira civilização |
+| **Relação** | Esposo de Mythra |
+| **Destino** | Usou o Fruto Primordial para poder infinito → **extinto** (não sobreviveu nem como imaterial) |
+| **Legado** | Sua decisão condenou toda a civilização Nihilary à maldição transdimensional |
+
+Ur-Nyxal foi o catalisador da queda. Ao usar o Fruto Primordial para alcançar imortalidade definitiva, violou a lei fundamental da existência: *"quem pede, tem que entregar. Principalmente se o que pede é mal e danoso à existência."* O resultado foi a extinção do plano material para toda a civilização Nihilary — todos se tornaram seres imateriais, transdimensionais, parasitas.
+
+> **Detalhe canônico:** Ur-Nyxal **não sobreviveu** ao uso do Fruto. Enquanto Mythra e outros Nihilaryth persistem como consciências parasitas, Ur-Nyxal foi completamente extinto.
+
+---
+
+## 2.2 Vha-Korath — O Coração Antigo (Hibernando)
+
+| Atributo | Detalhe |
+|----------|---------|
+| **Nome** | Vha-Korath (*Vha* = antigo/profundo, *Kor* = coração/cerne, *-ath* = agente) |
+| **Gênero** | Masculino |
+| **Papel** | Segundo líder Nihilary, lutou contra Alyndra Primordial |
+| **Idade** | Imemorial — tão antigo quanto Mythra |
+| **Status atual** | Espírito imaterial em **estado de hibernação** |
+| **Abandonado** | Pelos demais Nihilaryth que seguiram Mythra |
+| **Destino na trama** | Alyndra (protagonista) o encontra → ele conta a história dos Nihilaryth do lado dos perdedores |
+
+Vha-Korath é o contraponto à versão dos vencedores (Seraphyens). Sobreviveu à queda, lutou contra Alyndra Primordial e perdeu. Foi abandonado pelos demais Nihilaryth que preferiram seguir Mythra. Sua perspectiva é **a versão do perdedor** — um ser amargo pelo tempo, sapiente por ter vivido desde os primórdios, possivelmente redimido ou ainda ressentido.
+
+> **Nota narrativa:** Vha-Korath pode estar redimido pelo tempo ou ainda ressentido. Sua função na trama é contar a história dos Nihilaryth de uma perspectiva que nenhum Seraphyen contaria — revelando nuances que a versão oficial omite.
+
+> **Ver também:** Para a história completa da origem e queda dos Nihilaryth, veja [`LORE_NIHILARYS.md`](LORE_NIHILARYS.md).
+
+---
+
+
 ## 3. Vorynthrix — O Testemunha
 
 ### 3.1 Quem É Vorynthrix
