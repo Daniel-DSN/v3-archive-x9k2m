@@ -8,7 +8,9 @@
 
 ### 1.1 O que era
 
-Aertherion Primordial não existia neste mundo. Era uma civilização **em outra galáxia** — a **Galáxia Aetheria** — que atingiu o **Nível 2 na Escala de Kardashev**: capacidade de dominar e utilizar toda a energia de sua estrela. Cidades colossais orbitavam a estrela **Aurion** ao redor do quasar central. A engenharia etérica e a manipulação de Aethra eram ciências exatas, não misticismo. Os Seraphyens não eram deuses, mas os cientistas, engenheiros e líderes mais avançados dessa civilização.
+Aertherion Primordial não existia neste mundo. Era uma civilização **em outra galáxia** — a **Galáxia Aetheria** — que atingiu o **Nível 2 na Escala de Kardashev**: capacidade de dominar e utilizar toda a energia de sua estrela. Cidades colossais orbitavam a estrela **Aetheron** ao redor do quasar central. A engenharia etérica e a manipulação de Aethra eram ciências exatas, não misticismo. Os Seraphyens não eram deuses, mas os cientistas, engenheiros e líderes mais avançados dessa civilização.
+
+> **Nota onomástica:** A estrela da civilização primordial chamava-se **Aetheron**. A capital de Aetheria Prime chamava-se **Aurion**. Quando os sobreviventes fundaram a Nova Aetherion, o nome da capital primordial foi atribuído à estrela do novo mundo — um ato de memória involuntária. A "Aurion" que ilumina os Sete Reinos hoje não é a Aetheron primordial, mas carrega o seu eco no nome.
 
 Era uma civilização que compreendia a estrutura fundamental da realidade — capaz de moldar matéria, energia e até o tecido do espaço-tempo. O **Fruto da Existência**, encontrado no coração da Árvore Primordial, era a pedra angular de seu poder: um artefato cósmico capaz de realizar desejos e reconfigurar a realidade, porém com um custo proporcional à magnitude do desejo.
 
@@ -28,7 +30,7 @@ A nova galáxia não herdou a tecnologia Tipo 2. Herdou **fragmentos**:
 - **Ruínas Aertherianas** espalhadas por todos os reinos — fundações, torres de ressonância, estruturas que a civilização atual não consegue replicar
 - **Aetherite** — mineral que canaliza Aethra, usado de forma rudimentar pela civilização atual mas que nos tempos primordiais era manipulado com precisão cirúrgica
 - **O Fruto Corrompido** — fragmento que os Nihilaryth preservaram, plantado no Núcleo do Vazio sob Umbra
-- **Seraphyens** — os sete seres enviados a esta galáxia, portadores de conhecimento fragmentado da civilização original
+- **Seraphyens** — os dez seres enviados a esta galáxia (cinco da luz e cinco da sombra, um por elemento), portadores de conhecimento fragmentado da civilização original
 - **O Ilyos-Gir** — os ensinamentos deixados por Ilyos, que preservam princípios filosóficos mas não a tecnologia
 
 ---
@@ -45,8 +47,8 @@ A civilização atual dos Sete Reinos é uma **sobrevivente degradação**. Não
 |---------|---------------------------|----------------------|
 | **Energia** | Dominava a energia estelar inteira | Aetherite como combustível primitivo; madeira, carvão, força animal |
 | **Comunicação** | Transmissão instantânea por ressonância cósmica | RRA (rede de cristais, parcialmente compreendida); mensageiros a cavalo/Koramis |
-| **Transporte** | Manipulação do espaço-tempo | Cavalos, Urrak, navios, caravanas; torres voadoras de Fulmora (tecnologia parcial) |
-| **Medicina** | Regeneração celular, engenharia genética | Herbalismo, Aethra Grau IV como analgésico; plasma cirúrgico em Fulmora |
+| **Transporte** | Manipulação do espaço-tempo | Cavalos, Urrak, navios, caravanas; plataformas de plasma de Fulmora (tecnologia parcial) |
+| **Medicina** | Regeneração celular, engenharia genética | Herbalismo, Aetherite moída (Grau IV) como analgésico e suplemento; plasma cirúrgico em Fulmora |
 | **Materiais** | Matéria programável, Aetherite puro manipulado | Mineração rudimentar de Aetherite; forja de ferro e obsidiana |
 | **Armas** | Tecnologia etérica de destruição em escala | Espadas, martelos, arcos; canhões de plasma em Fulmora (tecnologia parcial) |
 | **Construção** | Cidades que orbitavam estrelas | Pedra, madeira, cristal; as Torres de Zephyra repousam sobre fundações primordiais |
@@ -63,9 +65,9 @@ Nova Aetherion não sofreu uma, mas **múltiplas catástrofes** ao longo de ~5.9
 
 3. **A Corrupção Nihilaryth** — Infiltração constante desde ~1.500 E.D. Os Nihilaryth não querem destruir a civilização abertamente — querem **mantê-la degradada**. Cada vez que um reino faz um avanço tecnológico significativo, agentes infiltrados sabotam, desacreditam ou redirecionam a pesquisa.
 
-4. **O Cisma da Aurora (~40 valens atrás em Sanctrum)** — Dividiu a Ordem Zagin, destruiu registros históricos e causou perda de conhecimento institucional.
+4. **O Cisma da Aurora (~40 valens atrás em Sanctrum)** — Conflito interno que ameaçou dividir a Ordem Zagin. Foi pacificado por Elara Lumivael, então En Me, mas não antes de destruir registros históricos e causar perda significativa de conhecimento institucional.
 
-5. **A Queda de Thaloris (recente, Sylvaris)** — O Lugal Lil foi possuído por Nihilaryth, destruindo a estabilidade política do reino mais ligado às tradições de Veridion.
+5. **A Queda de Thaloris (Sylvaris — evento futuro, pós-Livro I)** — O Lugal Lil será possuído por Nihilaryth, destruindo a estabilidade política do reino mais ligado às tradições de Veridion.
 
 6. **Amnésia Institucional** — Sanctrum deliberadamente reescreveu a história (Mestre Ouric supervisionou a censura de livros). Cada geração sabe menos que a anterior sobre a verdadeira origem do mundo.
 

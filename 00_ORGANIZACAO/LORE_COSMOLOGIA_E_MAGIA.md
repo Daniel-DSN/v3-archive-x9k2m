@@ -2071,7 +2071,7 @@ A queda de Aertherion ensinou verdades que ecoam até hoje:
 | **Matéria Programável** | Substância que podia ser moldada por pensamento. |
 | **Portal Quântico** | Dispositivo de viagem instantânea entre pontos. |
 | **Seraphyens Originais** | Os 10 governantes elementais de Aertherion (anteriores aos de Yggorath). |
-| **Sol Aetheris** | Estrela central que Aertherion circundava. |
+| **Aetheron** | Estrela central da Galáxia Aetheria que Aertherion circundava. O nome "Aurion" (estrela de Nova Aetherion) deriva da capital primordial, não desta estrela. |
 | **Trama Aetheris** | Rede de comunicação quântico-espiritual. |
 | **Yggorath** | General Suprema, irmã secreta de Alyndra. |
 
