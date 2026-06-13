@@ -1041,7 +1041,7 @@ Lyris vive sob duas identidades complementares: a **cuidadora** (Lyris, tutora n
 | **Nome verdadeiro** | **Lyris Vaelcoris** |
 | **Codinome operacional** | **Nyctara** ("A Sombra de Sanctrum" / "O fantasma que não deixa rastro" / "A Lenda Sombria") |
 | **Origem do codinome** | A *nyctara* (*Mushen Nin*) — corvídeo noturno imponente de Umbra cujas penas negras absorvem luz e que caça usando o *Sussurro Etérico* (lendo Aethra na névoa densa), sem precisar dos olhos. Lyris opera da mesma forma: invisível nas sombras, letal no escuro, silenciosa como a ave. |
-| **Idade** | Mais de 40 *valens* |
+| **Idade** | 43 *valens* (quando conheceu Alyndra, Cap 3) |
 | **Espécie** | Aetheriana |
 | **Povo/Origem** | Sylvari (nome tem raiz Emê-Gir: *Lyr* = lua marítima) |
 | **Afinidade Elemental** | **Thermaris** (Água + Fogo) — fusão elemental que gera vapor superaquecido, névoa e calor extremo |

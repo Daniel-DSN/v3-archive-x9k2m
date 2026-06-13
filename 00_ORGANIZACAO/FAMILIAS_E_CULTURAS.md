@@ -187,7 +187,7 @@ Os Sylvari valorizam o **silêncio e a liberdade** acima de tudo. Oferecer comid
 #### Vestimenta
 
 **Classe alta:** Vestes fluidas de veluma (tecido Sylvariano famoso — leve, brilhante). Cores: verde-prata, azul-céu, branco. Capas curtas que ondulam com o vento. Adornos de penas.
-**Classe média:** Roupas de linho tingido em tons de verde e marrom. Mantas leves de lã de lhama-andina.
+**Classe média:** Roupas de linho tingido em tons de verde e marrom. Mantas leves de lã de Velrok.
 **Classe baixa:** Roupas simples de algodão grosso. Cores terrosas. Sem adornos.
 **Traje formal:** Túnica longa de veluma com capa de penas de Koramis. Cinto trançado de seda de aranha.
 
@@ -363,7 +363,7 @@ Os Fulmori são **diretos e impacientes**. Rodeios são considerados perda de te
 
 #### Vestimenta
 
-**Classe alta:** Macacões técnicos de veluma azul-elétrico com fios de prata condutiva. Capas curtas de couro tratado. Óculos de proteção (mesmo quando não há risco).
+**Classe alta:** Trajes de trabalho de veluma azul-elétrico com fios de prata condutiva. Capas curtas de couro tratado. Óculos de proteção (mesmo quando não há risco).
 **Classe média:** Roupas de algodão grosso, práticas, com muitos bolsos. Cores: azul, cinza, marrom.
 **Classe baixa:** Roupas simples, remendadas. Muitos bolsos para ferramentas.
 **Traje formal:** Túnica de veluma com fios de prata, cinto de ferramentas cerimoniais (chaves de fenda, pinças, multímetros — todos de ouro ou prata).
@@ -444,7 +444,7 @@ O Culto de Nyxalor tem presença moderada (~5%), especialmente entre técnicos q
 - **Carne de Brasa:** Carne bovina ou de urrak grelhada em pedras vulcânicas aquecidas. Crosta preta por fora, suculenta por dentro. Temperada com sal negro e pimenta vulcânica.
 - **Pão de Cinzas:** Pão escuro, denso, assado nas cinzas quentes das forjas. Levemente amargo. Comido com mel ou banha.
 - **Ensopado do Fundo da Forja:** Caldo grosso de legumes e carne, cozido por 48 velares em panelas de ferro próximas às forjas. Rico, escuro, fumado.
-- **Vinho de Fogo:** Vinho tinto fermentado em barris de carvalho vulcânico. Alto teor alcoólico. Bebido quente — dizem que aquece o sangue para a batalha.
+- **Vinho de Fogo:** Vinho tinto fermentado em barris de Geshizidur. Alto teor alcoólico. Bebido quente — dizem que aquece o sangue para a batalha.
 - **Sal Negro:** Sal extraído das minas de obsidiana, moído e torrado. Sabor defumado, levemente picante.
 - **Fruta de Lava:** Fruta que cresce nas encostas vulcânicas. Casca grossa e preta, polpa vermelha e doce. Só é colhida com luvas de couro.
 

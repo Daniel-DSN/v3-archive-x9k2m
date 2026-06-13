@@ -30,7 +30,7 @@ O **Dingir-en** ("Torneio dos Deuses" no Emê-Gir antigo) é a maior competiçã
 
 ### 1.1 História
 
-O torneio foi instituído há **1.200 valens** pelos Seraphyens como forma de resolver disputas entre reinos sem guerra total. Originalmente, os campeões lutavam até a morte. Após a Queda dos Seraphyens, o torneio foi reformulado: a morte ainda é possível, mas não é o objetivo.
+O torneio foi instituído há **1.200 valens** pelos Seraphyens como forma de resolver disputas entre reinos sem guerra total. Originalmente, os campeões lutavam até a morte. Após a Queda de Aertherion, o torneio foi reformulado: a morte ainda é possível, mas não é o objetivo.
 
 ### 1.2 Formato
 
@@ -56,7 +56,7 @@ O torneio foi instituído há **1.200 valens** pelos Seraphyens como forma de re
 
 ### 1.4 O Círculo de Cristal (Jurados)
 
-O Círculo de Cristal é composto por **9 juízes** — um representante de cada reino, mais o En Me e o Mestre das Leis (En Nam). Eles julgam:
+O Círculo de Cristal é composto por **9 juízes** — um representante de cada reino, mais o En Me e o Mestre das Leis (Me Sha). Eles julgam:
 
 - **Poder bruto:** Capacidade de vencer combates
 - **Caráter:** Honra, compaixão, respeito às regras
@@ -323,7 +323,7 @@ Xyl'Morath, a Entidade Primordial do Vazio, não pode ser desafiada. Ela existe 
 | **Sanctrum (Conselho)** | Assentos I-X | Provas de Luz, concursos, votação | Variável por assento | 2-10 valens |
 | **Sylvaris** | Lugal Lil (Senhor dos Ventos) | Corrida dos Ventos | Hereditário + Desafio | A cada 3 valens |
 | **Thalassia** | Nin (Senhora das Águas) | Mergulho do Abismo | Matrilinear + Prova | A cada 4 valens |
-| **Fulmora** | Nin Nim (Senhora do Raio) | Teste do Relâmpago | Capacidade técnica | Anual |
+| **Fulmora** | Nin Nim | Teste do Relâmpago | Capacidade técnica | Anual |
 | **Pyralis** | Lugal Izi (Imperador) | Duelo da Forja | Primogenitura + Duelo | A cada 5 valens |
 | **Terraxis** | Lugal Ki (Senhor da Terra) | Prova do Mar-tu | Primogenitura + Conselho | A cada 3 valens |
 | **Umbra** | En Nu Me (Governante Vazio) | Ritual da Sombra (controlado) | Nomeação Nihilaryth | Anual (farsa) |

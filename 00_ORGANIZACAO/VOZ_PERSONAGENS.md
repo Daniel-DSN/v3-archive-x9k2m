@@ -144,8 +144,8 @@ Exemplos canônicos (manter):
 | **Nome verdadeiro** | Lyris |
 | **Codinome** | Nyctara — "A Sombra de Sanctrum" |
 | **Afiliação** | Agente aposentada dos Tar-Gig (unidade de elite da Ordem dos Guardiões) |
-| **Anos de serviço** | 32 valens |
-| **Idade estimada** | 50+ valens |
+| **Anos de serviço** | 20 valens |
+| **Idade estimada** | ~44 valens (43 quando conheceu Alyndra) |
 | **Aparência** | Cabelos grisalhos curtos, olhos verdes afiados, postura ereta |
 | **Dom elemental** | Thermaris (fusão Água+Fogo) |
 | **Traumas** | Carreira nas sombras; carência afetiva (*"nunca protegi algo que sorrisse"*); Alyndra como *espelho do seu passado* (ENREDO_LIVRO1_MASTER) |
@@ -274,7 +274,7 @@ Alyndra é a **única força** capaz de alterar o comportamento de Lyris. Não p
 
 ### A Inversão Ironicamente Bela
 
-Lyris passou 32 valens protegendo nada que sorrisse. Alyndra perdeu tudo e continua sorrindo (quando pode). A mulher que não conseguia se apegar encontra a criança que precisa de apego para sobreviver. **Alyndra depende de Lyris; Lyris passa a depender de Alyndra.** A dependência é mútua, mas se manifesta de formas opostas:
+Lyris passou 20 valens protegendo nada que sorrisse. Alyndra perdeu tudo e continua sorrindo (quando pode). A mulher que não conseguia se apegar encontra a criança que precisa de apego para sobreviver. **Alyndra depende de Lyris; Lyris passa a depender de Alyndra.** A dependência é mútua, mas se manifesta de formas opostas:
 
 - Alyndra: apego explícito, físico, verbal (*"Não vai embora, né?"*)
 - Lyris: apego negado, gestual, disfarçado de dever (*"Fica aqui."* — não é ordem, é pedido)

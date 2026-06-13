@@ -153,7 +153,7 @@
 - **Cap IV L251:** Lyris usa **fogo** na palma para aquecer água
 - **Cap VIII L193:** Lyris/Nyctara usa **thermaris** (Água+Fogo = vapor)
 - **Cap IX L297:** Lyris gera calor corporal intenso na estufa
-- **Análise:** Lyris demonstra capacidade de manipular fogo e água, mas sua afinidade elemental nunca é declarada formalmente. O Cap III L225 diz apenas "32 valens de serviço nos Tar-Gig".
+- **Análise:** Lyris demonstra capacidade de manipular fogo e água, mas sua afinidade elemental nunca é declarada formalmente. O Cap III L225 diz apenas "20 valens de serviço nos Tar-Gig".
 - **Severidade:** BAIXA — pode ser intencional (agente treinada domina múltiplos elementos)
 
 ### 5.4 ✅ CORRIGIDA — Sistema de possessão por Nihilarys

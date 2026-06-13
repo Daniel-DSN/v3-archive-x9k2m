@@ -140,7 +140,7 @@ Diferente de Sylvaris (culto a Ventus) ou Terraxis (contratos), a erosão em Ful
 Os 7 Pilares de Ilyos foram completamente despidos de sua dimensão ética e espiritual, convertendo-se em regulamentos de mérito técnico, patentes e leis mercantis:
 
 *   **Pilar I. Igualdade (*Sha Nim*):** Traduzido como "igualdade de oportunidade educacional". A sociedade fulmoriana orgulha-se de que qualquer pessoa, independentemente de nascimento, pode se submeter aos Exames Gerais de Aptidão. Contudo, na prática, a elite técnica que reside nos anéis superiores da Torre do Céu tem acesso a tutores e laboratórios avançados, criando uma disparidade intransponível. Os exames de patenteamento e classificação social são mercantilizados pelas grandes guildas.
-*   **Pilar III. Livre Arbítrio (*Nam Nim*):** Convertido no direito de propriedade intelectual e patenteamento. O livre arbítrio em Fulmora significa que qualquer inventor tem o direito exclusivo de lucrar com suas descobertas de Aethra, registrando diagramas técnicos na Cripta das Patentes. A liberdade tornou-se estritamente comercial.
+*   **Pilar III. Livre Arbítrio (*Nam Nim*):** Convertido no direito de propriedade intelectual e patenteamento. O livre arbítrio em Fulmora significa que qualquer inventor tem o direito exclusivo de lucrar com suas descobertas de Aethra, registrando diagramas técnicos na Arquivo de Patentes. A liberdade tornou-se estritamente comercial.
 *   **Pilar IV. Sacrifício pela Totalidade (*Gish Nim*):** Traduzido na obrigação de ceder 15% dos royalties de qualquer patente ao Fundo Geral de Pesquisa da Matriarca. O "sacrifício" é agora um imposto industrial que financia os experimentos das Torres Voadoras e instalações de plasma. Além disso, falhas operacionais que resultam em mortes de técnicos de baixa patente são justificadas como "baixas estatísticas inevitáveis em nome do progresso técnico global".
 *   **Pilar V. Conhecimento como Luz (*Zagin Nim*):** É o dogma central. A busca por dados empíricos substituiu qualquer questionamento moral. A ignorância não é apenas um erro — é uma infração civil. Aqueles que não conseguem alcançar a pontuação mínima nos testes anuais de Aethra são destituídos de suas funções técnicas e exilados para a Cidade-Sombra.
 *   **Pilar VII. Renovação (*Gibil Nim*):** Reduzido à obsolescência programada. A renovação não é a ciclicidade espiritual, mas a exigência constante de atualizar equipamentos e descarte de tecnologia considerada ultrapassada, gerando montanhas de sucata que cobrem a base do planalto.
@@ -268,7 +268,7 @@ Sua mãe, a Matriarca anterior (Vaelara), morreu em um **acidente de laboratóri
 | **Reforma do sistema de plasma** | Eficiência energética aumentou 300% em 5 valens |
 | **Criação da Academia de Inovação** | Formou 10.000 engenheiros em 20 valens |
 | **Apoio total à RRA** | Fulmora tornou-se o centro técnico da rede |
-| **Expansão das Torres Voadoras (Aga Nim)** | 5 novas torres construídas (3 planejadas) |
+| **Expansão das Torres de Repetição** | 5 novas torres construídas (3 planejadas) |
 | **Secularização do currículo** | Remoção de todas as referências espirituais das escolas técnicas |
 | **Política de Exílio Técnico** | Engenheiros que falham em projetos críticos são exilados da torre |
 
@@ -364,14 +364,14 @@ Os **Técnicos-Seraphyens (Nim Gush Im)** (*Nim Seraph* — "Técnicos do Conhec
 
 ### 7.2 Origens
 
-O grupo surgiu há ~200 valens, quando um engenheiro chamado **Valtheris Fulminor** (ancestral de Valtheris, criador da RRA) encontrou ruínas Aertherianas no Planalto Ionizado que continham **diagramas técnicos** que ele conseguiu decodificar.
+O grupo surgiu há ~200 valens, quando um engenheiro chamado **Valtheris Fulminor** (ancestral de Valtheris, o criador da RRA) encontrou ruínas Aertherianas no Planalto Ionizado que continham **diagramas técnicos** que ele conseguiu decodificar.
 
 Os diagramas mostravam:
 - Geradores de plasma mais eficientes que qualquer coisa que Fulmora tinha
 - Um sistema de comunicação baseado em pulsos de Aethra (valen Gal-e antes da RRA)
 - Inscrições que pareciam ser **conversas entre Seraphyens** — discutindo física, não teologia
 
-Valtheris concluiu que os Seraphyens eram engenheiros, não deuses. Fundou o movimento e começou a pregar.
+Valtheris Fulminor concluiu que os Seraphyens eram engenheiros, não deuses. Fundou o movimento e começou a pregar.
 
 ### 7.3 Crenças Princípiais
 
@@ -471,7 +471,7 @@ Vaela coletou. Os dados pioram a cada nyra.
 
 A **Rede de Ressonância de Aurion** foi:
 
-- **Idealizada por:** Valtheris (fulmori, gênio Técnico-Seraphyen)
+- **Idealizada por:** Valtheris (descendente de Valtheris Fulminor, criador da RRA)
 - **Construída por:** Engenheiros de Fulmora
 - **Financiada por:** Sanctrum (investimento maciço)
 - **Operada por:** Fulmora (hub central na Torre do Céu) + equipes locais em cada reino
@@ -776,10 +776,10 @@ A moda em Fulmora é **funcional e padronizada**:
 
 | Classe | Vestimenta | Material |
 |--------|------------|----------|
-| Técnicos (Nível 3) | Macacão azul-escuro com faixas refletivas | Algodão de Sylvaris (importado) |
-| Mestres (Nível 2) | Macacão prateado com detalhes em cristal | Algodão + fios de Aetherite |
+| Técnicos (Nível 3) | Traje de trabalho azul-escuro com faixas refletivas | Algodão de Sylvaris (importado) |
+| Mestres (Nível 2) | Traje de trabalho prateado com detalhes em cristal | Algodão + fios de Aetherite |
 | Gênios (Nível 1) | Túnica branca com bordados de plasma | Seda (importada) com fios de cobre |
-| Aprendizes (Nível 4) | Macacão cinza simples | Algodão grosso |
+| Aprendizes (Nível 4) | Traje de trabalho cinza simples | Algodão grosso |
 | Exilados (Cidade-Sombra) | Trapos, retalhos, uniformes roubados | Qualquer coisa |
 
 As cores oficiais de Fulmora são **azul-elétrico e prata** — presentes em bandeiras, uniformes e decoração.
@@ -879,7 +879,7 @@ Fulmora é governada por um **conselho tecnocrático** onde cargo é conquistado
 
 | Cargo | Titular | Função |
 |-------|---------|--------|
-| **Nin Nim** (Matriarca) | **Vaela Zerynthia** | Líder suprema. 58 valens. Inventora da RRA junto com Valtheris. Implacável na defesa do conhecimento. Descendente de Fulm. Cabelo grisalho penteado para trás, olhos azul-aço, nunca sorri em público |
+| **Nin Nim** (Matriarca) | **Zerynthia** | Líder suprema. 48 valens. Assumiu aos 18 após a morte da mãe (Vaelara) em acidente de laboratório. Inventora da melhoria do Gerador de Plasma Estabilizado. Implacável na defesa do conhecimento. Descendente de Fulm. Cabelo grisalho penteado para trás, olhos azul-aço, nunca sorri em público |
 | **Nim Seraph** (Vice-Meritíssimo) | **Conselheira Vela** | Segunda no comando. 52 valens. Especialista em comunicação e diplomacia. Rosto gentil, mas mente afiada. Gerencia as relações com os outros 6 reinos |
 | **Arquiteto-Chefe** | **Mestre Tronus** | Supervisor de toda engenharia e construção. 65 valens. Construiu as Torres de Repetição. Mão firme, olhar analítico. Considerado o terceiro homem mais inteligente de Nova Aetherion |
 | **Mestre da RRA** | **Valtheris** (En Gesh) | Criador da RRA. 45 valens. Não é fulmori nativo — veio de Sanctrum, mas foi adotado pela academia. Cabelo escuro, olhos castanhos, sempre com ferramentas nos bolsos |
@@ -911,16 +911,18 @@ Fulm (Seraphyen fundador — dissipado)
         │
         └── ... gerações ...
             │
-            ├── Vaela Zerynthia (Nin Nim — 58 valens)
+            ├── Zerynthia (Nin Nim — 48 valens)
             │   ∞ Consorte (falecido — "colapso de aetherite", 12 valens atrás)
+            │   │
+            │   ├── Vaela Zerynthia (28 valens — Engenheira-Chefe da RRA)
             │   │
             │   ├── Filho mais velho (falecido em acidente de laboratório, 5 valens atrás)
             │   │   └── Neto: Zeph Zerynthia (15 valens — estudante prodígio na Academia)
-            │   │
+            │
             │   └── Filha caçula: Lyra Zerynthia (20 valens — não confundir com Mestra Lyra)
             │       (Estudante de engenharia, ambiciosa, rival de Zeph)
             │
-            └── Irmã de Vaela: Thessa Zerynthia (54 valens)
+            └── Irmã de Zerynthia: Thessa Zerynthia (54 valens)
                 (Conselheira aposentada, vive na Cidade de Alvorada)
 ```
 
@@ -928,8 +930,8 @@ Fulm (Seraphyen fundador — dissipado)
 
 | Nome | Função | Descrição |
 |------|--------|-----------|
-| **Zeph Zerynthia** | Estudante prodígio | 15 valens. Neto de Vaela. Cabelo loiro-platinado, olhos azul-elétrico. Genial mas arrogante. Quer superar a avó |
-| **Thessa Zerynthia** | Conselheira aposentada | 54 valens. Irmã mais velha de Vaela. Vive em Alvorada. Mais diplomática que a irmã. Desconfia do quão rápido a tecnologia avança sem ética |
+| **Zeph Zerynthia** | Estudante prodígio | 15 valens. Neto de Zerynthia (filho do filho mais velho falecido). Cabelo loiro-platinado, olhos azul-elétrico. Genial mas arrogante. Quer superar a avó |
+| **Thessa Zerynthia** | Conselheira aposentada | 54 valens. Irmã mais velha de Zerynthia. Vive em Alvorada. Mais diplomática que a irmã. Desconfia do quão rápido a tecnologia avança sem ética |
 | **Cristal Mestre Orin** | Guardião do Arquivo Seraphyen | 70 valens. Único com acesso total aos textos primordiais na Torre do Céu. Memória fotográfica. Cego do olho esquerdo (acidente com cristal) |
 
 ---
@@ -1048,14 +1050,14 @@ Nos festivais, os fulmoris usam **trajes de gala** que brilham:
 
 A vida selvagem de Fulmora é adaptada ao ambiente ionizado:
 
-| Criatura | Descrição | Habitat |
-|----------|-----------|---------|
-| **Falcão-de-Plasma** | Ave de 2m de envergadura, plumagem azul-elétrica, caça em tempestades | Zona das Tormentas |
-| **Drako-de-Raio** | Lagarto de 1.5m, crista dorsal que brilha quando électrizado, alimenta-se de insetos atraídos por cargas | Planalto Ionizado |
-| **Besouro-Condutor** | Besouro de 10 cm, carapaça de cobre natural, usado em experimentos | Deserto de Sal |
-| **Lebre-Faísca** | Pequeno mamífero que solta fagulhas quando assustado; pelagem isolante | Colinas Verdes |
-| **Ave-Estática** | Ave de 30 cm, penas que acumulam carga estática; cantam em coro durante tempestades | Toda Fulmora |
-| **Gato-de-Plasma** | Pequeno felino de pelos finos que soltam fagulhas ao ser acariciado; animal de estimação popular | Torre do Céu (domesticado) |
+| Criatura | Emê-Gir | Descrição | Habitat |
+|----------|---------|-----------|---------|
+| **Falcão-de-Plasma** | Mushen Nim | Ave de 2m de envergadura, plumagem azul-elétrica, caça em tempestades | Zona das Tormentas |
+| **Drako-de-Raio** | Ur Nim Drak | Lagarto de 1.5m, crista dorsal que brilha quando électrizado, alimenta-se de insetos atraídos por cargas | Planalto Ionizado |
+| **Besouro-Condutor** | Gish Nim Ku | Besouro de 10 cm, carapaça de cobre natural, usado em experimentos | Deserto de Sal |
+| **Lebre-Faísca** | Ur Faiska | Pequeno mamífero que solta fagulhas quando assustado; pelagem isolante | Colinas Verdes |
+| **Ave-Estática** | Mushen Gal | Ave de 30 cm, penas que acumulam carga estática; cantam em coro durante tempestades | Toda Fulmora |
+| **Gato-de-Plasma** | Ur Nim Kesh | Pequeno felino de pelos finos que soltam fagulhas ao ser acariciado; animal de estimação popular | Torre do Céu (domesticado) |
 
 ### 15.7 A Música de Fulmora
 
@@ -1191,12 +1193,13 @@ Embora Fulmora seja o reino mais secular, **a espiritualidade não morreu comple
 | **~2.100 E.D.** | Torre do Céu reconstruída em aço e Aetherite |
 | **~2.600 E.D.** | Fundação da Academia de Inovação |
 | **~3.600 E.D.** | Primeiros contatos comerciais regulares com Sanctrum |
-| **~3.900 E.D.** | Valtheris nasce — futuro criador da RRA |
-| **~4.000 E.D.** | Valtheris decodifica ruínas Aertherianas; funda os Técnicos-Seraphyens |
+| **~3.900 E.D.** | Valtheris Fulminor nasce — futuro fundador dos Técnicos-Seraphyens |
+| **~4.000 E.D.** | Valtheris Fulminor decodifica ruínas Aertherianas; funda os Técnicos-Seraphyens |
+| **~4.058 E.D.** | Valtheris (descendente) nasce em Sanctrum — futuro criador da RRA |
 | **4.073 E.D.** | Zerynthia assume como Matriarca (18 valens) |
-| **4.093 E.D.** | Grande Prêmio de Inovação: Vaela (22) vence com estabilizador de pulso |
+| **4.093 E.D.** | Grande Prêmio de Inovação: Vaela (22) vence com estabilizador de pulso para RRA |
 | **4.098 E.D.** | RRA é aprovada pela Grande Assembleia (voto 8x1) |
-| **4.100 E.D.** | Valtheris morre em "acidente de laboratório" |
+| **4.100 E.D.** | Valtheris morre em "acidente de laboratório" (circunstâncias suspeitas) |
 | **4.101 E.D.** | Vaela detecta primeiras anomalias no G-9 |
 | **4.103 E.D. (Atualidade)** | G-9 superaquecendo, Aetherite Negra detectada, tensão crescente |
 
