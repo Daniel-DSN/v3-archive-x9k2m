@@ -294,9 +294,6 @@ Lyris passou 32 valens protegendo nada que sorrisse. Alyndra perdeu tudo e conti
 | "Olhos castanhos grandes" | Múltiplas | Variar descrição física |
 | Silêncio como resposta de Lyris | Múltiplas | Variar: pausa + gesto (ajustar capa, olhar pela janela) |
 
-### Problema da "Voz da Narradora"
-> Alyndra recebe falas com vocabulário poético da narradora. **A solução não é torná-la menos serena** — é tornar a serenidade mais **infantil e concreta**. Uma criança dócil aceita a morte em silêncio e abraça o corpo; não faz discurso teológico sobre "o outro lado".
-
 ---
 
 ## EVOLUÇÃO POR ARCO NARRATIVO
@@ -326,6 +323,9 @@ Lyris passou 32 valens protegendo nada que sorrisse. Alyndra perdeu tudo e conti
 ---
 
 ## NOTAS DE REVISÃO — AJUSTES PENDENTES NOS CAPS. 3–6
+
+### Nota do Autor: Problema da "Voz da Narradora"
+> Alyndra recebe falas com vocabulário poético da narradora. **A solução não é torná-la menos serena** — é tornar a serenidade mais **infantil e concreta**. Uma criança dócil aceita a morte em silêncio e abraça o corpo; não faz discurso teológico sobre "o outro lado". Esta nota orienta as revisões abaixo.
 
 ### Prioridade Alta
 
