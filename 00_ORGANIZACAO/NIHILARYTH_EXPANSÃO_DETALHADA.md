@@ -11,7 +11,7 @@
 ## ÍNDICE
 
 1. [O Que São os Nihilaryth](#1-o-que-sao-os-nihilaryth)
-2. [Mythra — O Engano (Nihil Shid Gal)](#2-mytra-o-engano)
+2. [Mytra — O Engano (She-Zuri Gal)](#2-mytra-o-engano)
 3. [Vorynthrix — O Testemunha](#3-vorynthrix-o-testemunha)
 4. [Xaryntha — A Sussurrante](#4-xaryntha-a-sussurrante)
 5. [A Hierarquia do Submundo](#5-a-hierarquia-do-submundo)
@@ -19,9 +19,9 @@
 7. [Os Portais Nihilaryth](#7-os-portais-nihilaryth)
 8. [A Corrupção — Como um Nihilaryth Corrompe](#8-a-corrupcao-como-um-nihilaryth-corrompe)
 9. [Possessão vs Sedução — Métodos de Controle](#9-possessao-vs-seducao-metodos-de-controle)
-10. [A Queda de Nyxalor — A Sedução de Mythra](#10-a-queda-de-nyxalor-a-seducao-de-mytra)
+10. [A Queda de Nyxalor — A Sedução de Mytra](#10-a-queda-de-nyxalor-a-seducao-de-mytra)
 11. [A Guerra Original — Ilyos e Elarys Selam Nyxalor](#11-a-guerra-original-ilyos-e-elarys-selam-nyxalor)
-12. [Os Nihil Shid — Os Iluminados](#12-os-Nihil Shid-os-iluminados)
+12. [Os She-Zuri — Os Iluminados](#12-os-She-Zuri-os-iluminados)
 13. [O Culto de Nyxalor — Relação com os Nihilaryth](#13-o-culto-de-nyxalor-relacao-com-os-nihilaryth)
 14. [Os Radicais de Nyxalor — Ferramentas Descartáveis](#14-os-radicais-de-nyxalor-ferramentas-descartaveis)
 15. [A Infiltração Atual por Reino](#15-a-infiltracao-atual-por-reino)
@@ -69,7 +69,7 @@ Os Nihilaryth não são todos iguais. Eles variam em poder, consciência e peric
 | **Ecos** | *Nihil Me* | 100-500 Æ | Centenas | Consciência formada. Podem possuir humanos, manifestar-se brevemente. |
 | **Devoradores** | *Nihil Kin* | 500-2.000 Æ | Dezenas | Caçadores. Consomem Aethra de vivos. Raramente manifestam-se, preferem Possessão. |
 | **Senhores do Vazio** | *Nihil An* | 2.000-10.000 Æ | ~12 | Elite. Consciência completa, estratégia, paciência. Lideram operações. |
-| **Três Líderes** | *Nihil Lugal* | 10.000-50.000 Æ | **3** | Mythra, Vorynthrix, Xaryntha. Fragmentos originais da civilização caída. |
+| **Três Líderes** | *Nihil Lugal* | 10.000-50.000 Æ | **3** | Mytra, Vorynthrix, Xaryntha. Fragmentos originais da civilização caída. |
 
 ### 1.4 A Fome
 
@@ -86,21 +86,21 @@ Quanto mais um Nihilaryth se alimenta, mais forte fica. E quanto mais forte fica
 
 ---
 
-## 2. Mythra — Nihil Shid Gal
+## 2. Mytra — She-Zuri Gal
 
-### 2.1 Quem É Mythra
+### 2.1 Quem É Mytra
 
-**Mythra** (em Emê-Gir: *"Aquela que Engana"*) é a líder suprema dos Nihilaryth e a entidade mais perigosa de Nova Aetherion. Foi ela quem:
+**Mytra** (em Emê-Gir: *"Aquela que Engana"*) é a líder suprema dos Nihilaryth e a entidade mais perigosa de Nova Aetherion. Foi ela quem:
 - Corrompeu Nyxalor ao longo de valen Gal-e de manipulação
 - Arquiteta a guerra secreta contra Nova Aetherion
 - Planeja a libertação de Nyxalor para "restaurar o equilíbrio"
 
-### 2.2 Ficha de Mythra
+### 2.2 Ficha de Mytra
 
 | Campo | Detalhe |
 |-------|---------|
-| **Nome** | Mythra |
-| **Título(s)** | Nihil Shid Gal, A Arquiteta da Queda, A Sombra Primeva |
+| **Nome** | Mytra |
+| **Título(s)** | She-Zuri Gal, A Arquiteta da Queda, A Sombra Primeva |
 | **Categoria** | Líder Nihilaryth (Nihil Lugal) |
 | **Poder estimado** | ~50.000 Æ |
 | **Idade** | Anterior à criação de Ilyos e Nyxalor |
@@ -110,13 +110,13 @@ Quanto mais um Nihilaryth se alimenta, mais forte fica. E quanto mais forte fica
 
 ### 2.3 Personalidade
 
-Mythra não é "má" no sentido humano. Ela é a **personificação do Engano** — não porque escolheu ser, mas porque é o que restou dela quando seu corpo foi destruído.
+Mytra não é "má" no sentido humano. Ela é a **personificação do Engano** — não porque escolheu ser, mas porque é o que restou dela quando seu corpo foi destruído.
 
 Sua psique é composta de:
-- **Paciência infinita:** Mythra planeja em escalas de milênios
+- **Paciência infinita:** Mytra planeja em escalas de milênios
 - **Frieza absoluta:** Ela não sente raiva, ódio ou vingança — apenas calcula
 - **Inteligência sobre-humana:** Previu a queda de Nyxalor, o selamento, a resistência de Aurelius — e planejou em volta de tudo
-- **Ausência de ego:** Mythra não se importa em ser conhecida, lembrada ou temida. Ela só quer resultados
+- **Ausência de ego:** Mytra não se importa em ser conhecida, lembrada ou temida. Ela só quer resultados
 
 Sua frase mais famosa (sussurrada a Nyxalor durante sua corrupção):
 
@@ -124,22 +124,22 @@ Sua frase mais famosa (sussurrada a Nyxalor durante sua corrupção):
 
 ### 2.4 O Papel na Corrupção de Nyxalor
 
-Mythra passou **valen Gal-e** corrompendo Nyxalor. Não foi um evento — foi um processo:
+Mytra passou **valen Gal-e** corrompendo Nyxalor. Não foi um evento — foi um processo:
 
-| Fase | Duração | O Que Mythra Fez |
+| Fase | Duração | O Que Mytra Fez |
 |:----:|:-------:|-----------------|
 | **1. Contato** | 100 valens | Sussurros ocasionais, plantando dúvidas sobre Ilyos |
 | **2. Amizade** | 200 valens | Apresentou-se como "conselheira"; Nyxalor não sabia que era um Nihilaryth |
 | **3. Dúvida** | 300 valens | "Ilyos te ama? Então por que ela recebe mais poder? Por que Yggorath a prefere?" |
 | **4. Ciúme** | 200 valens | Alimentou o ressentimento de Nyxalor contra Ilyos |
 | **5. Raiva** | 100 valens | "Eles vão te selar. Você sabe disso. Eles têm medo de você." |
-| **6. Corrupção** | 50 valens | Nyxalor aceitou o poder que Mythra oferecia — e se tornou seu instrumento |
+| **6. Corrupção** | 50 valens | Nyxalor aceitou o poder que Mytra oferecia — e se tornou seu instrumento |
 
-### 2.5 O Paradoxo de Mythra
+### 2.5 O Paradoxo de Mytra
 
-Mythra quer libertar Nyxalor — mas **não por amor**. Nyxalor, quando livre, será uma força de destruição tão grande que romperá as barreiras entre o Plano de Sombra e o mundo material, permitindo que os Nihilaryth retornem em massa.
+Mytra quer libertar Nyxalor — mas **não por amor**. Nyxalor, quando livre, será uma força de destruição tão grande que romperá as barreiras entre o Plano de Sombra e o mundo material, permitindo que os Nihilaryth retornem em massa.
 
-Nyxalor é, para Mythra, uma **ferramenta**. Uma chama para queimar a porta. Depois que a porta se abrir, Nyxalor será... redundante.
+Nyxalor é, para Mytra, uma **ferramenta**. Uma chama para queimar a porta. Depois que a porta se abrir, Nyxalor será... redundante.
 
 ---
 
@@ -150,13 +150,13 @@ Nyxalor é, para Mythra, uma **ferramenta**. Uma chama para queimar a porta. Dep
 | **Nome** | Ur-Nyxal (*Ur* = antigo/primordial, *Nyx* = sombra, *-al* = grandeza/liderança) |
 | **Gênero** | Masculino |
 | **Papel** | Grande líder dos Nihilaryth na primeira civilização |
-| **Relação** | Esposo de Mythra |
+| **Relação** | Esposo de Mytra |
 | **Destino** | Usou o Fruto Primordial para poder infinito → **extinto** (não sobreviveu nem como imaterial) |
 | **Legado** | Sua decisão condenou toda a civilização Nihilary à maldição transdimensional |
 
 Ur-Nyxal foi o catalisador da queda. Ao usar o Fruto Primordial para alcançar imortalidade definitiva, violou a lei fundamental da existência: *"quem pede, tem que entregar. Principalmente se o que pede é mal e danoso à existência."* O resultado foi a extinção do plano material para toda a civilização Nihilary — todos se tornaram seres imateriais, transdimensionais, parasitas.
 
-> **Detalhe canônico:** Ur-Nyxal **não sobreviveu** ao uso do Fruto. Enquanto Mythra e outros Nihilaryth persistem como consciências parasitas, Ur-Nyxal foi completamente extinto.
+> **Detalhe canônico:** Ur-Nyxal **não sobreviveu** ao uso do Fruto. Enquanto Mytra e outros Nihilaryth persistem como consciências parasitas, Ur-Nyxal foi completamente extinto.
 
 ---
 
@@ -167,12 +167,12 @@ Ur-Nyxal foi o catalisador da queda. Ao usar o Fruto Primordial para alcançar i
 | **Nome** | Vha-Korath (*Vha* = antigo/profundo, *Kor* = coração/cerne, *-ath* = agente) |
 | **Gênero** | Masculino |
 | **Papel** | Segundo líder Nihilary, lutou contra Alyndra Primordial |
-| **Idade** | Imemorial — tão antigo quanto Mythra |
+| **Idade** | Imemorial — tão antigo quanto Mytra |
 | **Status atual** | Espírito imaterial em **estado de hibernação** |
-| **Abandonado** | Pelos demais Nihilaryth que seguiram Mythra |
+| **Abandonado** | Pelos demais Nihilaryth que seguiram Mytra |
 | **Destino na trama** | Alyndra (protagonista) o encontra → ele conta a história dos Nihilaryth do lado dos perdedores |
 
-Vha-Korath é o contraponto à versão dos vencedores (Seraphyens). Sobreviveu à queda, lutou contra Alyndra Primordial e perdeu. Foi abandonado pelos demais Nihilaryth que preferiram seguir Mythra. Sua perspectiva é **a versão do perdedor** — um ser amargo pelo tempo, sapiente por ter vivido desde os primórdios, possivelmente redimido ou ainda ressentido.
+Vha-Korath é o contraponto à versão dos vencedores (Seraphyens). Sobreviveu à queda, lutou contra Alyndra Primordial e perdeu. Foi abandonado pelos demais Nihilaryth que preferiram seguir Mytra. Sua perspectiva é **a versão do perdedor** — um ser amargo pelo tempo, sapiente por ter vivido desde os primórdios, possivelmente redimido ou ainda ressentido.
 
 > **Nota narrativa:** Vha-Korath pode estar redimido pelo tempo ou ainda ressentido. Sua função na trama é contar a história dos Nihilaryth de uma perspectiva que nenhum Seraphyen contaria — revelando nuances que a versão oficial omite.
 
@@ -185,7 +185,7 @@ Vha-Korath é o contraponto à versão dos vencedores (Seraphyens). Sobreviveu �
 
 ### 3.1 Quem É Vorynthrix
 
-**Vorynthrix** (em Emê-Gir: *"Aquele que Tudo Vê"*) é o mais antigo dos três líderes Nihilaryth. Diferente de Mythra (ativa) e Xaryntha (infiltrada), Vorynthrix é **passivo** — ele apenas observa.
+**Vorynthrix** (em Emê-Gir: *"Aquele que Tudo Vê"*) é o mais antigo dos três líderes Nihilaryth. Diferente de Mytra (ativa) e Xaryntha (infiltrada), Vorynthrix é **passivo** — ele apenas observa.
 
 ### 3.2 Ficha de Vorynthrix
 
@@ -208,7 +208,7 @@ Vorynthrix é a **memória dos Nihilaryth**. Ele se lembra de tudo:
 - De cada alma que consumiram
 - De cada plano que fizeram
 
-Ele não participa das decisões de Mythra. Ele apenas **testemunha**. Quando Mythra quer saber o que aconteceu em uma situação similar no passado, ela consulta Vorynthrix.
+Ele não participa das decisões de Mytra. Ele apenas **testemunha**. Quando Mytra quer saber o que aconteceu em uma situação similar no passado, ela consulta Vorynthrix.
 
 ### 3.4 Por Que Ele Não Age
 
@@ -222,14 +222,14 @@ Diz-se que, às vezes, Vorynthrix sussurra profecias. Ele vê o futuro com a mes
 
 ### 4.1 Quem É Xaryntha
 
-**Xaryntha** (em Emê-Gir: *"Aquela que Sussurra"*) é a segunda no comando — a executora dos planos de Mythra. Enquanto Mythra planeja, Xaryntha **executa**.
+**Xaryntha** (em Emê-Gir: *"Aquela que Sussurra"*) é a segunda no comando — a executora dos planos de Mytra. Enquanto Mytra planeja, Xaryntha **executa**.
 
 ### 4.2 Ficha de Xaryntha
 
 | Campo | Detalhe |
 |-------|---------|
 | **Nome** | Xaryntha |
-| **Título(s)** | A Sussurrante, A Mão de Mythra (Kin Mythra), A Infiltradora |
+| **Título(s)** | A Sussurrante, A Mão de Mytra (Kin Mytra), A Infiltradora |
 | **Categoria** | Líder Nihilaryth (Nihil Lugal) |
 | **Poder estimado** | ~20.000 Æ |
 | **Idade** | Anterior aos Seraphyens |
@@ -245,13 +245,13 @@ Xaryntha é a especialista em **corrupção de mentes**. Ela:
 - Tece teias de engano que abrangem reinos inteiros
 - Mantém a lealdade do En Nu Me (Governante Vazio) de Umbra
 
-Ela é a responsável por todos os agentes humanos que servem aos Nihilaryth — os chamados **Nihil Shid** (Os Iluminados).
+Ela é a responsável por todos os agentes humanos que servem aos Nihilaryth — os chamados **She-Zuri** (Os Iluminados).
 
-### 4.4 Relação com Mythra
+### 4.4 Relação com Mytra
 
-Xaryntha é leal a Mythra — não por amor, mas por **pragmatismo**. Mythra é a única que pode libertá-los do Plano de Sombra. Xaryntha sabe que, sozinha, não tem poder para romper as barreiras.
+Xaryntha é leal a Mytra — não por amor, mas por **pragmatismo**. Mytra é a única que pode libertá-los do Plano de Sombra. Xaryntha sabe que, sozinha, não tem poder para romper as barreiras.
 
-Mas Xaryntha também **ambiciona o poder de Mythra**. Se Mythra cair, Xaryntha a substituirá. Ambas sabem disso. É uma tensão silenciosa que nunca se manifesta — porque Mythra é paciente demais para ser provocada, e Xaryntha é inteligente demais para tentar.
+Mas Xaryntha também **ambiciona o poder de Mytra**. Se Mytra cair, Xaryntha a substituirá. Ambas sabem disso. É uma tensão silenciosa que nunca se manifesta — porque Mytra é paciente demais para ser provocada, e Xaryntha é inteligente demais para tentar.
 
 ---
 
@@ -261,7 +261,7 @@ Mas Xaryntha também **ambiciona o poder de Mythra**. Se Mythra cair, Xaryntha a
 
 ```
 Conselho dos Três (Nihil En Nim)
-├── Mythra (Nihil Shid Gal) — Líder Suprema, Estrategista
+├── Mytra (She-Zuri Gal) — Líder Suprema, Estrategista
 ├── Vorynthrix (O Testemunha) — Memória, Profecias
 └── Xaryntha (A Sussurrante) — Executora, Infiltração
     │
@@ -295,7 +295,7 @@ Os doze Senhores do Vazio são os Nihilaryth mais poderosos abaixo do Conselho:
 | Senhor | Título | Função | Localização |
 |--------|--------|--------|:-----------:|
 | **Korr'Val** | O Primeiro Dedo | Comandante militar | Plano de Sombra |
-| **Zar'Vael** | A Lâmina | Executor pessoal de Mythra | Umbra |
+| **Zar'Vael** | A Lâmina | Executor pessoal de Mytra | Umbra |
 | **Nyx'Vael** | O Porteiro | Controlador dos Portais | Fenda do Norte |
 | **Thal'Mor** | O Semeador | Expansão de corrupção | Sylvaris |
 | **Pyra'Nihl** | O Braseiro Sombrio | Opera em zonas de calor | Pyralis |
@@ -345,16 +345,16 @@ O Plano de Sombra não é uniforme — tem camadas, como um oceano:
 | **1** | **Névoa dos Sussurros** | Camada superficial — onde Nihilaryth menores vagam; fácil acesso | Sussurros, Vigias Ocos |
 | **2** | **Galeria dos Ecos** | Memórias dos consumidos flutuam como bolhas | Ecos, almas presas |
 | **3** | **Planície do Esquecimento** | Vazio cinzento onde almas perdidas vagam sem rumo | Almas consumidas (inconscientes) |
-| **4** | **Sha Nihil** | Coração do Plano de Sombra — onde o Nihil En Nim reside | Mythra, Vorynthrix, Senhores |
-| **5** | **Jardim de Mythra** | Cultivado por Mythra — Rosas de Eternidade (almas aprisionadas) | Mythra, suas rosas |
+| **4** | **Sha Nihil** | Coração do Plano de Sombra — onde o Nihil En Nim reside | Mytra, Vorynthrix, Senhores |
+| **5** | **Jardim de Mytra** | Cultivado por Mytra — Rosas de Eternidade (almas aprisionadas) | Mytra, suas rosas |
 | **6** | **Abismo Final** | Desconhecido — nem os Senhores do Vazio descem lá | ??? |
 
-### 6.4 O Jardim de Mythra (Camada 5)
+### 6.4 O Jardim de Mytra (Camada 5)
 
-Na quinta camada do Plano de Sombra, Mythra cultiva um jardim:
+Na quinta camada do Plano de Sombra, Mytra cultiva um jardim:
 
-- **Rosas de Eternidade:** Flores negras que nunca murcham, cada uma contendo a essência de uma alma que Mythra consumiu
-- **Propósito:** Mythra conversa com as rosas, consultando as almas aprisionadas como oráculos
+- **Rosas de Eternidade:** Flores negras que nunca murcham, cada uma contendo a essência de uma alma que Mytra consumiu
+- **Propósito:** Mytra conversa com as rosas, consultando as almas aprisionadas como oráculos
 - **Número de rosas:** Milhares — cada uma é uma alma que ela consumiu pessoalmente
 
 ### 6.5 Por Que os Nihilaryth Querem Sair
@@ -497,7 +497,7 @@ Para corromper um reino inteiro, os Nihilaryth usam uma combinação:
 
 ---
 
-## 10. A Queda de Nyxalor — A Sedução de Mythra
+## 10. A Queda de Nyxalor — A Sedução de Mytra
 
 ### 10.1 Antes da Queda
 
@@ -512,9 +512,9 @@ Enquanto Ilyos construía e organizava, Nyxalor observava e questionava:
 
 Ilyos amava seu irmão, mas não o entendia. Nyxalor amava sua irmã, mas **ressentia** sua perfeição.
 
-### 10.2 A Chegada de Mythra
+### 10.2 A Chegada de Mytra
 
-Mythra encontrou Nyxalor em um momento de solidão. Ele estava nos confins do Jardim Imaterial, contemplando o vazio além da criação. Mythra se aproximou não como inimiga, mas como **conselheira**.
+Mytra encontrou Nyxalor em um momento de solidão. Ele estava nos confins do Jardim Imaterial, contemplando o vazio além da criação. Mytra se aproximou não como inimiga, mas como **conselheira**.
 
 Ela não disse: "Seja mau." Ela disse:
 - "Você tem razão em questionar."
@@ -523,19 +523,19 @@ Ela não disse: "Seja mau." Ela disse:
 
 ### 10.3 O Processo de Corrupção
 
-| Séc. | O Que Mythra Fez |
+| Séc. | O Que Mytra Fez |
 |:----:|-----------------|
-| **1** | Apenas ouviu. Nyxalor falava; Mythra escutava. Construiu confiança. |
+| **1** | Apenas ouviu. Nyxalor falava; Mytra escutava. Construiu confiança. |
 | **2** | Começou a concordar com as críticas de Nyxalor a Ilyos. "Você está certo, ela é autoritária." |
 | **3** | Apresentou-se como amiga. "Eu sou a única que te entende." |
 | **4** | Começou a sugerir que Ilyos planejava algo contra Nyxalor. "Por que ela está reunindo os Seraphyens sem você?" |
 | **5** | Ofereceu poder. "Eu posso te dar o que Ilyos nunca te deu: igualdade." |
-| **6** | Nyxalor aceitou o poder de Mythra. A corrupção começou. |
+| **6** | Nyxalor aceitou o poder de Mytra. A corrupção começou. |
 | **7** | Nyxalor atacou Ilyos. A guerra começou. |
 
 ### 10.4 O Momento de Decisão
 
-O momento exato em que Nyxalor caiu foi quando ele **aceitou o poder de Mythra** — não quando atacou Ilyos. O ataque foi consequência. A corrupção foi a aceitação.
+O momento exato em que Nyxalor caiu foi quando ele **aceitou o poder de Mytra** — não quando atacou Ilyos. O ataque foi consequência. A corrupção foi a aceitação.
 
 Ilyos percebeu tarde demais. Quando tentou salvar Nyxalor, ele já não queria ser salvo. Ele achava que estava **certo** — que Ilyos era a tirana, que ele era o libertador.
 
@@ -574,23 +574,23 @@ Ilyos e Elarys canalizaram **toda a sua essência** em uma única explosão de l
 - O corpo de Nyxalor está preso no Dingir-sar — mas sua **influência** ainda vaza através dos Portais Nihilaryth
 - A luz de Ilyos se espalhou pelo mundo, criando as luas **Aurion** (lua clara) e **Nyx** (lua azul)
 - Elarys foi completamente aniquilada — seu sacrifício foi total
-- Mythra escapou — retornou ao Plano de Sombra para planejar o próximo passo
+- Mytra escapou — retornou ao Plano de Sombra para planejar o próximo passo
 
 ---
 
-## 12. Os Nihil Shid — Os Iluminados
+## 12. Os She-Zuri — Os Iluminados
 
 ### 12.1 Quem São
 
-Os **Nihil Shid** (Emê-Gir: *"Aqueles que Sussurram na Sombra"*, também chamados de **Os Iluminados**) são agentes humanos que servem voluntariamente aos Nihilaryth.
+Os **She-Zuri** (também chamados de **Os Iluminados**) são agentes humanos que servem voluntariamente aos Nihilaryth. Em Emê-Gir, o termo antigo para estes agentes é *Nihil Shid* — "Aqueles que Sussurram na Sombra".
 
-Diferente das vítimas de possessão, os Nihil Shid **escolheram** servir — seduzidos por promessas de poder, imortalidade ou conhecimento.
+Diferente das vítimas de possessão, os She-Zuri **escolheram** servir — seduzidos por promessas de poder, imortalidade ou conhecimento.
 
 ### 12.2 Estrutura
 
 ```
 Sussurrador-Mor (líder — identidade secreta)
-├── Mestre Nihil Shid (12 — um por Senhor do Vazio)
+├── Mestre She-Zuri (12 — um por Senhor do Vazio)
 │   ├── Agentes de Alto Nível (conhecem o plano)
 │   │   ├── Agentes de Médio Nível (recebem ordens, não sabem o plano total)
 │   │   │   ├── Agentes de Baixo Nível (executam tarefas específicas)
@@ -601,7 +601,7 @@ Sussurrador-Mor (líder — identidade secreta)
 
 ### 12.3 Recrutamento
 
-Os Nihil Shid recrutam através de:
+Os She-Zuri recrutam através de:
 
 | Método | Descrição | Eficácia |
 |--------|-----------|:--------:|
@@ -613,7 +613,7 @@ Os Nihil Shid recrutam através de:
 
 ### 12.4 Infiltração Conhecida
 
-Nihil Shid estão infiltrados em todos os reinos:
+She-Zuri estão infiltrados em todos os reinos:
 
 | Reino | Agentes Conhecidos | Nível Máximo Alcançado |
 |-------|:------------------:|:----------------------:|
@@ -645,8 +645,8 @@ O Culto de Nyxalor e os Nihilaryth são **aliados**, mas não são a mesma coisa
 
 O Culto acredita que serve a Nyxalor — mas na verdade **serve aos Nihilaryth**.
 
-Mythra e Xaryntha nunca revelaram ao Culto que:
-- Nyxalor foi manipulado por Mythra
+Mytra e Xaryntha nunca revelaram ao Culto que:
+- Nyxalor foi manipulado por Mytra
 - Nyxalor não é o líder dos Nihilaryth — é uma ferramenta
 - O objetivo final não é libertar Nyxalor — é romper a barreira entre os planos
 
@@ -654,7 +654,7 @@ Se o Culto descobrisse que seu "deus" é uma marionete, muitos membros se voltar
 
 ### 13.3 O Sussurrador-Mor
 
-O **Sussurrador-Mor** é o líder humano do Culto — e é um **Nihil Shid** de altíssimo escalão. Ele conhece a verdade sobre os Nihilaryth e aceita-a. Sua identidade é o segredo mais bem guardado do Culto.
+O **Sussurrador-Mor** é o líder humano do Culto — e é um **She-Zuri** de altíssimo escalão. Ele conhece a verdade sobre os Nihilaryth e aceita-a. Sua identidade é o segredo mais bem guardado do Culto.
 
 Quem é? Especula-se:
 - Um membro do **Conselho dos 12** infiltrado
@@ -696,20 +696,20 @@ Os Radicais são chamados coletivamente de **Mão Negra**, e seus líderes receb
 | Reino | Nível de Infiltração | Principal Ameaça | Resistência |
 |-------|:--------------------:|------------------|:-----------:|
 | **Umbra** | **Crítico** (90%) | Portais ativos, governo controlado | **Baixa** — resistência fragmentada |
-| **Sylvaris** | **Alto** (40%) | Ex-Lugal corrompido, Nihil Shid no poder | **Média** — Vethran Noll ativo |
+| **Sylvaris** | **Alto** (40%) | Ex-Lugal corrompido, She-Zuri no poder | **Média** — Vethran Noll ativo |
 | **Pyralis** | **Médio** (15%) | Punho de Fogo, Vorath Negro | **Alta** — Ignar caça infiltrados |
-| **Sanctrum** | **Médio** (10%) | Nihil Shid no Conselho, Mulher de Branco | **Alta** — Aurelius sabe e monitora |
+| **Sanctrum** | **Médio** (10%) | She-Zuri no Conselho, Mulher de Branco | **Alta** — Aurelius sabe e monitora |
 | **Terraxis** | **Médio-Baixo** (8%) | Mineradores corrompidos, contrabando | **Média** — Torgath é vigilante |
 | **Fulmora** | **Baixo** (5%) | Técnicos infiltrados | **Baixa** — Zerynthia não percebe |
 | **Thalassia** | **Muito Baixo** (3%) | Ilhas remotas com cultistas | **Alta** — Kaelia isola ameaças |
 
 ### 15.2 A Mulher de Branco
 
-Uma figura misteriosa em Sanctrum — uma agente Nihil Shid de altíssimo escalão, possivelmente **Xaryntha** em casca humana. Ela:
+Uma figura misteriosa em Sanctrum — uma agente She-Zuri de altíssimo escalão, possivelmente **Xaryntha** em casca humana. Ela:
 - Circula entre a elite de Sanctrum
 - Nunca fala — apenas observa
 - Veste-se sempre de branco (contraste irônico com sua natureza)
-- É temida até mesmo por outros Nihil Shid
+- É temida até mesmo por outros She-Zuri
 
 ### 15.3 O Objetivo em Cada Reino
 
@@ -748,18 +748,18 @@ Se Nyxalor escapar do Dingir-sar:
 3. **Nihilaryth em Massa** — milhares de Nihilaryth atravessarão, possuindo corpos e criando um exército
 4. **Fim de Nova Aetherion** — a civilização como conhecida terminará
 
-### 16.3 O Que Mythra REALMENTE Quer
+### 16.3 O Que Mytra REALMENTE Quer
 
-Libertar Nyxalor não é o objetivo final de Mythra — é o **meio** para o objetivo final.
+Libertar Nyxalor não é o objetivo final de Mytra — é o **meio** para o objetivo final.
 
-O que Mythra realmente quer:
+O que Mytra realmente quer:
 - **Um corpo físico** — deixar de ser uma alma penada
 - **Existir** — não apenas sobreviver como fragmento
 - **Recriar** — usar o poder de Nyxalor para refazer o mundo à imagem dos Nihilaryth
 
 Nyxalor, quando libertado, será contido e **drenado** pelos Nihilaryth. Seu poder será usado para abrir uma fenda permanente entre os planos — não para libertar Nyxalor, mas para **libertar os Nihilaryth**.
 
-Mythra nunca contou isso a ninguém. Nem a Xaryntha. Nem a Vorynthrix. É o segredo final da Enganadora.
+Mytra nunca contou isso a ninguém. Nem a Xaryntha. Nem a Vorynthrix. É o segredo final da Enganadora.
 
 ---
 
@@ -788,7 +788,7 @@ Mythra nunca contou isso a ninguém. Nem a Xaryntha. Nem a Vorynthrix. É o segr
 
 | Nome | Título | Função |
 |------|--------|--------|
-| **Mythra** | Nihil Shid Gal | Líder suprema, estrategista |
+| **Mytra** | She-Zuri Gal | Líder suprema, estrategista |
 | **Vorynthrix** | O Testemunha | Memória, profecias |
 | **Xaryntha** | A Sussurrante | Executora, infiltração |
 
@@ -796,10 +796,10 @@ Mythra nunca contou isso a ninguém. Nem a Xaryntha. Nem a Vorynthrix. É o segr
 
 | Termo | Significado |
 |-------|-------------|
-| **Nihil Shid** | "Os Iluminados" — humanos que servem os Nihilaryth |
+| **She-Zuri** | "Os Iluminados" — humanos que servem os Nihilaryth. Em Emê-Gir: *Nihil Shid*. |
 | **Sussurrador-Mor** | Líder humano do Culto de Nyxalor |
 | **Enviado Silente** | Nihilaryth em casca humana (guarda do En Nu Me Varek Nythor) |
-| **Mulher de Branco** | Agente Nihil Shid de alto escalão em Sanctrum |
+| **Mulher de Branco** | Agente She-Zuri de alto escalão em Sanctrum |
 
 ### Conceitos
 
@@ -811,14 +811,14 @@ Mythra nunca contou isso a ninguém. Nem a Xaryntha. Nem a Vorynthrix. É o segr
 | **Possessão** | Controle total (forçado) |
 | **Sedução** | Controle parcial (voluntário) |
 | **Marca da Corrupção** | Sinais físicos de corrupção |
-| **Rosas de Eternidade** | Almas consumidas por Mythra, mantidas em flor |
+| **Rosas de Eternidade** | Almas consumidas por Mytra, mantidas em flor |
 
 ### Entidades Notáveis
 
 | Nome | Tipo | Função |
 |------|:----:|--------|
 | **Xyl'Morath** | Devorador | Invocado na Cidadela do Gélio; banido por Marethyus |
-| **Korr'Val Nihl** | Organização | Célula de Nihil Shid que opera sequestros |
+| **Korr'Val Nihl** | Organização | Célula de She-Zuri que opera sequestros |
 | **Malkor Sutai** | Humano | Líder da Korr'Val Nihl; invocou Xyl'Morath |
 
 ---
@@ -829,7 +829,7 @@ Os Nihilaryth não habitam cascas aleatórias. Quando um corpo é exumado e pres
 
 ### O Que São
 
-Cascas de Valor são corpos de indivíduos com **potencial etérico significativo** — guerreiros Seraphyen, *dumu* de linhagens puras, portadores de afinidades elementais raras — que são exumados por agentes Nihilaryth (Nihil Shid ou corrompidos locais) e mantidos em locais de preservação etérica conectados ao Plano das Sombras. O corpo não é possuído imediatamente; é *preparado*. A alma foi destruída há muito (ou nunca habitou o corpo de forma completa, como no caso de mortes por exaustão da canalização). O que resta é um vaso — limpo, forte, e carregado de ressonância etérica residual.
+Cascas de Valor são corpos de indivíduos com **potencial etérico significativo** — guerreiros Seraphyen, *dumu* de linhagens puras, portadores de afinidades elementais raras — que são exumados por agentes Nihilaryth (She-Zuri ou corrompidos locais) e mantidos em locais de preservação etérica conectados ao Plano das Sombras. O corpo não é possuído imediatamente; é *preparado*. A alma foi destruída há muito (ou nunca habitou o corpo de forma completa, como no caso de mortes por exaustão da canalização). O que resta é um vaso — limpo, forte, e carregado de ressonância etérica residual.
 
 ### Por Que Preservam
 
@@ -838,11 +838,11 @@ Cascas de Valor são corpos de indivíduos com **potencial etérico significativ
 | **Arsenal de Casca** | Um corpo Seraphyen pode suportar a manifestação de um Nihilaryth de categoria Devorador por períodos mais longos do que um corpo comum, que se deteriora em dias. |
 | **Instrumento Psicológico** | Se o corpo pertencia a alguém importante para um alvo vivo, usá-lo como casca é uma arma de desestabilização emocional. O Nihilaryth que habita a casca não finge ser a pessoa — o horror está justamente em que o rosto é familiar, mas o que habita dentro não é. |
 | **Experimento de Ressonância** | A ressonância etérica residual de corpos poderosos pode ser estudada e, potencialmente, replicada. Os Nihilaryth buscam entender como a *aethra* se organiza em linhagens puras. |
-| **Material para o Jardim** | Mythra coleciona "Rosas de Eternidade" — almas mantidas em flor. Corpos com alta ressonância podem servir de âncora para prender almas no Jardim de Rosas Eternas com mais eficiência. |
+| **Material para o Jardim** | Mytra coleciona "Rosas de Eternidade" — almas mantidas em flor. Corpos com alta ressonância podem servir de âncora para prender almas no Jardim de Rosas Eternas com mais eficiência. |
 
 ### O Processo
 
-1. **Identificação** — A Convergência Tripla de 4.098 E.D. emitiu uma assinatura etérica massiva que foi detectada pelos Nihilaryth. Levariam alguns anos para rastrear a fonte até Mespiria. A identificação do corpo como "mãe da Semente" exigiria acesso a informações da Câmara dos Sussurros — possivelmente através de Nihil Shid infiltrados.
+1. **Identificação** — A Convergência Tripla de 4.098 E.D. emitiu uma assinatura etérica massiva que foi detectada pelos Nihilaryth. Levariam alguns anos para rastrear a fonte até Mespiria. A identificação do corpo como "mãe da Semente" exigiria acesso a informações da Câmara dos Sussurros — possivelmente através de She-Zuri infiltrados.
 
 2. **Exumação** — Executada por agentes locais com conhecimento preciso da localização. A terra é removida com cuidado cirúrgico; itens superficiais (flores, marcadores) são deixados intactos para não levantar suspeitas imediatas. O corpo é transportado em receptáculos de preservação etérica.
 
@@ -857,7 +857,7 @@ O corpo de Ayla Marethyus — Dumu Nin de Thalassia, ex-guerreira da Kalúdris, 
 **Status atual:** Desconhecido. Presumivelmente preservado em local de poder Nihilaryth, aguardando o momento estratégico de habilitação.
 
 **Implicações:**
-- Se os Nihilaryth descobriram que Ayla era mãe de Alyndra, isso significa que têm acesso a informações sobre a linhagem da Semente — possivelmente através de Nihil Shid na Câmara dos Sussurros.
+- Se os Nihilaryth descobriram que Ayla era mãe de Alyndra, isso significa que têm acesso a informações sobre a linhagem da Semente — possivelmente através de She-Zuri na Câmara dos Sussurros.
 - A habilitação da casca como arma psicológica contra Alyndra seria devastadora: Alyndra nunca viu o rosto da mãe. Encontrá-lo pela primeira vez preenchido por um parasita seria a profanação definitiva.
 - A bênção de Elara no enterro (Cap 2) operava sobre a alma de Ayla — não sobre seu corpo. A profanação da casca não invalida a bênção.
 
@@ -880,20 +880,20 @@ O corpo de Ayla Marethyus — Dumu Nin de Thalassia, ex-guerreira da Kalúdris, 
 | Data | Evento |
 |:----:|--------|
 | **~Pre-5.500 a.D.** | Yggorath cria Ilyos e Nyxalor; Seraphyens nascem |
-| **~4.500 a.D.** | Mythra emerge do Plano de Sombra; começa a observar Nyxalor |
-| **~3.500 a.D.** | Primeiro contato de Mythra com Nyxalor (como "conselheira") |
-| **~1.500 a.D.** | Mythra começa a semear dúvida em Nyxalor sobre Ilyos |
+| **~4.500 a.D.** | Mytra emerge do Plano de Sombra; começa a observar Nyxalor |
+| **~3.500 a.D.** | Primeiro contato de Mytra com Nyxalor (como "conselheira") |
+| **~1.500 a.D.** | Mytra começa a semear dúvida em Nyxalor sobre Ilyos |
 
 ### Era da Queda
 
 | Data | Evento |
 |:----:|--------|
 | **~1.000 a.D.** | Nyxalor começa a questionar Ilyos abertamente |
-| **~700 a.D.** | Mythra oferece poder a Nyxalor; ele aceita |
+| **~700 a.D.** | Mytra oferece poder a Nyxalor; ele aceita |
 | **~500 a.D.** | Guerra entre Ilyos e Nyxalor começa |
 | **~300 a.D.** | Milhões morrem; continente é remodelado |
 | **Ano 1 E.D.** | Ilyos e Elarys selam Nyxalor; ambos se sacrificam |
-| **Ano 1 E.D.** | Mythra foge de volta ao Plano de Sombra |
+| **Ano 1 E.D.** | Mytra foge de volta ao Plano de Sombra |
 
 ### Era de Dingir-sar (E.D.)
 
@@ -903,9 +903,9 @@ O corpo de Ayla Marethyus — Dumu Nin de Thalassia, ex-guerreira da Kalúdris, 
 | **~300 E.D.** | Primeiros sussurros Nihilaryth chegam a Umbra |
 | **~500 E.D.** | Fundação do Culto de Nyxalor (influência de Xaryntha) |
 | **~1.200 E.D.** | Primeiros Portais Nihilaryth abertos em Umbra |
-| **~1.500 E.D.** | Primeiros Nihil Shid infiltrados em Sanctrum |
+| **~1.500 E.D.** | Primeiros She-Zuri infiltrados em Sanctrum |
 | **~2.000 E.D.** | Infiltração Nihilaryth em Sylvaris começa |
-| **~2.500 E.D.** | Vorath Negro contata Nihil Shid em Pyralis |
+| **~2.500 E.D.** | Vorath Negro contata She-Zuri em Pyralis |
 | **4.098 E.D.** | 8ª Convergência Tripla — nascimento de Alyndra |
 | **4.101 E.D.** | Thaloris Ventaris é possuído no Templo de Ventus |
 | **4.102 E.D.** | Malkor Sutai invoca Xyl'Morath na Cidadela do Gélio |
@@ -914,5 +914,5 @@ O corpo de Ayla Marethyus — Dumu Nin de Thalassia, ex-guerreira da Kalúdris, 
 ---
 
 > **Documento criado em:** 31 de Maius de 2026
-> **Canonicidade:** Complementa `LORE_COSMOLOGIA_E_MAGIA.md` (cosmologia, origem Nihilaryth), `RELIGIOES_E_FILOSOFIAS.md` (Culto de Nyxalor, Nihil Shid), `PERSONAGENS_MASTER.md` (Mythra, Xaryntha, Vorynthrix, Xyl'Morath)
+> **Canonicidade:** Complementa `LORE_COSMOLOGIA_E_MAGIA.md` (cosmologia, origem Nihilaryth), `RELIGIOES_E_FILOSOFIAS.md` (Culto de Nyxalor, She-Zuri), `PERSONAGENS_MASTER.md` (Mytra, Xaryntha, Vorynthrix, Xyl'Morath)
 > **Em caso de conflito, prevalece LORE_COSMOLOGIA_E_MAGIA.md** como fonte primária de cosmologia.
