@@ -34,7 +34,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 | **Gig** | 𒈪 | Negro, escuro, sombra profunda | *Uru Gig* (Cidade-Sombra de Fulmora), *Nin Gig* (Vigia) |
 | **Gibil** | 铢𒁉𒇻 | Fogo, renovação, queima | *Zagin Gibil* (Renovação da Luz), *Lil Gibil* (Ventos) |
 | **Gish** | 𒄑 | Árvore, madeira, justiça primordial | *Gish Simug* (Duelo da Forja/Ferreiro) |
-| **Simug** |  probablement | Ferreiro, forjador, modelador | *Simug Shid* (Forjadores Silenciosos de Pyralis) |
+| **Simug** | 𒋢 | Ferreiro, forjador, modelador | *Simug Shid* (Forjadores Silenciosos de Pyralis) |
 | **Gush** | 𒄖𒌌 | Sábio, entendido, ancião de ofício | *Gush Lil* (Mestres de Vento em Sylvaris) |
 | **Shid** | 𒋆 | Sussurro, contar, história, silêncio | *En Shid* (Mestre dos Sussurros em Sylvaris) |
 | **Sha** | 𒊭 | Coração, centro, equilíbrio | *Sha Thalassia* (Coração de Thalassia) |
@@ -47,7 +47,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 | **Im** | 𒅎 | Filho, descendente, variante regional | *Shid Im* (Os Silenciosos de Sylvaris) |
 | **A** | 𒀀 | Água, mar, fluxo | *En Me A* (Templários de Thalassia) |
 | **Isi** | 𒅆 | Olho, vigilância, visão | *Ukam Isi* (A Velatrix / Olhos da Sombria Selynis) |
-| **Gal** | 𒃲 | Grande, supremo | *En A Gal* (Almirante-Mor de Thalassia) |
+| **Gal** | 𒃲 | Grande, supremo; a Grande Luz (líder da Ordem Zagin) | *En A Gal* (Almirante-Mor de Thalassia), *Gal Zagin* (A Grande Luz) |
 | **Ush** | 𒍑 | Morte, sangue, ossos | *Ush A Kur* (Costa/Praia dos Ossos em Umbra) |
 | **Dumu** | 𒌉 | Filho, herdeiro, broto de linhagem | *Dumu En Me Du* (Guardião-Novato) |
 | **Kun** | 𒆭 | Ofício, arte, habilidade técnica | *En Dur Kun* (Conselho dos Contratos de Terraxis) |
@@ -66,7 +66,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 | **Thalassia** | *Nin A* | 𒊩𒆪𒀀 | **Kaelia Marethyus** (Rainha de Thalassia) |
 | **Thalassia** | *En A Gal* | 𒂗𒀀𒃲 | Almirante-Mor (Comando da Frota de Cristal) |
 | **Terraxis** | *Lugal Ki* | 𒈗𒆠 | **Torgath Duro** (Lorde de Terraxis) |
-| **Terraxis** | *Galamar Kun* | — | Mestre de Ofício da Guilda dos Ferreiros |
+| **Terraxis** | *Galamar Kun* | Galamar Kun | Mestre de Ofício da Guilda dos Ferreiros. "Galamar" é o nome da guilda; "Kun" (𒆭) designa o ofício supremo. |
 | **Fulmora** | *Nin Nim* | 𒊩𒆪𒉏 | **Zerynthia** (Matriarca dos Raios) |
 | **Pyralis** | *Lugal Izi* | 𒈗𒉈𒍣 | **Ignar Vulkarys** (Imperador do Fogo) |
 | **Umbra** | *En Nu Me* | 𒈗𒉡𒈨 | **Varek Nythor** (Lord-Sombra / Vazio). Título do co-governante de Umbra. Constitucionalmente equivalente ao En Me de Sanctrum, embora na prática seu poder esteja reduzido pela marginalização política de Umbra. |
@@ -81,7 +81,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 
 ---
 
-### 1.3 Formas de Tratamento e Títulos Honoríficos
+### 1.4 Formas de Tratamento e Títulos Honoríficos
 
 | Termo | Significado | Contexto de Uso |
 |:---|:---|:---|
@@ -119,7 +119,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 | **café** | `chá de Giralis` | Infusão quente de flores secas de Giralis tomada no desjejum. |
 | **café da manhã** | `desjejum` / `primeira refeição` | Primeira refeição do ciclo de Aurion. |
 | **almoço** | `refeição do meio-dia` | Refeição realizada no zênite solar. |
-| **cerveja / bebida destilada** | `bebida fermentada` / `hidromel` | Evitar referências terrestres como cervejas e conhaques. |
+| **cerveja / bebida destilada** | `hidromel` / `cerveja de Aethrys` | Evitar referências terrestres como cervejas e conhaques. Usar "hidromel" para bebida genérica de festas e estalagens; "cerveja de Aethrys" quando o contexto exigir especificidade. |
 | **taverna** | `estalagem` | Local de abrigo de viajantes e consumo de hidromel. |
 | **xícara** | `caneca` | Utensílio feito de argila, barro ou madeira esculpida. |
 | **abóbora / cenoura** | `Lumiara` | Legume bioluminescente amarelo-alaranjado rico em Aethra. |
@@ -166,7 +166,6 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 
 ### 3.1 Sylvaris (Reino dos Ventos)
 
-*   **Idade de Nyx:** Lyrien vivo com pelagem prateada com afinidade elemental de cryonys.
 *   **Koramis (Mushen Kora):** Ave gigante de montaria com asas de 10 passos de envergadura e penas cromáticas. Símbolo do exército aéreo de Sylvaris. A variedade negra (*Koramis-Negro*) é de uso militar de elite.
 *   **Velrok (Ur Vel):** Mamífero de pelagem prateada, dócil, domesticado para leite, lã, carga e montaria terrestre. O animal doméstico mais comum do planeta.
 *   **Lyrien (Ur Lil):** Felino etérico com olhos dourados e pelagem prateada. Domesticável, atua como companheiro empático (ex: Nyx).
@@ -177,7 +176,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 ### 3.2 Sanctrum (Reino da Luz)
 
 *   **Zaginanna (Ur Zagin Nanna):** Cervídeo majestoso cujos chifres emitem luz dourada e constante. Habita a sagrada Floresta dos Sussurros.
-*   **Aethronis (Mushen Zagin):** Garça de penas douradas que habita as margens do Lago dos Espelhos. Reage a variações no nível de aethra do ambiente.
+*   **Azagigal (Mushen A Zagin):** Garça alta (1,2 m) de penas brancas que habita as margens do Lago dos Espelhos. Caça peixes em águas rasas.
 *   **Luz-d'Erva (Gir Zagin):** Flor dourada cujas raízes acumulam aethra puro. Usada pelos curandeiros da Ordem para purificação.
 
 ### 3.3 Thalassia (Reino das Águas)
@@ -194,7 +193,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 
 ### 3.5 Fulmora (Reino dos Raios)
 
-*   **Tempestade-Falcão (Mushen Nim):** Raposa voadora de asas membranosas que se alimenta de plasma estático no Planalto Ionizado.
+*   **Nimvenur (Ur Nim Ven):** Raposa de cauda que acumula energia estática, brilhando no escuro. Muito inteligente. Habita o Planalto Ionizado e a Torre do Céu.
 *   **Aethris-Vivo (Aethris Zi):** Formação de cristal senciente que cresce em fendas ionizadas. Reage a ondas de rádio e RRA.
 
 ### 3.6 Pyralis (Reino do Fogo)
@@ -204,6 +203,6 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 
 ### 3.7 Umbra (Reino das Sombras)
 
-*   **Cryonys-Lupino (Ur Gig):** Canídeo de pelo cinza-escuro com garras cobertas por cristais de gelo negro (*cryonys*). Muito agressivo.
-*   **Lobo-da-Tundra (Ur Gig Kur):** Canídeo predador das montanhas de gelo eterno de Umbra.
-*   **Sombra-Grama (Gir Gig):** Musgo escuro que cresce sobre o gelo e absorve a fraca luz de Aurion que alcança o reino.
+*   **Giggalur (Ur Gig Gal):** Canídeo de grande porte, pelagem negra que parece se fundir com a escuridão. Domesticado pelo Sindicato como caçador e guardião. Habita toda Umbra.
+*   **Gigbabbar (Ur Gig Babbar):** Variedade rara de lobo-branco de pelagem branca e olhos azuis. Caça na neve nas montanhas de gelo eterno de Umbra.
+*   **Musgo-Sem-Som (Gir Gig Shal):** Musgo felpudo que cresce sobre rochas e gelo. Amortece completamente o som — usado para isolar salas nas cavernas da Cidadela.
