@@ -45,7 +45,7 @@ Criados diretamente da essência de Yggorath. Possuem poder imensurável (500.00
 - **Nyxalor (Sombras):** Encarnação da força destrutiva e equilibradora. Sucumbiu a Mythra. Atualmente selado.
 
 ### 2. Nível Primordial (Os Seraphyens)
-Nascidos do Fruto no Jardim Imaterial (50.000 - 500.000 Æ). **Estes são os Seraphyens de Nova Aetherion** — distintos dos Seraphyens Originais da civilização primordial de Aertherion (ver Parte IV, Cap. 2), que foram extintos na purificação.
+Nascidos do Fruto no Jardim Imaterial (50.000 - 500.000 Æ). **Estes são os Seraphyens de Nova Aetherion** — não devem ser confundidos com os Seraphyens Originais de Aertherion (ver Parte IV, Cap. 2), que tiveram outros nomes, outras identidades e foram extintos na purificação.
 - **Fogo:** Ignisara (Forjar) / Elarys (Consumir)
 - **Água:** Myrrhiel (Nutrir) / Liora (Dissolver)
 - **Terra:** Solarys (Sustentar) / Calyssor (Enterrar)
@@ -1303,7 +1303,7 @@ Viajar entre reinos era questão de **pulsos** (minutos). Viajar para sistemas d
 # CAPÍTULO 2
 ## OS SEIS REINOS E OS SERAPHYENS ORIGINAIS
 
-> **Nota:** Estes são os **Seraphyens da civilização primordial de Aertherion** — dez governantes elementais extintos durante a purificação (ver Parte XI, §11.2). São distintos dos 10 Seraphyens que nasceram da nova Yggorath em Nova Aetherion (ver Hierarquia de Entidades, Nível Primordial). Alguns nomes ecoam entre as duas gerações — um paralelo que o futuro do livro pode explorar.
+> **Nota:** Estes são os **Seraphyens da civilização primordial de Aertherion** — dez governantes elementais extintos durante a purificação (ver Parte XI, §11.2). São completamente distintos dos 10 Seraphyens de Nova Aetherion (ver Hierarquia de Entidades, Nível Primordial): nomes, identidades e funções são diferentes. Os Seraphyens de Nova Aetherion nasceram da nova Yggorath milênios depois, no novo cosmos.
 
 ### 2.1 A Configuração dos Reinos
 
