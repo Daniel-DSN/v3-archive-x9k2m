@@ -118,7 +118,7 @@ Ela sabia o que Dravyn desenhava nas páginas de seu caderno. Duos meses antes, 
 
 O que encontrara não eram rabiscos infantis, mas plantas estruturais detalhadas do orfanato — os ângulos das passagens secretas sob a adega, a espessura dos muros, os pontos exatos de ancoragem dos cristais de defesa.
 
-Detalhes que uma criança de oito valens nunca deveria saber. Era como se sua *aethra*¹ sombria o fizesse um receptor de algo que sussurrava nas correntes subterrâneas da terra — algo que os demais, sintonizados com a luz do mundo acima, jamais poderiam ouvir.
+Detalhes que uma criança de doze valens nunca deveria saber. Era como se sua *aethra*¹ sombria o fizesse um receptor de algo que sussurrava nas correntes subterrâneas da terra — algo que os demais, sintonizados com a luz do mundo acima, jamais poderiam ouvir.
 
 Ao lado de Dravyn, Tomas contava mentalmente. Seus lábios moviam-se rapidamente, sussurrando números em uma progressão matemática infinita que acalmava seu espírito ansioso.
 
@@ -218,7 +218,7 @@ Lyris caminhou até ela com passos silenciosos, a postura relaxada disfarçando 
 
 A menina demorou a responder. Ela acariciou a cabeça de Nyx uma vez, antes de olhar para Lyris com aqueles olhos castanhos que pareciam velhos demais para seu rosto infantil.
 
-— Eu conheço a voz do homem da caixa, Lyris — disse Alyndra, sua voz um sussurro trêmulo. — Eu... eu sei quem ele é. Mas não lembro de onde.
+— Essa voz... — Alyndra engoliu em seco, os olhos fixos no vazio. — Eu conheço ela, Lyris. De algum lugar. Mas não... não sei de onde. É como se... — ela tocou o peito com a mão pequena, confusa — ela já tivesse morado aqui dentro.
 
 Lyris sentiu o coração falhar uma batida. O medo, antigo e afiado como uma adaga de Sanctrum, apertou sua garganta.
 
@@ -240,7 +240,7 @@ Na metade daquele dia, quando *Aurion*⁸ atingiu o zênite e espalhou uma luz p
 
 Seus olhos vagavam pelo horizonte, mas sua mente estava presa na decisão que tomara na manhã. Não havia mais tempo para esperar.
 
-O despertar de Alyndra estava se acelerando, e se a menina não aprendesse a controlar a força que habitava suas veias, o próprio poder a consumiria — ou revelaria sua presença para os caçadores de Sanctrum.
+O despertar de Alyndra estava se acelerando — disso a Fazenda Aldebar deixara qualquer dúvida. A bolha de gelo que a menina conjurara para salvar Mila, sem treinamento, sem controle, provava que o poder crescia mais rápido do que Lyris antecipara. Se ela não aprendesse a conter a força que habitava suas veias, o próprio cryonys a consumiria — ou revelaria sua presença para os caçadores de Sanctrum.
 
 Ela chamou a menina para o pátio leste, uma área isolada do jardim onde os muros eram mais altos e cobertos por trepadeiras de *giralis*¹⁴. Nyx acompanhou-as, saltando entre as raízes expostas de uma grande *argentis*¹⁵ com uma agilidade silenciosa.
 
@@ -298,7 +298,7 @@ O gelo nos dedos da menina derreteu de vez, transformando-se em pequenas gotas d
 
 A nyxara caiu sobre Velantis como um manto pesado de veludo azul-escuro. No céu limpo, as duas luas do continente brilhavam com intensidades diferentes, projetando sombras longas sobre os campos de *aethrys*² que cercavam a instituição.
 
-No Orfanato Luminis⁵, o silêncio da nyxara era apenas interrompido pelo vento frio que soprava do oceano e pelo som ocasional do farol da cidade ao longe.
+No Orfanato Luminis⁵, o silêncio da nyxara era apenas interrompido pelo vento frio que soprava do oceano e pelo som ocasional do farol de cristal do porto ao longe.
 
 As crianças dormiam em seus leitos na ala oeste, aconchegadas sob cobertores de lã áspera.
 

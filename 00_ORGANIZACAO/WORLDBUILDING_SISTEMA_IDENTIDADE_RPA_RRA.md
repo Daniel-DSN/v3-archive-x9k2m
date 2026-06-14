@@ -28,7 +28,7 @@ Um losango vertical (♢), representando o Grande Cristal.
 O documento recebe um carimbo de losango com um ponto denso no centro (⟠). A cor da tinta indica o elemento da pessoa.
 
 ### Os Sylentis (Os Sem-Magia)
-O governo atesta a inutilidade mágica dos sylentis (como Kira e Dravyn) não preenchendo o símbolo. O documento deles leva o carimbo de um **losango vazio (♢)**. Isso valida a dor e a exclusão social que sofrem, pois o próprio Estado os documenta como "cristais ocos".
+O governo atesta a inutilidade mágica dos sylentis (como Kira) não preenchendo o símbolo. O documento deles leva o carimbo de um **losango vazio (♢)**. Isso valida a dor e a exclusão social que sofrem, pois o próprio Estado os documenta como "cristais ocos".
 
 ### O Símbolo da RRA (Rede de Ressonância de Aurion)
 A nova rede de comunicação por torres criada pelo engenheiro Valtheris possui seu próprio selo. O símbolo tipográfico é um "R" com a perna estendida em onda (℟~) e, nos equipamentos físicos de latão negro, o selo é um círculo atravessado por três linhas onduladas (⦚).
@@ -51,7 +51,7 @@ A partir de agora, incorpore:
 
 - O uso da sigla **"RPA"** e do termo **"O Toque"** nas descrições de burocracia, documentos, pensamentos de espiões (como Selynis Thalassa e Lyris) e nas discussões políticas na Assembleia Geral.
 - As descrições dos glifos (⟠, ♢, ℟~, ⦚) ao narrar documentos e tecnologias.
-- A crueldade do "losango vazio" (♢) para aprofundar a revolta de personagens sylentis como Dravyn e Kira.
+- A crueldade do "losango vazio" (♢) para aprofundar a revolta de personagens sylentis como Kira.
 - A menção ao **RAE** (Registro de Afinidade Etérica) como termo coloquial que o povo usa no dia a dia.
 
 ### Tabela de Referência Rápida
