@@ -408,15 +408,3 @@ E a nyxara — a mais longa, a mais devastadora, a mais *impossível* nyxara da 
 
 
 ³⁶ **Thalassia** — Maré de Cristal; reino submerso. Linhagem ancestral de Marethyus²¹ e Alyndra³⁰.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-O silêncio do campo de batalha é quebrado pelo som de passos. Aurelius⁶ se levanta — não como o *En Me*, como um *pai*. Alyndra³⁰ ainda respira. Thaloris Ventaris²⁴ jaz inconsciente no fundo da cratera. E no horizonte, os primeiros sinais do *Aurion*⁴ anunciam que a noite acabou.
-
-O que acontece quando o Guardião Mestre segura em seus braços a filha que não sabe que é sua filha? O que acontece quando Velatrix⁷, Selynis Thalassa, a mulher que calcula tudo, percebe que a matemática da guerra acabou e a matemática da *política* está apenas começando?
-
-E em *Sanctrum*³ — no salão do Conselho dos 12, nas antecâmaras do poder, nos corredores onde as decisões são feitas antes de serem anunciadas — alguém já está preparando a *sabatina*.
-
-*"O fim de uma batalha é o começo de outra. Mas esta segunda batalha — esta se ganha com palavras."*

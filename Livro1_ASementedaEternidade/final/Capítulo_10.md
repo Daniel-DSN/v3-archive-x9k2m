@@ -437,14 +437,3 @@ Ele apenas sentia — com o instinto que todo grande repórter tem — que aquel
 ⁶⁰ **senhora da vida** — Titular do Assento Yakam do Conselho dos 12; responsável pela fauna e flora.
 ⁶¹ **Assento Yakam** — Quinto assento do Conselho dos 12.
 ⁶² **mesa dos vinculadores** — Grupo de representantes que decide sobre infraestrutura continental.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, o foco se voltará para a monumental construção das sete Torres de Ressonância da RRA em cada uma das capitais dos reinos de Nova Aetherion. Da engenhosidade de Fulmora à imponência da Fortaleza de Rocha em Terraxis, a engenharia etérica se erguerá sobre fundações ancestrais da Era Seraphyen.
-
-Mas enquanto o continente se prepara para a primeira grande transmissão, uma sombra silenciosa de espionagem se infiltrará nos núcleos transmissores, e o cristal escuro de Umbra encontrará seu canalizador leste na Cidadela Sombria, abrindo os ouvidos da conspiração para tudo o que a rede disser.
-
-*"Toda fundação antiga guarda segredos. E a tecnologia mais moderna é apenas um novo caminho para os velhos fantasmas caminharem."*
-

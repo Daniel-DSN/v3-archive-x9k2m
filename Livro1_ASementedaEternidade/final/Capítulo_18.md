@@ -419,11 +419,3 @@ E Aldric ficou ali, deitado no escuro, com os olhos abertos, esperando uma nyxar
 ³⁴ **Aurion** — A estrela central de Alyndra.
 
 ³⁵ **Valira** — Período que corresponde à tarde em Alyndra. Na narração comum, usar "tarde".
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, *A Teia nas Sombras*, o Arco II — *Infiltração* — mergulha nas profundezas do que ninguém vê. Nos corredores ocultos sob *Sanctrum*, os *Nihil Shid*³² coordenam suas operações com uma precisão que só séculos de planejamento podem produzir. Novos recrutas são avaliados. Novos rituais são preparados. E nas fronteiras, os fios vermelhos que Selynis traçou começam a se mover — não para os destinos que ela previu, mas para algo que ela ainda não imagina. Enquanto isso, no *Orfanato Luminis*³, a rotina continua: exercícios de *cryonys*¹², *Giralis*⁴ de gelo, risadas de crianças. Mas a noite está mais longa do que deveria, e há sombras nos cantos do jardim que não pertencem a nenhuma *Argentis*⁸.
-
-*"O que você não pode ver é o que mais precisa vigiar. Mas o que você pode ver — isso também pode ser mentira."*

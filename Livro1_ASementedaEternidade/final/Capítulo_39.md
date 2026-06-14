@@ -291,9 +291,3 @@ Havia *alerta*.
 ³³ **núcleo vital** — Centro de circulação elemental da vida; a alma.
 
 ³⁴ **cristal dourado** — Artefato indicador de pulsação e localização sintonizado por sangue com Alyndra⁷.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-A batalha entre Aurelius¹¹ e a aberração no campo de vidro. Aurelius¹¹ é o mais forte aetheriano de Alyndra — cada golpe reescreve a geografia. Mas a aberração tem legiões de *nihilarys*²⁰, regeneração instantânea, e o poder de absorver *aethra*². E Aurelius¹¹ está contendo — cada técnica calculada para não atingir Alyndra⁷, inconsciente a poucos passos de distância. A aberração não se contem. O impasse é insustentável. Marethyus¹⁸, Lyris²¹, Korath²³ — os que ainda conseguem se mover — precisam tirar Alyndra⁷ da linha de fogo. Enquanto isso, os dois combatentes mais poderosos do livro se enfrentam em um duelo que ameaça destruir o que resta do templo na fronteira. E nos olhos mortos da aberração — os dois olhos verdes de Thaloris Ventaris — algo *treme*. Não *nihilary*²⁰. Vento. O vento de Sylvaris. Como se o despertar do *cryonys*²⁹ de Alyndra⁷ tivesse feito mais do que congelar a aberração — como se tivesse *despertado* algo dentro de Thaloris que nem os Nihil Shid¹² podiam controlar.

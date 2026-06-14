@@ -387,11 +387,3 @@ Observaria. Com paciência. Se Aldric era apenas o que parecia, ninguém sairia 
 ¹⁸ **Nyctara** — Codinome de Lyris; 'A Sombra de Sanctrum', agente dos Tar-Gig.
 
 ¹⁹ **Tar-Gig** — Rede de inteligência e operativos secretos de Nova Aetherion. Lyris é uma agente aposentada.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-Alyndra chegou ao orfanato. Mas antes de encontrar um lar, ela precisa aprender a viver sem Nyx — e descobrir que mesmo no lugar mais cheio, a solidão tem ruínas próprias.
-
-*"Quando tudo o que conhecemos desaparece, restam duas escolhas: construir algo novo sobre as cinzas ou deixar que o vento leve o que sobrou."*

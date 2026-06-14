@@ -414,11 +414,3 @@ No subsolo circular, a bacia de bronze permaneceu imóvel, contendo a escuridão
 ³⁶ **Iluminados** — Membros do alto conselho dos Nihil Shid, geralmente cascas habitadas permanentemente por entidades Nihilary.
 
 ³⁷ **velrok** — Equino de grande porte usado para montaria e tração.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, *O Coração do Vento*, a narrativa se desloca das profundezas rochosas de Sanctrum para os céus abertos de *Sylvaris*¹³. O Lugal *Thaloris Ventaris*²⁶ retorna ao seu palácio flutuante após a Assembleia Geral, mas o vento que sopra em suas torres não carrega mais a leveza de outrora. Entre sussurros na noite e mapas estendidos sobre mesas de ébano, ele começa a perceber que o preço do seu pacto com os *Nihil Shid*¹⁰ está prestes a ser cobrado. Enquanto isso, em Velantis²⁹, *Lysias Thyrion* descobre um navio sem bandeira atracado nas enseadas ocultas, dando o primeiro passo em direção a um segredo que pode custar sua própria vida.
-
-*"O vento fala a quem sabe ouvir, mas quando ele se cala, é porque as sombras aprenderam a gritar."*

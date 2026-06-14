@@ -217,11 +217,3 @@ Não sabia se era premonição ou medo. Mas conhecia o suficiente sobre aethra p
 ¹⁸ **Nyxara** — A noite; período de escuridão entre o pôr e o nascer de Aurion.
 
 ¹⁹ **aethrys** — Cereal dourado nativo de Sylvaris, que ondula nos campos como mares de ouro. Base da alimentação.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-Três luas. Uma criança. E o peso de uma promessa feita antes de o tempo ter nome.
-
-*"Algumas despedidas são o princípio de uma história que o mundo ainda não está pronto para ouvir."*

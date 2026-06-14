@@ -155,11 +155,3 @@ Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio 
 ¹⁰ **Elara** — A lua rosa; terceira das três irmãs celestes, associada ao sacrifício.
 
 ¹¹ **Emê-Gir** — A língua mais antiga de Nova Aetherion, falada pelos Seraphyens. Usada em encantamentos e inscrições sagradas.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-A fuga de Ayla chega ao fim. Alyndra cresce em Mespiria, no Orfanato Luminis, sem conhecer a herança que carrega no sangue — ou a mensagem que sua mãe deixou gravada na parede de um quarto escuro. O despertar está próximo.
-
----

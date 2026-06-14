@@ -426,11 +426,3 @@ Ecos de um homem que olhou no espelho, viu o cinza em seu cabelo, e decidiu que 
 ⁴² **cryonys** — Poder elemental de gelo; fusão de Água e Vento. Manifestado por Alyndra.
 
 ⁴³ **Conselho dos 12** — Órgão consultivo de Sanctrum; composto por doze assentos.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, a rede de Selynis começa a produzir resultados concretos. Os agentes do *Tar-Gig*³¹ infiltrados na guarda pessoal de Thaloris conseguem as primeiras transcrições de suas conversas privadas — e nelas, algo que Selynis não esperava: não arrogância, não indiferença, mas *desespero*. Thaloris está caindo aos pedaços, e a fratura pode ser tanto uma oportunidade quanto um perigo. Enquanto isso, em *Velantis*³⁷, Lyris percebe que a conexão de *cryonys*⁴² de Alyndra está se intensificando de formas que desafiam qualquer explicação racional — e uma mensagem cifrada de Selynis, interceptada por Vethran Noll, coloca o *Orfanato Luminis* no radar dos *Nihil Shid*³⁶.
-
-*"Há dois tipos de prisão: a que tem grades e a que tem espelhos. A primeira pode ser quebrada. A segunda — essa é para sempre."*

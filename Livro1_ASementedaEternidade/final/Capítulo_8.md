@@ -417,11 +417,3 @@ E em algum lugar, através da névoa e da chuva e da escuridão que separava os 
 ⁷ **rota fantasma** — Rota de fuga secreta conhecida por agentes dos Tar-Gig.
 ⁸ **Terraxis** — Reino de Montanhas e Minas; uma das sete terras.
 ⁹ **Mar de Vaelantor** — Oceano ao norte de Terraxis.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, duas frentes se abrirão simultaneamente. Em Sanctrum, Selynis Thalassa buscará respostas nas sombras do poder — uma sabatina com Aurelius que pode revelar verdades que o *Guardião Mestre* há valens guarda com cuidado calculado. E em Thalendris, Lyris iniciará algo que não fazia desde que deixou Sanctrum: o treinamento de Alyndra — não como tutora, mas como operadora. A criança carrega dentro de si uma força que nem *Melessa Solynthr* previu, e a nyxara nas falésias provou que o mundo já sabe disso. Agora, a questão não é mais se Alyndra será encontrada — é quando.
-
-*"As duas coisas mais perigosas do mundo são um segredo mal guardado e uma verdade que ninguém tem coragem de dizer em voz alta."*

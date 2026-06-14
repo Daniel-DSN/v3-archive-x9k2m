@@ -359,19 +359,3 @@ Mas ninguém ouvia. Porque o vento — o vento que teria carregado o grito por l
 ²⁴ **Alyndra** — A órfã protagonista com afinidades elementais que se encontra na fronteira fugindo das forças da escuridão. Mencionada na previsão.
 
 ²⁵ **pulso / pulsos** — Unidade de tempo equivalente ao batimento de um coração (~1 segundo). Mencionada na previsão.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, a aberração avança pelas planícies entre Sylvaris⁸ e a fronteira de Fulmora¹⁹, e cada passo dela é um tremor que Selynis Thalassa²⁰ detecta pela RRA²¹ — não como anomalia sísmica, mas como padrão, porque a assinatura de *aethra*⁴ corrompido que a aberração emana é única e inconfundível, e Selynis²⁰ a reconhece imediatamente como algo que não deveria existir. Em Sanctrum²², Aurelius²³ sente — através do vínculo de *aethra*⁴ que o conecta a Alyndra²⁴ — que algo mudou. Não o perigo imediato, que ele já sentia há meses, mas algo pior: a intensificação do perigo, como se a distância entre Alyndra²⁴ e aquilo que a caça tivesse de repente encolhido. E no templo na fronteira de Fulmora¹⁹ e Umbra¹¹, Alyndra²⁴ acorda no meio da noite com os olhos arregalados e o *cryonys*¹² pulsando em suas veias com uma força que nunca sentiu antes — porque ela sente o que está vindo. Sente a aberração. Sente os *nihilarys*¹⁰. E sente, enterrado sob camadas de escuridão, um *pulso*²⁵ de algo que ainda é Thaloris¹ — um *pulso*²⁵ tão fraco que apenas ela pode ouvi-lo.
-
-*"O vento que morre não desaparece. Ele se torna o silêncio que existe entre as tempestades — e é no silêncio que os monstros caminham sem serem ouvidos."*
-
----
-
-*— O Arquivista-Mestre de Aetherion*
-
----
-
-**Ao leitor:** A queda de um líder nunca é apenas política; é uma quebra na própria melodia de seu povo. Quando o vento silencia em Sylvaris, ele silencia em nós também. Se você tremeu com os passos da aberração, lembre-se: a semente da eternidade precisa de solo firme para resistir ao que caminha no escuro.

@@ -413,11 +413,3 @@ Era Nyx².
 ³⁴ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos literários específicos, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo" (já aplicado nos capítulos).
 
 ³⁵ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-O que se move na escuridão é menor que a sombra — mas a sombra não tem dentes, e o que se move *tem*. E às vezes, o amor não se mede em *valens*³² ou em *aethrons*³³. Mede-se no último *pulso*³⁴ antes do silêncio.
-
-*"Há criaturas que não sabem que são pequenas. E há monstros que não sabem que podem sentir."*

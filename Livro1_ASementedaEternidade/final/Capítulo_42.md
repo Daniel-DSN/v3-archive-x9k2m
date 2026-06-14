@@ -358,11 +358,3 @@ A sabatina prosseguiu. As perguntas continuaram. As respostas, como sempre, fora
 ³⁵ **Vethran Noll** — O *Mestre dos Sussurros* de Sylvaris, En Dili Lil — chefe de inteligência de Thaloris Ventaris. Seu nome aparece nos registros da operação fantasma como logista-chefe; no entanto, registros de inteligência obtidos após a queda de Thaloris indicam que Vethran se opôs ao esquema repetidamente. Seu paradeiro após o colapso de Sylvaris é desconhecido — Selynis presume que fugiu para *Umbra*³⁶, mas a hipótese não foi confirmada.
 
 ³⁶ **Umbra** — Reino das Sombras e Mistérios; sétimo reino. Referenciado como destino de fuga de Vethran Noll³⁵; reino que absorve tudo que não quer ser encontrado.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-*A Assembleia Geral convoca. Os Sete Reinos exigem respostas sobre o ataque ao orfanato, sobre as ações unilaterais do *En Me*²⁰, sobre o que foi revelado no templo na fronteira. Selynis Thalassa prepara-se para a performance mais importante de sua carreira política — uma sabatina que não é sobre *justiça*, mas sobre *ordem*.*
-
-*"No *Salão dos Ventos*²³, as palavras são armas mais afiadas do que lâminas de *aethrys*¹⁹ — e Selynis empunha-as com uma precisão que faria inveja a qualquer espadachim."*

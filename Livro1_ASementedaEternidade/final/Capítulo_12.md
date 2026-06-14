@@ -439,15 +439,3 @@ Ela guardou o relatório em uma pasta e trancou-a na gaveta.
 ³⁴ **velkora** — Dispositivo de comunicação/vigilância por cristal etérico.
 
 Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-
-No próximo capítulo, o peso do "milagre" da Fazenda Aldebar começará a se fazer sentir em todo o continente. Selynis Thalassa confrontará Aurelius Lumivael com os dados que cruzou, enquanto a notícia do poder da criança chega aos ouvidos de agentes infiltrados em Sylvaris.
-
-E sob o teto do Orfanato Luminis, Lyris perceberá que a tranquilidade que construiu para Alyndra foi definitivamente quebrada, forçando-a a tomar medidas extremas para proteger a menina antes que as sombras fechem o cerco.
-
-*"O vento que espalha a faísca é o mesmo que avisa a floresta de que o fogo está a caminho. Mas quando o incêndio chega, as sementes mais profundas são as únicas que sobrevivem."*
-

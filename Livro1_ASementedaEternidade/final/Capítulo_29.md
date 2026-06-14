@@ -275,11 +275,3 @@ E Alyndra³, no escuro, apertou *Nyx*³ contra o peito — o peito gelado, o pei
 ¹⁷ **nihilary / nihilarys** — Agentes dos *Nihil Shid*¹⁰; capazes de manipular escuridão. A figura encapuzada é um *nihilary*¹⁷ em corpo humano hospedeiro.
 
 ¹⁸ **Lyris** — Administradora e guardiã do Orfanato Luminis; Alyndra¹ acredita que Lyris¹⁸ virá buscá-la.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, o templo revela seus segredos — e os segredos são mais antigos e mais terríveis do que qualquer um dos reinos imaginou. Alyndra¹, separada de *Nyx*³ por procedimentos que ainda não compreende, enfrenta algo que não é tortura nem prisão — é processamento: um ritual que os *Nihil Shid*¹⁰ realizam há milênios para extrair e redirecionar o *aethra*¹³ de portadores de SinDrarys raros. O *cryonys*¹¹ de Alyndra¹ responde de um modo que o templo não previu. Enquanto isso, Sera e Lysias Thyrion cruzam a fronteira de *Fulmora*⁸ — eles estão mais perto do que pensam. E Korath⁶, sozinho na noite após a entrega, faz algo que não fazia há anos: questiona uma ordem.
-
-*"O que os deuses constroem, o tempo desmonta. Mas o que foi construído antes dos deuses — isso, nem o tempo ousa tocar."*

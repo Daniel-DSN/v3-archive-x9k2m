@@ -339,19 +339,3 @@ A *koramis* mergulhou em direção ao templo, e o vento gritou, e o *aethra* cor
 ³³ **Velatrix** — A lendária identidade de combate e guerreira secreta de Selynis¹³. Mencionada na previsão.
 
 ³⁴ **Tar-Gig** — Esquadrão e agência especial de inteligência militar sob o comando direto de Velatrix³³. Mencionada na previsão.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, o templo se torna palco de um confronto que ninguém planejou. Selynis Thalassa¹³ chega — não como burocrata, não como analista de dados, mas como Velatrix³³, a face militar de Sanctrum²² que existe nos relatórios como lenda e nas batalhas como devastação. Ao seu lado, operativos Tar-Gig³⁴ avançam com a eficiência de uma força que não foi enviada para negociar. Korath²⁶ e seus mercenários de Umbra⁹ descobrem que há coisas piores no mundo do que *nihilarys*²⁷ — há Velatrix³³. A subjugação é rápida, brutal, e profissional. Mas o acordo que Velatrix³³ oferece aos mercenários — proteção de Sanctrum²² e pagamento — é interrompido antes que possa ser selado. Porque a terra treme. E do horizonte — do mesmo horizonte onde a trilha de destruição aponta — algo se levanta. A aberração. E atrás dela, não um exército de sombras, mas legiões de soldados corrompidos — humanos possuídos por *nihilarys*²⁷, com os olhos mortos e a pele manchada de azul-prateado. O céu escurece. O *aethra*² sufoca. E Velatrix³³ — que já enfrentou quase tudo o que Alyndra pode oferecer — olha para o tamanho da criatura e para o número de legiões atrás dela, e diz uma frase que resume tudo o que está por vir.
-
-*"Há pressões que quebram o aço. E há pressões que quebram o que está por baixo do aço — a ideia, a fé, a certeza de que o amanhã vai chegar. Quando essa pressão aparece, nem os mais fortes podem impedir que algo dentro deles rache."*
-
----
-
-*— O Arquivista-Mestre de Aetherion*
-
----
-
-**Ao leitor:** A verdade é uma espada de dois gumes, e Aldric³ carregou a lâmina por tempo demais sem poder usá-la. Agora, a relíquia thalassiana está prestes a encontrar seu destino. O percurso é doloroso, e as marcas da aberração mostram o preço do silêncio. Fique conosco neste voo de urgência.

@@ -493,11 +493,3 @@ E o *Senhor dos Ventos*³ de *Sylvaris*¹ começou a gritar.
 ²⁶ **cryonys** — Energia ou cristal que manifesta gelo. Um dos mercenários usa uma rede de *cryonys*²⁶ contra Thaloris².
 
 ²⁷ **Fulmora** — Reino dos Raios; quinto reino.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, o canto não para. Thaloris Ventaris² está de pé no centro do círculo de pedra do Templo de *Ventus*¹⁹, com o dardo de *aethrys*⁵ encravado no ombro e o ar solidificado ao redor, e não consegue se mover. A mulher de branco canta diretamente para seu *núcleo vital* — e o *núcleo vital* responde. Legiões de *nihilarys*²⁵ descem do céu como fumaça líquida, e cada um que entra no corpo de Thaloris² faz o corpo se mudar: os ossos se desmontam, os braços se multiplicam em quatro membros articulados, os olhos verdes se reproduzem em dezesseis pares dispostos pelas têmporas, e a pele humana escurece até se tornar obsidiana viva. A metamorfose não é instantânea — leva horas, e cada hora é uma eternidade comprimida em agonia. Quando termina, o que se ergueu não é mais Thaloris². É uma aberração de quatro metros composta de milhares de *nihilarys*²⁵, irradiando *aethra*¹⁵ corrompido, com dezesseis olhos sem humanidade. A mulher de branco diz: *"Agora você é imortal. Mas agora você é nosso."* E os dois olhos verdes — os últimos vestígios de Thaloris² — se apagam. A aberração caminha em direção à fronteira de *Fulmora*²⁷ e *Umbra*²⁴, onde uma menina de olhos castanhos e braços gelados espera em um templo que é mais antigo que a própria ideia de templo.
-
-*"A possessão não é a entrada de algo estranho. É a descoberta de que o corpo era um recipiente o tempo todo — e que o conteúdo original nunca foi dono de si."*

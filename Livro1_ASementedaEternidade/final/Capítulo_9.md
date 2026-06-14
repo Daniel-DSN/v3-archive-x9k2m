@@ -427,13 +427,3 @@ Pegou a pena. Continuou escrevendo.
 ¹¹ **mestra da informação** — Título honorífico de Selynis Thalassa no Conselho dos 12; responsável pela inteligência e informação do continente.
 
 ¹² **mensageiro** — Sistema de mensageiros entre os reinos.
-
-
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, o cenário se deslocará para o Salão dos Ventos em Sanctrum, onde os líderes dos Sete Reinos se reunirão na Grande Assembleia após doze anos de distanciamento. Sob a presidência do Guardião Mestre Aurelius, a Rede de Ressonância de Aurion (RRA) será apresentada para votação continental.
-
-Enquanto a tecnologia promete unificar o mundo, as tensões diplomáticas e os segredos de bastidores ameaçam fraturar a aliança antes mesmo do primeiro sinal ser transmitido — e uma jogada silenciosa de Umbra plantará a semente de uma escuta invisível no coração da rede.
-
-*"A conexão é um caminho de duas vias. A mesma ponte que traz a mensagem também traz quem deseja destruí-la."*

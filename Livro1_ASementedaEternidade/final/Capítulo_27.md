@@ -285,11 +285,3 @@ Algo que tinha Alyndra¹⁵.
 ³⁵ **thermaris** — SinDrarys de Água + Fogo; manifesta vapor superaquecido. Lyris é portadora.
 
 ³⁶ **Giralis** — Flores de pétalas prateadas que abrem durante a noite.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, as equipes de resgate avançam pelo continente como veias de luz cortando a escuridão — cada equipe seguindo uma rota diferente, cada rota carregando o risco de emboscadas e falsos caminhos. Lyris²⁴ e Aldric³² voam sobre as planícies de *Val-Koras*²⁷, e a conversa que se desenrola entre eles — uma conversa que meses de silêncio acumulado tornaram necessária — revela que o segredo de Aldric³² é maior do que Lyris²⁴ imaginava: ele não rastreava as rotas apenas por dever. Ele rastreava porque conhecia o destino das *cargas fantasmas*¹² por experiência pessoal — uma experiência que remonta à *Kalúdris*³³ e à mulher que ambos perderam. Enquanto isso, Alyndra¹⁵ chega ao *Ponto Ômega*²⁸, e o que encontra lá — no templo abandonado nas planícies de cinza, onde todas as rotas se cruzam — faz com que o *cryonys*³⁰ que ela carrega dentro de si se manifeste de um modo que nenhum texto antigo registrou.
-
-*"Nenhuma armadilha é perfeita. Mas a armadilha mais perigosa não é aquela que prende o corpo — é aquela que faz a presa caminhar voluntariamente para dentro dela, acreditando que caminha para a liberdade."*

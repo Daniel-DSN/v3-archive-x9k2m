@@ -496,11 +496,3 @@ Impaciência.
 ⁴¹ **Elara** — A lua do meio das três luas de Alyndra.
 
 ⁴² **ante-aurion** — Período que antecede o nascer de Aurion; a madrugada em Alyndra.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, o artigo de Lysias Thyrion²⁴ desencadeia consequências que ultrapassam a esfera pública e atingem os corredores do poder. Selynis Thalassa³¹ convoca Lyris para uma reunião sigilosa em *Sanctrum*¹⁷ — não sobre o artigo, mas sobre algo que os dados revelaram: os padrões de *cryonys*⁶ de Alyndra estão mudando de uma forma que lembra, de forma perturbadora, as assinaturas documentadas nos relatos da *Queda de Aertherion*. Enquanto isso, nas noites que se seguem, Alyndra começa a ouvir algo que não é voz, não é som — é uma *presença* familiar que ainda não tem nome, mas que se instala em seus sonhos como a névoa se instala sobre os campos antes do *ante-aurion*⁴². E *Kal-Nyxar*, o nihilaryth ancestral designado para sua aproximação, constata com satisfação analítica: a primeira barreira começou a ceder.
-
-*"Toda criança que constrói fortalezas no escuro está respondendo a uma pergunta que ainda não aprendeu a fazer."*

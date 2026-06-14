@@ -461,15 +461,3 @@ O selo de Elarys²² se *abriu*.
 ³⁹ **Nyx** — *Lyrien*⁴⁰ de pelagem prateada; companheiro de Alyndra³⁶ desde *Terraxis*¹⁸. Morto defendendo Alyndra³⁶.
 
 ⁴⁰ **lyrien** — Criatura elemental. Nyx³⁹ era um *lyrien*⁴⁰ de *cryonys*³⁵.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-O selo de Elarys se abriu. O poder aprisionado por *aethrons*²⁵ desperta. E do céu — do próprio tecido do mundo — algo *antigo* desce.
-
-O que surge quando o Guardião Mestre quebra seu juramento mais sagrado? O que acontece quando Nyxalor²³, mesmo em fração, é liberado em um campo de batalha onde a aberração absorve cada gota de energia que existe?
-
-E quando a casca da aberração finalmente se racha — quando milhares de *nihilarys*¹² são arrancados do corpo que roubaram — o que resta por baixo?
-
-*"No centro da tempestade, não há silêncio. Há o olho — e o olho vê tudo, inclusive a verdade."*

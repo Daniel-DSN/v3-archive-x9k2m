@@ -433,12 +433,3 @@ E a escuridão, como sempre, não respondeu.
 ²⁹ **Nihil Shid** — Organização secreta que acredita que a *aethra* é uma anomalia e que crianças com afinidade elemental devem ser eliminadas. Conhecidos popularmente como "Os Iluminados".
 
 Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-
-No orfanato, os meses passam com a regularidade das estações — e com elas, a sensação de que algo se aproxima, algo que ninguém consegue nomear mas que todos sentem, como a mudança de pressão antes de uma tempestade. Lyris redobra os treinamentos. Aldric poda os canteiros com uma atenção que parece exagerada até para um jardineiro dedicado. E Alyndra, que já sente o cryonys responder a emoções que não compreende, começa a ter sonhos que não são sonhos — visões de um lugar que nunca visitou, de uma voz que nunca ouviu, de um rosto que parece familiar de um modo que a faz chorar ao acordar.
-
-*"A criança dorme. Mas no sono, a semente se lembra de onde foi plantada."*

@@ -468,13 +468,3 @@ E reconhecimento, acima de tudo, de que o tempo estava acabando.
 ¹⁸ **Selynis Thalassa** — Mestra da Informação de Sanctrum; membro do Conselho dos 12
 ¹⁹ **Vethran Noll** — Funcionário cujo nome aparece em registros de transferência; sua real identidade e lealdade permanecem desconhecidas para Selynis neste ponto da narrativa. (Ver Interlúdio 1 e Capítulo 30.)
 ²⁰ **cargas fantasmas** — Crianças que saem do orfanato com documentação legítima e são interceptadas; rastro burocrático circular
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, as repercussões do incidente nos cais de Thalendris começarão a se fazer sentir. Lyris tomará uma decisão difícil: iniciar o treinamento de Alyndra para ajudá-la a controlar a força que desperta dentro dela — não como tutora, mas como alguém que conhece as táticas dos Tar-Gig.
-
-Enquanto isso, em Sanctrum, Selynis Thalassa começará a juntar as peças do quebra-cabeça do tráfico de talentos, e seus olhos se voltarão diretamente para o oeste.
-
-*"O segredo revelado é uma arma apontada. A única forma de sobreviver a ele é aprender a manejar a lâmina antes que o inimigo o faça."*

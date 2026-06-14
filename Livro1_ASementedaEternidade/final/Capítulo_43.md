@@ -343,11 +343,3 @@ E na nyxara em que o artigo foi publicado, em uma cidade que tentava dormir e n�
 ⁴⁸ **Zephyra** — Capital flutuante de *Sylvaris*³³; cidade natal de Lysias Thyrion⁴⁶.
 
 ⁴⁹ **Aurion** — A estrela central de Alyndra.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-*Aurelius é chamado para uma reunião que não está em nenhum protocolo — uma audiência com os Anciãos, os guardiões mais antigos de *Sanctrum*⁵, seres que existiam antes do *En Me*¹⁹, antes do Conselho dos 12⁹, antes da *própria* Ordem. E o que eles dizem — ou o que eles *sabem* — vai mudar tudo o que Aurelius²⁰ acredita sobre o papel que está destinado a desempenhar.*
-
-*"Os que sabiam sempre souberam. A questão nunca foi *se* eles sabiam — foi *quando* escolheriam revelar."*

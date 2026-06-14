@@ -399,11 +399,3 @@ Nada mais. Nem uma palavra sobre o que sentia. Porque qualquer palavra a mais se
 ²⁶ **Aurion** — A estrela central de Nova Aetherion; fonte de luz, calor e vida.
 ²⁷ **aerélia** — Planta aromática de Sylvaris; usada em perfumes e ambientes.
 ²⁸ **Elara** — A lua rosa; terceira das três irmãs celestes, associada ao sacrifício.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-As promessas de Lyris dependem de estradas que ainda estão cobertas de neve. Mas o inverno não dura para sempre — e há um lyrien esperando em uma casa de pedra vazia.
-
-*"Uma promessa é uma semente plantada no escuro. Germina quando menos se espera — e nunca sozinha."*

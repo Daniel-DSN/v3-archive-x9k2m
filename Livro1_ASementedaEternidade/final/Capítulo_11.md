@@ -583,14 +583,3 @@ Aguardando.
 ⁸ **cristal-espelho** — Fragmento microscópico de cristal escuro desenvolvido em segredo por técnicos de Umbra. Quando inserido em um canalizador etérico, copia e retransmite cada frequência que entra e sai para um receptor oculto, sem alterar a frequência original — tornando-se indetectável por medidores convencionais. Instalado clandestinamente no canalizador sul da torre da Cidadela Sombria, permitindo a Umbra interceptar toda comunicação da RRA.
 
 Nota: termos de tempo seguem o sistema canônico (valen, nyra, daen, velar, pulso, syra). Unidades terrestres foram substituídas conforme o glossário geral do livro.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, o perigo deixará de ser uma conspiração silenciosa nos corredores do poder e se manifestará como um desastre físico nos campos de Sylvaris. Um colapso repentino em uma ceifadeira agrícola alimentada por aetherite na Fazenda Aldebar desencadeará um incêndio avassalador que ameaça espalhar-se pelas colinas.
-
-E diante do perigo iminente para uma vida inocente, Alyndra quebrará todos os protocolos e manifestará de forma visceral a força de seu cryonys — um "milagre" gelado que salvará uma vida, mas que também ecoará pelos receptores do continente e colocará seu nome na mira definitiva de Sanctrum e de Umbra.
-
-*"O fogo destrói o que é frágil, mas o gelo preserva o que é eterno. E quando a Semente for tocada pelas chamas, o mundo saberá exatamente de que árvore ela brotou."*
-

@@ -339,11 +339,3 @@ Melessa deitou-se com a criança ao peito, uma mão protetora sobre o pequeno co
 ²² **Terraxis** — Reino de Montanhas e Minas; uma das sete terras de Nova Aetherion.
 
 ²³ **Umbra** — Reino das Sombras e Mistérios; uma das sete terras de Nova Aetherion.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-O que nasce sob três luas não permanece pequeno para sempre.
-
-*"Promessas feitas no escuro carregam um peso diferente das que são feitas à luz de Aurion. Ninguém ouve — mas o universo, esse sim, nunca esquece."*

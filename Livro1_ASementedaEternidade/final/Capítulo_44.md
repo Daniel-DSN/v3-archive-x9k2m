@@ -490,11 +490,3 @@ E agora *mais do que nunca*.
 ³⁷ **Lyris** — Agente dos *Tar-Gig*¹⁴; protetora de Alyndra¹¹. Aurelius³ exige que Lyris³⁷ acompanhe Alyndra¹¹ a *Thalassia*³³.
 
 ³⁸ **Thermaris** — Fusão elemental de Água e Fogo; vapor superaquecido. Disciplina de Lyris³⁷. O ancião de capuz nota que *Thermaris*³⁸ complementa *cryonys*⁷ para treinamento.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-Alyndra¹¹ acorda em uma câmara branca de *Sanctrum*¹³. O teto é *aethrys*⁵ imaculado. O corpo *doi* — as articulações, os músculos, os ossos. E há uma *ausência* no peito, um espaço vazio onde algo costumava *estar* e que agora não está. Nyx³⁵ está *morta*. A ausência *pesa* como um membro fantasma. Os fragmentos da batalha voltam em *onda*: gelo, frio absoluto, dezesseis olhos negros e prateados, uma forma prateada passando entre suas pernas, e depois *escuridão*. Uma porta se abre. Lyris³⁷ entra. E no olhar — que dura um segundo, dois, três, um segundo que contém um *mês* inteiro de sentimentos — há algo que não precisa de palavras. Lyris³⁷ *abraça* Alyndra¹¹. E as quatro crianças do orfanato chegam — Kira, Dravyn, Tomas, Mila — e a câmara se enche de *vidas* que se *reconhecem*, que se *reencontram*, que *sobreviveram*. E Aurelius³, no corredor, *vê* — vê por uma fresta, vê Alyndra¹¹ *sorrir*, e os olhos *molham*, e ele *vira as costas*, e *caminha*. O comboio parte para *Velantis*³¹. O orfanato será *reconstruído*. E Alyndra¹¹ — cinco anos, os olhos secos, a mão *vazia* — olha para trás uma última vez, e depois olha para a frente. E *não olha para trás de novo*.
-
-*"A volta não é o contrário da partida. A volta é o reconhecimento de que o que foi partido nunca mais estará inteiro — e que, mesmo assim, ainda vale a pena voltar."*

@@ -402,11 +402,3 @@ Mas já se podia sentir o vento que a precedia.
 ⁵⁰ **Torvin** — Menino do Orfanato Luminis; monitora transmissões RRA e vigia o perímetro.
 
 ⁵¹ **Thar Elara** — Figura misteriosa observada próximo ao Orfanato Luminis; suas intenções permanecem incertas.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No início do Arco III, a armadilha se fecha por completo. A reunião de Thaloris nas ruínas do Templo de *Ventus*⁴³ produz um confronto que mudará o equilíbrio de poder em *Sylvaris*¹³ — e que Selynis, monitorando tudo pelos operativos *Tar-Gig*⁸, não poderá ignorar. Em *Velantis*³⁰, o fragmento de cristal negro que Lysias Thyrion²⁸ guarda como prova se torna uma sentença: alguém que não deveria saber do artigo descobre sua existência, e o repórter honesto percebe que a diferença entre teimosia e coragem pode ser medida em gotas de sangue. E no Orfanato *Luminis*²⁰, Alyndra acorda na noite seguinte com algo novo nos olhos — não a luz prateada de sempre, mas algo mais denso, mais antigo, como se parte da escuridão que se aproxima já tivesse começado a se instalar dentro dela.
-
-*"Quando a armadilha se fecha, o que importa não é o tamanho da jaula — é se quem está dentro ainda se lembra de como voar."*

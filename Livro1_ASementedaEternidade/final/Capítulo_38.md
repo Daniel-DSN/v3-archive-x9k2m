@@ -364,9 +364,3 @@ E a figura na cratera — a silhueta de prata e branco e ouro e *fúria carmesim
 ²⁶ **valen / valens** — Unidade de tempo longa; equivalente a um ano (~365 dias). Plural: *valens*. Na narração, usa-se "ano".
 
 ²⁷ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Nos demais contextos, usa-se "segundo".
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-A figura na cratera é *Aurelius* — o Guardião Mestre²⁵ atual, o aetheriano mais poderoso de Alyndra, o homem que não deixou Sanctrum²³ em *valens*²⁶. Velatrix⁴ enviou uma mensagem codificada via *RRA* antes que o *aethra*⁵ se esgotasse: "A garota. Templo na fronteira. Aberração. Agora." Aurelius usou um *cristal dourado* — presente de aniversário que rastreia Alyndra² — para localizar o templo. Quebrou todos os protocolos. Não avisou o Conselho. Não levou escolta. Voou do leste a oeste a uma velocidade que não deveria ser possível, deixando um rastro carmesim no céu como um meteoro. O capítulo revelará sua decisão, seu voo, seu *impacto* — e a batalha titânica que se segue entre o Guardião Mestre e a aberração, com Alyndra² inconsciente no meio do campo de batalha. A *Erupção do Carmesim* — a assinatura elemental de Aurelius — será desencadeada. O solo virará vidro. Os remanescentes de Umbra¹⁸ serão vaporizados. Mas a aberração tem o poder de legiões de *nihilarys*³, e Aurelius está contendo — porque um golpe em falso pode atingir Alyndra². A batalha mais devastadora do livro começou.

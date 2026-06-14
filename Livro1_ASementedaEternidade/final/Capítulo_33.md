@@ -311,19 +311,3 @@ E no piscar, havia algo que Velatrix¹⁰ não identificou porque não tinha tem
 ³⁰ **Orfanato Luminis** — A instituição de acolhimento de órfãos onde Alyndra¹⁶ passou sua infância. Mencionada na previsão.
 
 ³¹ **Aurelius** — Aurelius Lumivael, o En Me (Guardião Mestre) de Sanctrum³. Mencionado na previsão.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, a batalha começa — e não é uma batalha no sentido convencional. A aberração avança com legiões de soldados possuídos, e cada soldado é um corpo que não sente dor, não sente medo, e que se levanta toda vez que é derrubado. Velatrix¹⁰ e os Tar-Gig⁵ combatem com *thermaris*¹² e precisão cirúrgica, mas os números são contra eles — cada soldado morto é substituído por outro, e cada *nihilary*²² que abandona um corpo hospedeiro encontra outro. Korath¹⁵ lidera a extração de Alyndra¹⁶ e Nyx²¹ do templo — e a extração é complicada pelo labirinto interno e pelas celas onde os prisioneiros "processados" ainda estão presos. Alyndra¹⁶, ao ser encontrada, está diferente — o *cryonys*²⁸ se manifesta com uma intensidade que ninguém previu, e a menina, que durante dias foi uma carga silenciosa e passiva, desperta algo que estava adormecido. Enquanto isso, Lyris⁶ e Aldric⁷ chegam ao templo e se juntam à defesa — e a espada de Ayla²⁹, que Aldric⁷ carrega há anos, começa a pulsar quando se aproxima da aberração. Como se reconhecesse algo. Como se esperasse.
-
-*"A longa noite não é longa porque o tempo se estica. É longa porque tudo o que você pensava saber sobre o que pode enfrentar — e sobre o que pode perder — precisa ser reaprendido antes que o Aurion²⁴ nasça de novo."*
-
----
-
-*— O Arquivista-Mestre de Aetherion*
-
----
-
-**Ao leitor:** Às vezes, render-se não é um ato de fraqueza, mas de clareza absoluta sobre o que se ergue à nossa frente. Korath¹⁵ e Velatrix¹⁰ traçam uma linha de defesa na cinza vulcânica. Permaneça firme e com os olhos bem abertos; a escuridão que desce sobre o plateau é densa, mas é na sombra que as relíquias brilham com mais força.

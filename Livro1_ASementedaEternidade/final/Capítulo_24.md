@@ -358,11 +358,3 @@ E quando a nyxara atingiu seu ponto mais profundo — quando *Lyria*¹⁴ atingi
 ⁴¹ **Alara** — Período que corresponde à manhã em Alyndra. Plural: *Alaras*.
 
 ⁴² **Vethran Noll** — *Mestre dos Sussurros* de *Sylvaris*; especialista em subornos e operações de influência.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, o plano deixa de ser plano e se torna realidade. A noite mais profunda cai sobre *Velantis*²⁵, e com ela chega o caos — organizado, metódico, implacável. A *Equipe Alfa* ataca o portão norte com cargas de distorção sonora que abalam as paredes e despertam os ocupantes do orfanato. A *Equipe Beta* atravessa o portão leste pela dobradiça que Lyris¹⁶ tocou pela última vez três dias antes. E Korath²² — a armadura de obsidiana absorvendo a luz, a lâmina saindo da bainha com o chiado de uma sentença — entra pelo corredor dos dormitórios enquanto o mundo ao redor desmorona em direção ao norte. Mas Lyris¹⁶ não está dormindo. E quando ela acorda — quando o campo de supressão de *aethra*¹⁵ de Vex tenta sugar o *thermaris*²⁹ de suas veias — o orfanato descobrirá que a mulher que cuida de *Giralis*³⁹ e serve mingau nas *Alaras*⁴¹ é algo muito diferente do que parecia. E na cozinha, onde um ajudante já fugiu e um transmissor já foi silenciado, Aldric³³ acordará para lutar — porque o zelador silencioso não foi plantado por ninguém, e quem protege não desiste, mas defende.
-
-*"Quando a primeira sombra cruzou o limiar do portão leste, *Nyx*³⁴ parou de dormir. E quando *Nyx*³⁴ para de dormir, até os *nihilarys*¹⁰ deveriam ter medo."*

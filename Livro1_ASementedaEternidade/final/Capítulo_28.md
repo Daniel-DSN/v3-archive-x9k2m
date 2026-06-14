@@ -251,11 +251,3 @@ E onde, em breve, alguém precisaria ir buscá-la.
 ³⁰ **cryonys** — SinDrarys de Água + Vento; manifesta gelo. Alyndra⁵ é portadora.
 
 ³¹ **Guardião Mestre** — Líder supremo da Ordem dos Guardiões de *Sanctrum*¹⁵. Título de Aurelius²⁹.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, Korath¹⁸ chega ao destino com Alyndra⁵ — e o destino não é o que ninguém esperava. A jornada que separa *Sylvaris*¹⁰ da fronteira de *Fulmora*⁹ e *Umbra*¹¹ é um inferno de rocha vulcânica, fontes de enxofre e uma escuridão que parece ter peso próprio. Alyndra⁵, apesar do medo, faz perguntas — perguntas que Korath¹⁸ não quer responder — e uma delas ("Você tem filhos?") desencadeia algo no mercenário que nem ele mesmo esperava. *Nyx*¹⁹ permanece ao lado da menina em cada passo da travessia, e Korath¹⁸ permite — não por compaixão, mas por ordens precisas: os *Nihil Shid*²⁵ querem *ambos*, a menina e o *lyrien*, e o porquê disso ainda é um mistério que ninguém na superfície compreende. Quando chegam ao templo — uma estrutura ancestral esculpida na face de um penhasco, mais antiga que qualquer reino — Alyndra⁵ é entregue a uma figura encapuzada, e Korath¹⁸, antes de partir, olha para ela pela última vez. O que passa entre eles não é amizade. É reconhecimento.
-
-*"A fronteira entre dois mundos não é uma linha — é uma ferida. E toda ferida, se não for cuidada, se abre."*

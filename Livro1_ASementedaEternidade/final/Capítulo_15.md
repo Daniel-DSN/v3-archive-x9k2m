@@ -479,12 +479,3 @@ E abaixo, em letras menores:
 ⁴⁰ **Lyria** — A menor das três luas de Alyndra.
 
 Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-
-No próximo capítulo, *Olhos que Vigiam*, a atenção se volta para as sombras que a Assembleia não iluminou. Selynis Thalassa intensifica sua vigilância sobre o Orfanato Luminis, percebendo que o apego emocional de Lyris por Alyndra pode ser tanto uma proteção quanto uma vulnerabilidade. Enquanto isso, em Velantis, a figura enigmática de Aldric começa a agir de forma que levanta suspeitas — ele protege as crianças, mas suas motivações permanecem obscuras. E nas profundezas de um subsolo que ninguém em Sanctrum sabe que existe, os Nihil Shid coordenam a próxima fase de um plano que já está em movimento há mais tempo do que qualquer líder na superfície seria capaz de imaginar.
-
-*"Os dez tronos se sentaram. Os dez sorrisos brilharam. Mas por baixo da mesa, dez mãos seguravam dez facas diferentes — e nenhuma apontava para o mesmo inimigo."*

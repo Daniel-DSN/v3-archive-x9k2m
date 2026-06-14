@@ -503,12 +503,3 @@ Talvez seja humanidade.
 ³³ **arauto do éter** — Locutor oficial da Guilda dos Arautos do Éter.
 
 Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-
-Nos capítulos seguintes, as linhas que Selynis traçou na Câmara dos Sussurros começam a se cruzar com a realidade cotidiana do orfanato. Lysias Thyrion, cuja intuição jornalística é mais afiada do que ele próprio percebe, regressa a Velantis com uma pergunta que não ousa fazer em voz alta — a mesma pergunta que a Rainha Kaelia fez na Assembleia, mas formulada de um ângulo diferente: não *"o que estão fazendo com esta criança?"*, e sim *"o que esta criança fará conosco?"*. Enquanto isso, no orfanato, os sonhos de Alyndra se intensificam — visões de gelo e luz que não são manifestações de *cryonys*, mas algo mais antigo, mais profundo, como se a menina estivesse começando a acessar uma memória que não é sua, mas que vive dentro dela como uma semente que espera o momento certo para germinar. E Aldric, sempre presente, sempre silencioso, guarda um segredo que poderia mudar tudo o que Alyndra acredita saber sobre si mesma — se alguém tiver a coragem de perguntar, e ele tiver a coragem de responder.
-
-*"A semente não escolhe onde cai. Mas escolhe quando crescer. E quando crescer, o mundo inteiro sentirá o tremor."*

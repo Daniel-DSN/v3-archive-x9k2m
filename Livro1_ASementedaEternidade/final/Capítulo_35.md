@@ -435,19 +435,3 @@ A herdeira de Thalassia¹³ desperta.
 ³⁰ **Lugal Lil** — Título real em língua primordial para denominar o "Senhor dos Ventos"³¹ de Sylvaris¹⁹.
 
 ³¹ **Senhor dos Ventos** — A tradução em português do título *Lugal Lil*³⁰.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, Alyndra Marethyus¹⁸ — a herdeira de Thalassia¹³, a portadora do *cryonys*²⁶ que não deveria existir, a garota que despertou — enfrenta a aberração. Não sozinha — Velatrix⁸, mesmo com o *aethra*¹² esgotado, encontra uma última reserva de *thermaris*⁷; Lyris⁴ se levanta da coluna contra a qual foi lançada e empunha a espada; Aldric⁹ agarra a espada fria de Ayla¹⁰ e corre; Urrak¹⁵ se arrasta do chão e ergue o malho. Mas a verdadeira batalha é entre Alyndra¹⁸ e a aberração — entre o *cryonys*²⁶ e os *nihilarys*¹⁴, entre a herdeira de Thalassia¹³ e o que restou de Thaloris Ventaris²². E no coração dessa batalha, algo impossível acontece: os dois olhos verdes de Thaloris — os olhos que se apagaram duas vezes, que foram extintos pela escuridão dos *nihilarys*¹⁴ — brilham de novo. E Alyndra¹⁸, que sente o *cryonys*²⁶ em suas veias e o *aethra*¹² thalassiano em seu sangue e o peso de uma linhagem que afundou com um reino inteiro, faz algo que ninguém — nem Velatrix⁸, nem Marethyus¹⁷, nem os Nihil Shid²³ — esperava: ela não luta contra a aberração. Ela fala com ela. Com ele. Com o que resta de Thaloris Ventaris²² dentro da casca de obsidiana e escuridão. E no diálogo entre a herdeira do mar e o senhor dos ventos, um segredo é revelado — um segredo sobre o que os Nihil Shid²³ realmente querem, sobre o que Alyndra¹⁸ realmente é, e sobre o que a aberração — a coisa que foi Thaloris — está prestes a fazer.
-
-*"A guerra não termina quando um lado vence. Termina quando ambos os lados descobrem que estavam lutando pela mesma coisa — e que a coisa não era o que pensavam que era."*
-
----
-
-*— O Arquivista-Mestre de Aetherion*
-
----
-
-**Ao leitor:** O gelo é o silêncio da água, mas é também sua força mais implacável. Alyndra¹⁸ ergue-se diante da aberração não apenas com magia, mas com o peso de sua própria história. Fique conosco; a tempestade de gelo está apenas começando a congelar as sombras da fronteira.

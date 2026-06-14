@@ -329,25 +329,3 @@ E Velatrix² avançou para o encontro.
 ³⁴ **Thalassia** — Reino das Águas e dos arquipélagos no sudeste. Mencionado na previsão.
 
 ³⁵ **Urrak** — Fera de montanha robusta de Terraxis³¹ e apelido de combate do guerreiro gigante de Terraxis³¹. Mencionado na previsão.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte — Capítulo XXXV: Reforços e Revelações — os céus se abrem. Lyris²⁸ e Aldric²⁹ chegam em formação de ataque, quinze *koramis*⁵ descendo como uma tempestade de cristal. Lyris²⁸ salta de sua montaria com a espada aquecida por *thermaris*⁹ e corta o primeiro corrompido antes de os pés tocarem o chão. Aldric²⁹ mergulha com a espada de Ayla Marethyus³⁰ — a relíquia thalassiana que dispersa *nihilarys*¹⁰ e que pulsa quando se aproxima da aberração.
-
-E então o chão treme — não pela aberração, mas por algo caindo do céu. Urrak³⁵, o guerreiro lendário de Terraxis³¹, dois metros e meio de músculo e cicatrizes, carregando um malho de *aetherite*³² forjado nas profundezas das minas de seu reino. Urrak³⁵ cai como um meteoro e o impacto cria uma cratera, e o primeiro golpe do malho esmaga três corrompidos simultaneamente. Urrak³⁵ e Velatrix² se reencontram — e lutam juntos como fizeram anos atrás nas fronteiras de Fulmora¹⁴ e Terraxis³¹, dois instrumentos diferentes tocando a mesma música.
-
-E então — a pé, como um peregrino, como um penitente, como um velho que sabe que não deveria estar ali mas que está — Marethyus³³. O avô de Alyndra²⁵. O último Marethyus³³. Nas mãos, uma esfera de *aethrys*⁷ azul-marinho que contém *aethra*¹ thalassiano de fundação — o *aethra*¹ dos primeiros milênios, quando Thalassia³⁴ ainda estava acima das águas. A relíquia repela os corrompidos — os *nihilarys*¹⁰ não podem se aproximar do campo thalassiano. Marethyus³³ enfrenta a aberração. A aberração sente — pela primeira vez — dor real. Mas então algo muda: a aberração começa a absorver. Não apenas do ambiente — de tudo. Solo. Ar. Corpos vivos. Corpos mortos. Cada fonte de *aethra*¹ é sugada para a aberração, que cresce, se torna mais densa, mais poderosa. Até o *aethra*¹ thalassiano da relíquia começa a ser consumido.
-
-E quando tudo parece perdido — quando os reforços estão exaustos, quando a relíquia está se esgotando, quando a aberração está mais forte do que nunca — algo desperta dentro do templo.
-
-*"Os velhos não vão à guerra porque esqueceram como se morre. Vão porque aprenderam que morrer sozinho é a única coisa pior do que morrer lutando."*
-
----
-
-*— O Arquivista-Mestre de Aetherion*
-
----
-
-**Ao leitor:** A exaustão é a verdadeira prova de fogo da vontade. Velatrix² e seus últimos soldados enfrentam a maré infinita na noite basaltina. Se a poeira e o calor do vapor queimaram a garganta, saiba: os ventos do oeste trazem asas de cristal e velhas promessas de aço. O reforço está no céu, e a linhagem de Ayla³⁰ se recusa a silenciar.

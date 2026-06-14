@@ -451,11 +451,3 @@ E ninguém — *ninguém* — tinha mais nada para dar.
 ²⁹ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
 
 ³⁰ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos de tensão dramática, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo".
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-O campo de batalha está coberto de gelo. Os guerreiros estão caídos. Uma garota jaz inconsciente com o corpo de um *lyrien*³ nos braços. E a aberração — danificada, mancando, mas *viva* — se aproxima. Resta uma única carta não jogada. Resta um homem que quebrou todos os protocolos. Resta um cristal dourado que pulsa com uma assinatura que ele conhece — a assinatura de sua filha.
-
-*"Às vezes, o amor não chega a tempo. Às vezes, chega exatamente no último *pulso*³⁰ — e esse *pulso*³⁰ é o suficiente para mudar o mundo."*

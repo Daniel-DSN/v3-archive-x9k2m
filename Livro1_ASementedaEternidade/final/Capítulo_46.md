@@ -438,15 +438,3 @@ Para *tudo* que estava por *vir*.
 ³⁸ **Torre de Aurion** — Ponto mais alto de Sanctrum²³; solar do *En Me*³³. Abaixo da fundação, a câmara dos Anciãos³¹.
 
 ³⁹ **Emê-Gir** — Língua antiga de Alyndra; mais velha que os reinos. Cada símbolo carrega três camadas de significado: literal, emocional e pessoal. Ayla³⁰ escreveu a mensagem do quarto em *Emê-Gir*²⁹.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-Não há próximo capítulo.
-
-Este é o *final* do Livro I — *A Semente da Eternidade*. A história que começou com uma mulher correndo grávida sob a noite de Mespiria³², que passou pelo nascimento de Alyndra⁹ sob três luas alinhadas, pela morte de Ayla³⁰, pela doença e morte de Melessa⁵, pelo orfanato, pelo despertar do *cryonys*¹⁴, pelo sequestro, pela batalha no templo, pelo sacrifício de Nyx¹⁵, pela *Erupção do Carmesim*⁴⁰, pelo julgamento dos colossais, pela sabatina contra Aurelius²⁶, pela revelação dos Anciãos³¹ — *termina* aqui. Duas figuras caminhando contra o horizonte dourado dos campos de *aethrys*¹⁴. O mar à frente. *Thalassia*²⁴ como destino. O futuro como *página em branco*.
-
-*"E assim a semente foi plantada. Não em terra — em *aethra*. E o que crescerá dessa semente — ninguém sabe. Mas os que *olharam* dizem que será algo que Alyndra nunca viu. Algo que os Anciãos³¹ esperam há *aethrons*⁶. Algo que é *maior* que os reinos. Algo que é, antes de tudo, *humano*."*
-
-*— FIM DO LIVRO I — A SEMENTE DA ETERNIDADE —*

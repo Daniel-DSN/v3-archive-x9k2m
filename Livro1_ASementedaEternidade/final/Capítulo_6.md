@@ -445,14 +445,3 @@ Ao seu lado, em um dormitório não muito distante, Alyndra dormia profundamente
 ² **Torvas** — Guia de patrulha de Velantis; líder da Nu Bandi designada para a escolta de Lyris e Alyndra.
 
 ³ **cryonys** — Fusão elemental de Água + Vento; manifestação de gelo e congelamento. Em portadores não treinados, pode manifestar-se involuntariamente por emoção intensa — luto, medo ou afeto — cristalizando o ambiente ao redor.
-
-
----
-
-### 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, Alyndra e seus companheiros deixarão temporariamente a segurança da Cidadela Luminis para iniciar o Ciclo de Viagem rumo aos escarpamentos de Thalendris. Sob a luz das fogueiras de acampamento, amizades se consolidarão através de histórias compartilhadas, mas o destino reserva desafios nos cais da nova cidade.
-
-E entre os voos majestosos dos koramis, a comitiva descobrirá que os olhos de Sanctrum e de forças conspiratórias já estão voltados para os passos da herdeira.
-
-*"O vento que nos guia também espalha nossas cinzas. E no topo do mundo, a liberdade tem o preço da vigilância."*

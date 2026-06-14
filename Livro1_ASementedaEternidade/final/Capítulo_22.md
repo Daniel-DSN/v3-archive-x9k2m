@@ -391,11 +391,3 @@ E algo, nas profundezas de uma escuridão que nenhum *Aurion*¹⁰ jamais ilumin
 ¹⁹ **Thar Elara** — Figura misteriosa ligada ao Orfanato Luminis; observada próxima aos portões em horas avançadas da noite.
 
 ²⁰ **argentis** — Árvore de casca prateada e folhas translúcidas; comum em jardins e pátios de Sylvaris e Velantis.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No Capítulo XXIII, "A Armadilha se Fecha", a paciência dos *Nihil Shid*²¹ se esgota. Selynis Thalassa²² descobre o nome de Alyndra no topo da lista de alvos prioritários — não como um nome entre nomes, mas como *o* nome, o alvo central de uma operação que vai muito além do tráfico de corpos nas fronteiras. Em *Zephyra*²³, Lysias Thyrion²⁴ recebe um visitante que deixa em sua mesa algo que não é ameaça nem advertência — é *convite*: um fragmento de cristal negro com a mesma luz azul-prateada que Alyndra vê em seus sonhos. Thaloris Ventaris²⁵ marca uma reunião nas ruínas do Templo de *Ventus*²⁶ com os contatos dos *Nihil Shid*²¹, caminhando para o ponto de não-retorno. E no Orfanato Luminis¹, o ar continua ficando mais pesado, Nyx continua sem dormir, e Alyndra — de mãos frias e olhos antigos — sussurra para ninguém que consegue ouvir: *"Algo está vindo."*
-
-*"Quando a armadilha se fecha, o que importa não é o tamanho da jaula — é se quem está dentro ainda se lembra de como voar."*

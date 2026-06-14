@@ -405,12 +405,3 @@ Ao lado da cama, Nyx observava as duas com os olhos prateados brilhando na penum
 ¹⁵ **argentis** — Árvore majestosa de tronco prateado e copa densa, muito comum nas regiões de planície de Sylvaris.
 
 Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-
-Os mistérios que cercam o despertar de Alyndra começarão a atrair olhares indesejados para o Orfanato Luminis. Enquanto Lyris intensifica os treinos físicos da menina na tentativa de forjar uma base de sobrevivência antes que o pior aconteça, o jovem arauto Lysias Thyrion tentará cruzar as portas da instituição em busca de uma reportagem que o seu editor proibiu.
-
-Nos salões dourados de Sanctrum, contudo, a análise técnica da primeira transmissão trará revelações inquietantes: a RRA registrou uma ressonância proibida em Velantis, e uma ordem de investigação sigilosa será enviada para o distrito leste.

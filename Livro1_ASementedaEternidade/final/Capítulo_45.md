@@ -365,11 +365,3 @@ Como *sempre*.
 ⁴⁰ **Nihil Shid** — Ordem secreta de *nihilarys*³³; responsáveis pela conspiração contra Alyndra⁷.
 
 ⁴¹ **sylentis** — Indivíduo sem afinidade elemental ativa; sem *aethra*¹⁸ manifestado.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-O orfanato está danificado mas *de pé*. As paredes leste e norte rachadas, o telhado parcialmente desabado, mas os alicerces *aguentaram* — como as crianças que cresceram ali. Kira²³ encontra os desenhos de Dravyn²⁴ preservados sob os escombros. Tomas²⁵ recupera três de suas pedras de contagem. Uma *Giralis*² que Kira²³ plantou no jardim *sobreviveu* — única coisa verde em um mar de cinzas. E depois — as casas. A casa de Melessa Solynthr. A casa de Ayla³⁰. Na parede do quarto de Ayla³⁰, escrita em *Emê-Gir*, uma mensagem que alguém deixou para uma filha que nunca a conheceu. E Alyndra⁷ — que nunca soube que aquela parede era de sua mãe — *sente*. Sente o que as palavras dizem mesmo sem entender a língua. E chora — não por Nyx¹², não pelo orfanato — por uma mulher que amou antes de ver, que morreu para que pudesse viver, e cuja última vontade estava *escrita na parede* há cinco *valens*⁵. E depois — duas figuras caminhando juntas. Os campos de *aethrys*⁶ dourados sob a luz de *Aurion*¹¹. O horizonte curvando para o mar. *Thalassia*²⁸. O desconhecido. E Alyndra⁷ olha para trás — uma última vez — e depois olha para a frente. E não olha para trás *de novo*.
-
-*"O final não é quando a história acaba. O final é quando a personagem *decide* caminhar para frente. E isso — isso é o mais difícil que existe."*

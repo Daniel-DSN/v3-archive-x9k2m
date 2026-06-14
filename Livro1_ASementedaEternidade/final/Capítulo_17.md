@@ -433,11 +433,3 @@ E nos confins mais profundos do aethra — naquele lugar onde a luz de Aurion³ 
 ³⁹ **thermaris** — Poder elemental associado ao vapor e ao calor; a afinidade de Lyris.
 
 Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No próximo capítulo, os sussurros que chegaram até Alyndra deixarão marcas que irão além dos cristais de gelo em seu travesseiro. Lyris, confrontada com a certeza de que os sintomas que reconhece em Alyndra são os mesmos que viu em suas vítimas durante os anos no Tar-Gig, será forçada a uma decisão impossível: revelar à menina a verdade sobre o que está acontecendo e arriscar piorar o processo de possessão — ou mantê-la no escuro e tentar fortalecer sua mente antes que seja tarde demais. Enquanto isso, em Sanctrum, a investigação encomendada por Aurelius chegará aos primeiros resultados — resultados que confirmarão seus piores medos e o forçarão a uma escolha entre o dever de Guardião Mestre e o instinto de pai. E em algum lugar nas profundezas de um oceano que não existe em nenhum mapa, Kal-Nyxar avança para o Estágio Dois — a Permissividade Gradual —, confiante de que a semente já está plantada e que a colheita é apenas uma questão de paciência.
-
-*"A corrente puxa. A menina sente. O pai vigia. A guardiã treina. E nas profundezas, algo que não tem nome sorri — pois o primeiro fio foi costurado, e os outros seguirão, como sempre seguiram, como sempre seguirão."*

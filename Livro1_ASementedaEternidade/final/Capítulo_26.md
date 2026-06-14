@@ -260,11 +260,3 @@ Algo que ainda não tinha nome.
 ³⁰ **velrok** — Montaria de grande porte usada para transporte e combate em Alyndra.
 
 ³¹ **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, a notícia do ataque ao Orfanato Luminis chega a Sanctrum como um raio — não pelo canal oficial da *RRA*³², que é lento por natureza, mas por um cristal privado que pulsa com a frequência pessoal de quem tem o poder de fazer continentes tremerem. Aurelius³³ fecha os olhos, e a Torre de Aurion³⁴ treme com ele. Selynis Thalassa³⁵ transforma a Câmara dos Sussurros³⁶ em um centro de operações de guerra: mapas, rotas, agentes. E Aldric²⁸ revela — não com palavras, mas com ação — que o jardineiro silencioso do orfanato sabe coisas que jardineiros não deveriam saber. Múltiplas frentes de resgate se abrem como veias sangrentas em um mapa que, a cada momento, se parece mais com um campo de batalha.
-
-*"Quando se rouba uma criança, não se rouba apenas uma vida. Rouba-se o futuro inteiro que essa vida carregava dentro de si — e o futuro, quando roubado, tem o hábito de cobrar juros."*

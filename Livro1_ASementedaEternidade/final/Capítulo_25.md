@@ -353,12 +353,3 @@ Um silêncio que era o som do mundo desmoronando.
 ²⁸ **cryonys** — SinDrarys (fusão elemental) de Água + Vento; manifesta gelo e congelamento. Alyndra é portadora.
 
 ²⁹ **argentis** — Árvore de casca prateada e folhas translúcidas; comum em florestas de *Sylvaris*.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-No capítulo seguinte, a jornada se torna pessoal. Korath²¹ carrega Alyndra⁵ através da floresta, do rio, das planícies — uma marcha implacável que testa os limites de uma criança de cinco anos. Mas Alyndra⁵ surpreende: quando tropeça, quando o frio do *cryonys*²⁸ emerge em seus braços como uma couraça de inverno, quando o medo ameaça engoli-la, ela encontra algo dentro de si que Korath²¹ não esperava. *Nyx*⁷ não abandona — a *lyrien*⁸ prateada caminha ao lado da menina a cada passo, sua presença quente contra o peito de Alyndra⁵ como um coração que pulsa em compasso de lealdade. E em um momento de descanso sob uma *Argentis*²⁹ velha, entre a escuridão da noite e o nascimento de *Aurion*, Alyndra⁵ sussurra uma frase que carrega o peso de uma fé que nada no mundo poderia justificar — e *Nyx*⁷, com a única linguagem que conhece, responde.
-
-*"O medo não é ausência de coragem. É a coragem que ainda não aprendeu o próprio nome."*
-— Provérbio das planícies de *Val-Koras*

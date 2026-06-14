@@ -451,11 +451,3 @@ Perguntas para as quais ainda não tinha respostas. Mas Lyris havia construído 
 ³⁹ **Nyctara** — Codinome de Lyris; "A Sombra de Sanctrum", agente dos Tar-Gig.
 
 ⁴⁰ **Tar-Gig** — Unidade de elite da Ordem dos Guardiões; agentes de operações especiais.
-
----
-
-## 🔮 Previsão: Próximo Capítulo
-
-Uma velha parteira cumpriu sua promessa. Agora a promessa precisa de quem a carregue adiante.
-
-*"O legado não é o que deixamos para trás — é o que deixamos crescer."*
