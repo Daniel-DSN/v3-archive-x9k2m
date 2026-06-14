@@ -72,7 +72,7 @@ Até que algo germinou.
 
 No coração ardente onde a Semente fora selada, uma árvore nasceu — não de madeira, mas de luz e memória. Seus galhos abriam-se como braços sobre jardins de campos ondulantes e rios de algo que parecia *aethra* líquido.
 
-De um fruto dessa árvore, dez seres emergiram. Cinco da luz. Cinco da sombra. Cada par em torno de algo elementar — fogo, água, terra, vento, relâmpago. Caminharam entre mortais. Ensinar, construir, curar, nomear. Recusaram ser deuses. Dissiparam-se um a um, como quem espalha sementes e não fica para ver crescer.
+De um fruto dessa árvore, dez seres emergiram. Cinco da luz. Cinco da sombra. Cada par em torno de algo elementar — fogo, água, terra, vento, relâmpago. Um deles ajoelhou-se diante de um rio de *aethra* líquido e, com as mãos, abriu caminhos onde antes só havia pedra. Caminharam entre mortais. Ensinar, construir, curar, nomear. Recusaram ser deuses. Dissiparam-se um a um, como quem espalha sementes e não fica para ver crescer.
 
 E da árvore, algo mais. A consciência que guardava o jardim deu tudo o que restava — e do sacrifício nasceram dois. Um de luz. Um de sombra. Irmãos.
 
@@ -82,9 +82,11 @@ Ayla sentiu o ventre se mexer. Não o bebê — algo mais fundo. Como se o sonho
 
 O irmão de sombra estava a ser sussurrado.
 
-Não por palavras — por *presença*. Algo nas bordas da consciência, algo que falava nos intervalos entre os pensamentos, plantando ideias como quem planta veneno num jardim que não sabe que está a morrer. Ayla via-o como quem vê um lago escuro: sabia que havia profundidade, mas não conseguia ver o fundo. E a profundidade estava a subir.
+Um toque — o da irmã sobre o ombro dele — que antes era calor e passou a ser gelo. Nenhuma palavra. Só o frio crescendo onde havia afeto.
 
-A guerra veio depois. Não como batalha — como *fractura*. Irmão contra irmã. Sombra contra luz. E no meio, aqueles que amavam os dois lados, partidos ao meio pelo dever.
+Por algo mais fundo que palavras: uma *presença*. Algo nas bordas da consciência, algo que falava nos intervalos entre os pensamentos, plantando ideias como quem planta veneno num jardim que não sabe que está a morrer. Ayla via-o como quem vê um lago escuro: sabia que havia profundidade, mas não conseguia ver o fundo. E a profundidade estava a subir.
+
+A guerra veio depois — e veio como *fractura*. Irmão contra irmã. Sombra contra luz. E no meio, aqueles que amavam os dois lados, partidos ao meio pelo dever.
 
 Ayla viu alguém morrer. Não com bravura — com *teimosia*. De pé, entre o que amava e o que ameaçava o que amava, o corpo a falhar pedaço por pedaço mas recusando-se a cair. Cada segundo que aguentava era um segundo sem razão — nenhum plano, nenhuma esperança. Só a recusa animal de deixar alguém sozinho.
 
@@ -96,17 +98,17 @@ A luz da irmã fragmentou-se. Tornou-se o brilho em tudo: no reflexo da água, n
 
 Ayla acordou.
 
-Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta — madeira velha, silêncio, o cheiro de erva seca que a vizinha deixara na soleira. Lá fora, a *nyxara* era líquida e sem estrelas. As três luas — *Lyria*⁸, *Nyx*⁹, *Elara*¹⁰ — estavam ocultas sob a luz de *Aurion*, mas Ayla *sentia* que estavam ali. Alinhando-se. Esperando.
+Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta — madeira velha, silêncio, o cheiro de erva seca que a vizinha deixara na soleira. Lá fora, a *nyxara* era líquida e sem estrelas. As três luas — *Lyria*⁸, *Nyx*⁹, *Elara*¹⁰ — estavam ocultas sob a luz de *Aurion*, mas Ayla *sabia* que estavam ali. Alinhando-se. Esperando.
 
 E dentro dela, a criança mexeu-se.
 
-Não como bebês se mexem — com *urgência*. Como quem reconhece algo. Como quem tinha ouvido as mesmas visões e queria dizer alguma coisa que ainda não tinha boca para dizer.
+Com uma *urgência* que não pertencia a bebê. Como quem reconhece algo. Como quem tinha ouvido as mesmas visões e queria dizer alguma coisa que ainda não tinha boca para dizer.
 
-Ayla não entendia o que tinha sonhado. Não sabia os nomes. Não sabia que a mulher da esfera era uma primordial, ou que a figura que se despedaçara tinha um nome que soava como o mar, ou que o irmão caído dormia selado sob o mundo. Não sabia que a promessa que sentia pulsar no próprio sangue tinha sido plantada éons atrás por alguém que sorria enquanto o fim chegava.
+Ayla não entendia o que tinha sonhado. Não sabia os nomes. Não sabia que a mulher da esfera era uma primordial, ou que a figura que se despedaçara tinha um nome que soava como o mar, ou que o irmão caído dormia selado sob o mundo. Não sabia que a promessa que *ecoava* no próprio sangue tinha sido plantada éons atrás por alguém que sorria enquanto o fim chegava.
 
 Mas *sentia*.
 
-Sentia o peso de algo antigo sob as palmas — não no ventre, mas além. Sentia que a criança que crescia dentro dela não era apenas uma criança. Sentia que carregava uma herança que não tinha escolhido, de uma guerra que não tinha lutado, por um mundo que não conhecia — e que isso era simultaneamente a coisa mais terrível e mais bonita que já lhe tinha acontecido.
+Um peso antigo repousava sob as palmas — não no ventre, mas além. A criança que crescia dentro dela não era apenas uma criança. E ela carregava uma herança que não tinha escolhido, de uma guerra que não tinha lutado, por um mundo que não conhecia — e isso era simultaneamente a coisa mais terrível e mais bonita que já lhe tinha acontecido.
 
 E por um instante — um único instante, no limiar entre o sonho e a vigília — uma voz atravessou os éons e chegou até ela. Não com som. Com *aethra*. Com a mesma frequência que pulsava sob as mãos da mulher antiga na esfera dourada.
 
