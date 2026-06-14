@@ -536,7 +536,7 @@ Os Cristais de Aetherion são a **arma e ferramenta** característica dos Guardi
 | **Cristal de Selamento** | Prende hereges, neutraliza Aethra hostil | Alto Guardiões |
 | **Cristal Dourado** | Relíquia pessoal — monitora batimento cardíaco de alguém distante | Apenas Aurelius |
 
-Os Cristais de Aetherion são **recarregáveis** — absorvem Aethra ambiente e duram valen Gal-e. Mas sua produção foi perdida após a Era Seraphyen. Os existentes são relíquias insubstituíveis.
+Os Cristais de Aetherion são **recarregáveis** — absorvem Aethra ambiente e duram Aethrons. Mas sua produção foi perdida após a Era Seraphyen. Os existentes são relíquias insubstituíveis.
 
 ### 6.5 A Divisão Interna
 

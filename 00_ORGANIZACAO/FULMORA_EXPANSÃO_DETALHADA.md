@@ -368,7 +368,7 @@ O grupo surgiu há ~200 valens, quando um engenheiro chamado **Valtheris Fulmino
 
 Os diagramas mostravam:
 - Geradores de plasma mais eficientes que qualquer coisa que Fulmora tinha
-- Um sistema de comunicação baseado em pulsos de Aethra (valen Gal-e antes da RRA)
+- Um sistema de comunicação baseado em pulsos de Aethra (Aethrons antes da RRA)
 - Inscrições que pareciam ser **conversas entre Seraphyens** — discutindo física, não teologia
 
 Valtheris Fulminor concluiu que os Seraphyens eram engenheiros, não deuses. Fundou o movimento e começou a pregar.

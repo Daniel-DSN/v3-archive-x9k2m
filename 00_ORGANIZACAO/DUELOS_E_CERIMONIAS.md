@@ -231,7 +231,7 @@ O candidato deve **forjar sua própria arma** com as mãos nuas nas Forjas Reais
 - **Funcionalidade:** A arma deve ser utilizável em combate
 - **Originalidade:** O design deve ser único
 
-Ignar forjou sua coroa. Elainy forjou sua primeira espada aos 12 valens.
+Ignar forjou sua coroa. Elainy forjará sua primeira espada aos 10 valens.
 
 #### Parte 2: O Duelo da Dur Gal
 

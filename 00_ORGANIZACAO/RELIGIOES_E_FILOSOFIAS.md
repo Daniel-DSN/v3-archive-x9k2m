@@ -60,7 +60,7 @@ As Leis de Ilyos são organizadas em **Sete Pilares** — princípios fundamenta
 
 ### 1.4 Práticas dos Seguidores
 
-Embora as Leis de Ilyos não exijam rituais, muitos seguidores adotaram práticas ao longo dos valen Gal-e:
+Embora as Leis de Ilyos não exijam rituais, muitos seguidores adotaram práticas ao longo dos Aethrons:
 
 | Prática | Descrição | Frequência |
 |---------|-----------|:----------:|

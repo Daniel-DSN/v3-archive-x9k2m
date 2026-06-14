@@ -83,7 +83,7 @@ Seu raciocínio era implacável:
 - O ressentimento gera **manipulação**: entidades quebradas (como os Nihilaryth) se alimentam da brecha entre o que se promete e o que se recebe.
 - A manipulação gera **possessão**: o culto abre a porta. A porta aberta é o convite.
 
-Este ciclo foi exatamente o que aconteceu com Nyxalor: Mythra (O Engano, líder Nihilaryth) sussurrou em seus ouvidos por valen Gal-e, alimentando seu ciúme e ressentimento contra Ilyos, até que ele se corrompeu e mergulhou o mundo em guerra. Ilyos, junto com Elarys (Seraphyen do Fogo/Sombra), selou Nyxalor no Dingir-sar, sacrificando ambas as suas essências no processo.
+Este ciclo foi exatamente o que aconteceu com Nyxalor: Mythra (O Engano, líder Nihilaryth) sussurrou em seus ouvidos por Aethrons, alimentando seu ciúme e ressentimento contra Ilyos, até que ele se corrompeu e mergulhou o mundo em guerra. Ilyos, junto com Elarys (Seraphyen do Fogo/Sombra), selou Nyxalor no Dingir-sar, sacrificando ambas as suas essências no processo.
 
 Ilyos dizia:
 
@@ -97,7 +97,7 @@ A distorção veio com o tempo: o que era centro de estudo tornou-se santuário;
 
 ### 1.6 As Práticas dos Seguidores
 
-Embora as Leis de Ilyos não exijam rituais, os Sylvari da Era de Veridion adotaram práticas espontâneas ao longo dos valen Gal-e:
+Embora as Leis de Ilyos não exijam rituais, os Sylvari da Era de Veridion adotaram práticas espontâneas ao longo dos Aethrons:
 
 | Prática | Descrição | Frequência |
 |---------|-----------|:----------:|
@@ -233,7 +233,7 @@ Na Era de Veridion, os Koramis não eram **montarias de guerra** — eram **parc
 - O humano oferecia proteção durante o sono (Koramis são vulneráveis no chão)
 - Nenhum dos dois "possuía" o outro
 
-O treinamento de Koramis para guerra veio valen Gal-e depois, introduzido por reinos vizinhos que viam potencial militar nas criaturas.
+O treinamento de Koramis para guerra veio Aethrons depois, introduzido por reinos vizinhos que viam potencial militar nas criaturas.
 
 ---
 
@@ -274,7 +274,7 @@ Séculos após a dissipação de Veridion:
 - Rituais de adoração foram inventados — oferendas de vinho (Aeriva), danças de vento, cânticos em "Emê-Gir antigo" (que ninguém mais entendia)
 - A Igualdade Original foi reclassificada como "mitologia infantil"
 
-**Ironia:** O nome "Ventus" não existia na Era de Veridion. Foi inventado valen Gal-e depois. O verdadeiro nome de Veridion, inscrito nas fundações da Edubba original, foi coberto por um altar de obsidiana — o mesmo altar onde Thaloris foi possuído.
+**Ironia:** O nome "Ventus" não existia na Era de Veridion. Foi inventado Aethrons depois. O verdadeiro nome de Veridion, inscrito nas fundações da Edubba original, foi coberto por um altar de obsidiana — o mesmo altar onde Thaloris foi possuído.
 
 ---
 
@@ -946,7 +946,7 @@ Em conversa privada com Lyris (ocorrida entre os capítulos 26 e 29):
 
 1. **Estabilizar o Conselho** — Impedir guerra civil entre as Casas
 2. **Proteger o Orfanato** — Garantir que Alyndra nunca seja descoberta
-3. **Encontrar os Textos Perdidos** — Os escritos originais de Veridion, escondidos há valen Gal-e
+3. **Encontrar os Textos Perdidos** — Os escritos originais de Veridion, escondidos há Aethrons
 4. **Formar novos líderes** — Crianças do orfanato educadas nos ensinamentos originais de Ilyos
 5. **Dissolver o Kur Lil** — Gradualmente, sem violência, restaurando a verdade histórica
 6. **Restaurar os 7 Pilares das Leis de Ilyos** — Sylvaris como era na Era de Veridion

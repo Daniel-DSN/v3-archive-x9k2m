@@ -5259,7 +5259,7 @@ Vulkaryth (Seraphyen da Luz do Fogo, desaparecido)
 │   └── ...
 │       └── ...
 │ └── Lugal Izi Ignar Vulkarys, atual Lugal Izi
-│               ├── Dumu Nin Elainy Vulkarys (Dumu Gal, 22 valens)
+│               ├── Dumu Nin Elainy Vulkarys (Dumu Gal, 8 valens)
 │               └── (filhos mais velhos falecidos em batalha)
 ```
 
@@ -5288,7 +5288,7 @@ Filha unica sobrevivente de Ignar, 22 valens. Guerreira em treinamento, Dumu Nin
 Feroz como o pai, mas mais diplomática. Ignar a esta treinando para ser a maior guerreira de sua geracao — e possivelmente a proxima competidora do Grande Duelo Divino.
 
 **Historia:**
-Elainy perdeu tres irmaos mais velhos em batalhas e acidentes nas forjas. Desde os 10 valens, treina diariamente com a Mestra Elara Forjavis e o General Vorath. Sua Jornada da Forja foi considerada a mais rigorosa da historia recente de Pyralis — passou um valen nas minas de obsidiana, um valen nas forjas do Circulo 2 e um valen na fronteira com Fulmora.
+Elainy perdeu tres irmaos mais velhos em batalhas e acidentes nas forjas. Desde os 5 valens, e treinada pela Mestra Elara Forjavis e pelo General Vorath na arte da forja e do combate. Sua Jornada da Forja ainda nao comecou — o ritual so ocorre aos 16 valens —, mas Ignar ja a introduziu nas Forjas Primordiais.
 
 **No Capítulo 8:**
 Na inauguracao da RRA, Elainy acompanhou o pai como sua sucessora, representando Pyralis na Mesa dos Vinculadores ao lado de Ignar.
@@ -5569,7 +5569,7 @@ A neutralidade rigida de Pyralis e cada vez mais questionada internamente. Algun
 
 ### 13.4 A Sucessao de Ignar
 
-Com 80 valens, Ignar nao e jovem. Sua unica Dumu Nin e Elainy, de 22 valens. Se Ignar morrer antes que Elainy esteja pronta, Pyralis pode mergulhar em uma guerra civil entre faccoes que preferem um lider mais... tradicional. O General Vorath e leal a Elainy, mas nem todos no Conselho de Guerra compartilham dessa lealdade.
+Com 80 valens, Ignar nao e jovem. Sua unica Dumu Nin e Elainy, de 8 valens. Se Ignar morrer antes que Elainy esteja pronta, Pyralis pode mergulhar em uma guerra civil entre faccoes que preferem um lider mais... tradicional. O General Vorath e leal a Elainy, mas nem todos no Conselho de Guerra compartilham dessa lealdade.
 
 ### 13.5 As Criaturas das Profundezas Vulcanicas
 

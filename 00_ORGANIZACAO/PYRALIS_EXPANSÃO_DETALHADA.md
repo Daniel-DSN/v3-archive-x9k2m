@@ -85,7 +85,7 @@ Ignisara decretou que **todo pyraliano deveria passar pelos três círculos** pa
 
 Ignisara era o Seraphyen do Fogo no aspecto **Luz (Forjar)** — o irmão gêmeo de Elarys (Fogo/Sombra/Consumir). Enquanto Elarys personificava o fogo que destrói, a chama que consome, Ignisara representava o fogo que **transforma**: a forja, a brasa controlada, o calor que dá forma ao metal.
 
-Diferente de outros Seraphyens que governaram com mão pesada, Ignisara era um **artesão divino**. Passava valen Gal-e nas profundezas do Monte Pyralis, forjando as primeiras armas e ferramentas que a humanidade usaria para construir Nova Aetherion.
+Diferente de outros Seraphyens que governaram com mão pesada, Ignisara era um **artesão divino**. Passava Aethrons nas profundezas do Monte Pyralis, forjando as primeiras armas e ferramentas que a humanidade usaria para construir Nova Aetherion.
 
 ### 2.2 Características e Personalidade
 
@@ -132,7 +132,7 @@ Ignisara deixou três legados que definem Pyralis:
 
 ### 3.1 O Processo de Distorção
 
-A corrupção dos ensinamentos de Ilyos em Pyralis não foi obra de Nihilaryth — foi obra de **valen Gal-e de militarismo crescente**. Diferente de Sylvaris, onde a distorção veio da ganância de Thaloris, em Pyralis a erosão foi **lenta, gradual e aceita por todos**.
+A corrupção dos ensinamentos de Ilyos em Pyralis não foi obra de Nihilaryth — foi obra de **Aethrons de militarismo crescente**. Diferente de Sylvaris, onde a distorção veio da ganância de Thaloris, em Pyralis a erosão foi **lenta, gradual e aceita por todos**.
 
 Cada geração apertou um pouco mais o parafuso:
 
@@ -706,7 +706,7 @@ A Casa Vulkarys governa Pyralis desde a dissipação de Ignisara (~2.300 E.D.). 
 ```
 Ignar Vulkarys (80 valens) — Lugal Izi
 ├── Casado com Seraphina Vaelis (morta no parto)
-│   └── Elainy Vulkarys (22 valens) — Dumu Nin, Dumu Gal
+│   └── Elainy Vulkarys (8 valens) — Dumu Nin, Dumu Gal
 ├── Irmão: Vorath (falecido em batalha)
 │   └── Sem Dumu Gal
 └── Prima: Mestra Elara Forjavis (55 valens) — Chefe das Armas Etéreas
@@ -808,7 +808,7 @@ Os pyralianos carregam em sua aparência a herança de **Ignisara**, o Seraphyen
 | Cargo | Titular | Função |
 |-------|---------|--------|
 | **Lugal Izi** (Senhor Supremo) | **Ignar Vulkarys** | Governante absoluto. 55 valens. Ex-ferreiro que ascendeu ao poder pela força. Implacável, mas não cruel sem motivo |
-| **Dumu Nin** (Herdeira) | **Elainy Vulkarys** | Filha de Ignar. 22 valens. Enviada como "hóspede" ao Conselho dos 12 em Sanctrum — na prática, refém política. Ruiva de fogo vivo, olhos âmbar, temperamento explosivo mas inteligente |
+| **Dumu Nin** (Herdeira) | **Elainy Vulkarys** | Filha de Ignar. 8 valens. Enviada como "hóspede" ao Conselho dos 12 em Sanctrum — na prática, refém política. Ruiva de fogo vivo, olhos âmbar, temperamento explosivo mas inteligente |
 | **Forja-Chefe** (Conselheiro militar) | **General Vorath** | Comandante das Legiões. 60 valens. Cicatriz de queimadura em metade do rosto. Leal a Ignar desde os 20 valens |
 | **Mestra das Sete Forjas** | **Mestra Elara Forjavis** | Supervisiona toda a produção metalúrgica e as Forjas Primordiais. 58 valens. Considerada a melhor forjadora viva de Nova Aetherion |
 | **Gish Simug — Juiz Supremo** | **Krahns** | Chefe do sistema jurídico e das execuções. 50 valens. Conhecido como "A Balança de Ferro" — segue a lei ao pé da letra, sem compaixão |
@@ -849,7 +849,7 @@ Vulkarys Prime (avô de Ignar — morto em duel)
     ├── Ignar Vulkarys (Lugal Izi — 55 valens)
     │   ∞ Seraphina Vaelis (esposa — morta 10 valens atrás, "febre de cinzas")
     │   │
-    │   ├── Elainy Vulkarys (Dumu Nin — 22 valens, refém em Sanctrum)
+    │   ├── Elainy Vulkarys (Dumu Nin — 8 valens, refém em Sanctrum)
     │   ├── Thorn Vulkarys (filho mais velho — 28 valens, morto em batalha 3 valens atrás)
     │   │   ∞ (deixou viúva e filha: Vela Vulkarys, 8 valens)
     │   └── Vaelis Vulkarys (filho caçula — 18 valens, aspirante a ferreiro)

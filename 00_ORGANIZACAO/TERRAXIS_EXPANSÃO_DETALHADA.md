@@ -174,7 +174,7 @@ Assim como em Sylvaris, as Leis de Ilyos não foram derrubadas em Terraxis — f
 
 O Pilar I (*Ilyos Sha* — Igualdade) foi o mais profundamente distorcido. A interpretação original de Galamar era clara: *"Todos têm o mesmo peso perante a montanha."*
 
-A reinterpretação moderna, forjada pelo En Dur Kun ao longo dos valen Gal-e, tornou-se:
+A reinterpretação moderna, forjada pelo En Dur Kun ao longo dos Aethrons, tornou-se:
 
 > *"Todos são iguais **perante o contrato**. Se você assina o mesmo contrato que outro, tem os mesmos direitos. Se você não assina contrato, você não existe perante a lei."*
 

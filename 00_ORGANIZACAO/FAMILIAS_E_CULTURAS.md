@@ -420,7 +420,7 @@ O Culto de Nyxalor tem presença moderada (~5%), especialmente entre técnicos q
 
 #### Expansão: Tradições da Casa Vulkarys
 
-- **A Forja do Herdeiro:** Todo Vulkarys, ao completar 10 valens, deve forjar sua própria arma. Pode levar meses, anos — mas a arma deve ser forjada com as próprias mãos. Ignar forjou sua Zagin Gal. Elainy forjou sua primeira espada aos 12 valens.
+- **A Forja do Herdeiro:** Todo Vulkarys, ao completar 10 valens, deve forjar sua própria arma. Pode levar meses, anos — mas a arma deve ser forjada com as próprias mãos. Ignar forjou sua Zagin Gal. Elainy forjará sua primeira espada aos 10 valens, quando completar a Forja do Herdeiro.
 - **O Duelo da Dur Gal:** Quando um Lugal Gal morre, os Dumu Gal disputam o Gal Lugal em um duelo ritual. Não até a morte — até a desistência. Ignar venceu seus dois irmãos mais velhos.
 - **Juramento da Chama Eterna:** Ao assumir o Gal Lugal, o Lugal Gal mergulha as mãos no Fogo Eterno do Monte Pyralis. Queimaduras são esperadas — cicatrizes são marcas de honra.
 - **O Teste da Forja:** Imperadores em exercício passam um daen inteiro a cada valen forjando algo nas Forjas Reais. Se o Lugal Gal não consegue mais forjar, não consegue mais governar.
@@ -698,7 +698,7 @@ A sociedade Nihilaryth é baseada em **poder absoluto**. Não há leis escritas 
 
 #### Relação com o Tempo
 
-Nihilaryth não envelhecem. Para eles, impérios humanos sobem e descem como ondas. Eles planejam em escala de valen Gal-e, não de gerações.
+Nihilaryth não envelhecem. Para eles, impérios humanos sobem e descem como ondas. Eles planejam em escala de Aethrons, não de gerações.
 
 #### Relação com Ilyos e Nyxalor
 

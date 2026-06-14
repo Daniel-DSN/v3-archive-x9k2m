@@ -91,7 +91,7 @@ Quanto mais um Nihilaryth se alimenta, mais forte fica. E quanto mais forte fica
 ### 2.1 Quem É Mythra
 
 **Mythra** (em Emê-Gir: *"Aquela que Engana"*) é a líder suprema dos Nihilaryth e a entidade mais perigosa de Nova Aetherion. Foi ela quem:
-- Corrompeu Nyxalor ao longo de valen Gal-e de manipulação
+- Corrompeu Nyxalor ao longo de Aethrons de manipulação
 - Arquiteta a guerra secreta contra Nova Aetherion
 - Planeja a libertação de Nyxalor para "restaurar o equilíbrio"
 
@@ -124,7 +124,7 @@ Sua frase mais famosa (sussurrada a Nyxalor durante sua corrupção):
 
 ### 2.4 O Papel na Corrupção de Nyxalor
 
-Mythra passou **valen Gal-e** corrompendo Nyxalor. Não foi um evento — foi um processo:
+Mythra passou **Aethrons** corrompendo Nyxalor. Não foi um evento — foi um processo:
 
 | Fase | Duração | O Que Mythra Fez |
 |:----:|:-------:|-----------------|
@@ -547,7 +547,7 @@ E essa convicção tornou impossível qualquer diálogo.
 
 ### 11.1 A Guerra
 
-A guerra entre Ilyos e Nyxalor durou **valen Gal-e**:
+A guerra entre Ilyos e Nyxalor durou **Aethrons**:
 - Milhões de mortos (humanos e Seraphyens)
 - Reinos inteiros devastados
 - O continente de Nova Aetherion foi remodelado pela violência elemental

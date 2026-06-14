@@ -830,7 +830,7 @@ Ilyos ganha 3 Daens extras (28→31).
 ### AURELIUS LUMIVEL (O Pai Oculto)
 
 - **Título:** En Me (Guardião Mestre), 33º na linhagem
-- **Idade:** Vários valen Gal-e (nascido sob 5ª Convergência)
+- **Idade:** Vários Aethrons (nascido sob 5ª Convergência)
 - **Linhagem:** Descendente direto do Seraphyen Vento Luz
 - **Classificação:** Estágio VII (Primordial), poder máximo
 - **Relação com Ayla:** Amantes secretos quando serviam na Kalúdris (Ordem da Aurora)

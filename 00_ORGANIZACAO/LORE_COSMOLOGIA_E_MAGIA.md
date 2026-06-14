@@ -470,7 +470,7 @@ Nas profundezas do quasar, a Semente de Aertherion flutuava no plano imaterial, 
 
 ### 8.1 Eões no Abismo
 
-O tempo passou — não dias, não anos, não valen Gal-e, mas **eões**. Enquanto o universo exterior se transformava, a Semente permanecia em seu invólucro imaterial no coração do Grande Quasar.
+O tempo passou — não dias, não anos, não Aethrons, mas **eões**. Enquanto o universo exterior se transformava, a Semente permanecia em seu invólucro imaterial no coração do Grande Quasar.
 
 Mas a Semente não estava inativa.
 
@@ -664,7 +664,7 @@ E viu a vulnerabilidade.
 
 ### 12.2 A Observação
 
-Mythra estudou Ilyos e Nyxalor por valen Gal-e. Aprendeu:
+Mythra estudou Ilyos e Nyxalor por Aethrons. Aprendeu:
 
 - **Ilyos** era amada, respeitada, tinha a Armadura, tinha a confiança dos Seraphyens.
 - **Nyxalor** era poderoso, mas silencioso. Vivia à sombra da irmã. Sua contribuição era menos visível.
@@ -679,7 +679,7 @@ Mythra não atacou Nyxalor diretamente — começou a **sussurrar**:
 - _"Sua mãe a ama mais. Ela deu a Ilyos a chave para visitá-la."_
 - _"Os Seraphyens a seguem. Você é apenas o irmão dela."_
 
-O processo durou valen Gal-e, alimentando cada insegurança.
+O processo durou Aethrons, alimentando cada insegurança.
 
 ### 12.4 A Armadura como Símbolo
 
@@ -1690,7 +1690,7 @@ Todas viviam sob o Código de Harmonia, contribuindo com seus talentos únicos p
 #### Thalassianos
 **Origem:** Evoluídos nos oceanos profundos de Thalassia.
 **Aparência:** Pele azul-prateada coberta por escamas bioluminescentes minúsculas. Brânquias no pescoço e pulmões — respiram tanto água quanto ar. Membranas entre os dedos. Olhos grandes e escuros adaptados às profundezas. Cabelos como algas marinhas vivas.
-**Cultura:** Meditativos, sábios, pacientes. São os curandeiros e filósofos de Aertherion. Passam valen Gal-e em meditação submarina, buscando verdades universais.
+**Cultura:** Meditativos, sábios, pacientes. São os curandeiros e filósofos de Aertherion. Passam Aethrons em meditação submarina, buscando verdades universais.
 **Habilidade Especial:** **Canto das Profundezas** — podem emitir frequências sonoras que curam ferimentos ou acalmam mentes perturbadas.
 
 #### Terraxianos
@@ -1972,7 +1972,7 @@ Os primeiros a cair foram os **descontentes** — aqueles que, por razões pesso
 O Primeiro Sábio de Alyndra — **Orion Val Aetheris**, o mais antigo conselheiro da Nin Gal — foi a possessão mais valiosa. Através dele, Mythra ganhou acesso aos segredos de defesa de Aertherion.
 
 **Fase 3 — Propagação (Séculos 10-50):**
-Como um câncer metastático, a possessão se espalhou. Cada Nihilaryth em uma casca material podia plantar a semente da corrupção em outros. Em 50 valen Gal-e, milhões estavam comprometidos:
+Como um câncer metastático, a possessão se espalhou. Cada Nihilaryth em uma casca material podia plantar a semente da corrupção em outros. Em 50 Aethrons, milhões estavam comprometidos:
 
 - **Generais** corrompidos que enviavam tropas para o lugar errado.
 - **Agis** que viravam votos contra os interesses de Aertherion.

@@ -56,7 +56,7 @@ Hoje, das 10 relíquias, apenas **3 foram encontradas** — e todas são dos **a
 Nem toda relíquia tem o mesmo poder. A força de uma relíquia depende de:
 1. **O elemento** — Fogo e Relâmpago são mais agressivos; Água e Terra são mais contidos
 2. **O aspecto** — Sombra (Reciclador) tende a ser mais destrutivo; Luz (Construtor) é mais criativo
-3. **O estado** — relíquias recém-encontradas são mais fracas; relíquias alimentadas por valen Gal-e são mais poderosas
+3. **O estado** — relíquias recém-encontradas são mais fracas; relíquias alimentadas por Aethrons são mais poderosas
 
 | Nível | Descrição | Exemplo |
 |:-----:|-----------|---------|
@@ -72,7 +72,7 @@ Nem toda relíquia tem o mesmo poder. A força de uma relíquia depende de:
 |:-:|:--------:|:-------:|:----------|:---------|:--------:|
 | 1 | **Fogo** | Luz (Forjar) | **Ignisara** | **Gibil Simug** (Forja da Criação) | ❌ Perdida |
 | 2 | **Fogo** | Sombra (Consumir) | **Elarys** | **Zagin Gibil Gig** (Chama que Tudo Consome) | ✅ **ENCONTRADA** |
-| 3 | **Água** | Luz (Nutrir) | **Myrrhiel** (Myrrhiel) | **Sha A Zagin** (Coração Líquido de Luz) | ❌ Perdida |
+| 3 | **Água** | Luz (Nutrir) | **Myrrhiel** | **Sha A Zagin** (Coração Líquido de Luz) | ❌ Perdida |
 | 4 | **Água** | Sombra (Dissolver) | **Liora** | **Isi A Gig** (Olho do Mar Profundo) | ✅ **ENCONTRADA** (oculta com Marethyus, farsa de roubo) |
 | 5 | **Terra** | Luz (Sustentar) | **Solarys** | **Dur Kun Zagin** (Berço da Terra Firme) | ❌ Perdida |
 | 6 | **Terra** | Sombra (Enterrar) | **Calyssor** | **Ush Kun Gig** (Punho da Morte Enterrada) | ❌ Perdida |
@@ -111,7 +111,7 @@ Nem toda relíquia tem o mesmo poder. A força de uma relíquia depende de:
 
 ### 4.1 Sha A Zagin (Coração Líquido de Luz) — Myrrhiel
 
-**Seraphyen:** Myrrhiel (Nutrir) — Água-Luz, aspecto Construtor (também conhecido como Myrrhiel)
+**Seraphyen:** Myrrhiel (Nutrir) — Água-Luz, aspecto Construtor
 **Estado:** ❌ **Perdida** — teoria: está no fundo do Uru A Gig (Cidade Submersa), guardada pelos Nihil Shid
 **Descrição:** Uma esfera de água pura que flutua por conta própria, pulsando com luz bioluminescente azul-clara. Quem toca a esfera sente uma paz profunda — como se o mar inteiro coubesse dentro do peito.
 **Poder:**
@@ -124,7 +124,7 @@ Nem toda relíquia tem o mesmo poder. A força de uma relíquia depende de:
 
 **Seraphyen:** Liora (Dissolver) — Água-Sombra, aspecto Reciclador
 **Estado:** ✅ **Encontrada (oculta)** — ex-Lugal Marethyus simulou o roubo da relíquia para protegê-la e evitar que caísse nas mãos do reino para controle. Permanece com ele em seu exílio secreto em Cristalnor.
-**Descrição:** Um cristal negro do tamanho de um punho, polido por valen Gal-e sob pressão abissal. Quando ativo, pulsa com uma luz azul-profunda que hipnotiza quem a contempla. Diz-se que quem olha através do Isi A Gig pode **ver o que está escondido nas profundezas** — segredos, correntes de Aethra, e até o futuro do mar.
+**Descrição:** Um cristal negro do tamanho de um punho, polido por Aethrons sob pressão abissal. Quando ativo, pulsa com uma luz azul-profunda que hipnotiza quem a contempla. Diz-se que quem olha através do Isi A Gig pode **ver o que está escondido nas profundezas** — segredos, correntes de Aethra, e até o futuro do mar.
 **Poder:**
 - **Visão Abissal:** Revela rotas marítimas ocultas e correntes de Aethra submarinas
 - **Chave do Sha Thalassia:** É uma das três chaves necessárias para acessar o Coração de Thalassia

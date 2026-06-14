@@ -310,7 +310,7 @@ Nymperion (do Emê-Gir thalassiano *Nym Peri On* — "Cidade do Mar Eterno") é 
 O Kun Gal Uru das Marés é a residência oficial da Nin Kaelia e o centro político de Thalassia:
 
 **Arquitetura:**
-- Construído inteiramente de **coral vivo** moldado por mestres-coralistas ao longo de valen Gal-e
+- Construído inteiramente de **coral vivo** moldado por mestres-coralistas ao longo de Aethrons
 - O coral cresce e se adapta — o Kun Gal Uru está **sempre mudando**, sempre vivo
 - Torre central: 30 passos de altura, com Zagin Gal por uma concha gigante que funciona como sino
 - Salão do Gal Lugal: Aberto para o mar — as ondas quebram a 10 passos do Gal Lugal
@@ -449,7 +449,7 @@ Quando **Liora**, o Seraphyen da Água-Sombra (aspecto Dissolver/Reciclador), es
 Diferente de Myrrhiel, que preferia as águas claras da superfície e escolheu a família Vaelor como seus guardiões, Liora habitava as **profundezas abissais** — e viu nos Marethyus a mesma coragem de mergulhar no escuro, explorar o que ninguém mais ousava.
 
 **Descrição:**
-- Um cristal negro do tamanho de um punho, polido por valen Gal-e sob pressão abissal.
+- Um cristal negro do tamanho de um punho, polido por Aethrons sob pressão abissal.
 - Quando ativo, pulsa com uma luz azul-profunda que hipnotiza quem a contempla.
 - Diz-se que quem olha através do Isi A Gig pode **ver o que está escondido nas profundezas** — segredos, correntes de Aethra, e até o futuro do mar.
 
@@ -663,7 +663,7 @@ Muitos acreditam que **Alyndra** (sem saber) é a "última Dumu Gal de Myrrhiel"
 
 ### 9.4 Tentativas de Acesso
 
-Ao longo dos valen Gal-e, várias tentativas foram feitas para acessar ou roubar o Coração:
+Ao longo dos Aethrons, várias tentativas foram feitas para acessar ou roubar o Coração:
 
 | Tentativa | Data | Quem | Resultado |
 |-----------|:----:|------|-----------|
