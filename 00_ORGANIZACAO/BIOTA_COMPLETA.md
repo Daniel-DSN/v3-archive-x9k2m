@@ -2,7 +2,7 @@
 
 > **Bestiário e Flora dos 7 Reinos (+ Nihilaryth)**
 > — Insetos, répteis, aves, mamíferos, megafauna, criaturas mágicas e toda a flora
-> **Total:** 387 espécies catalogadas (275 fauna + 121 flora)
+> **Total:** 388 espécies catalogadas (275 fauna + 122 flora)
 > **Atualizado:** 01 de Junius de 2026
 > **Nota:** Todos os nomes na coluna "Nome" são canônicos de Nova Aetherion — zero termos terrestres.
 
@@ -143,15 +143,16 @@
 | 15 | **Lumiara** | Gú Me | Legume bioluminescente amarelo-alaranjado. Cozido em sopas medicinais. Rico em Aethra. | legume | Hortas | Comum | abóbora / cenoura |
 | 16 | **Aerivinha** | Gú Gir | Fruto pequeno (2 cm) vermelho-escuro, doce e suculento. Cresce em arbustos nas bordas da floresta. | fruto silvestre | Bordas da Floresta de Argentis | Comum | amora / framboesa |
 | 17 | **Espinho-de-Vento** | Gir Lil Dur | Arbusto espinhoso que forma cercas vivas. Seus espinhos são ocos e assobiam com o vento. | arbusto defensivo | Cercas de campos | Comum | espinheiro |
+| 18 | **Velantina** | Gir Vel An | Erva de raízes grossas e aromáticas, nativa das colinas próximo a Velantis. Usada em infusões para aliviar o cansaço e o inchaço da gestação. Comum em feiras de ervas de Sylvaris. | erva medicinal | Colinas de Velantis, mercados de Zephyra | Comum | folha-de-framboesa / gengibre |
 
 ### Fungos
 
 | # | Nome | Nome Emê-Gir | Descrição | Categoria | Habitat | Raridade |
 |---|------|-------------|-----------|-----------|---------|----------|
-| 18 | **Cogumelo-Sussurrante** | Gir Gish | Fungo bioluminescente azul que pulsa em sincronia com sons ambientes. Cresce em troncos caídos. | fungo bioluminescente | Floresta de Argentis | Incomum |
-| 19 | **Cogumelo-de-Aeriva** | Gesh Shid | Fungo comestível de chapéu marrom-claro. Cresce em troncos de Aeriva. Sabor terroso. | fungo comestível | Florestas de Aeriva | Comum |
-| 20 | **Cogumelo-Prisma** | Gir Babbar | Fungo raro de cores iridescentes. Brilho fraco multicolorido. Usado em poções de cura. | fungo medicinal | Coração de Argentis | Raro |
-| 21 | **Bolor-das-Folhas** | Gir Nu | Fungo decompositor que recobre folhas caídas. Essencial para a reciclagem de nutrientes. | fungo decompositor | Toda floresta | Comum |
+| 19 | **Cogumelo-Sussurrante** | Gir Gish | Fungo bioluminescente azul que pulsa em sincronia com sons ambientes. Cresce em troncos caídos. | fungo bioluminescente | Floresta de Argentis | Incomum |
+| 20 | **Cogumelo-de-Aeriva** | Gesh Shid | Fungo comestível de chapéu marrom-claro. Cresce em troncos de Aeriva. Sabor terroso. | fungo comestível | Florestas de Aeriva | Comum |
+| 21 | **Cogumelo-Prisma** | Gir Babbar | Fungo raro de cores iridescentes. Brilho fraco multicolorido. Usado em poções de cura. | fungo medicinal | Coração de Argentis | Raro |
+| 22 | **Bolor-das-Folhas** | Gir Nu | Fungo decompositor que recobre folhas caídas. Essencial para a reciclagem de nutrientes. | fungo decompositor | Toda floresta | Comum |
 
 ---
 

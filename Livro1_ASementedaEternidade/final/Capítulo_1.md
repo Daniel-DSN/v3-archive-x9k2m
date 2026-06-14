@@ -18,9 +18,9 @@
 
 Ayla caminhava pelas ruas de *Zephyra*² como uma sombra que se recusava a ser notada. Afastou uma mecha de cabelo escuro do rosto e ajustou a gola da túnica — um gesto que já fizera centenas de vezes, mas que, com a barriga volumosa, perdera a elegância militar e ganhara o desenraçado de quem reconstrói hábitos no escuro.
 
-Três *nyras*¹⁶ de fuga. Três nyras desde que deixara Sanctrum para trás, cruzando o Mar de Cristal até Sylvaris — o mais livre dos sete reinos, onde ninguém perguntava de onde você vinha, contanto que não levasse guerra. Vinha à capital com frequência, sempre nos mesmos dias e horas, sabendo que a regularidade era a melhor forma de se tornar invisível.
+Três *nyras*¹⁶ de fuga. Três nyras desde que deixara Sanctrum para trás, cruzando o Mar de Vaelantor até Sylvaris — o mais livre dos sete reinos, onde ninguém perguntava de onde você vinha, contanto que não levasse guerra. Vinha à capital com frequência, sempre nos mesmos dias e horas, sabendo que a regularidade era a melhor forma de se tornar invisível.
 
-— Aqui está, dona Ayla — o comerciante entregou-lhe o pacote com um aceno respeitoso. Era um senhor de modos simples que vendia ervas aromáticas na praça de mármore. — As raízes de *Velantis*³ que a senhora pediu. Elas ajudam a aliviar o cansaço dessas últimas nyras de gestação.
+— Aqui está, dona Ayla — o comerciante entregou-lhe o pacote com um aceno respeitoso. Era um senhor de modos simples que vendia ervas aromáticas na praça de mármore. — As raízes de *velantina* que a senhora pediu. Elas ajudam a aliviar o cansaço dessas últimas nyras de gestação.
 
 Ayla pegou o pacote, forçando um sorriso discreto. Sua atenção, porém, estava no horizonte, além dos pilares de cristal que sustentavam a cidade suspensa.
 
@@ -60,7 +60,7 @@ Aurelius sabia? Ou alguém em seu nome agia sem o conhecimento dele? Não sabia 
 
 *Não eram mercenários. Pelo menos um deles não era.*
 
-Manteve a mão aberta por mais três segundos — tempo suficiente para que o homem no chão entendesse que, se ela quisesse, não estaria apenas imobilizado. Depois fechou os dedos. A água se dissolveu no ar, como se nunca tivesse existido.
+Manteve a mão aberta por mais três pulsos — tempo suficiente para que o homem no chão entendesse que, se ela quisesse, não estaria apenas imobilizado. Depois fechou os dedos. A água se dissolveu no ar, como se nunca tivesse existido.
 
 O homem se levantou tremendo. Olhou para Ayla — para a mulher grávida de pé no caminho, com uma mão sobre a barriga e a expressão serena de quem havia acabado de varrer o pó da varanda. Não disse nada. Agarrou a adaga e correu — tropeçando, caindo, se levantando — até desaparecer além da colina.
 
@@ -88,11 +88,11 @@ Ayla abandonou a estrada principal. Seguiu por atalhos entre as colinas, o passo
 
 Quando Aurion começou sua descida no céu, pintando as nuvens em tons de laranja e roxo, Ayla avistou seu destino.
 
-Mespiria era uma pequena comunidade agrícola nas cercanias de Velantis — longe o suficiente da capital para ser esquecida pela maioria, perto o suficiente para ter acesso aos suprimentos necessários. Famílias trabalhavam a terra que seus avós haviam trabalhado antes delas, e as preocupações do mundo pareciam distantes e irrelevantes.
+Mespiria era uma pequena comunidade agrícola nas cercanias de *Velantis*³ — longe o suficiente da capital para ser esquecida pela maioria, perto o suficiente para ter acesso aos suprimentos necessários. Famílias trabalhavam a terra que seus avós haviam trabalhado antes delas, e as preocupações do mundo pareciam distantes e irrelevantes.
 
 Era exatamente o que Ayla procurava.
 
-Chegara três nyras antes, aos vinte e oito valens, usando um nome falso e uma história que não levantava suspeitas — uma viúva de *Pyralis*¹⁰ cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas. Melessa Solynthr, a velha parteira da vila, ofereceu-lhe uma casa nos arredores e, à medida que a barriga de Ayla crescia, passara a visitá-la e dormir ali com frequência, preocupada com a proximidade da Convergência.
+Chegara três nyras antes, aos vinte valens, usando um nome falso e uma história que não levantava suspeitas — uma viúva de *Pyralis*¹⁰ cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas. Melessa Solynthr, a velha parteira da vila, ofereceu-lhe uma casa nos arredores e, à medida que a barriga de Ayla crescia, passara a visitá-la e dormir ali com frequência, preocupada com a proximidade da Convergência.
 
 — Demorou hoje — disse Melessa quando Ayla se aproximou. A velha parteira estava sentada na varanda, os dedos ágeis limpando ervas de cura sobre uma mesa de madeira. — A viagem de Zephyra fica cada vez mais longe para quem carrega uma barriga desse tamanho.
 
