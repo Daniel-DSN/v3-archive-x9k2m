@@ -120,7 +120,7 @@ Não entendeu.
 
 Acreditou.
 
-E nas semanas que se seguiram — enquanto a barriga crescia e os passos atrás dela se aproximavam e as três luas se alinhavam no céu como quem prepara um palco — Ayla pegou o carvão e começou a escrever na parede do quarto. Não para ser lida. Para ser *sentida*. Frase por frase, em *Emê-Gir*, a língua mais antiga que conhecia — a língua que os sonhos lhe tinham mostrado sem lhe darem o nome.
+E nas semanas que se seguiram — enquanto a barriga crescia e os passos atrás dela se aproximavam e as três luas se alinhavam no céu como quem prepara um palco — Ayla tocou a parede com o dedo. E *aethra* puro jorrou do seu toque — luz azul-prateada fluindo como tinta viva, traçando símbolos que pulsavam na pedra escura. Começou a escrever. Não para ser lida. Para ser *sentida*. Frase por frase, em *Emê-Gir*, a língua mais antiga que conhecia — a língua que os sonhos lhe tinham mostrado sem lhe darem o nome.
 
 Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio começar.
 
