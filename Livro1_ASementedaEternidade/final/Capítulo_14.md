@@ -254,7 +254,7 @@ Mas guardou a pergunta como quem guarda uma *giralis*²³ seca entre as páginas
 
 Mila Aldebar estava sentada no chão do refeitório, com as perninhas cruzadas e os olhos verdes fixos em Alyndra como se esta fosse a única coisa no mundo que importava.
 
-A menina menor tinha agora quase dois meses de idade — tempo suficiente para que a ferida da perda começasse a cicatrizar sob a superfície, mas não o suficiente para que desaparecesse. Ela já reconhecia os rostos das outras crianças. Já sorria quando Dravyn fazia vozes engraçadas, já estendia os braços quando Kira se aproximava, já dormia a nyxara inteira sem acordar aos gritos.
+A menina menor tinha agora quase dois valens — tempo suficiente para que a ferida da perda começasse a cicatrizar sob a superfície, mas não o suficiente para que desaparecesse. Ela já reconhecia os rostos das outras crianças. Já sorria quando Dravyn fazia vozes engraçadas, já estendia os braços quando Kira se aproximava, já dormia a nyxara inteira sem acordar aos gritos.
 
 Mas havia algo em Mila que as outras crianças não tinham: um silêncio.
 
