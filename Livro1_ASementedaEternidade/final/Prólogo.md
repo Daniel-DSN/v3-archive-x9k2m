@@ -18,7 +18,7 @@
 
 Ayla não dormia.
 
-Não porque não quisesse — porque ousar. Cada nyxara¹ era um risco. Fechar os olhos era abaixar a guarda, e baixar a guarda com uma criança crescendo no ventre e algo antigo seguindo seus passos era o tipo de imprudência que a Kalúdris² lhe tinha ensinado a não cometer. Três nyras³ de fuga tinham transformado o sono num luxo que o medo cobrava caro demais.
+Não porque não quisesse — porque não ousava. Cada nyxara¹ era um risco. Fechar os olhos era abaixar a guarda, e baixar a guarda com uma criança crescendo no ventre e algo antigo seguindo seus passos era o tipo de imprudência que a Kalúdris² lhe tinha ensinado a não cometer. Três nyras³ de fuga tinham transformado o sono num luxo que o medo cobrava caro demais.
 
 Mas naquela noite — a terceira noite em Mespiria⁴, numa casa que cheirava a madeira velha e ao silêncio de quem não morava ali há valens⁵ — o corpo de Ayla decidiu por ela. Os olhos fecharam. Os músculos cederam. E o sono não veio como quem entra num rio — veio como quem cai.
 
@@ -120,26 +120,44 @@ Não entendeu.
 
 Acreditou.
 
-E nas semanas que se seguiram — enquanto a barriga crescia e os passos atrás dela se aproximavam e as três luas se alinhavam no céu como quem prepara um palco — Ayla tocou a parede com o dedo. E *aethra* puro jorrou do seu toque — luz azul-prateada fluindo como tinta viva, traçando símbolos que pulsavam na pedra escura. Começou a escrever. Não para ser lida. Para ser *sentida*. Frase por frase, em *Emê-Gir*¹¹, a língua mais antiga que conhecia — a língua que os sonhos lhe tinham mostrado sem lhe darem o nome.
+E nas semanas que se seguiram — enquanto a barriga crescia e os passos atrás dela se aproximavam e as três luas se alinhavam no céu como quem prepara um palco — Ayla tocou a parede com o dedo. E *aethra*⁷ puro jorrou do seu toque — luz azul-prateada fluindo como tinta viva, traçando símbolos que pulsavam na pedra escura. Começou a escrever. Não para ser lida. Para ser *sentida*. Frase por frase, em *Emê-Gir*¹¹, a língua mais antiga que conhecia — a língua que os sonhos lhe tinham mostrado sem lhe darem o nome.
 
 Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio começar.
 
 ---
 
-¹ **nyxara** — Período noturno; a noite em Nova Aetherion.
-² **Kalúdris** — Ordem de guerreiras de elite. Ayla serviu nesta ordem antes de fugir.
-³ **nyra** — Unidade de tempo equivalente a um mês lunar (28–30 dias).
-⁴ **Mespiria** — Vila na região interior de Sylvaris, onde Ayla se refugiou grávida.
-⁵ **valens** — Unidade de tempo equivalente a um ano.
-⁶ **Aurion** — Estrela central de Nova Aetherion; fonte de toda a luz diurna.
-⁷ **aethra** — Energia primordial que percorre o mundo; manifesta-se como luz, calor e poder etérico.
-⁸ **Lyria** — Primeira das três luas de Nova Aetherion; prateada.
-⁹ **Nyx** — Segunda lua; azul-escura.
-¹⁰ **Elara** — Terceira lua; tom róseo.
-¹¹ **Emê-Gir** — A língua mais antiga de Nova Aetherion, criada pelos Seraphyens.
+**[FIM DO PRÓLOGO — SEGUE CAPÍTULO I]**
 
 ---
 
-**[FIM DO PRÓLOGO — SEGUE CAPÍTULO I]**
+## 📖 Glossário do Capítulo
+
+¹ **nyxara** — A noite; período de escuridão entre o pôr e o nascer de Aurion.
+
+² **Kalúdris** — Ordem de guerreiros de elite de Sanctrum. Ayla serviu nesta ordem antes de fugir.
+
+³ **nyra / nyras** — Período de 28-30 dias (uma rotação lunar). Plural: nyras.
+
+⁴ **Mespiria** — Pequena vila agrícola nos arredores de Velantis; onde Ayla se refugiou durante a gravidez.
+
+⁵ **valens** — Unidade de tempo longa; equivalente a um ano (~365 dias).
+
+⁶ **Aurion** — A estrela central de Nova Aetherion; fonte de luz, calor e vida.
+
+⁷ **aethra** — Energia espiritual fundamental; manifestação física da alma. Pode ser canalizada por seres com afinidade elemental.
+
+⁸ **Lyria** — A lua prateada; primeira das três irmãs celestes.
+
+⁹ **Nyx** — A lua azul; segunda das três irmãs celestes.
+
+¹⁰ **Elara** — A lua rosa; terceira das três irmãs celestes, associada ao sacrifício.
+
+¹¹ **Emê-Gir** — A língua mais antiga de Nova Aetherion, falada pelos Seraphyens. Usada em encantamentos e inscrições sagradas.
+
+---
+
+## 🔮 Previsão: Próximo Capítulo
+
+A fuga de Ayla chega ao fim. Alyndra cresce em Mespiria, no Orfanato Luminis, sem conhecer a herança que carrega no sangue — ou a mensagem que sua mãe deixou gravada na parede de um quarto escuro. O despertar está próximo.
 
 ---
