@@ -18,7 +18,7 @@
 
 Ayla caminhava pelas ruas de *Zephyra*² como uma sombra que se recusava a ser notada. Afastou uma mecha de cabelo escuro do rosto e ajustou a gola da túnica — um gesto que já fizera centenas de vezes, mas que, com a barriga volumosa, perdera a elegância militar e ganhara o desenraçado de quem reconstrói hábitos no escuro.
 
-Três *nyras*¹⁶ de fuga. Três nyras desde que deixara Sanctrum para trás, cruzando o Mar de Vaelantor até Sylvaris — o mais livre dos sete reinos, onde ninguém perguntava de onde você vinha, contanto que não levasse guerra. Vinha à capital com frequência, sempre nos mesmos dias e horas, sabendo que a regularidade era a melhor forma de se tornar invisível.
+Três *nyras*¹² de fuga. Três nyras desde que deixara Sanctrum para trás, cruzando o Mar de Vaelantor até Sylvaris — o mais livre dos sete reinos, onde ninguém perguntava de onde você vinha, contanto que não levasse guerra. Vinha à capital com frequência, sempre nos mesmos dias e horas, sabendo que a regularidade era a melhor forma de se tornar invisível.
 
 — Aqui está, dona Ayla — o comerciante entregou-lhe o pacote com um aceno respeitoso. Era um senhor de modos simples que vendia ervas aromáticas na praça de mármore. — As raízes de *velantina* que a senhora pediu. Elas ajudam a aliviar o cansaço dessas últimas nyras de gestação.
 
@@ -26,23 +26,23 @@ Ayla pegou o pacote, forçando um sorriso discreto. Sua atenção, porém, estav
 
 — Obrigada.
 
-Ela se afastou em direção à plataforma dos veleiros terrestres, embarcações que deslizavam sobre correntes de ar direcionadas. Preferia o isolamento das colinas ao rebuliço das praças, onde os sussurros sobre a Ordem dos Guardiões e a ascensão de *Aurelius*¹⁷ em Sanctrum insistiam em alcançar seus ouvidos.
+Ela se afastou em direção à plataforma dos veleiros terrestres, embarcações que deslizavam sobre correntes de ar direcionadas. Preferia o isolamento das colinas ao rebuliço das praças, onde os sussurros sobre a Ordem dos Guardiões e a ascensão de *Aurelius*¹³ em Sanctrum insistiam em alcançar seus ouvidos.
 
 A menção à capital apertou seu peito. Lembrou-se de Aurelius — não como o Guardião Mestre cujo nome fazia os reinos se curvarem, mas como o homem que passava horas observando a chuva cair sobre os jardins de pedra. Ela o amava, com uma quietude que o tempo e a distância só haviam tornado mais profunda. Mas afastar-se fora necessário. Proteger a criança significava carregar aquele fardo de silêncio e segredos longe dos olhos do templo.
 
 — Paciência, pequena — sussurrou, acariciando o ventre. — Quase chegamos.
 
-O vento soprou mais forte, e Ayla parou para observar o céu. Sabia que as luas estavam ali, ocultas pela luz de *Aurion*⁶, preparando-se para a *Convergência Tripla*⁷ predita pelos astrólogos. Os anciãos de Sylvaris diziam que quando as três luas se alinhavam, o céu escolhia um destino. E eles costumavam advertir que a Convergência nunca escolhia apenas uma criança. Sempre havia outra. Em algum lugar do mundo.
+O vento soprou mais forte, e Ayla parou para observar o céu. Sabia que as luas estavam ali, ocultas pela luz de *Aurion*, preparando-se para a *Convergência Tripla*⁶ predita pelos astrólogos. Os anciãos de Sylvaris diziam que quando as três luas se alinhavam, o céu escolhia um destino. E eles costumavam advertir que a Convergência nunca escolhia apenas uma criança. Sempre havia outra. Em algum lugar do mundo.
 
 *É você, minha criança? É você quem as luas esperam?*
 
 Não teve tempo de responder.
 
-A sensação chegou como um arrepio na nuca — não de frio, mas de *aethra*⁸. Alguém a estava observando. Não com curiosidade passiva, mas com a intenção focada de quem calcula distâncias e espera o momento certo. Por três vezes naquela *nyra*¹⁶, sentira a mesma coisa. Não era medo. Era reconhecimento. Como se algo a estivesse procurando — e como se o que procurava soubesse que a Convergência se aproximava.
+A sensação chegou como um arrepio na nuca — não de frio, mas de *aethra*⁷. Alguém a estava observando. Não com curiosidade passiva, mas com a intenção focada de quem calcula distâncias e espera o momento certo. Por três vezes naquela *nyra*¹², sentira a mesma coisa. Não era medo. Era reconhecimento. Como se algo a estivesse procurando — e como se o que procurava soubesse que a Convergência se aproximava.
 
-Ayla não acelerou o passo. Não olhou para trás. Continuou caminhando com o mesmo ritmo pesado de grávida, as mãos sobre a barriga. Mas por dentro, seus sentidos se expandiram — um hábito que *valens*¹⁵ de treinamento militar em Sanctrum haviam gravado tão fundo que se tornou instinto.
+Ayla não acelerou o passo. Não olhou para trás. Continuou caminhando com o mesmo ritmo pesado de grávida, as mãos sobre a barriga. Mas por dentro, seus sentidos se expandiram — um hábito que *valens* de treinamento militar em Sanctrum haviam gravado tão fundo que se tornou instinto.
 
-Dois observadores. Um na copa de uma árvore prateada, quarenta passos atrás. Outro no sulco entre os campos de *aethrys*¹⁹, rastejando para flanqueá-la pela direita. Profissional. Lento. Paciente. O tipo de emboscada que mercenários de estrada executavam em dupla — um distrai, o outro ataca. Mas havia algo no primeiro — o que ficava na árvore — que não se encaixava no perfil. Algo na postura. Na forma como não mirava Ayla diretamente, mas *através* dela, como se medisse algo que ela não podia ver.
+Dois observadores. Um na copa de uma árvore prateada, quarenta passos atrás. Outro no sulco entre os campos de *aethrys*, rastejando para flanqueá-la pela direita. Profissional. Lento. Paciente. O tipo de emboscada que mercenários de estrada executavam em dupla — um distrai, o outro ataca. Mas havia algo no primeiro — o que ficava na árvore — que não se encaixava no perfil. Algo na postura. Na forma como não mirava Ayla diretamente, mas *através* dela, como se medisse algo que ela não podia ver.
 
 *Agora.*
 
@@ -80,7 +80,7 @@ O resto do caminho foi silêncio. E silêncio, na boca de quem já lutou, tem go
 
 Mas o corpo cobrou o preço. O uso de aethra enquanto a Convergência se aproximava não era como canalizar em qualquer outro dia — a energia saía dela com uma fome que não reconhecia, como se as três luas amplificassem cada gota que ela liberasse. Suas mãos tremiam. O ventre doía — não o peso da criança, mas algo mais profundo, como se o aethra tivesse despertado algo nela que dormia. E havia o medo real: o homem com o sinalizador de Sanctrum escapara. Sabia o rosto dela. Sabia que estava grávida. Se informasse a alguém que não fosse Aurelius, a descoberta seria apenas uma questão de tempo.
 
-Ayla abandonou a estrada principal. Seguiu por atalhos entre as colinas, o passo mais apressado do que o corpo pesado permitia. Cada sombra nas árvores era um agente. Cada farol no horizonte era um sinalizador. Não voltaria a usar aethra a menos que fosse uma questão de vida ou morte — e mesmo assim, apenas se a criança não corresse risco. Nas três nyras seguintes, mudou sua rota — não voltou a Zephyra, não usou os mesmos caminhos duas vezes, cruzou os campos de aethrys por trilhos que apenas os pastores conheciam. E toda nyxara, antes de dormir, verificava as sombras ao redor da casa de pedra, os ouvidos afinados para passos que não fossem de Melessa ou do vento. O ataque não tinha sido um acidente. Alguém em Sanctrum — ou agindo em nome de Sanctrum — sabia que uma mulher grávida andava pelas colinas de Sylvaris. E se sabiam isso, era apenas uma questão de tempo até soubessem o resto.
+Ayla abandonou a estrada principal. Seguiu por atalhos entre as colinas, o passo mais apressado do que o corpo pesado permitia. Cada sombra nas árvores era um agente. Cada farol no horizonte era um sinalizador. Não voltaria a usar aethra a menos que fosse uma questão de vida ou morte — e mesmo assim, apenas se a criança não corresse risco. O ataque não tinha sido um acidente. Alguém em Sanctrum — ou agindo em nome de Sanctrum — sabia que uma mulher grávida andava pelas colinas de Sylvaris. E se sabiam isso, era apenas uma questão de tempo até soubessem o resto.
 
 ---
 
@@ -92,7 +92,7 @@ Mespiria era uma pequena comunidade agrícola nas cercanias de *Velantis*³ — 
 
 Era exatamente o que Ayla procurava.
 
-Chegara três nyras antes, aos vinte valens, usando um nome falso e uma história que não levantava suspeitas — uma viúva de *Pyralis*¹⁰ cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas. Melessa Solynthr, a velha parteira da vila, ofereceu-lhe uma casa nos arredores e, à medida que a barriga de Ayla crescia, passara a visitá-la e dormir ali com frequência, preocupada com a proximidade da Convergência.
+Chegara três nyras antes, aos vinte valens, usando um nome falso e uma história que não levantava suspeitas — uma viúva de *Pyralis* cujo marido morrera em um acidente nas forjas, buscando um novo começo em terras mais gentis. Os aldeões a aceitaram sem perguntas. Melessa Solynthr, a velha parteira da vila, ofereceu-lhe uma casa nos arredores e, à medida que a barriga de Ayla crescia, passara a visitá-la e dormir ali com frequência, preocupada com a proximidade da Convergência.
 
 — Demorou hoje — disse Melessa quando Ayla se aproximou. A velha parteira estava sentada na varanda, os dedos ágeis limpando ervas de cura sobre uma mesa de madeira. — A viagem de Zephyra fica cada vez mais longe para quem carrega uma barriga desse tamanho.
 
@@ -128,7 +128,7 @@ Se fizesse a pergunta errada, a resposta a obrigaria a tomar uma atitude. E ela 
 
 **III. O Selo na Parede**
 
-Naquela mesma *Nyxara*¹⁸, quando as três luas começaram a se erguer no céu, Ayla sentou-se diante da janela no silêncio do pequeno quarto. *Lyria*¹¹, a prateada, *Nyx*¹², a azul, e *Elara*¹³, a rosa, tingiam as colinas com tons mistos e misteriosos.
+Naquela mesma *Nyxara*¹⁴, quando as três luas começaram a se erguer no céu, Ayla sentou-se diante da janela no silêncio do pequeno quarto. *Lyria*⁸, a prateada, *Nyx*⁹, a azul, e *Elara*¹⁰, a rosa, tingiam as colinas com tons mistos e misteriosos.
 
 Um calafrio familiar percorreu sua espinha — aquela sensação antiga que a assombrava em sonhos: o vislumbre de um rosto feminino flutuando na escuridão — cabelos como brasas apagadas, olhos que queimavam sem consumir —, lábios que pronunciavam seu nome em um sussurro triste. A voz lhe era estranha, mas o calor, não — era o calor de quem se sacrifica por quem ama. A Convergência se aproximava, e o peso daquele destino parecia denso como a névoa que subia do bosque.
 
@@ -140,7 +140,7 @@ Olhou para a parede de madeira fria em frente à cama — o primeiro lugar que a
 
 Erguendo a mão direita, Ayla fechou os olhos. Em vez da força destrutiva de seu passado, canalizou seu aethra com a densidade pura e absoluta do amor materno. Encostou a ponta do indicador na madeira.
 
-O poder permeou as fibras da parede, queimando as marcas na língua antiga de *Emê-Gir*¹⁴. As linhas surgiam em um tom marrom-escuro, como marcas cravadas pelo tempo.
+O poder permeou as fibras da parede, queimando as marcas na língua antiga de *Emê-Gir*¹¹. As linhas surgiam em um tom marrom-escuro, como marcas cravadas pelo tempo.
 
 Enquanto desenhava as runas, sussurrou a tradução para o próprio ventre:
 
@@ -192,30 +192,20 @@ Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio 
 
 ⁵ **Mespiria** — Pequena vila agrícola nos arredores de Velantis; berço de Alyndra.
 
-⁶ **Aurion** — A estrela central de Nova Aetherion; fonte de luz, calor e vida.
+⁶ **Convergência Tripla** — Alinhamento raro das três luas (Lyria, Nyx, Elara) em um único ponto do céu.
 
-⁷ **Convergência Tripla** — Alinhamento raro das três luas (Lyria, Nyx, Elara) em um único ponto do céu.
+⁷ **aethra** — Energia espiritual fundamental; manifestação física da alma.
 
-⁸ **aethra** — Energia espiritual fundamental; manifestação física da alma.
+⁸ **Lyria** — A lua prateada; primeira das três irmãs celestes.
 
-⁹ **passo** — Unidade de distância equivalente a aproximadamente um passo largo.
+⁹ **Nyx** — A lua azul; segunda das três irmãs celestes.
 
-¹⁰ **Pyralis** — Reino de Fogo e Forjas; uma das sete terras de Nova Aetherion.
+¹⁰ **Elara** — A lua rosa; terceira das três irmãs celestes, associada ao sacrifício.
 
-¹¹ **Lyria** — A lua prateada; primeira das três irmãs celestes.
+¹¹ **Emê-Gir** — Língua ancestral dos Seraphyen; usada em encantamentos e inscrições sagradas.
 
-¹² **Nyx** — A lua azul; segunda das três irmãs celestes.
+¹² **nyra / nyras** — Período de 28-30 dias (uma rotação lunar). Plural: nyrás.
 
-¹³ **Elara** — A lua rosa; terceira das três irmãs celestes, associada ao sacrifício.
+¹³ **Aurelius** — Guardião Mestre de Sanctrum; pai de Alyndra.
 
-¹⁴ **Emê-Gir** — Língua ancestral dos Seraphyen; usada em encantamentos e inscrições sagradas.
-
-¹⁵ **valen / valens** — Unidade de tempo longa; equivalente a um ano (~365 dias).
-
-¹⁶ **nyra / nyras** — Período de 28-30 dias (uma rotação lunar). Plural: nyrás.
-
-¹⁷ **Aurelius** — Guardião Mestre de Sanctrum; pai de Alyndra.
-
-¹⁸ **Nyxara** — A noite; período de escuridão entre o pôr e o nascer de Aurion.
-
-¹⁹ **aethrys** — Cereal dourado nativo de Sylvaris, que ondula nos campos como mares de ouro. Base da alimentação.
+¹⁴ **Nyxara** — A noite; período de escuridão entre o pôr e o nascer de Aurion.
