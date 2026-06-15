@@ -48,21 +48,21 @@ Ayla assentiu, observando a parteira se afastar a passos largos. Depois voltou-s
 
 Mais tarde, quando o crepúsculo começou a pintar os campos, o vento parou. As folhas prateadas das argentis deixaram de sussurrar. Um silêncio denso desceu sobre o vale.
 
-Pela primeira vez desde que chegara a *Mespiria*⁶, Ayla levou a mão ao pingente oculto sob a túnica. Alguém observava do bosque. Ela não precisava ver para saber.
+Pela primeira vez desde que chegara a *Mespiria*, Ayla levou a mão ao pingente oculto sob a túnica. Alguém observava do bosque. Ela não precisava ver para saber.
 
 ---
 
 **II. A Tempestade Silenciosa**
 
-A nyxara do primeiro *Audin*⁵ chegou diferente em Mespiria.
+A nyxara do primeiro *Audin*² chegou diferente em Mespiria.
 
-O céu estava claro, sem nuvens, e *Aurion*⁷ se pusera como sempre fazia. Mas havia algo no ar — uma tensão sutil, como a corda de um instrumento sendo esticada até o ponto de ruptura.
+O céu estava claro, sem nuvens, e *Aurion* se pusera como sempre fazia. Mas havia algo no ar — uma tensão sutil, como a corda de um instrumento sendo esticada até o ponto de ruptura.
 
-Os animais sentiram primeiro. Os *lyriens*⁸ nos estábulos agitavam-se, suas orelhas prateadas girando para sons que ninguém mais ouvia. Os *velrok*⁹ nas pastagens recusavam-se a deitar, olhos fixos no horizonte.
+Os animais sentiram primeiro. Os *lyriens*³ nos estábulos agitavam-se, suas orelhas prateadas girando para sons que ninguém mais ouvia. Os *velrok*⁴ nas pastagens recusavam-se a deitar, olhos fixos no horizonte.
 
 Então as luas surgiram.
 
-Primeiro *Lyria*¹¹, a prateada, ascendendo no horizonte leste com um brilho mais intenso do que os mais velhos lembravam. Depois *Nyx*¹², a azulada, surgindo do oeste como se tivesse corrido através do céu para encontrar sua irmã. E por fim *Elara*¹³, a rosa, nascendo do sul com uma luz que parecia pulsar, como um coração celestial.
+Primeiro *Lyria*, a prateada, ascendendo no horizonte leste com um brilho mais intenso do que os mais velhos lembravam. Depois *Nyx*, a azulada, surgindo do oeste como se tivesse corrido através do céu para encontrar sua irmã. E por fim *Elara*, a rosa, nascendo do sul com uma luz que parecia pulsar, como um coração celestial.
 
 Três luas. Três irmãs. Convergindo para um único ponto no céu.
 
@@ -118,7 +118,7 @@ Melessa não respondeu. Com décadas de experiência, foi a primeira a se recupe
 
 Ayla estava pálida. Muito pálida. Seus olhos, que haviam brilhado com determinação durante todo o parto, agora perdiam o foco.
 
-— Ayla? — Melessa tocou o pulso da mulher. Fraco. Irregular. Escapando. — Thalia, vá ao anexo externo, depressa! Preciso da infusão concentrada de *mirael*⁴ e de água fervida!
+— Ayla? — Melessa tocou o pulso da mulher. Fraco. Irregular. Escapando. — Thalia, vá ao anexo externo, depressa! Preciso da infusão concentrada de *mirael*¹ e de água fervida!
 
 Thalia hesitou um instante — seu olhar ainda estava na criança, naquela luz que pulsava sob os panos como um coração segundo. Depois correu.
 
@@ -146,7 +146,7 @@ Ayla cerrou os olhos. Quando os abriu, havia urgência neles — algo que precis
 
 — Há mais. — Sua mão foi até o pescoço, onde dedos trêmulos encontraram uma fina corrente de metal escuro. — Melessa... o pai...
 
-Com dificuldade, puxou a corrente por cima da cabeça. Na ponta, um pingente de metal negro gravado com o selo de *Sanctrum*¹⁵ — um círculo entrelaçado com três raios convergentes.
+Com dificuldade, puxou a corrente por cima da cabeça. Na ponta, um pingente de metal negro gravado com o selo de *Sanctrum* — um círculo entrelaçado com três raios convergentes.
 
 — O nome dele é Aurelius. Ele está em Sanctrum. Ele não sabe sobre ela. — A voz falhou. Recompôs-se com o último fôlego de determinação que lhe restava. — Ele saberá o que isto significa. Mostre-lhe. Só isso.
 
@@ -196,7 +196,7 @@ Mas Thalia não era mais a aprendiz ingênua que chegara naquela Nyxara com um c
 
 **V. A Despedida**
 
-A notícia se espalhou como fogo em campo de *aethrys*¹⁸ seco.
+A notícia se espalhou como fogo em campo de *aethrys* seco.
 
 Antes da primeira luz, toda Mespiria sabia. As mulheres vieram em silêncio, trazendo giralis colhidas no fim da Nyxara. Os homens permaneceram do lado de fora, cabeças baixas.
 
@@ -214,7 +214,7 @@ Os aldeões trocaram olhares. Perguntas para as quais não haveria respostas fá
 
 Melessa foi a última a deixar o cemitério.
 
-Thalia recolhera os instrumentos e partira com a promessa de voltar com leite de *lactharis*¹⁹ para a criança. Mas antes de ir, hesitara junto à porta da casa, o olhar indo da menina adormecida nos braços de Melessa ao pingente que a velha já guardara no bolso. Não disse nada. Só ficou ali, por um instante que durou mais do que deveria. Depois saiu.
+Thalia recolhera os instrumentos e partira com a promessa de voltar com leite de *lactharis*⁵ para a criança. Mas antes de ir, hesitara junto à porta da casa, o olhar indo da menina adormecida nos braços de Melessa ao pingente que a velha já guardara no bolso. Não disse nada. Só ficou ali, por um instante que durou mais do que deveria. Depois saiu.
 
 Melessa ficou sozinha. Olhou para a terra fofa, para as flores que Elara fizera brotar, para o nome que Ayla jamais tivera em Mespiria — apenas "a viúva de Pyralis", apenas "a mulher de cabelos escuros".
 
@@ -258,7 +258,7 @@ Alyndra a observou com aqueles olhos castanhos serenos, e então, pela primeira 
 
 Melessa não sorriu de volta.
 
-Conhecia os rumores — histórias sobre crianças nascidas sob a Convergência, crianças com dons que Sanctrum cobiçava, crianças que desapareciam das vilas. A *Ordem dos Mestres*²¹ tinha braços longos. E agora havia um pingente em seu bolso que era a prova de que Sanctrum já fazia parte da vida daquela criança, quer ela quisesse ou não.
+Conhecia os rumores — histórias sobre crianças nascidas sob a Convergência, crianças com dons que Sanctrum cobiçava, crianças que desapareciam das vilas. A *Ordem dos Mestres*⁶ tinha braços longos. E agora havia um pingente em seu bolso que era a prova de que Sanctrum já fazia parte da vida daquela criança, quer ela quisesse ou não.
 
 *E há Thalia*, pensou. *Que viu. Que perguntou. Que não esqueceu.*
 
@@ -294,48 +294,14 @@ Melessa deitou-se com a criança ao peito, uma mão protetora sobre o pequeno co
 
 ## 📖 Glossário do Capítulo
 
-¹ **Seraphyens** — Seres primordiais que ensinaram os povos de Nova Aetherion antes de se dissiparem.
+¹ **mirael** — Ervas aromáticas de cura, comuns em Sylvaris.
 
-² **Sete Reinos** — As sete grandes terras de Nova Aetherion: Sanctrum, Sylvaris, Thalassia, Fulmora, Umbra, Terraxis e Pyralis.
+² **Audin** — Primeiro dia do ciclo; dia de Aurion.
 
-³ **Nova Aetherion** — O mundo, nome dado à terra dos Sete Reinos após a Era Seraphyen.
+³ **lyriens** — Mamíferos pequenos de pelagem prateada e orelhas sensíveis; companheiros fiéis.
 
-⁴ **mirael** — Ervas aromáticas de cura, comuns em Sylvaris.
+⁴ **velrok** — Grande quadrúpede de pelagem prateada, utilizado para montaria e tração.
 
-⁵ **Audin** — Primeiro dia do ciclo; dia de Aurion.
+⁵ **lactharis** — Bovídeo dócil de pelagem branca; criado para leite, carne e couro.
 
-⁶ **Mespiria** — Pequena vila agrícola nos arredores de Velantis; berço de Alyndra.
-
-⁷ **Aurion** — A estrela central de Nova Aetherion; fonte de luz, calor e vida.
-
-⁸ **lyriens** — Mamíferos pequenos de pelagem prateada e orelhas sensíveis; companheiros fiéis.
-
-⁹ **velrok** — Grande quadrúpede de pelagem prateada, utilizado para montaria e tração.
-
-¹⁰ **aetherianos** — Povo nativo de Nova Aetherion; habitantes dos Sete Reinos.
-
-¹¹ **Lyria** — A lua prateada; primeira das três irmãs celestes.
-
-¹² **Nyx** — A lua azul; segunda das três irmãs celestes.
-
-¹³ **Elara** — A lua rosa; terceira das três irmãs celestes, associada ao sacrifício.
-
-¹⁴ **Fulmora** — Reino de Tempestades e Plasma; uma das sete terras de Nova Aetherion.
-
-¹⁵ **Sanctrum** — Continente da Luz, sede da Ordem dos Guardiões e do Guardião Mestre.
-
-¹⁶ **ordem** — Instituição dos Guardiões que protege e governa Nova Aetherion.
-
-¹⁷ **Velantis** — Segunda maior cidade de Sylvaris; sede do Orfanato Luminis.
-
-¹⁸ **aethrys** — Cereal dourado que ondula nos campos como mares de ouro; base alimentar.
-
-¹⁹ **lactharis** — Bovídeo dócil de pelagem branca; criado para leite, carne e couro.
-
-²⁰ **Convergência Tripla** — Alinhamento raro das três luas (Lyria, Nyx, Elara) em um único ponto do céu.
-
-²¹ **Ordem dos Mestres** — Câmara interna da Ordem dos Guardiões; seus membros mais poderosos, responsáveis por decisões sobre crianças com dons elementais.
-
-²² **Terraxis** — Reino de Montanhas e Minas; uma das sete terras de Nova Aetherion.
-
-²³ **Umbra** — Reino das Sombras e Mistérios; uma das sete terras de Nova Aetherion.
+⁶ **Ordem dos Mestres** — Câmara interna da Ordem dos Guardiões; seus membros mais poderosos, responsáveis por decisões sobre crianças com dons elementais.
