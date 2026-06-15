@@ -100,7 +100,7 @@ Antes de escrever QUALQUER coisa, leia estes arquivos na ordem:
 Projetos/                 → Projetos adicionais (LLM_Chat_Orchestrator)
 scripts/                  → Scripts utilitários de validação e processamento
 Livro1_ASementedaEternidade/
-└── final/                → Todos os capítulos consolidados e refinados (Prólogo + Capítulos 1-45)
+└── final/                → Todos os capítulos consolidados e refinados (Prólogo + Capítulos 1-46)
 ```
 
 ### 🗂️ STATUS ATUAL DOS CAPÍTULOS
@@ -116,7 +116,7 @@ Livro1_ASementedaEternidade/
 | 6 | SELADO | |
 | 7 | SELADO | Infiltração Nyctara em Thalendris (sanitizado) |
 | 8 | SELADO | Vida no orfanato, Aldric, carta anônima (sanitizado) |
-| 9-45 | CANÔNICOS | Todos os capítulos de 9 a 45 estão refinados e consolidados em final/ |
+| 9-46 | CANÔNICOS | Todos os capítulos de 9 a 46 estão refinados e consolidados em final/ |
 
 ### 🚨 ERROS COMUNS DE IAs (NÃO REPETIR)
 
@@ -196,18 +196,57 @@ Livro1_ASementedaEternidade/
 
 ### 📋 CAPÍTULOS CONSOLIDADOS (em `final/`)
 
+> **Nota**: Títulos extraídos dos arquivos em `final/` (fonte de verdade). Capítulo IV ("A Sombra e a Criança") foi inserido na reestruturação de Maio 2026, deslocando os títulos anteriores em +1 a partir dessa posição. Divisão em atos proposta com base no conteúdo narrativo — sujeita a ajuste autoral.
+
 |#| ATO | Título | Status |
 |--|-----|--------|--------|
 |Prólogo| — | ✅ SELADO |
-|1| I — O Segredo de Sylvaris | ✅ SELADO |
-|2| I — A Estrela que Nasceu na Tempestade | ✅ SELADO |
-|3| I — O Legado da Parteira | ✅ SELADO |
-|4| I — A Nova Casa | ✅ SELADO |
-|5| I — O Presente das Estrelas | ✅ SELADO |
-|6| II — O Horizonte de Sal e Cristal | ✅ SELADO |
-|7| II — A Sombra nos Penhascos de Sal | ⚠️ HÍBRIDO |
-|8| II — O Tecido dos Dias | ⚠️ HÍBRIDO |
-|9-45| III-VII | Capítulos 9 a 45 consolidados | ✅ CANÔNICOS |
+|1| I | O Segredo de Sylvaris | ✅ SELADO |
+|2| I | A Estrela que Nasceu na Tempestade | ✅ SELADO |
+|3| I | O Legado da Parteira | ✅ SELADO |
+|4| I | A Sombra e a Criança | ✅ SELADO |
+|5| I | A Nova Casa | ✅ SELADO |
+|6| I | O Presente das Estrelas | ✅ SELADO |
+|7| II | O Horizonte de Sal e Cristal | ✅ SELADO |
+|8| II | A Sombra nos Penhascos de Sal | ⚠️ HÍBRIDO |
+|9| II | O Tecido dos Dias | ⚠️ HÍBRIDO |
+|10| II | A Grande Assembleia | ✅ CANÔNICO |
+|11| II | A Era das Torres | ✅ CANÔNICO |
+|12| II | A Órfã da Fazenda Aldebar | ✅ CANÔNICO |
+|13| III | A Voz que Tudo Ouve | ✅ CANÔNICO |
+|14| III | Sementes na Sombra | ✅ CANÔNICO |
+|15| III | Os Dez Tronos | ✅ CANÔNICO |
+|16| III | Olhos que Vigiam | ✅ CANÔNICO |
+|17| III | Correntes Invisíveis | ✅ CANÔNICO |
+|18| III | Máscaras que Caem | ✅ CANÔNICO |
+|19| IV | A Teia nas Sombras | ✅ CANÔNICO |
+|20| IV | O Coração do Vento | ✅ CANÔNICO |
+|21| IV | Treino e Tempestade | ✅ CANÔNICO |
+|22| IV | Sussurros na Nyxara | ✅ CANÔNICO |
+|23| IV | A Armadilha se Fecha | ✅ CANÔNICO |
+|24| IV | A Nyxara sem Aurora | ✅ CANÔNICO |
+|25| V | Cinzas e Silêncio | ✅ CANÔNICO |
+|26| V | A Menina e a Sombra | ✅ CANÔNICO |
+|27| V | Frentes de Resgate | ✅ CANÔNICO |
+|28| V | O Caminho das Lágrimas | ✅ CANÔNICO |
+|29| V | A Fronteira Negra | ✅ CANÔNICO |
+|30| V | A Traição do Vento | ✅ CANÔNICO |
+|31| VI | A Possessão | ✅ CANÔNICO |
+|32| VI | A Sombra que Chega | ✅ CANÔNICO |
+|33| VI | Subjugação | ✅ CANÔNICO |
+|34| VI | A Guerra das Sombras | ✅ CANÔNICO |
+|35| VI | Reforços e Revelações | ✅ CANÔNICO |
+|36| VI | O Último Refúgio | ✅ CANÔNICO |
+|37| VII | O Sacrifício de Nyx | ✅ CANÔNICO |
+|38| VII | A Aberração se Levanta | ✅ CANÔNICO |
+|39| VII | O Meteoro Carmesim | ✅ CANÔNICO |
+|40| VII | Erupção do Carmesim | ✅ CANÔNICO |
+|41| VII | Julgamento Final do Carmesim | ✅ CANÔNICO |
+|42| VII | O Colo do Pai | ✅ CANÔNICO |
+|43| VII | A Sabatina | ✅ CANÔNICO |
+|44| VII | Os Que Sabiam | ✅ CANÔNICO |
+|45| VII | Reencontro | ✅ CANÔNICO |
+|46| VII | O Caminho de Thalassia | ✅ CANÔNICO |
 
 ### 🚨 Easter Eggs NÃO AUTORIZADOS (Inseridos pelo DeepSeek, aguardam decisão)
 
