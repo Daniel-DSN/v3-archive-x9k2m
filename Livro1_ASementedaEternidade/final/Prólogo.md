@@ -18,9 +18,9 @@
 
 Ayla não dormia.
 
-Não porque não quisesse — porque não ousava. Cada nyxara¹ era um risco. Fechar os olhos era abaixar a guarda, e baixar a guarda com uma criança crescendo no ventre e algo antigo seguindo seus passos era o tipo de imprudência que a Kalúdris² lhe tinha ensinado a não cometer. Três nyras³ de fuga tinham transformado o sono num luxo que o medo cobrava caro demais.
+Não porque não quisesse — porque não ousava. Cada nyxara¹ era um risco. Fechar os olhos era abaixar a guarda, e baixar a guarda com uma criança crescendo no ventre e algo antigo seguindo seus passos era o tipo de imprudência que a Kalúdris² lhe tinha ensinado a não cometer. Três nyras de fuga tinham transformado o sono num luxo que o medo cobrava caro demais.
 
-Mas naquela noite — a terceira noite em Mespiria⁴, numa casa que cheirava a madeira velha e ao silêncio de quem não morava ali há valens⁵ — o corpo de Ayla decidiu por ela. Os olhos fecharam. Os músculos cederam. E o sono não veio como quem entra num rio — veio como quem cai.
+Mas naquela noite — a terceira noite em Mespiria, numa casa que cheirava a madeira velha e ao silêncio de quem não morava ali há valens — o corpo de Ayla decidiu por ela. Os olhos fecharam. Os músculos cederam. E o sono não veio como quem entra num rio — veio como quem cai.
 
 E com o sono, vieram as visões.
 
@@ -34,7 +34,7 @@ Ayla sentia-se submersa numa realidade que não era a sua, como quem sonha o son
 
 A primeira coisa que viu foi luz.
 
-Não a luz de *Aurion*⁶ — algo mais denso, mais vivo, como se o próprio ar brilhasse. Uma civilização inteira erguida sobre essa luz, com torres que alcançavam nuvens de *aethra*⁷ pura e ruas onde a energia pulsava visível, como rios vistos de cima. E no centro de tudo, num templo que cheirava a incenso e a medo, uma mulher sentada com as mãos sobre uma esfera dourada.
+Não a luz de *Aurion* — algo mais denso, mais vivo, como se o próprio ar brilhasse. Uma civilização inteira erguida sobre essa luz, com torres que alcançavam nuvens de *aethra*³ pura e ruas onde a energia pulsava visível, como rios vistos de cima. E no centro de tudo, num templo que cheirava a incenso e a medo, uma mulher sentada com as mãos sobre uma esfera dourada.
 
 A mulher não era jovem nem velha. Era *antiga* — de uma antiguidade que não se media em valens. Os olhos dela estavam abertos, mas viam algo que não estava ali. Viam o tempo. E sob os dedos, a esfera pulsava com dois impulsos — um para cima, como quem busca a superfície, e outro para baixo, como quem prefere as profundezas.
 
@@ -98,7 +98,7 @@ A luz da irmã fragmentou-se. Tornou-se o brilho em tudo: no reflexo da água, n
 
 Ayla acordou.
 
-Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta — madeira velha, silêncio, o cheiro de erva seca que a vizinha deixara na soleira. Lá fora, a *nyxara* era líquida e sem estrelas. As três luas — *Lyria*⁸, *Nyx*⁹, *Elara*¹⁰ — estavam ocultas sob a luz de *Aurion*, mas Ayla *sabia* que estavam ali. Alinhando-se. Esperando.
+Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta — madeira velha, silêncio, o cheiro de erva seca que a vizinha deixara na soleira. Lá fora, a *nyxara* era líquida e sem estrelas. As três luas — *Lyria*, *Nyx*, *Elara* — estavam ocultas sob a luz de *Aurion*, mas Ayla *sabia* que estavam ali. Alinhando-se. Esperando.
 
 E dentro dela, a criança mexeu-se.
 
@@ -122,10 +122,6 @@ Não entendeu.
 
 Acreditou.
 
-E nas semanas que se seguiram — enquanto a barriga crescia e os passos atrás dela se aproximavam e as três luas se alinhavam no céu como quem prepara um palco — Ayla tocou a parede com o dedo. E *aethra*⁷ puro jorrou do seu toque — luz azul-prateada fluindo como tinta viva, traçando símbolos que pulsavam na pedra escura. Começou a escrever. Não para ser lida. Para ser *sentida*. Frase por frase, em *Emê-Gir*¹¹, a língua mais antiga que conhecia — a língua que os sonhos lhe tinham mostrado sem lhe darem o nome.
-
-Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio começar.
-
 ---
 
 **[FIM DO PRÓLOGO — SEGUE CAPÍTULO I]**
@@ -138,20 +134,4 @@ Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio 
 
 ² **Kalúdris** — Ordem de guerreiros de elite de Sanctrum. Ayla serviu nesta ordem antes de fugir.
 
-³ **nyra / nyras** — Período de 28-30 dias (uma rotação lunar). Plural: nyras.
-
-⁴ **Mespiria** — Pequena vila agrícola nos arredores de Velantis; onde Ayla se refugiou durante a gravidez.
-
-⁵ **valens** — Unidade de tempo longa; equivalente a um ano (~365 dias).
-
-⁶ **Aurion** — A estrela central de Nova Aetherion; fonte de luz, calor e vida.
-
-⁷ **aethra** — Energia espiritual fundamental; manifestação física da alma. Pode ser canalizada por seres com afinidade elemental.
-
-⁸ **Lyria** — A lua prateada; primeira das três irmãs celestes.
-
-⁹ **Nyx** — A lua azul; segunda das três irmãs celestes.
-
-¹⁰ **Elara** — A lua rosa; terceira das três irmãs celestes, associada ao sacrifício.
-
-¹¹ **Emê-Gir** — A língua mais antiga de Nova Aetherion, falada pelos Seraphyens. Usada em encantamentos e inscrições sagradas.
+³ **aethra** — Energia espiritual fundamental; manifestação física da alma. Pode ser canalizada por seres com afinidade elemental.

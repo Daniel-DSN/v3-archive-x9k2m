@@ -168,6 +168,8 @@ O cheiro de carne queimada voltou sem aviso — Elysea, a parteira do templo, os
 
 Não sabia se era premonição ou medo. Mas conhecia o suficiente sobre aethra para não ignorar nenhuma das duas possibilidades. Se a Convergência amplificasse o que a criança carregava — e tudo em seus instintos de guerreira dizia que sim —, então o nascimento não seria apenas um parto. Seria um evento elemental. E eventos elementais tinham custos.
 
+Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio começar.
+
 ---
 
 **[FIM DO CAPÍTULO I]**
