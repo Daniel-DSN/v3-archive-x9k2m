@@ -3,7 +3,7 @@
 > **Documento de Worldbuilding:** Expansão completa de Sylvaris
 > **Baseado nos capítulos do Livro I e nas Leis de Ilyos** (conforme estabelecido em `RELIGIOES_E_FILOSOFIAS.md`)
 > **Referência cruzada:** Os 7 Pilares aqui detalhados são os mesmos do documento `RELIGIOES_E_FILOSOFIAS.md` — usar em conjunto
-> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são os dois filhos de Yggorath. Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
+> **Dualidade Ilyos/Nyxalor (v2.0):** Ilyos e Nyxalor são gêmeos nascidos da Semente de Alyndra Primordial — o centro onde todos os 5 elementos convergem. Luz e sombra não são elementos independentes, mas a soma de todos os 5 elementos. Ilyos (natureza entrópica: amor, impulsão, criação; quem envia os Seraphyens) e Nyxalor (natureza equilibradora: sabedoria, cautela, racionalidade; mais respeitado que Ilyos; vem depois para normalizar). Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
 > **Atualizado:** 30 de Maius de 2026
 
 ---
@@ -83,7 +83,7 @@ Seu raciocínio era implacável:
 - O ressentimento gera **manipulação**: entidades quebradas (como os Nihilaryth) se alimentam da brecha entre o que se promete e o que se recebe.
 - A manipulação gera **possessão**: o culto abre a porta. A porta aberta é o convite.
 
-Este ciclo foi exatamente o que aconteceu com Nyxalor: Mythra (O Engano, líder Nihilaryth) sussurrou em seus ouvidos por Aethrons, alimentando seu ciúme e ressentimento contra Ilyos, até que ele se corrompeu e mergulhou o mundo em guerra. Ilyos, junto com Elarys (Seraphyen do Fogo/Sombra), selou Nyxalor no Dingir-sar, sacrificando ambas as suas essências no processo.
+Este ciclo foi exatamente o que aconteceu com Nyxalor: Mythra (O Engano, líder Nihilaryth) sussurrou em seus ouvidos por Aethrons, distorcendo sua sabedoria em extremismo — de equilibrar a criação a ver toda criação como excesso que precisava ser contido, até que ele se corrompeu e mergulhou o mundo em guerra. Ilyos, junto com Elarys (Seraphyen do Fogo/Sombra), selou Nyxalor no Dingir-sar, sacrificando ambas as suas essências no processo.
 
 Ilyos dizia:
 
@@ -114,6 +114,8 @@ Estas práticas foram gradualmente distorcidas ou esquecidas com a ascensão do 
 ## 2. Veridion e a Implementação em Sylvaris
 
 ### 2.1 Quem Era Veridion
+
+> **Nota (v2.0):** Sylvaris foi povoada pelo **par de Seraphyens do vento** (luz + sombra), não por Veridion sozinho. Veridion era o aspecto luz; seu par de sombra cooperava na fundação. Os 5 reinos periféricos foram povoados aos pares, enviados por Ilyos.
 
 Veridion era o Seraphyen do Vento no aspecto **Luz (Conectar)**. Diferente de outros Seraphyens que governaram reinos com punho firme, Veridion era o mais **gentil, paciente e filosófico** de todos. Sua função original era conectar — não apenas lugares, mas pessoas, ideias, momentos.
 

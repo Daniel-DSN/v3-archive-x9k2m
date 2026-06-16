@@ -134,7 +134,7 @@ Mais tarde, as crianças se reuniram na biblioteca para a hora das histórias �
 
 Alyndra sentou-se ao lado de Mira em um canto perto da janela, de onde podia ver tanto a narradora quanto o mundo lá fora. Mas o mundo lá fora era apenas neve e escuridão, então ela concentrou-se na narradora, uma mulher idosa chamada Lyrna, cuja voz era suave como brisa de verão e cujos olhos brilhavam com a sabedoria de quem havia contado histórias por décadas.
 
-— Esta nyxara — a Senhora Lyrna disse, abrindo um livro antigo de capa desgastada — vou contar a história de *Veridion*¹⁹, o último dos Seraphyens, que fundou nosso reino de Sylvaris com seu último ato de amor pela criação.
+— Esta nyxara — a Senhora Lyrna disse, abrindo um livro antigo de capa desgastada — vou contar a história de *Veridion*¹⁹, o último dos Seraphyens, que co-fundou nosso reino de Sylvaris junto com seu par de sombra, com seu último ato de amor pela criação.
 
 Alyndra sentiu algo ao ouvir aquele nome. Não reconhecimento exato — ela nunca havia ouvido a história de Veridion —, mas algo mais profundo, mais instintivo. Como se o nome fosse uma música que ela já conhecesse mas não conseguisse lembrar de onde.
 
@@ -389,7 +389,7 @@ Nada mais. Nem uma palavra sobre o que sentia. Porque qualquer palavra a mais se
 ¹⁶ **Elara** — Título da diretora do Orfanato Luminis; guardiã do refúgio.
 ¹⁷ **veluma** — Tecido quente usado em cobertores e roupas; material comum em Sylvaris.
 ¹⁸ **sylari** — Insetos alados translúcidos que dançam nos campos de aethrys.
-¹⁹ **Veridion** — O último dos dez Seraphyens guardiões; fundou Sylvaris; dissipou-se no vento.
+¹⁹ **Veridion** — O último dos dez Seraphyens guardiões; co-fundou Sylvaris junto com seu par de sombra do vento; dissipou-se no vento.
 ²⁰ **aebril** — Primeira luz de Aurion no horizonte.
 ²¹ **velrok** — Grande quadrúpede; pelagem prateada, utilizado para montaria e tração.
 ²² **giran** — Tecido grosso usado em roupas; material resistente para o frio.

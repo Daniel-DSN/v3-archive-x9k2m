@@ -3,7 +3,7 @@
 > **Documento de Worldbuilding:** Expansão completa de Thalassia
 > **Baseado nos capítulos do Livro I e nas Leis de Ilyos**
 > **Referência cruzada:** Os 7 Pilares aqui detalhados são os mesmos do documento `RELIGIOES_E_FILOSOFIAS.md`
-> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são filhos de Yggorath. Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys selaram Nyxalor no Dingir-sar.
+> **Dualidade Ilyos/Nyxalor (v2.0):** Ilyos e Nyxalor são gêmeos nascidos da Semente de Alyndra Primordial — o centro onde todos os 5 elementos convergem. Luz e sombra não são elementos independentes, mas a soma de todos os 5 elementos. Ilyos (natureza entrópica: amor, impulsão, criação; quem envia os Seraphyens) e Nyxalor (natureza equilibradora: sabedoria, cautela, racionalidade; mais respeitado que Ilyos; vem depois para normalizar). Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys selaram Nyxalor no Dingir-sar.
 > **Atualizado:** 31 de Maius de 2026
 
 ---
@@ -50,7 +50,7 @@ Quando Ilyos e os Seraphyens chegaram, encontraram um povo **profundamente espir
 
 ### 1.2 A Chegada de Myrrhiel
 
-Myrrhiel, o Seraphyen do Mar (aspecto **Nutrir** — também chamado Myrrhiel em textos antigos), foi enviado por Ilyos especificamente para Thalassia. Diferente de outros reinos onde os Seraphyens precisaram construir civilização do zero, Myrrhiel encontrou uma cultura marítima **já florescente** — e sua missão foi **integrar**, não substituir.
+O **par de Seraphyens da água** (luz + sombra) foi enviado por Ilyos para Thalassia. Myrrhiel (aspecto **Nutrir** — par sombra) era o mais proeminente do par. Diferente de outros reinos onde os Seraphyens precisaram construir civilização do zero, o par encontrou uma cultura marítima **já florescente** — e a missão foi **integrar**, não substituir.
 
 > *"Não vim para dizer que seu mar não é sagrado. Vim para dizer que a sacralidade que vocês sentem é real — mas maior do que imaginam. O mar não é um deus. O mar é um berço. E todos nós, terrestres e marinhos, fomos embalados por suas ondas."*
 > — Myrrhiel, em seu primeiro discurso aos clãs thalassianos

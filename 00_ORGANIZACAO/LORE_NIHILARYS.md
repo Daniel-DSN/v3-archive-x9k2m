@@ -1,7 +1,7 @@
 # LORE — OS NIHILARYS
 
-> **Versão:** 1.0 | **Criado em:** Valen 6, Nyra de Audin (jun 2026)
-> **Status:** DEFINIDO — Aguardando integração no Prólogo
+> **Versão:** 2.0 | **Criado em:** Valen 6, Nyra de Audin (jun 2026)
+> **Status:** DEFINIDO — Modelo canônico v2.0 (cosmologia unificada)
 > **Fonte:** Discussão entre autor e editor (sessão de lore)
 
 

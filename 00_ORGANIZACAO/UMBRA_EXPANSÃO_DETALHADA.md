@@ -3,7 +3,7 @@
      3|> **Documento de Worldbuilding:** Expansão completa de Umbra
      4|> **Baseado nos capítulos do Livro I e nas Leis de Ilyos** (conforme estabelecido em `RELIGIOES_E_FILOSOFIAS.md`)
      5|> **Referência cruzada:** Os 7 Pilares aqui detalhados são os mesmos do documento `RELIGIOES_E_FILOSOFIAS.md` — usar em conjunto
-     6|> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são os dois filhos de Yggorath. Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
+     6|> **Dualidade Ilyos/Nyxalor (v2.0):** Umbra e Sanctrum eram originalmente uma **dualidade única** — o ponto central onde os 5 elementos convergem. Ilyos (luz que cria — entropia, amor, impulsão) e Nyxalor (sombra que equilibra — sabedoria, cautela, racionalidade) lideravam **juntos** essa dualidade. A separação em dois reinos ocorreu após a guerra e o selo. Ilyos e Elarys selaram Nyxalor no Dingir-sar.
      7|> **Atualizado:** 31 de Maius de 2026
      8|
      9|---

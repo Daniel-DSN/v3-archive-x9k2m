@@ -1,7 +1,7 @@
 # LORE — ALYNDRA PRIMORDIAL E TIMELINE DA CRIAÇÃO
 
-> **Versão:** 1.0 | **Criado em:** Valen 6, Nyra de Audin (jun 2026)
-> **Status:** DEFINIDO — Aguardando integração no Prólogo
+> **Versão:** 2.0 | **Criado em:** Valen 6, Nyra de Audin (jun 2026)
+> **Status:** DEFINIDO — Modelo canônico v2.0 (cosmologia unificada)
 > **Fonte:** Discussão entre autor e editor (sessão de lore)
 
 
@@ -49,8 +49,8 @@ Alyndra Primordial estava **grávida de gêmeos** quando enfrentou o momento dec
 
 | Gêmeo | Nome | Natureza |
 |-------|------|----------|
-| 1 | **Ilyos** | A luz que constrói |
-| 2 | **Nyxalor** | A sombra que dissolve |
+| 1 | **Ilyos** | A luz que cria — amor, impulsão, alegria, a força entrópica que faz surgir |
+| 2 | **Nyxalor** | A sombra que equilibra — sabedoria, cautela, astúcia, racionalidade, o freio que normaliza |
 
 ### O destino da gravidez
 
@@ -60,10 +60,12 @@ A semente de Alyndra carregava a essência da mãe e a promessa dos filhos. Mesm
 
 ### Significado
 
-- **Ilyos** herda a luz, a construção, a continuidade do que a mãe defendia
-- **Nyxalor** herda a sombra, a dissolução, a inevitabilidade do fim
+- **Ilyos** herda a luz — a força criativa, o amor, a impulsão. Sua natureza é **entrópica**: ela faz surgir, constrói, empurra para frente com uma alegria quase infantil. É a que **envia** os Seraphyens, a que dá o primeiro impulso.
+- **Nyxalor** herda a sombra — a sabedoria, a cautela, a astúcia, a inteligência racional. É o **freio** que normaliza, controla e equilibra o que Ilyos cria. Vinha **depois** de Ilyos — não para destruir, mas para dar forma e limite ao que ela faz surgir. Por isso era **mais respeitado** que a irmã.
 - Ambos carregam a essência de Alyndra Primordial em si
-- A dualidade construtor/dissolutor é uma **divisão da semente** — um não existiria sem o outro
+- A dualidade não é "construtor vs destrutor" — é **impulso vs contenção**, **criação vs equilíbrio**. Uma divisão da semente — um não existiria sem o outro
+
+> **Nota cosmológica (v2.0):** Ilyos e Nyxalor não possuem um elemento individual. Eles são os **núcleos centrais** onde os 5 elementos (fogo, água, terra, vento, relâmpago) se mesclam. Dessa convergência emerge a **luz** (Ilyos) ou a **sombra** (Nyxalor). Luz e sombra não são elementos independentes — são a **soma de todos os 5 elementos** em suas formas criativa e equilibradora, respectivamente.
 
 ---
 
@@ -189,15 +191,17 @@ Novos seres nascem                               Descendentes do povo de Alyndra
 ```
 EVENTO                                              CONSEQUÊNCIA
 ─────────────────────────────────────────────────────────────────
-Seraphyens nascem (luz+sombra periférica)       10 seres, 5 elementos
+Ilyos envia os Seraphyens (5 pares, 1 por elemento)  10 seres povoam os 5 reinos
+Ilyos e Nyxalor lideram juntos a dualidade central  Sanctrum-Umbra como uma única entidade
+Quase todos os Seraphyens respeitam Nyxalor mais    Sabedoria vs impulsividade de Ilyos
 Ilyos conhece Myrrhiel                           Amor mútuo
 Nyxalor começa a ser corrompido por Mythra        Sussurros, paranoia
 Nyxalor ama Elarys → trai                        Relação amorosa destruída
 Ilyos e Myrrhiel têm filhos orgânicos           Mareth e Nymyra
 Primeiras famílias descendentes                  Marethyus, Nymyrias, etc.
-Guerra: Nyxalor vs Ilyos                        Divisão entre Seraphyens
+Guerra: Nyxalor vs Ilyos                        Quase todos os Seraphyens ao lado de Nyxalor
 Elarys manipulada, luta contra Ilyos            Enganada pelo amor
-Elarys percebe traição de Nyxalor                Abre olhos dos demais
+Elarys percebe traição de Nyxalor                Poucos voltam ao lado de Ilyos
 Myrrhiel morre em combate                        Compra tempo para Ilyos
 Ilyos concentra aethra                           Não é suficiente
 Elarys oferece corpo → selo completo             Selada no corpo de Nyxalor
@@ -211,7 +215,7 @@ Mythra sobrevive nas bordas do selo              "A Que Espera"
 EVENTO                                              CONSEQUÊNCIA
 ─────────────────────────────────────────────────────────────────
 Seraphyens partem um a um                       Uns dissipam, outros consomem
-Veridion = último → espalha-se no vento         Fundou Sylvaris
+Veridion = último → espalha-se no vento         Co-fundou Sylvaris (par)
 Três luas nascem (Lyria, Nyx, Elara)           De Ilyos e Elarys
 Famílias descendentes espalham-se               5 sobreviventes, outras extintas
 ... milhares de valens ...
@@ -233,7 +237,7 @@ Alyndra (protagonista) carrega múltiplas camadas de herança:
 | Camada | Fonte | O que confere |
 |--------|-------|---------------|
 | **Essência primordial** | Alyndra Primordial (semente) | A promessa, a esperança, o destino |
-| **Sangue de Ilyos** | Linhagem Marethyus → Ilyos | A luz que constrói |
+| **Sangue de Ilyos** | Linhagem Marethyus → Ilyos | A luz criativa — o impulso que faz surgir, o amor entrópico |
 | **Sangue de Myrrhiel** | Linhagem Marethyus → Myrrhiel | O escudo, a proteção, água-sombra |
 | **Chama de Elarys** | Herança do selo | A sustentação do selo |
 | **Nome** | Alyndra Primordial | O sopro guiando o nome |

@@ -3,7 +3,8 @@
 > **Documento de Worldbuilding:** Expansão completa de Fulmora
 > **Baseado nos capítulos do Livro I e nas Leis de Ilyos** (conforme RELIGIOES_E_FILOSOFIAS.md)
 > **Referência cruzada:** Dualidade Ilyos/Nyxalor, os 7 Pilares, tecnologia Seraphyen, RRA
-> **Atualizado:** 31 de Maius de 2026
+> **Dualidade Ilyos/Nyxalor (v2.0):** Ilyos e Nyxalor são gêmeos nascidos da Semente de Alyndra Primordial — o centro onde todos os 5 elementos convergem. Luz e sombra não são elementos independentes, mas a soma de todos os 5 elementos. Ilyos (natureza entrópica: amor, impulsão, criação; quem envia os Seraphyens) e Nyxalor (natureza equilibradora: sabedoria, cautela, racionalidade; mais respeitado que Ilyos; vem depois para normalizar). Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
+> **Atualizado:** 17 de Junho de 2026 (unificação v2.0)
 
 ---
 
@@ -33,6 +34,8 @@
 ## 1. A Fundação Filosófica — Fulm e a Leitura Técnica dos 7 Pilares
 
 ### 1.1 A Chegada de Fulm
+
+> **Nota (v2.0):** Fulmora foi povoada pelo **par de Seraphyens do relâmpago** (luz + sombra), enviado por Ilyos. A tradição posterior renomeou ou esqueceu um dos pares, mas a fundação foi conjunta. Fulmora é o reino mais secular e revisou sua própria história para enfraquecer a ligação com os Seraphyens.
 
 Fulm foi o Seraphyen do Raio no aspecto **Conhecimento (Iluminar)** — o quarto dos filhos elementais de Yggorath, criado depois de Galamar. Enquanto Galamar recebeu a tarefa de sustentar e Veridion de conectar, Fulm recebeu a missão de **iluminar** — não com luz física, mas com **conhecimento, descoberta e inovação**.
 

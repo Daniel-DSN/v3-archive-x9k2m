@@ -1,4 +1,6 @@
 > **Versão .md gerada a partir de:** `ALYNDRA_Ilyos_Gir_Escrituras.docx` (preservada em `rascunho/`)
+>
+> **⚠️ Nota meta (v2.0):** Este documento é uma **escritura in-universe** — o texto religioso que os seguidores de Ilyos leram e transmitiram ao longo dos milênios. Como tal, contém uma **cosmologia simplificada e alegórica** que difere do modelo canônico estabelecido em `LORE_COSMOLOGIA_E_MAGIA.md` v2.0. Por exemplo: o Prólogo do Ilyos-Gir descreve Ilyos e Nyxalor como "duas consciências que despertaram do Vazio", quando o modelo canônico os estabelece como gêmeos nascidos da Semente de Alyndra Primordial. Essas diferenças são **intencionais** — refletem como a tradição oral distorceu a verdade ao longo de milhares de valens. Para a cosmologia canônica, consultar sempre `LORE_COSMOLOGIA_E_MAGIA.md`.
 
 Índice
 

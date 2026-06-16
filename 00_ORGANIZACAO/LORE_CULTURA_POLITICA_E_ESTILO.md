@@ -1855,9 +1855,9 @@ No dia a dia, os Sylvari usam formas reduzidas:
 | **Izi** | Fogo, calor, chama | Elemento |
 | **A / Asha** | Água, fluido, corrente | Elemento |
 | **Ki** | Terra, solo, chão | Elemento |
-| **Me** | Éter, espírito, alma | Elemento divino |
+| **Me** | Conhecimento, saber, luz primordial | Conceito (não é elemento) |
 | **Nim** | Raio, relâmpago, faísca | Elemento |
-| **Gig** | Sombra, escuridão, oculto | Elemento |
+| **Gig** | Sombra, escuridão, oculto | Aspecto (não é elemento independente — v2.0) |
 | **An** | Céu, firmamento | Espaço |
 | **Cryonys** | Gelo (água + vento) | Fusão elemental |
 | **Thermaris** | Vapor (água + fogo) | Fusão elemental |

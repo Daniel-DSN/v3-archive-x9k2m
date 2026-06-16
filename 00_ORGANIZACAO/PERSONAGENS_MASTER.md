@@ -3564,7 +3564,7 @@ Varek Nythor foi alçado ao cargo de Governador de Umbra por sua maleabilidade. 
 | **Nome completo** | Valtheris |
 | **Título(s)** | O Arquiteto Etérico, En Gesh (Mestre das Ferramentas) |
 | **Reino de origem** | Sanctrum (origem familiar em Fulmora) |
-| **Elemento** | Éter / Metal |
+| **Elemento** | Relâmpago (especialidade em engenharia etérica) |
 | **Idade** | 58 anos |
 | **Aparência** | Homem de ombros largos, cabelos crespos e grisalhos salpicados de fuligem, mãos calejadas pelo trabalho com engrenagens e metal. Usa óculos de lentes duplas retráteis para trabalhos de precisão e túnicas de Sanctrum modificadas com bolsos cheios de ferramentas de latão. |
 | **Personalidade** | Focado, entusiasta da ciência, obstinado. Acredita sinceramente que a tecnologia pode salvar e unir Alyndra, cegando-se para o perigo das manobras geopolíticas e a espionagem militar. Seu idealismo científico o impede de ver as brechas de segurança que outros exploram. |
@@ -3807,7 +3807,7 @@ Ignar governa Pyralis com punho de ferro. Na votação da RRA na Grande Assemble
 | **Nome completo** | Lysias Thyrion |
 | **Título(s)** | Correspondente da Guilda dos Arautos do Éter, Primeiro Repórter Continental |
 | **Reino de origem** | Sylvaris (Zephyra) |
-| **Elemento** | Éter (sensibilidade básica) |
+| **Elemento** | Vento (sensibilidade a ressonâncias) |
 | **Idade** | 19 valens |
 | **Aparência** | Jovem magro e esguio, cabelos castanhos rebeldes e óculos redondos remendados no meio da armação. Veste roupas simples de linho cinza manchadas de tinta e carrega sempre uma bolsa cheia de cadernos com folhas soltas. |
 | **Personalidade** | Curioso, obstinado, moralmente teimoso. Busca a verdade por trás das aparências oficiais, ignorando riscos pessoais. Sua inexperiência o torna ousado de uma forma que os repórteres veteranos desaprovam. |

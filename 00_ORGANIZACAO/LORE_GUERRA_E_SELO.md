@@ -1,7 +1,7 @@
 # LORE — GUERRA, SELO E RELAÇÕES AMOROSAS
 
-> **Versão:** 1.0 | **Criado em:** Valen 6, Nyra de Audin (jun 2026)
-> **Status:** DEFINIDO — Aguardando integração no Prólogo
+> **Versão:** 2.0 | **Criado em:** Valen 6, Nyra de Audin (jun 2026)
+> **Status:** DEFINIDO — Modelo canônico v2.0 (cosmologia unificada)
 > **Fonte:** Discussão entre autor e editor (sessão de lore)
 
 
@@ -26,22 +26,24 @@
 
 ## 1. A Guerra dos Irmãos
 
-A guerra central da mitologia é entre os gêmeos nascidos da semente de Alyndra Primordial: **Ilyos** (luz que constrói) e **Nyxalor** (sombra que dissolve).
+A guerra central da mitologia é entre os gêmeos nascidos da semente de Alyndra Primordial: **Ilyos** (luz que cria — amor, impulsão, entropia) e **Nyxalor** (sombra que equilibra — sabedoria, cautela, racionalidade).
 
-Não foi uma guerra declarada — foi revelada quando Nyxalor, em vez de dissolver o que morria, passou a dissolver o que vivia.
+Antes da corrupção, a dinâmica era natural: Ilyos impulsionava a criação com uma alegria quase infantil; Nyxalor vinha depois para equilibrar, normalizar e dar forma. Não era conflito — era complementaridade. Nyxalor era **mais respeitado** por sua sabedoria; Ilyos era amada, mas vista como impulsiva.
+
+A guerra não foi declarada — revelou-se quando a corrupção de Mythra distorceu o papel de Nyxalor: em vez de equilibrar o que Ilyos criava, passou a ver a criação como excesso que precisava ser contido por completo.
 
 ### Corrupção de Nyxalor
 
 - Começou com **sussurros de Mythra** nas bordas de sua consciência
-- Mythra plantou ideias: Nyxalor não era parte do ciclo — ele era o ciclo. Ilyos criava sem perguntar; ele dissolvia com propósito.
-- O propósito foi distorcido: de devolver, para **acabar**.
-- Nyxalor passou a ver a luz de Ilyos como acumulação, o ciclo como prisão, e a si mesmo como o único libertador.
+- Mythra plantou ideias: Nyxalor não era parte do ciclo — ele era o ciclo. Ilyos criava sem parar, sem sentido; ele equilibrava com propósito.
+- O propósito foi distorcido: de equilibrar e normalizar, para **acabar**.
+- Nyxalor passou a ver a luz de Ilyos como acumulação descontrolada, o ciclo como prisão, e a si mesmo como o único libertador.
 
-### Muitos seguiram Nyxalor
+### Quase todos seguiram Nyxalor
 
-Diversos seres seguiram Nyxalor — enganados como ele fora. Mythra ampliou o poder de Nyxalor além do que qualquer ser podia enfrentar sozinho. Nyxalor subjulgou até os que ousaram rebelar-se.
+Diversos seres seguiram Nyxalor — não principalmente por engano, mas porque **ele era quem eles respeitavam**. Sua sabedoria, cautela e racionalidade sempre inspiraram mais confiança do que a impulsividade de Ilyos. Mythra ampliou esse poder de convencimento. Nyxalor subjulgou até os que ousaram rebelar-se.
 
-**Este ponto é crítico:** a rebelião existiu. Ilyos NÃO lutou sozinha. Mas os que se rebelaram contra Nyxalor foram subjugados.
+**Este ponto é crítico:** a rebelião existiu, mas foi mínima. Ilyos NÃO lutou sozinha no sentido absoluto — Myrrhiel estava ao lado dela. Mas entre os Seraphyens, quase todos seguiram Nyxalor. Os que se rebelaram foram subjugados.
 
 ---
 
@@ -49,21 +51,21 @@ Diversos seres seguiram Nyxalor — enganados como ele fora. Mythra ampliou o po
 
 Quando a guerra se revelou, os Seraphyens se dividiram:
 
-### Lado de Ilyos
-- **Myrrhiel** — braço direito, escudo, amante de Ilyos. Ficou ao lado dela por lealdade e amor.
+### Lado de Ilyos (exceção)
+- **Myrrhiel** — braço direito, escudo, amante de Ilyos. Ficou ao lado dela por lealdade e amor. Foi praticamente o único Seraphyen a escolher Ilyos por convicção.
 
-### Lado de Nyxalor (engano)
+### Lado de Nyxalor (maioria esmagadora)
 - **Elarys** — amava Nyxalor. Foi manipulada pelo amor a lutar contra Ilyos.
-- **Outros Seraphyens** — alguns foram enganados pela retórica de Nyxalor ou por Mythra, sem ver o erro.
-- Esses não eram "maus" — eram equivocados, cegos pela confiança no irmão de Ilyos.
+- **Quase todos os demais Seraphyens** — seguiram Nyxalor não por maldade, mas porque o respeitavam mais. Sua sabedoria e racionalidade eram o que os Seraphyens reconheciam como liderança.
+- Esses não eram "maus" — seguiam quem sempre liderou com mais prudência. A confiança em Nyxalor era natural; a traição de Mythra não era.
 
 ### Importância narrativa
 
 Essa divisão resolve a contradição original do Prólogo. A frase "muitos o seguiram" e "Ilyos enfrentou sozinha" pareciam contraditórias. Na verdade:
 
-- Ilyos enfrentou Nyxalor sozinha no **centro do conflito** (luz vs sombra primordial)
-- Mas havia uma **guerra maior** ao redor, com Seraphyens lutando em ambos os lados
+- Ilyos enfrentou Nyxalor sozinha no **centro do conflito** (núcleo de luz vs núcleo de sombra — a mescla dos 5 elementos)
 - Myrrhiel protegia Ilyos nos flancos, mas não podia enfrentar Nyxalor diretamente
+- A esmagadora maioria dos Seraphyens estava ao lado de Nyxalor — não por engano, mas por respeito histórico à sua sabedoria
 
 ---
 
@@ -75,9 +77,9 @@ O ponto de virada da guerra:
 
 2. **Elarys muda de lado** — Ela abandona Nyxalor e se junta a Ilyos. Não por estratégia, mas por dor.
 
-3. **Os demais abrem os olhos** — A deserção de Elarys é o catalisador. Os Seraphyens que lutavam contra Ilyos percebem que foram enganados. Nyxalor não era o libertador — era a prisão.
+3. **Alguns abrem os olhos** — A deserção de Elarys é o catalisador. Alguns Seraphyens percebem que o ser que sempre respeitaram já não é o mesmo. Mas a maioria hesita — Nyxalor foi seu líder por toda a existência. A mudança não é instantânea.
 
-4. **União** — Os que estavam contra Ilyos se unem a ela. Todos os Seraphyens (exceto os já perdidos) lutam juntos contra Nyxalor e Mythra.
+4. **Adesão limitada** — Alguns Seraphyens se unem a Ilyos, mas **não todos**. A maioria continua ao lado de Nyxalor, seja por lealdade acumulada, seja por medo, seja porque Mythra já os havia influenciado demais. A guerra é desigual.
 
 5. **Mas já é tarde demais** — Mythra já havia dominado Nyxalor completamente. Deu-lhe armas para aniquilar todos. O poder de Nyxalor ultrapassou qualquer coisa que os Seraphyens pudessem enfrentar em combate aberto.
 

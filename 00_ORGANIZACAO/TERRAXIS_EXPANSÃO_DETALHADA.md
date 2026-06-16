@@ -3,7 +3,8 @@
 > **Documento de Worldbuilding:** Expansão completa de Terraxis
 > **Baseado nos capítulos do Livro I e nas Leis de Ilyos** (conforme RELIGIOES_E_FILOSOFIAS.md)
 > **Referência cruzada:** Dualidade Ilyos/Nyxalor, os 7 Pilares, contratos e hierarquia
-> **Atualizado:** 31 de Maius de 2026
+> **Dualidade Ilyos/Nyxalor (v2.0):** Ilyos e Nyxalor são gêmeos nascidos da Semente de Alyndra Primordial — o centro onde todos os 5 elementos convergem. Luz e sombra não são elementos independentes, mas a soma de todos os 5 elementos. Ilyos (natureza entrópica: amor, impulsão, criação; quem envia os Seraphyens) e Nyxalor (natureza equilibradora: sabedoria, cautela, racionalidade; mais respeitado que Ilyos; vem depois para normalizar). Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
+> **Atualizado:** 17 de Junho de 2026 (unificação v2.0)
 
 ---
 
@@ -33,7 +34,9 @@
 
 ### 1.1 A Chegada de Galamar
 
-Galamar foi o Seraphyen da Terra no aspecto **Solidez (Sustentar)** — o terceiro dos filhos elementais de Yggorath, criado após Ilyos e Nyxalor, antes dos demais Seraphyens. Enquanto Veridion (Vento) recebeu a missão de conectar, e Fulm (Raio) de iluminar, Galamar recebeu a missão de **sustentar**. Ele era a fundação sobre a qual todos os outros reinos se ergueriam.
+> **Nota (v2.0):** Terraxis foi povoada pelo **par de Seraphyens da terra** (luz + sombra). Galamar era o aspecto luz do par. Os 5 reinos periféricos foram povoados aos pares, enviados por Ilyos.
+
+Galamar era o Seraphyen da Terra no aspecto **luz (Solidez/Sustentar)** — enviado por Ilyos como parte do **par de Seraphyens da terra** (luz + sombra) para povoar Terraxis. Os 5 reinos periféricos foram povoados aos pares, não individualmente. Enquanto Veridion (Vento-luz) recebeu a missão de conectar, e Aetherion (Relâmpago-luz) de iluminar, Galamar recebeu a missão de **sustentar**. Ele era a fundação sobre a qual todos os outros reinos se ergueriam.
 
 Diferente dos outros Seraphyens, que escolheram planícies ou costas para fundar seus reinos, Galamar escolheu **a montanha mais alta e mais dura do continente**: o que hoje é a Montanha de Galamar (originalmente *Galamar Dur* — "A Montanha Eterna de Galamar"), onde Durok foi escavada.
 

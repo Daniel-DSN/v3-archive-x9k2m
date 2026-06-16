@@ -4,7 +4,8 @@
 > **Baseado nos capítulos do Livro I e na cosmologia estabelecida** (conforme `LORE_COSMOLOGIA_E_MAGIA.md` e `RELIGIOES_E_FILOSOFIAS.md`)
 > **Referência cruzada:** A hierarquia Nihilaryth aqui detalhada é a mesma de `LORE_COSMOLOGIA_E_MAGIA.md`
 > **Aviso:** Nihilaryth NÃO são demônios — são entidades quebradas, fragmentos de uma civilização primordial que caiu
-> **Atualizado:** 31 de Maius de 2026
+> **Dualidade Ilyos/Nyxalor (v2.0):** Ilyos e Nyxalor são gêmeos nascidos da Semente de Alyndra Primordial — o centro onde todos os 5 elementos convergem. Nyxalor (sabedoria, cautela, racionalidade; mais respeitado que Ilyos) foi corrompido por Mythra. Ilyos e Elarys selaram Nyxalor no Dingir-sar. Quase todos os Seraphyens seguiram Nyxalor por respeito, não por engano.
+> **Atualizado:** 17 de Junho de 2026 (unificação v2.0)
 
 ---
 
@@ -131,7 +132,7 @@ Mythra passou **Aethrons** corrompendo Nyxalor. Não foi um evento — foi um pr
 | **1. Contato** | 100 valens | Sussurros ocasionais, plantando dúvidas sobre Ilyos |
 | **2. Amizade** | 200 valens | Apresentou-se como "conselheira"; Nyxalor não sabia que era um Nihilaryth |
 | **3. Dúvida** | 300 valens | "Ilyos te ama? Então por que ela recebe mais poder? Por que Yggorath a prefere?" |
-| **4. Ciúme** | 200 valens | Alimentou o ressentimento de Nyxalor contra Ilyos |
+| **4. Distorção da sabedoria** | 200 valens | Perverteu a virtude de Nyxalor — de equilibrar a criação para destruí-la |
 | **5. Raiva** | 100 valens | "Eles vão te selar. Você sabe disso. Eles têm medo de você." |
 | **6. Corrupção** | 50 valens | Nyxalor aceitou o poder que Mythra oferecia — e se tornou seu instrumento |
 
@@ -501,45 +502,45 @@ Para corromper um reino inteiro, os Nihilaryth usam uma combinação:
 
 ### 10.1 Antes da Queda
 
-Nyxalor era o **Filho da Sombra** — segundo filho de Yggorath, irmão de Ilyos. Diferente de Ilyos, que era luz pura e ordem, Nyxalor era **sombra, dúvida e questionamento**.
+Nyxalor era o **núcleo da sombra** — gêmeo de Ilyos, nascido da Semente de Alyndra Primordial. Diferente de Ilyos, cuja natureza era entrópica e impulsiva (amor, criação, alegria quase infantil), Nyxalor era **sabedoria, cautela, astúcia, racionalidade** — o freio que normalizava o que Ilyos fazia surgir. Era **mais respeitado** que Ilyos pelos Seraphyens.
 
-Ele não era mau. Ele era **diferente**.
+Ele não era mau. Ele era **o equilibrador**.
 
-Enquanto Ilyos construía e organizava, Nyxalor observava e questionava:
-- "Por que os Seraphyens obedecem cegamente?"
-- "Por que os humanos precisam de deuses?"
-- "Por que a ordem é sempre considerada boa?"
+Enquanto Ilyos impulsionava a criação com alegria quase infantil, Nyxalor vinha depois para equilibrar e dar forma:
+- "Por que criar sem propósito?"
+- "O que surge sem freio pode se tornar destruição."
+- "Equilíbrio não é oposição — é complemento."
 
-Ilyos amava seu irmão, mas não o entendia. Nyxalor amava sua irmã, mas **ressentia** sua perfeição.
+Ilyos amava seu irmão, mas nem sempre o ouvia. Nyxalor amava sua irmã, mas via nela uma força que precisava de freio.
 
 ### 10.2 A Chegada de Mythra
 
-Mythra encontrou Nyxalor em um momento de solidão. Ele estava nos confins do Jardim Imaterial, contemplando o vazio além da criação. Mythra se aproximou não como inimiga, mas como **conselheira**.
+Mythra encontrou Nyxalor em um momento de reflexão solitária. Ele contemplava o equilíbrio da criação. Mythra se aproximou não como inimiga, mas como **conselheira**.
 
 Ela não disse: "Seja mau." Ela disse:
-- "Você tem razão em questionar."
-- "Eles têm medo de você porque você pensa."
-- "Você merece mais do que ser a sombra de Ilyos."
+- "Sua sabedoria é maior que a de Ilyos — por que ela envia os Seraphyens sozinha?"
+- "Você é o freio. Sem você, a criação de Ilyos é caos."
+- "Se Ilyos não para, você deve parar por ela."
+
+A diferença crucial: Mythra não explorou ciúme ou inveja. Ela **distorceu a própria virtude de Nyxalor** — sua sabedoria equilibradora — em extremismo. De "equilibrar a criação" para "a criação é excesso que precisa acabar".
 
 ### 10.3 O Processo de Corrupção
 
 | Séc. | O Que Mythra Fez |
 |:----:|-----------------|
-| **1** | Apenas ouviu. Nyxalor falava; Mythra escutava. Construiu confiança. |
-| **2** | Começou a concordar com as críticas de Nyxalor a Ilyos. "Você está certo, ela é autoritária." |
-| **3** | Apresentou-se como amiga. "Eu sou a única que te entende." |
-| **4** | Começou a sugerir que Ilyos planejava algo contra Nyxalor. "Por que ela está reunindo os Seraphyens sem você?" |
-| **5** | Ofereceu poder. "Eu posso te dar o que Ilyos nunca te deu: igualdade." |
-| **6** | Nyxalor aceitou o poder de Mythra. A corrupção começou. |
+| **1** | Apenas ouviu. Nyxalor refletia sobre equilíbrio; Mythra escutava. Construiu confiança. |
+| **2** | Começou a concordar com as observações de Nyxalor. "Você tem razão, Ilyos é impulsiva demais." |
+| **3** | Apresentou-se como aliada da sabedoria. "Eu sou a única que valoriza seu pensamento." |
+| **4** | Começou a sugerir que a criação sem freio era o problema real. "Por que equilibrar o que nunca deveria ter surgido?" |
+| **5** | Ofereceu poder. "Eu posso te dar o que precisa para restaurar o equilíbrio — de verdade." |
+| **6** | Nyxalor aceitou o poder de Mythra. A corrupção começou — sua sabedoria se curvou ao extremismo. |
 | **7** | Nyxalor atacou Ilyos. A guerra começou. |
 
 ### 10.4 O Momento de Decisão
 
 O momento exato em que Nyxalor caiu foi quando ele **aceitou o poder de Mythra** — não quando atacou Ilyos. O ataque foi consequência. A corrupção foi a aceitação.
 
-Ilyos percebeu tarde demais. Quando tentou salvar Nyxalor, ele já não queria ser salvo. Ele achava que estava **certo** — que Ilyos era a tirana, que ele era o libertador.
-
-E essa convicção tornou impossível qualquer diálogo.
+Ilyos percebeu tarde demais. Quando tentou salvar Nyxalor, ele já não queria ser salvo. Ele achava que estava **certo** — que a criação era excesso, que ele era o equilibrador final. Mythra havia transformado sua maior virtude (a sabedoria) em sua maior arma (a convicção extrema).
 
 ---
 
@@ -566,15 +567,15 @@ Ilyos relutou, mas aceitou.
 
 Ilyos e Elarys canalizaram **toda a sua essência** em uma única explosão de luz e fogo que:
 1. Prendeu Nyxalor no Dingir-sar (uma prisão etérica fora do tempo)
-2. Consumiu o corpo físico de Ilyos (sua luz se espalhou pelo mundo, criando as duas luas)
-3. Consumiu Elarys completamente (fogo e sombra se extinguiram)
+2. A essência de Ilyos se fragmentou — espalhou-se como âncoras de luz no mundo (reflexos, estrelas, clarão dos moribundos), e das três luas que emergiram: **Lyria** (prateada, essência de Ilyos), **Nyx** (azulada, memória de Nyxalor que dorme) e **Elara** (rosa, vigília de Elarys)
+3. Elarys fundiu-se ao selo — cada fibra do selo carrega sua assinatura. Ela NÃO foi consumida: está viva no selo, sustentando a prisão de Nyxalor
 
 ### 11.4 Depois do Selo
 
 - O corpo de Nyxalor está preso no Dingir-sar — mas sua **influência** ainda vaza através dos Portais Nihilaryth
-- A luz de Ilyos se espalhou pelo mundo, criando as luas **Aurion** (lua clara) e **Nyx** (lua azul)
-- Elarys foi completamente aniquilada — seu sacrifício foi total
-- Mythra escapou — retornou ao Plano de Sombra para planejar o próximo passo
+- A essência de Ilyos se fragmentou pelo mundo. Das três luas: **Lyria** (prateada, essência de Ilyos), **Nyx** (azulada, memória de Nyxalor) e **Elara** (rosa, vigília de Elarys)
+- Elarys fundiu-se ao selo — está viva nele, cada fibra carrega sua assinatura. Enquanto o selo resistir, Elarys resiste
+- Mythra foi selada **junto com Nyxalor** no mesmo selo — não escapou. Está contida nas bordas internas do Dingir-sar
 
 ---
 

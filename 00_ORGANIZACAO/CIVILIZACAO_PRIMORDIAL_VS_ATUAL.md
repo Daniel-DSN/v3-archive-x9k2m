@@ -20,7 +20,7 @@ Os Nihilaryth — primeira civilização do cosmos, anterior até a Aertherion �
 
 ### 1.3 O Sacrifício de Yggorath
 
-Após a Queda, **Yggorath** se sacrificou no quasar central. Sua essência se tornou a **Semente da Eternidade** — que germinou em uma **nova galáxia**: Nova Aetherion. Não foi uma simples colonização ou fuga. Foi um ato de criação cósmica: uma entidade primordial abdicou de sua existência para originar um novo universo inteiro. Ilyos e Nyxalor nasceram dessa Semente — filhos de Yggorath, nascidos nesta nova realidade.
+Após a Queda, **Yggorath** se sacrificou no quasar central. Sua essência se tornou a **Semente da Eternidade** — que germinou em uma **nova galáxia**: Nova Aetherion. Não foi uma simples colonização ou fuga. Foi um ato de criação cósmica: uma entidade primordial abdicou de sua existência para originar um novo universo inteiro. Ilyos e Nyxalor nasceram dessa Semente — gêmeos nascidos da essência de Alyndra Primordial, germinados por Yggorath.
 
 A Semente carregava consigo o **Desejo de Alyndra**: *"Que um fruto de meu sangue renasça nos éons futuros para aniquilar os Nihilaryth definitivamente."* Esse desejo permeia toda a Nova Aetherion e é a força motriz por trás dos eventos do Livro I.
 
@@ -30,7 +30,7 @@ A nova galáxia não herdou a tecnologia Tipo 2. Herdou **fragmentos**:
 - **Ruínas Aertherianas** espalhadas por todos os reinos — fundações, torres de ressonância, estruturas que a civilização atual não consegue replicar
 - **Aetherite** — mineral que canaliza Aethra, usado de forma rudimentar pela civilização atual mas que nos tempos primordiais era manipulado com precisão cirúrgica
 - **O Fruto Corrompido** — fragmento que os Nihilaryth preservaram, plantado no Núcleo do Vazio sob Umbra
-- **Seraphyens** — os dez seres enviados a esta galáxia (cinco da luz e cinco da sombra, um por elemento), portadores de conhecimento fragmentado da civilização original
+- **Seraphyens** — os dez seres (cinco pares — um par luz/sombra por elemento), **enviados por Ilyos** aos 5 reinos periféricos para povoá-los **aos pares**. No centro da convergência dos elementos, Ilyos e Nyxalor lideravam juntos a dualidade Sanctrum-Umbra. Luz e sombra não são independentes dos 5 elementos — são a soma de todos eles, os núcleos centrais que regem a criação.
 - **O Ilyos-Gir** — os ensinamentos deixados por Ilyos, que preservam princípios filosóficos mas não a tecnologia
 
 ---

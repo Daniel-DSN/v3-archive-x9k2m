@@ -37,13 +37,13 @@ Uso recomendado:
 
 | Reino | Elemento dominante | Capital/centro | Governante atual | Biomas principais | Funcao narrativa |
 |---|---|---|---|---|---|
-| Sanctrum | Luz / ordem / engenharia eterica | Sanctrum, Torre de Aurion, Salao dos Ventos | Aurelius Lumivael | Planalto luminoso, florestas claras, lagos de cristal, minas de Aetheris | Centro politico e espiritual; lugar onde decisao vira lei continental |
+| Sanctrum | Convergência dos 5 elementos / ordem / engenharia eterica | Sanctrum, Torre de Aurion, Salao dos Ventos | Aurelius Lumivael | Planalto luminoso, florestas claras, lagos de cristal, minas de Aetheris | Centro politico e espiritual; lugar onde decisao vira lei continental |
 | Sylvaris | Vento / liberdade / refugio | Zephyra; Velantis como polo narrativo | Thaloris Ventaris | Campos de Aethrys, florestas de Argentis, falesias de sal, pantanos sussurrantes, colinas de vento | Berco de Alyndra; reino da camuflagem social e da aparente paz |
 | Pyralis | Fogo / forja / disciplina | Monte Pyralis | Ignar Vulkarys | Vulcoes, planicies de cinza, rios de lava, cavernas de obsidiana, costa fria | Potencia militar; cultura de dureza e sucessao pela forja |
 | Terraxis | Terra / mineracao / contrato | Fortaleza de Rocha | Durok | Cordilheiras, desfiladeiros, minas de Aetherite, desertos de pedra, vales termais | Economia mineral; barganha politica; fonte da infraestrutura da RRA |
 | Fulmora | Raio / invencao / instabilidade | Torre do Ceu | Zerynthia | Planaltos ionizados, desertos de sal, torres voadoras, campos de plasma, tempestades perpetuas | Motor tecnologico; reino mais seduzivel por promessas de progresso |
 | Thalassia | Agua / memoria / linhagem | Mare de Cristal; Reino Submerso como ferida historica | Kaelia Marethyus | Arquipelagos, corais, lagoas, abismos, manguezais luminosos | Linhagem de Ayla; lealdade a Sanctrum; memoria de perdas submersas |
-| Umbra | Sombra / gelo / infiltracao | Cidadela Sombria | Varek Nythor, chamado em notas internas de En Nu Me (Governante Vazio) | Tundra escura, gelo negro, florestas petrificadas, montanhas de obsidiana, fendas para Nihilaryth | Antagonismo politico; superficie diplomatica de uma vontade subterranea |
+| Umbra | Sombra (emergente da convergência) / gelo / infiltracao | Cidadela Sombria | Varek Nythor, chamado em notas internas de En Nu Me (Governante Vazio) | Tundra escura, gelo negro, florestas petrificadas, montanhas de obsidiana, fendas para Nihilaryth | Antagonismo politico; superficie diplomatica de uma vontade subterranea |
 
 ### Proporcoes e Distancias Relativas
 
@@ -1210,7 +1210,7 @@ A política do continente é decidida pela postura dos líderes de cada reino fr
 
 ## Fonte: `02_Geografia_e_Reinos/SANCTRUM_LORE.md`
 
-# Sanctrum — O Continente da Luz
+# Sanctrum — O Centro da Convergência
 
 > **Arquivo de Lore:** Compilado pelo Arquivista-Mestre de Aetherion
 > **Ultima atualizacao:** 19 de Maius de 2026
@@ -7721,7 +7721,7 @@ A maior e mais poderosa das entidades conhecidas. Diz-se que Mor'Vael e o que re
 
 ### 11.1 O Reino sob o En Nu Me
 
-Umbra — o Reino das Trevas, governado originalmente por Nyxalor — caiu sob o controle dos Nihilaryth ha seculos. A queda foi silenciosa, gradual, e completa:
+Umbra — o Reino do Gelo e da Sombra, governado originalmente por Nyxalor como parte da dualidade central com Sanctrum — caiu sob o controle dos Nihilaryth ha seculos. A queda foi silenciosa, gradual, e completa:
 
 1. **Infiltracao (ha 500 anos):** Os Nihilaryth comecaram a possuir figuras-chave no governo de Umbra — conselheiros, generais, burocratas.
 

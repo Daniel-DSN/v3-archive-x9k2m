@@ -3,7 +3,7 @@
 > **Documento de Worldbuilding:** Expansão completa de Pyralis
 > **Baseado nos capítulos do Livro I e nas Leis de Ilyos** (conforme estabelecido em `RELIGIOES_E_FILOSOFIAS.md`)
 > **Referência cruzada:** Os 7 Pilares aqui detalhados são os mesmos do documento `RELIGIOES_E_FILOSOFIAS.md` — usar em conjunto
-> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são os dois filhos de Yggorath. Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
+> **Dualidade Ilyos/Nyxalor (v2.0):** Ilyos e Nyxalor são gêmeos nascidos da Semente de Alyndra Primordial — o centro onde todos os 5 elementos convergem. Luz e sombra não são elementos independentes, mas a soma de todos os 5 elementos. Ilyos (natureza entrópica: amor, impulsão, criação; quem envia os Seraphyens) e Nyxalor (natureza equilibradora: sabedoria, cautela, racionalidade; mais respeitado que Ilyos; vem depois para normalizar). Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys (Seraphyen do Fogo/Sombra) selaram Nyxalor no Dingir-sar, sacrificando ambas as suas essências.
 > **Atualizado:** 31 de Maius de 2026
 
 ---
@@ -35,7 +35,7 @@
 
 ### 1.1 A Chegada dos Ensinamentos
 
-Quando Ilyos estabeleceu as Leis de Ilyos nos primórdios de Nova Aetherion, cada reino recebeu seus ensinamentos através do Seraphyen que ali se estabelecera. Em Pyralis, o mensageiro foi **Ignisara**, o Seraphyen do Fogo no aspecto da **Forja** (*Aspecto Luz*).
+Quando Ilyos estabeleceu as Leis de Ilyos nos primórdios de Nova Aetherion, cada reino recebeu seus ensinamentos através do **par de Seraphyens** que ali se estabeleceu. Em Pyralis, o par do fogo era liderado por **Ignisara** (aspecto **Forja**, *Aspecto Luz*) e seu par de sombra.
 
 Ignisara não era um pregador — era um **forjador**. Diferente de Veridion, que construiu escolas e bibliotecas, Ignisara construiu **forjas, armas e ferramentas**. Sua maneira de ensinar os 7 Pilares foi através do **trabalho**: o metal que se curva sem quebrar (igualdade), o fogo que transforma (renovação), o *mar-tu* (malho) que escolhe onde cair (livre arbítrio).
 
@@ -792,7 +792,7 @@ A comida em Pyralis é **apimentada, grelhada e abundante**:
 
 ### 11.1.1 Perfil Étnico Pyraliano
 
-Os pyralianos carregam em sua aparência a herança de **Ignisara**, o Seraphyen do Fogo que fundou o reino nas encostas do vulcão:
+Os pyralianos carregam em sua aparência a herança de **Ignisara**, o Seraphyen do Fogo que co-fundou o reino (junto com seu par de sombra) nas encostas do vulcão:
 
 | Traço | Descrição |
 |-------|-----------|

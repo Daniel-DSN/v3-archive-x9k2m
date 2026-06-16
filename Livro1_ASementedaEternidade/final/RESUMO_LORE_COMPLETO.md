@@ -2,6 +2,8 @@
 
 > Compilado a partir dos 46 capítulos finais, prólogo, interlúdio e documento mestre ENREDO_LIVRO1_MASTER.md.
 > Data de compilação: 07 Jun 2026
+> **Atualizado:** 17 Jun 2026 — Unificação v2.0 (cosmologia canônica aplicada, inconsistências corrigidas)
+> **Referência canônica:** `LORE_COSMOLOGIA_E_MAGIA.md` v2.0 (7 Regras Canônicas)
 
 ---
 
@@ -23,7 +25,7 @@
 ### 1.3 Alyndra Primordial e os Gêmeos
 - Uma mulher chamada **Alyndra Primordial** controlava o Fruto Primordial e via **todos os futuros possíveis**.
 - Em vez de aniquilar os Nihilaryth, escolheu renascer através da destruição — usou o Fruto para repor cada ser consumido.
-- Estava grávida de gêmeos: **Ilyos** (luz, construção) e **Nyxalor** (sombra, dissolução).
+- Estava grávida de gêmeos: **Ilyos** (luz que cria — entropia, amor, impulsão) e **Nyxalor** (sombra que equilibra — sabedoria, cautela, racionalidade).
 - Morreu antes de dar à luz; os gêmeos nasceram mesmo sem o ventre.
 - Sua essência flui pelas gerações através do tempo, programada para convergir na **8ª Convergência Tripla**.
 - **Sua aposta:** Entre infinitos futuros, escolheu o único caminho que levaria sua descendência à vitória. Não teve controle sobre o resultado — depositou fé nas gerações vindouras.
@@ -40,7 +42,7 @@
 - **Objetivo final:** Com o corpo de Alyndra sob controle, podem usar a **Armadura de Ilyos** para alcançar **Yggorath** e o **Fruto Primordial** — a fonte de todo poder criacional.
 
 ### 1.4 Os Primordiais e a Guerra
-- Ilyos (construtora) e Nyxalor (dissolvedor) eram irmãos que equilibravam o ciclo.
+- Ilyos (a força entrópica que faz surgir — amor, impulsão, criação) e Nyxalor (o freio que equilibra — sabedoria, cautela, racionalidade) eram gêmeos que complementavam o ciclo.
 - **Myrrhiel** — escudo e braço direito de Ilyos; amava Ilyos.
 - **Elarys** — Seraphyen do fogo-sombra; amava Nyxalor.
 - **Mythra** — a Nihilary ancestral, "A Que Espera" — corrompeu Nyxalor e ordenou que ele lhe desse um corpo-receptáculo. Nyxalor obedeceu, e Mythra habitou esse corpo.
@@ -52,10 +54,13 @@
 - Ilyos fragmentou-se pelo mundo. Elarys tornou-se o próprio selo.
 
 ### 1.5 Os Seraphyens
-- Dez seres: cinco de luz, cinco de sombra, cada par atrelado a um dos 5 elementos (fogo, água, terra, vento, relâmpago).
+- Dez seres em **5 pares** (luz + sombra por elemento): fogo, água, terra, vento, relâmpago.
+- **Enviados por Ilyos** para povoar os 5 reinos periféricos **aos pares** (não individualmente).
+- Ilyos e Nyxalor são os **núcleos centrais** onde os 5 elementos se mesclam — luz e sombra não são independentes, são a soma de todos eles.
 - Caminharam entre mortais, ensinando a plantar, construir, curar e nomear.
+- Quase todos respeitavam Nyxalor mais que Ilyos (sabedoria vs impulsividade).
 - Recusaram o título de divindades. Dissiparam-se um a um após a guerra.
-- O último foi **Veridion**, do vento — espalhou-se no ar de Sylvaris.
+- O último foi **Veridion**, do vento (par luz) — espalhou-se no ar de Sylvaris.
 
 ### 1.6 As Três Luas e a Convergência
 - **Lyria** (prateada) — essência de Ilyos
@@ -319,7 +324,8 @@
 - Manifestado por Alyndra em momentos de estresse extremo
 
 ### 6.5 Elementos da Magia
-- Vento (Lil), Água (Asha), Fogo (Izi), Terra (Ki), Raio (Nim), Éter (Me)
+- Vento (Lil), Água (Asha), Fogo (Izi), Terra (Ki), Relâmpago (Nim)
+- **Nota (v2.0):** Não existe um sexto elemento "Éter". Aethra (Æ) é a energia espiritual que permeia tudo, não um elemento. Luz e sombra também não são elementos independentes — são a soma de todos os 5 elementos em suas formas criativa (Ilyos) e equilibradora (Nyxalor).
 
 ---
 
@@ -374,7 +380,7 @@ Audin, Lyrdin, Nydin, Eldin, Vendin, Ilydin, Zidin
 | Reino | Governante | Título | Capital | Elemento |
 |-------|-----------|--------|---------|----------|
 | **Sylvaris** | Thaloris Ventaris (caído) | Lugal Lil | Zephyra | Vento |
-| **Sanctrum** | Aurelius Lumivael | En Me | Sanctrum | Luz/Éter |
+| **Sanctrum** | Aurelius Lumivael | En Me | Sanctrum | Centro (convergência dos 5 elementos) |
 | **Thalassia** | Kaelia Marethyus | Nin A | Maré de Cristal | Água |
 | **Pyralis** | Ignar Vulkarys | Lugal Izi | Monte Pyralis | Fogo |
 | **Terraxis** | Durok | Lugal Ki | Fortaleza de Rocha | Terra |

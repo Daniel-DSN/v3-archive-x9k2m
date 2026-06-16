@@ -3,7 +3,7 @@
 > **Documento de Worldbuilding:** Expansão completa de Sanctrum
 > **Baseado nos capítulos do Livro I e nas Leis de Ilyos**
 > **Referência cruzada:** Os 7 Pilares aqui detalhados são os mesmos do documento `RELIGIOES_E_FILOSOFIAS.md`
-> **Dualidade Ilyos/Nyxalor:** Ilyos (Luz) e Nyxalor (Sombra) são filhos de Yggorath. Nyxalor foi corrompido por Mythra (Nihilaryth). Ilyos e Elarys selaram Nyxalor no Dingir-sar.
+> **Dualidade Ilyos/Nyxalor (v2.0):** Sanctrum e Umbra eram originalmente uma **dualidade única** — o ponto central onde os 5 elementos convergem. Ilyos (luz que cria — entropia, amor, impulsão) e Nyxalor (sombra que equilibra — sabedoria, cautela, racionalidade) lideravam **juntos** essa dualidade. A separação em dois reinos ocorreu após a guerra e o selo. Ilyos e Elarys selaram Nyxalor no Dingir-sar.
 > **Atualizado:** 31 de Maius de 2026
 
 ---
@@ -171,7 +171,7 @@ A segunda reescrita (8ª geração) mudou para:
 
 A terceira reescrita (15ª geração, ainda vigente) diz:
 
-> *"Ilyos é a Mãe da Luz, gerada por Yggorath para criar Nova Aetherion. Nyxalor, seu irmão traidor, a atacou por inveja. Elarys, a Seraphyen do Fogo, ajudou Ilyos a aprisionar Nyxalor. Ilyos então ascendeu aos céus, onde habita entre as duas luas."*
+> *"Ilyos é a Mãe da Luz, gerada por Yggorath para criar Nova Aetherion. Nyxalor, seu irmão traidor, a atacou por inveja. Elarys, a Seraphyen do Fogo, ajudou Ilyos a aprisionar Nyxalor. Ilyos então ascendeu aos céus, onde habita entre as três luas."*
 
 Cada reescrita adicionou mais divindade e removeu mais humanidade. Ao final, Ilyos — que abominava culto — tornou-se a **divindade central do culto mais poderoso do mundo**.
 
@@ -281,7 +281,7 @@ O refúgio privado de Aurelius e seus convidados:
 O topo da Torre — o lugar mais sagrado de Sanctrum:
 
 - **Sala dos Cristais:** Onde a RRA foi concebida e onde Aurelius monitora as transmissões
-- **Observatório:** Telescópio de Aetheris que observa as duas luas
+- **Observatório:** Telescópio de Aetheris que observa as três luas (Lyria, Nyx e Elara)
 - **Ekur Dur An:** Abaixo da Sala dos Ventos (ver seção 4.10)
 - **A Centelha de Aetherion:** Diz-se que uma luz residual pulsa no centro da sala — vestígio da partida de Aetherion
 - **Altar de Ilyos:** Um bloco de Aetheris branco onde, segundo a lenda, Ilyos falou pela última vez com seus discípulos

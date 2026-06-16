@@ -1,7 +1,7 @@
 # LORE — SERAPHYENS E DESCENDÊNCIA
 
-> **Versão:** 1.0 | **Criado em:** Valen 6, Nyra de Audin (jun 2026)
-> **Status:** DEFINIDO — Aguardando integração no Prólogo
+> **Versão:** 2.0 | **Criado em:** Valen 6, Nyra de Audin (jun 2026)
+> **Status:** DEFINIDO — Modelo canônico v2.0 (cosmologia unificada)
 > **Fonte:** Discussão entre autor e editor (sessão de lore)
 
 
@@ -26,22 +26,26 @@
 
 ## 1. Os Dez Seraphyens
 
-Os Seraphyens são dez seres primordiais: **cinco da luz e cinco da sombra**, cada par tecido em torno de um dos cinco elementos — fogo, água, terra, vento, relâmpago.
+Os Seraphyens são dez seres primordiais: **cinco da luz e cinco da sombra**, organizados em **5 pares** — cada par tecido em torno de um dos cinco elementos (fogo, água, terra, vento, relâmpago). Não são deuses — recusaram o título. Nasceram da luz e sombra periféricas que se espalharam demais para ter vontade única, mas que, ao encontrar matéria, ganhou forma.
 
-Não são deuses — recusaram o título. Nasceram da luz e sombra periféricas que se espalharam demais para ter vontade única, mas que, ao encontrar matéria, ganhou forma.
+**Modelo cosmológico (v2.0):** Os 5 elementos são expressos perifericamente pelos 10 Seraphyens (1 par luz/sombra por elemento). No **centro**, os 5 elementos se mesclam — e dessa convergência emerge a **luz** (Ilyos) ou a **sombra** (Nyxalor). Ilyos e Nyxalor não são um par como os outros: são os **núcleos centrais** que regem os 5 elementos. Luz e sombra não são independentes dos elementos — são a **soma de todos eles**.
+
+Os Seraphyens foram **enviados por Ilyos** — a força criativa, a que faz surgir. Nyxalor vinha depois, para equilibrar e normalizar o que Ilyos havia enviado. Os pares de Seraphyens **povoaram os continentes** juntos (não individualmente), cada par responsável por um reino.
 
 Caminharam entre mortais e ensinaram — não mandaram, não exigiram adoração. Plantar, construir, curar, nomear.
 
-Começaram a partir durante e após a guerra entre Ilyos e Nyxalor.
+**Importante:** Quase todos os Seraphyens respeitavam Nyxalor mais do que Ilyos. A sabedoria, a cautela e a racionalidade de Nyxalor inspiravam mais confiança do que a impulsividade quase infantil de Ilyos. Por isso, quando a guerra eclodiu, **quase todos ficaram ao lado de Nyxalor** — não por maldade, mas porque ele era quem eles seguiam.
 
 ### Seraphyens nomeados
 
+> **Nota (v2.0):** Os Seraphyens se organizam em **5 pares** (luz + sombra por elemento). Cada par povoou um dos 5 reinos juntos — não individualmente. A tabela abaixo lista os conhecidos; os 7 restantes devem ser definidos respeitando a estrutura de pares.
+
 | Nome | Elemento | Polaridade | Papel | Destino |
-|------|----------|-----------|-------|---------|
-| **Myrrhiel** | Água-sombra (confirmação pendente) | ? | Escudo de Ilyos, braço direito | Morto em combate |
-| **Elarys** | Fogo-sombra | ? | Selou-se no corpo de Nyxalor | Selada (viva no selo) |
-| **Veridion** | Vento | ? | Último a partir, fundou Sylvaris | Dispersou-se no vento |
-| *7 demais* | *a definir* | *a definir* | *a definir* | *a definir* |
+|------|----------|-----------|-------|--------|
+| **Myrrhiel** | Água (par sombra) | Sombra | Escudo de Ilyos, braço direito | Morto em combate |
+| **Elarys** | Fogo (par sombra) | Sombra | Selou-se no corpo de Nyxalor | Selada (viva no selo) |
+| **Veridion** | Vento (par luz) | Luz | Último a partir, co-fundou Sylvaris (par) | Dispersou-se no vento |
+| *7 demais* | *1 par por elemento restante* | *luz ou sombra* | *a definir* | *a definir* |
 
 ---
 
@@ -66,7 +70,7 @@ Começaram a partir durante e após a guerra entre Ilyos e Nyxalor.
 
 ### Na guerra
 
-- Ficou ao lado de Ilyos quando outros Seraphyens foram enganados por Nyxalor.
+- Ficou ao lado de Ilyos quando **quase todos** os demais Seraphyens seguiram Nyxalor. Myrrhiel foi a exceção — não por convicção filosófica, mas por amor.
 - Morreu lutando para **comprar tempo** para que Ilyos pudesse realizar a concentração de aethra necessária para o selo.
 - Sua morte foi o sacrifício que possibilitou tudo o que veio depois.
 - Sem Myrrhiel, Ilyos não teria tido tempo. Sem o tempo de Ilyos, o selo não existiria.
@@ -127,13 +131,13 @@ O selo é, em essência, um **ato de amor por quem a traiu**. Não é heroísmo 
 
 - Esperou até que todos partissem — não por orgulho, mas para que houvesse testemunhas.
 - Não se dissipou: espalhou-se. Fundiu sua essência a cada corrente de ar, cada brisa, cada redemoinho.
-- Fundou Sylvaris — seu último ato de amor pela criação.
+- Co-fundou Sylvaris junto com seu par de sombra — seu último ato de amor pela criação.
 - Sua voz vive no vento de Sylvaris.
 - É venerado como fundador do reino — estátua, poemas, histórias para crianças.
 
 ### Status no Prólogo
 
-Veridion é mencionado na Seção IV (Os Dez que Andaram Entre Nós) como o último a partir. Não tem papel ativo na guerra/selo — seu ato de fundação de Sylvaris é o legado posterior.
+Veridion é mencionado na Seção IV (Os Dez que Andaram Entre Nós) como o último a partir. Não tem papel ativo na guerra/selo — seu ato de co-fundação de Sylvaris (junto com seu par de sombra do vento) é o legado posterior.
 
 ---
 
