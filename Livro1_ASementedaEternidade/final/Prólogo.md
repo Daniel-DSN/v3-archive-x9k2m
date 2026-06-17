@@ -58,7 +58,7 @@ E a mulher deitou-se. De olhos abertos. Sob estrelas que ela mesma ajudara a ace
 
 O sonho arrastou-a. Não com suavidade.
 
-Uma figura carregando algo luminoso através do escuro entre as estrelas — correndo, não com pernas, mas com *vontade*. Atrás, sombras que se arrastavam, sedentas, pacientes, infinitamente mais numerosas. A figura encontrou um lugar onde nem a escuridão penetrava — o coração de algo massivo e ardente, antigo como o próprio vazio. Selou o que carregava ali.
+E a figura que surgiu não era a mulher da esfera — era outra. Alguém que recebera o fruto da promessa e agora o carregava através do escuro entre as estrelas — correndo, não com pernas, mas com *vontade*. Atrás, sombras que se arrastavam, sedentas, pacientes, infinitamente mais numerosas. A figura encontrou um lugar onde nem a escuridão penetrava — o coração de algo massivo e ardente, antigo como o próprio vazio. Selou o que carregava ali.
 
 E no ato de selar, despedaçou-se.
 
@@ -74,7 +74,7 @@ No coração ardente onde a Semente fora selada, uma árvore nasceu — não de 
 
 De um fruto dessa árvore, dez seres emergiram. Cinco da luz. Cinco da sombra. Cada par em torno de algo elementar — fogo, água, terra, vento, relâmpago. Um deles ajoelhou-se diante de um rio de *aethra* líquido e, com as mãos, abriu caminhos onde antes só havia pedra. Caminharam entre mortais. Ensinar, construir, curar, nomear. Recusaram ser deuses. Dissiparam-se um a um, como quem espalha sementes e não fica para ver crescer.
 
-E da árvore, algo mais. A consciência que guardava o jardim deu tudo o que restava — e do sacrifício nasceram dois. Um de luz. Um de sombra. Irmãos.
+E da árvore, algo mais. A árvore — que já não era só árvore, mas a consciência que guardava o jardim — deu tudo o que restava. E desse sacrifício nasceram dois. Uma de luz. Um de sombra. Irmãos.
 
 Ayla sentiu o ventre se mexer. Não o bebê — algo mais fundo. Como se o sonho não estivesse acontecendo nos olhos mas no *sangue*.
 
@@ -98,7 +98,7 @@ A luz da irmã fragmentou-se. Tornou-se o brilho em tudo: no reflexo da água, n
 
 Ayla acordou.
 
-Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta — madeira velha, silêncio, o cheiro de erva seca que a vizinha deixara na soleira. Lá fora, a *nyxara* era líquida e sem estrelas. As três luas — *Lyria*, *Nyx*, *Elara* — estavam ocultas sob a luz de *Aurion*, mas Ayla *sabia* que estavam ali. Alinhando-se. Esperando.
+Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta — madeira velha, silêncio, o cheiro de erva seca que a vizinha deixara na soleira. Lá fora, a *nyxara* era líquida e sem estrelas. As três luas — *Lyria*, *Nyx*, *Elara* — estavam ocultas sob o manto da *nyxara*, mas Ayla *sabia* que estavam ali. Alinhando-se. Esperando.
 
 E dentro dela, a criança mexeu-se.
 
