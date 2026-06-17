@@ -248,13 +248,35 @@ A discussão se estendeu por velares.
 
 Zerynthia defendeu a RRA com a paixão de uma convertida. Falou sobre velocidades de transmissão, sobre eficiência energética, sobre o potencial de integração continental. Seus olhos violeta crepitavam com estática enquanto enumerava os benefícios técnicos, e Mestre Tronus, ao seu lado, acenava com a cabeça em concordância.
 
-Torgath levantou questões práticas: quem pagaria pela construção das torres? Quanto aetherite seria necessário para mantê-las? Haveria taxas de uso? Ele falava como um comerciante, não como um lugal, e cada pergunta era uma negociação disfarçada.
+— A RRA não é apenas comunicação — Zerynthia declarou, a mão batendo na mesa. — É a espinha dorsal de um continente que não se fala há valen-gales. Fulmora pode ter protótipos operacionais em ciclo lunare se a aprovação sair hoje.
+
+— Protótipos — Torgath repetiu, a voz pesada como pedra. — Ou seja, ainda não funciona de verdade. E quer que Terraxis pague por torres que talvez nunca transmitam nada além de esperança.
+
+— Os testes em laboratório foram conclusivos — Zerynthia respondeu, os olhos se estreitando.
+
+— Laboratório — Torgath grunhiu. — Eu pago mineradores para extrair aetherite das entranhas da terra. Cada torre vai precisar de toneladas. Quanto custa uma torre, Matriarca? Isso você não disse.
+
+— O custo será dividido entre os reinos — Aurelius interveio, a voz cortando a tensão como uma lâmina. — Sanctrum absorve a maior parte. É um investimento continental, não uma conta de Terraxis.
+
+Nos velares que se seguiram, Torgath voltou à carga com exigências comerciais — isenções de taxa para rotas de mineração, prioridade no fornecimento de aetherite bruto, e um assento permanente na comissão de administração da rede. Cada demanda era uma moeda de troca.
 
 Ignar Vulkarys ouviu em silêncio. Sua filha, Elainy, observava cada orador com olhos que registravam tudo — e quando Kaelia falou de protocolos de segurança, a jovem dumu nin inclinou-se imperceptivelmente para a frente, como se aquela palavra tivesse um peso diferente do que esperava. Quando Ignar finalmente falou, sua voz foi como um trovão distante.
 
 — Pyralis não precisa de palavras que viajam pelo ar. Precisa de aço que fura a carne. Mas... viemos ver. Viemos testemunhar. Não nos decepcione.
 
-Varek Nythor falou por último, e seu sorriso era tão cordial que parecia colado ao rosto.
+Thaloris Ventaris se recostou em sua cadeira de penas, o sorriso irônico nos lábios.
+
+— Torgath tem razão em cobrar números — disse, o tom casual demais para uma discussão que moldaria o continente. — Mas os números são o trabalho de Tronus, não nosso. Nosso trabalho é decidir se queremos viver no passado ou no próximo ciclo lunare.
+
+— Sylvaris vive muito bem no passado — Ignar respondeu sem levantar os olhos, os dedos desenhando círculos lentos no braço de ferro forjado de sua cadeira. — Seus ventos não precisam de torres para soprar.
+
+— E o fogo de Pyralis precisa de torres para queimar mais alto? — Thaloris retrucou.
+
+Ignar finalmente o olhou. O silêncio entre eles durou exatamente dois segundos — o suficiente para todos na mesa sentirem o peso de uma rivalidade que não começara naquela sala.
+
+— Pyralis — Ignar disse, a voz como cinzas — não precisa de nada. Mas se as torres forem construídas, quero garantias de que minhas rotas de fornecimento de aetherite não serão interceptadas por essa rede. Nenhuma transmissão sobre minhas minas sem minha autorização.
+
+Varek Nythor falou em seguida, e seu sorriso era tão cordial que parecia colado ao rosto.
 
 — Umbra veio em paz — disse, a voz macia como seda. — Como sempre. Acreditamos que toda inovação merece uma chance. Que a Rede de Aurion ilumine os cantos mais escuros do continente. Inclusive os nossos.
 
@@ -279,6 +301,26 @@ O silêncio que se seguiu foi mais pesado que qualquer palavra.
 Thaloris Ventaris manteve o sorriso, mas seus olhos se estreitaram ligeiramente.
 
 — Precaução razoável — disse, com um aceno casual. — Sylvaris concorda.
+
+---
+
+No Orfanato Luminis, Lyris parou de ouvir os sussurros do velkora e encarou a janela. Três valens de silêncio tinham se passado desde que Thar Elara partira para Sanctrum. As crianças dormiam. Alyndra estava deitada na cama do canto, Nyx enroscado a seus pés, os olhos fechados mas a respiração irregular de quem não dorme de verdade.
+
+Ela sabia o que estava acontecendo naquele momento. A Assembleia. A votação. A rede que poderia conectar tudo — e expor tudo.
+
+No pátio, sob a luz fraca de Aurion, uma figura movia-se ao longo do perímetro leste. Aldric. Ele se ajoelhava junto à base do muro onde as pedras estavam soltas — o mesmo ponto que Lyris havia identificado dias antes. Com as mãos, recolocava cada pedra no lugar, uma a uma, com a precisão silenciosa de quem não queria que ninguém ouvisse.
+
+Lyris observou por um longo momento. *Ele não é apenas um jardineiro. Mas hoje, está reparando o muro que eu não pude reparar sozinha.*
+
+Ela voltou-se para a janela. *A rede vai mudar tudo. Se for aprovada, cada mensagem que eu enviar para Sanctrum poderá ser interceptada. E se não for...*
+
+Alyndra se mexeu na cama.
+
+— Lyris? — a voz pequena veio do escuro. — A Thar Elara vai voltar?
+
+— Vai — Lyris respondeu, suavemente. — Logo.
+
+Alyndra não perguntou mais. Fechou os olhos. E Lyris ficou ali, entre a criança que dormia e o muro que um estranho consertava, esperando notícias de um mundo que estava prestes a mudar.
 
 ---
 
