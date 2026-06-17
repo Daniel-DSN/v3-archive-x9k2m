@@ -96,7 +96,7 @@ O berçário era uma sala ampla e morna, banhada por uma luz amarelada que não 
 
 Havia seis berços dispostos em semicírculo ao redor de uma janela grande. Cinco estavam ocupados. Recém-nascidos de idades variadas — alguns dormindo com a serenidade absoluta de quem ainda não conhece o medo, outros acordados mas silenciosos, olhando para o teto com aqueles olhos redondos e sem foco que só os recém-nascidos têm. Um deles, o menor, tinha os punhos cerrados sobre o peito e a boca entreaberta, e cada respiração era tão pequena que parecia que o ar nem entrava — apenas passava de raspão.
 
-Alyndra se aproximou do berço mais próximo sem perceber. O recém-nascido dentro tinha talvez poucos meses de vida — cabelos quase invisíveis, tão finos quanto fios de teia, e olhos de um azul tão claro que pareciam feitos do próprio céu de *Sylvaris*⁹ em uma manhã sem nuvens.
+Alyndra se aproximou do berço mais próximo sem perceber. O recém-nascido dentro tinha talvez poucas semanas de vida — cabelos quase invisíveis, tão finos quanto fios de teia, e olhos de um azul tão claro que pareciam feitos do próprio céu de *Sylvaris*⁹ em uma manhã sem nuvens.
 
 — A mãe dela deixou ela na porta numa ante-aurion de inverno — Mira disse ao seu lado, a voz baixa mas sem pesar, como quem conta um fato que faz parte da paisagem do orfanato. — *Elara*¹⁶ *Elara*²⁸ encontrou na manhã, embrulhada num cobertor de *veluma*¹⁷. Ela se chama Liora.
 
@@ -301,7 +301,7 @@ A estátua ficava no jardim à esquerda dos portões, parcialmente escondida por
 
 Veridion.
 
-Alyndra sabia que era Veridion antes de ler a placa na base da estátua — uma placa de bronze envelhecida que dizia "Veridion — O Último Voo — Fundador de Sylvaris". Sabia da mesma forma que havia sabido no cemitério que Melessa havia partido, da mesma forma que havia sabido ao ouvir a história da Senhora Lyrna que Veridion era parte de quem ela era. Uma certeza que não vinha do conhecimento mas do ser, que não era aprendida mas lembrada, que era tão antiga quanto o vento que soprava através da neve e tocava seu rosto como uma bênção.
+Alyndra sabia que era Veridion antes de ler a placa na base da estátua — uma placa de bronze envelhecida que dizia "Veridion — O Último Voo — Fundador de Sylvaris". *Fundador*, pensou. Sozinho. Mas Lyrna havia dito que ele co-fundara junto com seu par de sombra. A placa não mencionava nenhum par. Alyndra registrou a discrepância sem palavras — era o tipo de coisa que uma criança de quatro valens sentia mas não conseguia nomear: que as pedras mentiam do mesmo jeito que os adultos. Sabia, da mesma forma que havia sabido no cemitério que Melessa havia partido, da mesma forma que havia sabido ao ouvir a história da Senhora Lyrna que Veridion era parte de quem ela era, que aquela estátua guardava mais segredos do que mostrava. Uma certeza que não vinha do conhecimento mas do ser, que não era aprendida mas lembrada, que era tão antiga quanto o vento que soprava através da neve e tocava seu rosto como uma bênção.
 
 Ela se aproximou da estátua, seus passos deixando marcas na neve. De perto, a pedra revelava detalhes que não eram visíveis à distância — as penas das asas, esculpidas com uma delicadeza que sugeria reverência; as mãos da figura, abertas em um gesto de oferecimento; a fímbria do manto que flutuava atrás do corpo como se o vento o movesse mesmo sendo feito de pedra.
 
@@ -341,7 +341,7 @@ Ela não esperava objeção. Mas sentia que Aurelius precisava saber — não po
 
 ---
 
-O mensageiro levou seis dias para chegar a Sanctrum. No sétimo, Aurelius leu a carta em seu gabinete, com as cortinas semicerradas e o barulho distante das ondas quebrarem no Rochedo da Guarda.
+Com a nevasca se afastando e as estradas se reabrindo aos poucos, o mensageiro levou seis dias para chegar a Sanctrum — metade do tempo que a carta de Melessa havia levado no auge do inverno. No sétimo, Aurelius leu a carta em seu gabinete, com as cortinas semicerradas e o barulho distante das ondas quebrarem no Rochedo da Guarda.
 
 Leu duas vezes.
 
