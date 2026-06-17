@@ -20,7 +20,7 @@ Ayla não dormia.
 
 Não porque não quisesse — porque não ousava. Cada nyxara¹ era um risco. Fechar os olhos era abaixar a guarda, e baixar a guarda com uma criança crescendo no ventre e algo antigo seguindo seus passos era o tipo de imprudência que a Kalúdris² lhe tinha ensinado a não cometer. Três nyras de fuga tinham transformado o sono num luxo que o medo cobrava caro demais.
 
-Mas naquela noite — a terceira noite em Mespiria, numa casa que cheirava a madeira velha e ao silêncio de quem não morava ali há valens — o corpo de Ayla decidiu por ela. Os olhos fecharam. Os músculos cederam. E o sono não veio como quem entra num rio — veio como quem cai.
+Mas naquela noite — a terceira nyra em Mespiria, numa casa que cheirava a madeira velha e ao silêncio de quem não morava ali há valens — o corpo de Ayla decidiu por ela. Os olhos fecharam. Os músculos cederam. E o sono não veio como quem entra num rio — veio como quem cai.
 
 E com o sono, vieram as visões.
 

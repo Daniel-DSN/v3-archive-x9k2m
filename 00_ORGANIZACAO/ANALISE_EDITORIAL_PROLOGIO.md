@@ -90,6 +90,36 @@ Sete ocorrencias de "como quem..." no prologo. Cria cadencia lirica, mas pode ca
 
 ---
 
+## REVISAO V2 (Junho 2026) — Cruzamento Prologo x Capitulo I
+
+### Status das correcoes v1: Todas aprovadas
+As quatro correcoes originais foram validadas pelo editor na revisao v2. Nenhuma inconsistencia interna restante no Prologo.
+
+### Correcoes aplicadas nesta rodada (v2)
+
+#### Correcao 5: Cronologia Mespiria (Prologo x Cap. I)
+**Problema:** Prologo dizia "a terceira noite em Mespiria" (3 dias). Capitulo I dizia "Chegara tres nyras antes" (~3 meses). A rotina de Ayla com Melessa (visitas regulares, confianca, dormida na casa) so e coerente com meses, nao dias.
+**Solucao aplicada:** Alterado "terceira noite" para "terceira nyra" no Prologo. O texto agora diz "a terceira nyra em Mespiria", coerente com "tres nyras" do Capitulo I. Nyra = periodo de 28-30 dias (definido no glossario do Cap. I).
+
+**Antes:** "Mas naquela noite — a terceira noite em Mespiria"
+**Depois:** "Mas naquela noite — a terceira nyra em Mespiria"
+
+#### Correcao 6: Capitalizacao de "nyxara" (Cap. I)
+**Problema:** Capitulo I usava "Nyxara" com maiuscula na linha 131 e no glossario (14), mas "nyxara" com minuscula na linha 159. O Prologo e o glossario do Prologo usam minuscula. Inconsistencia interna no capitulo e entre capitulos.
+**Solucao aplicada:** Uniformizado para minuscula em todo o Capitulo I (texto e glossario).
+
+### Notas registradas (nao aplicadas — exigem decisao do autor)
+
+1. **Sequencia temporal Prologo → Capitulo I:** O editor sugere avaliar se o Prologo (o sonho) ocorre antes ou depois dos eventos do Capitulo I. O Cap. I termina com "Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do principio comecar." — o que sugere que o sonho ja ocorreu. A ponte narrativa pode ser reforcada.
+
+2. **Glossario-mestre unificado:** O editor recomenda unificar todos os termos em um unico glossario ao final do volume para a publicacao. Ate la, manter consistencia entre os glossarios parciais.
+
+3. **Expansao do glossario do Prologo:** Adicionar definicoes de Aurion (o sol), valens (anos), Mespiria, Sanctrum e nyra que o Prologo usa mas nao define.
+
+4. **Reforco do gancho emocional:** O paragrafo que lista o que Ayla "nao sabia" (linha 107) pode ser mais integrado a voz narrativa, menos como lista de exclusoes.
+
+---
+
 ## FILOS SOLTOS PARA PROXIMOS MATERIAIS
 
 1. A mulher da esfera e uma "primordial" — quem sao as outras? Ha mais primordiais?

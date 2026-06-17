@@ -128,7 +128,7 @@ Se fizesse a pergunta errada, a resposta a obrigaria a tomar uma atitude. E ela 
 
 **III. O Selo na Parede**
 
-Naquela mesma *Nyxara*¹⁴, quando as três luas começaram a se erguer no céu, Ayla sentou-se diante da janela no silêncio do pequeno quarto. *Lyria*⁸, a prateada, *Nyx*⁹, a azul, e *Elara*¹⁰, a rosa, tingiam as colinas com tons mistos e misteriosos.
+Naquela mesma *nyxara*¹⁴, quando as três luas começaram a se erguer no céu, Ayla sentou-se diante da janela no silêncio do pequeno quarto. *Lyria*⁸, a prateada, *Nyx*⁹, a azul, e *Elara*¹⁰, a rosa, tingiam as colinas com tons mistos e misteriosos.
 
 Um calafrio familiar percorreu sua espinha — aquela sensação antiga que a assombrava em sonhos: o vislumbre de um rosto feminino flutuando na escuridão — cabelos como brasas apagadas, olhos que queimavam sem consumir —, lábios que pronunciavam seu nome em um sussurro triste. A voz lhe era estranha, mas o calor, não — era o calor de quem se sacrifica por quem ama. A Convergência se aproximava, e o peso daquele destino parecia denso como a névoa que subia do bosque.
 
@@ -208,4 +208,4 @@ Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio 
 
 ¹³ **Aurelius** — Guardião Mestre de Sanctrum; pai de Alyndra.
 
-¹⁴ **Nyxara** — A noite; período de escuridão entre o pôr e o nascer de Aurion.
+¹⁴ **nyxara** — A noite; período de escuridão entre o pôr e o nascer de Aurion.
