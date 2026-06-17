@@ -50,6 +50,8 @@ Mais tarde, quando o crepúsculo começou a pintar os campos, o vento parou. As 
 
 Pela primeira vez desde que chegara a *Mespiria*, Ayla levou a mão ao pingente oculto sob a túnica. Alguém observava do bosque. Ela não precisava ver para saber.
 
+Nos dias que se seguiram, o pressentimento se transformou em certeza. O aethra ao redor de Ayla crescia a cada nyxara, como se o mundo inteiro estivesse segurando a respiração. As contrações vieram e foram — esparsas no início, depois mais frequentes, mais intensas. Melessa não deixava a casa. Thalia dormia no anexo, pronta. E Ayla esperava.
+
 ---
 
 **II. A Tempestade Silenciosa**

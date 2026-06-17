@@ -60,24 +60,31 @@ Luz rosa tocando o tumulo, flores brotando. Simetria tematica com Elara = sacrif
 - Linha 277: "Guardou o pingente no fundo de uma caixa de madeira velha"
 A transicao esta explicita: tira do bolso, examina o selo, guarda na caixa "Depois".
 
-### 5. Homem no cemiterio — identidade ❗ EXIGE DECISAO DO AUTOR
-**Perguntas do editor:** E Aurelius? Um enviado? Um novo personagem? Como sabia onde Ayla estava? Por que nao interveio?
-**Nota:** A descricao (ombros largos, cabelos prateados, cicatriz na tempora, postura de guerreiro) e intencionalmente enigmatica. A identidade precisa ser definida internamente para evitar contradoes futuras, mas a revelacao pode ser adiada.
+### 5. Homem no cemiterio — identidade
+**Identidade:** Aldric, o jardineiro. Enviado por Ayla Marethyus antes da fuga para proteger a crianca.
+**Resolucao:** A descricao e intencionalmente enigmatica porque a revelacao oficial so acontece no Cap. 17 (quando Aldric revela sua missao a Lyris). A conexao com o Prologo ("algo antigo seguindo seus passos") e Aldric — ele era o vigia silencioso designado por Ayla.
+**Coerencia com o texto:**
+- Ele sabia onde Ayla estava porque foi designado para protege-la.
+- Nao interveio no ataque do Cap. I porque Ayla o resolveu sozinha e seu papel era ser invisivel.
+- Nao levou Alyndra porque Melessa ja estava ali e a situacao estava contida.
+- "A distancia que um guerreiro pode suportar nao e medida em passos" = a tortura de proteger de longe sem poder interferir.
+- "De volta ao vigia que nao descansaria" = seu papel de protetor silencioso continua (ele vai para o orfananato nos capitulos seguintes).
 
 ### 6. Repeticao de "brilho" e "luz"
 **Nota de estilo:** O capitulo usa variacoes de "brilho" e "luz" muitas vezes. O editor sugere variar com metaforas tat ("calor", "pulsacao", "vibracao"). Observacao registrada para monitoramento nos proximos capitulos.
+
+## CORRECOES APLICADAS
+
+### Correcao 1: Ponte temporal entre Secao I e Secao II
+**Problema:** "Tres dias depois" (Secao I) e "A nyxara do primeiro Audin" (Secao II) deixavam implicito um salto temporal de ~25 dias (fim da Nyra 8 para o primeiro Audin da Nyra 9) sem transicao.
+**Solucao aplicada:** Inserida ponte temporal ao final da Secao I: "Nos dias que se seguiram, o pressentimento se transformou em certeza. O aethra ao redor de Ayla crescia a cada nyxara, como se o mundo inteiro estivesse segurando a respiracao. As contracoes vieram e foram — esparsas no inicio, depois mais frequentes, mais intensas. Melessa nao deixava a casa. Thalia dormia no anexo, pronta. E Ayla esperava."
+Isso indica ao leitor que o tempo passou (plural "dias", progressao "esparsas no inicio, depois mais frequentes") sem precisar alterar "Tres dias depois" nem a definicao de Audin.
 
 ---
 
 ## PENDENTES (exigem decisao do autor)
 
-### 1. Definicao de "Audin" e "ciclo"
-Audin = "Primeiro dia do ciclo; dia de Aurion". "Ciclo" = nyra (28-30 dias) ou ciclo menor? Se = nyra, o salto temporal entre Secao I ("Tres dias depois") e Secao II ("primeiro Audin") precisa ser tornado explicito (insert de ponte temporal). Se = ciclo menor, o glossario precisa refletir isso.
-
-### 2. Identidade do homem no cemiterio
-Quem e? A relacao com Aurelius e com a vigia do Prologo ("algo antigo seguindo seus passos") precisa ser coerente.
-
-### 3. Micro-referencia as runas (opcional)
+### 1. Micro-referencia as runas (opcional)
 Adicionar detalhe sensorial (calor na parede, marcas na madeira) durante o parto ou nas cenas de Melessa na casa.
 
 ---
@@ -87,7 +94,7 @@ Adicionar detalhe sensorial (calor na parede, marcas na madeira) durante o parto
 1. O arco de Thalia — a "semente" precisa germinar em algum momento do Livro I.
 2. O pingente na caixa "Depois" — Melessa cumprira a promessa de avisar Aurelius? Quando?
 3. As runas na parede — serao detectadas? Por quem? Quando?
-4. O homem no cemiterio — sua identidade sera revelada? Suas acoes futuras farao sentido?
+4. O homem no cemiterio — Aldric. Identidade revelada no Cap. 17. Arco de vigilancia silenciosa cumprido.
 5. O brilho de Alyndra — como sera contido/escondido nos anos seguintes?
 6. A bencao de Elara — tera payoff tematico? Elara "escolhe" algo ligado a Alyndra?
 7. A Ordem dos Mestres — citada por Melessa (linha 261). Conexao com a busca por crianças com dons elementais.
