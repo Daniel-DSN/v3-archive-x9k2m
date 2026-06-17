@@ -294,13 +294,17 @@ Lyris apanhou Alyndra antes que sua cabeça batesse no chão. A criança estava 
 
 Do lado de fora, Torvas apareceu na porta, a mão no cabo da espada. O que viu fez com que congelasse.
 
-A casa de pedra estava coberta de gelo. Flores de cristal azul brilhavam em cada superfície, refletindo a luz de Aurion em padrões que pareciam vivos.
+A casa de pedra estava coberta de gelo. Flores de cristal azul brilhavam em cada superfície, refletindo a luz de Aurion em padrões que pareciam vivos. Atrás de Torvas, os dois Aga Uru haviam se posicionado de costas para a parede externa — instinto de combate — e seus olhos percorriam o interior da casa como quem avalia uma ameaça que não consegue nomear. O mais jovem tinha a mão branca de tanta força apertando o cabo da lança. O outro, mais velho, murmurou algo entre os dentes — uma palavra que soava como uma praga antiga — e não tirou os olhos de Alyndra.
 
 — Lyris — Torvas disse, e sua voz, normalmente controlada, carregava algo que Lyris identificou como assombro. — O que foi isso?
 
 — Uma manifestação elemental — Lyris respondeu, a voz neutra. — A criança tem afinidades que estão despertando. Não é perigoso.
 
-*Para nós*, ela não disse. Mas pensou.
+Torvas não pareceu convencido. Seus olhos foram de Alyndra para as flores de gelo, das flores para o assoalho, do assoalho de volta para Alyndra. Ele conhecia manifestações elementais — toda Nu Bandi treinada em Velantis sabia reconhecer os sinais básicos. Mas aquilo não era básico. Aquela casa parecia ter sido tocada por algo que ele não tinha palavras para descrever.
+
+Ele se afastou da porta sem fazer mais perguntas, mas Lyris notou o olhar que trocou com os Aga Uru — um olhar longo, carregado de significado, do tipo que guerreiros experientes usam quando presenciam algo que vai além do que esperavam encontrar naquela patrulha.
+
+*Para nós*, Lyris pensou, observando as costas de Torvas se afastarem. *Para nós, não é perigoso. Mas eles viram. E guerreiros treinados não esquecem o que veem.*
 
 As flores de gelo começaram a derreter lentamente, gotas de água cristalina escorrendo pelas pétalas translúcidas como lágrimas de um ser que havia chorado de beleza e depois adormecido.
 
@@ -311,6 +315,14 @@ Alyndra murmurou algo em seu sono exausto — uma palavra que Lyris quase não o
 ---
 
 **V. O Retorno e o Presente de Aurion**
+
+Levou quase uma hora até que Alyndra recuperasse a consciência. Lyris permaneceu ao seu lado o tempo todo, a criança deitada sobre as cobertas que havia arrancado da cama de Melessa, Nyx enroscada contra seu pescoço como um cobertor vivo. Quando Alyndra finalmente abriu os olhos, estavam turvos e confusos — ela olhou ao redor sem reconhecer o lugar por um instante, e então o viu: o gelo. As flores de cristal azul cobrindo cada superfície da casa como se um jardim tivesse nascido durante seu sono. Seus olhos se arregalaram.
+
+— Eu... eu fiz isso?
+
+— Você descansou — Lyris respondeu, evitando a pergunta com a precisão de quem sabia que aquela não era uma conversa para ali. — Como você se sente?
+
+Alyndra tentou se sentar e falhou. Seu corpo estava pesado, como se estivesse feito de pedra. Mas sua mente já funcionava — e nela, duas coisas competiam por espaço: o espanto pelo que via ao redor e o medo do que não compreendia. Lyris a ajudou a se levantar, recolheu a caixa de Melessa, o pingente e a carta, e conduziu-a para fora da casa.
 
 A viagem de volta começou no início da tarde, quando Aurion já havia passado do zênite e começava sua descida gradual em direção ao horizonte ocidental. Alyndra caminhava entre Lyris e o Aga Uru mais jovem, com Nyx aninhada em seus braços. O lyrien tinha recuperado um pouco de sua vitalidade — talvez pelo calor do corpo de Alyndra, talvez pelo alívio de estar de volta com sua dona, talvez pelas sementes doces que Lyris havia conseguido em uma das casas de Mespiria. Seus olhos dourados estavam mais abertos agora, e sua cauda já fazia movimentos pequenos e ocasionais.
 
@@ -410,7 +422,7 @@ Ela colocou o cristal aetheris sobre o criado-mudo de Alyndra, ao lado da cama. 
 
 *O presente de Aurion*, Lyris pensou. *Um cristal com luz quente para uma filha que ele nunca pode segurar.*
 
-Ela permaneceu na porta por um longo momento, observando. A criança dormindo, o lyrien respirando, o cristal pulsando. E enquanto observava, formulou em sua mente as palavras que escreveria em seu relatório — o relatório que enviaria a Aurelius na próxima caravana.
+Ela permaneceu na porta por um longo momento, observando. A criança dormindo, o lyrien respirando, o cristal pulsando. *Quando ela acordar*, Lyris pensou, *vai perguntar quem mandou isso. Vai olhar para o cristal e para o bilhete e vai querer saber. E eu não vou ter uma resposta que possa dar — não uma verdadeira.* Mas aquela era uma preocupação para o dia seguinte. Lyris afastou o pensamento e formulou em sua mente as palavras que escreveria em seu relatório — o relatório que enviaria a Aurelius na próxima caravana.
 
 *Manifestação cryonys confirmada. Magnitude significativamente superior ao esperado para a idade. Flores de gelo com complexidade estrutural sem precedentes nos registros disponíveis. A criança não demonstrou consciência durante a manifestação e colapsou em exaustão imediatamente após. Recomendo: monitoramento contínuo, restrição de informação, e avaliação especializada quando a criança atingir idade adequada. Nyx — o lyrien prateado — foi resgatada com sucesso. Vínculo com a criança confirmado como profundo e permanente. Alyndra completou cinco valens hoje, no primeiro audin do Itu do Despertar. A criança está bem.*
 
