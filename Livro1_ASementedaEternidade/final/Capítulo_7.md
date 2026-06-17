@@ -306,7 +306,7 @@ Mas Lyris não olhava para os vigilantes. Lyris olhava para as mãos dos falsos 
 
 Um *velkora*¹⁵. Pequeno, do tamanho de uma concha de mar, escondido na palma da mão do mercenário como se fosse um amuleto de sorte. Era um dispositivo analógico, de uma tecnologia antiga que Lyris reconhecia de seus valens na inteligência de Sanctrum — microcristais de *aetherite*¹⁶ incrustados em uma superfície reflexiva, projetados não para capturar imagens, mas para registrar assinaturas espirituais. Eles funcionavam como ouvidos invisíveis, capturando a frequência etérica de qualquer pessoa próxima e a armazenando para análise posterior.
 
-**Umbra*¹⁷*, Lyris pensou, e a palavra carregava o peso de centenas de relatórios classificados, de operações secretas, de crianças que desapareciam sem explicação. *São agentes de Umbra. Testando a segurança. Medindo as assinaturas.*
+*Umbra*¹⁷, Lyris pensou, e a palavra carregava o peso de centenas de relatórios classificados, de operações secretas, de crianças que desapareciam sem explicação. *São agentes de Umbra. Testando a segurança. Medindo as assinaturas.* E não eram os primeiros — a memória das três montarias na estrada de Mespiria voltou como um soco. Seguindo o grupo então, nos cais agora. A mesma rede. O mesmo silêncio profissional.
 
 Ela se moveu. Não com a urgência de quem corre, mas com a eficiência de quem se desloca — cada passo calculado para não levantar suspeitas, cada gesto desenhado para parecer natural enquanto seus olhos permaneciam fixos no mercenário que se aproximava de Torvin.
 
@@ -418,7 +418,7 @@ Selynis se recostou na cadeira e fechou os olhos por um momento, processando o p
 
 *Eles estão procurando alguém*, Selynis pensou, e a ideia se formou com a clareza de um cristal sendo lapidado. *Não estão apenas coletando crianças com afinidades comuns. Estão procurando alguém específico. Uma assinatura específica. Uma linhagem específica.*
 
-Selynis cruzou a data do relatório interceptado com a da autorização de acesso portuário em Thalendris, e sentiu o chão desaparecer sob seus pés. Os dois documentos se alinhavam como engrenagens de uma máquina que ela só agora começava a enxergar por completo. A operação de Thaloris Ventaris não era teórica — era iminente. As crianças do Orfanato Luminis já estavam em Thalendris, e se o padrão se mantinha — e todos os dados indicavam que se mantinha —, os mercenários de Umbra que executavam as capturas nas sombras estariam lá, esperando. O documento pendente, com o campo de afinidade propositalmente em branco, sugeria que desta vez a rede não procurava qualquer talento — procurava algo específico. Algo que ainda não sabiam identificar por nome. Até que encontrassem.
+Selynis cruzou a data do relatório interceptado com a da autorização de acesso portuário em Thalendris, e sentiu o chão desaparecer sob seus pés. Os dois documentos se alinhavam como engrenagens de uma máquina que ela só agora começava a enxergar por completo. A operação em Thalendris não era teórica — era iminente. As crianças do Orfanato Luminis já estavam em Thalendris, e se o padrão se mantinha — e todos os dados indicavam que se mantinha —, os mercenários de Umbra que executavam as capturas nas sombras estariam lá, esperando. O documento pendente, com o campo de afinidade propositalmente em branco, sugeria que desta vez a rede não procurava qualquer talento — procurava algo específico. Algo que ainda não sabiam identificar por nome. Até que encontrassem.
 
 As peças estavam se movendo no tabuleiro. E as crianças do Orfanato Luminis estavam caminhando direto para o ponto onde as sombras eram mais densas.
 
@@ -463,7 +463,7 @@ E reconhecimento, acima de tudo, de que o tempo estava acabando.
 ¹⁵ **velkora** — Dispositivo analógico de Umbra; microcristais de aetherite que capturam assinaturas espirituais
 ¹⁶ **aetherite** — Cristal usado em dispositivos de gravação espiritual
 ¹⁸ **Selynis Thalassa** — Mestra da Informação de Sanctrum; membro do Conselho dos 12
-¹⁹ **Vethran Noll** — Funcionário cujo nome aparece em registros de transferência; sua real identidade e lealdade permanecem desconhecidas para Selynis neste ponto da narrativa. (Ver Interlúdio 1 e Capítulo 30.)
+¹⁹ **Vethran Noll** — Funcionário de médio escalão em Sanctrum; seu nome reaparece com frequência suspeita nas autorizações de transferência de órfãos.
 ²⁰ **cargas fantasmas** — Crianças que saem do orfanato com documentação legítima e são interceptadas; rastro burocrático circular
 
 > **Nota:** Os termos ³ (aerélias), ¹⁴ (desprovidos) e ¹⁷ (Umbra) foram introduzidos em capítulos anteriores e foram removidos deste glossário para publicação. Consulte o apêndice para definições completas.
