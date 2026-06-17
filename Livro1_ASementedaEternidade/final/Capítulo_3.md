@@ -106,7 +106,7 @@ Dentro do estábulo, a mãe velrok deitava sobre palha fresca, cercada por três
 
 Uma quarta cria. Menor que as outras. Muito menor.
 
-Era um filhote que não se parecia com nenhum velrok que Melessa já tivesse visto. Em vez da pelagem prateada característica da espécie, aquela criatura tinha pelos de um cinza tão claro que quase parecia branco, com uma textura sedosa que lembrava as pétalas das giralis. Suas pernas finas tremiam sob o peso de um corpo que parecia não ter energia para se manter de pé. Seus olhos, porém, eram o que prendia o olhar: grandes, arredondados, de um dourado profundo e luminoso que parecia conter luz própria.
+Era um filhote que não se parecia com nenhum velrok que Melessa já tivesse visto. Em vez da pelagem prateada comum da espécie, aquela criatura tinha pelos de um cinza tão claro que quase parecia branco — uma variação rara, com uma textura sedosa que lembrava as pétalas das giralis. Suas pernas finas tremiam sob o peso de um corpo que parecia não ter energia para se manter de pé. Seus olhos, porém, eram o que prendia o olhar: grandes, arredondados, de um dourado profundo e luminoso que parecia conter luz própria.
 
 — A mãe o rejeitou — Thalia explicou, a voz carregando a tristeza de quem conhecia a crueldade inerente à natureza. — Não sei por quê. Ele nasceu assim, diferente. Ela o empurrou para longe logo após o nascimento e se recusa a deixá-lo se aproximar. Tentei alimentá-lo com leite de *lactharis*, mas ele é tão fraco... Acho que não vai sobreviver à Nyxara.
 
@@ -198,7 +198,7 @@ Não vou ser gentil. Não me resta tempo para isso. Ayla morreu — não de doen
 
 Esta criança não é comum. Brilha. Literalmente — luz debaixo da pele, nos dedos, nos olhos. Nasceu sob as três luas convergindo, a Convergência. Escondi-a de Sanctrum por quatro valens porque não sabia o que fariam se descobrissem. Agora não tenho mais tempo para temer. Só para agir.
 
-Ayla disse que você era alguém em quem confiava mais do que em qualquer pessoa. Disse que, se eu precisasse, devia escrever. Prometi a ela que cuidaria da filha. Cumprida. Mas quem cuida quando eu estiver morta?
+Ayla falou de você no fim. O jeito como disse seu nome... era o jeito de quem fala de alguém em quem se confia mais do que em qualquer pessoa. Disse que, se eu precisasse, devia escrever. Prometi a ela que cuidaria da filha. Cumprida. Mas quem cuida quando eu estiver morta?
 
 Se você é quem ela dizia que era, venha buscá-la. Ou envie alguém. Não demore.
 
@@ -276,7 +276,7 @@ Lyris assentiu, esperando. Quando o silêncio se estendeu, percebeu que algo nã
 
 — O que há de especial sobre essa criança?
 
-— Relatos indicam que ela pode carregar afinidades elementais incomuns. A parteira que a criou — agora moribunda — descreveu manifestações que, se confirmadas, a colocariam em uma categoria de interesse para a ordem. — Aurelius pausou, seus olhos encontrando os de Lyris com uma intensidade que ela não esperava. — Você já sabe o que a Convergência Tripla representa. Crianças nascidas sob suas luas, em toda a história registrada, demonstraram dons que vão além do comum.
+— Relatos sugerem que ela pode carregar afinidades elementais incomuns. A parteira que a criou — agora moribunda — descreveu manifestações que, se confirmadas, a colocariam em uma categoria de interesse para a ordem. — Aurelius pausou, seus olhos encontrando os de Lyris com uma intensidade que ela não esperava. — Você já sabe o que a Convergência Tripla representa. Crianças nascidas sob suas luas, em toda a história registrada, demonstraram dons que vão além do comum.
 
 Lyris processou a informação com a neutralidade de quem havia dedicado uma vida a separar o que era relevante do que não era. Mas algo em seus instintos sussurrava que havia mais naquela história do que estava sendo dito.
 
