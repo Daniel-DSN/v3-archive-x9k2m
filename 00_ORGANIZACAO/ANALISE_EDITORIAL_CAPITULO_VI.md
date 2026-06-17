@@ -89,3 +89,34 @@ O capitulo funciona como fechamento de arco (perda de Melessa, separacao de Nyx,
 - **Cristal de Aurelius:** Reacao de Alyndra ao encontra-lo (gancho obrigatorio para Cap. VII).
 - **Aga Uru testemunharam a manifestacao:** Semente para complicacoes futuras se reportarem o incidente.
 - **Sinalizador de aethra:** A esfera hesitou por quase dois pulsos ao registrar Alyndra na volta — os Aga Uru perceberam.
+
+---
+
+## REVISAO V2 (Cruzamento com caps. anteriores)
+
+**Resultado:** Nenhuma inconsistencia interna. Nenhuma correcao textual obrigatoria. Capitulo coeso e consistente.
+
+### Verificacoes de consistencia (todas APROVADAS)
+
+| Ponto | Referencia | Status |
+|---|---|---|
+| Pingente — localizacao | Cap. III (Melessa guarda na caixa "Depois") → Cap. VI (Lyris encontra na caixa sob o assoalho) | CONSISTENTE |
+| Carta de Melessa — Aelyria | Cap. II (Ayla revela no leito de morte) → Cap. VI (Melessa revela na carta) | CONSISTENTE |
+| Manifestacao cryonys | Cap. IV (geada no cobertor) → Cap. VI (flores de gelo em larga escala) | CONSISTENTE (expansao logica) |
+| Presente de Aurelius | Cap. III ("quando completar cinco valens") → Cap. VI (entrega na noite do aniversario) | CONSISTENTE |
+| Conhecimento de Lyris sobre paternidade | Cap. IV (Melessa revela) → Cap. VI (Lyris pensa em Aurelius como pai) | CONSISTENTE |
+
+### Pergunta ao autor (exige decisao)
+
+**Tres montarias:**
+- Cap. III: Melessa ouve tres montarias partindo apos visita de homem que perguntou sobre a "crianca da Convergencia".
+- Cap. VI: Torvas informa tres montarias acompanhando o flanco desde a curva do riacho.
+
+**Sao as mesmas?** Se sim, a ameaca que rondava Mespiria ha 4 anos seguiu Alyndra ate Velantis — gancho excelente que precisa ser desenvolvido. Se forem outro grupo, diferenciar sutilmente para nao gerar falsa conexao.
+
+### Notas de desenvolvimento registradas
+
+1. **Carta de Melessa como ancora emocional** — "O amor fica. O amor sempre fica." deve reaparecer em momento de crise.
+2. **Testemunhas da manifestacao** — Torvas e Aga Uru viram. Relatorio extraoficial, boato, ouvidos errados.
+3. **Bilhete de Aurelius** — Alyndra deve perguntar quem enviou o cristal, forcando Lyris a mentir ou se esquivar.
+4. **Nyx e hibernacao eterica** — Explicacao engenhosa. Funciona bem.
