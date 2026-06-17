@@ -164,7 +164,7 @@ A criança carregava algo poderoso. Ayla sentia isso a cada nyra — movimentos 
 
 *Aethra chama aethra*, pensou, lembrando dos ensinamentos antigos de Sanctrum. *E uma mãe pode ser consumida pela chama que acende.*
 
-O cheiro de carne queimada voltou sem aviso — Elysea, a parteira do templo, os olhos arregalados enquanto seu corpo se desfazia em cinzas ante o poder da criança que nascia, o bebê chorando sobre um colchão de brasas. Elysea era forte. Tinha treinamento. Mesmo assim, a aethra da criança a consumira antes que o cordão fosse cortado.
+A lembrança de Elysea — a parteira do templo em Sanctrum — voltou sem aviso. Os olhos dela arregalados enquanto seu corpo se desfazia em cinzas ante o poder da criança que nascia, o bebê chorando sobre um colchão de brasas. Elysea era forte. Tinha treinamento. Mesmo assim, a aethra da criança a consumira antes que o cordão fosse cortado.
 
 Não sabia se era premonição ou medo. Mas conhecia o suficiente sobre aethra para não ignorar nenhuma das duas possibilidades. Se a Convergência amplificasse o que a criança carregava — e tudo em seus instintos de guerreira dizia que sim —, então o nascimento não seria apenas um parto. Seria um evento elemental. E eventos elementais tinham custos.
 
@@ -204,7 +204,7 @@ Escreveu por quem ia nascer. E por quem tinha sonhado o fim antes do princípio 
 
 ¹¹ **Emê-Gir** — Língua ancestral dos Seraphyen; usada em encantamentos e inscrições sagradas.
 
-¹² **nyra / nyras** — Período de 28-30 dias (uma rotação lunar). Plural: nyrás.
+¹² **nyra / nyras** — Período de 28-30 dias (uma rotação lunar). Plural: nyras.
 
 ¹³ **Aurelius** — Guardião Mestre de Sanctrum; pai de Alyndra.
 
