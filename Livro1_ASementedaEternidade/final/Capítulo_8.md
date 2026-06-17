@@ -136,6 +136,12 @@ O rastro levava para o sul. Ao longo da base das falésias, para fora do períme
 
 Nyctara se moveu.
 
+Mas antes de dar o primeiro passo em direção às sombras, ela parou. Não por medo — o medo era um luxo que havia aprendido a descartar no primeiro valen de treinamento em Sanctrum. Parou porque, mesmo após décadas de missões, aquele momento ainda pesava: o instante em que a mulher que acariciava cabelos de criança cedia lugar àquela que os cortava. Lyris pesava cada decisão na balança de Alyndra — a criança que dormia sem saber que sua guardiã estava prestes a descer penhascos na escuridão para matar homens que a caçavam. Se algo desse errado — se ela não voltasse —, Alyndra acordaria e encontraria um vazio no lugar onde Lyris deveria estar. E Kira, por mais competente que fosse, não poderia preencher esse vazio.
+
+*Nyctara*, ela pensou de novo. E desta vez a palavra foi um interruptor — limpo, definitivo, sem hesitação. A mulher que hesita em uma operação noturna não volta dela.
+
+Nyctara se moveu.
+
 ---
 
 **III. O Rastro de aetherite**
@@ -324,6 +330,8 @@ Nyctara respirou fundo — a primeira respiração que não doía desde que havi
 
 Alyndra ficaria no Orfanato Luminis. Não escondida — visível. Não protegida por muros e segredos, mas por rotina e normalidade. No meio de quarenta crianças, monitorada por Kira e pela equipe do orfanato, vivendo a vida que qualquer criança do Luminis viveria — aulas, refeições, horário de brincar, histórias antes de dormir. A perfeita camuflagem. O esconderijo mais eficaz que existia, porque não era um esconderijo — era uma vida.
 
+*Os corpos dos sentinelas serão encontrados ao amanhecer*, Nyctara calculou, *quando a maré baixa revelar a entrada da galeria. Até lá, o grupo em Thalendris já terá notado a ausência dos dois — ou os três, se o líder for verificar a postagem. De qualquer forma, a operação deles aqui está comprometida. A rede perde uma célula. Ganha paranoia. E paranoia é o pior conselheiro de uma organização que opera nas sombras.*
+
 *A Semente fica no meio de outras sementes*, Nyctara pensou, *e quem procura uma árvore específica não nota a muda que cresce no jardim.*
 
 Mas por trás da fachada de normalidade, Nyctara construiria o que realmente importava: redes de inteligência. Inteligência. Contatos. Os mesmos instrumentos que Umbra usava para caçar, ela usaria para proteger. Ondas etéricas, cristais de comunicação, fontes em múltiplas cidades, informação antecipada sobre movimentos e intenções. Os Tar-Gig tinham infraestrutura — infraestrutura que Nyctara não havia usado em seis nyras, mas que ainda existia, enterrada em canais seguros e frequências codificadas que esperavam, como sementes dormentes, pelo momento certo para germinar.
@@ -356,7 +364,7 @@ Lyris pensou nisso enquanto os dedos percorriam os cabelos de Alyndra com a lent
 
 *A vida que Alyndra vive no orfanato não precisa ser uma mentira. Precisa ser real. Aulas reais. Refeições reais. Brincadeiras reais. O fato de existir uma operação de inteligência acontecendo por trás de tudo isso não torna a vida dela falsa — torna a operação parte da vida dela, invisível como o ar que ela respira.*
 
-Nyx chiou baixinho — um som quase inaudível, o tipo que só Lyris poderia ouvir a essa distância. A lyrien virou a cabeça, suas orelhas grandes apontando na direção de Lyris, e os olhos escuros como azeviche — aqueles olhos que pareciam conter mais sabedoria do que uma criatura do tamanho de uma raposa deveria ter — encontraram os dela.
+Nyx chiou baixinho — um som quase inaudível, o tipo que só Lyris poderia ouvir a essa distância. E ali, ajoelhada ao lado da cama de Alyndra, com o peso de duas vidas nos ombros e o cheiro de chuva e sal ainda na pele, Lyris se permitiu — por um único pulso — sentir o custo daquela nyxara. Não arrependimento. Nunca arrependimento. Mas o reconhecimento silencioso de que cada vez que Nyctara emergia, um pedaço de Lyris ficava para trás na escuridão. A lyrien virou a cabeça, suas orelhas grandes apontando na direção de Lyris, e os olhos escuros como azeviche — aqueles olhos que pareciam conter mais sabedoria do que uma criatura do tamanho de uma raposa deveria ter — encontraram os dela.
 
 Lyris não entendia a linguagem dos lyriens. Ninguém entendia, completamente — a comunicação entre pessoas e lyriens era uma zona cinzenta de intuição, observação e suposições. Mas naquele chiado, naquele olhar, Lyris ouviu algo que talvez fosse apenas sua imaginação, ou talvez fosse a sabedoria instintiva de uma criatura que, como ela, carregava segredos que não podiam ser compartilhados.
 
