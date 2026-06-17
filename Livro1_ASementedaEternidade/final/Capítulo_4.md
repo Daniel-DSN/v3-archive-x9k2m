@@ -134,7 +134,9 @@ Melessa respirou — ou tentou. O ar entrou em soluços curtos e irregulares, co
 
 Não sobre a cama. Sobre o braço de Lyris. Lá ficou, pesada e quente, enquanto os olhos de Melessa se fechavam novamente — desta vez não com exaustão, mas com algo que parecia resignação. A resignação de quem lutou até a última fresta de força e perdeu por uma fração de segundo.
 
-— No próximo dia — Melessa sussurrou, e a palavra era tão fina que Lyris mal ouviu. — No próximo dia eu te mostro... onde está...
+— Amanhã — Melessa sussurrou, e a palavra era tão fina que Lyris mal ouviu. — Amanhã eu te mostro... onde está...
+
+Talvez soubesse que não haveria amanhã. Mas se agarrava à palavra como quem se agarra à última promessa que o mundo ainda lhe permitia fazer.
 
 Mas o *aebril*² não trouxe a continuação da frase.
 
@@ -147,6 +149,8 @@ A velha parteira jazia em sua cama com um sorriso suave nos lábios, suas mãos 
 Alyndra não gritou. Não correu. Não fez o que outras crianças de sua idade talvez fizessem ao encontrar a morte tão próxima. Em vez disso, sentou-se na beira da cama e segurou a mão de Melessa — uma mão que ainda estava morna, que ainda parecia carregar o calor de uma vida bem vivida.
 
 Lyris ficou de pé ao lado da cama. Dentro dela, a Nyctara que fora por trinta e dois valens não conseguia silenciar. *Debaixo das tábuas... perto da cama...* As últimas palavras de Melessa ecoavam como um farol. Uma testemunha moribunda apontando um esconderijo — Nyctara nunca ignorava isso.
+
+Ao passar a mão pela lateral da cama, algo na parede vibrou — um calor residual, muito tênue para ser identificado, como o último sopro de uma lareira apagada há valens. Lyris registrou, mas arquivou. Havia um segredo sob as tábuas esperando; a parede teria que esperar.
 
 Ajoelhou-se no assoalho de madeira, seus dedos encontrando as tábuas ao redor da cama com a eficiência de quem havia aberto compartimentos secretos em dezenas de casas ao longo de uma carreira inteira. Sentiu uma que cedia levemente sob pressão — mal perceptível, mas presente. Encaixou a ponta dos dedos na borda e puxou.
 
@@ -334,7 +338,7 @@ Lyris observou do corredor escuro. O modo como ele varria era eficiente demais �
 
 Ela não se aproximou. Apenas registrou — a largura dos ombros, o deslizar dos olhos pelas sombras, a cicatriz fina na têmpora direita.
 
-*Pode ser nada*, pensou. *Veterano de guerra. Um homem que gosta de fazer as coisas direito. Ou pode ser algo mais.*
+A cicatriz. Os ombros. O homem da estalagem na estrada para Velantis — o que bebericava chá sem nunca terminar, o que saíra sem deixar rastro. Não era um mercador. Lyris guardou a informação como quem guarda uma faca na manga: sem pressa, mas com a certeza de que precisaria dela.
 
 Observaria. Com paciência. Se Aldric era apenas o que parecia, ninguém sairia ferido. Mas se havia algo por trás daquele silêncio eficiente, Lyris descobriria antes que fosse tarde.
 

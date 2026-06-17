@@ -90,3 +90,14 @@ Registrada para monitoramento. Densidade tematica justificada (nascimento sob a 
 5. Nihilaryth — vislumbre da ameaca nos proximos capitulos.
 6. O selo par de Aurelius/Ayla — o que acontece com o selo que gelou?
 7. Três montarias partindo — quem eram? Sanctrum? Outra fracao?
+
+---
+
+## REVISAO V2 (Cruzamento com relatorio do Capitulo IV)
+
+### Correcao 4: Citacao expandida de Ayla (identificada no relatorio do Cap. IV, secao 1, ponto 2)
+**Problema:** A linha 183 apresentava as palavras finais de Ayla como citacao direta: "Diga a ele que eu o amei desde o primeiro dia ate o ultimo. E que nossa filha e minha ultima promessa de que o amor vence tudo." No Cap. II (Secao IV), as palavras reais de Ayla foram apenas: "Diga a ele que eu o amei." A versao expandida era uma elaboracao da memoria de Melessa apos quatro valens, mas o texto a apresentava como discurso literal.
+**Solucao aplicada:** Reestruturado para dar a citacao real ("Diga a ele que eu o amei") e depois explicar que a versao expandida e a memoria embellhecida de Melessa: "Ja nao sabia onde terminavam as palavras de Ayla e comecavam as suas."
+
+**Antes:** "O homem cujo nome ela sussurrara em seus momentos finais: 'Diga a ele que eu o amei desde o primeiro dia ate o ultimo. E que nossa filha e minha ultima promessa de que o amor vence tudo.'"
+**Depois:** "O homem cujo nome ela sussurrara em seus momentos finais — 'Diga a ele que eu o amei.' As palavras reais haviam sido apenas essas, curtas e simples como tudo o que Ayla era. Mas em quatro valens de recordacao, Melessa as havia transformado em algo maior na propria memoria: *desde o primeiro dia ate o ultimo*, *nossa filha e minha ultima promessa de que o amor vence tudo*. Ja nao sabia onde terminavam as palavras de Ayla e comecavam as suas."

@@ -180,7 +180,7 @@ Thalia era leal, mas não tinha recursos para proteger Alyndra do que viria. Os 
 
 Havia apenas uma pessoa no mundo que, se soubesse de Alyndra, teria poder e razão para protegê-la.
 
-Aurelius. O homem que Ayla amara. O homem cujo nome ela sussurrara em seus momentos finais: "Diga a ele que eu o amei desde o primeiro dia até o último. E que nossa filha é minha última promessa de que o amor vence tudo."
+Aurelius. O homem que Ayla amara. O homem cujo nome ela sussurrara em seus momentos finais — "Diga a ele que eu o amei." As palavras reais haviam sido apenas essas, curtas e simples como tudo o que Ayla era. Mas em quatro valens de recordação, Melessa as havia transformado em algo maior na própria memória: *desde o primeiro dia até o último*, *nossa filha é minha última promessa de que o amor vence tudo*. Já não sabia onde terminavam as palavras de Ayla e começavam as suas.
 
 Por quatro valens, Melessa ignorara aquelas palavras. Cumprira a promessa de cuidar da criança, dar-lhe amor, família, um lar. Mas nunca cumprira a outra parte — a que falava sobre ele. Sobre o pai.
 
