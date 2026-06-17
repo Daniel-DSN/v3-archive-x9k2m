@@ -98,3 +98,14 @@ O termo aparece 9 vezes no capitulo. Em paragrafos proximos da Secao III ha repe
 3. O segundo agente (o da arvore, que fugiu) — ele voltara? O que viu atraves de Ayla?
 4. O simbolo no pendente (tres luas partindo de um centro) — e o selo dos Guardioes. Lyris reconhece esse simbolo no orfanato?
 5. O rastro elemental das runas — quem o detectara primeiro? Lyris? Umbra? Sanctrum?
+
+---
+
+## REVISAO V2 — Cruzamento com Prologo v3 (Junho 2026)
+
+### Status: Nenhuma nova correcao para o Cap. I
+O relatorio v3 do Prologo confirmou que todas as correcoes textuais do Cap. I ja estao aplicadas (nyxara minuscula, nyras sem acento, Elysea contextualizada). O unico ponto novo levantado e a cronologia fuga/estadia, ja rastreada nos pendentes deste documento.
+
+### Cronologia fuga/estadia (refinamento da questao ja existente)
+O Prologo v3 detalhou a ambiguidade: "tres nyras de fuga" (Cap. I, Secao I) + "terceira nyra em Mespiria" (Prologo). Se sao periodos consecutivos, o total desde Sanctrum e de ~6 nyras. O estado da gravidez (barriga volumosa, parto iminente) precisa ser coerente com esse tempo total.
+**Status:** Exige decisao do autor. Ver tambem Pendente 1 (sequencia temporal sonho/runas).

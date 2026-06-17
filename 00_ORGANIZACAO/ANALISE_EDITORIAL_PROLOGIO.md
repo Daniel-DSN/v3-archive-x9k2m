@@ -128,3 +128,42 @@ As quatro correcoes originais foram validadas pelo editor na revisao v2. Nenhuma
 4. A promessa "Que um fruto do meu sangue renasca" — Alyndra e esse fruto? A linha de sangue passa por Ayla?
 5. Os dez seres (cinco da luz, cinco da sombra) — cada par em torno de um elemento. Conexao com os cinco elementos do sistema v2.0?
 6. "Aquelas que amavam os dois lados, partidos ao meio pelo dever" — referência a Seraphyens ou a algo anterior?
+
+---
+
+## REVISAO V3 (Junho 2026) — Aprovacao Final do Prologo
+
+### Status: PROLOGO APROVADO
+Nenhuma inconsistencia interna detectada. As quatro correcoes v1 e as duas correcoes v2 foram validadas. O texto esta lirico, mitologicamente coerente e redondo. **Prosa aprovada para seguir.**
+
+### Correcoes nesta rodada
+Nenhuma correcao de texto necessaria.
+
+### Pontes com Capitulo I — status
+
+#### Cronologia Mespiria (fuga vs. estadia)
+**Questao levantada:** O Cap. I diz "Tres nyras de fuga" e "Chegara tres nyras antes". O Prologo diz "Três nyras de fuga" e "terceira nyra em Mespiria". Se a fuga durou tres nyras E a estadia tambem e de tres nyras, o tempo total desde a saida de Sanctrum seria de seis nyras (~6 meses). O estado da gravidez (barriga volumosa, iminencia do parto) depende dessa linha do tempo.
+**Status:** Exige decisao do autor. Recomendacao: formalizar micro-cronologia (gravidez, fuga, chegada, Prologo, Cap. I).
+
+#### Capitalizacao de nyxara
+**Status:** Ja resolvido. Cap. I atualizado para minuscula em commit anterior.
+
+#### Glossario unificado
+**Status:** Pendente para revisao final do volume. Termos a definir: Aurion, valen(s), nyra, Mespiria, Sanctrum, luas, Convergencia.
+
+### Notas de desenvolvimento registradas (nao aplicadas — autor decide)
+
+1. **Transicao "noite — terceira nyra":** A sobreposicao de "noite" (nyxara) e "nyra" (mes) pode causar microestranhamento. Alternativas sugeridas: "Mas naquela nyxara — a terceira nyra ja pesava sobre Mespiria..." ou "Mas na terceira nyra em Mespiria...". Retoque estilistico opcional.
+
+2. **Mapeamento dos elementos do sonho para o Livro I:** Mapear quais elementos da cosmogonia (a Semente, os dez seres elementais, o irmao de sombra adormecido, a irma de luz fragmentada, a figura que se despedacou) serao revisitados ao longo do Livro I. Isso ajudara a dosar as revelacoes e evitar que o Prologo seja o unico deposito de lore cosmico.
+
+3. **Voz da promessa como fio condutor:** "Coragem. Eu estou em tudo o que constrói. E tu es o que eu prometi." — considerar variacoes dessa voz em momentos-chave da jornada de Alyndra.
+
+4. **Retoque ritmico opcional (paragrafo "Ayla nao entendia..."):** Variar a estrutura para evitar repeticao de "Nao sabia que...". Sugestao: "Nao sabia os nomes. A mulher da esfera era uma primordial, mas para Ayla era apenas uma mulher antiga com o peso do mundo nos olhos. A figura que se despedacara tinha um nome que soava como o mar — nome que Ayla nao ouviria por muitos valens ainda. O irmao caido dormia selado sob o mundo, e ela nao sabia."
+
+### Resumo de acoes necessarias (proximo passo)
+
+- [ ] Esclarecer a linha do tempo: "tres nyras de fuga" + "terceira nyra em Mespiria" sao consecutivos ou sobrepostos? Tempo total desde Sanctrum?
+- [ ] Fornecer definicoes oficiais de "Aurion" e "valen(s)" para o glossario unificado.
+- [ ] Enviar materiais de apoio (cronologia da gravidez/fuga, ficha de Ayla, mapa dos reinos) para cruzamento com os proximos capitulos.
+- [ ] Enviar o Capitulo I revisado (ja com todas as correcoes aplicadas).
