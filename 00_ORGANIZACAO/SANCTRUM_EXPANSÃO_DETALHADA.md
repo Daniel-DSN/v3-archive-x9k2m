@@ -14,7 +14,7 @@
 2. [Aetherion e a Implementação em Sanctrum](#2-aetherion-e-a-implementacão-em-sanctrum)
 3. [A Erosão dos Ensinamentos — A Ironia Trágica](#3-a-erosão-dos-ensinamentos-a-ironia-tragica)
 4. [A Torre de Aurion — Capital Lendária](#4-a-torre-de-aurion-capital-lendaria)
-5. [O Conselho dos 12 (En Me Nim)](#5-o-conselho-dos-10)
+5. [O Conselho dos 12 (En Me Nim)](#5-o-conselho-dos-12)
 6. [A Ordem dos Guardiões (En Me Du)](#6-a-ordem-dos-guardioes)
 7. [A Velatrix (Assento Ukam)](#7-a-velatrix-assento-ukam)
 8. [A RRA — Rede de Repetidores Aetherianos](#8-a-rra-rede-de-repetidores-aetherianos)
@@ -349,11 +349,11 @@ O entorno da Torre de Aurion reflete a divisão de classes e a estratificação 
 
 ### 5.1 Origem e Propósito
 
-O En Me Nim foi criado originalmente por Aetherion como um órgão consultivo de **10 Mestres Guardiões** que o auxiliavam na administração de Sanctrum. Cada Mestre era escolhido por mérito, sem consideração de linhagem ou riqueza.
+O En Me Nim foi criado originalmente por Aetherion como um órgão consultivo de **12 Mestres Guardiões** que o auxiliavam na administração de Sanctrum. Cada Mestre era escolhido por mérito, sem consideração de linhagem ou riqueza.
 
 Com o tempo, o Conselho evoluiu de órgão consultivo para **órgão governante**, e os assentos tornaram-se hereditários (embora oficialmente ainda sejam "por mérito").
 
-### 5.2 Os 10 Assentos e Seus Símbolos
+### 5.2 Os 12 Assentos e Seus Símbolos
 
 | Assento | Título Sanctrino | Símbolo | Função | Atual Ocupante |
 |---------|-----------------|---------|--------|---------------|
@@ -367,6 +367,8 @@ Com o tempo, o Conselho evoluiu de órgão consultivo para **órgão governante*
 | **8** | Me Silim | Pomba | Cultura, artes, tolerância religiosa | **Matriarca Verena** |
 | **9** | Ukam | Olho | Inteligência, vigilância (Velatrix) | **Velatrix** (identidade secreta) |
 | **10** | Me Gish (Oculto) | Círculo Vazio | Assento vazio originalmente — "a voz do povo" | **A Mulher de Branco** (infiltrada Nihilaryth) |
+| **11** | Me Gur | Balança de Ouro | Comércio, guildas, finanças | **Grão-Mestre Haldric** |
+| **12** | Me Esh | Lâmpada Acesa | Assuntos internos, cidadania, infraestrutura civil | **Vago** (assento suprimido após pressão da Mulher de Branco) |
 
 ### 5.3 Os Membros Atuais em Detalhe
 
@@ -462,7 +464,7 @@ Aurelius é o **33º En Me** de Sanctrum e o mais poderoso aetheriano vivo. Sua 
 | Facção | Membros | Objetivo |
 |--------|---------|----------|
 | **Puristas** | Kaelen, Caldris, Senhora Terra | Manter Sanctrum puro, hierarquia rígida, doutrina inflexível |
-| **Moderados** | Verena, Lian, Mestre das Obras | Flexibilizar, negociar, evitar guerras desnecessárias |
+| **Moderados** | Verena, Lian, Mestre das Obras, Haldric | Flexibilizar, negociar, evitar guerras desnecessárias |
 | **Incorruptível** | Thessaly | A lei acima de tudo — nem purista nem moderada |
 | **Sombra** | Velatrix (via representante) | Vigiar todos, não se alinhar |
 | **Infiltração** | Mulher de Branco | Corromper, dividir, enfraquecer |

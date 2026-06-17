@@ -153,11 +153,11 @@ Quando Lyris levou Alyndra ao Orfanato Luminis em Velantis, precisava de um docu
 
 Lyris usou um contato dos tempos de Tar-Gig — **um escriba aposentado do Cartório de Velantis** chamado **Orin Velthar** (codinome "O Selo" nos arquivos da guilda). Orin:
 
-1. **Criou um RPA** para "Alyndra Marethyus" — optou pelo sobrenome materno em vez de Lumivael, para não atrair atenção da Ordem
+1. **Criou um RPA** para "Alyndra **Solanthir**" — optou pelo sobrenome da avó adotiva (Melessa Solanthir) em vez de Lumivael ou Marethyus, para proteger a criança de qualquer conexão com Sanctrum ou com a linhagem real thalassiana
 2. **Registrou-a como sylenti (♢)** — a opção mais segura. O losango vazio não exigia cor de elemento, então não precisava simular uma falsa afinidade que poderia ser desmentida mais tarde
 3. **Inseriu o registro nos livros oficiais** como "órfã encontrada na estrada de Mespiria, sem pais conhecidos, encaminhada ao Orfanato Luminis na data de abertura do RPA"
 
-O RPA de Alyndra consta oficialmente como: **"Alyndra Marethyus, sylenti (♢), origem desconhecida, apta para acolhimento institucional"** — um documento que qualquer burocrata de Sanctrum consideraria legítimo.
+O RPA de Alyndra consta oficialmente como: **"Alyndra Solanthir, sylenti (♢), origem desconhecida, apta para acolhimento institucional"** — um documento que qualquer burocrata de Sanctrum consideraria legítimo.
 
 #### O Risco
 

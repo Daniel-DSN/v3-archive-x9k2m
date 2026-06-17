@@ -171,7 +171,7 @@ A língua antiga de Alyndra, **Emê-Gir**, é a raiz da qual derivam a maioria d
 *   **Lyrien (Ur Lil):** Felino etérico com olhos dourados e pelagem prateada. Domesticável, atua como companheiro empático (ex: Nyx).
 *   **Giralis (Gir Alis):** Flor de pétalas prateadas translúcidas, bioluminescente à noite. O maior símbolo de pureza e resistência de Sylvaris.
 *   **Argentis (Gesh Nanna):** Árvore gigante de casca prateada que alcança 60 passos de altura e vive por aethrons. Suas folhas tilintam com o vento e seus anéis gravam memórias.
-*   **Aeriva (Gesh Lil):** Árvore de madeira leve e elástica, ideal para a construção naval e de barcos terrestres.
+*   **Aeriva (Gesh Lil):** Nome compartilhado por duas formas de vida distintas. **Aeriva-Árvore**: árvore de madeira leve e elástica, ideal para construção naval e de barcos terrestres. **Aeriva-Trepadeira** (*aeriva* de paredes, mencionada nos capítulos): trepadeira delicada de folhas finas, comum em muros e jardins de Sylvaris. No contexto narrativo, "aeriva" sem qualificador geralmente refere-se à trepadeira.
 
 ### 3.2 Sanctrum (Reino da Luz)
 

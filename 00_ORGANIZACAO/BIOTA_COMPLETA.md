@@ -649,7 +649,7 @@
 |---|------|-------------|-----------|-----------|---------|----------|
 | 6 | **Gigmush** | Mushen Gig | Corvo de plumagem cinza-azulada, bico preto. Alimenta-se de carne congelada. Mensageiro silencioso. | corvídeo | Toda Umbra | Comum |
 | 7 | **Nygishmush** | Mushen Ny Gish | Coruja de plumagem branca, pio que soa como sussurro humano. Presságio de morte. | ave noturna | Montanhas de Gelo | Incomum |
-| 8 | **Nyctara** | Mushen Ny | Ave noturna de rapina, plumagem negro-azulada, olhos dourados. Detecta Aethra. Raríssima (100 espécimes). | ave de rapina noturna | Planaltos, fontes termais | Raro |
+| 8 | **Nyctara** | Mushen Ny | Ave noturna de rapina, plumagem negro-azulada, olhos dourados. Detecta Aethra. Raríssima (100 espécimes). Populações isoladas também são encontradas nas montanhas de gelo de Umbra, adaptadas à escuridão perpétua — possivelmente relocadas por Nihilaryth há eras, ou remanescentes de uma distribuição mais ampla. | ave de rapina noturna | Planaltos, fontes termais (Sanctrum); montanhas de gelo (Umbra) | Raro |
 | 9 | **Gigvenmush** | Mushen Gig Ven | Falcão cinzento que caça sobre a Planície Cinzenta. Resistente ao frio extremo. | ave de rapina | Planície Cinzenta | Incomum |
 | 10 | **Giglilmush** | Mushen Gig Lil | Gralha preta de olhos brancos. Inteligente, vive em bandos. | corvídeo | Cidadela Sombria | Comum |
 
