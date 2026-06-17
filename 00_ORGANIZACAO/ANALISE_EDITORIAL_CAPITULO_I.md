@@ -107,5 +107,5 @@ O termo aparece 9 vezes no capitulo. Em paragrafos proximos da Secao III ha repe
 O relatorio v3 do Prologo confirmou que todas as correcoes textuais do Cap. I ja estao aplicadas (nyxara minuscula, nyras sem acento, Elysea contextualizada). O unico ponto novo levantado e a cronologia fuga/estadia, ja rastreada nos pendentes deste documento.
 
 ### Cronologia fuga/estadia (refinamento da questao ja existente)
-O Prologo v3 detalhou a ambiguidade: "tres nyras de fuga" (Cap. I, Secao I) + "terceira nyra em Mespiria" (Prologo). Se sao periodos consecutivos, o total desde Sanctrum e de ~6 nyras. O estado da gravidez (barriga volumosa, parto iminente) precisa ser coerente com esse tempo total.
-**Status:** Exige decisao do autor. Ver tambem Pendente 1 (sequencia temporal sonho/runas).
+O Prologo v3 detalhou a ambiguidade: "tres nyras de fuga" (Cap. I, Secao I) + "terceira nyra em Mespiria" (Prologo). Se fossem periodos consecutivos, o total desde Sanctrum seria de ~6 nyras.
+**Status:** RESOLVIDO (decisao do autor). Nao sao consecutivos — sao o mesmo arco temporal. Ayla engravidou na nyra 0, descobriu na nyra 2 (via aethra), fugiu na nyra 5, e o presente narrativo e a nyra 8. Gravidez total: 9 nyras. Cronologia completa em LINHA_TEMPORAL_PERSONAGENS.md.

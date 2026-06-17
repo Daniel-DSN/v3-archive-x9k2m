@@ -314,6 +314,19 @@
 
 ### AYLA MARETHYUS (AELYRIA)
 
+#### Micro-cronologia da gravidez e fuga
+
+| Nyra | Evento |
+|---|---|
+| 0 | Concepção em Sanctrum. |
+| 2 | Descobre a gravidez via aethra — sente a recém-bebe. |
+| 5 | Decide fugir de Sanctrum. Atravessa o Mar de Vaelantor. Chega a Mespiria. |
+| 5-8 | Três nyras em Mespiria. Rotina com Melessa. |
+| 8 | Presente narrativo (Prólogo e Capítulo I). "Terceira nyra em Mespiria". |
+| 9 | Parto de Alyndra sob a Convergência Tripla. Morte de Ayla. |
+
+> **Nota:** Gravidez total = 9 nyras (~9 meses). "Três nyras de fuga" = tempo desde que deixou Sanctrum até o presente = mesmo período de estadia em Mespiria (a viagem foi breve). Portanto, fuga e estadia não são períodos consecutivos sobrepostos — são o mesmo arco temporal.
+
 | Capítulo | Eventos |
 |---|---|
 | **1** | Foge de Sanctrum grávida. Chega a Mespiria. Confia o parto a Melessa. |

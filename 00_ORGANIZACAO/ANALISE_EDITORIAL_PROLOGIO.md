@@ -143,7 +143,7 @@ Nenhuma correcao de texto necessaria.
 
 #### Cronologia Mespiria (fuga vs. estadia)
 **Questao levantada:** O Cap. I diz "Tres nyras de fuga" e "Chegara tres nyras antes". O Prologo diz "Três nyras de fuga" e "terceira nyra em Mespiria". Se a fuga durou tres nyras E a estadia tambem e de tres nyras, o tempo total desde a saida de Sanctrum seria de seis nyras (~6 meses). O estado da gravidez (barriga volumosa, iminencia do parto) depende dessa linha do tempo.
-**Status:** Exige decisao do autor. Recomendacao: formalizar micro-cronologia (gravidez, fuga, chegada, Prologo, Cap. I).
+**Status:** RESOLVIDO (decisao do autor). "Tres nyras de fuga" e "terceira nyra em Mespiria" sao o mesmo periodo — a fuga e a estadia nao sao consecutivas. Ayla engravidou na nyra 0, descobriu na nyra 2 (via aethra), fugiu na nyra 5, e o presente narrativo e a nyra 8 (terceira nyra em Mespiria). Parto previsto para a nyra 9. Cronologia detalhada registrada em LINHA_TEMPORAL_PERSONAGENS.md.
 
 #### Capitalizacao de nyxara
 **Status:** Ja resolvido. Cap. I atualizado para minuscula em commit anterior.
@@ -163,7 +163,7 @@ Nenhuma correcao de texto necessaria.
 
 ### Resumo de acoes necessarias (proximo passo)
 
-- [ ] Esclarecer a linha do tempo: "tres nyras de fuga" + "terceira nyra em Mespiria" sao consecutivos ou sobrepostos? Tempo total desde Sanctrum?
+- [x] Esclarecer a linha do tempo: "tres nyras de fuga" + "terceira nyra em Mespiria" sao consecutivos ou sobrepostos? Tempo total desde Sanctrum? **RESOLVIDO: mesmo periodo. Ver LINHA_TEMPORAL_PERSONAGENS.md.**
 - [ ] Fornecer definicoes oficiais de "Aurion" e "valen(s)" para o glossario unificado.
 - [ ] Enviar materiais de apoio (cronologia da gravidez/fuga, ficha de Ayla, mapa dos reinos) para cruzamento com os proximos capitulos.
 - [ ] Enviar o Capitulo I revisado (ja com todas as correcoes aplicadas).
