@@ -180,7 +180,7 @@ O silêncio que se seguiu à história de Torvin era do tipo que pesa — que se
 
 E então Dravyn falou.
 
-Não porque quisesse — Alyndra percebeu isso pela forma como ele falou, com a voz tensa de alguém que está sendo arrastado para algo contra a vontade. Ele estava sentado mais afastado, costas apoiadas na pedra, braços cruzados, olhos fixos nas chamas. Quando começou a falar, não olhou para ninguém — olhou apenas para o fogo, como se as palavras fossem destinadas às chamas e não às pessoas.
+Não porque quisesse — Alyndra percebeu isso pela forma como ele falou, com a voz tensa de alguém que está sendo arrastado para algo contra a vontade. Ele estava sentado mais afastado, costas apoiadas na pedra, braços cruzados, olhos fixos nas chamas. O envelope amassado no bolso da calça cutucava sua coxa a cada movimento — uma ponta de papel que ele sentia como um lembrete constante de algo que não podia esquecer e não devia investigar. Quando começou a falar, não olhou para ninguém — olhou apenas para o fogo, como se as palavras fossem destinadas às chamas e não às pessoas.
 
 — Meu pai era mercenário — Dravyn disse, e sua voz era plana, sem inflexão, como se estivesse lendo um relatório. — De Terraxis. Combatia por dinheiro — não por honra, não por reino, não por causa. Dinheiro. E morreu do jeito que viveu: em uma briga de estalagem, esfaqueado por outro mercenário por causa de uma aposta. Não houve batalha gloriosa. Não houve sacrifício. Apenas sangue e bebida fermentada e um corpo que foi enterrado em vala comum porque ninguém se importou o bastante para dar-lhe um nome na morte.
 
@@ -344,7 +344,7 @@ Alyndra assentiu, mas seus olhos ainda estavam arregalados, e Nyx — que havia 
 
 Ela sabia — com a certeza gelada de quem conectava os pontos de um quadro que se tornava cada vez mais claro — que os velkora não eram ferramentas comuns. Eram dispositivos de Umbra, usados para identificar e catalogar assinaturas espirituais de potenciais alvos — crianças com afinidades raras, linhagens valiosas, poderes que poderiam ser explorados. E se os mercenários estavam usando velkora em uma expedição de órfãos, era porque estavam procurando alguém específico.
 
-O pulso de energia aethra que Alyndra havia involuntariamente gerado — a onda que arremessou o mercenário e estabilizou o cristal do veleiro — não foi apenas uma manifestação de poder cryonys. Foi uma assinatura. Uma assinatura que os velkora, mesmo aquele que quase rolou para a água antes de ser recolhido às pressas pelo comparsa em fuga, provavelmente haviam capturado.
+O pulso de energia aethra que Alyndra havia involuntariamente gerado — a onda que arremessou o mercenário e estabilizou o cristal do veleiro — não foi apenas uma manifestação de poder cryonys. Foi uma assinatura. Uma assinatura que os velkora, mesmo aquele que quase rolou para a água antes de ser recolhido às pressas pelo comparsa em fuga, provavelmente haviam capturado. *O velkora foi atingido pela mesma onda que derrubou o mercenário*, Lyris pensou. *Pode estar danificado. Ou pode ter registrado tudo. Não há como saber.*
 
 *Eles encontraram o que procuravam*, Lyris pensou, e uma frieza que não tinha nada a ver com o cryonys de Alyndra se instalou em seus ossos. *Se os velkora capturaram aquela emissão, a assinatura da Herdeira Primordial pode ter sido registrada. E se foi, será apenas uma questão de tempo até que a transmitam.*
 
@@ -368,7 +368,7 @@ Apenas Lyris sabia. E o que ela sabia a fez sentir, pela primeira vez em valens,
 
 **V. Sombras em Sanctrum**
 
-A centenas de léguas de distância, para além do Mar de Vaelantor onde o vento não carregava gritos de crianças nem o brilho de manifestações elementais, a Cidade Cristalina de Sanctrum repousava sobre seu trono de montanhas e luz como uma coroa eterna da civilização de Nova Aetherion. Seus arranha-céus de cristal e pedra branca se erguiam contra o céu como dedos de uma mão que tentava alcançar as estrelas, e suas ruas — amplas, limpas, iluminadas por lâmpadas aetheris que nunca se apagavam — zumbiam com a atividade de uma capital que governava sete reinos e que nunca, em toda a sua história milenar, havia dormido.
+A centenas de léguas dali — para além do Mar de Vaelantor, onde o vento não carregava gritos de crianças nem o brilho de manifestações elementais —, outra pessoa chegava a conclusões semelhantes. A Cidade Cristalina de Sanctrum repousava sobre seu trono de montanhas e luz como uma coroa eterna da civilização de Nova Aetherion. Seus arranha-céus de cristal e pedra branca se erguiam contra o céu como dedos de uma mão que tentava alcançar as estrelas, e suas ruas — amplas, limpas, iluminadas por lâmpadas aetheris que nunca se apagavam — zumbiam com a atividade de uma capital que governava sete reinos e que nunca, em toda a sua história milenar, havia dormido.
 
 No coração da cidade, o Palácio de Cristal abrigava não apenas o Guardião Mestre e as câmaras do governo, mas também uma rede complexa de salas, corredores e câmaras secretas que a maioria dos cidadãos de Sanctrum sequer imaginava existir. Era nessas câmaras — subterrâneas, protegidas por barreiras aethra de múltiplas camadas — que a verdadeira máquina do poder operava: o das informações, das vigilâncias, dos segredos que definiam destinos sem que ninguém soubesse que estavam sendo definidos.
 
@@ -446,11 +446,10 @@ E reconhecimento, acima de tudo, de que o tempo estava acabando.
 
 ---
 
-## 📖 Glossário do Capítulo
+## 📖 Glossário do Capítulo (termos novos)
 
 ¹ **veleiros de estrada** — Veículos movidos a cristais aetheris que flutuam sobre os trilhos de vento
 ² **ciclo de viagem** — Tradição anual do Orfanato Luminis; expedição que leva crianças a conhecer o mundo
-³ **aerélias** — Flores perfumadas que florescem nos canteiros de Sylvaris
 ⁴ **timoneiros de vento** — Condutores que sintonizam os cristais dos veleiros com as correntes atmosféricas
 ⁵ **trilhos de vento** — Caminhos invisíveis de corrente induzida que servem de rota para os veleiros
 ⁶ **Thalendris** — Cidade portuária na costa oeste de Sylvaris; Cidade das Falésias Brancas
@@ -461,10 +460,10 @@ E reconhecimento, acima de tudo, de que o tempo estava acabando.
 ¹¹ **nyxara de fogo** — Tradição do ciclo de viagem onde crianças compartilham histórias de perda
 ¹² **koramis** — Aves gigantes de montaria de Sylvaris; envergadura de ~10 passos; penas cromáticas
 ¹³ **mushen kora** — Nome antigo do koramis; significa 'Ave do Coração'
-¹⁴ **desprovidos** — Pessoas sem poder aethra; população comum
 ¹⁵ **velkora** — Dispositivo analógico de Umbra; microcristais de aetherite que capturam assinaturas espirituais
 ¹⁶ **aetherite** — Cristal usado em dispositivos de gravação espiritual
-¹⁷ **Umbra** — Organização secreta que opera nas sombras; envolvida em tráfico de talentos
 ¹⁸ **Selynis Thalassa** — Mestra da Informação de Sanctrum; membro do Conselho dos 12
 ¹⁹ **Vethran Noll** — Funcionário cujo nome aparece em registros de transferência; sua real identidade e lealdade permanecem desconhecidas para Selynis neste ponto da narrativa. (Ver Interlúdio 1 e Capítulo 30.)
 ²⁰ **cargas fantasmas** — Crianças que saem do orfanato com documentação legítima e são interceptadas; rastro burocrático circular
+
+> **Nota:** Os termos ³ (aerélias), ¹⁴ (desprovidos) e ¹⁷ (Umbra) foram introduzidos em capítulos anteriores e foram removidos deste glossário para publicação. Consulte o apêndice para definições completas.
