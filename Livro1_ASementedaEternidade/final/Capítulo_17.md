@@ -218,7 +218,7 @@ E em algum lugar no fundo de sua mente — naquele lugar onde as intuições viv
 
 ## V. Olhos que Não Dormem
 
-Lyris³⁶ encontrou Alyndra sentada no pátio do Orfanato Luminis¹⁴, sob a *argentis*³⁷ antiga cujas raízes erguiam o solo em ondas lentas e orgânicas, com os joelhos puxados contra o peito e os olhos fixos em um ponto vazio que não correspondia a nada que existisse no pátio — nem a fonte de água, nem os canteiros de *giralis*⁹, nem a silhueta distante de Kira³⁸ arrumando o refeitório através da janela. Alyndra olhava para dentro, não para fora, e Lyris reconheceu aquele olhar como quem reconhece um sinal de perigo — pois era o olhar de quem está processando algo que não tem palavras para descrever.
+Lyris³⁶ encontrou Alyndra sentada no pátio do Orfanato Luminis¹⁴, sob a *argentis*³⁷ antiga cujas raízes erguiam o solo em ondas lentas e orgânicas, com os joelhos puxados contra o peito e os olhos fixos em um ponto vazio que não correspondia a nada que existisse no pátio — nem a fonte de água, nem os canteiros de *giralis*⁹. Alyndra olhava para dentro, não para fora, e Lyris reconheceu aquele olhar como quem reconhece um sinal de perigo — pois era o olhar de quem está processando algo que não tem palavras para descrever.
 
 Era a quarta nyxara consecutiva em que Alyndra acordava com círculos escuros sob os olhos e geada no travesseiro, e Lyris — que a essas alturas conhecia os hábitos da menina melhor do que conhecia os seus próprios — sabia que algo estava errado de um modo que ultrapassava a simples insônia infantil.
 
@@ -292,7 +292,7 @@ Mas Alyndra não contou. Não porque não quisesse — porque queria, desesperad
 
 A voz tinha dito: *"Não conte. Ainda não. Eles não vão entender."*
 
-E Alyndra — que era uma criança de cinco valens, que não sabia o que era um nihilary¹⁵, que não conhecia os estágios da possessão, que não tinha nenhuma ferramenta intelectual para entender o que estava acontecendo consigo — sentiu que a voz estava certa. Sentiu que as pessoas ao seu redor — Lyris, Kira³⁸, Thar Elara⁶ — eram gentis, mas gentis de um modo que as impedia de compreender. Sentiu que havia algo nela que era diferente, algo que a voz reconhecia e que os outros não, e que a diferença era simultaneamente uma maldição e uma promessa.
+E Alyndra — que era uma criança de cinco valens, que não sabia o que era um nihilary¹⁵, que não conhecia os estágios da possessão, que não tinha nenhuma ferramenta intelectual para entender o que estava acontecendo consigo — sentiu que a voz estava certa. Sentiu que as pessoas ao seu redor — Lyris, Thar Elara⁶ — eram gentis, mas gentis de um modo que as impedia de compreender. Sentiu que havia algo nela que era diferente, algo que a voz reconhecia e que os outros não, e que a diferença era simultaneamente uma maldição e uma promessa.
 
 E então, no exato momento em que Alyndra pensava que aquela nyxara seria como as outras — longa, insone, preenchida pelo sussurro que não era som mas sensação —, a voz mudou.
 
@@ -300,7 +300,7 @@ Não gradualmente. Não como uma transição suave de um tom para outro. Mudou d
 
 A voz não falava mais em Emê-Gir⁵.
 
-Falava na língua de Sylvaris² — a língua comum, a língua das mães e dos professores e das canções que Kira³⁸ cantava na manhã enquanto arrumava o refeitório — e as palavras eram claras, nítidas, pronunciadas com uma precisão que era quase cruel na clareza com que se implantavam na mente de Alyndra como pregos em madeira macia:
+Falava na língua de Sylvaris² — a língua comum, a língua das mães e dos professores e das canções que outrora se ouviam nas manhãs de refeitório — e as palavras eram claras, nítidas, pronunciadas com uma precisão que era quase cruel na clareza com que se implantavam na mente de Alyndra como pregos em madeira macia:
 
 *"Descubra a verdade sobre quem você é, Alyndra."*
 
@@ -427,8 +427,6 @@ E nos confins mais profundos do aethra — naquele lugar onde a luz de Aurion³ 
 ³⁶ **Lyris (Nyctara)** — Guardiã de Alyndra; ex-operativa do Tar-Gig com afinidade ao *thermaris*. Reconhece os sinais de possessão nihilária por experiência prévia.
 
 ³⁷ **argentis** — Árvore de tronco prateado e copa densa, comum em Sylvaris. A *argentis* antiga do pátio do Orfanato serve como ponto de encontro para Alyndra e Lyris.
-
-³⁸ **Kira Dravenis** — Órfã de quinze anos, *sylentis* que atua como monitora das crianças menores no Orfanato Luminis; amiga próxima de Alyndra.
 
 ³⁹ **thermaris** — Poder elemental associado ao vapor e ao calor; a afinidade de Lyris.
 
