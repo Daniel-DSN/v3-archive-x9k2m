@@ -98,7 +98,7 @@ A luz da irmã fragmentou-se. Tornou-se o brilho em tudo: no reflexo da água, n
 
 Ayla acordou.
 
-Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta — madeira velha, silêncio, o cheiro de erva seca que a vizinha deixara na soleira. Lá fora, a *nyxara* era líquida e sem estrelas. As três luas — *Lyria*, *Nyx*, *Elara* — estavam ocultas sob o manto da *nyxara*, mas Ayla *sabia* que estavam ali. Alinhando-se. Esperando.
+Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta — madeira velha, silêncio, o cheiro de erva seca que a vizinha deixara na soleira. Lá fora, a *nyxara* era líquida e sem estrelas. As três luas — *Lyria*, *Nyx*, *Elara* — estavam ocultas sob o manto da *nyxara*, mas Ayla *sentia* que estavam ali. Alinhando-se. Esperando.
 
 E dentro dela, a criança mexeu-se.
 

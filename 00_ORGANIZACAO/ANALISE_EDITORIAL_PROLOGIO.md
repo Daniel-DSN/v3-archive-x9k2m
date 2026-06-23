@@ -167,3 +167,109 @@ Nenhuma correcao de texto necessaria.
 - [ ] Fornecer definicoes oficiais de "Aurion" e "valen(s)" para o glossario unificado.
 - [ ] Enviar materiais de apoio (cronologia da gravidez/fuga, ficha de Ayla, mapa dos reinos) para cruzamento com os proximos capitulos.
 - [ ] Enviar o Capitulo I revisado (ja com todas as correcoes aplicadas).
+
+---
+
+## REVISAO V4 (Junho 2026) — Passa Profunda de Cosmogonia e Tom
+
+### Status: REVISAO EM ANDAMENTO
+Passa profunda pos-aprovacao v3. Nenhuma inconsistencia interna de prosa (v1-v3 resolvidas), mas questoes de logica cosmogonica, registro epistemico e tom onirico identificadas. Esta revisao foca na CAMADA SEMANTICA e MITOLOGICA, nao na correcao de prosa.
+
+### Correcao aplicada nesta rodada (v4)
+
+#### Correcao 7: Registro epistemico de Ayla — "sabia" vs "sentia"
+**Problema:** "As tres luas... estavam ocultas sob o manto da nyxara, mas Ayla *sabia* que estavam ali. Alinhando-se. Esperando." O verbo "sabia" implica conhecimento factual. Mas as luas estao OCULTAS — Ayla nao pode ve-las. A fonte desse conhecimento nao esta estabelecida no texto. O leitor pode questionar: como sabe? Visao? Semente? Instinto?
+
+**Cruzamento com lore:** LORE_ALYNDRA_PRIMORDIAL.md confirma que Ayla carrega a linhagem de sangue de Alyndra Primordial e esta gravida da Semente. A conexao e INTUITIVA, nao racional. O glossario define aethra como "manifestacao fisica da alma" — a percepcao de Ayla e corporal/sanguinea, nao cognitiva.
+
+**Solucao aplicada:** Substituido "sabia" por "sentia". O verbo "sentia" e epistemicamente correto: Ayla nao PROCESSA a informacao (saber), ela EXPERIMENTA a presenca das luas no corpo (sentir). Isso preserva o misterio (a fonte permanece ambigua — Semente, instinto maternal, ressonancia sanguinea) enquanto elimina a quebra logica.
+
+**Antes:** "...mas Ayla *sabia* que estavam ali. Alinhando-se. Esperando."
+**Depois:** "...mas Ayla *sentia* que estavam ali. Alinhando-se. Esperando."
+
+### Pontos avaliados — cruzamento com lore existente
+
+#### Ponto 1.2: Clareza da voz da promessa
+**Diagnostico:** O editor identifica que a fala direta ("Coragem. Eu estou em tudo o que constrói. E tu és o que eu prometi.") contrasta com o registro nao-verbal e fragmentado do resto do sonho. A critica e valida — o sonho e construido em mergulhos sensoriais, e a fala final e o unico momento em que a comunicacao e LITERAL e DIDATICA.
+
+**Tensao com v3:** Na revisao v3, registrou-se como nota de desenvolvimento: "Voz da promessa como fio condutor — considerar variacoes dessa voz em momentos-chave da jornada de Alyndra." Isso IMPLICAVA manter a fala como motivo recorrente. A revisao v4 sugere o oposto: suprimir ou abstrair.
+
+**Cruzamento com lore:** LORE_ALYNDRA_PRIMORDIAL.md section 7 confirma que a essencia de Alyndra Primordial "flui pela semente atraves das geracoes" e que o "sopro da primordial ecoa atraves do sangue." A comunicacao pode ser nao-verbal (sopro, pulsar, ressonancia) sem perder a conexao com a essencia. O lore nao exige fala literal.
+
+**Avaliacao:** A sugestao do editor e forte. A fala direta enfraquece "Nao entendeu. Acreditou." — que e o fechamento perfeito. Se a promessa entregou uma mensagem clara e traduzivel, Ayla NAO "nao entendeu" — ela RECEBEU informacao. O poder da frase final reside na fé irracional sem compreensao. A fala literal contradiz esse poder.
+
+**Status:** DECISAO DO AUTOR. A correcao e estilisticamente recomendada, mas envolve reescrever o momento mais icônico do Prólogo. O editor oferece uma via media: manter a ultima frase ("Tu és o que eu prometi.") como INTERPRETACAO de Ayla, nao como citacao direta. Isso preservaria o misterio enquanto mantem a ressonancia.
+
+#### Ponto 1.3: Hierarquia da criacao — dez seres vs dois irmaos
+**Diagnostico:** O editor identifica que a passagem pode confundir o leitor sobre a relacao entre os dez seres elementais e os dois irmaos (Luz e Sombra).
+
+**Cruzamento com lore:** LORE_ALYNDRA_PRIMORDIAL.md e LORE_COSMOLOGIA_E_MAGIA.md estabelecem a sequencia canonica:
+1. Alyndra Primordial morre → Semente frutifica
+2. Ilyos e Nyxalor nascem da semente (os dois irmaos, centro da criacao)
+3. Ilyos ENVIA os 10 Seraphyens (5 pares) aos 5 reinos
+
+O Prologo INVERTE essa sequencia: a Arvore gera os 10 primeiro, depois os 2 irmaos.
+
+**Avaliacao:** O Prologo e um SONHO — nao um tratado cosmologico. A sequencia onirica nao precisa ser cronologicamente precisa. No entanto, o editor tem razao: a ausencia de PONTE NARRATIVA entre os dois atos de criacao deixa o leitor sem orientacao hierarquica. Uma micro-transicao (como a sugerida: "E quando os dez partiram, o coracao do jardim, que era a Arvore, pulsou uma ultima vez...") resolveria o problema sem sacrificar a logica onirica.
+
+**Status:** DECISAO DO AUTOR. A ponte narrativa e recomendada, mas o autor pode optar por manter a ambiguidade como deliberada (o sonho NAO explica — apenas mostra).
+
+#### Ponto 2.1: Definicao de aethra — "Luz Nua" vs "Aethra"
+**Diagnostico:** O editor identifica uma inconsistencia ontologica critica. O glossario do Prologo define aethra como "energia espiritual fundamental; manifestacao fisica da alma." Mas no texto:
+- "nuvens de aethra pura" (aethra como substancia ambiental/atmosferica)
+- "luz nua, crua, sem a camada de aethra que a vestia" (aethra como "roupa" ou filtro sobre a luz)
+
+Se aethra = alma, entao "luz sem aethra" = "luz sem alma". O que e essa luz? O glossario atual nao responde.
+
+**Cruzamento com lore:** LORE_COSMOLOGIA_E_MAGIA.md secao 4 define: "Manifestacao fisica da alma e a energia espiritual fundamental que flui da Arvore da Existencia." E compativel mas INSUFICIENTE para o que o texto sugere. A secao 8 menciona "Aethra Sintetico" como "estado de liquido hiperdenso" — o que apoia a leitura de aethra como substancia fisica, nao apenas espiritual.
+
+**Avaliacao:** O editor propoe um modelo de duas camadas:
+- **Luz Nua (Primordial):** Energia bruta da criacao/destruicao, incanalizavel e letal.
+- **Aethra:** A "roupa" ou "tecido" que a consciencia (alma) usa para interagir com a Luz Nua, filtrando-a e tornando-a utilizavel. Aethra seria a INTERFACE entre consciencia e energia primordial.
+
+Este modelo RESOLVE a inconsistencia e e compativel com todo o lore existente. Aethra flui da Arvore porque a Arvore e consciencia (section 2: "Arvore Primordial conecta os tres planos"). Aethra e "manifestacao fisica da alma" porque e literalmente a alma agindo como interface com a energia primordial. "Luz nua" e a energia SEM interface — perigosa, destrutiva, como descrito no Prologo.
+
+**Status:** CRITICO PARA O SISTEMA DE MAGIA. Registar no dossie de correcoes de lore. A definicao de aethra no LORE_COSMOLOGIA_E_MAGIA.md deve ser EXPANDIDA com a camada Luz Nua vs Aethra na proxima revisao do documento. O glossario do Prologo deve ser atualizado na revisao final do volume.
+
+#### Ponto 3.1: Ancoragem sensorial do sonho
+**Diagnostico:** O editor recomenda ancorar cada etapa do sonho a uma sensacao fisica de Ayla (cheiro, contracao ventral, gosto metalico). Isso transformaria o bloco mitologico numa vivencia visceral filtrada pela perspectiva de Ayla.
+
+**Cruzamento com trabalho em curso:** Este ponto conecta diretamente ao mapeamento de saturacao e ao modelo de "pre-ancoragem arquitetural" desenvolvido nas sessoes anteriores. O sonho do Prologo e exatamente o tipo de bloco onde a densidade semantica se acumula sem micro-respiros de ancoragem humana. A secao "Visao 3" (linhas 71-96) e a mais longa e mais densa — e a unica que ja possui um micro-respiro corporal (linha 79: "Ayla sentiu o ventre se mexer. Nao o bebe — algo mais fundo.").
+
+**Avaliacao:** A sugestao e alinhada com o modelo editorial ja validado. O Prologo sera mapeado na nova versao do mapa de saturacao (Prologo → Cap 10) com o modelo corrigido.
+
+**Status:** INTEGRADO AO MAPEAMENTO DE SATURACAO. Sera avaliado na redistribuicao estrutural.
+
+#### Ponto 3.2: Metafora do "fruto"
+**Diagnostico:** O editor nota que "fruto" e usado para tres coisas distintas: (a) o bebe de Ayla, (b) os dez guardioes da Arvore, (c) o sacrificio da mulher primordial ("fruto do meu sangue"). Pergunta: o bebe e a reencarnacao da promessa ou um novo fruto da linhagem?
+
+**Cruzamento com lore:** LORE_ALYNDRA_PRIMORDIAL.md secao 7 e explicito:
+- Alyndra (protagonista) e uma DESCENDENTE que carrega multiplas camadas de heranca (essencia primordial, sangue de Ilyos, sangue de Myrrhiel, chama de Elarys)
+- Ela NAO e uma reencarnacao de Alyndra Primordial
+- O nome "Alyndra" foi guiado pela essencia, mas a protagonista e um NOVO ser
+- A Semente e o mecanismo de transmissao; o fruto e o resultado potencial
+
+A arvore cosmogonica gera frutos → dos frutos nascem os Seraphyens. A Semente que Ayla carrega e diferente: e a PROMESSA fluindo pela linhagem, nao um fruto literal da mesma arvore. O bebe de Ayla e a CONVERGENCIA de todas as linhas de sangue — um "fruto" metaforico, nao literal.
+
+**Avaliacao:** A polissemia de "fruto" e deliberada e tematica (o Ciclo do Sacrificio — secao 13 de LORE_COSMOLOGIA_E_MAGIA.md). Cada "fruto" e um ato de amor supremo que sustenta a existencia. Unificar ou diferenciar conscientemente e uma opcao estilistica do autor. O lore ja diferencia: fruto-da-arvore (Seraphyens) vs fruto-do-sangue (promessa/herdeira).
+
+**Status:** REGISTRADO. O fio vermelho tematico e valido. O dossie de lore pode explicitar a polissemia como recurso consciente.
+
+#### Ponto 3.3: O poder do silencio final
+**Diagnostico:** Reforco do ponto 1.2. "Nao entendeu. Acreditou." e o fechamento perfeito. A fala direta da promessa enfraquece essa ressonancia.
+
+**Avaliacao:** Converge com a avaliacao do ponto 1.2. A fala direta cria uma contradicao interna: se Ayla RECEBEU uma mensagem clara, ela nao "nao entendeu". Suprimir ou abstrair a fala RESTAURA a coerencia entre o conteudo e o fechamento.
+
+**Status:** DECISAO DO AUTOR. Converge com ponto 1.2.
+
+### Resumo de acoes v4
+
+| Ponto | Tipo | Acao |
+|---|---|---|
+| 1.1 — "sabia" → "sentia" | Correcao direta | **APLICADA** |
+| 1.2 — Clareza da voz | Decisao do autor | Recomendada: abstrair. Via media: ultima frase como interpretacao de Ayla. |
+| 1.3 — Hierarquia da criacao | Decisao do autor | Recomendada: micro-transicao ponte. |
+| 2.1 — Aethra vs Luz Nua | Lore critico | Registar para dossie de lore e expansao de LORE_COSMOLOGIA_E_MAGIA.md. |
+| 3.1 — Ancoragem sensorial | Estrutural | Integrado ao mapeamento de saturacao. |
+| 3.2 — Metafora "fruto" | Tematico | Registrado. Polissemia e valida conforme lore. |
+| 3.3 — Silencio final | Converge com 1.2 | Depende da mesma decisao do autor. |
