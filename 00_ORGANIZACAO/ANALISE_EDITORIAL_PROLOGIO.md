@@ -273,3 +273,22 @@ A arvore cosmogonica gera frutos → dos frutos nascem os Seraphyens. A Semente 
 | 3.1 — Ancoragem sensorial | Estrutural | Integrado ao mapeamento de saturacao. |
 | 3.2 — Metafora "fruto" | Tematico | Registrado. Polissemia e valida conforme lore. |
 | 3.3 — Silencio final | Converge com 1.2 | Depende da mesma decisao do autor. |
+
+---
+
+## REENVIO V4 (Junho 2026) — Confirmacao de Alteracoes
+
+### Comparacao com versao anterior
+Editor realizou cotejamento palavra por palavra. Unica alteracao textual confirmada: "sabia" → "sentia" (Correcao 7).
+
+### Status atualizado dos pontos em aberto
+
+| Ponto | Status | Nota |
+|---|---|---|
+| 1.1 — "sabia" → "sentia" | ✅ CORRIGIDO | Validado pelo editor. |
+| 1.2 — Clareza da voz | ⚠️ Nao corrigido | Decisao do autor. Fala direta mantida. |
+| 1.3 — Hierarquia da criacao | ⚠️ Nao corrigido | Decisao do autor. Sem ponte narrativa. |
+| 2.1 — Aethra vs Luz Nua | ⚠️ Nao corrigido | Glossario inalterado. Distincao ontologica pendente para dossie de lore. |
+
+### Avaliacao do editor
+"O Prologo esta funcional e lirico. As arestas remanescentes sao riscos controlados." — A revisao cirurgica (uma correcao apenas) foi intencional. O autor avalia os pontos seletivamente. Os pontos em aberto ficam documentados para cruzamento futuro (Capitulo I, apendice de mitologia, materiais de referencia).
