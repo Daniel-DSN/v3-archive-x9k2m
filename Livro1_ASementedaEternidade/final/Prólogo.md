@@ -74,7 +74,7 @@ No coração ardente onde a Semente fora selada, uma árvore nasceu — não de 
 
 De um fruto dessa árvore, dez seres emergiram. Cinco da luz. Cinco da sombra. Cada par em torno de algo elementar — fogo, água, terra, vento, relâmpago. Um deles ajoelhou-se diante de um rio de *aethra* líquido e, com as mãos, abriu caminhos onde antes só havia pedra. Caminharam entre mortais. Ensinar, construir, curar, nomear. Recusaram ser deuses. Dissiparam-se um a um, como quem espalha sementes e não fica para ver crescer.
 
-E da árvore, algo mais. A árvore — que já não era só árvore, mas a consciência que guardava o jardim — deu tudo o que restava. E desse sacrifício nasceram dois. Uma de luz. Um de sombra. Irmãos.
+E quando o último dos dez se dissipou, da árvore restou algo mais profundo. A árvore — que já não era só árvore, mas a consciência que guardava o jardim — pulsou uma última vez e deu tudo o que restava. E desse sacrifício nasceram dois. Uma de luz. Um de sombra. Irmãos.
 
 Ayla sentiu o ventre se mexer. Não o bebê — algo mais fundo. Como se o sonho não estivesse acontecendo nos olhos mas no *sangue*.
 
@@ -112,9 +112,9 @@ Um peso antigo repousava sob as palmas — não no ventre, mas além. A criança
 
 E por um instante — um único instante, no limiar entre o sonho e a vigília — uma voz atravessou os éons e chegou até ela. Não com som. Com *aethra*. Com a mesma frequência que pulsava sob as mãos da mulher antiga na esfera dourada.
 
-Não era a voz da mulher. Era a *promessa* da mulher. E dizia:
+Não era a voz da mulher. Era a *promessa* da mulher. E não dizia nada que coubesse em palavras — apenas um pulsar de *aethra*, quente e antigo, que no seu silêncio significava algo que Ayla não conseguiria traduzir. Mas que, se coubesse em palavras, soaria a:
 
-*Coragem. Eu estou em tudo o que constrói. E tu és o que eu prometi.*
+*Tu és o que eu prometi.*
 
 Ayla ficou parada na *nyxara* escura. As mãos no ventre. O coração ainda disparado. As lágrimas — que não sabia que estava a chorar — escorrendo pelo rosto e caindo na barriga, e a barriga brilhando por um instante com uma luz que não era deste mundo.
 
@@ -134,4 +134,4 @@ Acreditou.
 
 ² **Kalúdris** — Ordem de guerreiros de elite de Sanctrum. Ayla serviu nesta ordem antes de fugir.
 
-³ **aethra** — Energia espiritual fundamental; manifestação física da alma. Pode ser canalizada por seres com afinidade elemental.
+³ **aethra** — Energia espiritual fundamental; manifestação física da alma. A camada que a consciência veste sobre a energia primordial bruta — sem aethra, a luz é nua, crua e letal. Pode ser canalizada por seres com afinidade elemental.

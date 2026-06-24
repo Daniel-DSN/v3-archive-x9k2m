@@ -292,3 +292,54 @@ Editor realizou cotejamento palavra por palavra. Unica alteracao textual confirm
 
 ### Avaliacao do editor
 "O Prologo esta funcional e lirico. As arestas remanescentes sao riscos controlados." — A revisao cirurgica (uma correcao apenas) foi intencional. O autor avalia os pontos seletivamente. Os pontos em aberto ficam documentados para cruzamento futuro (Capitulo I, apendice de mitologia, materiais de referencia).
+
+---
+
+## REVISAO V4.1 (Junho 2026) — Resolucao dos Pontos em Aberto
+
+### Correcao 8: Clareza da voz da promessa (Ponto 1.2)
+**Problema:** "E dizia: *Coragem. Eu estou em tudo o que constrói. E tu és o que eu prometi.*" — fala literal e didatica que contrasta com o registro nao-verbal do sonho e contradiz "Nao entendeu. Acreditou." Se Ayla recebeu uma mensagem clara, ela nao "nao entendeu".
+
+**Solucao aplicada (via media):** A comunicacao foi tornada abstrata e nao-verbal. A fala direta ("Coragem. Eu estou em tudo o que constrói.") foi removida. A ultima frase ("Tu és o que eu prometi.") foi mantida, mas enquadrada como INTERPRETACAO de Ayla, nao como citacao direta da promessa.
+
+**Antes:**
+> Não era a voz da mulher. Era a *promessa* da mulher. E dizia:
+>
+> *Coragem. Eu estou em tudo o que constrói. E tu és o que eu prometi.*
+
+**Depois:**
+> Não era a voz da mulher. Era a *promessa* da mulher. E não dizia nada que coubesse em palavras — apenas um pulsar de *aethra*, quente e antigo, que no seu silêncio significava algo que Ayla não conseguiria traduzir. Mas que, se coubesse em palavras, soaria a:
+>
+> *Tu és o que eu prometi.*
+
+**Justificativa:** A promessa comunica por *aethra* (estabelecido na linha anterior: "Nao com som. Com aethra."). O pulsar e nao-verbal, e Ayla nao consegue traduzi-lo — o que RESTAURA a coerencia com "Nao entendeu. Acreditou." A frase final permanece como ressonancia, nao como transcricao. O poder do silencio final esta intacto.
+
+### Correcao 9: Hierarquia da criacao — ponte narrativa (Ponto 1.3)
+**Problema:** Os dez seres elementais e os dois irmaos sao criados em atos consecutivos sem transicao, deixando o leitor sem orientacao sobre a relacao hierarquica e cronologica entre os dois grupos.
+
+**Solucao aplicada:** Inserida micro-transicao temporal que separa os dois eventos de criacao e sinaliza que os dois irmaos sao algo MAIS PROFUNDO que os dez.
+
+**Antes:**
+> Dissiparam-se um a um, como quem espalha sementes e não fica para ver crescer.
+>
+> E da árvore, algo mais. A árvore — que já não era só árvore, mas a consciência que guardava o jardim — deu tudo o que restava.
+
+**Depois:**
+> Dissiparam-se um a um, como quem espalha sementes e não fica para ver crescer.
+>
+> E quando o último dos dez se dissipou, da árvore restou algo mais profundo. A árvore — que já não era só árvore, mas a consciência que guardava o jardim — pulsou uma última vez e deu tudo o que restava.
+
+**Justificativa:** "Quando o ultimo dos dez se dissipou" establece sequencia temporal (dez primeiro, dois depois). "Da arvore restou algo mais profundo" substitui o vago "E da arvore, algo mais" com especificidade hierarquica — o que resta e MAIS PROFUNDO, implicando uma camada ontologica diferente. "Pulsou uma ultima vez" adiciona ritmo e sugere um ato final distinto.
+
+### Correcao 10: Definicao de aethra no glossario (Ponto 2.1)
+**Problema:** O glossario definia aethra apenas como "energia espiritual fundamental; manifestacao fisica da alma." Mas o texto usa aethra como "camada que veste a luz" (linha 49), o que sugere uma funcao de INTERFACE com a energia primordial bruta. A definicao era insuficiente para resolver a ontologia implicita do texto.
+
+**Solucao aplicada:** Expandida a definicao do glossario com a camada Luz Nua vs Aethra.
+
+**Antes:**
+> ³ **aethra** — Energia espiritual fundamental; manifestação física da alma. Pode ser canalizada por seres com afinidade elemental.
+
+**Depois:**
+> ³ **aethra** — Energia espiritual fundamental; manifestação física da alma. A camada que a consciência veste sobre a energia primordial bruta — sem aethra, a luz é nua, crua e letal. Pode ser canalizada por seres com afinidade elemental.
+
+**Justificativa:** A nova clausula ("A camada que a consciencia veste sobre a energia primordial bruta") resolve a inconsistencia ontologica: aethra e a INTERFACE entre consciencia e energia bruta. "Sem aethra, a luz e nua, crua e letal" ecoa diretamente a passagem do texto ("luz nua — crua, sem a camada de aethra que a vestia") e explica ao leitor POR QUE a luz nua e destrutiva. A definicao mantem compatibilidade total com LORE_COSMOLOGIA_E_MAGIA.md (aethra como manifestacao da alma + a alma como interface).
