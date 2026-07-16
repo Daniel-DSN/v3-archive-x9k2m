@@ -6,464 +6,454 @@
 
 # CAPÍTULO VII
 
-# O Horizonte de Sal e Cristal
+# O Presente das Estrelas
 
 ---
 
-*"A tecnologia é um espelho que reflete apenas o que conhecemos, mas o instinto é um mapa gravado no sangue. Quando o reino tenta se reconstruir sobre as cinzas do passado, a luz dos cristais de aethra ilumina o caminho, mas as sombras que eles projetam são as mais longas e perigosas."*
+*"As promessas são como sementes: plantadas no escuro, elas esperam com uma paciência que desafia o tempo inteiro. E quando finalmente germinam — mesmo que o inverno tenha durado mais do que qualquer um poderia suportar —, o que nasce é sempre mais forte do que o que foi plantado."*
 
 ---
 
-**I. Os *veleiros de estrada*¹**
 
-Quando os últimos flocos de neve se desfaziam nas colinas mais altas e os caminhos entre as cidades de *Sylvaris* se tornavam transitáveis novamente, chegava o *ciclo de viagem*² — a maior tradição do *Orfanato Luminis*: uma expedição anual que levava grupos de crianças a conhecer o mundo além dos muros da cidadela. Para muitos daqueles pequenos, era a primeira vez que pisavam em solo que não fosse o pátio de refeições ou o corredor do dormitório. Para outros, uma oportunidade de ver com os próprios olhos os lugares que até então existiam apenas nas páginas empoeiradas dos livros da biblioteca e nas histórias que a Senhora Lyrna contava ao cair da nyxara.
+**I. A Promessa de Primavera**
 
-*Alyndra* estava entre os que nunca haviam saído.
+O inverno cedeu. Os campos de aethrys em torno da Cidadela Luminis exibiram os primeiros brotos verdes entre a neve derretida, e a aeriva nas paredes internas começou a lançar folhas novas. Lyris contava os dias — trinta e dois desde a promessa feita a Alyndra, trinta e dois de estradas intransitáveis. Mas o inverno estava acabando, e Lyris era mulher de cumprir promessas.
 
-Aos cinco valens — cinco valens completos agora, marcados pelo aniversário que trouxera o cristal de *Sanctrum* e o fulgor que ainda latejava sob sua pele como um segundo coração —, ela havia passado toda a sua vida dentro de um raio que não ultrapassava algumas dezenas de passos. *Mespiria*, primeiro. O Bosque dos Sussurros, em um dia que preferia não lembrar. E o Orfanato Luminis, que se tornara seu universo inteiro. Agora, pela primeira vez, ela ia ver o que existia além das colinas.
+O escritório de Thar Elara ficava no pavimento superior do prédio principal. Lyris bateu à porta três vezes.
 
-A esplanada de partida fervilhava como um enxame iluminado de *sylari*. Centenas de crianças se aglomeravam em grupos organizados por idade e por alas, carregando pequenas sacolas de viagem que continham o essencial — roupas de troca, um cobertor enrolado, algum lanche que a cozinha havia preparado com carinho. As vozes se misturavam em um coro de excitação e nervosismo, intercaladas pelos chamados dos monitores mais velhos que tentavam — com sucesso variável — manter algo que se parecesse com ordem. O ar cheirava a couro, a veluma, ao perfume adocicado das *aerélias*³ que floresciam nos canteiros da esplanada, e a algo mais indefinível — a centelha da antecipação, o cheiro que a esperança teria se pudesse ser enlatado.
+— Entre — a voz veio firme, como sempre.
 
-E no centro daquela efervescência, imponente e calma como uma rocha no meio de um rio, *Thar Elara* observava tudo.
+Lyris abriu a porta. Thar Elara estava sentada atrás da escrivaninha, os óculos de leitura no nariz fino, uma caneta na mão.
 
-A diretora do Orfanato Luminis estava de pé na varanda do prédio principal, as mãos cruzadas nas costas, os olhos escuros percorrendo a esplanada com a precisão de um general inspecionando suas tropas antes da batalha. Seu rosto severo não traía emoção — mas *Lyris*, que estava de pé ao lado da diretora, conhecia aquele olhar bem o suficiente para ler o que havia por trás dele. Thar Elara estava contando. Contando crianças, contando grupos, contando os veleiros de estrada que se alinhavam na estrada de terra além do portão principal como gigantes adormecidos esperando para serem despertados. Cada criança verificada era uma responsabilidade assumida; cada grupo formado era uma promessa de que todos retornariam inteiros.
+— Thar Elara — Lyris disse, fechando a porta atrás de si. — As estradas para Mespiria abriram. A neve derreteu. Vim informar que é hora de cumprir o que conversamos no inverno.
 
-— Quarenta e dois grupos este valen — Thar Elara disse, sua voz baixa o bastante para que apenas Lyris ouvisse. — Duzentas e trinta e uma crianças. É o maior contingente que já enviamos.
+Elara ergueu os olhos do pergaminho e estudou Lyris por um longo momento — aquele tipo de olhar que Lyris reconhecia, porque o usara incontáveis vezes em sua vida como agente.
 
-— As estradas estão seguras — Lyris respondeu, embora soubesse que a segurança das estradas era apenas uma parte da equação. — Os *Aga Uru* reforçaram as patrulhas ao longo da rota. Os *timoneiros de vento*⁴ foram avaliados individualmente.
+— Sente-se, Lyris.
 
-— A segurança das estradas não é o que me preocupa — Thar Elara disse, e seus olhos encontraram os de Lyris por um instante — um instante que carregava o peso de conversas que já haviam tido em particular, de preocupações que não podiam ser ditas em voz alta na frente das crianças. — É o que pode estar nas estradas que me preocupa.
+Lyris obedeceu, colocando-se na cadeira diante da escrivaninha com a postura ereta de quem está acostumada a ser avaliada.
 
-Lyris não respondeu. Não precisava.
+— Então é hoje — Thar Elara disse, e não era uma pergunta. — A Nyx.
 
-Os veleiros de estrada alinhavam-se na estrada além do portão: construções de madeira leve entrelaçada com latão polido, formatos que lembravam vagões de navio, janelas arqueadas e, sob o piso, o pulsar azulado de cristais *aetheris* — a propulsão que os mantinha suspensos sobre os *trilhos de vento*⁵.
+— A Nyx — Lyris confirmou. — E tudo que Alyndra tenha deixado na casa de Melessa Solynthr. Roupas, lembranças — coisas que pertencem a ela e que podem ajudar no processo de luto.
 
-Cada veleiro tinha um timoneiro — um condutor treinado para sintonizar os cristais com as correntes atmosféricas. Homens e mulheres respeitados em Sylvaris, que guiavam suas máquinas com a quietude concentrada de quem transporta vidas.
+— Eu me lembro do que conversamos. Me lembro de cada palavra. E me lembro de ter dito que providenciaria velrok, provisões e um guia para as montanhas. Isso ainda vale. Mas desde aquela nyxara, observar essa criança tentar dormir sem o lyrien ao seu lado me fez repensar algumas coisas.
 
-Alyndra parou no topo dos degraus, Nyx aninhada contra seu peito sob a capa azul.
+— O que a senhora repensou?
 
-— *Mira* — ela sussurrou, puxando a manga da amiga ao seu lado. — Eles... eles voam?
+— Que uma jornada assim, com uma criança de quatro valens que ainda se recupera de um trauma, exige mais do que boa vontade. Exige escolta. Exige condições. E exige que eu confie em quem está levando minha criança para fora destes muros.
 
-Mira, que já havia feito o ciclo de viagem duas vezes e que portanto carregava a aura experiente de quem podia responder a qualquer pergunta que uma criança de cinco valens pudesse fazer, sorriu com a condescendência gentil de quem já conhecia aquele espanto.
+Lyris não se ofendeu com o "minha criança" — sabia que, para Thar Elara, toda criança que cruzava aqueles portões se tornava, por definição, sua.
 
-— Voam — ela confirmou. — Mas não como os mushen gir. Eles flutuam nos trilhos de vento, como pedras deslizando sobre um rio que você não consegue ver. É muito suave. Você nem sente que está se movendo, a não ser pelo vento no rosto.
+— As estradas estão seguras. Os caminhos entre Velantis e Mespiria são utilizados regularmente por mercadores e viajantes.
 
-— E se o vento parar?
+— Risco mínimo não é risco zero.
 
-— O vento de Sylvaris nunca para inteiramente — Mira disse, e havia algo na sua voz — uma fé infantil, inabalável — que fez Alyndra sentir que estava seguro. — E mesmo que parasse, os cristais têm energia suficiente para nos levar até o próximo ponto de parada. Os timoneiros sabem o que fazem.
+— Nada na vida é risco zero, Thar Elara.
 
-Alyndra olhou para Nyx, que observava os veleiros com as orelhas grandes erguidas, girando na direção de cada novo som — o zumbido dos cristais, o rangido da madeira, as vozes das crianças que já começavam a embarcar. O *lyrien* parecia nervosa, mas não com medo — com aquela curiosidade alerta que a fazia captar os sussurros do mundo e processá-los de formas que Alyndra, mesmo com o vínculo profundo que compartilhavam, nem sempre compreendia.
+O olhar que Elara dirigiu a Lyris era o tipo que fazia crianças pequenas engolirem em seco e guerreiros experientes repensarem suas palavras. Mas Lyris não era uma criança, e embora não fosse mais uma guerreira no sentido estrito, havia enfrentado olhares muito mais ameaçadores do que o de uma diretora de orfanato.
 
-— Vai ficar bem — Alyndra sussurrou para ela, acariciando a pelagem prateada entre as orelhas. — Eu estou aqui.
+O silêncio se estendeu. Elara se levantou e caminhou até a janela, olhando para o pátio onde crianças brincavam sob a luz dourada de Aurion.
 
-Nyx chiou baixinho e se aninhou mais fundo contra o peito dela, como se aquela afirmação fosse tudo de que precisava.
+— Quanto tempo? — perguntou sem se virar.
 
-*O mundo é tão grande*, Alyndra pensou, observando a esplanada, os veleiros, as centenas de crianças em movimento, as colinas de aethrys que se estendiam até o horizonte. *Eu pensei que o orfanato fosse o mundo inteiro. Mas é só... uma pequena parte.*
+— Partimos ao aebril, chegamos a Mespiria no fim da manhã, passamos algumas horas na vila, e regressamos à tarde. De volta antes do início da nyxara.
 
----
+— Escolta?
 
-**II. O Grupo dos Quarenta**
+— Solicitei ao *Nin Aga Soren*¹ uma Nu Bandi e dois Aga Uru para escolta.
 
-O veleiro designado ao grupo de Alyndra era o número dezessete — um dos maiores da frota, com capacidade para quarenta passageiros mais o timoneiro e dois assistentes. Era também um dos mais antigos, com marcas de viagens anteriores gravadas na madeira do casco como cicatrizes que contavam histórias, e cheirava a uma mistura de cera de latão, veluma armazenada e algo que Alyndra só conseguiu identificar como "aventura" — um cheiro composto de todos os lugares por onde aquele veículo já havia passado, todas as paisagens que já havia cruzado, todos os ventos que já havia cortado.
+Elara se virou finalmente, e em seus olhos havia algo que Lyris identificou como rendição — não derrota, mas a aceitação de que a pessoa à sua frente havia construído um argumento sólido.
 
-Alyndra embarcou com Nyx escondido sob a capa azul — uma manobra que já havia sido combinada com Lyris e com a monitora do grupo, porque lyriens, embora fossem companheiros leais e inofensivos, tecnicamente não eram permitidos nas expedições do ciclo de viagem. A regra existia por razões práticas — animais podiam se assustar, se perder, criar confusão em grupos grandes de crianças —, mas Lyris havia argumentado, com a lógica implacável que a caracterizava, que separar Alyndra de Nyx após tudo o que a criança havia passado seria não apenas desnecessário, mas potencialmente prejudicial. Thar Elara havia cedido com um olhar que dizia: *desta vez. Só desta vez.*
+— Eu vou permitir. Mas com exigências. Primeira: a escolta é inegociável. Se os Aga Uru avaliarem que as estradas não são seguras, vocês voltam imediatamente. Segunda: Alyndra retorna antes que Lyria se levante no céu noturno. Terceira: a senhora assume toda a responsabilidade pela segurança da criança durante a jornada. Qualquer problema, qualquer atraso, qualquer incidente — a responsabilidade é sua.
 
-Mira embarcou logo atrás, arrastando sua sacola de viagem — consideravelmente maior do que a de Alyndra — com o entusiasmo de quem vai a um festival. Aos dez valens, com seus cabelos cacheados cor de ébano e olhos verdes que brilhavam de antecipação, Mira era a criança mais experiente do grupo em termos de viagens, e portanto uma espécie de guia informal para os menores. Ela já havia visto *Thalendris*⁶, já havia provado peixe salgado dos cais, já havia ouvido as histórias dos pescadores que falavam de monstros marinhos nas profundezas do Mar de Lyria. E estava determinada a que Alyndra visse tudo com os mesmos olhos de maravilha que ela havia tido na primeira vez.
+— Compreendido — Lyris disse, e em sua voz havia algo que era quase gratidão.
 
-— Senta aqui — Mira disse, puxando Alyndra para um banco perto da janela lateral do veleiro. — Daqui você vê tudo. Os campos, as colinas, os rios. E quando a gente chegar perto do mar, você vai ver as falésias brancas. São gigantescas, Alyndra. Tão altas quanto as torres do orfanato, mas feitas de pedra e sal e luz.
+— E Lyris — Elara acrescentou, e agora sua voz era mais suave. — Cuide dela. Essa criança perdeu demais em muito pouco tempo. Eu não quero que ela perca mais nada.
 
-*Torvin Thalassor*⁷, um menino de oito valens com olhos castanhos como terracota e um sorriso fácil que desarmava até os mais sisudos, já estava sentado no banco do outro lado do corredor, o nariz colado na janela como se quisesse absorver o mundo inteiro pela visão. Ele era o tipo de criança que fazia perguntas sem parar — não as perguntas irritantes que exauriam a paciência dos adultos, mas perguntas genuínas, curiosas, que revelavam uma mente que processava o mundo com uma fome que nunca era saciada.
+— Eu sei. É por isso que estou fazendo isso.
 
-— Alyndra — ele chamou sem tirar o nariz da janela. — Você sabe como os cristais fazem o veleiro flutuar?
+Foi quando ouviu o som. Um leve arranhão na porta, quase imperceptível, do tipo que só ouvidos treinados — ou ouvidos de crianças tentando espionar — podiam detectar. Lyris se virou e abriu a porta.
 
-— Não — Alyndra admitiu, sentando-se ao lado de Mira e acomodando Nyx no colo. A capa azul cobria o lyrien como uma tenda pequena, e de vez em quando um focinho prateado ou uma orelha grande emergia para investigar algum som novo antes de se recolher novamente.
+Alyndra estava ali, de pé no corredor, os olhos arregalados, as mãos tremendo contra a barra de sua blusa de veluma azul. Seus olhos castanhos iam de Lyris para Elara e de volta, e neles havia algo que fez o coração de Lyris se apertar — uma esperança tão grande, tão delicada, que parecia que qualquer palavra errada poderia quebrá-la em mil pedaços.
 
-— Os cristais pulsam — Torvin disse, finalmente descolando o nariz da janela para virar-se para elas com a expressão de alguém prestes a compartilhar um segredo monumental. — Eles pulsam em uma frequência que combina com o vento. O timoneiro ajusta a frequência, e o vento empurra o veleiro para cima e para frente, como se fosse uma onda invisível. Eu perguntei para o timoneiro do nosso veleiro no valen passado, e ele explicou tudo. Ele até me deixou tocar no console.
+— Você ouviu — Lyris disse, e não era uma pergunta.
 
-— Você não tocou no console — Mira corrigiu, mas sem maldade. — Você encostou o dedo quando ele não estava olhando.
+Alyndra assentiu, os lábios tremendo.
 
-— É quase a mesma coisa — Torvin defendeu, e o sorriso que abriu em seu rosto era o sorriso de uma criança para quem o mundo era, ainda, um lugar de possibilidades infinitas e maravilhas por descobrir.
+— Nós... vamos mesmo buscar a Nyx?
 
-Foi quando a porta do veleiro se abriu novamente e *Kira Dravenis*⁸ entrou.
+Lyris se ajoelhou para ficar na altura da criança, como fazia sempre que precisava que suas palavras carregassem o peso adequado.
 
-Kira tinha quinze valens — uma idade que, no contexto do Orfanato Luminis, era quase adulta. Alta, de cabelos ruivos que caíam em ondas sobre os ombros como fogo líquido e olhos âmbar que guardavam a lembrança de algo que ardera antes de se apagar. Seus traços angulares sugeriam uma herança de *Pyralis* — a terra do fogo, onde seus pais haviam vivido antes de morrer no colapso de uma estrutura que eles mesmos haviam projetado.
+— Nós vamos mesmo buscar a Nyx. No próximo dia, ao aebril. Eu prometi, e eu vou cumprir.
 
-Kira era a monitora júnior do grupo. Não porque tivesse poder — essa era a questão, o centro da ferida que ela carregava como algo permanente sob a superfície de sua postura controlada e eficiente. Kira era *sylentis*⁹. Aos quinze valens, a ausência de manifestação não era mais uma espera. Era uma sentença. Ela deveria estar em uma academia elemental aos doze. Deveria estar servindo ao reino como cultivadora ou, pelo menos, trilhando uma carreira que refletisse seu valor. Mas o brilho nunca veio. A manifestação nunca aconteceu. E em vez de uma academia, Kira estava ali — quinze valens, monitora de um grupo de crianças em um veleiro de estrada, encontrando propósito na única coisa que o mundo lhe permitia: proteger os menores.
+Alyndra soltou o ar que estava segurando — um suspiro longo e tremido que carregava nyras de ansiedade — e então, sem aviso, se lançou para frente e abraçou Lyris com uma força que surpreendeu a ex-agente. Os braços pequenos se apertaram ao redor de seu pescoço, o rosto quente de Alyndra se enterrou contra seu ombro, e Lyris sentiu algo úmido tocar sua pele — lágrimas silenciosas, lágrimas de alívio.
 
-— Todos sentados — Kira anunciou, sua voz firme mas não hostil, percorrendo o interior do veleiro com os olhos de quem está contando cabeças e verificando posições. — Os mais novos ficam perto das janelas. Ninguém sai do assento enquanto o veleiro estiver em movimento. E se alguém sentir enjoo, usa o saco que está sob o banco — não vomita no chão, porque eu que limpo, e eu não estou com humor para limpar vômito de quarenta crianças.
+— Obrigada — Alyndra sussurrou. — Obrigada, obrigada, obrigada.
 
-Houve risadas nervosas, o tipo que Kira pretendia provocar. Ela tinha esse dom — a capacidade de impor ordem sem parecer tirânica, de ganhar a obediência das crianças através de humor áspero em vez de autoridade rígida. Era uma habilidade que havia aperfeiçoado nos valens em que foi a criança mais velha do orfanato sem perspectiva de partida, aprendendo que a melhor maneira de lidar com a solidão era se tornar indispensável.
+Lyris envolveu a criança com seus braços e, por cima da cabeça loira de Alyndra, trocou um olhar com Thar Elara. A diretora permaneceu imóvel, seu rosto severo e inabalável, mas algo em seus olhos sugeria que, sob todas as regras e protocolos, havia ali um coração que ainda sabia reconhecer quando uma criança precisava de algo que nenhuma regra podia proporcionar.
 
-Os olhos de Kira encontraram Alyndra por um instante — e naquele instante, havia algo complexo na expressão da monitora. Uma consciência de quem Alyndra era e do que ela carregava, misturada com algo que poderia ser proteção ou poderia ser cautela. Kira sabia sobre o fulgor. Sabia sobre os cristais de gelo que se formavam nas mãos da menina. Sabia que Alyndra era especial — diferente — e que essa diferença era exatamente o que a própria Kira nunca teria.
+— No próximo dia ao aebril, Alyndra — Thar Elara disse, a voz firme mas não fria. — Mas agora vá dormir. Você vai precisar de energia para a viagem.
 
-*Brilho*, Kira pensou, afastando o olhar. *Tudo no mundo depende dessa maldita palavra. Brilho para entrar na academia. Brilho para ser respeitado. Brilho para ter um futuro. E eu não tenho nenhum.*
-
-Mas ela engoliu aquela amargura como engolia todas as outras — com a disciplina silenciosa de quem aprendeu que lamentar-se em voz alta não muda nada, apenas afasta as pessoas.
-
-No fundo do veleiro, afastado dos demais, *Dravyn*¹⁰ Kelvathis estava sentado sozinho.
-
-Aos doze valens, Dravyn era o que os adultos chamavam educadamente de "desafiador" e o que as crianças chamavam, com menos eufemismo, de "o menino que ninguém quer perturbar". Ele era magro, com cabelos escuros cortados rente e olhos escuros que pareciam absorver a luz em vez de refleti-la — olhos que observavam tudo e revelavam nada. Seus braços, visíveis sob a manga curta de sua túnica, exibiam cicatrizes que ele não se incomodava em esconder, marcas de brigas que haviam acontecido nos corredores e no pátio e, segundo os rumores, também fora dos muros do orfanato.
-
-Dravyn, porém, carregava uma sina diferente dos demais sylentis. Era um Despertado de Sombra — registrado com a Coroa Sombria no RPA, estigmatizado como "Filho do Traidor" antes mesmo de completar cinco valens. Diferente de Kira, que havia transformado sua condição de sylentis em uma armadura de serviço e proteção, Dravyn havia transformado sua marca maldita em uma armadura de raiva. Ele observava os Aga Uru que escoltavam os veleiros com um olhar que não era admiração — era algo mais frio, mais calculado, como se estivesse estudando cada movimento, cada postura, cada ponto fraco na armadura prateada dos guerreiros. Seus punhos estavam cerrados sobre os joelhos, e seu maxilar estava tão tenso que os músculos se desenhavam sob a pele como cordas de instrumento.
-
-*Seu pai foi mercenário de *Terraxis**, Dravyn pensou, observando um Aga Uru montar guarda na plataforma de embarque. *Morreu em uma briga de estalagem, sem honra, sem glória, sem nada que pudesse ser contado como uma morte digna. Mãe foi embora antes de eu completar três valens. E agora eu estou aqui, em um veleiro cheio de crianças que brilham e que vão para academias e que têm futuros, e eu sou o que? Um sylentis. Um adormecido. Alguém que o mundo esqueceu de ligar.*
-
-Ele olhou para a janela e viu, além do campo de aethrys que se estendia até o horizonte, as silhuetas dos Aga Uru nas plataformas — guerreiros que representavam tudo o que ele jamais poderia ser.
-
-E apertou os punhos com mais força. Mas mesmo enquanto a raiva o consumia, algo se movia nas bordas de sua mente — fragmentos de imagens que surgiam nos momentos de silêncio, como brasas que se recusavam a apagar. Ele as ignorava, como ignorava tudo o que não podia explicar.
+Alyndra se afastou de Lyris e assentiu, enxugando os olhos com as costas da mão. Depois, com um último olhar para ambas — um olhar que carregava mais gratidão do que palavras poderiam expressar — correu pelo corredor em direção ao dormitório, seus passos pequenos ecoando na pedra como batidas de um coração que finalmente encontrava um ritmo de esperança.
 
 ---
 
-**III. Crônicas de Cinzas e Vento**
+**II. O Retorno a Mespiria**
 
-A segunda nyxara da viagem encontrou o grupo de quarenta acampado nos escarpamentos ocidentais de Sylvaris, onde as colinas se elevavam em formações de pedra cinzenta que pareciam, sob a luz das três luas, os espinhos de um gigante adormecido. O veleiro havia sido ancorado em uma plataforma de descanso — uma das muitas que existiam ao longo dos trilhos de vento, construídas em pontos estratégicos para que as carruagens pudessem recarregar seus cristais e os passageiros pudessem esticar as pernas.
+Aurion surgiu no horizonte oriental como uma ferida dourada no tecido do céu, pintando as nuvens matinais com tons de laranja e âmbar que se refletiam nas armaduras prateadas dos dois Aga Uru que flanqueavam Lyris e Alyndra no portão principal da Cidadela Luminis. À frente do grupo ia o líder da Nu Bandi designado por Nin Aga Soren — um homem de meia-idade chamado *Torvas*², cuja experiência em patrulhas pela região de Velantis era inquestionável.
 
-Lanternas de cristal grandes o bastante para iluminar uma praça inteira haviam sido acesas ao redor do acampamento, suas chamas de luz amarela e azul criando um círculo de calor e claridade no meio da escuridão das colinas. As crianças se aglomeravam ao redor das lanternas em grupos menores, alguns sentados no chão com cobertores enrolados nos ombros, outros de pé, conversando em murmurinhos que o vento carregava e misturava como uma sinfonia de vozes jovens.
+Alyndra caminhava entre Lyris e o Aga Uru mais jovem, suas pernas curtas trabalhando para acompanhar o ritmo dos adultos. Vestia roupas de viagem que Thalia havia providenciado — botas de couro reforçado, calças de giran resistente, uma capa leve de veluma azul. Seus olhos não paravam — vasculhavam cada detalhe do caminho, cada árvore, cada pedra, como se o mundo tivesse se tornado novo durante os nyras em que estivera trancada dentro dos muros do orfanato.
 
-Kira caminhava entre os grupos com a atenção de quem está fazendo uma contagem mental, verificando cada criança, cada rosto, cada nome. Mas havia algo em seus passos — uma desaceleração quase imperceptível quando ela passava perto de Dravyn, sentado sozinho contra uma pedra nas bordas do acampamento, os olhos escuros fixos nas chamas das lanternas como se estivesse olhando para algo que só ele podia ver.
+O caminho para Mespiria se estendia através das colinas de Sylvaris. Os campos de aethrys que margeavam a estrada exibiam os primeiros brotos verdes. Ao longe, as copas dos argentis tremulavam com uma folhagem nova de um prateado tão vivo que parecia feito de pura luz, suas folhas chiando suavemente ao vento. O ar trazia o perfume de terra úmida, de brotos abrindo, de algo novo nascendo — e Alyndra respirou fundo, sentindo aquele cheiro preencher seus pulmões como água fresca preenchendo um copo vazio.
 
-— Trinta e sete, trinta e oito, trinta e nove — Kira murmurava para si mesma, os lábios se movendo sem emitir som. — Onde está...
+— Alyndra — Lyris disse suavemente. — Você está bem?
 
-— Quarenta — Mira disse, aparecendo ao lado de Kira com Alyndra a reboque — a menina menor segurando Nyx sob a capa como um tesouro vivo. — Todos presentes. Eu contei.
+— Estou — Alyndra respondeu, e sua voz carregava algo que Lyris não ouvia nela desde que haviam deixado Mespiria nyras atrás — leveza. — É tão bonito. Eu esqueci como era bonito.
 
-Kira olhou para Mira com uma sobrancelha erguida.
+Ela reconhecia o caminho. A grande pedra cinzenta que parecia uma cabeça de gigante ao lado da estrada, onde Melessa costumava parar para descansar. O bosque de argentis onde os sylari se reuniam ao entardecer. O riacho que atravessava a estrada por uma ponte de madeira, suas águas correndo mais rápido agora com o degelo.
 
-— Eu não pedi para você contar.
+Cada marco era um lembrete. Cada lembrança era uma facada suave — não dolorosa o bastante para sangrar, mas dolorosa o bastante para que Alyndra sentisse o peso de quem havia partido e o vazio de quem havia ficado para trás.
 
-— Eu sei. Mas você estava contando, e eu sou boa em matemática. Então eu poupei seu tempo.
+Ao fim da manhã, quando Aurion já estava alto no céu, os telhados de Mespiria surgiram no horizonte.
 
-Houve um momento em que Kira pareceu que ia repreender Mira — ou talvez agradecer, mas sem saber como fazê-lo sem parecer vulnerável. O momento passou, e ela apenas assentiu, virando-se para continuar sua patrulha.
+A vila que Alyndra havia chamado de lar durante toda a sua vida era menor do que ela lembrava. A pracinha central, onde no verão as crianças brincavam e os velhos conversavam sob a sombra dos argentis, estava vazia. O poço comunitário parecia um olho fechado.
 
-Mas Alyndra já não estava olhando para Kira. Seus olhos estavam fixos nas lanternas de cristal e nas crianças que se aglomeravam ao redor delas, e em particular em um grupo que se formara perto da maior das lanternas, onde alguns dos mais velhos — entre oito e doze valens — começavam a contar histórias.
+— É menor — Alyndra disse, e sua voz era pequena, como se falasse para si mesma.
 
-— Vem — Mira disse, puxando Alyndra pela mão. — A *nyxara de fogo*¹¹ é a melhor parte da viagem. Todo mundo conta de onde veio. Não é obrigatório, mas... é bom. Ajuda a gente a se conhecer.
+— Ou você cresceu — Lyris respondeu suavemente.
 
-O grupo ao redor da lanterna maior era um misto de rostos — alguns que Alyndra reconhecia do orfanato, outros que pertenciam a grupos diferentes e que não havia notado antes. Torvin já estava lá, sentado com as pernas cruzadas, os olhos arregalados, ouvindo uma menina mais velha contar sobre uma cidade submersa que existia nas profundezas de *Thalassia*.
+Os Aga Uru acompanharam-nas pela rua principal em silêncio profissional. Torvas sinalizou para que se posicionassem nas extremidades da rua enquanto Lyris e Alyndra caminhavam para o centro da vila.
 
-Foi quando o silêncio se instalou e Mira se adiantou, tirando Alyndra da zona de conforto da escuta passiva para o desconforto da participação.
+O caminho até a casa de Melessa era curto — Alyndra o conhecia de cor. A casa estava ali. Intacta. A porta trancada com uma tranca de ferro que os vizinhos haviam providenciado, as janelas fechadas, a chaminé fria. Um vaso de giralis — ainda com botões fechados, esperando o entardecer para desabrochar — estava à esquerda da porta. Alguém os havia regado durante o inverno. Alguém havia cuidado.
 
-— Alguém quer começar? — Mira perguntou, sua voz carregando a naturalidade de quem está acostumada a liderar sem parecer que está liderando.
+Alyndra parou diante da porta e não se moveu.
 
-A primeira a falar foi uma menina de oito valens que Alyndra não conhecia — filha de fazendeiros de uma vila ao norte de *Velantis*, que havia chegado ao orfanato há menos de um valen. Sua história era simples, triste em sua simplicidade: uma doença que levara os pais em questão de dias, uma tia que não podia cuidar dela, uma viagem longa até a Cidadela Luminis, onde Thar Elara a recebera sem perguntas e sem julgamentos.
+Lágrimas não vieram — não de imediato. O que veio foi algo mais pesado, mais denso, algo que parecia ocupar todo o espaço dentro de seu peito e não deixava nada para os pulmões.
 
-Mas foram as histórias que se seguiram que ficaram com Alyndra — não nos ouvidos, mas em algum lugar mais profundo, mais pesado, onde as experiências dos outros se transformavam em algo que ela carregava como parte de si mesma.
+— Alyndra — Lyris disse, colocando uma mão em seu ombro.
 
-Mira contou a sua história.
+— Eu sei — Alyndra respondeu, e sua voz era firme, quase dura, como se a firmeza fosse a única coisa que a impedia de desabar ali mesmo. — Eu estou bem. Eu preciso fazer isso.
 
-Ela falava com a naturalidade de quem já havia repetido aquelas palavras muitas vezes, mas havia algo em seus olhos — uma sombra que passava como uma nuvem sobre Aurion — que revelava que a repetição não tornava a dor menor, apenas mais suportável.
+Ela empurrou a porta. A tranca cedeu com um clique — os vizinhos haviam deixado a chave sob o vaso de giralis, como combinado. A porta se abriu com um rangido familiar, e o interior da casa se revelou na penumbra.
 
-— Meus pais eram comerciantes de aromáceos — Mira disse, suas mãos gesticulando no ar como se pintassem as imagens enquanto falava. — Eles viajavam entre os reinos, de Thalassia até Terraxis, comprando zanthári e canelis e pyráxis de Aurion e vendendo em mercados que cheiravam a mil coisas ao mesmo tempo. Eu ia com eles, quando era pequena demais para ficar sozinha. Sentava no ombro do meu pai enquanto ele regateava com os mercadores, e todo mundo me dava doces porque eu era "a menina dos aromáceos".
+O ar cheirava a tempo. A poeira se acumulara nas superfícies durante os nyras de ausência, e a luz de Aurion que entrava pelas janelas iluminava partículas suspensas que dançavam lentamente. A mesa pequena estava onde sempre estivera, com as duas cadeiras de madeira desalinhadas. A lareira estava fria. E no canto, perto da janela, a cadeira de balanço de Melessa — desgastada pelo uso, com uma almofada de tecido bordado em um padrão de giralis que Melessa havia feito com suas próprias mãos, valens atrás — permanecia imóvel, esperando por uma ocupante que nunca mais voltaria.
 
-Ela fez uma pausa, e a sombra em seus olhos se aprofundou.
+Alyndra respirou fundo. Depois respirou de novo. E em sua terceira respiração, fez algo que Lyris não esperava.
 
-— Saqueadores atacaram a caravana quando eu tinha cinco valens. Eu... eu me escondi entre os fardos de aromáceos, no fundo da carroça. Tinha tanto cheiro — canelis, pyráxis, kravári — que eu achava que eles não iam me encontrar. E eles não encontraram. Ficaram ali, revirando tudo, e eu estava tão quieta que achei que ia parar de respirar. Depois que foram embora, eu fiquei escondida por mais dois dias. Não sabia para onde ir. Não sabia se meus pais estavam vivos ou mortos.
+— Nyx — ela chamou, e sua voz carregava todos os nyras de separação, todas as nyxaras de saudade, todas as promessas sussurradas no escuro do dormitório do orfanato. — Nyx, eu vim te buscar. Eu prometi.
 
-Outro silêncio. Mais pesado desta vez.
+Silêncio. O vento soprava do lado de fora. As partículas de poeira dançavam na luz. Nada se moveu dentro da casa.
 
-— Uma patrulha de Aga Uru me encontrou — Mira continuou, e sua voz agora era mais firme, como se a firmeza fosse uma escolha consciente. — Levaram-me para o Orfanato Luminis. E foi ali que eu descobri que tinha afinidade com a terra — fraca, quase imperceptível, mas real. O suficiente para fazer uma semente germinar quando eu a segurava na mão por tempo demais. Não é grande coisa, eu sei. Mas é meu. É a única coisa que me sobrou dos meus pais, de alguma forma — essa capacidade de fazer coisas crescerem.
+Alyndra chamou de novo, mais alto. — Nyx!
 
-Alyndra sentiu os olhos se encherem de lágrimas. Não pela carga dramática da história em si, mas pela forma como Mira a contava — com honestidade que não pedia compaixão, com dignidade que não negava a dor. E pensou em Melessa Solynthr, em *Ayla*, em tudo o que havia perdido. E pensou também que, de alguma forma, aquela dor compartilhada ao redor da lanterna de cristal era menos pesada do que quando a carregava sozinha no escuro do dormitório.
+E então, quase imperceptível, um som veio de algum lugar dentro da casa. Um chiado, fino e trêmulo, como um sussurro de alguém que há muito tempo não tem forças para falar.
 
-Torvin contou a sua história em seguida, com palavras que eram quase poeticamente simples.
+Alyndra virou-se para Lyris, os olhos arregalados.
 
-— Era nyxara — ele disse, e sua voz carregava o peso de uma memória que ele havia revivido tantas vezes que as bordas já estavam desgastadas, mas o centro ainda doía. — Eu estava no barco do meu pai, no ancoradouro. A aldeia ficava na costa de Thalassia, perto da água. Meu pai pescava, minha mãe consertava redes. Era uma vida simples. Boa.
+— Você ouviu?
 
-Ele engoliu em seco.
+Lyris ouviu. Seus valens como agente haviam afiado seus sentidos a ponto de detectar sons que a maioria das pessoas nem registrava, e aquele chiado — vindo de algum lugar debaixo do assoalho, próximo à cama que Melessa e Alyndra compartilhavam — era inconfundível.
 
-— Eu vi o fogo primeiro. Laranja, tão laranja que pareceu bonito, por um pulso. Depois o cheiro de fumaça chegou, e eu ouvi gritos, e meu pai... meu pai me empurrou para dentro do barco e cortou a amarra antes que eu pudesse gritar o nome da minha mãe. O barco derivou. Eu olhei para trás e vi as chamas subindo, subindo, como se o mundo inteiro estivesse pegando fogo. E meu pai ficou na praia. Ele ficou ali, olhando para o barco, e eu vi — mesmo de longe, mesmo com o fogo e a fumaça — eu vi que ele estava chorando.
+Mas antes de se mover, algo prendeu o olhar de Lyris nas tábuas do assoalho. Um resíduo fino nas juntas entre as peças de madeira — não a umidade natural do degelo, mas algo com uma textura diferente, mais densa. O selo. Lyris se lembrou daquela manhã — dos fractais azulados que haviam brotado das tábuas quando Alyndra chorava ao lado do corpo de Melessa, do frio impossível que impedira qualquer investigação. Agora, com o calor da primavera, a cristalização havia se desfeito — o *cryonys*³ se dissipara junto com o luto que o gerara. As tábuas estavam livres.
 
-Torvin olhou para as próprias mãos, que descansavam sobre os joelhos.
+— Fica aqui — Lyris disse, e seu tom não admitia discussão. Ajoelhou-se, seus dedos encontrando as tábuas do assoalho até que sentiu uma que estava solta. Ela a levantou.
 
-— A água me salvou. O barco derivou até uma vila pesqueira dois dias depois. Eu estava vivo. E a água... a água sempre esteve comigo. Fraca, como a terra da Mira, mas real. Eu consigo sentir quando vai chover. Consigo fazer gotas de água se moverem se eu me concentrar muito. Não é suficiente para uma academia. Mas é suficiente para me lembrar que a água, que deveria ter me matado naquela nyxara, me salvou em vez disso.
+Debaixo, havia um espaço oco — um buraco forrado com cobertores velhos, alguns deles com marcas de dentes e arranhões. E no centro desse ninho improvisado, encolhido em uma bola de pelos prateados que mal se erguiam com a respiração, havia algo que fez o coração de Lyris se apertar.
 
-O silêncio que se seguiu à história de Torvin era do tipo que pesa — que se instala como um cobertor molhado sobre os ombros de todos os presentes, que faz cada criança pensar nas próprias perdas, nos próprios medos, nas próprias nyxaras em que o mundo parecia ter pegado fogo.
-
-E então Dravyn falou.
-
-Não porque quisesse — Alyndra percebeu isso pela forma como ele falou, com a voz tensa de alguém que está sendo arrastado para algo contra a vontade. Ele estava sentado mais afastado, costas apoiadas na pedra, braços cruzados, olhos fixos nas chamas. O envelope amassado no bolso da calça cutucava sua coxa a cada movimento — uma ponta de papel que ele sentia como um lembrete constante de algo que não podia esquecer e não devia investigar. Quando começou a falar, não olhou para ninguém — olhou apenas para o fogo, como se as palavras fossem destinadas às chamas e não às pessoas.
-
-— Meu pai era mercenário — Dravyn disse, e sua voz era plana, sem inflexão, como se estivesse lendo um relatório. — De Terraxis. Combatia por dinheiro — não por honra, não por reino, não por causa. Dinheiro. E morreu do jeito que viveu: em uma briga de estalagem, esfaqueado por outro mercenário por causa de uma aposta. Não houve batalha gloriosa. Não houve sacrifício. Apenas sangue e bebida fermentada e um corpo que foi enterrado em vala comum porque ninguém se importou o bastante para dar-lhe um nome na morte.
-
-Ele fez uma pausa, e quando continuou, havia algo diferente em sua voz — não emoção, exatamente, mas a ausência deliberada de emoção, como se ele estivesse segurando algo com tanta força que os dedos estavam ficando brancos.
-
-— Minha mãe saiu antes de eu fazer três valens. Não disse adeus. Apenas saiu. Talvez não aguentou mais a vida com um mercenário. Talvez não aguentou mais a vida comigo. Eu não sei, porque ela nunca me deu a chance de perguntar.
-
-Dravyn se levantou abruptamente, o movimento tão repentino que algumas crianças mais novas se assustaram.
-
-— E agora eu sou isso — ele disse, gesticulando para si mesmo com uma amargura que finalmente transbordava. — Um Filho do Traidor em um mundo de luz. Alguém que carrega uma marca que não pediu, não tem família que o queira, não tem passado que valha a pena contar. Alguém que o mundo condenou antes de eu nascer.
-
-Ele engoliu em seco. Mas não disse o que Alyndra viu em seus olhos por um instante — um lampejo, tão rápido que poderia ter sido imaginação. Havia algo que Dravyn não contava, algo que o assombrava nas nyxaras quando fechava os olhos: figuras que não reconhecia, símbolos que não compreendia, e uma luz que o chamava de algum lugar que ele não sabia nomear.
-
-Ele se virou e caminhou para a escuridão além das lanternas, seus passos pesados na pedra como batidas de um coração que havia decidido parar de tentar.
-
-Ninguém o seguiu. Ninguém disse nada.
-
-Mas Alyndra olhou para as costas de Dravyn enquanto ele se afastava, e sentiu algo que não era piedade — a piedade, ela já havia aprendido com Lyris, era uma emoção que os outros não queriam receber. O que ela sentiu foi reconhecimento. Reconhecimento da dor de Dravyn, sim — mas também reconhecimento de algo mais específico, mais sutil. A raiva de Dravyn não era dirigida a eles, às crianças que contavam suas histórias ao redor da lanterna. Não era dirigida ao pai morto nem à mãe que partira. Era dirigida ao próprio mundo — a um sistema que valorizava apenas o brilho, que media as pessoas pela cor de sua afinidade, que deixava para trás aqueles que não se encaixavam no molde luminoso das academias e dos Aga Uru.
-
-*A raiva dele não é sobre as pessoas que o abandonaram*, Alyndra pensou, acariciando Nyx sob a capa, sentindo o corpinho do lyrien tremer levemente contra o dela, como se ela também sentisse o que ela sentia. *É sobre um mundo que só vê valor em quem brilha. E ele não brilha. Então ele acha que não tem valor.*
-
-Ela quis ir atrás de Dravyn. Quis dizer-lhe algo — não sabia o quê, mas algo que fizesse aquela dor ser menor. Mas antes que pudesse se mover, a mão de Mira em seu ombro a deteve.
-
-— Não agora — Mira sussurrou, sacudindo a cabeça. — Ele precisa estar sozinho. É assim que ele processa.
-
-Kira, que havia permanecido em silêncio durante todas as histórias, observou Dravyn se afastar na escuridão com uma expressão que Alyndra não conseguiu ler — mas que, se tivesse mais idade e mais experiência, teria reconhecido como solidariedade silenciosa. Kira conhecia aquela raiva. Kira havia vivido aquela raiva. E sabia que não havia palavras que pudessem curá-la — apenas tempo, e talvez propósito, e a descoberta lenta de que o valor de uma pessoa não dependia do brilho que emanava de sua pele.
-
-*Somos iguais*, Kira pensou, olhando para as costas de Dravyn sumindo na nyxara. *Nós dois. sylentis em um mundo que não tem espaço para quem não acende.*
-
-Ela voltou-se para as crianças restantes e, com a voz firme que usava para esconder tudo o que sentia, disse:
-
-— Hora de dormir. Amanhã ao amanhecer a gente chega em Thalendris, e eu quero todos acordados antes do Aurion nascer.
+— Alyndra — Lyris chamou, e sua voz era suave como raramente era. — Venha ver.
 
 ---
 
-**IV. O Teste no Litoral**
+**III. O Legado de Melessa**
 
-Thalendris surgiu no horizonte como um sonho de pedra e luz.
+Alyndra correu até a cama e se ajoelhou ao lado de Lyris. O que viu fez algo dentro dela se partir e se recompor ao mesmo tempo.
 
-A cidade se erguia na costa ocidental de Sylvaris, construída sobre e ao redor de falésias brancas que despencavam centenas de passos até o Mar de Lyria, um oceano vasto e azul-escuro que Alyndra só havia visto em pinturas e mapas. As falésias eram de uma cor impossível — não branco puro, mas uma tonalidade que misturava branco com sal e com a luz de Aurion de uma forma que fazia a pedra parecer feita de nuvens solidificadas. Ao longo da borda das falésias, faróis de cristal emitiam feixes de luz sólida que se estendiam sobre o mar como dedos luminosos, guiando navios que Alyndra podia ver ao longe — velas brancas e quilhas escuras que se moviam sobre as águas como peixes de um sonho.
+O pequeno lyrien estava lá. Magro — visivelmente mais magro do que quando Alyndra o deixara, com as costelas marcando sob a pelagem prateada que havia perdido parte de seu brilho. Seus olhos dourados estavam semicerrados, como se o esforço de mantê-los abertos fosse demasiado para seu corpo enfraquecido.
 
-Era a Cidade das Falésias Brancas, e Alyndra, com Nyx espreitando por baixo da capa e os olhos tão arregalados que pareciam conter o oceano inteiro, sentiu o coração se expandir em seu peito como se quisesse absorver o mundo inteiro.
+Mas ele estava vivo. Respirando. Esperando.
 
-— Plataformas de levitação — Torvin exclamou, apontando para uma série de discos largos que flutuavam ao longo dos cais, carregando cargas pesadas — barris, caixas, fardos — que se moviam entre os navios e os armazéns sem necessidade de cordas ou guindastes. As plataformas eram feitas de metal e cristal, e pulsavam com a mesma luz amarela dos cristais aetheris que Alyndra conhecia do orfanato, mas em uma escala muito maior. — São movidas por cristais! Cristais enormes, Alyndra, maiores do que você e eu juntos!
+— Oh, Nyx — Alyndra sussurrou, e suas mãos, que tremiam, alcançaram o pequeno corpo com uma delicadeza que pareceu desproporcional para uma criança de quatro valens. — O que fizeram com você?
 
-Alyndra não conseguiu responder. Estava ocupada demais olhando.
+Lyris observou os cobertores no fundo do esconderijo e compreendeu. Melessa havia preparado aquele espaço — provavelmente nos últimos dias de vida, quando já sabia que não estaria ali para cuidar do lyrien depois de sua partida. Havia comida seca em um canto, parcialmente consumida. Mas o mais notável era a própria Nyx. Mais de trinta dias encerrada sob um selo de cryonys que se dissipava aos poucos, sem comida fresca, sem luz, sem ar — e ainda respirava. Lyris observou as narinas do lyrien e notou algo: uma névoa finíssima, quase imperceptível, que se formava a cada respiração. O selo de cryonys — criado pela manifestação involuntária de Alyndra — não havia apenas fechado o esconderijo. Ao se dissolver lentamente ao longo dos nyras, deixara para trás uma câmara de aethra condensado — um vácuo etéreo onde o metabolismo do lyrien pudera desacelerar até quase parar. Os lyriens eram criaturas etéreas por natureza, sensíveis às correntes de energia; naquele estado de hibernação profunda, o corpo de Nyx se havia alimentado do próprio resíduo de cryonys que se dissipava ao seu redor. Melessa havia planejado o esconderijo. Mas fora o luto de Alyndra que o salvara.
 
-O veleiro desceu suavemente até a plataforma de recepção, o timoneiro de vento ajustando os cristais com a precisão de quem faz aquilo há décadas, e quando o veículo tocou o solo com um suave rangido de madeira, as crianças começaram a sair em uma enxurrada de excitação controlada. Kira estava na porta, contando cabeças, certificando-se de que cada criança do grupo de quarenta desembarcava em segurança.
+Alyndra ergueu o lyrien com cuidado, segurando-o contra o peito como fazia desde que ele era filhote. O peso do corpo de Nyx era menos do que ela lembrava — ele perdera massa durante os nyras sozinhos, e o calor que costumava irradiar de sua pelagem estava mais fraco, como uma brasa que quase se apagou mas se recusa a morrer completamente. Mas quando o focinho de Nyx tocou o peito de Alyndra, quando ele inalou seu cheiro, algo mudou.
 
-— Em fila — ela ordenou, sua voz cortando o barulho como uma adaga de latão. — Ninguém sai da plataforma sem permissão. Os vigilantes vão nos receber e dar instruções.
+Os olhos dourados se abriram completamente. As orelhas se ergueram. E do fundo de sua garganta veio um som — um chiado agudo e trêmulo, fraco pela fome e pela solidão, mas inconfundível em seu significado. Era o som que Nyx fazia quando encontrava Alyndra depois de uma separação, mesmo que a separação tivesse sido apenas de algumas horas. Era o som de quem diz, da única forma que pode: *você veio. Eu esperei. Eu sabia que você viria.*
 
-E os vigilantes vieram. Não os Aga Uru de armadura prateada que Alyndra conhecia do orfanato, mas guerreiros de Thalendris — com armaduras leves de couro e metal branco, adaptadas para o clima úmido da costa, e expressões que eram ao mesmo tempo profissionais e gentis. Eles guiaram os grupos de crianças pelas ruas de Thalendris com uma eficiência que sugeria prática — o ciclo de viagem era uma tradição anual, e os vigilantes estavam acostumados a receber centenas de crianças órfãs que olhavam para tudo com olhos de quem acabou de descobrir que o mundo era muito maior do que imaginava.
+Alyndra desabou em lágrimas.
 
-Foi durante o passeio pelos cais que a surpresa aconteceu.
+Não lágrimas silenciosas e contidas como as que derramara nas nyxaras no orfanato. Eram lágrimas que vinham de um lugar profundo — medo de que Nyx tivesse morrido, culpa por tê-lo deixado, saudade de algo que era parte de quem ela era. Ela chorava abraçando o lyrien contra o peito, sentindo o corpinho dele bater contra o dela, sentindo o calor dele — ainda fraco, mas presente — penetrar em sua pele como um abraço que ela havia necessitado mais do que qualquer outra coisa no mundo.
 
-Os vigilantes ofereceram às crianças algo que nenhuma delas esperava — um passeio nos *koramis*¹².
+— Eu sinto tanto — Alyndra soluçava. — Eu não quis te deixar. Eu nunca ia esquecer de você, eu jurei, mas na confusão eu esqueci e você ficou sozinho e eu sinto tanto, Nyx, eu sinto tanto.
 
-A palavra soou estranha nos ouvidos de Alyndra, e ela olhou para Mira em busca de explicação. Mas foi Kira quem respondeu, e a resposta veio com uma carga emocional que surpreendeu até Mira.
+O lyrien prateado chiou novamente, e desta vez o som era diferente — mais forte, mais presente, como se a voz dele estivesse voltando junto com a esperança. Ele esfregou o focinho contra o queixo de Alyndra, e sua cauda começou a se mexer, num movimento pequeno que carregava dentro de si todo o amor de uma criatura que havia esperado na escuridão por nyras por uma única pessoa, e que finalmente, finalmente, havia sido encontrada.
 
-— koramis — Kira disse, e sua voz carregava algo que Alyndra nunca havia ouvido nela antes — uma vulnerabilidade que a monitora raramente permitia ver. — São as aves de montaria de Sylvaris. *mushen kora*¹³ — Ave do Coração, na língua antiga. Asas de dez passos. Penas que mudam de cor com a luz de Aurion. Cada uma carrega quatro crianças e um condutor vigilante.
+Lyris se afastou discretamente, dando-lhes espaço. Ficou de pé junto à janela, olhando para os campos de aethrys que se estendiam além de Mespiria, e permitiu-se um momento de algo que não era exatamente emoção — era mais como reconhecimento. *Eu prometi. E cumpri.*
 
-— Você já voou em uma? — Alyndra perguntou.
+Enquanto Alyndra se sentava no chão da casa de pedra, com Nyx enroscada em seu colo e seus dedos acariciando a pelagem prateada, Lyris se movia pela casa com a atenção metódica de quem está acostumada a procurar informações em lugares que outros ignoram.
 
-Kira hesitou. E naquela hesitação, Alyndra vislumbrou algo — uma dor antiga, uma ferida que nunca cicatrizou.
+Foi quando se ajoelhou perto da cama que Lyris notou algo que antes não vira. Junto à tábua solta do assoalho, parcialmente coberta por um dos cobertores, havia uma tira de pano que sobressaía. Lyris puxou a tira. Debaixo dela, escondida em uma reentrância do assoalho, havia uma caixa.
 
-— Não — Kira disse finalmente, e suas palavras eram curtas, cortadas, como se cada sílaba custasse algo. — Eu nunca voei. É para os grupos de visitantes. Sempre fiquei no chão, contando as crianças que voavam.
+Era pequena. Do tamanho aproximado de dois punhos fechados lado a lado. Feita de madeira clara, com bordas gastas pelo tempo mas ainda sólidas. Na superfície da tampa, gravado em letras que Lyris reconheceu como sendo da caligrafia de Melessa, havia uma única palavra.
 
-Havia tanta coisa implícita naquela frase que Alyndra não soube como responder. Mas Mira, que conhecia Kira há mais tempo, colocou uma mão no braço da monitora e disse, baixinho:
+*Depois.*
 
-— Desta vez você voa também, Kira. Você é do grupo.
+Lyris segurou a caixa por um momento, sentindo seu peso. E então, como uma lâmina de luz atravessando a névoa de uma lembrança, a última nyxara de Melessa voltou à sua mente — a mão trêmula apontando para o assoalho, os lábios se movendo em palavras sem ar. *Debaixo... debaixo das tábuas... perto da cama...* Melessa tinha tentado lhe contar. Tinha tentado naquela última nyxara, quando os pulmões a traíram e as palavras morreram em sua garganta.
 
-Kira olhou para Mira com uma expressão que Alyndra só conseguiu descrever, mais tarde, como "alguém que não sabe se tem permissão para ser feliz".
+— Alyndra — Lyris chamou suavemente. — Olha o que eu encontrei.
 
-Os koramis estavam reunidos na plataforma mais alta dos cais — seis aves gigantescas, cada uma grande o suficiente para fazer Alyndra se sentir tão pequena quanto uma sylari ao lado de um colosso benevolente. Suas penas eram de um branco prateado que parecia mudar de cor conforme a luz de Aurion incidia sobre elas — branco quando a luz era direta, azul quando as nuvens a filtravam, dourado quando os raios passavam entre as penas como dedos de luz. Seus olhos eram grandes e profundos, de um âmbar que parecia conter séculos de sabedoria, e seus bicos — curvados, fortes, de um preto que absorvia a luz — eram ferramentas de precisão que inspiravam respeito.
+Alyndra ergueu os olhos de Nyx e olhou para a caixa. Seus olhos percorreram a madeira clara, a dobradiça de ferro, a palavra gravada na tampa. E no momento em que reconheceu a caligrafia, suas mãos pararam de acariciar Nyx e começaram a tremer.
 
-Dravyn aproximou-se do seu koramis com a desconfiança habitual de quem nunca confiou em nada que fosse maior que ele. Enquanto ajustava a sela, seus dedos encontraram algo preso sob a correia lateral — um envelope de papel comum, sem selo, sem nome. Ele o abriu com o coração acelerado. Dentro, uma folha com uma única frase, escrita em letras que tentavam imitar a caligrafia de seu pai — mas a imitação era imperfeita, apressada: *"Seu pai não morreu por dívida. Morreu por saber demais. Encontre-me no Cálice de Pedra em Thalendris. Venha sozinho. — Alguém que o conhecia."* Dravyn enfiou o papel no bolso antes que alguém visse. Não contou a ninguém. Era assim que as armadilhas começavam — com um segredo que a vítima escolhia guardar.
+— Vó Melessa — Alyndra sussurrou. — Ela escreveu.
 
-A vigilante condutora do koramis que carregaria o grupo de Alyndra era uma mulher jovem com um sorriso fácil e mãos que pareciam feitas para acariciar aves gigantes.
+— Quer abrir? — Lyris perguntou, sentando-se ao lado da criança.
 
-— Quatro por ave — ela explicou, ajudando as crianças a montar nas selas acolchoadas que ficavam entre as asas do koramis. — Sentem-se aqui, segurem essas alças, e não se mexam durante o voo. A ave faz todo o trabalho. Vocês só precisam olhar e respirar.
+Alyndra olhou para a caixa como se olhasse para algo que poderia mudar tudo. Nyx, sentindo a hesitação de sua dona, chiou suavemente e esfregou o focinho contra o braço de Alyndra.
 
-Alyndra montou com Mira, Torvin e uma menina mais nova que não conhecia. Nyx estava escondido dentro da capa, comprimido contra o peito dela, e Alyndra sentia o corpinho do lyrien tremendo de excitação, suas orelhas grandes captando cada som, cada sussurro de vento, cada batida de asa que se aproximava.
+Alyndra respirou fundo. Depois estendeu as mãos e abriu a caixa.
 
-E então o koramis se moveu.
+Dentro, envolto em um pano de giran limpo, havia dois objetos. O primeiro era um pingente — pequeno, pesado, feito de uma pedra negra e lisa. Na superfície, gravado com uma precisão que sugeria ter sido feito por mãos hábeis e pacientes, havia o Selo de Sanctrum.
 
-O deslocamento foi tão suave que Alyndra mal percebeu — uma sensação de elevação que começou nos pés e percorreu seu corpo como uma onda morna, seguida por um som que ela nunca esqueceria: o bater de asas gigantescas cortando o ar, um som profundo e ressonante que parecia o próprio coração de Sylvaris pulsando. E de repente, o chão se afastou. Os cais diminuíram. As falésias brancas se tornaram uma muralha lateral de pedra e luz. E o Mar de Lyria se abriu abaixo deles como um vasto lençol de azul escuro salpicado de espuma branca.
+O segundo objeto era uma carta. Dobrada em três partes, com as dobras precisas de alguém que havia aprendido a dobrar papel como se dobrasse panos — com cuidado, com carinho. O papel era amarelado pelo tempo, mas em bom estado.
 
-Alyndra soltou o ar que não sabia que estava segurando.
+Alyndra pegou a carta com mãos que tremiam tanto que quase a deixou cair. Reconheceu a caligrafia na parte externa, e naquele reconhecimento, algo dentro dela se partiu de uma forma que não era dolorosa, mas que era definitiva.
 
-— Olha — ela sussurrou, e a palavra carregava todo o peso de uma criança de cinco valens que está vendo o mundo pela primeira vez. — Olha, Mira. Olha.
+— Para minha pequena estrela — ela leu em voz alta, e a frase fez suas lágrimas voltarem, porque era assim que Melessa a chamava. *Minha pequena estrela.* Sempre.
 
-Mira não respondeu com palavras. Sua mão encontrou a de Alyndra e a apertou, e ambas olharam para baixo, para o oceano, para as falésias, para os campos de aethrys que se estendiam para o interior como um mar dourado que competia com o mar azul em beleza.
+— Quer que eu leia para você? — Lyris perguntou gentilmente.
 
-E foi então que Alyndra olhou para o koramis que voava ao lado deles — o que carregava Kira.
+Alyndra assentiu, enxugando os olhos com as costas da mão, Nyx apertado contra o peito com o outro braço. E Lyris, tomando a carta com delicadeza, começou a ler.
 
-A monitora de quinze valens estava sentada na sela com a postura rígida de quem não está acostumada a relaxar, suas mãos apertando as alças com força demais, seus cabelos ruivos sendo agitados pelo vento como labaredas dançantes. Mas em seu rosto — naquele rosto que Alyndra só havia visto em expressões de controle e firmeza e, ocasionalmente, amargura contida — havia algo que fez o coração da menina se apertar.
+*"Para minha pequena estrela,*
 
-Kira estava sorrindo.
+*Se você está lendo esta carta, é porque eu já não estou mais aqui para segurar sua mão e sussurrar que tudo vai ficar bem. E isso me dói mais do que qualquer dor que esses velhos ossos já sentiram — saber que haverá um dia em que você vai precisar de mim e eu não vou estar ali para responder.*
 
-Não um sorriso grande, não um sorriso de festa ou de celebração. Um sorriso pequeno, quase imperceptível, do tipo que se esconde nos cantos dos lábios e que alguém precisa estar realmente olhando para notar. Mas era um sorriso. E nos olhos âmbar de Kira, lágrimas — não de tristeza, não de dor, mas de algo que Alyndra só conseguiu descrever depois, quando pensou muito sobre aquela imagem, como *alívio*. Como se, naquele momento, suspensa sobre as falésias brancas e o mar infinito, Kira tivesse se permitido — pela primeira vez em muito tempo — sentir que o mundo era grande o bastante para conter também alguém como ela.
+*Mas eu preciso que você escute — não com os ouvidos, não agora, mas com o coração, que é onde as coisas mais importantes moram. Escuta, minha Alyndra: você é a luz da minha vida. Desde o primeiro momento em que segurei você em meus braços, recém-nascida, pequena, quente, chorando com uma força que me fez rir e chorar ao mesmo tempo — desde aquele momento, eu soube que você era especial. Não por causa do brilho que carrega sob a pele, não por causa das coisas que os outros podem ver ou não ver, mas por causa do que você é por dentro. Você é bondade, você é força, você é amor em sua forma mais pura.*
 
-*Ela nunca voou antes*, Alyndra pensou, olhando para Kira com uma empatia que ia além de seus cinco valens. *Ela passou a vida inteira no chão, contando crianças que subiam, e nunca subiu. E agora ela está voando.*
+*Mais do que isso: você herdou algo da sua mãe. Sua mãe sabia disso antes mesmo de você nascer. O nome dela não era Ayla, como todos em Mespiria acreditavam. No seu leito de morte, ela me confiou o seu verdadeiro nome: Aelyria. A mulher que deu a vida por você era uma guerreira, e a pessoa mais corajosa que já conheci. Ela abriu mão do próprio nome, do próprio passado e de tudo o que tinha apenas para que você pudesse viver em paz. Nunca duvide disso, minha pequena: Aelyria a amou com uma ferocidade que desafiou a própria morte. Você foi o maior tesouro dela.*
 
-Nyx chiou suavemente contra o peito de Alyndra, como se estivesse pensando a mesma coisa.
+*Eu assisti você crescer nesses quatro valens — vi seus primeiros passos, ouvi suas primeiras palavras, vi seus primeiros sorrisos, e cada um deles foi um presente que eu não merecia mas que a vida, na sua bondade incompreensível, me deu mesmo assim. Vi você correr pelos campos de aethrys com Nyx correndo atrás, vi você conversar com os sylvarinos como se eles pudessem responder, vi você olhar para as três luas com aqueles olhos grandes que parecem conter o universo inteiro, e em cada olhar seu, em cada sorriso seu, eu via a mulher incrível que você vai se tornar.*
 
-O voo durou cerca de doze pulsos — doze pulsos que Alyndra guardaria na memória como um dos momentos mais bonitos de sua vida. Os koramis sobrevoaram as falésias, o oceano, os campos de aethrys que se estendiam para o interior, e por um instante mágico, passaram sobre uma formação de nuvens que pintou o mundo abaixo em tons de ouro e prata. Quando as aves desceram de volta à plataforma dos cais, Alyndra sentiu que algo havia mudado dentro dela — algo além do fulgor, mais profundo. Uma compreensão de que o mundo era vasto, belo, e que havia espaço nele para todos — até mesmo para aqueles que não brilhavam.
+*Você nasceu para brilhar, minha Alyndra. Não importa o que acontece. Não importa o quão escuro o caminho pareça. Não importa se há dias em que você vai sentir que o mundo inteiro está contra você — porque vai haver esses dias, minha pequena, e eu sinto muito por isso, eu gostaria de poder poupá-la de cada tristeza que ainda vai encontrar. Mas mesmo nos dias mais escuros, mesmo quando você sentir que não há mais luz, lembre-se: a luz não é algo que vem de fora. A luz mora dentro de você. Sempre morou. E se houver uma coisa que eu aprendi em todos os meus valens como parteira — ajudando vidas a começar e, às vezes, a terminar —, é que a vida é mais forte do que a morte, o amor é mais forte do que a perda, e uma criança que foi amada com todo o coração nunca, nunca será verdadeiramente sozinha.*
 
-Kira desmontou do koramis com pernas trêmulas e olhos úmidos, e por um momento — apenas um momento — ela permitiu que as crianças vissem algo que geralmente escondia atrás de sua armadura de eficiência: gratidão. Pura, simples, desprotegida.
+*Eu não vou estar ali para ver você crescer. Eu não vou estar ali para secar suas lágrimas ou contar suas histórias ou cuidar de você quando ficar doente. Mas meu amor vai estar, minha pequena estrela. Em cada brisa que tocar seu rosto, em cada flor de giralis que se abrir na Nyxara, em cada momento de paz que você encontrar no meio do caos — eu vou estar ali, de alguma forma. Porque o amor não desaparece quando quem ama parte. O amor fica. O amor sempre fica.*
 
-Depois a armadura voltou. Os ombros se endireitaram. O olhar se tornou firme. E Kira voltou a contar cabeças.
+*Cuide de si mesma, minha Alyndra. Cuide da Nyx. E saiba que, onde quer que eu esteja agora, eu estou olhando para você com o orgulho que apenas uma avó pode sentir — aquele orgulho enorme, incondicional, que não depende de nada além de você simplesmente existir.*
 
-O passeio continuou pelos cais de Thalendris, com os grupos de crianças caminhando ao longo dos armazéns e das lojas que se alinhavam como dentes de uma mandíbula de pedra e madeira, suas fachadas coloridas pelos estalactites de sal que se formavam na umidade marítima. O ar cheirava a sal, a peixe defumado, a madeira molhada, a aromáceos que chegavam dos portos distantes de Thalassia. Era um cheiro que Alyndra nunca havia sentido — complexo, opressivo de tão intenso, mas de alguma forma maravilhoso.
+*Você é minha pequena estrela. E estrelas, mesmo quando não podemos vê-las, nunca deixam de brilhar.*
 
-E foi durante aquele passeio, enquanto as crianças se aglomeravam ao redor de uma barraquinha que vendia peixe frito em papel, que Lyris — que acompanhava o grupo a distância, posicionada como uma voluntária comum mas com os olhos de uma agente treinada — notou algo que fez seu sangue gelar.
-
-As pessoas ao longo dos cais eram, em sua maioria, trabalhadores — pescadores, estivadores, comerciantes. Mas havia um grupo de cerca de cinco indivíduos que se moviam de forma diferente. Andavam juntos, mas não como um grupo — como pessoas que sabiam que deviam parecer um grupo mas que não estavam acostumadas a trabalhar juntas. Suas roupas eram desgastadas, sujas, do tipo que *desprovidos*¹⁴ — pessoas comuns, sem poder, sem *aethra* — usavam. Mas seus olhos...
-
-*Seus olhos não são olhos de desprovidos*, Lyris pensou, sua mão instintivamente indo para o punhal que carregava escondido sob a túnica. *São olhos de quem está avaliando. De quem está procurando algo.*
-
-Eles se aproximaram das crianças com a farsa familiar de quem busca comida — mãos estendidas, vozes suplicantes, o desempenho compassivo da miséria que usavam como disfarce. Os vigilantes os interceptaram com a eficiência de quem já havia lidado com situações semelhantes, e por um momento pareceu que o incidente seria resolvido sem maiores consequências.
-
-Mas Lyris não olhava para os vigilantes. Lyris olhava para as mãos dos falsos desprovidos. E no momento em que um deles se aproximou de Torvin — cujos olhos castanhos estavam fixos em um barco que passava, completamente alheio ao perigo —, Lyris viu o que os outros não viram.
-
-Um *velkora*¹⁵. Pequeno, do tamanho de uma concha de mar, escondido na palma da mão do mercenário como se fosse um amuleto de sorte. Era um dispositivo analógico, de uma tecnologia antiga que Lyris reconhecia de seus valens na inteligência de Sanctrum — microcristais de *aetherite*¹⁶ incrustados em uma superfície reflexiva, projetados não para capturar imagens, mas para registrar assinaturas espirituais. Eles funcionavam como ouvidos invisíveis, capturando a frequência etérica de qualquer pessoa próxima e a armazenando para análise posterior.
-
-*Umbra*¹⁷, Lyris pensou, e a palavra carregava o peso de centenas de relatórios classificados, de operações secretas, de crianças que desapareciam sem explicação. *São agentes de Umbra. Testando a segurança. Medindo as assinaturas.* E não eram os primeiros — a memória das três montarias na estrada de Mespiria voltou como um soco. Seguindo o grupo então, nos cais agora. A mesma rede. O mesmo silêncio profissional.
-
-Ela se moveu. Não com a urgência de quem corre, mas com a eficiência de quem se desloca — cada passo calculado para não levantar suspeitas, cada gesto desenhado para parecer natural enquanto seus olhos permaneciam fixos no mercenário que se aproximava de Torvin.
-
-O mercenário estendeu a mão — o velkora quase tocando o braço do menino — quando algo aconteceu.
-
-Não veio de Lyris. Não veio dos vigilantes. Não veio de nenhum adulto.
-
-Veio de Alyndra.
-
-A criança estava parada a poucos passos de distância, Nyx agarrado contra o peito sob a capa, e seus olhos — aqueles olhos castanhos que normalmente eram doces e curiosos — estavam abertos de uma forma que Lyris reconheceu. Não medo. Não pânico. Instinto. Um instinto tão antigo, tão profundo, tão enterrado no sangue e nos ossos e em algo que ia além do corpo físico, que nem Alyndra sabia que o possuía até aquele momento.
-
-Um frio intenso emanou das mãos de Alyndra — um frio abrupto e violento, que parecia ter sido desenterrado de algum lugar profundo onde havia dormido por eras. O frio se espalhou pelo ar como uma onda invisível, e quando atingiu o cristal aetheris do veleiro mais próximo — que estava ancorado a poucos passos dali, seus cristais em modo de repouso —, algo extraordinário aconteceu.
-
-A frequência do cristal oscilou. Estabilizou-se. E então pulsou — uma única emissão de energia aethra que se espalhou pelo ar como uma onda de choque invisível, atingindo o mercenário que se aproximava de Torvin e o arremessando para trás com uma força desproporcional ao evento aparente.
-
-O mercenário caiu no chão dos cais. O velkora escapou de sua mão e rolou pelo assoalho de madeira — mas antes que atingisse a beira, um dos comparsas que se dispersavam o recolheu em movimento, sem quebrar o passo, desaparecendo entre a multidão com o dispositivo apertado contra o peito.
-
-Para os vigilantes e para a maioria das crianças, o incidente pareceu uma falha técnica — uma descarga acidental do cristal de um veleiro que havia se desestabilizado por algum motivo. Os vigilantes correram para verificar o veleiro e para ajudar o homem caído, que se levantou com gemidos de dor e murmurou desculpas que ninguém ouviu direito. O grupo de falsos desprovidos se dispersou rapidamente, fundindo-se com a multidão dos cais como gotas de chuva em um rio.
-
-Mas Lyris viu o que realmente aconteceu.
-
-Lyris viu o frio emanar das mãos de Alyndra. Viu a onda de energia aethra estabilizar o cristal do veleiro. Viu a onda de choque atingir o mercenário. E viu, nos olhos de Alyndra, um brilho azulado — rápido, fugaz, quase imperceptível — que piscou e desapareceu como uma estrela cadente.
-
-Alyndra olhou para suas próprias mãos com uma expressão de confusão que era tão genuína que partiu o coração de Lyris.
-
-— Eu... — Alyndra sussurrou, e suas mãos tremiam. — Eu não fiz nada. Eu só... eu senti que o Torvin estava em perigo, e eu...
-
-— Eu sei — Lyris disse, chegando ao lado da criança com a rapidez de quem se move sem parecer se mover, sua voz baixa o bastante para que só Alyndra ouvisse. — Eu vi. Você está bem?
-
-Alyndra assentiu, mas seus olhos ainda estavam arregalados, e Nyx — que havia permanecido calmo durante todo o incidente, como se soubesse que Alyndra precisava de foco e não de distração — chiou suavemente contra o peito dela.
-
-— Meu dedo está gelado — Alyndra disse, olhando para a ponta de seu indicador direito, onde uma fina camada de geada se formava e desaparecia em poucos instantes. — Como se... como se algo dentro de mim soubesse o que fazer, mesmo que eu não soubesse.
-
-*Porque algo dentro de você realmente sabe*, Lyris pensou, olhando para os cais onde os mercenários haviam desaparecido. *Algo que é mais antigo do que você. Mais antigo do que qualquer um de nós.*
-
-Ela sabia — com a certeza gelada de quem conectava os pontos de um quadro que se tornava cada vez mais claro — que os velkora não eram ferramentas comuns. Eram dispositivos de Umbra, usados para identificar e catalogar assinaturas espirituais de potenciais alvos — crianças com afinidades raras, linhagens valiosas, poderes que poderiam ser explorados. E se os mercenários estavam usando velkora em uma expedição de órfãos, era porque estavam procurando alguém específico.
-
-O pulso de energia aethra que Alyndra havia involuntariamente gerado — a onda que arremessou o mercenário e estabilizou o cristal do veleiro — não foi apenas uma manifestação de poder cryonys. Foi uma assinatura. Uma assinatura que os velkora, mesmo aquele que quase rolou para a água antes de ser recolhido às pressas pelo comparsa em fuga, provavelmente haviam capturado. *O velkora foi atingido pela mesma onda que derrubou o mercenário*, Lyris pensou. *Pode estar danificado. Ou pode ter registrado tudo. Não há como saber.*
-
-*Eles encontraram o que procuravam*, Lyris pensou, e uma frieza que não tinha nada a ver com o cryonys de Alyndra se instalou em seus ossos. *Se os velkora capturaram aquela emissão, a assinatura da Herdeira Primordial pode ter sido registrada. E se foi, será apenas uma questão de tempo até que a transmitam.*
-
-Kira chegou ao lado delas, seus olhos âmbar vasculhando o rosto de Alyndra com uma atenção que era mais do que preocupação protetora.
-
-— O que aconteceu? — Kira perguntou, sua voz firme mas baixa. — Eu vi o homem cair. Vi o cristal do veleiro piscar. Vi você olhar para as mãos como se...
-
-— Falha técnica — Lyris interveio, e sua voz era tão controlada, tão precisa, que parecia ter sido ensaiada. — O cristal do veleiro descarregou acidentalmente. Acontece às vezes quando os veleiros ficam muito tempo ancorados sem manutenção. O homem provavelmente só tropeçou no impacto da onda de ar.
-
-Kira olhou para Lyris com aquele olhar avaliador que Alyndra já havia visto em Thar Elara — o olhar de quem sabe que está sendo alimentado com uma versão simplificada da verdade, mas que decide, por razões próprias, não pressionar.
-
-— Falha técnica — Kira repetiu, e sua voz era plana. — Certo.
-
-Ela se virou e voltou para o grupo, chamando as crianças para se reunirem, verificando cabeças, mantendo a ordem com a eficiência de sempre. Mas antes de se afastar, seus olhos encontraram os de Alyndra por um instante — e naquele instante, havia algo que parecia reconhecimento. Kira não sabia o que havia acontecido. Mas sabia, com a intuição de quem havia aprendido a ler o mundo nas entrelinhas, que aquilo não tinha sido uma falha técnica.
-
-Ninguém mais percebeu. Torvin voltou a olhar para os barcos. Mira continuou segurando o peixe frito que havia comprado. As outras crianças riam e brincavam, alheias ao perigo que havia passado tão perto.
-
-Apenas Lyris sabia. E o que ela sabia a fez sentir, pela primeira vez em valens, algo que se aproximava do medo.
+*Com todo o amor que o mundo pode conter,*
+*Vó Melessa"*
 
 ---
 
-**V. Sombras em Sanctrum**
+Alyndra não chorou durante a leitura. Seus olhos permaneceram secos, fixos em um ponto distante. *Aelyria*, o nome ecoava em sua mente como uma canção esquecida. *Quem era ela? Por que uma guerreira precisou se esconder na nossa vila?* Uma tempestade de perguntas sem respostas começava a girar dentro de seu pequeno peito.
 
-A centenas de léguas dali — para além do Mar de Vaelantor, onde o vento não carregava gritos de crianças nem o brilho de manifestações elementais —, outra pessoa chegava a conclusões semelhantes. A Cidade Cristalina de Sanctrum repousava sobre seu trono de montanhas e luz como uma coroa eterna da civilização de Nova Aetherion. Seus arranha-céus de cristal e pedra branca se erguiam contra o céu como dedos de uma mão que tentava alcançar as estrelas, e suas ruas — amplas, limpas, iluminadas por lâmpadas aetheris que nunca se apagavam — zumbiam com a atividade de uma capital que governava sete reinos e que nunca, em toda a sua história milenar, havia dormido.
+Quando a última palavra foi lida e o silêncio se instalou na casa de pedra, Alyndra finalmente desabou. Não aos prantos, como antes, mas em um soluço único, profundo, que veio do fundo de seu ser como uma onda que carrega tudo à sua frente. Ela pressionou a carta contra o peito, ao lado de Nyx, como se quisesse que as palavras de Melessa penetrassem em sua pele e ficassem ali para sempre.
 
-No coração da cidade, o Palácio de Cristal abrigava não apenas o Guardião Mestre e as câmaras do governo, mas também uma rede complexa de salas, corredores e câmaras secretas que a maioria dos cidadãos de Sanctrum sequer imaginava existir. Era nessas câmaras — subterrâneas, protegidas por barreiras aethra de múltiplas camadas — que a verdadeira máquina do poder operava: o das informações, das vigilâncias, dos segredos que definiam destinos sem que ninguém soubesse que estavam sendo definidos.
+E Lyris, que havia testemunhado coisas que teriam quebrado guerreiros mais endurecidos do que ela, sentiu as próprias lágrimas escorrerem silenciosamente por suas bochechas. Não por tristeza — ou não apenas por isso. Pela beleza devastadora de um amor que continuava existindo mesmo depois de quem o carregava ter partido.
 
-*Selynis Thalassa*¹⁸ estava sentada diante de uma mesa de cristal negro em uma dessas câmaras, rodeada por pilhas de pergaminhos, relatórios e folhas de dados que formavam uma paisagem caótica de papel e informação. A sala era iluminada por uma única lâmpada aetheris que pendia do teto como um olho vertical, sua luz azulada criando sombras longas que dançavam nas paredes enquanto ela — mestra da Informação, membro do Conselho dos 12, e uma das agentes de inteligência mais influentes de todo Nova Aetherion — cruzava referências com a precisão metódica de uma cirurgiã operando sobre o corpo do próprio Estado.
-
-Seus olhos eram escuros e afiados como lâminas de obsidiana, e enquanto percorriam as linhas de dados que se acumulavam em sua mesa, algo estava se formando — um padrão, uma conexão, uma constelação de pistas que, até aquele momento, haviam flutuado dispersas como estrelas sem constelação.
-
-Selynis havia passado os últimos três nyras compilando relatórios de transferências de órfãos — os relatórios reais, os que existiam nas entrelinhas dos números e nas discrepâncias que outros olhos não percebiam. E o que ela encontrara não era bonito.
-
-Os relatórios provinham de *Vethran Noll*¹⁹ — um funcionário de médio escalão em Sanctrum cujo nome reaparecia com frequência suspeita nas autorizações de transferência. O tipo de homem que existia em toda estrutura governamental: eficiente o bastante para não ser demitido, insignificante o bastante para não ser notado. Responsável por autorizar e registrar as transferências de órfãos entre o Orfanato Luminis e as academias elementais dos sete reinos, Vethran Noll ocupava um dos nós mais sensíveis da rede de proteção infantil de Nova Aetherion — ou pelo menos era o que os registros indicavam. Selynis, porém, conhecia o suficiente sobre burocratas para desconfiar da mediocridade perfeita: há valens que um homem ocupa exatamente a posição certa para ver exatamente o que não deveria ver, e permanece invisível o bastante para que ninguém pergunte por quê.
-
-E era nos relatórios que levavam o nome de Vethran Noll que Selynis havia encontrado as *cargas fantasmas*²⁰.
-
-Cargas fantasmas — o termo era jargão da inteligência, mas o conceito era mais sofisticado do que o nome sugeria. As crianças saíam do Orfanato Luminis com documentação perfeita — transferências legítimas para academias elementais reais, assinadas por mestres regionais, confirmadas pela diretora. Thar Elara recebia, semanas depois, cartas de confirmação de chegada — papel timbrado da academia, assinatura do mestre responsável, nota sobre a adaptação da criança. Tudo impecável. Tudo falso. Na realidade, as crianças eram interceptadas nas estradas por mercenários de Umbra antes mesmo de chegarem às portas das academias. Os documentos de chegada eram forjados com maestria — os mesmos timbres, as mesmas assinaturas, os mesmos formulários que qualquer academia usaria. E em Sanctrum, os registros internos eram alterados — sempre assinados ou inicialados por Vethran Noll — para indicar que a criança havia sido "realocada" para outra instituição, criando um rastro burocrático circular que nunca levava a lugar nenhum. Se aqueles documentos eram produto de iniciativa própria ou de ordens que vinham de mais alto, Selynis ainda não tinha como determinar. Thar Elara, com toda sua perspicácia, recebia confirmações que pareciam autênticas — porque eram autênticas demais para levantar suspeitas. O crime não era uma falha de burocracia, mas uma obra-prima de falsificação.
-
-Selynis havia identificado doze dessas operações nos últimos dezoito nyras. Doze crianças — nomes, idades, afinidades elementais presumidas — que haviam saído do Orfanato Luminis e haviam desaparecido do mapa oficial de Nova Aetherion como se nunca tivessem existido.
-
-Doze crianças.
-
-*Tráfico de talentos*, Selynis pensou, e o termo, embora já suspeitado, ganhava uma concretude que fazia seu estômago revirar. O que estava documentado naquela mesa não era um crime comum — não era roubo, não era extorsão, não era qualquer infração que pudesse ser tratada pelas cortes regulares. Era algo sistêmico. Organizado. Coordenação entre pelo menos três nós — alguém no orfanato que autorizava as saídas e fornecia os documentos de transferência, mercenários nas estradas que executavam as interceptações, e alguém em Sanctrum que forjava as confirmações de chegada e alterava os registros finais. Cada nó operava de forma independente, sem conhecimento completo da operação — uma estrutura de compartimentalização que tornava quase impossível rastrear a rede até a fonte. E acima de todos os nós, beneficiando-se da operação, havia uma mente estrategista que coordenava tudo das sombras.
-
-Selynis cruzou os dados mais uma vez, seus dedos traçando linhas entre nomes e datas e rotas, e um padrão emergiu que a fez parar de respirar.
-
-As transferências fantasma seguiam um padrão de timing preciso. Selynis sobrepôs as datas ao calendário de eventos oficiais — festas, cerimônias, expedições —, e percebeu que todas as transferências fantasma coincidiam com janelas em que a vigilância nas estradas estava reduzida. Períodos de festas, quando os destacamentos de patrulha eram enxugados para cobrir eventos. Expedições como o ciclo de viagem, quando crianças legítimas saíam do orfanato em grandes grupos e o movimento extra nas estradas não levantava suspeitas. As interceptações não eram aleatórias — eram cirúrgicas, executadas em momentos onde a probabilidade de testemunhas era mínima.
-
-E foi então que ela notou o último dado — o mais recente, adicionado à pilha há menos de um dia.
-
-Thalendris.
-
-O relatório mais recente sob o nome de Vethran Noll mencionava uma autorização de acesso portuário irrestrito em Thalendris — não uma nova interceptação ainda, mas um documento que havia sido preenchido com detalhes incompletos, como se alguém estivesse preparando o terreno para uma futura operação. O documento liberava acesso irrestrito aos cais de Thalendris para uma equipe de 'pesquisadores civis', assinado por canais irregulares e expedido exatamente para as mesmas datas do ciclo de viagem do Orfanato Luminis. O que chamou a atenção de Selynis não foi o documento em si — liberações portuárias para equipes de pesquisa eram comuns nas costas de Sylvaris —, mas a convergência de datas: uma equipe de civis recebendo acesso irrestrito aos cais no exato momento em que duzentas e trinta e uma crianças órfãs chegariam para uma excursão escolar.
-
-*O acesso é a brecha*, Selynis pensou, e suas mãos, que haviam permanecido firmes durante velares de análise, começaram a tremer levemente. *Eles estão usando pesquisadores civis como fachada para posicionar agentes nos cais exatamente quando as crianças chegam.*
-
-Não eram apenas os registros de transferência que passavam pelo crivo de Selynis. Como mestra da Informação, ela tinha acesso formal a toda correspondência que transitava pelos canais do Palácio de Cristal — incluindo os relatórios periódicos que guardiões designados enviavam ao *En Me* sobre o bem-estar das crianças sob sua custódia. Eram informes rotineiros, redigidos com a neutralidade burocrática típica desses documentos, enviados por mensageiros que levavam velares para percorrer a distância entre os reinos e Sanctrum. Nenhum era instantâneo. A maioria era monótona o bastante para adormecer um vigilante de plantão.
-
-Mas entre os últimos relatórios recebidos, um havia prendido a atenção de Selynis — não pelo conteúdo em si, mas pela convergência que ele criava com os dados que já estava analisando. O informe, escrito por uma guardiã cuja identidade Selynis reconhecia como uma agente aposentada da ordem designada para proteção de menores, mencionava a iminência do ciclo de viagem anual do Orfanato Luminis e o destino planejado: Thalendris, costa oeste de Sylvaris. O relatório era de doze velares atrás — o que significava que, se os mensageiros mantivessem o ritmo habitual, as crianças já estavam em Thalendris. Ou muito perto.
-
-E a peça final do quebra-cabeça se encaixou quando Selynis rastreou a origem do documento — não até Vethran Noll, que era apenas o intermediário, mas até a fonte que havia fornecido as instruções para que Noll preenchesse o registro. A fonte era um fundo diplomático — não atribuído a nenhum nome específico, canalizado através de uma conta fiduciária anônima usada por embaixadas para operações que não constavam em relatórios públicos. Selynis conhecia aquele tipo de mecanismo: todas as missões diplomáticas os mantinham para despesas sensíveis, e a maioria eram legítimas — pagamentos a informantes, resgates discretos, operações que exigiam denibilidade. Mas este fundo tinha um volume de transações e uma frequência de instruções que não correspondiam a nenhuma embaixada ativa no Palácio de Cristal.
-
-Alguém estava usando a infraestrutura diplomática como couraça — escondendo operações ilegais por trás da imunidade de que as representações estrangeiras usufruíam dentro de Sanctrum. E esse alguém tinha acesso a informações que só um alto funcionário do governo ou um diplomata de alto escalão possuiria: conhecimento das rotas de patrulha, dos calendários de vigilância, dos protocolos de transferência de órfãos. Selynis não tinha um nome — não ainda —, mas a assinatura das operações era clara: havia uma mente brilhante e paciente orquestrando tudo das sombras, usando o próprio sistema que Selynis dedicara a vida para proteger como ferramenta para desmontá-lo por dentro.
-
-Mas Selynis, cuja vida inteira havia sido dedicada a questionar o que ninguém questionava, havia começado a notar padrões há mais de um valen — padrões que apontavam para um perfil específico: alguém com acesso privilegiado à infraestrutura diplomática, conhecimento íntimo dos protocolos de segurança, e a capacidade de mover peças no tabuleiro sem levantar suspeitas. Alguém que não era um burocrata corrupto, nem um mercenário, mas algo mais perigoso — um estrategista que operava de dentro do próprio sistema.
-
-E agora, com os dados sobre o esquema espalhados diante dela como peças de um tabuleiro cujo jogo ela estava apenas começando a compreender, Selynis percebeu algo que a fez sentir um frio que não era físico, mas político: o tráfico de talentos não era um crime isolado. Não era a ação de um burocrata corrupto ou de uma guilda de mercenários ambiciosa. Era um plano coordenado por alguém que conhecia o sistema de proteção infantil melhor do que ninguém — e que estava usando esse conhecimento para desmontá-lo por dentro. A mente por trás de tudo era uma mente que pensava em valens, não em dias. Que compartimentalizava operações de forma que cada peça não soubesse das outras. Que plantava falsas pistas e apagava rastros com a precisão de um cirurgião. E que, de alguma forma, mantinha-se completamente invisível mesmo enquanto orquestrava a maior rede de sequestro infantil que Nova Aetherion já havia visto.
-
-Selynis se recostou na cadeira e fechou os olhos por um momento, processando o peso do que havia descoberto. O que estava diante dela não era apenas uma conspiração — era uma infiltração. Alguém dentro da própria estrutura de governo de Nova Aetherion estava usando o sistema de proteção infantil como uma ferramenta para sequestrar crianças com afinidades elementais valiosas. E se Selynis estava certa — e ela estava certa, porque os dados não mentiam —, esse alguém tinha aliados nas profundezas, forças que operavam além do alcance dos reinos e que buscavam algo mais específico do que talentos aleatórios.
-
-*Eles estão procurando alguém*, Selynis pensou, e a ideia se formou com a clareza de um cristal sendo lapidado. *Não estão apenas coletando crianças com afinidades comuns. Estão procurando alguém específico. Uma assinatura específica. Uma linhagem específica.*
-
-Selynis cruzou a data do relatório interceptado com a da autorização de acesso portuário em Thalendris, e sentiu o chão desaparecer sob seus pés. Os dois documentos se alinhavam como engrenagens de uma máquina que ela só agora começava a enxergar por completo. A operação em Thalendris não era teórica — era iminente. As crianças do Orfanato Luminis já estavam em Thalendris, e se o padrão se mantinha — e todos os dados indicavam que se mantinha —, os mercenários de Umbra que executavam as capturas nas sombras estariam lá, esperando. O documento pendente, com o campo de afinidade propositalmente em branco, sugeria que desta vez a rede não procurava qualquer talento — procurava algo específico. Algo que ainda não sabiam identificar por nome. Até que encontrassem.
-
-As peças estavam se movendo no tabuleiro. E as crianças do Orfanato Luminis estavam caminhando direto para o ponto onde as sombras eram mais densas.
-
-Selynis abriu os olhos e olhou para os dados diante dela — os nomes, as datas, as rotas, os nomes roubados. E então, com a precisão de quem sabe que cada pulso conta, ela começou a escrever.
-
-Não um relatório oficial — relatórios oficiais podiam ser interceptados, lidos, usados contra quem os escrevia. Selynis escreveu uma carta curta, cifrada em um código que apenas uma pessoa em todo Nova Aetherion conseguiria decifrar. Uma carta que não mencionava nomes, não mencionava lugares, não mencionava conspirações. Apenas três frases:
-
-*"O mapa está mais completo do que eu temia. As peças se movem em Thalendris. Proteja o que não pode ser substituído. Costure firme. O tear está girando."*
-
-Ela selou a carta com um símbolo que não pertencia a nenhuma organização oficial — uma asa estilizada, semelhante à que a própria Lyris usava em seus relatórios, mas diferente em um detalhe que apenas as duas conheciam.
-
-A carta seria transmitida antes do amanhecer, despachada através de um canal aetheris cifrado de alta velocidade, uma via invisível que apenas os *Tar-Gig* ousavam utilizar — sem mensageiros, sem rastros, sem registros. Apenas o pulsar de cristais em sintonia através de centenas de passos, levando três frases que poderiam mudar tudo.
-
-E enquanto Selynis apagava a lâmpada aetheris e deixava a câmara subterrânea em escuridão, ela permitiu-se um momento de algo que não era medo — era reconhecimento. Reconhecimento de que as sombras eram mais profundas do que qualquer um imaginava. Reconhecimento de que as forças que se moviam nas profundezas de Nova Aetherion não eram caóticas nem desorganizadas — eram coordenadas, pacientes, e mais perto do que qualquer um queria admitir.
-
-E reconhecimento, acima de tudo, de que o tempo estava acabando.
+Nyx, sentindo o choro de sua dona, chiou suavemente e lambeu a mão de Alyndra com sua língua áspera e quente, como se pudesse lamber as lágrimas e transformá-las em algo que não fosse dor.
 
 ---
 
-**[FIM DO CAPÍTULO VII]**
+**IV. Flores de Gelo sobre Cinzas**
+
+Foi o pingente que desencadeou.
+
+Alyndra segurava o objeto negro em uma mão e a carta de Melessa na outra, e entre os dois havia toda uma vida — a vida que foi, a vida que poderia ter sido, a vida que ainda será. Nyx dormia em seu colo, exausto pela emoção do reencontro. E Alyndra, sentada no chão da casa de pedra onde nasceu e cresceu e perdeu a pessoa mais importante de sua vida, sentiu algo que não conseguia nomear se acumular dentro de seu peito como água represada atrás de uma represa.
+
+Era amor e era dor e era saudade e era alívio e era gratidão e era culpa e era esperança e era desespero — tudo convergindo em uma única corrente que não tinha direção nem sentido, apenas força.
+
+O brilho começou em suas mãos.
+
+A luz azul que pulsava sob a pele de Alyndra era mais do que um brilho — era uma luminescência que parecia vir de algum lugar profundo, de algum lugar que não era este mundo.
+
+A temperatura na casa caiu.
+
+Não aos poucos — mas de súbito, como se escancarassem uma porta para o inverno no meio da primavera. O ar se tornou gelado em um piscar de olhos, e a umidade se transformou em pequenas nuvens brancas. Os Aga Uru que ficavam do lado de fora — Lyris os ouviu através da parede — instintivamente levaram as mãos às armas.
+
+E então as flores nasceram.
+
+Não flores de verdade — flores de gelo. Cristais delicados e intrincados que brotaram do chão de pedra da casa como se a própria terra estivesse chorando em forma de cristal. Começaram ao redor de Alyndra, expandindo-se em círculos concêntricos, cada flor mais complexa e mais bela que a anterior. Pétalas de gelo se formavam sobre as tábuas do assoalho, sobre a superfície da mesa, sobre os braços da cadeira de Melessa. Nos cantos da lareira, onde as cinzas frias repousavam, cristais de gelo se formaram sobre as brasas mortas, cobrindo-as com uma camada de flores congeladas que brilhavam com uma luz azul suave.
+
+Em cada superfície que a luz alcançava, gelo se formava em padrões que eram ao mesmo tempo caóticos e perfeitamente ordenados, como se obedecessem a uma geometria que não pertencia a este mundo. As flores eram de uma delicadeza impossível — pétalas translúcidas que refratavam a luz de Aurion em espectros de azul e branco e prata.
+
+Alyndra não parecia consciente do que estava acontecendo. Seus olhos estavam fechados, seu rosto sereno, como se estivesse em um transe.
+
+Lyris permaneceu imóvel. Seus instintos de agente gritavam para que agisse, mas seus instintos mais profundos a diziam para ficar. Para observar. Para testemunhar.
+
+*Isso é cryonys*, Lyris pensou. *Mas não como descrito nos registros. Isso é algo mais. Isso é uma convergência.*
+
+E então, tão abruptamente quanto começou, terminou.
+
+O brilho se apagou como uma vela soprada pelo vento. Alyndra arregalou os olhos por um instante — olhos que brilhavam com uma luz azul tão intensa que Lyris deu um passo involuntário para trás — e depois desabou, seu corpo mole caindo para o lado como uma marionete com os fios cortados.
+
+Lyris apanhou Alyndra antes que sua cabeça batesse no chão. A criança estava exausta — seu corpo quente contra os braços de Lyris, sua respiração rápida e superficial, sua pele pálida mas viva.
+
+Do lado de fora, Torvas apareceu na porta, a mão no cabo da espada. O que viu fez com que congelasse.
+
+A casa de pedra estava coberta de gelo. Flores de cristal azul brilhavam em cada superfície, refletindo a luz de Aurion em padrões que pareciam vivos. Atrás de Torvas, os dois Aga Uru haviam se posicionado de costas para a parede externa — instinto de combate — e seus olhos percorriam o interior da casa como quem avalia uma ameaça que não consegue nomear. O mais jovem tinha a mão branca de tanta força apertando o cabo da lança. O outro, mais velho, murmurou algo entre os dentes — uma palavra que soava como uma praga antiga — e não tirou os olhos de Alyndra.
+
+— Lyris — Torvas disse, e sua voz, normalmente controlada, carregava algo que Lyris identificou como assombro. — O que foi isso?
+
+— Uma manifestação elemental — Lyris respondeu, a voz neutra. — A criança tem afinidades que estão despertando. Não é perigoso.
+
+Torvas não pareceu convencido. Seus olhos foram de Alyndra para as flores de gelo, das flores para o assoalho, do assoalho de volta para Alyndra. Ele conhecia manifestações elementais — toda Nu Bandi treinada em Velantis sabia reconhecer os sinais básicos. Mas aquilo não era básico. Aquela casa parecia ter sido tocada por algo que ele não tinha palavras para descrever.
+
+Ele se afastou da porta sem fazer mais perguntas, mas Lyris notou o olhar que trocou com os Aga Uru — um olhar longo, carregado de significado, do tipo que guerreiros experientes usam quando presenciam algo que vai além do que esperavam encontrar naquela patrulha.
+
+*Para nós*, Lyris pensou, observando as costas de Torvas se afastarem. *Para nós, não é perigoso. Mas eles viram. E guerreiros treinados não esquecem o que veem.*
+
+As flores de gelo começaram a derreter lentamente, gotas de água cristalina escorrendo pelas pétalas translúcidas como lágrimas de um ser que havia chorado de beleza e depois adormecido.
+
+Alyndra murmurou algo em seu sono exausto — uma palavra que Lyris quase não ouviu, mas que registrou com a precisão de quem aprende a guardar cada detalhe.
+
+*Estrela.*
 
 ---
 
-> **Nota aos leitores:** O material abaixo — glossário, linha do tempo, previsão — é material de referência. No livro publicado, será realocado para o apêndice ao final do volume. Aqui, permanece como suporte à leitura serializada.
+**V. O Retorno e o Presente de Aurion**
+
+Levou quase uma hora até que Alyndra recuperasse a consciência. Lyris permaneceu ao seu lado o tempo todo, a criança deitada sobre as cobertas que havia arrancado da cama de Melessa, Nyx enroscada contra seu pescoço como um cobertor vivo. Quando Alyndra finalmente abriu os olhos, estavam turvos e confusos — ela olhou ao redor sem reconhecer o lugar por um instante, e então o viu: o gelo. As flores de cristal azul cobrindo cada superfície da casa como se um jardim tivesse nascido durante seu sono. Seus olhos se arregalaram.
+
+— Eu... eu fiz isso?
+
+— Você descansou — Lyris respondeu, evitando a pergunta com a precisão de quem sabia que aquela não era uma conversa para ali. — Como você se sente?
+
+Alyndra tentou se sentar e falhou. Seu corpo estava pesado, como se estivesse feito de pedra. Mas sua mente já funcionava — e nela, duas coisas competiam por espaço: o espanto pelo que via ao redor e o medo do que não compreendia. Lyris a ajudou a se levantar, recolheu a caixa de Melessa, o pingente e a carta, e conduziu-a para fora da casa.
+
+A viagem de volta começou no início da tarde, quando Aurion já havia passado do zênite e começava sua descida gradual em direção ao horizonte ocidental. Alyndra caminhava entre Lyris e o Aga Uru mais jovem, com Nyx aninhada em seus braços. O lyrien tinha recuperado um pouco de sua vitalidade — talvez pelo calor do corpo de Alyndra, talvez pelo alívio de estar de volta com sua dona, talvez pelas sementes doces que Lyris havia conseguido em uma das casas de Mespiria. Seus olhos dourados estavam mais abertos agora, e sua cauda já fazia movimentos pequenos e ocasionais.
+
+O caminho de volta foi mais silencioso do que o de ida. Alyndra estava exausta pela manifestação cryonys, e suas pernas curtas se moviam com uma determinação que era maior do que sua força. Lyris a observava de canto de olho, calculando se precisaria carregá-la, mas Alyndra recusava qualquer ajuda, murmurando "Eu consigo andar" toda vez que Lyris sugeria uma pausa.
+
+Foi então que Torvas diminuiu o passo e se colocou ao lado de Lyris, a voz baixa o bastante para que apenas ela ouvisse.
+
+— Três montarias. Acompanhando nosso flanco desde a curva do riacho. Pararam quando paramos. Retomaram quando retomamos.
+
+Lyris não virou a cabeça. Não acelerou.
+
+— Ainda estão?
+
+Torvas confirmou com um meio-aceno, quase imperceptível. Lyris calculou distâncias. Mespiria ficara para trás. Velantis ainda estava a meia caminhada. Três velroks. Não atacariam na frente de dois Aga Uru armados — mas a informação era um fio de navalha: sabiam que o grupo existia, sabiam que voltava, sabiam o caminho. Lyris respirou fundo e manteve o passo. Mais tarde registraria o fato em seu relatório. Naquele momento, apenas continuou andando, protegendo Alyndra com o corpo entre ela e a borda da estrada.
+
+Aurion começava a se pôr quando as muralhas da Cidadela Luminis surgiram no horizonte. Lyria já estava alta no céu oriental, sua luz prateada banhando os telhados de Velantis. Nyx, descansando nos braços de Alyndra, ergueu a cabeça e olhou para Lyria com seus olhos dourados.
+
+Alyndra também olhou para Lyria, e um sorriso pequeno cruzou seus lábios cansados.
+
+— Vó Melessa dizia que Lyria era a guardiã das promessas. Que ela iluminava a nyxara para que as pessoas pudessem encontrar o caminho de volta para casa.
+
+Lyris não respondeu. Mas pensou em quantas promessas haviam sido cumpridas naquele dia — a promessa de buscar Nyx, a promessa de Melessa de nunca deixar Alyndra sozinha, a promessa que uma menina de quatro valens havia feito a si mesma ao deixar Mespiria pela primeira vez.
+
+Passaram pelo sinalizador de aethra do portão principal. A esfera pulsou com sua luz habitual, envolvendo cada membro do grupo. Quando atingiu Alyndra, a luz hesitou — por mais tempo do que na partida, quase dois pulsos inteiros —, e Lyris notou que os Aga Uru também perceberam. Mas a esfera se apagou, a porta se abriu, e eles entraram na Cidadela Luminis.
+
+E foi então que Alyndra notou que algo estava diferente.
+
+Havia luzes nas janelas do refeitório — mais luzes do que o habitual para aquela hora. Sons vinham do pátio interno — vozes, risos, o som de instrumentos simples sendo tocados. O ar carregava um perfume que não era o da sopa de lumiara habitual, mas algo mais doce, mais festivo.
+
+Alyndra olhou para Lyris com uma expressão de confusão.
+
+— O que está acontecendo?
+
+Lyris, que havia planejado cada detalhe da viagem e que sabia exatamente que dia era, sentiu um sorriso cruzar seus lábios — um sorriso raro, genuíno.
+
+— Acho que você vai descobrir.
+
+O grito veio de todos os lados ao mesmo tempo, uma explosão de vozes infantis e adultas que ressoou pelas paredes de pedra da Cidadela Luminis como uma onda de alegria pura e incontrolável.
+
+— PARABÉNS!
+
+O pátio interno do orfanato havia se transformado. Correntes de giralis e aeriva estavam penduradas entre as colunas e ao longo das paredes, criando arcos de flores prateadas e trepadeiras verdes. Lanternas de cristal aetheris flutuavam no ar, suspensas por fios finíssimos que eram quase invisíveis. Mesas foram colocadas ao longo do pátio, cobertas com toalhas coloridas e carregadas de comida — bolos de aethrys decorados com camadas douradas, tigelas de sopa de lumiara, doces feitos com mirael que brilhavam com uma luz própria, e no centro de tudo, em uma mesa maior que as demais, um bolo redondo coberto de glacê branco com cinco pequenas velas — não de cera, mas de cristal aetheris condensado, que ardiam com uma chama dourada constante que não se apagava com o vento.
+
+E as crianças — todas as crianças do orfanato — estavam ali, sorrindo, gritando, aplaudindo. E no centro de tudo, de pé ao lado da mesa do bolo com um sorriso que Lyris nunca havia visto em seu rosto, estava Mira.
+
+— SURPRESA! — Mira gritou, correndo até Alyndra e a abraçando com uma força que quase fez Alyndra largar Nyx. — Feliz aniversário, Alyndra! Você fez cinco valens hoje!
+
+Alyndra olhou para Mira com uma expressão de completo desamparo. Cinco valens. Seu aniversário. Ela tinha esquecido completamente — entre a viagem a Mespiria, o reencontro com Nyx, a caixa de Melessa, a carta, a manifestação cryonys, a exaustão, ela havia esquecido que era seu aniversário.
+
+— Eu... eu esqueci — Alyndra sussurrou.
+
+— É claro que você esqueci! — Mira disse, rindo. — Você estava ocupada salvando seu melhor amigo! Mas eu não esqueci. Eu lembrei há nyras, quando vi a data no calendário da Thar Elara. E ela me ajudou a planejar tudo!
+
+Alyndra olhou além de Mira, para o pátio cheio de luz e cor e som, e viu Thar Elara parada perto da porta do refeitório. Quando seus olhos encontraram os de Alyndra, a diretora fez um gesto quase imperceptível com a cabeça — um aceno que era ao mesmo tempo reconhecimento e bênção.
+
+A emoção que tomou conta de Alyndra naquele momento era de uma complexidade inimaginável. Era alegria pela festa, pela surpresa, pela generosidade de todas aquelas pessoas que ela mal conhecia. Era gratidão por Mira, que tinha pensado nela, que tinha planejado tudo. Era tristeza — sempre tristeza, sempre um pouco de tristeza, porque Melessa não estava ali para ver. E era amor — puro, simples, avassalador, o tipo de amor que uma criança sente quando descobre, de forma inequívoca, que é querida.
+
+Alyndra começou a chorar. Mas dessa vez eram lágrimas de felicidade.
+
+Ela abraçou Mira com toda a força que tinha, sussurrando Obrigada. Obrigada. Obrigada. no ouvido de sua amiga. Depois abraçou Lyris, que a recebeu com uma gentileza que contrastava com sua postura normalmente controlada. E quando se afastou, ergueu Nyx em seus braços para que todos pudessem ver.
+
+— Essa é a Nyx — Alyndra disse, e sua voz se ergueu acima do barulho do pátio com uma clareza que fez todos os olhos se voltarem para ela. — Ela ficou em Mespiria me esperando durante o inverno inteiro. Ela é minha melhor amiga.
+
+As crianças rodearam Alyndra, curiosas, estendendo mãos para tocar a pelagem prateada de Nyx com a timidez de quem encontra uma criatura que nunca viu antes. Nyx, geralmente cautelosa com estranhos, não recuou.
+
+A festa continuou. As crianças cantaram canções que Mira havia ensaiado durante nyras. A sopa de lumiara foi servida e devorada. Os bolos de aethrys desapareceram em pulsos. E quando chegou a hora do bolo — o bolo com cinco velas de cristal aetheris —, Thar Elara se adiantou e, com uma voz que Alyndra nunca havia ouvido tão suave, disse:
+
+— Faça um pedido, Alyndra. E sopre as velas.
+
+Alyndra fechou os olhos. O mundo ao redor desapareceu — as vozes, os risos, as luzes, os sons. Restou apenas ela, Nyx quente contra seu peito, e o silêncio dentro de seu coração onde as palavras de Melessa ainda ecoavam.
+
+*Você é minha pequena estrela. E estrelas, mesmo quando não podemos vê-las, nunca deixam de brilhar.*
+
+*Eu não vou pedir nada para mim*, Alyndra pensou. *Eu vou pedir que todos aqui sejam felizes. E que Nyx nunca mais fique sozinha. E que vó Melessa possa me ver de onde estiver.*
+
+Ela abriu os olhos e soprou. As cinco chamas de cristal se apagaram simultaneamente. As crianças aplaudiram. Mira gritou de alegria.
+
+Alyndra dormiu naquela nyxara com o sorriso ainda no rosto, Nyx enroscada a seus pés como um cobertor prateado e quente, a carta de Melessa dobrada debaixo de seu travesseiro e o pingente negro no criado-mudo ao lado da cama. E pela primeira vez desde que havia deixado Mespiria — pela primeira vez desde que Melessa havia partido —, ela dormiu sem sonhos, sem pesadelos, sem o peso de algo faltando. Completamente. Inteiramente. Em paz.
 
 ---
 
-## 📖 Glossário do Capítulo (termos novos)
+A festa terminou devagar, como todas as festas que são boas terminam — não abruptamente, mas em ondas sucessivas de despedida, com crianças sendo levadas para a cama uma a uma pelos cuidadores noturnos, com lanternas sendo apagadas, com o som de risos e canções diminuindo gradualmente até que o pátio voltasse ao seu silêncio habitual.
 
-¹ **veleiros de estrada** — Veículos movidos a cristais aetheris que flutuam sobre os trilhos de vento
-² **ciclo de viagem** — Tradição anual do Orfanato Luminis; expedição que leva crianças a conhecer o mundo
-⁴ **timoneiros de vento** — Condutores que sintonizam os cristais dos veleiros com as correntes atmosféricas
-⁵ **trilhos de vento** — Caminhos invisíveis de corrente induzida que servem de rota para os veleiros
-⁶ **Thalendris** — Cidade portuária na costa oeste de Sylvaris; Cidade das Falésias Brancas
-⁷ **Torvin Thalassor** — Amigo de Alyndra no orfanato; 8 valens; afinidade fraca com água
-⁸ **Kira Dravenis** — Monitora júnior do grupo; 15 valens; sylentis; ruiva, de Pyralis
-⁹ **sylentis** — Pessoa sem afinidade elemental manifestada; termo pejorativo para 'adormecido'
-¹⁰ **Dravyn Kelvathis** — Criança isolada do orfanato; 12 valens; Despertado de Sombra (Coroa Sombria no RPA); filho de mercenário de Terraxis
-¹¹ **nyxara de fogo** — Tradição do ciclo de viagem onde crianças compartilham histórias de perda
-¹² **koramis** — Aves gigantes de montaria de Sylvaris; envergadura de ~10 passos; penas cromáticas
-¹³ **mushen kora** — Nome antigo do koramis; significa 'Ave do Coração'
-¹⁵ **velkora** — Dispositivo analógico de Umbra; microcristais de aetherite que capturam assinaturas espirituais
-¹⁶ **aetherite** — Cristal usado em dispositivos de gravação espiritual
-¹⁸ **Selynis Thalassa** — Mestra da Informação de Sanctrum; membro do Conselho dos 12
-¹⁹ **Vethran Noll** — Funcionário de médio escalão em Sanctrum; seu nome reaparece com frequência suspeita nas autorizações de transferência de órfãos.
-²⁰ **cargas fantasmas** — Crianças que saem do orfanato com documentação legítima e são interceptadas; rastro burocrático circular
+Lyris ficou no pátio até que a última criança foi para dentro. Observou os voluntários recolherem as mesas, as correntes de giralis, os restos da festa. Observou as estrelas aparecerem no céu uma a uma.
 
-> **Nota:** Os termos ³ (aerélias), ¹⁴ (desprovidos) e ¹⁷ (Umbra) foram introduzidos em capítulos anteriores e foram removidos deste glossário para publicação. Consulte o apêndice para definições completas.
+Foi quando se preparava para se retirar que ela parou. Não por uma presença externa — o pátio estava vazio. Lyris parou porque lembrou.
+
+O compartimento interno do manto. O objeto envolto em pano escuro que guardava havia nyras — desde aquela nyxara no gabinete de Aurelius em Sanctrum, quando o En Me lhe entregara o pacote com uma instrução: *Quando a criança completar cinco valens, entregue pessoalmente, em um momento tranquilo, longe de olhos alheios.* E agora Alyndra tinha completado cinco valens. E a festa estava terminada. E o momento era este.
+
+Lyris caminhou até o dormitório de Alyndra com passos silenciosos, abriu a porta e entrou. A criança dormia de lado, uma mão pendurada da cama, os dedos quase tocando Nyx, que estava enroscada em seus pés como uma esfera de pelagem prateada. O lyrien chiou suavemente quando Lyris se aproximou, mas não se moveu — reconheceu a assinatura etérica da guardiã e voltou a dormir.
+
+Lyris retirou o objeto do compartimento do manto. Desdobrou o pano escuro com cuidado, e a luz dourada — tão quente, tão viva, pulsando como um coração minúsculo preso em cristal — banhou seu rosto por um instante. Não era dos cristais comuns que iluminavam o orfanato. Sua luz era diferente — mais profunda, mais pessoal.
+
+Preso ao cristal, por uma fina tira de couro, havia um bilhete. Lyris já o havia lido naquela nyxara em Sanctrum, quando Aurelius virou as costas por breves instantes. *"Para a estrela que nasceu na tempestade. — Um amigo distante."* A letra era deliberadamente genérica, desprovida de qualquer traço que pudesse identificá-la, mas Lyris conhecia os padrões — a inclinação dos *a*s, o modo como os *t*s eram cruzados com um traço ligeiramente mais longo à direita. *Aurelius. Você mandou uma agente aposentada fazer o que você mesmo não pode — entregar um presente para a sua própria filha.*
+
+Ela colocou o cristal aetheris sobre o criado-mudo de Alyndra, ao lado da cama. O cristal pulsava com uma luz dourada muito suave, como um batimento cardíaco lento e constante — e, por um instante, algo estranho aconteceu. A luz do cristal e o brilho que às vezes emanava da pele de Alyndra vibraram na mesma frequência, produzindo um eco ressonante que Lyris sentiu nas pontas dos dedos, como a corda de um instrumento que fosse afinada. Depois passou. O cristal voltou a pulsar em seu ritmo calmo. Alyndra continuou dormindo.
+
+*O presente de Aurion*, Lyris pensou. *Um cristal com luz quente para uma filha que ele nunca pode segurar.*
+
+Ela permaneceu na porta por um longo momento, observando. A criança dormindo, o lyrien respirando, o cristal pulsando. *Quando ela acordar*, Lyris pensou, *vai perguntar quem mandou isso. Vai olhar para o cristal e para o bilhete e vai querer saber. E eu não vou ter uma resposta que possa dar — não uma verdadeira.* Mas aquela era uma preocupação para o dia seguinte. Lyris afastou o pensamento e formulou em sua mente as palavras que escreveria em seu relatório — o relatório que enviaria a Aurelius na próxima caravana.
+
+*Manifestação cryonys confirmada. Magnitude significativamente superior ao esperado para a idade. Flores de gelo com complexidade estrutural sem precedentes nos registros disponíveis. A criança não demonstrou consciência durante a manifestação e colapsou em exaustão imediatamente após. Recomendo: monitoramento contínuo, restrição de informação, e avaliação especializada quando a criança atingir idade adequada. Nyx — o lyrien prateado — foi resgatada com sucesso. Vínculo com a criança confirmado como profundo e permanente. Alyndra completou cinco valens hoje, no primeiro audin do Itu do Despertar. A criança está bem.*
+
+Lyris afastou-se da porta e caminhou pelo corredor silencioso do orfanato, seus passos ecoando na pedra com o ritmo medido de quem está acostumada a andar nas sombras. O vento de Sylvaris soprava do lado de fora, carregando o perfume das giralis que se abriam durante a nyxara.
+
+E enquanto caminhava, Lyris pensou em tudo o que havia mudado naquele dia. Alyndra tinha seu lyrien de volta. Tinha a carta de Melessa. Tinha o pingente que não entendia. Tinha cinco valens e uma festa de aniversário e amigos que a queriam. Tinha um presente de um pai que não conhecia, pulsando suavemente em seu criado-mudo como um coração que não podia estar ali mas que, de alguma forma, estava.
+
+*Eu vou cuidar dela*, Lyris pensou, e a frase não era nova — ela a pensava todos os dias desde que aceitara a missão de Aurelius —, mas naquela nyxara, depois de tudo o que vira e sentira e testemunhou, carregava um peso diferente. Não era mais uma obrigação de missão. Era uma escolha.
+
+Era amor. O tipo de amor que cresce devagar, sem que se perceba, como os brotos de aethrys sob a neve — silencioso, paciente, inevitável.
+
+Lyris entrou em seu quarto, ativou um cristal luminoso, e começou a escrever.
+
+Ao seu lado, em um dormitório não muito distante, Alyndra dormia profundamente. Nyx ronronava baixinho. O cristal aetheris pulsava. E Lyria, a guardiã prateada das promessas, brilhava no céu como um farol que nunca se apaga, iluminando a Cidadela Luminis com uma luz que parecia dizer, a quem soubesse ouvir:
+
+*Tudo bem. Ela está segura. E no próximo dia será outro dia.*
+
+---
+
+***[FIM DO CAPÍTULO VII]**
+
+---
+
+> **Nota aos leitores:** O material abaixo é material de referência. No livro publicado, será realocado ao apêndice ao final do volume.
+
+---
+
+### 📖 Glossário do Capítulo
+
+¹ **Nin Aga Soren** — Comandante dos Aga Uru em Velantis.
+
+² **Torvas** — Guia de patrulha de Velantis; líder da Nu Bandi designada para a escolta de Lyris e Alyndra.
+
+³ **cryonys** — Fusão elemental de Água + Vento; manifestação de gelo e congelamento. Em portadores não treinados, pode manifestar-se involuntariamente por emoção intensa — luto, medo ou afeto — cristalizando o ambiente ao redor.

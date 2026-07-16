@@ -6,365 +6,365 @@
 
 # CAPÍTULO XIV
 
-# Sementes na Sombra
+# A Voz que Tudo Ouve
 
-*"A sombra mais perigosa não é aquela que se esconde nas paredes — é aquela que se senta ao seu lado na mesa e sorri."*
-
----
-
-## I. A Teia Invisível
-
-A *Câmara dos Sussurros*¹ não constava de nenhum mapa oficial de Sanctrum².
-
-Era uma sala esculpida na base da *Torre de Aurion*³, abaixo do nível do mar, onde a luz não alcançava e o som se comportava de maneira estranha — as paredes de obsidiana negra absorviam as vibrações em vez de refleti-las, de modo que uma voz erguida a plenos pulmões morria a menos de dois passos de quem a pronunciava. Era um lugar projetado não para que se falasse, mas para que se escutasse — cada sussurro, cada respiração, cada fricção de pergaminho contra madeira amplificada pelo silêncio que a cercava.
-
-Selynis Thalassa sentava-se atrás da mesa de ébano como quem ocupa um trono invisível.
-
-Três relatórios estavam abertos diante dela, dispostos em um arco que seus dedos percorriam com a precisão de um cirurgião examinando radiografias. O primeiro vinha do porto de *Maré de Cristal*⁴ — registros de carga de navios mercantes que cruzavam o mar de Thalassia nos últimos dois meses. O segundo era uma transcrição cifrada de interceptações da *RRA*⁵, cujas frequências ela monitorava através de canais que nem o próprio *Guardião Mestre*⁶ sabia que existiam. O terceiro era um dossiê pessoal — fino, de apenas quatro páginas, mas pesado de um modo que nenhuma balança poderia medir.
-
-O primeiro relatório falava de **cargas fantasmas**⁷.
-
-Não eram mercadorias. Selynis sabia disso. Os registros mostravam compartimentos de carga registrados como "material cerâmico" ou "ferramentas agrícolas" — pesos que não correspondiam ao volume declarado, rotas que faziam desvios inexplicáveis antes de chegar aos portos de destino, e, mais revelador, o fato de que os navios em questão pertenciam a companhias de fachada cujos donos eram, sem exceção, cidadãos de *Umbra*⁸ com residência declarada na *Cidadela Sombria*⁹.
-
-Cargas que não existiam, transportadas por navios que pertenciam a um reino que sorria em assembleias e votava a favor de tecnologias que não compreendia.
-
-Ou compreendia demais.
-
-*Elas são crianças*, Selynis pensou, e o pensamento passou por sua mente com a frieza de uma lâmina — não a frieza de quem não sente, mas a frieza de quem sente e precisa que o sentimento não a paralise. *As cargas fantasmas são crianças.*
-
-Ela não moveu um músculo. Seus olhos verdes permaneceram fixos nos números, nas rotas, nos nomes falsos que escondiam nomes reais, e sua mão direita tamborilou três vezes na mesa — um gesto que qualquer observador teria interpretado como impaciência, mas que era, na verdade, o mecanismo pelo qual ela impedia que a fúria chegasse ao rosto.
-
-O relatório seguinte era mais perturbador ainda.
-
-A RRA — a Rede de Ressonância de Aurion, aprovada há menos de um mês pela Grande Assembleia — estava sendo usada de maneiras que seus criadores jamais haviam previsto. Não que isso fosse surpresa. Toda tecnologia de comunicação, desde o primeiro *koramis*¹⁰ que carregou uma mensagem entre duas torres, torna-se ferramenta de quem sabe ouvir nas frequências que os outros ignoram. As interceptações que Selynis havia compilado mostravam transmissões codificadas em subfrequências da rede — mensagens curtas, quase imperceptíveis, escondidas sob o ruído estático das transmissões regulares do *arauto do éter*¹¹.
-
-Alguém em Umbra havia descoberto como usar a rede como canal clandestino de comunicação.
-
-Ou, mais provável, alguém havia planejado isso desde o início — havia inserido portas traseiras nos cristais durante a construção das Torres de Ressonância, quando os engenheiros de *Fulmora*¹² ainda estavam celebrando o próprio gênio.
-
-Selynis fechou o relatório e o colocou sobre o primeiro.
-
-O terceiro dossiê continha um único nome, transcrito em três contextos diferentes: o relatório da Guarda Costeira de Thalendris, a transmissão pública da Guilda dos Arautos, e um informe interno que ela havia requisitado sob sigilo absoluto.
-
-*Alyndra.*
-
-O nome da menina de cinco valens que havia manifestado *cryonys*¹³ ao salvar uma vida — um poder que o continente não via desde a *Queda de Aetherion*¹⁴. O nome que agora era público, transmitido para cada *receptor de ressonância*¹⁵ dos sete reinos, pronunciado em cada cantina, cada estalagem, cada conselho municipal que tivesse ouvidos para ouvir.
-
-Selynis não franziu a testa. Não suspirou. Mas por dentro, as peças se moviam — cada relatório era uma linha em uma teia que ela estava tecendo há muito mais tempo do que qualquer membro do Conselho poderia imaginar. E agora, de repente, três linhas convergiam no mesmo ponto.
-
-Crianças desaparecendo. Umbra usando a rede que o próprio Conselho aprovara. E uma menina cujo nome estava sendo sussurrado em todos os cantos do continente como se fosse uma canção que ninguém lembrava de ter aprendido.
-
-Selynis levantou-se, ajustou o manto sobre os ombros — um gesto automático, executado com a elegância inconsciente de quem veste armadura desde a infância — e caminhou até a janela que dava para o mar subterrâneo. A luz bioluminescente das águas profundas tingia seu rosto de azul, e seus olhos verdes refletiam aquela luminosidade como se fossem feitos do mesmo material que as profundezas.
-
-*Três frentes*, ela pensou. *E apenas duas mãos.*
-
-Ela sorriu — não o sorriso que oferecia ao Conselho, amplo e desarmante, mas um sorriso menor, mais íntimo, que conhecia apenas as paredes de obsidiana.
-
-*Que assim seja. Sempre foi assim.*
+*"Quando a voz percorre os ventos de aethra e chega aos ouvidos de quem não deveria ouvi-la, não pergunteis se o mensageiro errou — perguntai se o erro era o próprio destino tecendo seus fios onde ninguém ousaria olhar."*
 
 ---
 
-## II. O Conselho dos 12
+## I. O Arauto dos Becos
 
-A primeira sessão formal do *Conselho dos 12*¹⁶ após a Grande Assembleia aconteceu na Sala das Decisões, três dias após a ratificação da RRA.
+Velantis acordou naquela manhã com um bulício que nenhuma tempestade de *aethra*¹ conseguiria dispersar — pois a rede de ressonância de Aurion consolidava seus primeiros ciclos de transmissão regular em Sylvaris. A voz que nascia nos altos salões de Sanctrum agora ecoava diariamente nos distritos comuns, transformando as ruas de paralelepípedos irregulares da segunda maior cidade do reino em um tabuleiro de expectativas onde cada cidadão era ao mesmo tempo peça e espectador.
 
-A mesa circular de madeira antiga — aquela mesma que vira decisões que moldaram continentes — estava disposta no centro da câmara, com dez cadeiras distribuídas ao seu redor em intervalos precisos. Cada assento tinha um pequeno cristal de *aetherite*¹⁷ incorporado ao encosto, pulsando em cores diferentes conforme a área de atuação de seu ocupante. A maioria dos conselheiros já havia chegado quando Selynis entrou — não por uma porta principal, mas por um corredor lateral que apenas três pessoas no continente sabiam que existia.
+O nevoeiro matinal subia do Porto dos Sussurros, denso e salgado, misturando-se ao cheiro de poeira e carvão das forjas e à fragrância doce do pão de *aethrys*² recém-assado.
 
-Ela tomou seu lugar no *Assento Ukam*¹⁸ com a naturalidade de quem chega a um lugar que lhe pertence há mais tempo do que a memória de qualquer um dos presentes. Seu manto de tecido escuro — nem preto, nem azul, mas algo entre os dois que mudava de cor conforme a luz — caiu sobre os ombros em dobras impecáveis, e seus olhos percorreram a mesa com uma expressão que era, ao mesmo tempo, cortês e absolutamente avaliadora.
+A brisa fria trazia o sussurro das marés, mas as conversas nas esquinas abafavam o som do oceano.
 
-— Agradeço a presença de todos — disse a voz do *Senhor dos Debates*¹⁹, um homem idoso cuja função era conduzir as sessões sem participar delas. — Temos três assuntos na pauta de hoje: a implementação da RRA nos territórios aliados, os relatórios de atividade irregular nas rotas comerciais de Thalassia, e a distribuição dos fundos de reserva para o próximo valen.
+Lysias Thyrion, com seus vinte valens mal contados e um caderno de anotações que parecia prestes a desintegrar-se — as páginas amareladas presas por uma corda de couro tão gasta quanto a paciência de seu editor —, atravessou a Praça dos Ventos Giratórios com a desenvoltura de quem aprendeu a andar antes de aprender a ter vergonha.
 
-O Senhor dos Debates prosseguiu com a primeira pauta. Os conselheiros do Assento III e do Assento V debateram questões de manutenção das Torres de Ressonância, enquanto o Assento VII levantou preocupações sobre o custo operacional da rede em territórios remotos. Selynis ouviu tudo em silêncio, os dedos entrelaçados sobre a mesa, o olhar ligeiramente desfocado — a expressão de quem está pensando em outra coisa, ou que quer que pensem que está.
+Suas botas de couro desbotado batiam contra as pedras úmidas, e seus dedos, manchados de tinta cinza-azulada, ajeitavam os óculos redondos cuja haste esquerda estava presa por um nó de barbante.
 
-Quando o assunto seguinte foi introduzido — as rotas comerciais irregulares — a sala silenciou-se.
+A mochila de lona, pesada com folhas soltas e diagramas sobre a tecnologia de ressonância, balançava a cada passo apressado. Ele era a própria imagem do caos organizado, uma contradição ambulante de ambição e timidez.
 
-— O Assento Ukam solicitou que este item fosse incluído — o Senhor dos Debates disse, virando-se para Selynis. — A Senhora Thalassa tem a palavra.
+Era, por definição oficial da *Guilda dos Arautos do Éter*³, um arauto em estágio — o que significava que suas matérias eram revisadas três vezes por homens que preferiam o silêncio da tradição à eletricidade da novidade, que seu salário mal pagava o aluguel de um sótão úmido no distrito dos impressores, e que ninguém, absolutamente ninguém, o levava a sério quando ele se aproximava com o bloco de notas erguido como quem empunha uma espada.
 
-Selynis não se apressou. Levantou-se lentamente, como quem se prepara para caminhar em terreno que já conhece de cor, e distribuiu cópias de um documento para cada conselheiro.
+Mas Lysias não se importava. Havia uma verdade a ser contada nas ruas, e ele seria o primeiro a registrá-la.
 
-— Obrigada — ela disse, e sua voz era suave, quase maternal, o tipo de voz que faz as pessoas baixarem a guarda sem perceber. — Trago à atenção deste Conselho um padrão que venho observando há dois meses. Navios mercantes registrados em Umbra têm atravessado o mar de Thalassia com cargas declaradas que não correspondem aos pesos reais. Os desvios de rota são consistentes — sempre os mesmos portos intermediários, sempre as mesmas companhias de fachada. — Ela fez uma pausa, deixando que a informação fosse absorvida. — As autoridades thalassianas estão cientes, mas não têm jurisdição sobre navios umbrianos. Portanto, solicito que este Conselho autorize uma investigação formal.
+— Com licença! — disse ele, aproximando-se de uma vendedora de pães de *aethrys*² que montara sua banca ao lado de um dos receptores públicos recém-instalados. A estrutura de bronze polido e cristal azulado lembrava um obelisco miniaturizado, cravado no centro da praça como uma lança apontada para o céu. Os engenheiros de Sanctrum diziam que captava as vibrações mais sutis do *aethra*¹ e as convertia em som audível, mas para Lysias aquilo parecia mais um monumento à esperança do que uma máquina funcional. — Sou Lysias Thyrion, correspondente da Guilda dos Arautos do Éter³. A senhora poderia me dizer o que pensa sobre o início das transmissões da *RRA*⁴?
 
-O Assento II, um homem corpulento cuja especialidade eram assuntos navais, estudou o documento com sobrancelhas franzidas.
+A vendedora, uma mulher robusta com braços calejados pela farinha e olhos que já tinham visto todas as promessas tecnológicas de Sanctrum virem e passarem, enxugou as mãos no avental de linho e mediu o jovem com a precisão de quem avalia o frescor de um peixe.
 
-— Cargas fantasmas — murmurou, como se provasse o sabor da palavra. — É tráfico de alguma coisa. Mercadorias contrabandeadas?
+— Penso que é barulho a mais para ouvidos que já têm muito com que se preocupar — respondeu ela, ajeitando um cesto de pães dourados. — Mas se aquela engenhoca de cristal de fato me deixar ouvir a voz da minha filha que se mudou para as minas de Zephyra, então eu digo que o tal receptor vale cada moeda de cobre que gastaram nele.
 
-— É o que pretendemos descobrir — Selynis respondeu, e o sorriso que ofereceu era tão aberto, tão honesto, que poderia ter iluminado a sala inteira. — Por isso sugiro que ativemos nossos canais de inteligência em Thalassia e Sylvaris. Se houver algo passando pelos portos que não deveria, precisamos saber o que é antes que chegue ao destino.
+— E a senhora não teme que o sinal interfira no crescimento do cereal ou na calmaria das marés? — insistiu Lysias, inclinando-se um pouco mais, com o carvão posicionado sobre a página úmida. — Alguns eruditos de Fulmora sugerem que a saturação elemental do éter pode causar...
 
-O Assento IV, uma mulher de cabelos prateados e olhos afiados como lâminas, ergueu uma questão:
+— Eu sugiro que você compre um pão ou saia da frente da minha banca, rapaz — cortou a mulher, com um sorriso curto que desarmou o repórter. — O éter já está aí desde que meu tataravô plantava nessas terras. Se ele agora resolveu falar, que pelo menos traga boas notícias.
 
-— E se a investigação revelar que o tráfego tem amparo governamental?
+Lysias riu, anotando rapidamente: *“A aceitação da tecnologia pelo homem comum não se baseia na compreensão de seus princípios elementares, mas na utilidade prática e na ponte emocional que ela constrói.”*
 
-— Então saberemos contra o que estamos lidando — Selynis disse, sem hesitar. — E saber é sempre melhor do que ignorar.
+Ele não era, de modo algum, o repórter que a Guilda esperava que cobrisse o evento mais significativo daquele dia. Os editores chefes haviam enviado os arautos mais prestigiados para os palácios de Zephyra, onde o vinho corria livre e as declarações oficiais vinham em envelopes lacrados com cera dourada.
 
-Ninguém discordou. A discussão moveu-se para a terceira pauta — a distribuição de fundos — e Selynis voltou a sentar-se, satisfeita.
+Mas Lysias preferira a poeira e o vento de Velantis. Ele queria ver o impacto da voz de Aurelius quando esta descesse das alturas e ecoasse no lodo e na pedra dos distritos comuns.
 
-Nas horas seguintes, enquanto o Conselho debatia números e alocações, ela elaborou mentalmente os próximos passos: quais agentes posicionar nos portos de Thalassia, quais frequências da RRA monitorar, quais nomes na lista de tripulantes dos navios fantasmas mereciam investigação prioritária. Cada decisão era um fio na teia, e cada fio precisava ser puxado com a força exata — nem demais, para não romper, nem de menos, para não ficar frouxo.
+Sabia, com a certeza daqueles que ainda não aprenderam a ter medo das sombras, que a história real nunca era escrita pelos que estavam no topo, mas pelos que observavam de baixo.
 
-A sessão terminou ao cair da tarde.
+Ele caminhou em direção ao Porto dos Sussurros, onde os pescadores descarregavam redes cheias de peixes prateados sob a névoa fria. Parou diante de um alfaiate que costurava redes de pesca à porta de sua oficina.
 
-Selynis foi uma das últimas a sair. No corredor, enquanto ajustava o manto, o Senhor dos Debates a alcançou.
+O homem, com agulhas presas entre os lábios e uma fita métrica pendurada no pescoço, bufou quando Lysias lhe fez a mesma pergunta.
 
-— Senhora Thalassa — disse ele, a voz baixa. — A investigação que solicitou. É sobre algo específico?
+— Aquela maldita coluna de bronze na praça? — resmungou o alfaiate, tirando as agulhas da boca para cuspir no chão. — Toda vez que passo por ela, sinto um zumbido estranho nos dentes de trás. E os meus lyriens não chegam perto. Tem algo errado com aquela frequência, rapaz. Dizem que é a voz do Guardião Mestre, mas para mim parece mais uma teia invisível para vigiar o que fazemos.
 
-Selynis virou-se. Seus olhos verdes encontraram os dele, e por um segundo — apenas um — ela considerou a possibilidade de dizer a verdade.
+— Vigiar? — Lysias arqueou as sobrancelhas. — De que maneira?
 
-Depois sorriu.
+— Ora, se a voz deles pode vir de lá até aqui, quem garante que as nossas vozes também não vão daqui até lá? — o alfaiate estreitou os olhos. — Não confio em nada que use o éter sem que possamos ver o fluxo. Escreva isso no seu caderno.
 
-— É sobre segurança, senhor. A segurança de todos nós.
+Lysias escreveu. Mais tarde, no distrito leste, encontrou uma professora primária que guiava um grupo de crianças pequenas pelas calçadas.
 
-O Senhor dos Debates assentiu, satisfeito com a resposta que não era resposta, e seguiu seu caminho.
+Ela tinha uma expressão cansada, mas seus olhos brilharam quando o jovem arauto a abordou.
 
----
+— Eu acho uma dádiva — disse ela, segurando a mão de um garotinho que tentava chutar uma pedra. — Pense nas possibilidades educacionais! Poderemos ouvir as lições de Sanctrum em tempo real. As crianças deste distrito não precisarão viajar por semanas para aprender sobre a história do continente. A voz da Torre de Aurion será a nossa maior sala de aula.
 
-## III. A Postura da Água
+— E quanto aos perigos de centralização cultural? — questionou Lysias, ajustando os óculos que insistiam em escorregar pelo nariz suado. — A imposição da perspectiva de Sanctrum sobre as tradições locais de Velantis?
 
-A manhã encontrou Alyndra de pé no centro do pátio do *Orfanato Luminis*²⁰, com os pés descalços na grama úmida de orvalho, os braços ao lado do corpo, e uma expressão de concentração feroz que transformava seu rosto infantil em algo mais antigo — algo que pertencia a linhagens que ela ainda não sabia que carregava.
+A professora deu de ombros, paternal:
 
-Lyris estava diante dela, a três passos de distância, os braços cruzados, observando.
+— O conhecimento é sempre melhor do que o isolamento, senhor Thyrion. E as crianças precisam de horizontes maiores do que os muros desta cidade.
 
-— A postura básica — Lyris disse, e sua voz era paciente, mas firme — começa nos pés. Eles são a raiz. Se a raiz está torta, a *argentis*²¹ cai. Você entende?
+Por volta da terceira hora da manhã, com as pernas cansadas e o caderno quase cheio de anotações trêmulas, Lysias chegou aos limites leste da cidade.
 
-Alyndra olhou para baixo, para seus próprios pés — finos, sujos de terra, com os dedos tentando agarrar a grama como se isso pudesse ajudar.
+Ali, onde as ruas pavimentadas de Velantis começavam a se dissolver em estradas de terra e campos agrícolas, a silhueta imponente do Orfanato Luminis⁵ se erguia contra o céu cinzento.
 
-— Pés firmes — repetiu.
+Era uma estrutura antiga, construída com pedras cinzentas que pareciam ter absorvido séculos de umidade. Suas janelas eram estreitas, quase como frestas de uma fortaleza, e o muro alto que o cercava exibia pequenos cristais de contenção que brilhavam com um tom suave de violeta.
 
-— Firme não é a mesma coisa que rígido — Lyris corrigiu. — Firme é uma *aeriva*²² que flexiona no vento mas não quebra. Rígido é um galho seco que estala na primeira tempestade. Sinta a terra debaixo de você. Sinta o peso do seu corpo descendo pelos calcanhares.
+O jovem repórter parou na estrada, ajustando os óculos com o dedo indicador. Havia um silêncio estranho ali, uma quietude que contrastava com a vibração elétrica da praça da cidade.
 
-Alyndra tentou. Seus pés se moveram, ajustaram-se, encontraram uma posição que parecia mais estável. Mas assim que achou que estava certa, o vento soprou e ela oscilou, e o desânimo subiu ao seu rosto como uma onda.
+Sentiu um formigamento na base da nuca — não o formigamento físico de uma descarga de *aethra*¹, mas aquela intuição jornalística que ele chamava de "o faro do vento".
 
-— Eu não consigo — disse.
+Havia uma história atrás daqueles muros de pedra. Uma história que não envolvia decretos reais ou discursos sobre o progresso de Sylvaris, mas segredos guardados na sombra.
 
-— Você ainda não — Lyris respondeu. — Tente de novo.
-
-A lição continuou por mais um minuto. Lyris corrigia a posição dos ombros, o alinhamento da coluna, a maneira como Alyndra distribuía o peso. Cada correção era dada sem aspereza, mas com precisão — não porque Lyris fosse cruel, mas porque sabia, por experiência própria, que o desleixo em treinamento se traduzia em morte em combate.
-
-E Alyndra, por sua vez, absorvia cada correção com uma fome que surpreendia Lyris. A menina era desastrada — seus braços eram longos demais para seu corpo, suas pernas não obedeciam com a velocidade que ela queria, sua atenção vagava a cada barulho do pátio. Mas cada vez que Lyris a corrigia, Alyndra não repetia o erro. Guardava a informação como quem guarda água no fundo de uma caverna — silenciosamente, para os tempos de seca.
-
-Nyx dormia sob a sombra de uma *giralis*²³ perto do poço, o corpo prateado encolhido em uma espiral perfeita, as orelhas movendo-se apenas quando o vento trazia um som novo.
-
-— Agora — Lyris disse, após a décima terceira tentativa de postura básica —, eu vou empurrar você. Levemente. E você vai manter a postura.
-
-Antes que Alyndra pudesse responder, Lyris avançou e aplicou a palma da mão no ombro direito da menina — não com força, mas com firmeza, o suficiente para desequilibrar qualquer criança de cinco valens.
-
-Alyndra cambaleou.
-
-Seu pé direito escorregou na grama, seus braços se abriram em arco para recuperar o equilíbrio, e por um *pirc*²⁴ ela sentiu que ia cair — que a terra ia engoli-la, que a humilhação ia ser maior do que a dor.
-
-E então algo aconteceu.
-
-Não foi consciente. Não foi uma decisão. Foi como respirar — algo que o corpo faz porque precisa.
-
-Cristais de gelo brotaram da grama sob seus pés.
-
-Pequenos, frágeis, como florzinhas de inverno — finos estames de *cryonys*¹³ que se cravaram no solo e criaram uma superfície aderente onde antes havia lama e orvalho. Os pés de Alyndra encontraram aquela plataforma de gelo, e o equilíbrio voltou — não porque ela tivesse aprendido, mas porque o poder que habitava nela se recusara a deixá-la cair.
-
-Lyris recuou dois passos.
-
-Seus olhos estavam arregalados — não de medo, mas de reconhecimento. Ela vira aquilo antes. Na Fazenda Aldebar, quando Alyndra atravessou as chamas. Mas ali, no meio do fogo, o cryonys havia sido uma explosão — bruto, instintivo, descontrolado. Aqui era diferente. Os cristais eram pequenos. Precisos. Ajustados exatamente ao que Alyndra precisava.
-
-*Ela não apenas manifestou*, Lyris pensou. *Ela adaptou. O poder respondeu à necessidade, não à emoção.*
-
-Alyndra olhou para os pés, para os cristais que brilhavam na grama como se alguém tivesse espalhado diamantes. Seus olhos castanhos estavam confusos.
-
-— Eu... eu não fiz isso de propósito — disse.
-
-— Eu sei — Lyris respondeu, e sua voz era gentil, mas havia algo nela — uma camada mais profunda, um cálculo silencioso — que Alyndra não podia perceber. — Venha. Vamos sentar.
-
-Conduziu Alyndra até um banco de pedra próximo ao poço, onde Mila Aldebar estava sentada no colo de Tomas, uma das crianças maiores, observando tudo com olhos grandes e verdes que ainda não sabiam como desviar de nada.
-
-Alyndra sentou-se e Nyx despertou ao seu lado, enroscando-se em seu colo sem pedir permissão. A menina passou os dedos pelo pelo prateado do *lyrien*²⁵, e os cristais em seus cabelos — finos, quase invisíveis — começaram a derreter gota a gota, manchando seu colo de umidade fria.
-
-— Lyris — Alyndra disse, sem levantar os olhos de Nyx. — O que está acontecendo comigo?
-
-Lyris sentou-se ao seu lado, a ponta dos dedos tocando o ombro da menina com uma delicadeza que contradizia a firmeza de seus métodos de treinamento.
-
-— Você está crescendo — Lyris disse. — E crescer é como uma *argentis*²¹ nova. As raízes se aprofundam antes que os galhos alcancem o céu. Haverá momentos em que você sentirá coisas que não consegue explicar. Coisas que vêm de dentro de você, como uma canção que não aprendeu mas sabe cantar.
-
-— Eu não gosto — Alyndra murmurou. — De sentir coisas que não entendo.
-
-— Eu sei. — Lyris passou a mão pelos cabelos loiros da menina, desprendendo os últimos cristais derretidos. — Mas uma manhã destas, você vai entender. Eu prometo.
-
-Alyndra não respondeu. Apenas se encostou em Lyris, Nyx no colo, e ficou olhando os cristais de gelo na grama — já derretendo, já voltando a ser orvalho, como se o mundo estivesse decidindo que aquela manifestação não tinha sido importante o suficiente para durar.
-
-Lyris sabia que estava errado.
-
-Era a manifestação mais importante que ela tinha visto em toda a sua vida.
+— Muito bem — murmurou para si mesmo, folheando o caderno até encontrar uma página em branco. — Vamos ver que tipo de vozes habitam a periferia da grande rede.
 
 ---
 
-## IV. O Homem no Jardim
+## II. A Primeira Voz
 
-Aldric estava podando as *aerivas*²² que trepavam pelas paredes leste do refeitório quando Lyris o encontrou.
+No interior do Orfanato Luminis⁵, a manhã havia transcorrido com uma tensão que se infiltrava pelas frestas das portas de madeira. A notícia de que a primeira transmissão oficial da RRA ocorreria naquele dia havia sido recebida pelas crianças com uma mistura de pânico e maravilhamento.
 
-A postura era impecável — as costas retas, os pés na largura dos ombros, o movimento da tesoura de poda executado com uma precisão que pertencia a campos de batalha, não a canteiros de flores. Cada corte era limpo, angular, deliberado — o gesto de quem havia passado uma vida decidindo onde e como cortar, e agora aplicava a mesma arte a galhos em vez de artérias.
+Há dias elas falavam sobre a "caixa falante de cristal", imaginando que tipo de som seria capaz de cruzar milhares de léguas sem que um mensageiro precisasse correr ou uma ave voar.
 
-Sua cicatriz na têmpora direita era uma linha pálida que o *Aurion*²⁶ tocava de manhã, e agora, na manhã alta, parecia quase invisível — apenas uma sombra sob a pele, como uma lembrança que o tempo estava tentando apagar.
+Kira, com seus quinze valens e uma maturidade que parecia velha demais para seus ombros finos, tentava manter a ordem no refeitório. Seus cabelos escuros estavam presos em uma trança firme, e ela batia palmas ritmadas para atrair a atenção dos menores, que corriam entre os bancos compridos de carvalho.
 
-Lyris parou a três passos dele.
+— Todos sentados nos bancos, agora! — ordenou Kira, sua voz doce, mas carregada de uma firmeza que não tolerava discussões. Ela apontou para um garotinho que tentava equilibrar uma colher na ponta do nariz. — Jaren, sente-se direito. E pare de arremessar cascas de semente no Dravyn. O técnico de Velantis passou a manhã inteira ontem calibrando o receptor do refeitório. Se eu vir algum de vocês tocando na base de cristal, a diretora Elara vai confiscar as sobremesas de pão de *aethrys*² por um mês inteiro.
 
-— Aldric.
+A ameaça funcionou instantaneamente. As crianças menores se empoleiraram nos bancos, os olhos fixos na mesa de canto onde repousava o receptor de ressonância⁶.
 
-Ele não se virou imediatamente. Terminou o corte que estava fazendo — um galho morto que pendia da Aeriva como um braço que desistira de alcançar o céu — e só então se voltou para ela. Seus olhos eram escuros, profundamente escuros, como poços que não refletiam a luz mas a absorviam.
+Era uma peça menor do que os obeliscos da cidade, mas não menos impressionante: uma semiesfera de bronze trabalhado, coroada por um cristal de quartzo facetado que parecia conter uma névoa azulada em constante movimento.
 
-— Lyris — respondeu, e sua voz era neutra, nem quente nem fria, como a superfície de um lago em repouso.
+Dravyn, sentado no canto mais afastado da mesa comprida, mantinha a cabeça baixa. Ele desenhava em seu caderno com um pedaço de carvão, seus dedos pretos de fuligem.
 
-Eles se olharam por um momento que durou mais do que deveria. A tensão entre eles era antiga — remontava à estufa, no que parecia uma vida inteira atrás, quando Lyris o confrontara pela primeira vez com perguntas que ele não respondera. Desde então, cada encontro carregava o peso daquela conversa inacabada, como uma conta que nenhum dos dois estava disposto a pagar.
+Suas linhas eram rápidas, mas de uma precisão geométrica impressionante: desenhava uma grande torre que parecia emitir ondas que se transformavam em garras no ar, envolvendo pequenas figuras humanas que pareciam gritar sem som.
 
-— Vi o treinamento — Aldric disse, voltando-se para a Aeriva e retomando a poda. — Ela tem talento. Cru, indisciplinado, mas talento.
+Seus olhos castanhos, quase ocultos pela franja bagunçada, piscavam raramente, concentrados na dança do carvão sobre o papel rugoso.
 
-— Não vim falar sobre isso — Lyris disse.
+O que as outras crianças ignoravam — e o que a equipe do orfanato tentava não discutir em voz alta — era que Dravyn era um Despertado de Sombra⁷.
 
-— Não?
+Os registros oficiais da RRA o classificavam como "não-manifestante": nenhum traço mensurável de *aethra*¹ elemental, nenhuma afinidade com fogo, água, vento ou terra. No mundo de Alyndra, essa ausência bastava para condená-lo ao escuro social — mas Dravyn sentia algo que os aparelhos da RRA não calibravam.
 
-— Vim falar sobre você.
+Enquanto todos percebiam o formigamento cálido da energia elemental que permeava o prédio, Dravyn sentia uma vibração diferente — mais grave, mais lenta, como o respirar de algo imenso sob a crosta do mundo. E era essa ressonância fria, e não uma ausência, que parecia ter aguçado seus sentidos, ou talvez aberto uma porta diferente.
 
-Aldric parou. Não se virou. Mas parou, e o silêncio que se estabeleceu entre eles era tão denso que até os pássaros nos ramos das *argentis* pareciam ter percebido que algo estava acontecendo.
+Lyris, que observava a cena da entrada do refeitório, com as costas apoiadas no batente da porta e os braços cruzados sobre o peito, não tirava os olhos do menino.
 
-— Você a observa — Lyris disse, e cada palavra era colocada com cuidado, como pedras em um muro. — Todos os dias. Das janelas do refeitório, do jardim, dos corredores. Você observa Alyndra como quem guarda algo.
+Ela sabia o que Dravyn desenhava nas páginas de seu caderno. Duos meses antes, enquanto o garoto ardia em febre, ela havia folheado suas anotações silenciosas.
 
-— Observo todas as crianças — Aldric respondeu, e a tesoura de poda voltou a se mover, cortando outro galho morto.
+O que encontrara não eram rabiscos infantis, mas plantas estruturais detalhadas do orfanato — os ângulos das passagens secretas sob a adega, a espessura dos muros, os pontos exatos de ancoragem dos cristais de defesa.
 
-— Não todas. Apenas ela.
+Detalhes que uma criança de doze valens nunca deveria saber. Era como se sua *aethra*¹ sombria o fizesse um receptor de algo que sussurrava nas correntes subterrâneas da terra — algo que os demais, sintonizados com a luz do mundo acima, jamais poderiam ouvir.
 
-Aldric finalmente se virou. Seus olhos encontraram os de Lyris, e por um instante — um instante tão breve que Lyris quase duvidou de tê-lo visto — algo passou por aquele rosto duro, algo que parecia dor, ou saudade, ou as duas coisas fundidas em uma única emoção que não tinha nome.
+Ao lado de Dravyn, Tomas contava mentalmente. Seus lábios moviam-se rapidamente, sussurrando números em uma progressão matemática infinita que acalmava seu espírito ansioso.
 
-— Ela não é a única — Aldric disse, e sua voz baixou — não a única que perdeu alguém naquela casa.
+— ...setenta e um, setenta e dois, setenta e três... — murmurava ele, os olhos fixos em um veio da madeira da mesa. Para Tomas, o caos do mundo só era suportável quando reduzido a padrões que podiam ser medidos e catalogados.
 
-O galho caiu no chão com um som seco.
+Próxima à janela leste, alheia ao burburinho, a pequena Mila Aldebar dormia no colo de uma das cuidadoras do orfanato. Com dezoito meses de idade, ela fora a única sobrevivente de um ataque brutal que devastara a fazenda de seus pais, Martyn e Elara.
 
-Lyris franziu a testa.
+Seu resgate dramático ainda era assunto de sussurros temerosos entre os adultos do distrito, que se perguntavam por que o destino poupara uma vida tão pequena em meio a tanta cinza.
 
-— O que isso quer dizer?
+Ela respirava com um ritmo suave, os cílios longos projetando sombras delicadas nas bochechas rosadas.
 
-Mas Aldric já havia se virado de novo para a Aeriva, e seus ombros haviam voltado àquela postura reta, militar, impenetrável — uma fortaleza feita de silêncio e músculo.
+E Alyndra, com cinco valens de idade e olhos de um castanho profundo que pareciam conter mistérios de eras passadas, estava sentada em um pequeno banco de madeira sob a janela.
 
-— Tenho trabalho — disse. — Se me dá licença.
+Seus cabelos loiros pareciam fios de ouro velho sob a luz fraca de *Aurion*⁸. Em seu colo, Nyx, a pequena *lyrien*⁹ de pelagem prateada e olhos reluzentes, dormia enroscada como uma bola de neve morna.
 
-Lyris ficou ali por mais alguns segundos, olhando para as costas dele, para o modo como cortava cada galho como se estivesse cortando memórias em vez de madeira. Sabia que aquela frase — *"ela não é a única que perdeu alguém naquela casa"* — carregava um peso que ele não pretendia explicar, e que pressioná-lo mais só faria com que se fechasse ainda mais.
+Alyndra mantinha uma das mãos afundada nos pelos macios do animal, sentindo a vibração suave e rítmica de sua respiração. Havia nela uma quietude que não pertencia a uma criança de sua idade, um silêncio que Lyris reconhecia e temia ao mesmo tempo.
 
-*Ele conhecia Ayla*, Lyris pensou, e o pensamento era perigoso, porque se ele conhecia Ayla, então sabia coisas — coisas que Lyris nem sabia que precisava saber. *Mas por que um homem que conhecia Ayla está podando aerivas em um orfanato em Velantis, a milhas de qualquer lugar que faça sentido?*
+A porta do refeitório se abriu com um rangido suave, e Thar Elara entrou. A diretora vestia sua túnica azul-escura com o brasão do orfanato bordado em fios de prata.
 
-Ela não perguntou. Não ali, não naquela manhã, não com Aldric de costas e a tesoura de poda cortando galhos como se o mundo dependesse de cada angulação.
+Ela caminhou com passos lentos e medidos, sua mera presença impondo um silêncio reverente que acalmou as últimas crianças inquietas. Ela parou ao lado do receptor e olhou para Kira.
 
-Mas guardou a pergunta como quem guarda uma *giralis*²³ seca entre as páginas de um livro — para os dias em que a resposta fosse necessária.
+— Pode ativar o receptor, Kira — disse a diretora, sua voz soando clara e calma no silêncio do refeitório.
 
----
+Kira assentiu, o coração batendo mais rápido. Ela deu dois passos à frente, estendeu a mão um pouco trêmula e tocou a haste de cristal no topo do aparelho de bronze.
 
-## V. Dois Tipos de Solidão
+O cristal azulado brilhou com intensidade, e um zumbido grave e vibrante preencheu o ar do refeitório. Era o som do *aethra*¹ sendo sintonizado, uma frequência que fez as crianças menores cobrirem os ouvidos por um instante, até que o som se estabilizasse em uma nota limpa e harmônica.
 
-Mila Aldebar estava sentada no chão do refeitório, com as perninhas cruzadas e os olhos verdes fixos em Alyndra como se esta fosse a única coisa no mundo que importava.
+O silêncio que se seguiu foi quase palpável. Todos prenderam a respiração por exatamente sete segundos.
 
-A menina menor tinha agora quase dois valens — tempo suficiente para que a ferida da perda começasse a cicatrizar sob a superfície, mas não o suficiente para que desaparecesse. Ela já reconhecia os rostos das outras crianças. Já sorria quando Dravyn fazia vozes engraçadas, já estendia os braços quando Kira se aproximava, já dormia a nyxara inteira sem acordar aos gritos.
+Então, o cristal falou.
 
-Mas havia algo em Mila que as outras crianças não tinham: um silêncio.
+— Cidadãos de Sylvaris — disse a voz. Era uma voz que parecia nascer do próprio bronze, profunda e rica, carregando uma ressonância que vibrava não apenas nos ouvidos, mas nos ossos de quem a ouvia. — Neste ciclo em que a rede de ressonância de Aurion estende seus braços por todo o continente, minha voz se ergue novamente da Torre de Aurion¹⁰. Que esta ponte de luz e cristal não seja apenas um canal de palavras, mas um farol contra a escuridão que tenta se esgueirar pelas nossas fronteiras.
 
-Não o silêncio de quem não tem o que dizer, mas o silêncio de quem perdeu a linguagem antes de aprendê-la — como se as palavras que deveriam ter existido tivessem morrido junto com Elara e Martyn Aldebar, deixando em seu lugar um vazio que nem o tempo nem o carinho conseguiam preencher.
+Era Aurelius, o Guardião Mestre¹¹ de Sanctrum, e a autoridade contida em sua voz era tão avassaladora que mesmo os menores mantiveram os olhos arregalados, fascinados pelo mistério da transmissão.
 
-Alyndra entendia aquele silêncio.
+A voz continuava, falando sobre prosperidade, sobre a grande aliança dos reinos e sobre a luz que nos guiava a todos na escuridão.
 
-Não porque o tivesse vivido na mesma intensidade — ela teve Melessa Solynthr por quatro valens, e depois Lyris, e depois o orfanato inteiro — mas porque reconhecia a textura dele. Era o silêncio de quem acorda em um lugar desconhecido e pergunta "onde está minha casa?" e ninguém responde, não por maldade, mas porque a casa já não existe.
+No canto, Dravyn parou o carvão no meio de um traço. Seu olhar, antes fixo no papel, agora estava voltado para o receptor, embora ele não pudesse sentir a vibração elemental que todos ali compartilhavam.
 
-Ela se sentou ao lado de Mila e colocou um brinquedo — um pequeno *velrok*²⁷ de madeira que Tomas havia talhado — entre as duas.
+Tomas interrompeu sua contagem no número setenta e três, os lábios entreabertos, esquecendo a própria ordem numérica que o protegia do mundo.
 
-— Olha — Alyndra disse, e sua voz era suave, mais suave do que usava com qualquer outra pessoa. — É um velrok. Tomas fez. Ele é bom em fazer coisas.
-
-Mila olhou para o brinquedo. Depois olhou para Alyndra. Depois estendeu a mão pequena e tocou a cabeça do velrok de madeira com a ponta dos dedos, como se estivesse verificando se era real.
-
-Alyndra sorriu.
-
-— Pode ficar — disse. — É seu.
-
-Mila segurou o brinquedo contra o peito com as duas mãos — o gesto de quem agarra algo precioso com medo de que desapareça se soltar — e pela primeira vez naquele dia, disse uma palavra.
-
-Não era uma palavra bonita. Não era "obrigada" ou "Alyndra" ou qualquer coisa que os livros de infância considerariam comemorável. Era um som — um som pequeno, arredondado, que parecia "ga", ou "da", ou algo entre os dois.
-
-Mas era uma palavra.
-
-Alyndra sentiu algo se mover em seu peito — não o frio do cryonys, não a ressonância estranha que sentia quando o Receptor pulsava, mas algo mais simples e mais antigo. Solidariedade. Reconhecimento. A compreensão de que existem dores que as palavras não alcançam, mas que a presença — apenas a presença, o simples fato de estar ali — pode tornar suportáveis.
-
-Ela passou o braço ao redor dos ombros de Mila e puxou a menina para perto de si. Mila se aninhou, o velrok de madeira ainda contra o peito, e ficou ali, respirando, existindo, viva.
-
-Nyx chegou em silêncio, como sempre, e deitou-se ao lado das duas, o corpo prateado formando um arco protetor. O *lyrien*²⁵ lambeu o rosto de Mila uma vez — uma língua áspera e quente que fez a menina sorrir — e depois fechou os olhos.
-
-Lyris observava da porta do refeitório, os braços cruzados, o rosto imóvel.
-
-*Duas meninas*, pensou. *Uma que perdeu a mãe antes de conhecê-la. Outra que perdeu os pais antes de aprender a falar. E um lyrien que não sabe que é o único ser vivo neste orfanato que protege tanto quanto qualquer guarda.*
-
-Ela virou-se e voltou para o pátio, onde a tarde começava a dourar o horizonte e as sombras das argentis se alongavam como dedos que tentavam alcançar algo que estava sempre um passo além.
+E Alyndra, sob a janela, sentiu o mundo congelar.
 
 ---
 
-## VI. Padrões nas Sombras
+## III. Ressonância Proibida
 
-Selynis voltou à Câmara dos Sussurros quando a nyxara já cobria Sanctrum².
+Não foi dor o que Alyndra sentiu quando a voz de Aurelius ecoou pelo refeitório do orfanato — foi algo muito pior, uma sensação de vazio absoluto que de repente era preenchido por uma correnteza fria e avassaladora.
 
-A sala estava exatamente como a deixara — os três relatórios sobre a mesa, o silêncio absoluto, a escuridão que era tão completa que até os olhos, acostumados à bioluminescência subaquática, precisaram de um momento para se ajustar. Ela acendeu uma única lâmpada de cristal sobre a mesa — azul, tênue, o suficiente para iluminar os documentos sem iluminar quem os lia — e sentou-se.
+Um eco que parecia vir de antes de sua própria existência, de um tempo em que ela não andava sobre a terra, mas pertencia a um lugar de luz branca e silêncio perfeito.
 
-Orelheiras de *aethra*¹ colocadas sobre a mesa convergiam para um único ponto de recepção — um canal privado da RRA que ela havia criado durante a fase de testes da rede, quando os engenheiros de Fulmora¹³ ainda estavam ocupados demais celebrando a própria genialidade para notar que uma das frequências de transmissão tinha uma duplicata. Ninguém sabia que o canal existia. Ninguém, exceto ela.
+Ela não saberia explicar o sentimento depois, quando as perguntas começassem. Como uma criança de cinco valens poderia descrever a sensação de ter sua alma puxada por uma força invisível?
 
-E quem respondia do outro lado.
+Mas naquele instante, enquanto a voz do Guardião Mestre falava sobre o futuro e a união do reino sob a luz de *Aurion*⁸, Alyndra sentiu como se cada palavra fosse um fio invisível que se prendia ao seu peito, puxando-a para longe de Velantis, para longe do orfanato, para os pés do homem que falava em Sanctrum.
 
-A mensagem chegou às três horas da *ante-aurion*²⁸ — codificada em uma cifra que ela mesma havia projetado, baseada nos padrões de ressonância dos cristais de *aetherite*¹⁷ puro. A tradução a decodificou em um texto breve, mas cada palavra pesava como uma pedra.
+Nyx, em seu colo, acordou com um sobressalto. A *lyrien*⁹ eriçou os pelos prateados, suas garras pequenas cravando-se de leve na calça de Alyndra.
 
-> Relatório consolidado — desaparecimentos no litoral de Thalassia e nas planícies entre Terraxis e Sylvaris. Vinte e três casos nos últimos dois meses. Padrão geográfico coordenado. Rotas convergem para um ponto no interior de Umbra⁹. Crianças — todas entre dois e sete meses de idade. Indícios de afinidade elemental pré-manifestação em pelo menos doze dos casos. Operação não identificada. Nenhum sobrevivente encontrado. Os Iluminados — possível ligação.
+O animal soltou um som agudo, quase um silvo de defesa, os olhos brilhando com uma intensidade metálica. Ele olhava para o receptor de bronze como se enxergasse uma ameaça física escondida dentro do cristal.
 
-Selynis leu a mensagem duas vezes.
+Nyx começou a tremer, a cauda erguida, os dentes à mostra.
 
-Depois levou a mão ao queixo e fechou os olhos.
+Uma palavra se formou na mente de Alyndra. Não era um pensamento lógico, mas uma verdade absoluta, plantada em seu peito como uma semente de gelo:
 
-Vinte e três crianças. Dois meses. Um padrão que ninguém mais havia percebido — ou que ninguém mais tivera coragem de perceber.
+*Papai.*
 
-*Os Iluminados.*
+A palavra não saiu de seus lábios, mas queimou em sua garganta. Lágrimas quentes e silenciosas brotaram de seus olhos, escorrendo por suas bochechas infantis.
 
-O nome ecoou em sua mente com a ressonância de algo que ela conhecia há muito tempo. *Os Iluminados* — como o povo os chamava, com a ironia involuntária de quem nomeia o horror com a linguagem da esperança. Mas Selynis conhecia o nome verdadeiro, o nome que existia antes que o eufemismo o cobrisse como terra sobre um túmulo.
+Eram lágrimas de um reconhecimento que ela não compreendia, uma saudade que doía fisicamente em seu peito pequeno. O mundo ao redor pareceu perder a nitidez; as vozes das outras crianças tornaram-se um sussurro distante, abafado pela torrente de sentimentos que a consumia.
 
-*Nihil Shid*²⁹.
+Na entrada do refeitório, Lyris não olhava para o receptor. Seus olhos estavam fixos em Alyndra desde o primeiro som da transmissão.
 
-O grupo nihilário que a maioria dos estudiosos considerava uma lenda — um mito dos tempos de *Aetherion*¹⁴, algo que se contava para assustar crianças desobedientes, não algo que existisse na realidade dos sete reinos. Mas Selynis sabia. Sabia porque sua rede de informantes — tecida durante valens de paciência e silêncio — havia coletado fragmentos de evidência que, sozinhos, pareciam coincidências, e juntos, formavam um mosaico que ninguém queria olhar de frente.
+Ela viu o momento exato em que a menina empalideceu, viu a reação defensiva de Nyx e as lágrimas silenciosas que escorriam pelo rosto da garota.
 
-Os Nihil Shid não eram uma lenda. Eram uma organização — antiga, metódica, paciente. Eram aqueles que acreditavam que a existência era um erro que precisava ser desfeito, que a *aethra*¹ que fluía pelos seres vivos era uma anomalia que deveria ser corrigida, e que as crianças com afinidade elemental — sementes de poder que ainda não haviam desabrochado — eram a prova viva de tudo que consideravam abominável.
+Um calafrio percorreu a espinha de Lyris — não o calor de sua afinidade com *thermaris*¹², mas o frio cortante do *cryonys*¹³, a energia que Alyndra carregava oculta em seu sangue.
 
-E agora estavam colhendo essas sementes antes que nascessem.
+O discurso de Aurelius continuou por mais três horas, e para Lyris, cada palavra era um lembrete do perigo que as cercava. Ela conhecia aquela voz.
 
-Selynis abriu os olhos. O brilho verde de sua íris refletia a lâmpada de cristal como duas chamas pequenas e geladas.
+Conhecia o homem por trás dela. Havia servido sob suas ordens, nas sombras de Sanctrum, antes de perceber que o preço daquela paz era alto demais.
 
-*Vinte e três crianças. Com afinidade pré-manifestação. Selecionadas. Capturadas. Levadas para Umbra.*
+Sabia o que aconteceria se Sanctrum de fato descobrisse que a semente que tanto procuravam estava crescendo ali, sob sua guarda, em um orfanato comum de Velantis.
 
-E se o padrão dos desaparecimentos era coordenado — se havia uma operação ativa, com rotas e cronogramas e objetivos claros —, então não era coincidência que a RRA tivesse sido aprovada no mesmo mês. Não era coincidência que Umbra⁹ tivesse votado a favor. Não era coincidência que as cargas fantasmas e as crianças desaparecidas seguissem as mesmas rotas.
+Quando a transmissão terminou e o cristal do receptor perdeu o brilho azulado com um estalo seco, o refeitório explodiu em burburinho. As crianças falavam todas ao mesmo tempo, gesticulando com entusiasmo.
 
-Tudo era a mesma coisa. A mesma teia. Os mesmos fios.
+— Você viu como o cristal brilhou? — gritava Jaren, pulando do banco. — Parecia que havia um pedaço de estrela preso lá dentro!
 
-E no centro dela — ou em algum ponto que ainda não era visível, mas que Selynis sentia como se pudesse tocá-lo — estava Alyndra. Uma menina de cinco valens cujo cryonys já havia se manifestado publicamente. Cujo nome era conhecido em todo o continente. Que era, para os Nihil Shid, não apenas uma semente, mas a semente — a mais valiosa que poderiam imaginar.
+— E a voz? — comentava outra menina. — Era tão alta que parecia que o homem estava no teto!
 
-Selynis retirou de uma gaveta oculta um pequeno cilindro de latão — não um *receptor de ressonância*¹⁵ comum, mas um transmissor de frequência restrita, projetado para enviar mensagens em canais que a RRA oficial não alcançava.
+A diretora Elara sorria com alívio, conversando com as cuidadoras sobre a qualidade da recepção e a estabilidade da linha do éter.
 
-Ela redigiu a mensagem em código, cada palavra traduzida para um padrão numérico baseado na sequência de *Aetherion*¹⁴ — a antiga linguagem dos Seraphyens, que poucos sabiam ler e menos ainda sabiam que existia:
+Alyndra continuou imóvel, os braços apertados ao redor de Nyx, olhando para o vazio através da vidraça da janela. As lágrimas haviam secado, deixando linhas limpas sobre a poeira de seu rosto.
 
-> Sementes identificadas. Padrão confirmado. Ações em Umbra. Requer vigilância nos sete reinos. Prioridade máxima: Sylvaris. Prioridade absoluta: Orfanato Luminis, Velantis. Nenhuma criança será tocada. Repito: nenhuma criança será tocada.
+O vazio em seu peito era agora uma ferida aberta, pulsando com a frieza que ela tentava não manifestar.
 
-Ela transmitiu.
+Lyris caminhou até ela com passos silenciosos, a postura relaxada disfarçando a agitação interna que ameaçava transbordar. Ela se ajoelhou ao lado do banco de madeira de Alyndra e colocou uma mão suave sobre o ombro da menina.
 
-O cilindro pulsou uma vez — azul, rápido, silencioso — e a informação viajou pelo éter em uma velocidade que nenhum *koramis*¹⁰ poderia igualar, atravessando montanhas e mares, torres de cristal e camadas de pedra, até alcançar os *aetherites*¹⁷ que esperavam em lugares que não constavam de nenhum mapa.
+— Alyndra — sussurrou ela, a voz baixa o suficiente para não ser ouvida pelo resto da sala. — O que foi, pequena?
 
-Selynis guardou o cilindro na gaveta, trancou-a com uma chave que usava como pingente, e apagou a lâmpada de cristal.
+A menina demorou a responder. Ela acariciou a cabeça de Nyx uma vez, antes de olhar para Lyris com aqueles olhos castanhos que pareciam velhos demais para seu rosto infantil.
 
-A Câmara dos Sussurros voltou à escuridão absoluta.
+— Essa voz... — Alyndra engoliu em seco, os olhos fixos no vazio. — Eu conheço ela, Lyris. De algum lugar. Mas não... não sei de onde. É como se... — ela tocou o peito com a mão pequena, confusa — ela já tivesse morado aqui dentro.
 
-Mas Selynis não se moveu. Ficou ali, na penumbra, com as mãos apoiadas na mesa de ébano, respirando o ar denso e salgado que vinha do mar subterrâneo. O silêncio a envolvia como um manto — não o silêncio vazio de quem não tem nada a dizer, mas o silêncio cheio de quem está ouvindo algo que ninguém mais consegue escutar.
+Lyris sentiu o coração falhar uma batida. O medo, antigo e afiado como uma adaga de Sanctrum, apertou sua garganta.
 
-*Sementes na sombra*, pensou. *Sempre foram sementes na sombra. A questão é: quais vão florescer, e quais vão ser arrancadas antes que a luz as encontre.*
+— O que você quer dizer com conhecer a voz, pequena? — perguntou ela, mantendo o tom suave, embora seus olhos examinassem o rosto de Alyndra em busca de qualquer sinal de que a memória estivesse retornando.
 
-Ela se levantou. Ajustou o manto. Caminhou pelo corredor lateral.
+— É a voz dos meus sonhos — explicou a garota, inclinando a cabeça. — A voz que fala antes do frio chegar. Ela... ela me chama pelo nome. Mas não pelo nome que vocês me chamam.
 
-Antes de sair, parou. Virou-se uma última vez para a sala vazia — para a mesa onde os três relatórios ainda estavam abertos, para a cadeira onde acabara de tomar a decisão que talvez definisse os próximos valens de sua vida.
+Lyris abraçou a menina protetoramente, sentindo o corpo pequeno de Alyndra tremer levemente contra o seu. A temperatura do corpo da garota parecia ter caído alguns graus, e a pelagem de Nyx estava fria ao toque.
 
-— Nenhuma — sussurrou para a escuridão.
+— Está tudo bem, pequena — mentiu Lyris, a voz firme apesar do pavor que lhe corroía o estômago. — Você está segura aqui. Ninguém vai machucar você. Eu prometo.
 
-E a escuridão, como sempre, não respondeu.
+Mas ambas sabiam que a segurança era apenas uma ilusão temporária, escrita na areia sob o vento forte.
 
 ---
 
-**[FIM DO CAPÍTULO XIV]**
+## IV. Ferro e Gelo
+
+Na metade daquele dia, quando *Aurion*⁸ atingiu o zênite e espalhou uma luz pálida sobre os campos de *aethrys*², Lyris estava de pé no pátio interno do orfanato.
+
+Seus olhos vagavam pelo horizonte, mas sua mente estava presa na decisão que tomara na manhã. Não havia mais tempo para esperar.
+
+O despertar de Alyndra estava se acelerando — disso a Fazenda Aldebar deixara qualquer dúvida. A bolha de gelo que a menina conjurara para salvar Mila, sem treinamento, sem controle, provava que o poder crescia mais rápido do que Lyris antecipara. Se ela não aprendesse a conter a força que habitava suas veias, o próprio cryonys a consumiria — ou revelaria sua presença para os caçadores de Sanctrum.
+
+Ela chamou a menina para o pátio leste, uma área isolada do jardim onde os muros eram mais altos e cobertos por trepadeiras de *giralis*¹⁴. Nyx acompanhou-as, saltando entre as raízes expostas de uma grande *argentis*¹⁵ com uma agilidade silenciosa.
+
+— Alyndra — disse Lyris, virando-se para a garota. — A partir de hoje, você não vai apenas brincar no pátio. Você vai treinar comigo. Vai aprender a controlar o que sente.
+
+Alyndra olhou para ela com curiosidade, segurando seu pequeno livro de fábulas contra o peito.
+
+— Treinar como os guardas da cidade? — perguntou ela.
+
+— Não — respondeu Lyris, com um meio sorriso triste. — Treinar para sobreviver. Para manter o gelo dentro de você sob controle.
+
+A menina colocou o livro sobre o banco de pedra e aproximou-se de Lyris, sua postura séria imitando a da guardiã. Nyx sentou-se na base da árvore, observando-as com uma atenção solene.
+
+O treinamento começou com o básico: postura e respiração. Lyris ensinou a menina a focar sua atenção no centro do peito, a desacelerar os batimentos cardíacos e a sintonizar seus sentidos com o espaço ao redor.
+
+— Sinta os seus pés tocando a terra — dizia Lyris, demonstrando a postura com as pernas levemente afastadas. — Respire devagar. O éter está em toda parte, mas você não deve deixá-lo comandar o seu corpo. Você é quem dita o ritmo.
+
+Alyndra demonstrava uma facilidade incomum para uma criança de sua idade. Seus movimentos eram precisos, repetindo as posturas que Lyris indicava com uma concentração quase solene.
+
+Seu corpo franzino movia-se com uma graça natural, embora seus braços fossem curtos e suas pernas ainda não tivessem a força necessária para manter a base contra uma pressão real.
+
+Depois, veio o teste mais difícil. O controle do *cryonys*¹³.
+
+— Feche os olhos, Alyndra — instruiu Lyris, sentando-se à frente da garota na grama úmida. — Sinta o frio. Não tente lutar contra ele, e não tente empurrá-lo para fora. Apenas deixe que ele flua pelas suas veias como se fosse água fria de uma nascente.
+
+Alyndra fechou as pálpebras. Sua respiração tornou-se lenta e compassada.
+
+Em poucos instantes, o ar ao redor delas esfriou sensivelmente. Pequenos cristais de gelo começaram a se formar nas pontas dos dedos da garota, brilhando sob a luz de Aurion como diamantes microscópicos.
+
+O gelo se estendeu pelas folhas da grama ao redor de suas mãos, criando um círculo perfeito de geada branca.
+
+Nyx, de cima do galho da *argentis*¹⁵, observava tudo com os olhos prateados arregalados, a cauda balançando em um ritmo tenso.
+
+A dez passos dali, parcialmente oculto pelas folhagens do canteiro de *giralis*¹⁴, Aldric trabalhava. O jardineiro limpava as mudas com uma pequena tesoura de poda, mas seus olhos, sob a aba do chapéu de palha gasta, estavam voltados para Alyndra.
+
+Havia uma intensidade solene em seu olhar, um reconhecimento que não pertencia a um simples trabalhador do campo. Ele mantinha a tesoura imóvel em uma das mãos, o corpo tenso, como se estivesse pronto para intervir a qualquer instante.
+
+Lyris notou a vigilância de Aldric. Ela registrou o movimento sutil do jardineiro, mantendo-o sob sua atenção periférica.
+
+Havia mistérios demais naquele orfanato, e Aldric era uma das peças que ela ainda não conseguia posicionar no tabuleiro. Mas, por ora, ela manteve o foco na menina.
+
+— Concentre-se, Alyndra — orientou Lyris. — O gelo não é seu inimigo. Sinta-o como uma parte de suas mãos. Agora, faça-o retornar. Puxe o frio de volta para o seu peito.
+
+A menina franziu a testa, respirando fundo. Os cristais de gelo na grama começaram a encolher, transformando-se novamente em orvalho sob Aurion.
+
+O ar ao redor delas aqueceu-se lentamente.
+
+— Muito bem, Alyndra — disse ela, tocando suavemente as mãos frias da garota para interromper o fluxo por completo. — Por hoje é o bastante. Você foi muito bem.
+
+O gelo nos dedos da menina derreteu de vez, transformando-se em pequenas gotas de água que brilharam na grama. Alyndra abriu os olhos e sorriu, um sorriso genuíno que aqueceu o coração cansado de Lyris.
+
+---
+
+## V. Sussurros na Nyxara
+
+A nyxara caiu sobre Velantis como um manto pesado de veludo azul-escuro. No céu limpo, as duas luas do continente brilhavam com intensidades diferentes, projetando sombras longas sobre os campos de *aethrys*² que cercavam a instituição.
+
+No Orfanato Luminis⁵, o silêncio da nyxara era apenas interrompido pelo vento frio que soprava do oceano e pelo som ocasional do farol de cristal do porto ao longe.
+
+As crianças dormiam em seus leitos na ala oeste, aconchegadas sob cobertores de lã áspera.
+
+Alyndra dormia em sua cama de ferro, com Nyx aninhada aos seus pés. Mas seu sono não era tranquilo.
+
+Em seus sonhos, ela andava por um salão vasto e escuro, cujas paredes pareciam feitas de obsidiana polida. Não havia portas ou janelas, apenas uma luz branca que emanava do próprio chão de pedra.
+
+E no centro desse salão, uma voz sussurrava.
+
+Não era a voz de Aurelius, nem a de Lyris. Era uma voz antiga, que soava como o ranger de glaciares em movimento, proferindo palavras em uma língua que Alyndra nunca ouvira com seus ouvidos físicos.
+
+Era Emê-Gir, a língua das eras esquecidas, cujas sílabas guturais pareciam carregar o peso de montanhas.
+
+*“...an-ki... zi-dir... daer...”*
+
+As palavras pareciam congelar o próprio ar do sonho. Alyndra tentou correr, mas seus pés pareciam presos ao chão de pedra.
+
+A voz se aproximava, sussurrando um nome que ela sentia ser o seu, mas que não era Alyndra. Era um nome que cheirava a gelo e a estrelas mortas.
+
+No mundo real, o poder de Alyndra respondeu ao pesadelo.
+
+Pequenos cristais de gelo começaram a brotar nas bordas de seu colchão de ferro, espalhando-se pelas cobertas e subindo pela parede de pedra do dormitório.
+
+O ar na ala das meninas menores despencou para temperaturas congelantes, fazendo com que a respiração das crianças próximas formasse pequenas nuvens de vapor.
+
+Nyx acordou com um sobressalto, os pelos eriçados e os olhos brilhando com uma luz prateada e intensa. A *lyrien*⁹ soltou um miado alto e agudo de alerta, pulando da cama.
+
+O barulho e o frio intenso acordaram as meninas mais próximas. Uma delas acendeu a pequena lamparina de *aethra*¹ na parede, e ao ver a geada cobrindo a cama de Alyndra, soltou um grito de pânico.
+
+— O gelo! — gritou ela. — Olhem para a parede! Está congelando!
+
+Em poucos instantes, o dormitório estava em polvorosa. As meninas corriam para longe da cama de Alyndra, cobrindo-se com seus cobertores.
+
+Kira veio correndo do dormitório ao lado, com os cabelos bagunçados e uma lanterna de cristal na mão.
+
+Lyris, que dormia no quarto de apoio no fim do corredor, acordou ao primeiro grito. Ela irrompeu no dormitório três segundos depois, com os olhos alertas e as mãos envoltas em uma leve fumaça quente de *thermaris*¹².
+
+Ela encontrou Alyndra sentada na cama, os olhos abertos mas vazios, as lágrimas congelando em suas bochechas antes de cair no colchão como pequenas pérolas de gelo.
+
+O quarto estava tomado por uma névoa fria.
+
+— Afastem-se, todas vocês! — ordenou Lyris para as outras meninas, enquanto caminhava rapidamente em direção à cama de Alyndra. — Kira, leve as menores para a sala de leitura. Agora!
+
+Kira assentiu, reunindo as crianças assustadas com eficiência.
+
+Lyris se sentou na beira do colchão e envolveu a menina em seus braços, canalizando o calor suave de sua magia elemental para dissipar o gelo que ameaçava congelar as cobertas.
+
+A fumaça de vapor morno subiu ao redor delas, derretendo a geada e trazendo Alyndra de volta do pesadelo.
+
+A menina soltou um soluço profundo e abraçou o pescoço de Lyris, chorando com o desespero de quem acabara de escapar de um abismo.
+
+— Eu ouvi a voz de novo, Lyris — chorou ela. — Ela estava me chamando de outra coisa. Ela queria que eu fosse para o escuro.
+
+Lyris acariciou os cabelos loiros de Alyndra, segurando-a firme enquanto o frio no quarto se dissipava por completo.
+
+— Está tudo bem, pequena. Eu estou aqui. O escuro não pode pegar você enquanto eu estiver aqui. Eu prometo.
+
+Mas enquanto acalmava a menina, Lyris olhou para a janela leste. O medo que sentia não era apenas pelo poder de Alyndra, mas pelo que a primeira transmissão da RRA havia despertado.
+
+A teia de Sanctrum estava se fechando ao redor de Velantis, e ela sabia que a paz do orfanato não duraria muito mais do que um mês.
+
+Ao lado da cama, Nyx observava as duas com os olhos prateados brilhando na penumbra, uma pequena sentinela silenciosa guardando a fronteira entre a luz e as sombras que ameaçavam o despertar da Herdeira.
+
+---
+
+***[FIM DO CAPÍTULO XIV]**
 
 ---
 
@@ -374,62 +374,34 @@ E a escuridão, como sempre, não respondeu.
 
 ## 📖 Glossário do Capítulo
 
-¹ **Câmara dos Sussurros** — Sala secreta na base da Torre de Aurion, Sanctrum. Paredes de obsidiana que absorvem som. Usada por Selynis Thalassa para processar inteligência.
+¹ **aethra** — Energia espiritual e vital que permeia o mundo de Alyndra. É a base da tecnologia de ressonância e das manifestações elementares. Plural: *aethras*.
 
-² **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões e do Conselho dos 12.
+² **aethrys** — Cereal nativo de Sylvaris, cujos grãos possuem uma coloração dourada e são a base da alimentação do reino.
 
-³ **Torre de Aurion** — Sede do poder de Sanctrum; ponto de emissão da RRA.
+³ **Guilda dos Arautos do Éter** — Organização oficial de imprensa e comunicação de Sylvaris, responsável pela circulação de jornais e notícias no continente.
 
-⁴ **Maré de Cristal** — Capital de Thalassia; cidade portuária parcialmente submersa.
+⁴ **RRA (rede de ressonância de Aurion)** — Sistema de comunicação que utiliza condutos de *aethra* e cristais para transmitir transmissões de voz por todo o reino de Sylvaris.
 
-⁵ **RRA (rede de ressonância de Aurion)** — Rede de comunicação instantânea por pulsos etéricos.
+⁵ **Orfanato Luminis** — Instituição fortificada nos limites de Velantis, destinada a abrigar crianças órfãs ou resgatadas de áreas de conflito. Dirigido por Thar Elara.
 
-⁶ **Guardião Mestre** — Título de Aurelius Lumivael; líder da Ordem dos Guardiões.
+⁶ **receptor de ressonância** — Dispositivo construído com bronze e ligas de cristal capaz de captar as vibrações de *aethra* transmitidas pela rede da RRA e convertê-las em som audível.
 
-⁷ **cargas fantasmas** — Registros de carga falsos usados para encobrir tráfico humano nas rotas marítimas entre Umbra e os outros reinos.
+⁷ **Despertado de Sombra** — Indivíduo que manifesta afinidade com a Sombra, frequentemente registrado como "não-manifestante" nos testes padrão da RRA por possuir um tipo de *aethra* que os sensores elementais não calibram. Portadores recebem a Coroa Sombria no RPA e são estigmatizados como "Filhos do Traidor".
 
-⁸ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
+⁸ **Aurion** — A estrela central que ilumina o sistema de Alyndra.
 
-⁹ **Cidadela Sombria** — Capital de Umbra; fortaleza nas montanhas negras.
+⁹ **lyrien** — Pequena criatura de companhia com pelagem prateada e alta sensibilidade elemental, conhecida por criar laços empáticos com seus donos.
 
-¹⁰ **koramis** — Ave gigante de montaria; envergadura de até 10 passos.
+¹⁰ **Torre de Aurion** — Monumental estrutura construída in Sanctrum que serve como o coração central de transmissão da RRA.
 
-¹¹ **arauto do éter** — Locutor oficial da Guilda dos Arautos do Éter.
+¹¹ **Guardião Mestre** — Líder supremo da Ordem dos Guardiões e principal autoridade política e militar em Sanctrum.
 
-¹² **Fulmora** — Reino dos Raios e Invenções; quarto reino.
+¹² **thermaris** — Poder elemental baseado na fusão de calor e água, permitindo a manipulação de vapor e temperatura (afinidade de Lyris).
 
-¹³ **cryonys** — Poder elemental de gelo; fusão de Água e Vento. Extremamente raro.
+¹³ **cryonys** — Poder elemental ancestral associado ao gelo e ao congelamento absoluto (afinidade oculta de Alyndra).
 
-¹⁴ **Aetherion / Queda de Aetherion** — Civilização primordial destruída em um cataclisma; antecessora dos sete reinos.
+¹⁴ **giralis** — Flor ornamental de pétalas iridescentes, muito cultivada em Sylvaris para fins decorativos e medicinais.
 
-¹⁵ **receptor de ressonância** — Aparelho que capta transmissões da RRA; caixa de madeira e latão com cristal pulsante.
-
-¹⁶ **Conselho dos 12** — Órgão consultivo de Sanctrum; doze assentos, cada um responsável por uma área de governança.
-
-¹⁷ **aetherite** — Mineral condutor etérico; base da engenharia etérica do continente.
-
-¹⁸ **Assento Ukam** — Assento do Conselho dos 12; ocupado por Selynis Thalassa.
-
-¹⁹ **Senhor dos Debates** — Moderador das sessões do Conselho dos 12; conduz sem votar.
-
-²⁰ **Orfanato Luminis** — Complexo fortificado nos arredores de Velantis, Sylvaris.
-
-²¹ **argentis** — Árvore de tronco prateado e copa densa, comum em Sylvaris.
-
-²² **aeriva** — Trepadeira de folhas finas e prateadas; cresce aderida a muros.
-
-²³ **giralis** — Flores de pétalas prateadas que abrem preferencialmente durante a noite.
-
-²⁴ **pirc** — Unidade de tempo equivalente a um instante.
-
-²⁵ **lyrien** — Mamífero pequeno de pelagem prateada e orelhas sensíveis; companheiro empático.
-
-²⁶ **Aurion** — A estrela central do sistema (substantivo próprio).
-
-²⁷ **velrok** — Grande quadrúpede de montaria e tração; pelagem prateada.
-
-²⁸ **ante-aurion** — Período do dia correspondente à madrugada.
-
-²⁹ **Nihil Shid** — Organização secreta que acredita que a *aethra* é uma anomalia e que crianças com afinidade elemental devem ser eliminadas. Conhecidos popularmente como "Os Iluminados".
+¹⁵ **argentis** — Árvore majestosa de tronco prateado e copa densa, muito comum nas regiões de planície de Sylvaris.
 
 Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.

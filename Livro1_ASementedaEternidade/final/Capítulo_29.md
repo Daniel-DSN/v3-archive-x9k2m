@@ -6,231 +6,181 @@
 
 # CAPÍTULO XXIX
 
-# A Fronteira Negra
+# O Caminho das Lágrimas
 
-*"A verdadeira coragem não é a ausência de medo — é a recusa de permitir que o medo decida quem você é."*
-
----
-
-## I. O Chão que Não Conhece Primavera
-
-O terreno mudou no terceiro dia de viagem.
-
-Alyndra¹ percebeu primeiro pelo cheiro — um odor que não era o cheiro da floresta, não era o cheiro dos campos de *Sylvaris*², não era nenhum cheiro que ela conhecesse. Era denso, metálico, com uma nota de podridão que ficava na garganta e não saía: enxofre e algo mais, algo que lembrava metal aquecido e pedra queimada e a ausência de qualquer forma de vida que pudesse dar nome ao que sentia. *Nyx*³ sentiu também — o *lyrien*⁴ enrijeceu em seu colo, as orelhas achatadas contra a cabeça, os olhos prateados fixos na frente como se pudessem ver o que estava por vir antes que chegasse.
-
-Depois do cheiro veio o chão. O solo macio de *Sylvaris*² — a terra escura e generosa que alimentava as *argentis*⁵ e cobria os caminhos com uma camada de folhas decompostas que amortecia cada passo — acabou. Em seu lugar: rocha. Rocha vulcânica, negra e porosa, coberta por uma crosta de cinza que os pés descalços de Alyndra¹ sentiam como lixa. Cada passo era uma pequena agressão — a pedra cortando a sola, a cinza entrando nas rachaduras, o calor que emanava do subsolo como se o mundo abaixo estivesse febril.
-
-Korath⁶ não diminuiu o ritmo.
-
-— Onde estamos? — Alyndra¹ perguntou. Sua voz — a voz que havia permanecido em silêncio por dias, que só se manifestava em sussurros para *Nyx*³ e em lágrimas que ela engolia antes que chegassem aos olhos — saiu rouca, fina, como se a fala fosse um músculo que ela tinha esquecido de usar.
-
-Korath⁶ não respondeu imediatamente. Continuou andando, com o olhar fixo na frente, os passos longos e absorvidos pelo terreno irregular com a eficiência mecânica de quem aprendeu a andar em qualquer superfície. Quando falou, a voz era seca:
-
-— Na fronteira.
-
-— Qual fronteira?
-
-A resposta veio com um gesto — Korath⁶ apontou para a esquerda, para onde o terreno se abria em uma planície vasta e desolada que se estendia até o horizonte. Ao longe — distante demais para detalhes, perto demais para ignorar — algo brilhava no chão: não Aurion⁷ refletido em água ou cristal, mas algo que emanava do próprio solo, uma luminescência tênue e espectral que pintava a planície com tons de azul-morto e verde-doentio. As fontes de enxofre. Alyndra¹ nunca tinha visto nada parecido — e algo nela — algo que era anterior ao medo, anterior à compreensão, algo que era puro instinto de sobrevivência — disse-lhe que aquilo não era belo. Era perigoso.
-
-— *Fulmora*⁸ e *Umbra*⁹ se tocam aqui — Korath⁶ disse. — O chão pertence a nenhum dos dois. Pertence ao que veio antes.
-
-O que veio antes. A frase ficou no ar como um fantasma que se recusa a partir. Alyndra¹ não perguntou o que isso significava — não porque não quisesse saber, mas porque uma parte dela — a parte que sobrevivia, a parte que aprendeu a escolher suas batalhas — sabia que algumas respostas eram mais pesadas do que a capacidade de carregá-las.
-
-Ela continuou andando.
-
-*Nyx*³ não a deixou. O *lyrien*⁴ — cujas patas já estavam feridas pela rocha vulcânica, cujo pelo havia perdido o brilho e adquirido um tom acinzentado coberto de cinza e suor — mantinha-se colado ao lado de Alyndra¹, o corpo quente pressionado contra a perna dela a cada passo, como se a gravidade entre os dois tivesse aumentado e o *lyrien*⁴ agora pertencesse a Alyndra¹ com mais força do que antes. Korath⁶ não tentava separá-los. Isso — o fato de que Korath⁶, que podia ter arrancado o *lyrien*⁴ de Alyndra¹ a qualquer segundo, escolhesse não fazê-lo — era outro dos mistérios que Alyndra¹ catalogava em silêncio: ele não a machucava, ele não separava *Nyx*³, e as ordens que ele cumpria — as ordens que Alyndra¹ não conhecia, mas que podia sentir na precisão de cada ação de Korath⁶ — incluíam a presença do *lyrien*⁴ no grupo.
-
-Os *Nihil Shid*¹⁰ queriam ambos. A menina e o *lyrien*³. E o porquê — o porquê de um *lyrien*⁴ importar tanto quanto uma criança portadora de *cryonys*¹¹ — era algo que Alyndra¹ não podia imaginar e que Korath⁶ não iria explicar.
-
-A paisagem se tornou mais hostil a cada hora. As *argentis*⁵ desapareceram — não gradualmente, mas de uma vez, como se uma linha invisível dividisse o mundo em duas metades e a metade onde entraram não conhecesse árvores. Em seu lugar: formações rochosas bizarras, pilares de basalto que se erguiam do chão como dedos de pedra apontando para um céu que parecia mais escuro do que o céu deveria ser. A vegetação — se é que se podia chamar aquilo de vegetação — era rasteira, retorcida, de um tom vermelho-escuro que sugeria ferro no solo. Não havia *giralis*¹². Não havia *argentis*⁵. Não havia nada que Alyndra¹ reconhecesse como pertencente ao mundo que conhecia.
-
-Apenas pedra. Cinza. Enxofre. E o calor — o calor constante, difuso, que emanava de todas as direções como se a terra estivesse doente com febre e a febre não baixasse nunca.
-
-Alyndra¹ não chorou.
-
-Isso não era ausência de dor — a dor estava ali, in cada passo, em cada respiração do ar sulfuroso, em cada olhar para *Nyx*³ cujas patas sangravam. Mas Alyndra¹ descobriu algo que não sabia que sabia: que existe um tipo de força que não vem do *aethra*¹³, não vem de treinamento, não vem de nenhuma fonte externa, e que emerge apenas quando a alternativa é quebrar. Essa força não era resistência — não era a recusa de sentir — era algo mais sutil: era a capacidade de sentir *tudo* — o medo, a dor, a solidão, o calor, o cheiro de enxofre, o peso de *Nyx*³ nos braços — e continuar andando mesmo assim.
-
-*Nyx*³ não chorava também. *Lyriens*⁴ não choram. Mas *Nyx*³ fazia algo que era, no vocabulário silencioso de sua espécie, equivalente ao choro: encostava o focinho na mão de Alyndra¹ a cada segundo de parada, exalando um sopro quente contra a pele gelada da menina como se pudesse, com aquele gesto infinitamente repetido, lembrá-la de que ela não estava sozinha.
-
-Alyndra¹ não estava sozinha.
-
-E isso — só isso — era o suficiente para o próximo passo. E o próximo. E o próximo.
+*"Não existem resgates limpos. Cada criança que voltamos a encontrar carrega no corpo a marca do que perdeu — e o que perdeu nunca cabe em um relatório."*
 
 ---
 
-## II. As Perguntas que Ficam
+## I. As Veias do Mapa
 
-Na pausa do ante-aurion do quarto dia, Alyndra¹ fez uma pergunta.
+Cinco equipes. Sete rotas. Três reinos.
 
-— Para onde você está me levando?
+A operação que Selynis Thalassa¹ havia desenhado na *Câmara dos Sussurros*² tomou forma no território como uma teia de veias luminosas se espalhando pelo corpo do continente — cada equipe um vaso sanguíneo, cada rota um caminho que o sangue precisava percorrer para chegar ao coração ferido. E o coração ferido era, naquele momento, um ponto no mapa que pulsava em vermelho: o *Ponto Ômega*³, o templo nas planícies de cinza onde todas as linhas se cruzavam, onde todas as *cargas fantasmas*⁴ convergiam, onde Alyndra⁵ estava sendo levada.
 
-Korath⁶ estava sentado em uma rocha de basalto, com as costas contra um pilar de pedra, os olhos semiabertos — não dormindo, nunca dormindo durante missões, mas descansando no limiar da consciência, onde os sentidos permanecem ativos e o corpo recupera energia sem perder vigilância. Não respondeu.
+As equipes não se comunicavam entre si — o protocolo era silêncio absoluto em campo, comunicação exclusivamente pela *RRA*⁶ em frequência cifrada, e mesmo assim apenas transmissões essenciais: posições, anomalias, contatos. Cada equipe operava de forma autônoma, como um órgão que cumpre sua função sem perguntar ao corpo inteiro o que fazer — os pulmões respiram sem consultar o fígado, e as equipes de resgate avançavam sem consultar umas às outras, porque a velocidade era mais importante que a coordenação, e a coordenação, em território hostil, era uma ilusão que se desvanecia no primeiro contato com o inimigo.
 
-— Para onde? — Alyndra¹ repetiu. A voz era mais firme agora — quatro dias de caminhada haviam endurecido algo nela, não a emoção, mas a capacidade de articular a emoção em palavras. — Eu tenho o direito de saber.
+A primeira equipe — liderada por Sera, a mulher que Selynis Thalassa¹ havia treinado pessoalmente e que se movia em silêncio mesmo montada em um *velrok*⁷ — avançava para o norte, cortando as colinas de *Val-Koras*⁸ em diagonal. Levavam quatro operativos, suprimentos para quinze dias, e uma informação que Sera não compartilhava com os outros: um depósito intermediário de *cargas fantasmas*⁴ havia sido identificado dois dias antes por um contato comercial de Selynis Thalassa¹ em *Fulmora*⁹ — um armazém abandonado nas bordas de *Val-Koras*⁸ que, de acordo com o contato, guardava não mercadoria, mas pessoas. Crianças.
 
-O silêncio de Korath⁶ durou cinco segundos. Depois, sem olhar para ela:
+A segunda equipe seguiu para leste, cruzando a fronteira de *Sylvaris*¹⁰ em direção às planícies cinzentas que separavam os reinos iluminados de *Umbra*¹¹. Cinco operativos, incluindo dois especialistas em rastreamento por *aetherite*¹² — e um passageiro não autorizado que se apresentou no ponto de partida com uma garrafa de tinta nos bolsos e uma expressão de quem não vai aceitar um "não" como resposta.
 
-— Um templo.
+Lysias Thyrion¹³ não era um combatente. Lysias Thyrion¹³ era um repórter — um homem que havia passado valens transformando palavras em armas e fatos em munição, e que agora queria transformar testemunhos em algo que o mundo não pudesse ignorar. Sera o recusou — duas vezes. Na terceira vez, Lysias Thyrion¹³ não pediu. Simplesmente montou em um *velrok*⁷ de carga atrás do último operativo da segunda equipe e disse:
 
-— Que templo?
+— Se me mandarem de volta, eu volto. Se me amarrarem, eu fico amarrado e escrevo de memória. Se me matarem, o *Heraldo de Velantis*¹⁴ publica tudo que eu já mandei. Vocês não têm como perder.
 
-— Na fronteira.
+O argumento era pragmático, cínico, e perfeitamente calibrado para o tipo de pessoa que toma decisões em frações de segundo. Sera olhou para ele por quatro segundos — avaliando o risco de ter um civil na equipe contra o risco de ter um repórter furioso publicando relatórios não autorizados — e disse apenas:
 
-— Eu sei que é na fronteira — Alyndra¹ disse, e havia algo na voz dela — não desafio, não insolência, algo que era mais parecido com *clareza*, a clareza brutal de quem decidiu que não ia morrer sem entender — mas *que* templo? Quem está lá? O que vão fazer comigo?
+— Não fala. Não corre. Não morre. Se quebrar alguma dessas regras, eu te deixo no caminho.
 
-Korath⁶ olhou para ela. Foi a primeira vez, em quatro dias de viagem, que ele a olhou diretamente — não com avaliação, não com frieza, mas com algo que Alyndra¹ não conseguiu nomear. Seus olhos — aqueles olhos escuros demais, que absorviam luz em vez de refleti-la — encontraram os dela, e por um segundo que durou uma eternidade, Alyndra¹ sentiu que Korath⁶ estava vendo não apenas ela, mas algo *através* dela: uma lembrança, um fantasma, uma versão de outra pessoa que existiu antes e que se parecia com Alyndra¹ de um jeito que nem Korath⁶ explicaria.
+Lysias Thyrion¹³ assentiu. Guardou a garrafa de tinta. E a segunda equipe partiu para leste com os cinco operativos e um homem que não sabia lutar mas que sabia escrever — o que, em guerras como aquela, era uma forma de luta.
 
-— Não sei — ele disse. E Alyndra¹ — que havia aprendido, em quatro dias, a ler os silêncios de Korath⁶ com mais precisão do que suas palavras — percebeu que era verdade. Ele não sabia. Levava-a para o templo porque as ordens diziam para levá-la, e Korath⁶ cumpria ordens como o vento cumpre a direção da montanha: sem questionar, sem resistir, com a eficiência implacável de algo que não tem alternativa.
+A terceira equipe avançou para sul, cobrindo os portos de *Sylvaris*¹⁰ — uma possibilidade remota, mas Selynis Thalassa¹ não deixava possibilidades remotas desprotegidas. A quarta equipe operou a partir de *Sanctrum*¹⁵, processando dados em tempo real e alimentando o mapa de probabilidade. A quinta equipe — a cobertura aérea, montada em *Koramis*¹⁶ de cristal — cruzou o céu como sombras contra o dourado de *Aurion*¹⁷, com *aetherite*¹² nos arreios e cristais de comunicação sintonizados na frequência reservada.
 
-— Por que *eu*? — Alyndra¹ perguntou. — Dentre todas as crianças do orfanato — por que eu?
-
-Desta vez, Korath⁶ respondeu. Não com palavras — com uma mudança. Uma mudança mínima, quase invisível: os ombros se enrijeceram, os dedos se curvaram contra a rocha, e algo cruzou o rosto dele — algo que não era expressão mas que, na ausência de expressão, era mais revelador do que qualquer careta: *desconforto*. Korath⁶ estava desconfortável com a pergunta. E Korath⁶ não ficava desconfortável.
-
-— Você é especial — ele disse. E a palavra "especial" soou em sua boca como algo que não era dele — algo que ele repetia porque ouviu, não porque compreendia.
-
-— Especial como?
-
-Korath⁶ não respondeu.
-
-*Nyx*³ rosnou. O som era baixo, contínuo, vibrando no peito de Alyndra¹ como um aviso. O *lyrien*⁴ não rosnava para Korath⁶ — rosnava para a escuridão à frente, para a direção que estavam seguindo, para o templo que Korath⁶ se recusava a descrever.
-
-Alyndra¹ fez outra pergunta. A que não planejava fazer — a que surgiu de um lugar que não era a razão nem o medo, mas algo entre os dois, algo que era pura e simplesmente *curiosidade humana* num contexto onde a humanidade parecia ter sido deixada para trás há muitos valens:
-
-— Você tem filhos?
-
-O silêncio que se seguiu foi diferente de todos os silêncios anteriores. Os silêncios anteriores de Korath⁶ eram funcionais — vazios como o intervalo entre notas musicais, preenchidos pelo som do vento ou da respiração. Este silêncio era *pesado*. Tinha textura. Tinha gravidade. Era o tipo de silêncio que existe quando alguém pergunta algo que toca uma ferida que não cicatrizou, e a ferida, mesmo fechada, ainda dói quando a pressão certa é aplicada.
-
-Korath⁶ ficou imóvel por sete segundos — sete segundos que Alyndra¹ contou, porque contar era a única coisa que podia fazer para não enlouquecer no peso daquele silêncio.
-
-— Não — ele disse.
-
-Uma palavra. Uma sílaba. E ainda assim, algo na voz — algo que Alyndra¹ não sabia nomear, mas que sentiu com a precisão de quem aprende a ler pessoas não pelo que dizem, mas pelo que *não* dizem — sugeriu que a palavra não era inteiramente verdadeira. Ou que era verdadeira de um jeito que "verdade" não capturava: não "não, eu não tenho filhos", mas algo mais como "não, eu não tenho filhos — não mais" ou "não, eu não tenho filhos — não no sentido que essa palavra deveria ter".
-
-Alyndra¹ não insistiu. Não porque não quisesse saber — mas porque percebeu que a pergunta tinha atingido algo em Korath⁶, e que aquilo que ela atingiu era uma das poucas coisas vivas em um homem que parecia ter sido esculpido em pedra vulcânica e programado para cumprir ordens.
-
-Korath⁶ se levantou.
-
-— Andamos — disse. E a frase era uma ordem, como todas as frases de Korath⁶ eram ordens, mas havia algo nela — uma aspereza que não existia antes, uma borda que não estava lá quando a viagem começou — que Alyndra¹ registrou no lugar dentro de si onde guardava as coisas que importavam.
-
-*Korath⁶ tem uma ferida*, ela pensou. *Ele é quem é por causa dela.*
-
-E por um segundo — um único segundo, fugaz como a luz de uma *giralis*¹² que se fecha ao toque — Alyndra¹ sentiu algo que não era compaixão e não era compreensão. Era *reconhecimento*. O reconhecimento de que feridas existem em todas as pessoas, mesmo nas pessoas que parecem feitas de pedra e ordens, e que as feridas — invisíveis, intocáveis, não nomeadas — são o que torna alguém humano.
-
-Depois o segundo passou, e Alyndra¹ continuou andando.
+Cinco equipes. Sete rotas. Três reinos. E em algum lugar entre eles — em um ponto que nenhuma equipe havia alcançado ainda, em um caminho que nenhuma equipe conhecia — Korath¹⁸ corria com Alyndra⁵ no ombro e *Nyx*¹⁹ enroscada em seu peito, e a distância entre eles e as equipes de resgate crescia a cada segundo como um abismo que se alarga lentamente, com a paciência imperturbável de quem sabe que o tempo está do seu lado.
 
 ---
 
-## III. A Porta Antes do Fim
+## II. Os Olhos que Não Esquecem
 
-O templo apareceu no ante-aurion do quinto dia.
+O depósito intermediário nas bordas de *Val-Koras*⁸ era um armazém de pedra escura, sem janelas, com uma única porta de ferro enferrujado que havia sido trancada por fora — não com cadeado, mas com um sigilo de *aethra*²⁰ que nenhum ladrão comum conseguiria quebrar e que, no entanto, se desfez quando Sera colocou a mão sobre ele e canalizou uma corrente de *aethra*²⁰ de intensidade cirúrgica, cortando o sigilo como um bisturi corta sutura.
 
-Não gradualmente — não como montanhas que se revelam aos poucos no horizonte, ou como cidades que crescem de silhuetas em formas à medida que nos aproximamos. O templo apareceu de uma vez: uma massa colossal de pedra escura esculpida na face de um penhasco vertical que se erguia do chão como uma ferida na terra, como se algo tivesse arrancado a montanha e exposto o osso do mundo por baixo.
+A porta se abriu.
 
-Alyndra¹ parou.
+O que estava dentro — Sera e seus quatro operativos, armados até os dentes, preparados para combate, para emboscada, para qualquer coisa que o inimigo tivesse deixado como armadilha — não era o que esperavam. Não havia guardas. Não havia *nihilarys*²¹. Havia crianças. Oito crianças — as mais novas tinham talvez três valens, as mais velhas não passavam de nove — encolhidas no canto mais escuro do armazém, sobre um colchão fino que cheirava a mofo e urina, com os olhos arregalados e o corpo rígido de quem aprendeu, nos últimos meses, que qualquer som podia ser o som de algo ruim chegando.
 
-*Nyx*³ parou. O *lyrien*⁴ estava exausto — os flancos subiam e desciam com a rapidez de quem correu demais por muito tempo, as patas deixavam marcas de sangue na rocha vulcânica, os olhos prateados estavam opacos de cansaço. Mas *Nyx*³ não se deitou. Encostou-se contra a perna de Alyndra¹ e permaneceu de pé, porque *Nyx*³ permanecia de pé enquanto Alyndra¹ permanecia de pé — essa era a gramática de lealdade que o *lyrien*⁴ conhecia, e não existia linguagem humana capaz de traduzi-la.
+Não choraram quando a porta se abriu. Isso — o fato de que oito crianças não choraram quando estranhos armados entraram no cômodo onde estavam trancadas — era, para Sera, mais perturbador do que qualquer emboscada. Crianças deveriam chorar. Deveriam gritar, espernear, pedir ajuda. Mas estas crianças não fez nada disso — apenas ficaram imóveis, com os olhos fixos nos operativos como coelhos fixam os olhos nos faróis de um *velrok*⁷ que se aproxima: sem esperança, sem medo, apenas a vazia antecipação do impacto.
 
-O templo era antigo. Não antigo como as ruínas de *Sanctrum*¹⁴ — que eram antigas para os padrões dos reinos antigos — mas antigo como o tempo antes dos reinos, antigo como a Primeira Civilização¹⁵, antigo como as coisas que existiam quando Alyndra ainda estava sendo moldada e os sete reinos eram apenas ideias não formuladas na mente de forças que ninguém lembrava. A pedra era de um negro profundo, sem veios, sem granulação, lisa como vidro em alguns pontos e rugosa como escamas em outros, como se o material tivesse sido escolhido por propriedades que a geologia não explicava. Não havia inscrições visíveis na fachada — ou se havia, haviam sido apagadas por milênios de exposição ao vento e ao enxofre.
+Sera ajoelhou-se. Ajoelhou-se não como uma combatente se ajoelha — com o joelho direito à frente, pronto para levantar em um segundo — mas como uma pessoa se ajoelha: devagar, com os dois joelhos no chão frio, com os olhos na altura dos olhos delas.
 
-A entrada era uma fenda vertical na rocha — não uma porta com batentes e dobradiças, mas uma fissura natural que alguém, há muito tempo, havia alargado o suficiente para que pessoas pudessem passar. A fenda emitia uma luz — não luz de Aurion⁷, não luz de cristais ou *aethrys*¹⁶ — uma luz que era mais escuridão do que luminosidade, como se o próprio conceito de "luz" tivesse sido invertido e o templo brilhasse não *para fora*, mas *para dentro*, absorvendo a claridade ao redor em vez de emiti-la.
+— Meu nome é Sera — ela disse, e sua voz — que meses de espionagem haviam transformado em um instrumento de precisão, capaz de sussurrar informações em um quarto lotado sem que ninguém ouvisse — era agora suave, quase materna, como se a mulher que existia por baixo da agente estivesse, naquele momento, no comando. — Vocês estão seguras. Vim buscar vocês.
 
-Korath⁶ se aproximou da entrada. Parou. E fez algo que Alyndra¹ não esperava: tirou do bolso da túnica um fragmento de cristal negro — não *aethrys*¹⁶, algo mais denso, mais pesado, com veios que pulsavam em vermelho escuro como veias de sangue sob a pele — e segurou-o diante da fenda.
+A criança mais velha — uma menina de cabelos escuros e olhos muito grandes, que usava uma túnica três números maior do que seu corpo — olhou para Sera por um longo momento. Depois, sem dizer uma palavra, abriu os braços.
 
-A fenda se abriu.
+E as outras crianças — uma por uma, em sequência, como se o gesto da mais velha fosse uma permissão — se aproximaram e se agarraram a ela. Não a Sera. À menina. À menina de cabelos escuros e olhos grandes que, nos dias em que estiveram trancadas, se tornara a guardiã delas — a mãe improvisada, a protetora de último instante, a criança que assumiu o papel de adulto porque nenhum adulto estava presente.
 
-Não fisicamente — a pedra não se moveu. Mas a escuridão dentro dela se *recolheu*, como se reconhecesse o cristal e permitisse passagem. Korath⁶ guardou o fragmento. Virou-se para Alyndra¹.
+Sera sentiu algo apertar dentro do peito — algo que meses de treinamento haviam tentado extirpar, e que, de vez em quando, em momentos como aquele, voltava à superfície como uma *giralis*²² que brota no concreto: inesperada, impossível, absurdamente viva.
 
-— Anda — disse.
+Na outra equipe — a segunda equipe, a equipe com o passageiro não autorizado — Lysias Thyrion¹³ escrevia.
 
-E Alyndra¹ andou.
+Escrevia em seu caderno de couro, com uma caneta que havia pertencido ao avô — uma caneta de *aethrys*²³ esculpida, com a ponta que nunca secava e o corpo que pesava nas mãos como uma promessa. Escrevia tudo: os rostos das crianças que a primeira equipe resgatou — "olhos de quem viu demais, bocas de quem não pode falar" — a expressão de Sera quando ajoelhou — "o joelho no chão de uma agente é o gesto mais vulnerável que já vi" — o caminho que a equipe fazia pelo terreno irregular de *Val-Koras*⁸, os *velroks*⁷ avançando em fila, a nyxara descendo sobre as colinas como um manto de silêncio.
 
-Atravessou a fenda com *Nyx*³ nos braços — os braços que ainda carregavam a casca de *cryonys*¹¹, fina como papel, que se formava sempre que o medo era grande demais — e entrou no templo.
+Não era reportagem. Era testemunho. A diferença — Lysias Thyrion¹³ sabia — era que reportagem informa, e testemunho transforma. E o que ele estava vendo naquela operação não era informação que precisava ser informada. Era verdade que precisava ser testemunhada.
 
-O interior era um labirinto.
+— Anota isso — o operativo ao lado dele disse, sem olhar para Lysias Thyrion¹³, observando a nyxara com os olhos de quem varre o horizonte em busca de ameaças. — Quando a história sair, que seja verdadeira.
 
-Corredores que se ramificavam em outras direções, câmaras que se abriam sem aviso para ambos os lados, paredes de pedra negra que absorviam som de forma que os passos de Alyndra¹ não produziam eco — como se o templo estivesse comendo o som, devorando cada ruído que entrava e convertendo-o em silêncio. Não havia tochas. Não havia cristais de iluminação. A única luz era aquela — a luz-inversa que emanava das próprias paredes, tênue, espectral, que não permitia ver detalhes mas obrigava os olhos a se adaptarem a um tipo de visão que não era natural.
-
-Korath⁶ se movia pelo labirinto com a confiança de quem já estivera ali antes — ou de quem recebeu instruções precisas sobre cada curva, cada desvio, cada câmara. Não hesitava. Não olhava para os lados. Apenas andava, com os passos absorvidos pelo chão de pedra e pelo silêncio que o templo produzia como um subproduto de sua existência.
-
-Alyndra¹ viu as celas.
-
-Não todas de uma vez — o labirinto as revelava uma a uma, como um baralho que alguém distribui lentamente, cada carta uma câmara pequena, sem janela, com paredes de pedra negra e um prisioneiro dentro. Alguns estavam conscientes — olhos que seguiam Alyndra¹ quando ela passava, bocas que se moviam sem emitir som, mãos que se estendiam pelas grades (grades de um metal que Alyndra¹ não reconhecia, negro como o templo, frio como o *cryonys*¹¹). Outros — e isso era pior — não estavam. Os olhos estavam abertos, mas a luz havia saído deles. Olhavam para frente sem ver, sem reagir, sem reconhecer que alguém passava. Corpos presentes, pessoas ausentes — como se algo tivesse entrado neles e despejado o conteúdo humano que havia dentro, deixando apenas a casca.
-
-Alyndra¹ não gritou. *Nyx*³ rosnou — um rosnado grave, contínuo, que vibrava contra o peito de Alyndra¹ como um motor, como um coração. O *lyrien*⁴ sentia o que Alyndra¹ sentia e algo mais: o *lyrien*⁴ sentia os *nihilarys*¹⁷, ou sentia o que os *nihilarys*¹⁷ tinham deixado para trás — uma presença residual, uma mancha de escuridão que impregnava as celas como fumaça impregna uma roupa.
-
-Korath⁶ continuou andando. Não olhou para as celas. Não olhou para os prisioneiros. Seus olhos estavam fixos em algo que Alyndra¹ não podia ver — o destino final, o ponto de entrega, o fim da linha.
-
-E o fim da linha estava ali — na última câmara do corredor mais profundo do templo.
+— Vai ser — Lysias Thyrion¹³ respondeu, e a caneta não parou.
 
 ---
 
-## IV. A Entrega
+## III. A Barreira de Cristal
 
-A figura esperava.
+A segunda equipe encontrou o grupo na caverna.
 
-Estava de pé no centro da câmara final — uma sala circular de paredes lisas, sem mobília, sem decoração, sem qualquer elemento que sugerisse uso humano. A única fonte de luz era a mesma luz-inversa das paredes, mas aqui, nesta câmara específica, a luz era mais intensa — ou talvez mais concentrada — e projetava sombras que não correspondiam à geometria do espaço, sombras que se moviam independentes de quem as produzia.
+Não era uma caverna natural — ou se era, havia sido modificada: as paredes haviam sido escavadas de forma regular, o chão havia sido aplanado, e na entrada alguém havia erguido uma barreira de pedra empilhada que servia tanto para esconder a entrada quanto para impedir que quem estivesse dentro conseguisse sair. A barreira foi derrubada pelos operativos em três segundos — dois empurrando, um cortando com *aethra*²⁰ direcionado — e o que estava dentro fez toda a equipe parar.
 
-A figura era alta — mais alta do que Korath⁶, o que era raro — e vestia um manto negro que não era tecido: era *escuridão materializada*, um tecido que parecia absorver a luz e devolvê-la distorcida, como se o manto fosse uma extensão do próprio templo, feito da mesma pedra negra mas flexível, líquida, viva. O rosto estava escondido sob um capuz que caía sobre os ombros e cobria tudo exceto a boca — e a boca, o que era visível dela, estava imóvel, como esculpida, como se a figura não tivesse mais uso para expressões humanas.
+Cinco crianças. Não encolhidas — *agrupadas*. Organizadas em um círculo compacto no centro da caverna, com os corpos pressionados uns contra os outros como se a proximidade fosse uma fortaleza e a presença mútua fosse um muro. E no centro do círculo — protegendo as menores com os próprios braços, com os joelhos sangrando, com o rosto pálido como papel e os olhos brilhando com uma luz que não era luz normal — uma menina de doze valens, aproximadamente, cujas mãos emanavam uma aura tênue de *aethra*²⁰ que formava, ao redor do grupo, uma barreira semitransparente.
 
-Um *Nihil Shid*¹⁰. Ou o que restava de um — um *nihilary*¹⁷ em corpo humano, um hospedeiro que havia cedido não apenas seu corpo mas sua humanidade, e que agora era um recipiente para algo que não era humano e que operava com a precisão fria de uma máquina construída para fins que nenhuma máquina deveria servir.
+A barreira era fraca — tão fraca que os especialistas em *aethra*²⁰ da equipe podiam ver as rachaduras nela, os pontos onde a energia se dissipava, os instantes em que a estrutura inteira tremia como uma membrana prestes a se romper. Mas estava *ali*. Intacta. Funcional. Cobrindo cinco crianças com uma cúpula de luz que nenhuma delas — nenhuma — tinha *aethra*²⁰ suficiente para criar.
 
-Korath⁶ parou a três passos da figura. Ajoelhou-se.
+Exceto uma.
 
-Não com reverência — Korath⁶ não reverenciava ninguém. Ajoelhou-se com a precisão de um protocolo: joelho direito à frente, cabeça baixa, mãos sobre os joelhos. Era a postura de entrega — a postura que os mercenários de *Umbra*⁹ adotavam quando transferiam uma carga, e o gesto reduzia Alyndra¹, em um segundo, de pessoa a mercadoria.
+A menina do centro sentiu a barreira ceder quando os operativos entraram — não porque os operativos a atacassem, mas porque o susto interrompeu a concentração dela, e a concentração era a única coisa que mantinha a barreira de pé. A cúpula desfez-se em fragmentos de luz que se dissiparam como flocos de *giralis*²² carregados pelo vento, e a menina — exausta, desnutrida, com hematomas nos pulsos onde mãos desconhecidas a tinham segurado — olhou para os operativos com uma expressão que Lysias Thyrion¹³ nunca esqueceria.
 
-Alyndra¹ sentiu isso. Sentiu a redução como uma ferida física — não no corpo, mas naquilo que era mais profundo que o corpo, naquilo que fazia dela Alyndra¹ e não apenas *uma criança*. O manto negro. A postura de Korath⁶. A câmara circular. As celas ao longo do corredor. Cada detalhe conspirava para dizer-lhe a mesma coisa: você não é mais uma pessoa. Você é uma *função*.
+Não era medo. Era *exaustão* — a exaustão absoluta, final, de quem chegou ao limite e descobriu que o limite era mais longe do que imaginava, e que mesmo assim havia chegado ao fim dele. Seus olhos — olhos de um âmbar profundo que brilhavam na escuridão como brasas — percorreram o grupo de estranhos e pararam em Lysias Thyrion¹³. Pararam na caneta em sua mão. E algo — algo que não era esperança, não era alívio, algo que era mais primitivo e mais antigo — passou por eles.
 
-*Nyx*³ rosnou.
+Ela desabou.
 
-O rosnado foi diferente dos anteriores. Não era o rosnado baixo e contínuo de alerta — era algo mais, algo que tinha *aethra*¹³ nele, algo que fazia o ar da câmara vibrar e as sombras nas paredes recuarem um centímetro. Por um segundo, a luz-inversa do templo *tremeu*.
+Não dramaticamente — seu corpo apenas cedeu, como uma *argentis*²⁴ que perde a seiva, e ela caiu para a frente, sobre as crianças menores, que a seguraram com os braços curtos e gritaram — o primeiro som que fizeram desde que os operativos entraram: um grito que não era de medo, mas de *protesto*, como se o universo estivesse cometendo uma injustiça ao permitir que aquela menina caísse depois de tudo que ela tinha feito.
 
-A figura sob o capuz virou a cabeça em direção a *Nyx*³. A boca imóvel se moveu — não como uma boca humana se move, mas como uma fenda se abre na pedra:
+Lysias Thyrion¹³ escreveu. Escreveu com as mãos tremendo — e as mãos de Lysias Thyrion¹³ não tremiam há meses, não desde a primeira reportagem sobre as *cargas fantasmas*⁴, quando um operário de *Umbra*¹¹ ameaçou quebrar seus dedos se ele publicasse uma única linha. Escreveu:
 
-— O *lyrien*⁴ também.
+> *"Sobreviveram não por poder, mas por estarem juntos. A barreira de aethra não era forte — era o último recurso de uma menina que não podia mais. Mas foi suficiente. Cinco crianças vivem porque uma menina se recusou a desistir. E quando ela caiu, quem a segurou foram as mesmas crianças que ela protegeu. Não existe reversão nisso — não existe hierarquia, não existe dívida. Existe apenas a verdade mais antiga do mundo: ninguém sobrevive sozinho."*
 
-Korath⁶ assentiu. Levantou-se. E fez algo que Alyndra¹ não esperava: tirou *Nyx*³ de seus braços. Não com violência — com a precisão técnica que caracterizava todos os gestos de Korath⁶. Segurou o *lyrien*⁴ pelo corpo, com as patas para cima, e *Nyx*³ — que nunca havia permitido que ninguém além de Alyndra¹ a segurasse daquele jeito — não lutou. Olhou para Alyndra¹ com olhos prateados que, naquela luz-inversa, pareciam conter toda a dor do mundo, e emitiu um som que não era rosnado nem latido nem grito — era algo que só *lyriens*⁴ fazem, e que os humanos não têm nome para descrever: o som da separação.
+O equipe socorreu a menina — água, compressas, o pouco de alimento que carregavam nas bolsas. Ela não pronunciou uma palavra. Mas quando a equipe a levantou do chão, a menina de olhos âmbar abriu a mão — e na palma havia um fragmento de *aetherite*¹², tão pequeno quanto uma unha, que emanava uma luz azul-esverdeada: a cor da *RRA*⁶.
 
-Alyndra¹ estendeu os braços. Korath⁶ colocou *Nyx*³ de volta em seus braços — e por um segundo, os dedos de Korath⁶ tocaram o braço de Alyndra¹. O contato foi breve — tão breve que poderia ter sido acidental. Mas não foi. Alyndra¹ sentiu: no dedo de Korath⁶, atravessando a luva de couro, uma temperatura que não era a temperatura de um corpo humano normal. Era mais fria. Mais controlada. Como se o próprio sangue de Korath⁶ tivesse sido treinado para não desperdiçar calor.
+Ela o segurava desde que a embalaram ali — dois dias, talvez três. A *aetherite*¹² não era uma ferramenta de comunicação; era uma *bússola*. Alguém — talvez os próprios *Nihil Shid*²⁵, talvez um operativo infiltrado que sabia que as crianças precisariam de alguma forma de contato — havia colocado o fragmento no bolso de uma das crianças menores. E a menina de olhos âmbar o encontrara, o ativara instintivamente, e o segurara com a tenacidade de quem sabe que um fragmento de luz, no escuro, pode ser a diferença entre viver e desaparecer.
 
-Korath⁶ entregou Alyndra¹ à figura.
-
-A figura estendeu a mão — a mão estava coberta pelo manto negro, e Alyndra¹ não podia ver se era humana — e tocou o ombro de Alyndra¹. O toque era leve, quase gentil, e isso era o mais perturbador de tudo: a gentileza de um *nihilary*¹⁷, a gentileza de algo que havia devolvido a luz dos olhos de dezenas de pessoas nas celas ao longo do corredor, era mais aterrorizante do que qualquer violência, porque violência você pode entender, pode lutar contra, pode odiar. Gentileza monstruosa não tem resposta.
-
-Alyndra¹ não resistiu. Não porque estivesse conformada — mas porque *Nyx*³ estava em seus braços, e se ela resistisse, *Nyx*³ seria arrancada dela, e a única coisa que ainda importava — a única coisa que fazia com que Alyndra¹ continuasse sendo Alyndra¹ em vez de uma casca com olhos vazios — era o peso quente do *lyrien*⁴ contra seu peito.
-
-Korath⁶ virou-se.
-
-E então — antes de dar o passo que o levaria para fora da câmara, antes de desaparecer no labirinto de corredores escuros que era o templo, antes de se tornar outra vez o mercenário de *Umbra*⁹ que seguia ordens com a precisão de uma máquina — Korath⁶ parou.
-
-Olhou para Alyndra¹.
-
-Não disse nada. Não precisava. O olhar — aquele olhar que absorvia luz, que era mais escuro do que a escuridão do templo, que era mais profundo do que qualquer abismo — carregava algo que palavras não podiam conter. Não era amizade. Não era desculpa. Não era compaixão. Era *reconhecimento* — o reconhecimento de uma pessoa que vê outra pessoa em uma situação impossível e, por um segundo, deixa de ser o que é — mercenário, máquina, cumpridor de ordens — e se torna o que foi antes de tudo isso: um ser humano que sabe o que é entregar uma criança para a escuridão.
-
-E no rosto de Korath⁶ — no rosto que não tinha expressão, que nunca tinha expressão, que era uma máscara de pedra vulcânica tão impenetrável quanto o templo ao redor — algo se moveu. Algo mínimo, quase invisível: a contração de um músculo na mandíbula, o estreitamento de uma pálpebra, o tipo de microexpressão que dura menos de um segundo e que, no entanto, contém mais verdade do que mil palavras.
-
-Dor.
-
-Korath⁶ sentiu dor.
-
-E Alyndra¹ — que estava de pé, com *Nyx*³ nos braços e a casca de gelo nos braços e o olhar da figura encapuzada sobre ela e a câmara circular fechando ao redor como uma boca que se fecha — viu a dor no rosto de Korath⁶ e entendeu algo que nenhuma criança de sua idade deveria precisar entender: que o mal não é sempre monstruoso. Às vezes é humano. Às vezes tem um rosto, e olhos escuros, e uma ferida que ninguém vê, e um "não" que não é inteiramente verdade quando alguém pergunta se tem filhos.
-
-Korath⁶ se virou.
-
-Caminhou para fora da câmara. Seus passos foram absorvidos pelo chão de pedra negra, e o silêncio do templo engoliu o som, e ele desapareceu — não como uma pessoa desaparece, com o corpo diminuindo na distância, mas como uma sombra desaparece quando a luz se apaga: de uma vez, completamente, como se nunca tivesse estado ali.
-
-Alyndra¹ ficou sozinha com *Nyx*³.
-
-A figura encapuzada permanecia imóvel. As sombras dançavam nas paredes. A luz-inversa pulsava com a regularidade de um coração — o coração do templo, o coração de algo que era mais antigo do que qualquer coração humano.
-
-E Alyndra³, no escuro, apertou *Nyx*³ contra o peito — o peito gelado, o peito coberto de *cryonys*¹¹, o peito que, apesar de tudo, ainda batia — e pensou:
-
-*Lyris¹⁸ vai me encontrar. Eu sei.*
-
-*Nyx*³ fechou os olhos. E o templo — antigo, negro, mais velho que os reinos, mais profundo que a memória — absorveu a menina e o *lyrien*³ em seu silêncio, e a câmara circular se fechou, e a escuridão se completou, e o mundo lá fora continuou girando sem saber que, nas profundezas da fronteira entre *Fulmora*⁸ e *Umbra*⁹, uma menina de braços gelados abraçava um *lyrien*³ de olhos prateados, e algo — algo antigo, algo paciente, algo que esperava há milênios — finalmente tinha o que procurava.
+Sera — que monitorava todas as equipes pela *RRA*⁶ — recebeu o sinal do fragmento. A localização foi triangulada em segundos. E no mapa de cristal na *Câmara dos Sussurros*², um ponto azul piscou onde antes só havia escuridão: cinco crianças vivas, uma menina exausta, e um fragmento de *aetherite*¹² que brilhava como uma estrela caída nas mãos de quem não tinha nada além das próprias mãos.
 
 ---
 
-**[FIM DO CAPÍTULO XXIX]**
+## IV. O Preço
+
+Nem todas as frentes encontraram crianças vivas.
+
+Nem todas as frentes voltaram inteiras.
+
+A terceira equipe — a que cobria os portos de *Sylvaris*¹⁰ — foi emboscada no ante-aurion do terceiro dia de operação. A emboscada foi perfeita: três operativos avançando pela estrada costeira, confiantes porque a rota havia sido varrida e considerada segura, e do nada — do silêncio, da névoa que o mar ergue nas nyxaras, da escuridão entre os postes de iluminação que haviam sido apagados um a um sem que ninguém notasse — os *nihilarys*²¹ surgiram.
+
+*Nihilaryth*²¹ não lutam como humanos lutam. *Nihilaryth*²¹ lutam como escuridão luta: sem forma fixa, sem peso, sem som. Eles se movem nas sombras entre as sombras, e quando atacam, o ataque não vem de uma direção — vem de todas, simultaneamente, como se a própria escuridão se curvasse em torno da presa e a engolisse por inteiro. Dois operativos morreram ali — dois homens e mulheres que meses de serviço haviam transformado em máquinas de sobrevivência, e que naquela estrada costeira, naquela nyxara, descobriram que mesmo máquinas podem ser desmontadas.
+
+O terceiro operativo — um homem chamado Varn, que havia chegado à *Tar-Gig*²⁶ por recomendação de Aldric²⁷ — sobreviveu. Sobreviveu não por habilidade — a habilidade, contra *nihilarys*²¹, é insuficiente — mas por *aetherite*¹². O fragmento que carregava no peito, dentro de um compartimento blindado, emitiu um segundo de luz quando a emboscada começou — um segundo automático, uma última mensagem que *aetherite*¹² envia quando o portador está prestes a morrer — e o segundo alertou a equipe aérea, que chegou em tempo de afastar os *nihilarys*²¹ com explosões concentradas de *aethra*²⁰, mas não em tempo de salvar os dois que já tinham caído.
+
+Varn voltou sozinho. Trazia nos braços o corpo de um companheiro — não podia carregar dois — e nos olhos a expressão de quem viu o rosto do inimigo e reconheceu algo que não deveria existir: *preparação*. Os *nihilarys*²¹ não estavam ali por acaso. Não haviam interceptado a equipe por sorte. Sabiam que a equipe viria. Sabiam a rota. Sabiam o segundo de chegada.
+
+Os *Nihil Shid*²⁵ anteciparam os resgates. Esperavam que as equipes fossem enviadas. E emboscá-las era tão importante para eles quanto capturar as crianças — talvez mais importante, porque cada equipe eliminada era uma equipe a menos buscando Alyndra⁵.
+
+Sera recebeu a notícia na manhã seguinte. Sua expressão não mudou — o rosto de Sera era um instrumento de precisão que não desperdiçava movimentos em emoções. Mas suas mãos — as mãos que seguravam o cristal de comunicação — tremeram. E Sera não tremia.
+
+— Dois — ela disse, e a palavra caiu no silêncio da frequência cifrada como uma pedra cai em um poço fundo.
+
+Lysias Thyrion¹³ ouviu. Estava ao lado do cristal, escrevendo, e ouviu a palavra "dois" e entendeu — não porque alguém explicasse, mas porque a gramática da guerra é universal: quando alguém diz "dois" em um tom de voz como aquele, não está contando. Está lamentando.
+
+Escreveu no caderno:
+
+> *"Dois operativos da Tar-Gig morreram na estrada costeira de Sylvaris. Emboscada de nihilarys. O terceiro, Varn, voltou com um corpo nos braços. Não vou publicar os nomes — não até que as famílias sejam notificadas. Mas vou registrar: existiam. Foram valentes. E não voltaram."*
+
+O *Heraldo de Velantis*¹⁴ publicaria aquilo meses depois — quando a poeira baixasse, quando os mortos fossem chorados, quando o mundo estivesse pronto para ler sem desmoronar. Mas o registro — o ato de escrever, o gesto de testemunhar — aconteceu ali, naquele segundo, com a caneta de *aethrys*²³ de um avô que acreditava que a verdade era a última defesa contra o esquecimento.
+
+A verdade. Sempre a verdade. Mesmo quando a verdade era insuportável.
+
+---
+
+## V. A Frequência que Se Afasta
+
+No topo da *Torre de Aurion*²⁸, Aurelius²⁹ estava de pé diante do painel de cristal — e o painel de cristal era, naquele momento, a coisa mais importante do mundo, porque o painel de cristal era um mapa, e o mapa mostrava cada equipe como um ponto de luz se movendo pelo território, e entre os pontos de luz — entre as equipes que avançavam, resgatavam, perdiam — havia um ponto que pulsava com uma cor diferente.
+
+A cor de Alyndra⁵.
+
+Aurelius²⁹ não precisava do mapa para saber onde Alyndra⁵ estava. Sentia — no *aethra*²⁰ que percorria seu corpo, no mesmo *aethra*²⁰ que havia feito a *Torre de Aurion*²⁸ tremer quando a notícia chegou — a assinatura elemental dela: um frio tênue e constante, como a lembrança de um inverno que nunca termina. Essa assinatura era parte dele — parte de seu *aethra*²⁰, parte de seu sangue, parte de algo que existia antes que qualquer nome fosse dado a qualquer coisa. Ele podia senti-la como um músico sente a nota fundamental de um acorde: não com os ouvidos, mas com algo mais profundo, algo que ficava abaixo da consciência e acima da biologia.
+
+Mas a distância estava aumentando.
+
+Cada segundo que passava, a assinatura enfraquecia — não porque Alyndra⁵ estivesse enfraquecendo, mas porque a distância entre ela e *Sanctrum*¹⁵ estava crescendo além do alcance do cristal. A *aethra*²⁰, como qualquer energia, se dissipa com a distância — e Alyndra⁵ estava se afastando do centro do continente em direção às bordas, para aquele lugar onde *Fulmora*⁹ e *Umbra*¹¹ se tocavam sem se fundirem, onde a terra era cinza e o ar cheirava a enxofre e as estrelas eram mais numerosas porque não havia luz artificial para competir com elas.
+
+Aurelius²⁹ colocou as mãos sobre o painel de cristal. Fechou os olhos. Estendeu o *aethra*²⁰ — estendeu como quem estende os braços em uma escuridão que não tem paredes, alcançando, buscando, tentando tocar algo que estava se movendo para longe.
+
+Por um segundo — um único segundo — ele sentiu.
+
+Frio. Não o frio do *cryonys*³⁰ — esse frio era diferente, mais profundo, mais antigo, como se viesse do núcleo de Alyndra em vez da superfície. E medo — não o medo de Alyndra⁵, mas algo que a cercava, que a pressionava, que estava tentando, com a paciência geológica de algo que existe há milênios, moldá-la, contê-la, reduzi-la a uma forma que coubesse dentro do plano que os *Nihil Shid*²⁵ tinham para ela.
+
+E depois — silêncio.
+
+A assinatura desapareceu. Não gradualmente — de uma vez, como se alguém tivesse apagado uma vela.
+
+Aurelius²⁹ abriu os olhos. O painel de cristal mostrava o mapa, e o mapa mostrava as equipes, e as equipes eram pontos de luz, e entre os pontos de luz havia um vazio onde a cor de Alyndra⁵ tinha estado dias antes. O vazio era pequeno — um pixel que faltava em uma tapeçaria de milhares de pixels — mas Aurelius²⁹ via aquele vazio como um buraco no peito, como a ausência que fica quando algo que deveria estar presente é arrancado sem cerimônia, sem transição, sem sequer um aviso.
+
+Ela está além do alcance.
+
+O pensamento veio não em palavras, mas como uma pressão no peito — a pressão de uma verdade que ele se recusava a aceitar e que, apesar da recusa, continuava existindo, implacável como a gravidade. Alyndra⁵ estava além do alcance do cristal, além do alcance do *aethra*²⁰, além do alcance de tudo que Aurelius²⁹ podia fazer sentado em uma torre no centro do continente.
+
+Selynis Thalassa¹ entrou no Solar Privado sem bater — não porque fosse descortesia, mas porque bater era uma formalidade que meses de urgência haviam tornado obsoleta. Seus olhos verdes percorreram o rosto de Aurelius²⁹ — e Selynis Thalassa¹, que lia rostos como outros leem textos, viu algo no rosto do *Guardião Mestre*³¹ que a fez parar.
+
+— Perdemos o sinal — Aurelius²⁹ disse, e a voz era calma, e a calma era a coisa mais assustadora que Selynis Thalassa¹ já tinha ouvido, porque a calma de Aurelius²⁹ não era serenidade — era contenção, era a represa que segura o rio, era o muro que impede o dilúvio, e Selynis Thalassa¹ sabia que represas quebram e que muros caem.
+
+— As equipes estão avançando — Selynis Thalassa¹ respondeu. — Sera encontrou oito crianças em *Val-Koras*⁸. A segunda equipe encontrou cinco em uma caverna — uma menina de doze valens criou uma barreira de *aethra*²⁰ para protegê-las. A terceira equipe sofreu baixas. Dois operativos mortos.
+
+Aurelius²⁹ ouviu cada palavra. Processou cada detalhe. Oito crianças. Cinco crianças. Dois mortos. E Alyndra⁵ — além do alcance, além da percepção, além de tudo que ele podia sentir exceto a ausência que ela deixava, uma ausência que era tão grande e tão antiga que parecia existir antes dele, como se ele tivesse nascido já sentindo a falta de algo que ainda não conhecia.
+
+— Continue — ele disse. — Cada equipe. Cada rota. Não pare até encontrá-la.
+
+Selynis Thalassa¹ assentiu. Não disse "nós vamos encontrá-la" — porque Selynis Thalassa¹ não fazia promessas que não podia garantir, e naquele momento, com o sinal de Alyndra⁵ apagado no painel de cristal e os *nihilarys*²¹ emboscando equipes nas estradas costeiras, a garantia de encontrá-la era uma promessa que ninguém no mundo podia fazer.
+
+Mas fez algo melhor que prometer. Saiu do Solar e voltou para a *Câmara dos Sussurros*², e a *Câmara dos Sussurros*² — que já operava no limite máximo de capacidade — acelerou, porque Selynis Thalassa¹ não acreditava em limites quando o que estava em jogo era uma criança, e porque os mapas, as rotas, os pontos de convergência — tudo indicava uma direção, um destino, um ponto final onde todas as linhas se cruzavam: o *Ponto Ômega*³, o templo na fronteira, o lugar onde Alyndra⁵ estava sendo levada.
+
+E onde, em breve, alguém precisaria ir buscá-la.
+
+***[FIM DO CAPÍTULO XXIX]**
 
 ---
 
@@ -240,38 +190,64 @@ E Alyndra³, no escuro, apertou *Nyx*³ contra o peito — o peito gelado, o pei
 
 ## 📖 Glossário do Capítulo
 
-¹ **Alyndra** — Criança do *Orfanato Luminis*; portadora de *cryonys*¹¹; entregue ao templo por Korath⁶.
+¹ **Selynis Thalassa** — Mestra da Informação; titular do Assento Ukam no Conselho dos 12. Coordena as operações de resgate continentais a partir da *Câmara dos Sussurros*².
 
-² **Sylvaris** — Reino dos Ventos, Florestas e Cristais; primeiro reino. Alyndra¹ foi transportada para fora de *Sylvaris*² por Korath⁶.
+² **Câmara dos Sussurros** — Base de operações na *Torre de Aurion*²⁸; centro nervoso da inteligência continental.
 
-³ **Nyx** — O *lyrien*⁴ prateado companheiro de Alyndra¹. Mantém-se junto a ela durante toda a travessia. Os *Nihil Shid*¹⁰ exigem que *Nyx*³ seja entregue junto com Alyndra¹.
+³ **Ponto Ômega** — Designação da *Tar-Gig*²⁶ para o templo na fronteira *Fulmora*⁹-*Umbra*¹¹, onde as *cargas fantasmas*⁴ convergem.
 
-⁴ **lyrien** — Animal companheiro de tamanho médio. *Nyx*³ demonstra capacidade de emitir sons com *aethra*¹³ — fenômeno raro que sugere vínculo profundo com Alyndra¹.
+⁴ **cargas fantasmas** — Operação de tráfico de pessoas sem registro, orquestrada pelos *Nihil Shid*²⁵.
 
-⁵ **argentis** — Árvore de casca prateada; desaparece completamente à medida que Alyndra¹ se aproxima da fronteira.
+⁵ **Alyndra** — Criança do Orfanato Luminis; portadora de *cryonys*³⁰; alvo prioritário dos *Nihil Shid*²⁵. Sua assinatura de *aethra*²⁰ desapareceu do alcance de *Sanctrum*¹⁵.
 
-⁶ **Korath** — Mercenário de *Umbra*⁹; transporta Alyndra¹ até o templo. Segue ordens com precisão mecânica, mas demonstra sinais de conflito interno ao entregá-la.
+⁶ **RRA** — Rede de Ressonância de *Aurion*¹⁷; sistema de comunicação instantânea por pulsos etéricos.
 
-⁷ **Aurion** — A estrela central de Alyndra. Sua luz não penetra no templo.
+⁷ **velrok** — Montaria de grande porte usada para transporte e combate.
 
-⁸ **Fulmora** — Reino dos Raios; quinto reino. A fronteira com *Umbra*⁹ é um terreno vulcânico inóspito.
+⁸ **Val-Koras** — Região de passagem nas fronteiras orientais de *Sylvaris*¹⁰.
 
-⁹ **Umbra** — Reino das Sombras e Mistérios; sétimo reino. Origem de Korath⁶ e dos *nihilarys*¹³.
+⁹ **Fulmora** — Reino dos Raios; quinto reino. Fronteira com *Umbra*¹¹.
 
-¹⁰ **Nihil Shid** — Organização secreta "Os Iluminados"; operam o templo na fronteira e coordenam o tráfico de pessoas.
+¹⁰ **Sylvaris** — Reino dos Ventos, Florestas e Cristais; primeiro reino.
 
-¹¹ **cryonys** — SinDrarys de Água + Vento; manifesta gelo. Alyndra¹ manifesta uma casca de *cryonys*¹¹ como resposta involuntária ao medo.
+¹¹ **Umbra** — Reino das Sombras e Mistérios; sétimo reino. Origem dos mercenários e dos *nihilarys*²¹.
 
-¹² **giralis** — Flores de pétalas prateadas; ausentes na fronteira vulcânica.
+¹² **aetherite** — Mineral sensível a *aethra*²⁰; usado em rastreamento e comunicação.
 
-¹³ **aethra** — Energia elemental que permeia Alyndra; base de poderes elementais.
+¹³ **Lysias Thyrion** — Repórter do *Heraldo de Velantis*¹⁴; acompanha a segunda equipe de resgate como testemunha civil. Seu caderno de campo se tornará registro histórico da operação.
 
-¹⁴ **Sanctrum** — Capital continental; onde o Guardião Mestre perdeu o sinal de Alyndra¹.
+¹⁴ **Heraldo de Velantis** — Periódico de circulação em *Velantis* e regiões vizinhas de *Sylvaris*.
 
-¹⁵ **Primeira Civilização** — Civilização anterior aos Sete Reinos; responsável por construções como o Templo da Fronteira.
+¹⁵ **Sanctrum** — Capital continental; sede do poder político e da *Torre de Aurion*²⁸.
 
-¹⁶ **aethrys** — Cristal elemental. Korath⁶ carrega um fragmento de cristal negro (não *aethrys*¹⁶) que permite acesso ao templo.
+¹⁶ **Koramis** — Ave de cristal usada como montaria aérea rápida.
 
-¹⁷ **nihilary / nihilarys** — Agentes dos *Nihil Shid*¹⁰; capazes de manipular escuridão. A figura encapuzada é um *nihilary*¹⁷ em corpo humano hospedeiro.
+¹⁷ **Aurion** — A estrela central de Alyndra.
 
-¹⁸ **Lyris** — Administradora e guardiã do Orfanato Luminis; Alyndra¹ acredita que Lyris¹⁸ virá buscá-la.
+¹⁸ **Korath** — Mercenário de *Umbra*¹¹; responsável pelo sequestro de Alyndra⁵. Ainda a transporta em direção ao *Ponto Ômega*³.
+
+¹⁹ **Nyx** — O *lyrien* prateado companheiro de Alyndra⁵.
+
+²⁰ **aethra** — Energia elemental que permeia Alyndra; base de poderes elementais.
+
+²¹ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²⁵; seres capazes de manipular escuridão. Emboscaram a terceira equipe de resgate.
+
+²² **giralis** — Flores de pétalas prateadas que abrem durante a noite.
+
+²³ **aethrys** — Cristal elemental usado em arquitetura, engenharia e armamento.
+
+²⁴ **argentis** — Árvore de casca prateada; metáfora para exaustão vital.
+
+²⁵ **Nihil Shid** — Organização secreta "Os Iluminados"; orquestram as *cargas fantasmas*⁴ e a rede de *nihilarys*²¹.
+
+²⁶ **Tar-Gig** — Organização de inteligência e espionagem aliada a Selynis Thalassa¹.
+
+²⁷ **Aldric** — Ex-companheiro da *Kalúdris*; zelador do Orfanato Luminis.
+
+²⁸ **Torre de Aurion** — Ponto mais alto de *Sanctrum*¹⁵; abriga o Solar Privado do *En Me*.
+
+²⁹ **Aurelius** — *Guardião Mestre*³¹, 33º na linhagem; pai biológico de Alyndra⁵. Perdeu a assinatura de *aethra*²⁰ da filha no painel de cristal.
+
+³⁰ **cryonys** — SinDrarys de Água + Vento; manifesta gelo. Alyndra⁵ é portadora.
+
+³¹ **Guardião Mestre** — Líder supremo da Ordem dos Guardiões de *Sanctrum*¹⁵. Título de Aurelius²⁹.

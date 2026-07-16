@@ -6,278 +6,406 @@
 
 # CAPÍTULO XLV
 
-# Reencontro
+# Os Que Sabiam
 
-*"A volta não é o contrário da partida. A volta é o reconhecimento de que o que foi partido nunca mais estará inteiro — e que, mesmo assim, ainda vale a pena voltar."*
+*"Há três tipos de segredos: os que guardamos dos inimigos, os que guardamos dos amigos e os que guardamos de nós mesmos. O pior não é descobrir que alguém conhece o seu segredo — é descobrir que sempre soube e nunca disse nada."*
 — Fragmento dos *Cantos de Adormecimento*¹, compilação atribuída ao Ciclo das *Giralis*² Negras
 
 ---
 
-## I. O Despertar em Terras Estranhas
+## I. O Cristal Silencioso
 
-Alyndra⁷ acordou sem saber onde estava.
+O cristal apareceu na mesa de Aurelius³ sem que ninguém o tivesse colocado ali.
 
-Não foi um despertar suave — foi um *retorno*. Como se a consciência tivesse estado mergulhada em água gelada e estivesse sendo *puxada* para a superfície, lentamente, dolorosamente, cada membro do corpo protestando contra o movimento, cada segundo de percepção chegando como fragmento, como caco de algo que outrora foi inteiro e que agora estava *quebrado* em pedaços que não se encaixavam.
+Não havia sido entregue por um servo, não havia sido transportado pelo *RRA*⁴, não havia sido deixado na porta por uma mão invisível durante a nyxara. Estava *ali* — simplesmente ali — como se tivesse nascido da própria superfície de *aethrys*⁵ branco que compunha a mesa, como se a matéria tivesse se reorganizado em torno de um ponto central e cristalizado em uma forma que não existia um segundo antes e que agora era *inegável*: um cristal octogonal, translúcido, da cor de fumaça, com veios internos que pulsavam com uma luz que não era dourada como a do *Aurion*⁶ nem azul como o *cryonys*⁷, mas algo entre os dois — um violeta profundo, quase negro, que era a cor do *entre*.
 
-O teto era branco.
+Aurelius³ estava de pé junto à janela de seus aposentos quando notou. A janela dava para o pátio interior do *Palácio de Cristal*⁸, onde as torres de *aethrys*⁵ se erguiam como dedos de uma mão tentando tocar o céu, e a luz do *Aurion*⁶ poente pintava tudo de laranja e dourado, e Aurelius³ estava olhando para nada — para o vazio, para o espaço entre os pensamentos, para o lugar onde a mente vai quando o corpo está exausto e a alma está *pesada* e não há mais energia para pensar em Selynis⁹, na sabatina, em Thaloris¹⁰, na aberração, em Alyndra¹¹, em *qualquer coisa*.
 
-Não o branco do Orfanato Luminis⁸ — aquele branco amarelado das paredes pintadas com tinta fina que descascava nas quinas, que tinha cheiro de cera velha e pano úmido, aquele branco que Alyndra⁷ conhecia desde os quatro valens e que era tão familiar quanto o próprio rosto. Este era um branco *diferente* — liso, *imaculado*, o branco de *aethrys*⁶ polido, o branco que pertencia a *Sanctrum*⁹, à Fortaleza Branca, ao coração do poder elemental de Alyndra.
+O cristal pulsou.
 
-Alyndra⁷ piscou.
+Não um brilho, não um lampejo — um *pulso*, rítmico e lento, como um coração que bate uma vez a cada dez segundos, e cada batida enviava uma onda violeta pelas veias internas do octógono, e a onda percorria o cristal de um vértice ao outro e depois *retornava*, como se estivesse *perguntando* algo, como se estivesse *esperando* uma resposta.
 
-Os olhos demoraram para focar — não porque a luz fosse forte, porque a *mente* estava lenta, como se os pensamentos estivessem navegando em *cryonys*¹⁰, cada ideia se movendo com a lentidão de algo que quase *congelou*. A visão se ajustou aos poucos: o teto de *aethrys*⁶, as paredes lisas, uma janela retangular por onde entrava a luz dourada do *Aurion*¹¹, uma mesa de pedra ao lado da cama, um jarro de água, uma caneca, uma bandeja com alimentos que ela não reconheceu — raízes, sementes, algo que parecia *Giralis*² seca.
+Aurelius³ não tocou no cristal.
 
-O corpo *doía*.
+Não porque tivesse *medo* — o *En Me*¹² de *Sanctrum*¹³ não tinha medo de cristais, de artefatos, de relíquias. Tinha *cautela*. E a cautela dizia que um objeto que aparece sem explicação na mesa do homem mais poderoso de Alyndra não é um *presente* — é uma *convocação*. E convocações que chegam sem aviso, sem protocolo, sem assinatura, são convocações de quem não precisa *assinar*, de quem não precisa *explicar*, de quem está *acima* das estruturas que governam o resto do mundo.
 
-Não uma dor aguda, localizada, o tipo de dor que indica uma ferida específica. Era uma dor *difusa* — nas articulações, nos músculos, nos ossos, como se o corpo tivesse sido *desmontado* e *remontado* e algo não tivesse encaixado direito, como se os dias de inconsciência tivessem deixado marcas não na pele mas na *estrutura*, nas fibras, no *tecido* do que Alyndra⁷ era feita.
+Aurelius³ conhecia as estruturas. Conhecia os protocolos. Conhecia cada camada de poder dentro de *Sanctrum*¹³, cada canal de comunicação, cada pessoa que tinha autoridade para enviar uma mensagem ao *En Me*¹². Nenhum deles — *nenhum* — operava com cristais violetas que apareciam do nada.
 
-E havia algo mais.
+O cristal pulsou de novo.
 
-Algo que não era dor física, que não era cansaço, que não era a desorientação de acordar em um lugar desconhecido. Era uma *ausência* — um espaço vazio no peito, no centro do corpo, onde algo costumava *estar* e agora não estava. Alyndra⁷ tentou identificar o que faltava. Tocou o peito com as mãos — a mão esquerda encontrando o tecido de uma túnica limpa que não era sua, a mão direita buscando instintivamente algo que *não estava ali*.
+E Aurelius³, que passara a vida inteira controlando impulsos, reprimindo reações, mantendo a compostura como um muro que não cede nem mesmo quando o oceano bate — Aurelius³ sentiu algo que não sentia há *valens*: a borda fina da incerteza. Não medo. Não desespero. *Incerteza*. A sensação de estar diante de algo que não consegue *mapear*, não consegue *classificar*, não consegue *enquadrar* nas categorias que a mente usa para organizar o mundo.
 
-Nyx¹².
+Aurelius³ pegou o cristal.
 
-O nome surgiu na mente como um *eco* — não como lembrança, como *saudade*, como a dor de um membro fantasma que continua doendo depois que o membro foi cortado. Nyx¹² — o *lyrien*¹³ de pelagem prateada, o corpinho translúcido e brilhante que pulsava com uma luz azulada que era a luz mais *viva* que Alyndra⁷ conhecia, o companheiro que dormia ao lado dela desde os primeiros valens no orfanato, que a seguia como uma sombra luminosa, que *brilhava* quando Alyndra⁷ estava feliz e *pulsava* quando Alyndra⁷ estava com medo e *crescia* quando Alyndra⁷ precisava de proteção.
+A superfície era *fria* — não a frieza do *cryonys*⁷, que congela, que *consome*, mas a frieza da pedra que ficou à sombra durante séculos, a frieza das profundezas, a frieza de algo que esteve *subterrâneo* por mais tempo do que esteve exposto à luz. E no momento em que os dedos de Aurelius³ fecharam-se ao redor do octógono, os veios violetas *arderam* — não com fogo, com *direção*, como se o cristal tivesse recebido o toque e estivesse agora *apontando*, indicando um caminho, um destino, um lugar que Aurelius³ precisava ir.
 
-Nyx¹² não estava ali.
+A imagem surgiu na mente de Aurelius³ — não como visão, como *instrução*: um corredor. Descendente. Escadas em espiral de *aethrys*⁵ negro. Uma porta que não era porta — era uma fenda na parede, larga o suficiente para um corpo passar, e além da fenda, escuridão que *respirava*.
 
-A ausência *pesava* — pesava no peito como uma pedra, como a *Manopla da Vinculação*¹⁴ pesa no pulso de Aurelius, como o mundo inteiro pesa nos ombros de quem sabe que algo *acabou*. E Alyndra⁷ *sabia* — não sabia como, não sabia por que, mas o corpo sabia antes que a mente, e o corpo dizia que Nyx¹² estava *morta*.
+E então o cristal se desfez. Não se quebrou — se *dissolveu*, como sal na água, como fumaça no vento, como algo que teve *um propósito* e que, ao cumprir o propósito, não precisava mais existir.
 
-Os fragmentos vieram em *onda*.
+Aurelius³ ficou de pé na luz poente, os dedos vazios cerrados ao redor de algo que não estava mais ali, e sentiu o peso de uma escolha que não era escolha.
 
-Não uma memória inteira — *fragmentos*. Gelo. Muito gelo. O frio absoluto do *cryonys*¹⁰ expandindo pelo corpo como uma inundação, como algo que está dentro e que *precisa* sair, e a sensação de ser ao mesmo tempo *quem ela era* e algo *maior*, algo que não tinha nome e que não cabia no corpo de cinco valens. Os olhos da aberração — dezesseis olhos, negros e prateados, focados nela com uma intensidade que era *fome*. Uma forma prateada passando entre suas pernas — pequena, frágil, do tamanho de uma bola — e depois *escuridão*. Não a escuridão da nyxara, não a escuridão do sono — a escuridão do *nada*, do vazio absoluto, do lugar onde as coisas que morrem *vão*.
-
-Alyndra⁷ fechou os olhos.
-
-E *chorou*.
-
-Não um choro de desespero — um choro *seco*, silencioso, o tipo de choro que acontece quando não há mais lágrimas para chorar, quando o corpo já despendeu toda a umidade que tinha e o que sobra é apenas o *movimento* — os ombros tremendo, a boca se contraindo, o ar entrando e saindo em *sopros* que eram mais espasmos que respiração. Alyndra⁷ chorou por Nyx¹², pelo *lyrien*¹³ que tinha se *colocado* entre ela e a aberração, que tinha *atacado* algo que era imensamente maior, que tinha *morrido* defendendo alguém que amava.
-
-Nyx¹² não tinha medo. Nyx¹² era feito de *cryonys*¹⁰ — não sentia medo. Sentia *lealdade*. E a lealdade de Nyx¹² era tão grande, tão *absoluta*, tão *simples* — não era uma escolha, era uma *natureza*, assim como o gelo congela e a luz brilha, Nyx¹² protegia — que a criatura tinha se movido sem hesitar, sem calcular, sem *pensar*, porque pensar era algo que os *lyriens*¹³ não faziam quando quem amam está em perigo.
-
-E agora Nyx¹² era *nada*.
-
-Uma porta se abriu.
+Era uma convocação. E ele ia.
 
 ---
 
-## II. Os Rostos Conhecidos
+## II. As Profundezas
 
-Lyris¹⁶ entrou primeiro.
+Aurelius³ desceu.
 
-A figura que apareceu na porta era *diferente* da Alyndra⁷ lembrava — não no rosto, o rosto era o mesmo, as feições firmes, os olhos verdes, a cicatriz no maxilar que era marca de uma batalha que Lyris¹⁶ nunca contou por completo. O que era diferente era o *estado* — Lyris¹⁶ estava *gasta*, como um pano que foi esfregado demais, como uma *argenis*¹⁷ que sobreviveu a uma tempestade e perdeu metade dos galhos mas continua de pé. Os olhos tinham sombras — não as sombras de quem dormiu mal, as sombras de quem *viveu* algo que deixou marcas por dentro. Os cabelos, que sempre estiveram presos com precisão militar, estavam soltos, caindo pelos ombros como se Lyris¹⁶ tivesse esquecido que existiam.
+Não pelas escadas principais do *Palácio de Cristal*⁸ — as escadas que os funcionários usavam, que os conselheiros usavam, que os visitantes ilustres usavam quando vinham prestar homenagem ao *En Me*¹² em seus aposentos oficiais. Por uma escada que *não constava* em nenhum mapa de *Sanctrum*¹³ — uma escada estreita, esculpida na rocha viva que ficava *abaixo* das fundações de *aethrys*⁵, uma escada que Aurelius³ nunca tinha visto em trinta e dois valens vivendo na Fortaleza Branca, trinta e dois valens percorrendo cada corredor, cada câmara, cada passagem secreta que os *Tar-Gig*¹⁴ tinham mapeado durante os últimos milênios.
 
-E os olhos — os olhos de Lyris¹⁶ *brilhavam*.
+A escada *não estava mapeada*.
 
-Não com *aethra*¹⁸, não com *Thermaris*¹⁹, não com poder. Com *lágrimas*. Lágrimas que Lyris¹⁶ não chorava — *nunca* chorava — desde que tinha oito valens, desde que a mãe morreu, desde que aprendera que chorar era *fraqueza* e fraqueza era *morte*. E agora, na porta da câmara médica de Sanctrum⁹, Lyris¹⁶ chorava, e as lágrimas corriam pelas cicatrizes e pelas sombras e pela exaustão e *caíam* no chão de *aethrys*⁶ branco.
+Aurelius³ não precisava de mapa. O cristal havia deixado uma *trilha* na mente — não visual, *espacial*, como se o corpo soubesse, por um instinto que não era instinto mas *instrução* gravada na própria *aethra*¹⁵, exatamente onde virar, onde descer, onde a rocha se alargava em um patamar e onde se estreitava em um corredor que mal comportava os ombros. Os pés de Aurelius³ se moviam com a certeza de quem está sendo *guiado*, e a sensação era *desagradável* — o *En Me*¹² de *Sanctrum*¹³ não era guiado. O *En Me*¹² de *Sanctrum*¹³ guiava. E ser guiado por algo que não entendia, em direção a um lugar que não conhecia, era o oposto de tudo que Aurelius³ *era*.
 
-— Alyndra — Lyris¹⁶ disse, e a voz era um sussurro, um sopro, quase nada — mas o "nada" continha *tudo*, continha dias de medo e meses de busca e valens de cuidado e a promessa que Lyris¹⁶ tinha feito a Aurelius²⁰ e a si mesma e ao mundo inteiro de que aquela garota *sobreviveria*.
+O ar mudou.
 
-Alyndra⁷ olhou.
+Não gradualmente — de *uma vez*, como se ele tivesse atravessado uma membrana invisível. O ar dos aposentos superiores era o ar de *Sanctrum*¹³: limpo, seco, com o leve gosto metálico do *aethrys*⁵ que compunha as paredes, o tipo de ar que existia nas altitudes elevadas e que fazia os pulmões funcionarem *melhor*. O ar ali era *diferente* — pesado, úmido, com um cheiro que era quase *orgânico*, como terra depois de chuva, como madeira velha, como algo que *viveu* por muito tempo em um lugar fechado e que desenvolveu um odor próprio, um odor de *tempo*.
 
-E Lyris¹⁶ olhou.
+Aurelius³ desceu por sete lances de escada.
 
-E no olhar — que durou um segundo, dois, três, um segundo que continha um mês inteiro de sentimentos — havia algo que não precisava de palavras. Alyndra⁷ *via* — via as sombras, via as cicatrizes, via a exaustão, via uma mulher que tinha lutado e sangrado e quase morrido *por ela*. E Lyris¹⁶ *via* — via os olhos de Alyndra⁷, os olhos que eram *secos*, sem *cryonys*¹⁰, sem brilho, sem a luminosidade azul que havia surgido durante o despertar e que agora estava *apagada*, como se a luz de Nyx¹² tivesse levado consigo não apenas a vida do *lyrien*¹³ mas também algo de Alyndra⁷.
+Não contou — o corpo *sabia*, da mesma forma que sabia para onde virar, que eram sete. Sete lances, cada um mais longo que o anterior, cada um mais escuro, cada um mais *velho* — como se a rocha estivesse *envelhecendo* à medida que descia, como se as camadas geológicas fizessem sentido não apenas em profundidade mas em *cronologia*, como se o tempo estivesse literalmente *incrustado* nas paredes, e quanto mais fundo, mais *antigo*.
 
-Lyris¹⁶ atravessou a câmara em três passos e *abraçou* Alyndra⁷.
+No sétimo lance, a escada terminou.
 
-Não um abraço gentil — um abraço *desesperado*, o abraço de alguém que quase perdeu o que mais importava e que agora está *segurando* como se o segurar pudesse *consertar* o que foi quebrado, como se os braços pudessem *reconstruir* os dias de guerra, como se o calor de um corpo pudesse *derreter* o gelo que tinha se formado dentro de Alyndra⁷ durante a batalha e que não tinha derretido desde então.
+Não em um patamar, não em um corredor — em uma câmara. Uma câmara circular, de vinte passos de diâmetro, com paredes de rocha nua que não tinham sido esculpidas nem polidas — eram *naturais*, como se a caverna tivesse se formado ali por vontade da própria terra, e a única intervenção humana era o chão, que estava coberto de *aethrys*⁵ negro, liso como vidro, refletindo a luz de cristais embutidos nas paredes que emitiam o mesmo violeta profundo do cristal que tinha aparecido na mesa de Aurelius³.
 
-Alyndra⁷ *chorou* de novo.
+E ao redor da câmara, em semicírculo, *sentados*.
 
-Desta vez não era um choro seco — era *água*, as lágrimas que o corpo tinha guardado, as lágrimas que tinham ficado *presas* durante a inconsciência, as lágrimas que eram por Nyx¹² e pelo medo e pela dor e pela sensação de acordar em um lugar desconhecido e descobrir que algo que amava tinha *morrido*.
+Não em cadeiras — em *tronos* de rocha que pareciam ter crescido do chão, molduras naturais da pedra que se erguiam em assentos curvos e encostas angulares, e em cada trono, uma *forma*.
 
-— Eu sei — Lyris¹⁶ sussurrou, e a voz era quente contra o ouvido de Alyndra⁷, e as mãos de Lyris¹⁶ estavam nas costas de Alyndra⁷, e os dedos encontraram as *omoplatas* e *apertaram*, como se Lyris¹⁶ estivesse segurando não uma garota mas um *mundo*. — Eu sei. Eu sei sobre Nyx¹². Eu *vi*.
+Aurelius³ parou na entrada.
 
-E Alyndra⁷ *sentiu* — sentiu que não estava sozinha, sentiu que mesmo com Nyx¹² morta e o corpo doído e o *cryonys*¹⁰ silenciado e o mundo de cabeça para baixo, havia *alguém* que estava ali, que tinha estado ali desde o início, que tinha vindo do orfanato até os confins de *Fulmora*²¹ e que tinha *voltado* com ela, e essa presença — essa presença era *suficiente*.
+E pela primeira vez em muitos valens — talvez pela primeira vez desde a nyxara em que segurou Alyndra¹¹ recém-nascida nos braços e Ayla¹⁶ morreu em seus braços — Aurelius³ sentiu algo que se aproximava de *assombro*. Não *medo*. Não *surpresa*. *Assombro*. A sensação de estar diante de algo que *ultrapassa* a compreensão, que existe em uma escala que a mente humana não foi projetada para *processar*, e que mesmo assim está *ali*, é *real*, é *inegável*.
 
-Por agora.
+Havia sete assentos. Seis estavam ocupados.
 
-Suficiente.
+O primeiro ocupante era *o mais humano* — um homem, ou algo que parecia um homem, com cabelos tão brancos quanto a neve e olhos de um cinza tão claro que pareciam *translúcidos*, como se a íris fosse feita de vidro e atrás do vidro houvesse apenas *luz*. A pele era lisa, sem rugas, sem marcas, sem a textura que o tempo deixa nos rostos humanos — e essa *ausência* de textura era mais perturbadora do que qualquer cicatriz, porque significava que aquele rosto não tinha sido *desgastado* pelo tempo. Significava que o tempo *não ousava* tocar naquele rosto.
 
-— Como está ele? — Alyndra⁷ perguntou, e a voz era pequena, tão pequena quanto Nyx¹², tão pequena quanto a esperança de que a resposta fosse diferente do que o corpo já sabia.
+O segundo ocupante não era humano. Não completamente. A forma era *bípede*, os contornos eram vagamente antropomórficos, mas a pele — se era pele — tinha a textura da casca de *argenis*¹⁷, enrugada e fissurada, com veios de luz que pulsavam por baixo das fissuras como *aethra*¹⁵ fluendo em canais naturais. Os olhos eram *múltiplos* — três de cada lado, dispostos em diagonal, cada um de uma cor diferente: âmbar, violeta, negro profundo. E os olhos *não piscavam*.
 
-Lyris¹⁶ não respondeu.
+O terceiro era uma mulher — ou tinha sido, há *muito* tempo. O rosto era belo na forma geométrica, com ângulos que eram *perfeitos demais* para serem naturais, como se tivessem sido *esculpidos* em vez de nascidos. Os cabelos eram *negros*, tão negros que absorviam a luz violeta dos cristais, e não tinham volume — caíam retos, *pesados*, como se cada fio fosse feito de algo mais denso do que cabelo humano. E nas mãos — que descansavam sobre os apoios de rocha do trono — havia *garras*. Não unhas longas — *garras*, curvadas e afiadas, de um material que parecia osso negro polido.
 
-A ausência de resposta era a resposta. E Alyndra⁷ *entendeu* — não com a mente, com o *coração*, com o lugar dentro do peito onde Nyx¹² costumava pulsar e que agora estava *vazio*, um vazio que era do tamanho de um *lyrien*¹² prateado e que *pesava* como uma montanha.
+O quarto era o menor dos seis — não um anão, não uma criança, algo entre os dois, uma forma *compacta* que estava *dobrada* em seu trono como se o corpo fosse feito de algo que podia ser *dobrado* sem quebrar. O rosto estava parcialmente oculto por um capuz de um tecido que não era tecido — parecia *teia*, teia de aranha translúcida e iridescente, e através da teia, Aurelius³ podia ver olhos que eram *totalmente brancos*, sem pupila, sem íris, apenas branco puro, luminoso, *cego* de um jeito que sugeria que aquele ser *via* de formas que os olhos não permitiam.
 
-Lyris¹⁶ segurou Alyndra⁷ durante horas inteiros.
+O quinto era um *pilar*. Não um trono — um *pilar* de rocha que se erguia do chão e que *continha* algo, algo que estava *dentro* da rocha como uma imagem vista através de gelo espesso. Aurelius³ não conseguia distinguir a forma — era uma silhueta, indistinta, com contornos que se moviam lentamente, como se o ser dentro do pilar estivesse em constante *mutação*, como se o corpo nunca estivesse em *repouso*, nunca estivesse em uma forma *definitiva*, como se a identidade daquele ser fosse *fluida* como a *aethra*¹⁵.
 
-Não falaram. Não precisavam. As palavras eram *insuficientes* para o que existia entre elas — a garota que tinha perdido o *lyrien*¹³ e a mulher que tinha quase perdido a garota. O silêncio era a única linguagem que cabia naquela câmara branca de *Sanctrum⁹*, e o silêncio dizia: *eu estou aqui. Eu estou aqui. Eu estou aqui.*
+O sexto era o mais perturbador de todos, porque era o mais *humano* — e ao mesmo tempo o menos. Um homem velho, encurvado, com barba branca que descia até o peito e mãos finas como galhos secos. Os olhos eram *normais* — castanhos, enrugados nas bordas, com as manchas de idade que o tempo deposita na íris. E o sorriso — o sorriso era *gentil*, avô, o tipo de sorriso que inspirava confiança e que fazia as pessoas *relaxarem*. E era *exatamente* essa humanidade — essa *deliberada* humanidade, essa *perfeita* humanidade — que era perturbadora. Porque os outros cinco não *tentavam* parecer humanos. Este *tentava*. E a tentativa era mais assustadora do que a diferença.
+
+Aurelius³ reconheceu a autoridade antes de reconhecer os indivíduos. Não eram conselheiros, não eram generais, não eram *Lugal Lil*¹⁸. Eram algo *anterior* — anterior à Ordem, anterior ao Conselho dos 12¹⁹, anterior ao próprio conceito de *Sanctrum*¹³ como instituição. Eram os *Anciãos*²⁰.
+
+O nome existia — Aurelius³ tinha ouvido fragmentos, alusões, referências veladas em textos proibidos que os *Tar-Gig*¹⁴ mantinham em cofres subterrâneos, textos que datavam de antes da fundação da Ordem, de antes do Primeiro *En Me*¹², de antes que a palavra *Sanctrum*¹³ significasse algo além de "um lugar na luz". Os Anciãos²⁰ eram *lendas* — seres que existiam nos interstícios da história, que tinham *assistido* ao nascimento de Alyndra como civilização, que tinham *observado* cada *En Me*¹², cada guerra, cada *cataclismo*, e que nunca — *nunca* — tinham interferido.
+
+E agora estavam *ali*. E tinham convocado Aurelius³.
+
+— *En Me*¹² — disse o primeiro, o de olhos translúcidos, e a voz era *lenta*, cada sílaba separada da seguinte por um espaço que era quase *musical*, como se aquele ser não estivesse *falando* mas *cantando* em um registro tão baixo que apenas a estrutura das palavras era audível. — Sente-se.
+
+Não havia assento para Aurelius³. A câmara tinha sete tronos — seis ocupados, um vazio. O vazio não era para Aurelius³. Aurelius³ *sabia* que não era para ele. O vazio era para o *sétimo* — o que estava faltando, o que não tinha vindo, o que existia como *ausência* tão consciente quanto as presenças.
+
+Aurelius³ permaneceu de pé. Não como desafio — como *posição*. O *En Me*¹² de *Sanctrum*¹³ não se senta quando não há assento designado para ele. A regra não era orgulho — era *identidade*. Sentar-se sem ser convidado a sentar era *submeter-se* à hierarquia dos Anciãos²⁰, e Aurelius³ ainda não tinha decidido se estava *disposto* a se submeter.
+
+O de olhos translúcidos sorriu. Não com os lábios — os lábios não se moveram. Com os *olhos*. Uma mudança mínima na luz que passava pelas íris translúcidas, como se alguém tivesse ajustado a chama de uma lanterna em uma sala escura.
+
+— Como preferir — disse, e a voz era *amável*, e a amabilidade era mais perturbadora do que a frieza teria sido.
 
 ---
 
-## III. Os Rostos que Ficaram
+## III. A Interrogação
 
-A porta se abriu de novo.
+Perguntaram sobre a batalha.
 
-Não Lyris¹⁶ — *vozes*. Múltiplas, sobrepostas, em cacofonia de sons que eram meio riso meio choro meio *alívio*, e os sons não faziam sentido individualmente mas faziam sentido *juntos*, como as notas de uma canção que cada uma sozinha é um ruído mas que juntas formam uma melodia.
+O segundo Ancião²⁰ — o de olhos múltiplos — falou primeiro, e a voz era *sintética*, como o som de um instrumento de corda tocado em uma frequência que o ouvido humano quase não alcança, cada nota *quase* audível, cada sílaba *quase* compreensível, exigindo que Aurelius³ *prestasse atenção* não apenas às palavras mas ao *espaço* entre as palavras, ao significado que existia na ausência de som.
 
-Alyndra⁷ levantou a cabeça do ombro de Lyris¹⁶.
+— *Descreva* a aberração — disse o Ancião²⁰ de olhos múltiplos.
+
+E Aurelius³ *descreveu*.
+
+Não tudo. Não *cryonys*⁷ de Alyndra¹¹ — o despertar, a explosão, a garota de cinco valens *congelando* uma aberração que tinha *milhares* de *nihilarys*²¹. Não a *Erupção do Carmesim*²² — a técnica que Aurelius³ tinha usado como último recurso, a liberação da totalidade de sua *aethra*¹⁵ vital, a invocação do poder aprisionado de Nyxalor²³ através da *Manopla da Vinculação*²⁴. Não a relação entre Alyndra¹¹ e o selo de Elarys²⁵, não a possibilidade de que Alyndra¹¹ fosse algo *mais* do que uma criança com afinidade para o gelo.
+
+Aurelius³ descreveu o que era *seguro* descrever: a aberração era a fusão de múltiplos *nihilarys*²¹ em um único hospedeiro. O hospedeiro era Thaloris Ventaris¹⁰, *Lugal Lil*¹⁸ de *Sylvaris*²⁶. A coordenação dos *nihilarys*²¹ demonstrava um nível de sofisticação dos *Nihil Shid*²⁷ que *ultrapassava* qualquer manifestação anterior. A aberração estava *construindo* algo no templo — um *nexus* de energia negativa que teria *propagado* a corrupção se não fosse destruída.
+
+Cada frase era *pesada* — não pelo conteúdo, pela *omissão*. Aurelius³ estava *selecionando* o que dizia com a precisão de um cirurgião, removendo os detalhes que eram *perigosos* e preservando os que eram *inocentes*, construindo uma narrativa que era *verdadeira* e ao mesmo tempo *incompleta* — a verdade de quem sabe que está sendo avaliado e que não pode, *não pode*, revelar tudo.
+
+A mulher de garras falou em seguida.
+
+— Os *Nihil Shid*²⁷ — disse, e a voz era *áspera*, como unhas arranhando pedra, como o som que existe antes de um *desmoronamento*. — O que você *sabe* sobre as intenções deles?
+
+— O que qualquer operador de inteligência de *Sanctrum*¹³ sabe — Aurelius³ respondeu, e a voz era *neutra*, a voz do *En Me*¹² respondendo a uma audiência, sem emoção, sem *infiltração*, apenas *fatos*. — Buscam a reconstrução do *nihilary*²¹ primordial. A aberração era um *teste* — uma demonstração de que a possessão múltipla em um único hospedeiro é *viável*. O próximo passo será *escalar* a técnica, aplicá-la a hospedeiros mais *poderosos*, ou a múltiplos hospedeiros simultâneos.
+
+A mulher de garras inclinou a cabeça. O movimento era *predatório* — o ângulo exato que um *Aga Uru*²⁸ usa antes de *atacar*, e Aurelius³, que tinha lutado contra *Aga Uru*²⁸ em treinamento e em combate, *reconheceu* o ângulo e *não reagiu*. Não reagir era a resposta. Reagir seria *admitir* que o ângulo era uma ameaça. E Aurelius³ não ia admitir nada diante dos Anciãos²⁰.
+
+O ancião de capuz — o de olhos brancos — falou por último, e a voz era *multifônica*, como se *duas* pessoas estivessem falando ao mesmo tempo em frequências ligeiramente diferentes, criando uma *dissonância* que fazia as palavras vibrarem não nos ouvidos mas nos *ossos*, na *aethra*¹⁵, no lugar mais profundo do ser onde as certezas moram.
+
+— A criança — disse o ancião de capuz.
+
+Aurelius³ não se moveu. Não piscou. Não *respirou* de forma diferente. Cada músculo do corpo permaneceu *exatamente* onde estava, e a mente de Aurelius³ — a mente que tinha treinado por *décadas* para não reagir, para manter a compostura como armadura, para transformar emoção em *silêncio* — a mente de Aurelius³ *travou* por uma fração de segundo que ninguém percebeu.
+
+— *Que* criança? — Aurelius³ perguntou, e a voz era *perfeita*, a voz de quem não tem *nada* a esconder, a voz do *En Me*¹² respondendo com a curiosidade neutra de quem *genuinamente* não entende a pergunta.
+
+O ancião de capuz *esperou*. O silêncio durou minutos — não segundos, minutos, o tipo de tempo que os seres antigos usam quando estão *observando*, quando estão *medindo*, quando estão avaliando a reação que não aconteceu e a ausência de reação *é* a reação, e a ausência *é* mais interessante do que qualquer manifestação teria sido.
+
+— As crianças resgatadas do templo — disse o ancião de capuz, e a voz multifônica *modulou*, a dissonância se suavizando em algo que era quase *gentil* — estão em segurança?
+
+— Sim — Aurelius³ respondeu.
+
+— E o estado delas?
+
+— Uma está em observação na enfermaria de *Sanctrum*¹³. As outras estão *estáveis*.
+
+— *Uma* — repetiu o ancião de capuz, e na repetição havia algo que não era *ênfase* — era *reconhecimento*. O reconhecimento de quem sabe a resposta antes de fazer a pergunta e que faz a pergunta mesmo assim, não para *obter* informação, mas para *observar* como o outro *responde*.
+
+Aurelius³ respondeu com silêncio. E no silêncio, conteve. Conteve o *aperto* do maxilar, o *estreitamento* dos olhos, o pulso que *acelerou* por uma batida — uma única batida — antes de voltar ao ritmo controlado de um coração que se *recusa* a revelar o que sente.
+
+A *sabatina* tinha sido *fácil* em comparação. Selynis⁹ era *poderosa*, mas Selynis⁹ era *humana*, e os humanos têm *sinais* — maneirismos, padrões, limites que podem ser mapeados e *previstos*. Os Anciãos²⁰ não tinham sinais. Os Anciãos²⁰ eram *outra coisa* — eram algo que existia *fora* das categorias que Aurelius³ usava para entender o mundo, e ser interrogado por algo que não se pode *entender* era uma forma de vulnerabilidade que Aurelius³ não tinha *treinado* para enfrentar.
+
+O homem de olhos translúcidos se levantou.
+
+O movimento foi *lento* — geológico, quase, como se cada articulação levasse minutos para se completar, como se o corpo daquele ser tivesse *esquecido* a velocidade há *aethrons*³⁰ e estivesse apenas *lembrando* como era se mover.
+
+— A sessão está encerrada — disse, e a voz era *formal*, a formalidade de um ritual que tem um *começo* e um *fim* e que o *fim* tinha chegado. — Você pode ir, *En Me*¹².
+
+E Aurelius³ *foi*.
+
+Virou-se. Caminhou para a fenda por onde tinha entrado. Cada passo era *calculado* — nem rápido demais, que seria *fuga*, nem lento demais, que seria *hesitação*. O passo de um homem que *decidiu* partir e que está *partindo*, sem olhar para trás, sem *demonstrar* alívio ou frustração ou qualquer outra coisa que os Anciãos²⁰ pudessem ler.
+
+Aurelius³ alcançou a fenda.
+
+E foi *ali* — no limiar, com um pé na câmara violeta e o outro no corredor de rocha nua — que o homem velho de barba branca, o mais humano dos Anciãos²⁰, o que *tentava* parecer humano, *falou*.
+
+E o que ele disse *destruiu* Aurelius³.
+
+---
+
+## IV. O Golpe
+
+— Como está a sua filha Alyndra¹¹?
+
+Cinco palavras.
+
+Cinco palavras ditas com a mesma *naturalidade* com que alguém pergunta sobre o tempo, com a mesma *casualidade* com que um vizinho comenta sobre o trânsito, com a mesma *leveza* com que uma pessoa pergunta "como está a sua mãe?" ou "como foi o trabalho?" — cinco palavras que não deveriam ter *peso*, que não deveriam ter *consequência*, que deveriam ser *inofensivas*.
+
+E que não eram.
+
+Aurelius³ *parou*.
+
+Não *travou* — *parou*. Cada parte do corpo que estava em movimento *cessou* o movimento. O pé que estava dando o passo ficou *suspenso* no ar. Os braços, que estavam balanceando com o ritmo da caminhada, ficaram *imóveis*. Os olhos, que estavam olhando para o corredor à frente, *fixaram-se* no vazio.
+
+E dentro de Aurelius³ — dentro do homem que tinha treinado por *décadas* para não demonstrar *nada*, que tinha construído camadas de controle tão espessas que nenhum inimigo, nenhum aliado, nenhuma pessoa viva conseguia *atravessar*, que tinha mantido o segredo de Alyndra¹¹ por *cinco valens* sem que ninguém — *ninguém* — soubesse — dentro daquele homem, algo *quebrou*.
+
+Não a compostura. A compostura *agarrou*. Os músculos do rosto não se moveram. A respiração não mudou. Os olhos não se alargaram. Por fora, Aurelius³ era *o mesmo* — estático, imóvel, como uma estátua de *aethrys*⁵ branco, perfeito, intocável.
+
+Por dentro, Aurelius³ estava *morrendo*.
+
+O segredo.
+
+O *segredo*.
+
+Cinco valens. Cinco valens de vigilância, de relatórios filtrados, de visitas clandestinas ao orfanato sob a cobertura de *inspeções de rotina*, de agentes dos *Tar-Gig*¹⁴ posicionados em Velantis³¹ com ordens de proteger uma criança que ninguém sabia que precisava de proteção, de *cryonys*⁷ que emergia de uma garota de quatro valens e que precisava ser *contido* antes que *Sanctrum*¹³ descobrisse. Cinco valens de uma mentira que era *tudo* — a mentira que protegia Alyndra¹¹, a mentira que protegia Ayla¹⁶, a mentira que protegia a *própria* Aurelius³, a mentira que era o *fio* que mantinha intacta a vida dupla do *En Me*¹².
+
+E eles *sabiam*.
+
+Os Anciãos²⁰ *sabiam*.
+
+Não uma suspeita. Não uma dedução. Não um palpite fundamentado em indícios circunstanciais. Eles *sabiam* — e a prova estava na *forma* como o homem velho tinha dito o nome. "Alyndra¹¹." Não "a criança." Não "a garota." O *nome*. Pronunciado com a familiaridade de quem *conhece*, de quem *sabe há tempo*, de quem *observa* há valens e nunca disse nada, nunca *sinalizou*, nunca deixou um *traço* de que sabia.
+
+Aurelius³ se virou.
+
+Não *devagar* — *instantaneamente*, como se o corpo tivesse *desobedecido* a mente e se movido por *instinto*, por *instinto de sobrevivência*, pelo impulso primal de *enfrentar* a ameaça face a face. E quando se virou, Aurelius³ *olhou* para o ancião de barba branca com olhos que não eram os olhos do *En Me*¹² — eram os olhos de um pai, os olhos de um homem cuja filha tinha sido *arrancada* do segredo, os olhos de alguém que está *nu* diante de uma força que não pode *combater* e que não pode *fugir*.
+
+O ancião sorriu. O sorriso gentil. O sorriso de avô. E o sorriso era *insuportável*, porque era *genuíno*, e a genuinidade significava que não havia *crueldade* na revelação, não havia *malícia* na exposição, havia apenas a *certeza* serena de quem *sempre soube* e que está, agora, *escolhendo* falar.
+
+— *Sente-se*, *En Me*¹² — disse o ancião de barba branca, e a voz era *gentil*, e a gentileza era *pior* do que qualquer ameaça poderia ter sido, porque ameaças Aurelius³ podia *enfrentar*. Gentileza de quem sabe seu segredo mais profundo era algo contra o qual não havia *defesa*.
+
+Aurelius³ sentou-se.
+
+Não no trono vazio — no *chão*. O chão de *aethrys*⁵ negro, liso como vidro, e Aurelius³, o *En Me*¹² de *Sanctrum*¹³, o homem mais poderoso de Alyndra, sentou-se no chão diante de seis seres que existiam antes que ele *nascesse*, que existiam antes que a *Ordem* existisse, que existiam antes que o *conceito* de segredo tivesse sido *inventado*, e que *sabiam*.
+
+---
+
+## V. A Verdade Nas Sombras
+
+— Sabemos — disse o ancião de olhos translúcidos, e a voz era *despida* de adornos, sem a musicalidade anterior, direta, *crua*, como uma faca que é mais perigosa quando não tem *decisão* — *Sábia* desde o início.
+
+O *início*.
+
+O início de *quando*?
+
+— Desde *quando*? — Aurelius³ perguntou, e a voz era *baixa*, não a voz do *En Me*¹², a voz do homem, a voz de um pai cujo mundo *desmoronou* e que está *caindo* e que não tem mais *razão* para manter a *compostura* — e ainda assim *mantém*, porque a compostura é tudo que *resta*, porque sem a compostura Aurelius³ não é *nada*, não é *En Me*¹², não é soldado, não é estrategista, é apenas um homem *sentado no chão* diante de seres que *sabiam*.
+
+— Desde Ayla¹⁶ — disse a mulher de garras, e a voz áspera era *suave* agora, como pedra lixada, como *areia* molhada, algo que era *duro* mas que havia sido *desgastado* pela empatia de *aethrons*³⁰.
+
+Ayla.
+
+O nome *bateu* em Aurelius³ como um *punho*. Ayla¹⁶ — Ayla Marethyus³², a princesa de *Thalassia*³³, a mulher que ele tinha amado em *segredo*, a mãe de Alyndra¹¹, a mulher que tinha *morrido* para dar à luz a filha que Aurelius³ nunca deveria ter *tido*. E eles sabiam. *Desde Ayla*. Desde *antes*. Desde o momento em que Aurelius³ e Ayla¹⁶ tinham cruzado os caminhos em uma nyxara em *Thalassia*³³, em uma festa que ele não deveria ter *ido*, e os olhos dela tinham encontrado os dele e *algo* tinha acontecido que nenhum dos dois tinha *planejado*.
+
+— Sabíamos de Ayla¹⁶ — disse o ancião do pilar, e a voz era *distante*, como se estivesse vindo de *dentro* da rocha, como se o ser dentro do pilar estivesse falando de um lugar que existia entre *camadas* de realidade. — Sabemos de *tudo* que acontece nas *margens* do que os *humanos* consideram *significativo*. O que vocês *escondem*, nós *observamos*. O que vocês *protegem*, nós *registramos. O que vocês *temem* revelar, nós já *vimos*.
+
+O ancião de capuz inclinou a cabeça. Os olhos brancos — cegos, luminosos, *esvaziados* de tudo exceto a *visão* que não era visão — encontraram os olhos dourados de Aurelius³.
+
+— Você *protegeu* a criança — disse o ancião de capuz, e a voz multifônica era *apreciativa*, como se estivesse *elogiando* um aluno que tinha *aprendido* uma lição difícil. — Fez o que pôde. Fez o que *qualquer* pai faria. E *conseguiu* — por cinco *valens*³⁴, *ninguém* além de nós soube.
+
+Ninguém além de *nós*. A frase era *simultaneamente* reconfortante e *devastadora*. Reconfortante porque significava que o segredo *estava seguro* — ninguém *além* dos Anciãos²⁰ sabia, nem Selynis⁹, nem o Conselho dos 12¹⁹, nem *Sanctrum*¹³. Devastadora porque os Anciãos²⁰ *sabiam*, e se sabiam, o segredo *nunca tinha sido seguro*, tinha sido *tolerado*, e a diferença entre seguro e tolerado é a diferença entre *liberdade* e *cerceamento*, é a diferença entre *escolher* manter um segredo e *ser permitido* manter um segredo.
+
+— Por que não *falaram*? — Aurelius³ perguntou, e a voz era *cascalho*, seca e *quebradiça*, a voz de um homem que está *agarrando* aos fragmentos de uma realidade que se *desfez* e que está tentando *montar* os fragmentos de novo antes que o vento os *leve*.
+
+O ancião de barba branca — o gentil, o humano, o que tinha *destruído* Aurelius³ com cinco palavras — *sussurrou*.
+
+— Porque você era *necessário* — disse, e cada palavra era *carregada*, não de ameaça, de *peso*, do peso de alguém que carrega *responsabilidades* há *aethrons*³⁰ e que está *compartilhando* uma fração dessa responsabilidade com um ser que vive *um décimo* do tempo que os Anciãos²⁰ viveram. — A Ordem precisa de você. *Sanctrum*¹³ precisa de você. E você — *com* a criança, *por* causa da criança — é *mais* do que seria sem ela. O amor de um pai *fortalece* o guerreiro, mesmo quando o guerreiro *recusa* admitir que é pai.
+
+Aurelius³ fechou os olhos.
+
+Não por fraqueza. Por *exaustão*. A exaustão de quem carrega um peso há *cinco valens* e que acaba de descobrir que o peso era *conhecido*, que os olhos que ele achava que estavam *fechadas* estavam na verdade *abertas*, e que cada passo que ele tinha dado para proteger Alyndra¹¹ tinha sido *observado*, *registrado*, *avaliado* por seres que existiam nas sombras *antes* que ele nascesse.
+
+— Mas não é só *isso* — continuou o ancião de barba branca, e a voz *escureceu*, a gentileza dando lugar a algo que era mais *grave*, mais *urgente*, como o som de uma *tempestade* se formando no horizonte. — *Toleramos* não por bondade. Toleramos porque o que está *por vir* é *maior* do que qualquer segredo, do que qualquer *En Me*¹², do que qualquer *lei*. E quando o que está por vir *chegar*, você será *necessário* de formas que *ainda* não pode imaginar. E a criança — *Alyndra* — será *necessária* também.
+
+Aurelius³ abriu os olhos.
+
+O nome *de novo*. "Alyndra." Dito pelos Anciãos²⁰ com a naturalidade de quem fala de algo que *estudou*, que *observou*, que *acompanhou*. Não o nome de uma *pessoa* — o nome de uma *variável* no grande *cálculo* que os Anciãos²⁰ faziam, o nome de uma peça em um *tabuleiro* que Aurelius³ não podia *ver*.
+
+— O que está *por vir*? — Aurelius³ perguntou.
+
+Silêncio.
+
+Os seis Anciãos²⁰ trocaram *olhares* — não olhares *humanos*, não olhares de conspiração ou de concordância, olhares de algo que é *anterior* à linguagem, algo que *comunica* sem palavras, sem gestos, sem *nada* que possa ser *traduzido* em termos humanos. E no silêncio, Aurelius³ sentiu o *peso* daquilo que não estava sendo dito — sentiu como quem sente a *pressão* atmosférica antes de uma tempestade, como quem sente o *vibrar* da terra antes de um *terremoto*, como quem sabe que algo *grande* está *por vir* sem saber *o quê*.
+
+O ancião de olhos translúcidos finalmente respondeu.
+
+— Não agora — disse, e a voz era *gentil* de novo, gentil e *firme*, a voz de quem está *poupando* o ouvinte, de quem *sabe* que a verdade completa — *ainda* — seria *demais*. — Você não está *pronto* para *ouvir*. E nós não estamos *prontos* para *dizer*. Mas *virá*. E quando *vier*, você precisa estar *preparado*. *Ela* precisa estar *preparada*.
+
+*Ela*. Alyndra. A criança de cinco valens que estava em uma enfermaria de *Sanctrum*¹³, de luto por um *lyrien*³⁵ morta, com o *cryonys*⁷ silenciado, com o corpo *exausto*, sem saber que o pai tinha acabado de descobrir que *tudo* que ele tinha feito para protegê-la tinha sido *observado* desde o início.
+
+---
+
+## VI. Thalassia
+
+O ancião de barba branca se adiantou em seu trono.
+
+— *Preparar* — disse, e a palavra era *instrução*, não *sugestão*. — É isso que você precisa *fazer*. *Preparar* Alyndra¹¹. Não aqui — aqui ela está *vulnerável*. Aqui *Sanctrum*¹³ *sabe* que ela *existe*, e Selynis⁹ *sabe* que ela é *importante*, e o Conselho dos 12¹⁹ vai *questionar* por que uma criança resgatada do templo recebe *proteção especial*. Aqui, Alyndra¹¹ é uma *pergunta* esperando por uma *resposta*. E *Sanctrum*¹³ não tolera *perguntas sem resposta*.
+
+Aurelius³ não respondeu. Não porque discordasse — porque *concordava*, e a concordância *doía*. Selynis⁹ tinha *olhado* para Alyndra¹¹ na enfermaria. Selynis⁹ tinha *classificado* a criança como *variável*. E *Sanctrum*¹³ era exatamente o lugar onde Alyndra¹¹ *não* deveria estar, porque *Sanctrum*¹³ era a máquina que Selynis⁹ operava, e a máquina *devorava* variáveis.
+
+— *Thalassia*³³ — disse o ancião de barba branca.
+
+A palavra ficou na câmara como uma *pedra* caindo em água — pesada, *inegável*, criando *ondas* que se expandiram pelas paredes de rocha e pelos cristais violetas e pela própria *aethra*¹⁵ de Aurelius³.
+
+*Thalassia*³³. O reino dos mares. O domínio de Kaelia Marethyus³⁶, a irmã de Ayla¹⁶, a tia de Alyndra¹¹. O lugar onde Ayla¹⁶ tinha *nascido*, onde Alyndra¹¹ *teria* nascido se não fosse pelo segredo, se Aurelius³ e Ayla¹⁶ tivessem *podido* viver abertamente, se o *En Me*¹² de *Sanctrum*¹³ *tivesse* o direito de ter uma filha com a princesa de *Thalassia*³³.
+
+— Já *preparamos* tudo — disse a mulher de garras, e a voz áspera era *prática*, a voz de quem *executa*, de quem faz *acontecer*. — Kaelia Marethyus³⁶ está *ciente*. *Thalassia*³³ *abrirá* seus portos. A criança será *recebida* como *hóspede de honra* — não como *refugiada*, não como *variável*, como *membro* da linhagem Marethyus³². Terá *tutores*, terá *proteção*, terá o *ambiente* de que precisa para *crescer* e para *desenvolver* o que *carrega*.
+
+O *cryonys*⁷. Eles *sabiam* sobre o *cryonys*⁷. Sabiam sobre a afinidade de Alyndra¹¹, sobre a fusão elemental de Água e Vento, sobre o poder que tinha *explodido* durante a batalha. Sabiam *tudo*.
+
+Aurelius³ respirou.
+
+Não um suspiro — uma *respiração*, uma respiração *profunda*, o tipo de respiração que um guerreiro toma antes de entrar em *combate*, quando sabe que o que vem é *maior* do que ele e que mesmo assim precisa *enfrentar*.
+
+— *Lyris*³⁷ — disse Aurelius³, e a voz era * firme* — vai com ela. Lyris³⁷ é quem *cuida* de Alyndra¹¹. Sem Lyris³⁷, Alyndra¹¹ não vai.
+
+O ancião de capuz — os olhos brancos, a teia de aranha, a voz multifônica — *assentiu*. Um *assentimento* mínimo, quase imperceptível, como o *mover* de uma folha em *vento* calmo.
+
+— Lyris³⁷ será *escoltada* — disse o ancião de capuz. — *Thalassia*³³ sabe *receber* protetores. E Lyris³⁷ tem *Thermaris*³⁸ — o calor e o *vapor* complementam o *cryonys*⁷ da criança. Será uma *boa* combinação para *treinamento*.
+
+Eles tinham *planejado*.
+
+Aurelius³ percebeu com uma *clareza* que era quase *dolorosa*: os Anciãos²⁰ não estavam *sugerindo*. Estavam *informando*. A decisão já estava *tomada*. *Thalassia*³³ já tinha sido *contactada*. Kaelia Marethyus³⁶ já *sabia*. Os tutores já estavam *escolhidos*. A logística já estava *organizada*. Tudo o que Aurelius³ podia fazer era *concordar* ou *resistir*, e a resistência, diante de seres que *sabiam* tudo há *cinco valens*, era tão *fútil* quanto tentar impedir a maré com as *mãos*.
+
+— Quando? — Aurelius³ perguntou.
+
+— Logo — disse o ancião de olhos translúcidos. — *Não* hoje. *Não* amanhã. Mas *logo*. A criança precisa *recuperar*. A enfermaria de *Sanctrum*¹³ cuidará dela por *enquanto*. E quando estiver *forte* — *Thalassia*³³.
+
+Aurelius³ assentiu.
+
+Não porque *quisesse* — porque não *tinha alternativa*. Alyndra¹¹ ia para *Thalassia*³³, e Aurelius³ ia *permanecer* em *Sanctrum*¹³, e a distância entre pai e filha — que já era *imensa* quando Alyndra¹¹ estava em Velantis³¹ — ia se tornar *oceanos*, porque *Thalassia*³³ ficava *além* do mar, *além* das correntes, *além* do alcance de visitas *clandestinas* e relatórios de *Tar-Gig*¹⁴.
+
+— Uma *última* coisa — disse o ancião de barba branca, e a voz *mudou*, a gentileza permanecendo mas *profundizando* em algo que era quase *ternura*, quase *compaixão*, algo que os outros Anciãos²⁰ não demonstravam e que era *exclusivo* daquele ser — a capacidade de *parecer* humano de uma forma que era tão *perfeita* que talvez fosse *mais* do que parecer, talvez fosse *ser*.
+
+— Você não foi um *bom* pai — disse o ancião de barba branca.
+
+A frase *cortou*. Não como faca — como *vento gelado*, como a *brisa* de *cryonys*⁷ que entra por uma janela aberta e *congela* o que encontra, não com *violência*, com *inevitabilidade*.
+
+— Não foi um *bom* pai porque *escolheu* o dever *em vez* do amor. Não foi um *bom* pai porque *escondeu* a filha e *escondeu* de si mesmo que a filha *precisava* de um pai e não de um *guardião distante*. Não foi um *bom* pai porque *deixou* que Lyris³⁷ fizesse o que *você* deveria ter *feito*. Mas — e aqui a voz do ancião *suavizou* — você foi um *necessário* pai. E *necessário*, para os que *observam* há *aethrons*³⁰, é *suficiente*.
+
+*Necessário* é *suficiente*.
+
+A frase ficou na câmara como *fumaça* — visível por um momento, dissipando-se em seguida. E Aurelius³ sentiu o *peso* e o *alívio* de *simultaneamente*: o peso de *saber* que tinha *falhado* e o alívio de *saber* que o fracasso tinha sido *perdoado* — não pelos Anciãos²⁰, que não tinham *autoridade* para perdoar, mas pelo *universo*, pelo *tempo*, pelas forças que *existiam* antes que o *conceito* de perdão fosse *inventado*.
+
+Aurelius³ se levantou do chão.
+
+---
+
+## VII. O Peso do Conhecimento
+
+Subiu os sete lances de escada.
+
+Não *guiado* desta vez — o cristal tinha se *dissolvido*, a trilha na mente tinha *desaparecido*, e Aurelius³ subiu pela *memória*, pela lembrança de cada curva, cada patamar, cada *trecho* de rocha que os pés tinham percorrido *descendo*. A subida foi *mais longa* do que a descida — não em distância, em *percepção*. Cada degrau era *mais pesado*, como se a *gravidade* estivesse *aumentando*, como se o próprio mundo estivesse *pressionando* Aurelius³ para *baixo*, para *dentro*, para as profundezas de onde tinha vindo e para onde *queria* voltar, para o lugar onde os Anciãos²⁰ *sabiam* e onde o segredo *não existia*.
+
+A membrana invisível — aquela fronteira entre o ar pesado das profundezas e o ar limpo dos aposentos superiores — *passou*. E Aurelius³ estava *de volta*.
+
+O corredor. A luz do *Aurion*⁶ poente — já mais baixa, mais alaranjada, mais *fim*. Os passos de Aurelius³ ecoavam na *aethrys*⁵ com um som que era *metálico* e *vazio*, como se o corredor estivesse *deserto*, como se toda a *vida* de *Sanctrum*¹³ tivesse se *recolhido* para outros lugares, deixando Aurelius³ *sozinho* com o som de seus próprios passos e com o *peso* de uma revelação que tinha *destruído* o mundo que ele *construiu*.
+
+Eles sabiam.
+
+A frase *repetia*. Não na mente — no *corpo*, nos *ossos*, na *aethra*¹⁵, no lugar onde as certezas *moram* e onde a certeza de que *ninguém sabia* tinha *morado* por cinco *valens*³⁴ e que agora estava *vazia*, ocupada pelo *vazio* de saber que *alguém* sabia, que *sempre* soube, que tinha *assistido* cada decisão, cada *sacrifício*, cada nyxara em que Aurelius³ tinha ficado *acordado* perguntando-se se estava fazendo *o suficiente* por Alyndra¹¹ e se Alyndra¹¹ estaria *segura*.
+
+Eles *sabiam*. E tinham *deixado* que ele fizesse o que fez. Tinham *observado* como os *Tar-Gig*¹⁴ protegiam o orfanato. Tinham *visto* como Aurelius³ filtrava os relatórios para que a existência de *cryonys*⁷ em uma criança de Velantis³¹ não *chegasse* ao Conselho dos 12¹⁹. Tinham *assistido* à batalha do templo, à explosão de gelo, à *Erupção do Carmesim*²², à destruição da aberração, e tinham *dito nada*.
+
+Não *nada*.
+
+Cinco *valens*³⁴ de *nada*.
+
+E agora, quando o mundo estava *mudando*, quando os *Nihil Shid*²⁷ tinham demonstrado que podiam *possuir* um *Lugal Lil*¹⁸, quando um mal que os Anciãos²⁰ *recusavam* nomear estava *por vir* — *agora* eles *falavam*. Agora eles *revelavam*. Agora eles *agiam*. Não porque *quisessem* — porque *precisavam*. E a necessidade *tinha* uma direção, e a direção era *Thalassia*³³, e o *destino* era Alyndra¹¹, e Aurelius³ não tinha *controle* sobre *nenhuma* dessas coisas.
+
+Aurelius³ parou no corredor.
+
+Não em frente à câmara médica — ainda *não* — em um ponto *qualquer*, um ponto sem *significado*, um trecho de corredor de *aethrys*⁵ branco que era *idêntico* a todos os outros trechos do corredor, e *ali*, na *anonymidade* do espaço, Aurelius³ *fez* algo que não fazia há *valens*.
+
+Apoiou a mão esquerda na parede.
+
+A *Manopla da Vinculação*²⁴ *brilhou* — o selo de Elarys²⁵ pulsando com uma luz que era *dourada* e *quente*, uma luz que *respondia* ao toque, à *necessidade*, ao *dor* de um homem que acabara de descobrir que a vida inteira tinha sido uma *performance* assistida por um *público* invisível. A manopla era *pesada* — sempre tinha sido pesada, mas agora o peso era *diferente*, era o peso de *Nyxalor*²³ aprisionado e do selo de Elarys²⁵ e do poder que Aurelius³ *arriscou* no templo para *salvar* Alyndra¹¹, e Alyndra¹¹ era a filha dele, e os Anciãos²⁰ *sabiam*, e o peso da manopla era o *peso* de *tudo*.
+
+Aurelius³ *fechou os olhos*.
 
 E *viu*.
 
-Kira²³ entrou primeiro — alta, magra, os cabelos castanhos cortados na altura dos ombros de um jeito que era mais *prático* que estético, os olhos escuros arregalados como se não acreditasse no que estava vendo. Kira²³ tinha quinze valens e era monitora júnior do Orfanato Luminis⁸ e era a amiga mais velha que Alyndra⁷ tinha — não porque fossem próximas no sentido de segredos compartilhados e confidências noturnas, mas porque tinham *crescido juntas*, e isso, no orfanato, era mais forte que amizade, era *sobrevivência*.
+Viu Alyndra¹¹ — não como era *agora*, deitada na enfermaria com o *cryonys*⁷ silenciado e o rosto *pálido* e os olhos secos de quem *chorou* até não ter mais *lágrimas*. Viu como era *antes* — quatro valens, três valens, dois, *recém-nascida* nos braços de Ayla¹⁶, os olhos *marethyus*³² abertos para o mundo pela primeira vez, os dedos *minúsculos* agarrando o dedo de Aurelius³ como se *soubesse*, como se *tivesse* sempre sabido, que aquele homem era *pai*.
 
-Dravyn²⁴ entrou atrás — menor que Kira²³, mais * largo*, com os olhos redondos e curiosos de quem vê o mundo como um desenho que precisa ser copiado, e nas mãos — sempre nas mãos — um pedaço de carvão e um pedaço de papel, porque Dravyn²⁴ *desenhava* tudo, sempre, o tempo inteiro, como se o ato de desenhar fosse respirar, e sem desenhar o mundo ficava *borrado* e impreciso.
+Viu Ayla¹⁶.
 
-Tomas²⁵ entrou em seguida — o mais novo, o mais *pequeno*, com os olhos grandes e assustados de quem não entende completamente o que aconteceu mas *sente* que foi algo terrível, e nos braços de Tomas²⁵ havia algo que ele *segurava* como se fosse o único objeto real no mundo: uma coleção de pedras lisas, as pedras de contagem que Tomas²⁵ carregava desde os três valens e que eram a única coisa que o tranquilizava quando o mundo ficava *grande demais*.
+Ayla¹⁶ nos braços, sangrando, *morrendo*, e o último *sorriso* — não de *dor*, de *paz*, a paz de quem *deu* a vida e *não* se *arrepende*, e as palavras que Ayla¹⁶ tinha *dito* naquela nyxara e que Aurelius³ *ouvia* toda nyxara quando *fechava os olhos* e que *nunca* ia *esquecer*: *"Cuide dela. Não por mim. Por ela. Ela é *dele* tanto quanto é *minha*, e ela *merece* saber que o mundo é *grande* o bastante para conter *ambos*."*
 
-E Mila²⁶.
+Aurelius³ *abriu os olhos*.
 
-Mila²⁶ era a menor de todas — dois valens, talvez menos, pequena demais para o que tinha *visto*, pequena demais para a guerra e o sequestro e o templo e a aberração. Mila²⁶ não tinha sido *sequestrada* com as outras — tinha ficado no orfanato, escondida no porão durante o ataque, os ouvidos tapados com as mãos, os olhos fechados, o corpo *tremendo* enquanto os sons de violência aconteciam *lá fora*, nos corredores que eram *lar*. Mila²⁶ tinha chegado a Sanctrum⁹ com os outros resgatados, mas era *diferente* — mais quieta, mais *trêmula*, mais *velha* do que os dois valens permitiam.
+O corredor estava *vazio*. A luz do *Aurion*⁶ poente já era *fio*, um *fio* alaranjado que entrava pelas janelas e pintava as paredes de *aethrys*⁵ com cores de *despedida*. E Aurelius³, o *En Me*¹² de *Sanctrum*¹³, o homem mais poderoso de Alyndra, o pai secreto de Alyndra¹¹ Marethyus, ficou *ali* — de pé, a mão na parede, a manopla *pulsando*, os olhos *molhados* — e *aceitou*.
 
-As quatro crianças pararam na porta.
+Aceitou que os Anciãos²⁰ sabiam. Aceitou que o segredo tinha sido uma *ilusão* de controle. Aceitou que Alyndra¹¹ ia para *Thalassia*³³, que *Thalassia*³³ era o *melhor lugar* para ela, que *Kaelia Marethyus*³⁶ iria *cuidar* dela, e que Lyris³⁷ iria *proteger* ela, e que Aurelius³ ia *continuar* sendo o que *sempre* foi — o *En Me*¹², o guardião, o homem que *protege* de *longe*.
 
-Quatro pares de olhos fixaram-se em Alyndra⁷.
+Aceitou — e *resolveu*.
 
-E Kira²³ — Kira²³ que não chorava desde que era *sylentis*⁴¹ e que tinha aprendido que não ter *aethra*¹⁸ era uma marca que não se podia lavar — Kira²³ *correu*.
+Alyndra¹¹ ia para *Thalassia*³³. *Thalassia*³³ ia *protegê-la*. E Aurelius³ ia *prepará-la* — não com *treinamento*, não com *técnica* — com *presença*. Com as *visitas* que pudesse fazer. Com as *palavras* que pudesse *dizer*. Com o *amor* que pudesse *demonstrar* sem *revelar* o que *não* podia ser revelado.
 
-Não andou — *correu*. Três passos e os braços estavam ao redor de Alyndra⁷, os joelhos dobrados na borda da cama, o rosto enterrado no ombro de Alyndra⁷, e o corpo tremia — não de frio, de *alívio*, o tipo de tremor que acontece quando algo que estava *tenso* por dias finalmente *solta*, como uma corda de *velrok*²⁷ que foi tensionada além do limite e que ao ser cortada *recua* com uma força que faz os dedos sangrarem.
+Os Anciãos²⁰ tinham dito: *prepare sua filha*.
 
-— Você está *viva* — Kira²³ disse, e a voz era um *sussurro*, um *gemido*, um *canto*, algo entre os três, algo que existia na fronteira entre a dor e a alegria e que era *bonito* de um jeito que feria. — Você está *viva*. Você está *viva*. Você está *viva*.
+E Aurelius³ ia *obedecer*.
 
-Dravyn²⁴ não correu. Dravyn²⁴ *desenhou*.
+Não porque os Anciãos²⁰ tinham *mandado* — porque eles *tinham razão*. E porque, no fundo, no lugar mais *profundo* do coração, Aurelius³ *sabia* que *Thalassia*³³ era *certo*, que Alyndra¹¹ *precisava* de um lugar que fosse *dela*, que não fosse *Sanctrum*¹³, que não fosse *Velantis*³¹, que fosse *casa*, e *Thalassia*³³ — a terra de Ayla¹⁶, a terra dos Marethyus³², a terra do mar e do *cryonys*⁷ e da *herança* que Alyndra¹¹ nem sabia que *tinha* — era *casa*.
 
-A mão — sempre a mão, sempre o carvão, sempre o papel — começou a mover-se antes que Dravyn²⁴ pensasse, os traços se formando com a velocidade de quem *não decide* desenhar, desenhar é o que Dravyn²⁴ *faz*, como respirar, como piscar, como existir. E o que surgiu no papel não era um rosto, não era uma paisagem, era um *retrato* — um retrato de Alyndra⁷, os olhos grandes, os traços Marethyus²⁸ no queixo, o cabelo loiro, e ao lado do retrato, menor, prateado, translúcido — Nyx¹². O *lyrien*¹³. Morto.
+Aurelius³ tirou a mão da parede.
 
-Dravyn²⁴ não disse nada. O desenho disse tudo.
+A *Manopla da Vinculação*²⁴ parou de *pulsar*. O corredor voltou ao *normal* — o normal de *Sanctrum*¹³, que era o normal de *aethrys*⁵ branco e luz dourada e *silêncio* controlado.
 
-Tomas²⁵ sentou-se no chão ao lado da cama. Não porque fosse tímido — porque Tomas²⁵ *precisava* do chão, do contato com algo sólido, da gravidade puxando para baixo e *ancorando*, porque os últimos dias tinham sido como flutuar em *cryonys*¹⁰ e Tomas²⁵ estava *cansado* de flutuar. As pedras de contagem saíram do bolso e foram *dispostas* no chão — uma fileira de pedras lisas, cada uma com uma cor diferente, cada uma representando algo que Tomas²⁵ não explicava e que não precisava explicar porque as pedras eram *dele* e ninguém mais precisava entender.
+E Aurelius³ *caminhou*.
 
-E Mila²⁶ — Mila²⁶ *olhou*.
+Não para a câmara médica — ainda *não*. Para os *aposentos*. Para a *mesa* que tinha sido *vazia* quando ele saiu e que estava *vazia* de novo, sem cristal, sem *convocação*, sem *nada* além da *superfície* lisa de *aethrys*⁵ que *refletia* a luz do *Aurion*⁶ como um *espelho* sem *imagem*.
 
-Não com os olhos assustados de quem viu demais — com os olhos de uma criança de dois valens que está *vendo* a pessoa que *protegeu* os outros no orfanato, a garota mais velha que sempre *cuidava* dos menores, que sempre *explicava* as coisas quando os adultos não estavam, que sempre *estava lá*. E Mila²⁶ fez algo que não fazia desde o ataque ao orfanato — *sorriu*.
+E sentou-se. E *esperou*. E *pensou* em Alyndra¹¹, e em Ayla¹⁶, e em *Thalassia*³³, e no mal que estava *por vir*, e no Ancião²⁰ de barba branca que tinha dito *necessário é suficiente*, e na *verdade* brutal de que a vida inteira de Aurelius³ tinha sido *vigilada* — e que, apesar disso, *tudo* que ele tinha feito tinha *importado*.
 
-Não um sorriso grande — um sorriso *pequeno*, quase invisível, o tipo de sorriso que existe quando a dor é tão grande que a alegria *não cabe* e o que sobra é apenas o *esboço* de uma felicidade que está por vir, que vai chegar, que está *a caminho*.
+Tudo *importava*.
 
-— Alyndra — Mila²⁶ disse, e a voz era tão pequena que parecia um *sopro*.
-
-E Alyndra⁷ — que estava sendo abraçada por Kira²³ e observada por Dravyn²⁴ e acompanhada por Tomas²⁵ e olhada por Mila²⁶ — *sorriu* também.
-
-Não um sorriso grande. Um sorriso *pequeno*, dolorido, o sorriso de quem perdeu Nyx¹² e quase perdeu tudo e que está *viva* apesar disso, e a vida — mesmo a vida que dói — é *ainda* vida, e a vida, para crianças que cresceram em um orfanato, é *tudo*.
+E agora *mais do que nunca*.
 
 ---
 
-## IV. O Corredor
-
-Aurelius²⁰ estava no corredor.
-
-Não no corredor principal — em um corredor lateral, estreito, iluminado por cristais embutidos nas paredes que emitiam uma luz dourada e fraca. O corredor dava para a câmara médica através de uma fresta — uma fresta vertical, larga o suficiente para que um olho pudesse *ver* mas não larga o suficiente para que um corpo pudesse *passar*. Aurelius²⁰ estava de pé junto à fresta, os ombros encostados na parede, os braços cruzados, os olhos fixos no interior da câmara.
-
-Ele *via*.
-
-Via Alyndra⁷ — sentada na cama, a túnica branca de Sanctrum⁹ solta nos ombros, os cabelos loiros desgrenhados, o rosto que era o rosto de Ayla³⁰ e que *era* o rosto de Alyndra⁷, único, irrepetível, impossível de confundir com qualquer outro rosto no mundo. Via Kira²³ abraçando Alyndra⁷, os braços longos e finos envolvendo a garota como se fosse um *presente* que precisava ser *protegido*. Via Dravyn²⁴ desenhando no chão, o carvão raspando no papel com o som seco de quem está *registrando* algo que precisa ser lembrado. Via Tomas²⁵ sentado com as pedras de contagem, as fileiras coloridas que só faziam sentido para quem as colocou ali. Via Mila²⁶ de pé na porta, os olhos grandes fixos em Alyndra⁷, o sorriso pequeno no rosto como uma flor de *Giralis*² nascendo em um campo de cinzas.
-
-Via Alyndra⁷ *sorrir*.
-
-O sorriso era pequeno — menor que o sorriso de Mila²⁶, menor que qualquer sorriso que Alyndra⁷ tinha dado no orfanato, menor que o sorriso que ela tinha dado quando encontrou Nyx¹² pela primeira vez. Mas era um sorriso, e o sorriso era *real*, e o sorriso era *dela*, e Aurelius²⁰, que nunca tinha visto a filha sorrir de perto, que conhecia os sorrisos de Alyndra⁷ apenas por relatórios de *Tar-Gig*²¹ e pelo brilho do cristal dourado, sentiu algo no peito que era *quente* e *pesado* e *bonito* e *insuportável* ao mesmo tempo.
-
-Os olhos de Aurelius²⁰ *molharam*.
-
-Não lágrimas — Aurelius²⁰ não chorava, não *podia* chorar, não era o tipo de homem que chorava, e o *En Me*²⁹ de Sanctrum⁹ *não chorava*, e o descendente do Seraphyen Vento Luz *não chorava*, e o homem mais poderoso de Alyndra *não chorava* — mas os olhos *molharam*, e a diferença entre olhos molhados e lágrimas é a diferença entre *quase* e *totalmente*, e *quase* é tão doloroso quanto *totalmente* quando o que está em jogo é uma filha que nunca soube que você existe.
-
-Alyndra⁷ não olhou para a fresta.
-
-Alyndra⁷ não *viu* Aurelius²⁰.
-
-Os olhos de Alyndra⁷ estavam em Kira²³, em Dravyn²⁴, em Tomas²⁵, em Mila²⁶ — nas crianças do orfanato, nas pessoas que eram *delas*, que faziam parte da mesma história de *perda* e *sobrevivência* que tinha começado no Orfanato Luminis⁸ e que continuava ali, em uma câmara branca de Sanctrum⁹, longe de tudo que conheciam.
-
-Aurelius²⁰ *viu* e *não foi visto*.
-
-E isso — isso era *tudo*. Isso era o que a vida de Aurelius²⁰ tinha se tornado: ver e não ser visto. Proteger e não ser *conhecido*. Amar e não ser *reconhecido*.
-
-Os dedos de Aurelius²⁰ tocaram a parede de *aethrys*⁶ ao lado da fresta — um toque leve, quase imperceptível, como se ele estivesse *tentando* tocar Alyndra⁷ através da parede, através da fresta, através do espaço que separava um pai de uma filha que não sabia que era filha.
-
-E então Aurelius²⁰ *virou-se*.
-
-Virou as costas para a fresta. Caminhou pelo corredor lateral. Os passos eram *silenciosos* — o tipo de silêncio que só quem tem *aethra*¹⁸ o suficiente para *moldar* o som ao redor do corpo consegue produzir, o silêncio de um fantasma, de uma sombra, de alguém que existe e *escolhe* não ser ouvido.
-
-Aurelius²⁰ caminhou.
-
-E o coração — o coração que tinha sustentado a *Erupção do Carmesim*³¹, que tinha canalizado o poder de Nyxalor³², que tinha *vencido* uma aberração composta de milhares de *nihilarys*³³ — o coração *pesava* mais que a *Manopla da Vinculação*¹⁴.
-
-Porque a *Manopla da Vinculação*¹⁴ era apenas *aethrys*⁶ e ouro. E o coração era *Alyndra*.
-
----
-
-## V. A Mão Vazia
-
-Valens depois, os preparativos começaram.
-
-Elara³⁴ Elara³⁵ coordenava tudo — a logística, os transportes, os itinerários, as permissões. A Elara³⁴ — título concedido a certas operativas de alto escalão em *Sanctrum⁹* — tinha chegado ao orfanato dois dias após o fim da batalha e já estava *governando* a reconstrução como se o orfanato fosse um posto avançado militar e não um lar para crianças abandonadas. Lyris¹⁶ observava a eficiência de Elara³⁴ Elara³⁵ com uma mistura de admiração e *desconfiança* — a Elara³⁴ era *competente*, e competência, no mundo de *Sanctrum⁹*, era sempre acompanhada de *segundas intenções*.
-
-— O transporte sai de manhã — Elara³⁴ Elara³⁵ informou, os olhos percorrendo uma lista em *aethrys*⁶ translúcido. — Três *velroks*³⁷. Uma *Koramis*³⁸ de carga para os suprimentos. Os dias de viagem até Velantis³⁹ são sete se o tempo estiver limpo, doze se encontrarem *tempestades de aethra*¹⁸ na passagem de Sylvaris²⁴.
-
-— E a reconstrução? — Lyris¹⁶ perguntou.
-
-— Já começou — Elara³⁴ Elara³⁵ respondeu. — As fundações estão intactas. As paredes leste e norte precisam ser reconstruídas — a *aethrys*⁶ que sobreviveu será reaproveitada. O telhado parcialmente desabado será substituído. O prazo é de meses se os materiais chegarem a tempo.
-
-Lyris¹⁶ assentiu. A reconstrução do orfanato era *importante* — não pelas paredes e telhados, que eram apenas *matéria*, mas pelo que o orfanato *significava* — era *lar*, o único que muitas daquelas crianças tinham conhecido, o lugar onde Kira²³ tinha ensinado os menores a ler, onde Dravyn²⁴ tinha coberto as paredes de desenhos, onde Tomas²⁵ tinha contado pedras no jardim, onde Mila²⁶ tinha brincado com as sombras antes que o mundo ficasse *sério*.
-
-— Eu quero ir — Alyndra⁷ disse.
-
-A voz veio do canto da sala — baixa, firme, *certa*. Alyndra⁷ estava de pé junto à janela, as mãos cruzadas sobre o peito, os olhos fixos na luz do *Aurion*¹¹ que entrava pelo vidro de *aethrys*⁶. A túnica branca de Sanctrum⁹ pendia nela como se fosse grande demais — porque era, era a túnica de uma *adulta*, e Alyndra⁷ tinha apenas cinco valens e era *magra* e o *cryonys*¹⁰ tinha consumido reservas que o corpo ainda não tinha *reposto*.
-
-— Quero ver o orfanato — Alyndra⁷ continuou. — Quero ver como está.
-
-Lyris¹⁶ olhou para Elara³⁴ Elara³⁵. Elara³⁴ olhou para a lista. A lista não tinha objeções.
-
-— Vocês podem ir — Elara³⁴ Elara³⁵ decidiu. — O primeiro grupo parte de manhã. Lyris¹⁶, você é responsável pelas crianças. Relatório a cada dia.
-
----
-
-O embarque aconteceu no pátio norte de Sanctrum⁹.
-
-Os *velroks*³⁷ estavam alinhados — três criaturas de pelagem cinza-prateada, cada uma com dois metros e meio de altura nos ombros, os olhos escuros e inteligentes avaliando os passageiros com a indiferença de quem já carregou *milhares* de pessoas e para quem mais alguns não fazem diferença. Os arreios eram de *couro tratado* com óleos de *argenis*¹⁷, e as selas eram largas o suficiente para que duas crianças pudessem montar juntas.
-
-Alyndra⁷ montou no segundo *velrok*³⁷.
-
-O animal não se moveu quando ela subiu — ficou *parado*, a cabeça virada, os olhos fixos em Alyndra⁷ com uma intensidade que era *reconhecimento*, como se o *velrok*³⁷ *soubesse* que estava carregando alguém que carregava algo *pesado*, algo que não se podia ver mas que se podia *sentir*, o tipo de coisa que faz os animais inclinarem a cabeça e ficarem *quietos*.
-
-Lyris¹⁶ montou atrás de Alyndra⁷.
-
-— Você está bem? — Lyris¹⁶ perguntou, a voz baixa, apenas para Alyndra⁷, não para as crianças nem para Elara³⁴ nem para os soldados que montavam guarda ao redor do comboio.
-
-Alyndra⁷ não respondeu *imediatamente*. Os olhos estavam fixos nas mãos — nas duas mãos que descansavam sobre o pescoço do *velrok*³⁷, nas duas mãos que estavam *vazias*.
-
-A mão direita. Vazia.
-
-A mão esquerda. Vazia.
-
-Onde Nyx¹² costumava *descansar* — no colo, no ombro, nas mãos de Alyndra⁷ quando a garota carregava o *lyrien*¹² prateado durante as caminhadas pelo orfanato — havia *nada*. Um espaço vazio que era mais pesado que qualquer coisa que pudesse ocupá-lo. A mão de Alyndra⁷ fechou — os dedos se curvando ao redor de algo que não estava ali, agarrando *ar*, agarrando *nada*, agarrando a *ausência* de Nyx¹² como se a ausência pudesse ser *segurada* se os dedos fossem *fortes* o bastante.
-
-— Estou — Alyndra⁷ disse, e a voz era *suficiente* — não forte, não fraca, *suficiente*. O tipo de suficiente que existe quando não há energia para mais e o que resta é *aceitar* que suficiente é, de fato, suficiente.
-
-Lyris¹⁶ colocou a mão no ombro de Alyndra⁷.
-
-O toque era *quente* — não *Thermaris*¹⁹, calor humano, o calor de uma mão que está *ali*, que *escolheu* estar ali, que vai *continuar* estando ali mesmo quando o orfanato estiver reconstruído e os dias passarem e o mundo continuar *girando*. Lyris¹⁶ não disse nada. Não precisava. A mão no ombro dizia: *eu estou aqui. Eu estou aqui. Eu estou aqui.*
-
-O comboio partiu.
-
-Três *velroks*³⁷ e uma *Koramis*³⁸ de carga, atravessando o pátio norte de Sanctrum⁹ em direção à ponte de *aetherite*³⁹ que ligava a Fortaleza Branca ao continente. Atrás deles, as torres de *aethrys*⁶ brilhavam com a luz do *Aurion*¹¹ nascente, e a luz dourada pintava os muros com sombras longas, e as sombras se estendiam como dedos, como braços, como *tentáculos* de algo que não queria deixar partir o que *pertencia* a ele.
-
-Alyndra⁷ olhou para trás.
-
-Não para Sanctrum⁹ — para a mão vazia. Para o espaço onde Nyx¹² deveria estar. Para o *nada* que era mais presente do que qualquer coisa que existisse.
-
-E depois virou-se. Virou-se para a frente, para a ponte, para o continente, para *Sylvaris*²⁴, para o orfanato, para o que *sobreviveu*. Porque sobreviver — sobreviver é o que Alyndra⁷ fazia. Sobreviver era o que tinha aprendido a fazer no orfanato, era o que tinha feito durante o sequestro, era o que tinha feito durante a batalha. E agora ia *continuar* fazendo.
-
-Mesmo sem Nyx¹².
-
-Mesmo com a mão vazia.
-
-Mesmo com o coração *pesado*.
-
-O comboio avançou. A ponte de *aetherite*³⁹ rangeu sob os cascos dos *velroks*³⁷. E Alyndra⁷ — cinco valens, os olhos secos, a mão vazia, o *cryonys*¹⁰ silenciado, o coração partido — *foi* para frente.
-
-Como sempre.
-
-Como *sempre*.
-
----
-
-**[FIM DO CAPÍTULO XLV]**
+***[FIM DO CAPÍTULO XLV]**
 
 ---
 
@@ -287,81 +415,78 @@ Como *sempre*.
 
 ## 📖 Glossário do Capítulo
 
-¹ **Cantos de Adormecimento** — Compilação antiga de textos sobre entidades e rituais proibidos; atribuída ao Ciclo das *Giralis*² Negras. A epígrafe reflete sobre o retorno a um lugar que nunca mais será o mesmo.
+¹ **Cantos de Adormecimento** — Compilação antiga de textos sobre entidades e rituais proibidos; atribuída ao Ciclo das *Giralis*² Negras. A epígrafe discute os três tipos de segredos e a dor de descobrir que o próprio segredo sempre foi conhecido.
 
-² **Giralis** — Flores de pétalas translúcidas nativas de Sylvaris²⁴. Referenciada na atribuição e na comparação com o sorriso de Mila²⁶.
+² **Giralis** — Flores de pétalas translúcidas nativas de *Sylvaris*²⁶.
 
-³ **ante-aurion** — Vide nota ³ do capítulo anterior.
+³ **Aurelius** — *En Me*¹² de *Sanctrum*¹³; trigésimo terceiro Guardião Mestre. Pai secreto de Alyndra¹¹ e Ayla¹⁶. Convocado pelos Anciãos²⁰ para uma audiência nas profundezas de *Sanctrum*¹³.
 
+⁴ **RRA** — Rede de Ressonância de *Aurion*⁶; sistema de comunicação e imprensa oficial de Alyndra. O cristal violeta não foi enviado pelo *RRA*⁴.
 
-⁵ **valen / valens** — Unidade de tempo longa; equivalente a um ano. Alyndra⁷ tem cinco *valens*⁵. Kira²³ tem quinze *valens*⁵. Mila²⁶ tem cerca de dois *valens*⁵. Na narração, usa-se "ano" (já aplicado nos capítulos).
+⁵ **aethrys** — Material cristalino com propriedades elementais. As mesas, paredes, escadas e tronos descritos neste capítulo são de *aethrys*⁵.
 
-⁶ **aethrys** — Material cristalino com propriedades elementais. As paredes de Sanctrum⁹ são de *aethrys*⁶ branco polido.
+⁶ **Aurion** — A estrela central de Alyndra. A luz do *Aurion*⁶ poente doura os corredores do *Palácio de Cristal*⁸.
 
-⁷ **Alyndra / Alyndra Marethyus** — Última herdeira de Thalassia²⁸; cinco *valens*⁵. Desperta em câmara médica de Sanctrum⁹ com o *cryonys*¹⁰ silenciado e Nyx¹² morta.
+⁷ **cryonys** — Fusão elemental de Água e Vento; gelo e congelamento absoluto. A disciplina de Alyndra¹¹, silenciada após a batalha do templo.
 
-⁸ **Orfanato Luminis** — Orfanato onde Alyndra⁷ cresceu; localizado em Velantis³⁹, Sylvaris²⁴. Sendo reconstruído com supervisão de Elara³⁴ Elara³⁵.
+⁸ **Palácio de Cristal** — Complexo governamental de *Sanctrum*¹³; doze edifícios. Os aposentos de Aurelius³ ficam no *Palácio de Cristal*⁸.
 
-⁹ **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões. Alyndra⁷ desperta em uma câmara médica de *Sanctrum*⁹.
+⁹ **Selynis Thalassa** — Mestra da Informação; Assento Ukam do Conselho dos 12¹⁹. Referenciada como potencial ameaça a Alyndra¹¹ caso *Sanctrum*¹³ a classifique como variável.
 
-¹⁰ **cryonys** — Fusão elemental de Água e Vento; gelo e congelamento absoluto. A disciplina de Alyndra⁷ está silenciada após o esforço do despertar.
+¹⁰ **Thaloris Ventaris** — *Lugal Lil*¹⁸ de *Sylvaris*²⁶; possuído por legião de *nihilarys*²¹. Seu estado real foi classificado como "doença degenerativa" na sabatina (Cap. XLIII).
 
-¹¹ **Aurion** — A estrela central de Alyndra. A luz do *Aurion*¹¹ entra pela janela da câmara médica.
+¹¹ **Alyndra / Alyndra Marethyus** — Filha secreta de Aurelius³ e Ayla¹⁶. Cinco *valens*³⁴. Portadora de *cryonys*⁷. Recupera-se na enfermaria de *Sanctrum*¹³. Os Anciãos²⁰ revelam que sabem de sua existência e que ela será enviada a *Thalassia*³³.
 
-¹² **Nyx** — *Lyrien*¹³ de estimação de Alyndra⁷; *lyrien*¹³ de pelagem prateada. *Morto* — sacrificou-se para defender Alyndra⁷ da aberração. Sua ausência é uma ferida que Alyndra⁷ não consegue cicatrizar.
+¹² **En Me / Guardião Mestre** — Título do líder supremo de *Sanctrum*¹³. Aurelius³ é o trigésimo terceiro *En Me*¹².
 
-¹³ **lyrien** — Criatura elemental de companhia. Nyx¹² era um *lyrien*¹³ de pelagem prateada.
+¹³ **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões.
 
-¹⁴ **Manopla da Vinculação** — Relíquia de Aurelius²⁰ contendo o selo de Elarys⁵ e o poder de Nyxalor³². Aurelius²⁰ sente que seu coração pesa mais que a *Manopla da Vinculação*¹⁴.
+¹⁴ **Tar-Gig** — Organização de inteligência e operações especiais. Os agentes dos *Tar-Gig*¹⁴ protegiam Alyndra¹¹ em Velantis³¹ — sob vigilância dos Anciãos²⁰.
 
-¹⁵ **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
+¹⁵ **aethra** — Manifestação física da alma; energia espiritual fundamental.
 
-¹⁶ **Lyris** — Agente de *Tar-Gig*²¹; protetora de Alyndra⁷. Chegou à câmara médica e abraçou Alyndra⁷. Acompanhará as crianças de volta ao orfanato.
+¹⁶ **Ayla / Ayla Marethyus** — Princesa de *Thalassia*³³; mãe de Alyndra¹¹. Morreu no parto. Os Anciãos²⁰ sabiam de Ayla¹⁶ desde o início.
 
-¹⁷ **argenis** — Árvore; termo genérico para grandes vegetais lenhosos. Lyris¹⁶ foi comparada a uma *argenis*¹⁷ que sobreviveu a uma tempestade.
+¹⁷ **argenis** — Árvore; termo genérico para grandes vegetais lenhosos. A pele do segundo Ancião²⁰ tem textura de casca de *argenis*¹⁷.
 
-¹⁸ **aethra** — Manifestação física da alma; energia espiritual fundamental. As *tempestades de aethra*¹⁸ podem atrasar a viagem a Velantis³⁹.
+¹⁸ **Lugal Lil** — Título do governante de *Sylvaris*²⁶; Senhor dos Ventos. Thaloris Ventaris¹⁰ era o *Lugal Lil*¹⁸.
 
-¹⁹ **Thermaris** — Fusão elemental de Água e Fogo; vapor superaquecido. Disciplina de Lyris¹⁶.
+¹⁹ **Conselho dos 12** — Máximo órgão legislativo de *Sanctrum*¹³. Aurelius³ não confia que o Conselho tolerará Alyndra¹¹ como *incógnita*.
 
-²⁰ **Aurelius** — *En Me*²⁹ de Sanctrum⁹; pai secreto de Alyndra⁷. Observa Alyndra⁷ por uma fresta no corredor sem ser visto.
+²⁰ **Anciãos** — Seis seres ancestrais que habitam as profundezas de *Sanctrum*¹³. Precedem a Ordem, o Conselho dos 12¹⁹ e o próprio conceito de *Sanctrum*¹³ como instituição. Observam sem interferir. Sabiam de Ayla¹⁶, de Alyndra¹¹ e de toda a vida secreta de Aurelius³.
 
-²¹ **Tar-Gig** — Organização de inteligência e operações especiais.
+²¹ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²⁷; seres de escuridão e ausência. A aberração do templo continha milhares de *nihilarys*²¹ operando em coordenação.
 
+²² **Erupção do Carmesim** — Técnica suprema de Aurelius³; liberação controlada da totalidade da *aethra*¹⁵ vital. Não mencionada por Aurelius³ durante a audiência.
 
-²³ **Kira** — Monitora júnior do Orfanato Luminis⁸; quinze *valens*⁵. *Sylentis*⁴¹ — sem afinidade elemental ativa. Correu para abraçar Alyndra⁷ ao reencontrá-la.
+²³ **Nyxalor** — Entidade ancestral de fogo e destruição; aprisionada na *Manopla da Vinculação*²⁴.
 
-²⁴ **Dravyn** — Criança do orfanato; desenha *tudo* o tempo. Retratou Alyndra⁷ e Nyx¹² em papel com carvão.
+²⁴ **Manopla da Vinculação** — Relíquia contendo o selo de Elarys²⁵ e o poder aprisionado de Nyxalor²³. Aurelius³ usa a manopla no pulso esquerdo.
 
-²⁵ **Tomas** — Criança do orfanato; a mais nova entre os que viajaram. Carrega pedras de contagem desde os três *valens*⁵.
+²⁵ **selo de Elarys** — Selo criado pelo sacrifício de Elarys para aprisionar Nyxalor²³. Presente na *Manopla da Vinculação*²⁴.
 
-²⁶ **Mila** — Criança do orfanato; cerca de dois *valens*⁵. Não foi sequestrada — ficou escondida durante o ataque. Seu sorriso foi comparado a uma flor de *Giralis*².
+²⁶ **Sylvaris** — Reino dos Ventos Livres. Sob custódia administrativa de *Sanctrum*¹³ após a sabatina.
 
-²⁷ **velrok** — Criatura de carga e montaria. O comboio usa três *velroks*³⁷ para a viagem a Velantis³⁹.
+²⁷ **Nihil Shid** — Ordem sombria que se autodenomina "A Ordem da Luz"; responsável pela rede de *nihilarys*²¹ e pela conspiração contra Alyndra¹¹.
 
-²⁸ **Marethyus** — Sobrenome da linhagem de Thalassia²⁸. Alyndra⁷ carrega os traços Marethyus²⁸ no queixo.
+²⁸ **Aga Uru** — Guerreiros de armadura prateada; força de elite de *Sylvaris*²⁶. Aurelius³ reconhece o ângulo de ataque da mulher de garras como o de um *Aga Uru*²⁸.
 
-²⁹ **En Me** — Título do Guardião Mestre de Sanctrum⁹. Aurelius²⁰ é o *En Me*²⁹.
+²⁹ **alens** — Unidade de tempo; equivalente a um minuto. Na narração comum, usa-se "minuto" (já aplicado nos capítulos).
 
-³⁰ **Ayla / Ayla Marethyus** — Mãe de Alyndra⁷; morta no parto. Alyndra⁷ tem o rosto de Ayla³⁰.
+³⁰ **aethron / aethrons** — Unidade de tempo imensa; equivalente a um milênio (mil *valens*³⁴). Termo mantido em língua antiga por se tratar de conceito cosmogônico único de Alyndra.
 
-³¹ **Erupção do Carmesim** — Técnica suprema de Aurelius²⁰. Aurelius²⁰ sente que seu coração pesa mais que algo que *suportou a Erupção do Carmesim*³¹.
+³¹ **Velantis** — Cidade de *Sylvaris*²⁶ onde ficava o Orfanato Luminis; cidade onde Alyndra¹¹ cresceu.
 
-³² **Nyxalor** — Entidade ancestral de fogo e destruição; aprisionada na *Manopla da Vinculação*¹⁴.
+³² **Marethyus** — Linhagem real de *Thalassia*³³. Ayla¹⁶ e Kaelia Marethyus³⁶ pertencem a essa linhagem. Alyndra¹¹ é a última herdeira Marethyus³².
 
-³³ **nihilary / nihilarys** — Agentes dos *Nihil Shid*⁴⁰; seres de escuridão. A aberração que matou Nyx¹² era composta de milhares de *nihilarys*³³.
+³³ **Thalassia** — Reino Maré de Cristal; capital submersa. Terra natal de Ayla¹⁶ e Kaelia Marethyus³⁶. Destino escolhido pelos Anciãos²⁰ para Alyndra¹¹.
 
-³⁴ **Elara** — Título concedido a operativas de alto escalão em Sanctrum⁹. Elara³⁴ Elara³⁵ coordena a reconstrução do Orfanato Luminis⁸ e o transporte das crianças.
+³⁴ **valen / valens** — Unidade de tempo longa; equivalente a um ano. Alyndra¹¹ tem cinco *valens*³⁴. Na narração, usa-se "ano" (já aplicado nos capítulos).
 
-³⁵ **Elara** — Nome da Elara³⁴ que coordena a logística; também nome de uma das três luas de Alyndra.
+³⁵ **lyrien** — Criatura elemental de companhia. Referência implícita a Nyx, o *lyrien*³⁵ morta de Alyndra¹¹.
 
-³⁹ **alara** — A manhã; período após o *ante-aurion*³. O transporte sai ao *alara*³⁶. Na narração, usa-se "manhã" (já aplicado nos capítulos).
+³⁶ **Kaelia Marethyus** — Rainha de *Thalassia*³³; irmã de Ayla¹⁶ e tia de Alyndra¹¹. Segundo os Anciãos²⁰, já foi contatada e sabe da chegada de Alyndra¹¹.
 
+³⁷ **Lyris** — Agente dos *Tar-Gig*¹⁴; protetora de Alyndra¹¹. Aurelius³ exige que Lyris³⁷ acompanhe Alyndra¹¹ a *Thalassia*³³.
 
-³⁸ **Koramis** — Ave de cristal negro; montaria aérea de guerra. Uma *Koramis*³⁸ de carga transporta suprimentos.
-
-³⁹ **aetherite** — Mineral cristalino denso. A ponte que liga Sanctrum⁹ ao continente é feita de *aetherite*³⁹.
-
-⁴⁰ **Nihil Shid** — Ordem secreta de *nihilarys*³³; responsáveis pela conspiração contra Alyndra⁷.
-
-⁴¹ **sylentis** — Indivíduo sem afinidade elemental ativa; sem *aethra*¹⁸ manifestado.
+³⁸ **Thermaris** — Fusão elemental de Água e Fogo; vapor superaquecido. Disciplina de Lyris³⁷. O ancião de capuz nota que *Thermaris*³⁸ complementa *cryonys*⁷ para treinamento.

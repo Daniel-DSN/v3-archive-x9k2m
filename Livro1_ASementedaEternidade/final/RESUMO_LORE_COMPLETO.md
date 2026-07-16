@@ -76,29 +76,29 @@
 ## 2. PERSONAGENS PRINCIPAIS
 
 ### 2.1 Alyndra Solynthr
-- **Idade no Livro I:** 4 a ~6 valens (nasce na 8ª Convergência, Cap. 1 aos 5, Cap. 46 aos ~6)
+- **Idade no Livro I:** 4 a ~6 valens (nasce na 8ª Convergência, Cap. 1 aos 5, Cap. 47 aos ~6)
 - **Aparência:** Loira, olhos castanhos, mãos que brilham sob a pele quando emocionada
 - **Nome completo no Orfanato Luminis:** Alyndra Solynthr — Lyris cria um registro falso usando o sobrenome da avó adotiva, a parteira Melessa Solynthr.
 - **Linhagem verdadeira:** Filha de Ayla (morta no parto) e Aurelius Lumivael (Guardião Mestre de Sanctrum). Neta de Marethyus (último Lugal de Thalassia, Seraphyen de sangue puro). Herdeira Seraphyen — Dumu Nin Marethyus.
 - **Natureza única:** Alyndra não é apenas mais uma descendente — ela é **a convergência final**. Alyndra Primordial, ao usar o Fruto Primordial para deter os Nihilaryth, **programou sua própria essência** para fluir pelas gerações e convergir **exclusivamente na 8ª Convergência Tripla**. Não há outros herdeiros com a mesma essência. A linhagem foi um canal, e Alyndra é o destino. Se ela morrer sem descendência, a essência se perde para sempre — e com ela, a única chance de renovar o Selo de Elarys.
 - **A escolha de Alyndra Primordial:** Ela possuía o poder de ver **todos os futuros possíveis**. Entre infinitas linhas do tempo, escolheu aquela que levaria sua descendência à vitória sobre os Nihilaryth. Mas ver o futuro não é controlá-lo — ela viu o caminho, depositou sua fé na geração que havia de vir, e fez o sacrifício sabendo que não estaria lá para garantir o resultado. O nascimento de Alyndra (a menina) não foi uma fatalidade inevitável — foi **a aposta de uma mulher que viu uma chance entre milhares e escolheu acreditar**.
 - **Característica principal:** Herdou a essência de Alyndra Primordial — carrega o poder de renovar o selo de Elarys.
-- **Lyrien de estimação:** Nyx — mamífero de pelagem clara, que a acompanha desde o nascimento e morre no Cap. 37 defendendo-a.
-- **Poder latente:** Cryonys (gelo elemental), desperta em momentos de estresse extremo (Cap. 9 em Thalendris; Cap. 37 após a morte de Nyx).
+- **Lyrien de estimação:** Nyx — mamífero de pelagem clara, que a acompanha desde o nascimento e morre no Cap. 38 defendendo-a.
+- **Poder latente:** Cryonys (gelo elemental), desperta em momentos de estresse extremo (Cap. 10 em Thalendris; Cap. 38 após a morte de Nyx).
 - **Arco:** Do luto pela perda de Melessa, adaptação ao orfanato, descoberta de seu poder, sequestro, batalha no templo, e partida para Thalassia.
 
 ### 2.2 Lyris / Nyctara
 - **Codinome:** Nyctara
 - **Função:** Agente Tar-Gig (Tecelã da Sombra), aposentada, reativada por **Aurelius Lumivael** para proteger Alyndra.
 - **Afiliada a:** Selynis Thalassa / Velatrix (dentro da estrutura Tar-Gig); mais tarde age por conta própria, leal a Alyndra e a Aurelius.
-- **Arco:** Viaja para Sylvaris (Interlúdio 1), torna-se cuidadora disfarçada no Orfanato Luminis, protege Alyndra, participa da batalha do templo, jura treinar Alyndra.
+- **Arco:** Viaja para Sylvaris (Capítulo 4), torna-se cuidadora disfarçada no Orfanato Luminis, protege Alyndra, participa da batalha do templo, jura treinar Alyndra.
 - **Relacionamentos:** Amizade conturbada com Aldric; subordinação tensa com Selynis/Velatrix; lealdade crescente a Alyndra.
 
 ### 2.3 Aurelius Lumivael
 - **Título:** En Me — Guardião Mestre de Sanctrum
 - **Status:** O aetheriano mais forte do mundo
 - **Segredo:** Pai de Alyndra (fruto da relação com Ayla Marethyus)
-- **Arco:** Monitora Alyndra à distância pelo cristal-presente; recebe mensagem de Velatrix (Cap. 39); quebra todos os protocolos; chega como meteoro na batalha do templo (Cap. 40); executa o "Julgamento Final do Carmesim" (Cap. 41) — acessa o poder de Nyxalor pela Manopla da Vinculação, invocando dois colossais dragões-serpentes de energia e fogo. Segura a filha desacordada (Cap. 42), faz Lyris jurar protegê-la, enfrenta sabatina (Cap. 43) e reunião secreta com os Anciãos (Cap. 44). Não revela a paternidade.
+- **Arco:** Monitora Alyndra à distância pelo cristal-presente; recebe mensagem de Velatrix (Cap. 40); quebra todos os protocolos; chega como meteoro na batalha do templo (Cap. 41); executa o "Julgamento Final do Carmesim" (Cap. 42) — acessa o poder de Nyxalor pela Manopla da Vinculação, invocando dois colossais dragões-serpentes de energia e fogo. Segura a filha desacordada (Cap. 43), faz Lyris jurar protegê-la, enfrenta sabatina (Cap. 44) e reunião secreta com os Anciãos (Cap. 45). Não revela a paternidade.
 
 ### 2.4 Selynis Thalassa / Velatrix
 - **Identidade pública:** Mestra da Informação, Assento Ukam do Conselho dos 12
@@ -108,7 +108,7 @@
 
 ### 2.5 Thaloris Ventaris / Líder do Vento
 - **Título:** Lugal Lil (Senhor dos Ventos) de Sylvaris
-- **Arco:** Conivente com o tráfico de cargas fantasmas; vai cobrar sua recompensa (Cap. 30); é enganado e possuiído por legiões de Nihilaryth (Cap. 31); transforma-se na **Aberração** — criatura de 2,40m de obsidiana e Nihilaryth compactados; enfrenta Velatrix, Marethyus e todos; é finalmente derrotado por Aurelius.
+- **Arco:** Conivente com o tráfico de cargas fantasmas; vai cobrar sua recompensa (Cap. 31); é enganado e possuiído por legiões de Nihilaryth (Cap. 32); transforma-se na **Aberração** — criatura de 2,40m de obsidiana e Nihilaryth compactados; enfrenta Velatrix, Marethyus e todos; é finalmente derrotado por Aurelius.
 
 ### 2.6 Vethran Noll
 - **Papel público:** Burocrata de médio escalão em Sanctrum
@@ -122,7 +122,7 @@
 - **Pai:** Imperador Ignar Vulkarys (Lugal Izi, Senhor do Fogo)
 - **Elemento:** Fogo — linhagem direta dos Vulkarys
 - **Aparência:** Cabelos ruivos como fogo, olhos de âmbar que pareciam conter brasas, postura de guerreira
-- **No Livro I:** Breve — acompanha o pai na cerimônia da RRA (Cap. 8/10), resolve o problema da obsidiana etérica na torre de Pyralis (Cap. 11), observa a Assembleia com atenção calculista (Cap. 15). Seus dedos traçam padrões de arquitetura de defesa no braço da cadeira —_lines de flanco, setas de contra-ataque. Observa as mãos de Varek Nythor — "mãos de cera".
+- **No Livro I:** Breve — acompanha o pai na cerimônia da RRA (Cap. 9/10), resolve o problema da obsidiana etérica na torre de Pyralis (Cap. 12), observa a Assembleia com atenção calculista (Cap. 16). Seus dedos traçam padrões de arquitetura de defesa no braço da cadeira —_lines de flanco, setas de contra-ataque. Observa as mãos de Varek Nythor — "mãos de cera".
 - **O rosto público:** A queridinha dos torneios — sempre vence, prodígio de todos os reinos, invejada por todos. Uma das mais bonitas, tem fã-clube, uma diva. Arrogante e presunçosa.
 - **O rosto oculto:** Sem infância — viveu apenas para treinar desde pequena. Carrega cicatrizes profundas, físicas e emocionais. A arrogância é armadura para uma menina que nunca foi permitida ser menina.
 - **Encontro com Alyndra (Livro 3-4):** No torneio de promoção a guerreiro em Sanctrum, durante um festival. Elainy vê Alyndra como uma **rival a ser superada** — Alyndra tem talento natural, e isso desafia tudo que Elainy construiu à base de sacrifício.
@@ -136,11 +136,11 @@
 ### 2.8 Nyx (o lyrien)
 - **Espécie:** Lyrien — mamífero de pelagem clara, orelhas sensíveis
 - **Significado:** Presente de Melessa a Alyndra, nomeado em homenagem à lua azul
-- **Arco:** Deixado em Mespiria; resgatado por Lyris (Cap. 6); acompanha Alyndra; morre no Cap. 37 defendendo-a da Aberração — o momento que desencadeia o poder latente de Alyndra.
+- **Arco:** Deixado em Mespiria; resgatado por Lyris (Cap. 7); acompanha Alyndra; morre no Cap. 38 defendendo-a da Aberração — o momento que desencadeia o poder latente de Alyndra.
 
 ### 2.9 Kira
 - **Amiga de Alyndra:** Menina ruiva, de afinidade elétrica (Sylentis de nascença)
-- **Presente desde Cap. 7**
+- **Presente desde Cap. 8**
 
 ### 2.10 Outros
 - **Mira Daelis** — Colega de Alyndra no orfanato, protetora
@@ -168,7 +168,7 @@
 
 ### 3.3 Thalassia — Reino das Águas
 - **Capital:** Maré de Cristal
-- **Destino final de Alyndra:** Partida no Cap. 46
+- **Destino final de Alyndra:** Partida no Cap. 47
 
 ### 3.4 Umbra — Reino das Sombras
 - **Capital:** Cidadela Sombria
@@ -213,69 +213,69 @@
 
 ### 4.5 Os Anciãos
 - Seres misteriosos que sabiam de tudo — inclusive sobre Alyndra
-- Revelam-se no Cap. 44: toleram Aurelius porque sabem que um mal maior está por vir
+- Revelam-se no Cap. 45: toleram Aurelius porque sabem que um mal maior está por vir
 
 ---
 
-## 5. ARCOS NARRATIVOS (Capítulos 1-46)
+## 5. ARCOS NARRATIVOS (Capítulos 1-47)
 
-### ARCO 1 — Fundação (Caps 1-5)
+### ARCO 1 — Fundação (Caps 1-6)
 - Alyndra em Mespiria com Melessa
 - Morte de Melessa, chegada de Lyris
 - Promessa de buscar Nyx
 - Chegada ao Orfanato Luminis
 
-### Interlúdio 1 (Entre Caps 5 e 6)
+### Capítulo 4 (A Travessia e o Senhor dos Ventos)
 - Lyris viaja de Sanctrum a Sylvaris
 - Encontro com Thaloris Ventaris (Líder do Vento)
 - Primeiros vislumbres da conspiração
 
-### ARCO 2 — Descoberta (Caps 6-9)
+### ARCO 2 — Descoberta (Caps 7-10)
 - Lyris busca Nyx em Mespiria
-- Expedição a Thalendris (Cap. 7)
-- Alyndra desperta Cryonys contra mercenário de Umbra (Cap. 8)
-- Cotidiano no orfanato (Cap. 9)
+- Expedição a Thalendris (Cap. 8)
+- Alyndra desperta Cryonys contra mercenário de Umbra (Cap. 9)
+- Cotidiano no orfanato (Cap. 10)
 
-### ARCO 3 — A Preparação (Caps 10-15)
-- Convocação da Grande Assembleia (Cap. 10)
-- Construção da RRA (Cap. 11)
-- Apresentação da órfã Kira (Cap. 12)
-- Primeiras transmissões do RRA (Cap. 13)
-- Selynis manipulando a guilda (Cap. 14)
-- Apresentação dos 7 líderes (Cap. 15)
+### ARCO 3 — A Preparação (Caps 11-16)
+- Convocação da Grande Assembleia (Cap. 11)
+- Construção da RRA (Cap. 12)
+- Apresentação da órfã Kira (Cap. 13)
+- Primeiras transmissões do RRA (Cap. 14)
+- Selynis manipulando a guilda (Cap. 15)
+- Apresentação dos 7 líderes (Cap. 16)
 
-### ARCO 4 — A Infiltração (Caps 16-22)
-- Selynis prepara dossiê contra Lyris (Cap. 16)
-- Cargas fantasmas aumentam (Cap. 17)
-- POV dos Nihil Shid no subsolo de Sanctrum (Cap. 18)
-- Thaloris aprofunda cooperação com a guilda sombria (Cap. 19)
-- Treinamento de Alyndra (Cap. 20)
-- Sussurros do Nihilary nos sonhos de Alyndra (Cap. 21)
-- Armadilha se fecha (Cap. 22)
+### ARCO 4 — A Infiltração (Caps 17-23)
+- Selynis prepara dossiê contra Lyris (Cap. 17)
+- Cargas fantasmas aumentam (Cap. 18)
+- POV dos Nihil Shid no subsolo de Sanctrum (Cap. 19)
+- Thaloris aprofunda cooperação com a guilda sombria (Cap. 20)
+- Treinamento de Alyndra (Cap. 21)
+- Sussurros do Nihilary nos sonhos de Alyndra (Cap. 22)
+- Armadilha se fecha (Cap. 23)
 
-### ARCO 5 — O Sequestro (Caps 23-28)
-- Ataque ao Orfanato Luminis (Cap. 23-24)
-- Alyndra capturada pelo mercenário Korath (Cap. 25)
-- Múltiplas frentes de resgate (Cap. 26-27)
-- Alyndra chega ao templo na fronteira Fulmora-Umbra (Cap. 28)
+### ARCO 5 — O Sequestro (Caps 24-29)
+- Ataque ao Orfanato Luminis (Cap. 24-24)
+- Alyndra capturada pelo mercenário Korath (Cap. 26)
+- Múltiplas frentes de resgate (Cap. 27-27)
+- Alyndra chega ao templo na fronteira Fulmora-Umbra (Cap. 29)
 
-### ARCO 6 — A Batalha do Templo (Caps 29-41)
-- Thaloris vai cobrar recompensa (Cap. 29-30)
-- Thaloris possuído por legiões → Aberração (Cap. 31)
-- Velatrix chega ao templo (Cap. 32)
-- Batalha massiva (Cap. 33-34)
-- Reforços chegam (Cap. 35)
-- Nyx morre (Cap. 37)
-- Poder de Alyndra desperta — Cryonys massivo (Cap. 37-38)
-- Aurelius chega como Meteoro Carmesim (Cap. 39-40)
-- Julgamento Final do Carmesim — dois colossais de fogo (Cap. 41)
+### ARCO 6 — A Batalha do Templo (Caps 30-42)
+- Thaloris vai cobrar recompensa (Cap. 30-30)
+- Thaloris possuído por legiões → Aberração (Cap. 32)
+- Velatrix chega ao templo (Cap. 33)
+- Batalha massiva (Cap. 34-34)
+- Reforços chegam (Cap. 36)
+- Nyx morre (Cap. 38)
+- Poder de Alyndra desperta — Cryonys massivo (Cap. 38-38)
+- Aurelius chega como Meteoro Carmesim (Cap. 40-40)
+- Julgamento Final do Carmesim — dois colossais de fogo (Cap. 42)
 
 ### ARCO 7 — Consequências (Caps 42-46)
-- Colo do Pai — Aurelius segura Alyndra (Cap. 42)
-- Sabatina do Conselho (Cap. 43)
-- Anciãos revelam que sabiam de tudo (Cap. 44)
-- Reencontro no orfanato (Cap. 45)
-- Partida para Thalassia (Cap. 46)
+- Colo do Pai — Aurelius segura Alyndra (Cap. 43)
+- Sabatina do Conselho (Cap. 44)
+- Anciãos revelam que sabiam de tudo (Cap. 45)
+- Reencontro no orfanato (Cap. 46)
+- Partida para Thalassia (Cap. 47)
 
 ---
 

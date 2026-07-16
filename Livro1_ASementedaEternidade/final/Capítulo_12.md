@@ -6,361 +6,557 @@
 
 # CAPÍTULO XII
 
-# A Órfã da Fazenda Aldebar
-
-*"A coragem não é a ausência do medo. É a criança que, tremendo, ainda assim atravessa o fogo."*
+# A Era das Torres
 
 ---
 
-## I. A Notícia e a Fuga
-
-A notícia chegou através dos passos apressados de *Thalia*¹, a jovem curandeira, que irrompeu pelo pátio do *Orfanato Luminis*² ofegante — o rosto corado, as mãos sujas de terra da estrada, os cabelos escapando da trança que costumava manter impecável. Não era uma mensageira oficial, não carregava um pergaminho lacrado nem o selo de nenhuma instituição. Era apenas uma mulher que viera dos campos com os olhos arregalados e a voz embargada pelo que vira no horizonte.
-
-A Fazenda Aldebar³ estava em chamas.
-
-*Thar Elara*⁴ recebeu a informação de pé, no centro do pátio, com a postura de quem governa uma fortaleza — costas eretas, queixo erguido, voz que não tremia embora suas mãos, ao lado do corpo, apertassem as bordas do avental até os nós dos dedos ficarem brancos. Thalia falava em fragmentos, entre respirações curtas: o fogo tinha começado antes da manhã, os vizinhos tentaram apagar mas o calor era demais, a casa inteira já era uma coroa de chamas contra o céu cinza.
-
-Não havia *receptor de ressonância*⁵ envolvido — a notícia viajou da forma mais antiga que existia: de boca em boca, de campo em campo, carregada pelo vento e pela urgência até chegar aos ouvidos de alguém que conhecia os caminhos até o orfanato.
-
-— Quantos dias de distância? — Elara perguntou, e sua voz era a voz de quem já havia calculado a resposta antes de formular a pergunta.
-
-— Um e meio. Talvez dois, se a estrada de terra estiver enlameada.
-
-Elara girou sobre os calcanhares e acenou para o *nin aga*⁶ de plantão na torre leste — um guerreiro de armadura prateada cujo rosto permanecia imóvel mesmo quando os signaledores de *aethra*⁷ pulsavam em vermelho. O gesto era direto: dois dedos erguidos, um arco circular. Patrulha de emergência.
-
-O Aga Uru⁸ assentiu sem palavra — pois os Escudos da Tempestade não falavam durante operações; comunicavam-se por sinais — e desapareceu pela escadaria de pedra. Em menos de trinta segundos, quatro guerreiros de armadura prateada deslizavam pelo portão sul do orfanato, montados em velroks⁹ negros cujas crinas batiam ao ritmo do galope, em direção às colinas de Argentis¹⁰. A missão era clara: conter o fogo antes que o vento constante de Sylvaris o espalhasse para os campos dourados de *aethrys*¹¹ que se estendiam além da fazenda como um oceano de ouro verde.
-
-Elara ordenou que todas as crianças fossem trancadas no refeitório — as portas fechadas, as janelas vigiadas, ninguém sairia até que ela dissesse o contrário. Não era crueldade. Era protocolo. Era a mesma disciplina que mantinha aquelas muralhas de pé há gerações, que protegia as crianças que o mundo fora descartado.
-
-Mas protocolo e instinto são inimigos antigos. E o instinto de *Alyndra*¹² era mais forte que qualquer portinhola.
-
-A menina de cinco valens observava tudo do canto do pátio onde *Nyx*¹³ estava enroscada em seus pés, as orelhas prateadas girando como antenas que captavam frequências que os ouvidos humanos não alcançavam. Ela viu os Aga Uru partirem. Viu Elara dar ordens. Viu Thalia ser levada para dentro para descansar e beber água. E viu, a trinta passos dali, *Lyris*¹⁴ se preparar para acompanhar a patrulha — o olhar da ex-*Nyctara*¹⁵ varrendo o horizonte com a precisão cirúrgica de quem não olha para o que vê, mas para o que pode estar escondido atrás do que vê.
-
-Alyndra não pensou. Não planejou. Apenas moveu-se.
-
-Com a desenvoltura de quem passou os primeiros quatro valens da vida espreitando pelos cantos de Mespiria sem ser vista — porque Melessa Solynthr a ensinara que crianças fofinhas chamam atenção, e atenção era perigo — ela se esgueirou até a carroça de suprimentos que estava estacionada perto do portão leste, esperando para partir com a segunda onda de Aga Uru. Nyx a seguiu sem hesitar, o focinho colado no calcanhar da menina como se aquele fugitivo de cinco valens fosse a criatura mais natural do mundo.
-
-Alyndra encolheu-se entre sacos de grãos e caixas de ferramentas, Nyx aninhada contra seu peito. A carroça balançou quando o condutor montou na frente, e ela prendeu a respiração. As rodas rangeram sobre a terra. O orfanato foi ficando para trás, primeiro as muralhas, depois as torres, depois o brilho dos signaledores.
-
-Ninguém a vira.
+*"Quem constrói uma torre não ergue apenas pedra e cristal — ergue a promessa de que a distância não precisa ser solidão. Mas toda promessa carrega o peso de quem a quebra."*
 
 ---
 
-## II. A Carnificina de aetherite
+## I. A Fundação de Cristal
 
-O cheiro chegou antes da visão — fumaça espessa e oleosa, não a fumaça limpa de uma lareira doméstica, mas a fumaça densa de madeira carbonizada, de tecido consumido, de algo químico que queimava com uma temperatura que o nariz humano não deveria ser capaz de suportar. Era o cheiro da destruição em sua forma mais pura e indiferente, e Alyndra sentiu-o subir pela garganta como uma mão gelada que apertasse os pulmões.
+A construção começou ao aebril do 14º dia da 6ª nyra.
 
-Quando a carroça finalmente parou — o condutor havia recebido ordens de esperar num ponto seguro, a meia légua da fazenda —, ela ergueu a cabeça por entre os sacos de grãos e viu.
+Não com uma cerimônia, nem com discursos, nem com o som de trombetas que costumeiramente acompanhava grandes empreendimentos em *Sanctrum*. Começou com o clique metálico de um compasso de precisão tocando a pedra mais antiga da cidade — um bloco de *pedra-sopro*¹ que descansava sob a *Torre de Aurion* há mais eras do que qualquer guarda-costas podia lembrar.
 
-A Fazenda Aldebar era uma ferida aberta no campo.
+*Valtheris* estava ajoelhado diante dele.
 
-O que restava da casa principal era um esqueleto de vigas negras e paredes rachadas, com chamas que ainda lambiam os cantos como línguas famintas recusando-se a aceitar que não havia mais nada para devorar. O telhado desabara sobre si mesmo, e o que antes era um lar — portas, janelas, o caramanchão de *giralis*¹⁶ que Elara Aldebar cultivava com orgulho — agora era uma massa amorfa de cinzas e ferro retorcido.
+Suas mãos — morenas, calosas, calejadas por valens de trabalho nos laboratórios do subsolo — tocavam a superfície pálida da pedra como quem acaricia o rosto de um ancião adormecido. O bloco vibrava sob seus dedos. Não com som, não com calor, mas com algo mais profundo — uma frequência quase imperceptível que *Valtheris* sentia nos ossos do crânio, nos dentes, nas articulações dos pulsos.
 
-Mas não era a casa que prendia a atenção dos guerreiros de elite Aga Uru que já estavam no local. Era o campo.
+— A fundação ainda ressoa — ele murmurou para *Mestre Tronus*, que estava ao seu lado com um *medidor de frequência*² portátil. — Depois de tudo o que aconteceu... depois da *Queda de Aetherion*... ela ainda ressoa.
 
-O vento de Sylvaris soprava do leste com uma constância que os aldeões conheciam como o "sopro de Aurion" — uma brisa morna e constante que mantinha os campos de aethrys balançando como ondas douradas e fazia das planícies de Sylvaris o celeiro mais produtivo do continente. Naquela manhã, porém, aquele mesmo vento carregava brasas e fumaça para o oeste, em direção aos vastos campos que se estendiam além da fazenda. Se o fogo alcançasse os trigais maduros, não seria uma casa que arderia — seriam léguas inteiras de colheita.
+Tronus ergueu os olhos do medidor, que crepitava com linhas azuis em seu visor de cristal.
 
-O comandante da patrulha agiu com a lógica implacável de quem foi treinado para proteger, não para lamentar. Com um gesto da mão — dois dedos apontando para o horizonte oeste — ele ordenou que todos os Aga Uru corressem para o extremo oposto do campo, virados de costas para a casa principal, para cavar trincheiras e criar um aceiro que impedisse o fogo de se espalhar. Era a decisão certa. Era a decisão militar. Era a decisão que deixava os destroços da casa completamente desprotegidos.
+— Frequência base estável em 7,43 haelens — ele confirmou, a voz seca e precisa como seus instrumentos. — O núcleo de aetherite que os *Seraphyen* deixaram nas fundações não se degradou. Pode-se construir.
 
-Lyris chegou momentos depois, desmontando de um velrok emprestado com a fluidez de quem passou a vida inteira em selas. Seus olhos varreram a cena com a velocidade de um segundo — registrando posições, avaliando riscos, calculando — e quando encontraram a carroça de suprimentos estacionada a meia légua dali, viram algo que fizeram com que seu rosto, normalmente inexpressivo, mudasse.
+Valtheris respirou fundo. Quando ergueu a mão, dezessete engenheiros de *Fulmora* — a elite técnica que a *Matriarca Zerynthia* havia emprestado para o projeto — avançaram em formação coordenada, carregando os primeiros blocos de cristal que formariam a base da nova *torre de ressonância*.
 
-Alyndra estava sentada na beira da carroça, os pés balançando no vazio, Nyx no colo, olhando para o fogo com uma expressão que Lyris reconheceu imediatamente — pois era a mesma expressão que Alyndra tivera quando contou sobre a morte de Melessa, a mesma que tivera ao descrever a nyxara em que atravessou a tempestade sozinha. Não era curiosidade. Era reconhecimento.
+A torre de Sanctrum seria a primeira. A maior. A mais complexa.
 
-— Alyndra — Lyris disse, e a palavra saiu como uma corda esticada.
-
-A menina virou a cabeça. Não disse "desculpe". Não disse "eu vim escondida". Apenas disse:
-
-— Eu ouvi uma criança chorando.
-
-Lyris parou.
-
-— O quê?
-
-— Dentro da casa. Ou é dentro. Eu ouço. Não é forte, mas está ali.
-
-Nenhum outro som além do crepitar das chamas e do vento nos campos era audível para qualquer outra pessoa naquele momento. Mas Lyris havia aprendido, nos mês de espionagem que moldaram cada fibra de seu corpo, a nunca ignorar uma declaração de Alyndra sobre o que ela ouvia, sentia ou via. Porque a menina tinha um registro perfeito — não de mentiras, pois nunca mentia — mas de percepções que existiam em frequências que o resto do mundo não alcançava.
-
-Lyris avançou para os escombros fumegantes.
-
-O calor a atingiu como um muro. A cada passo, o ar ficava mais denso, mais difícil de respirar, e o cheiro de fumaça se misturava com outro odor — metálico, ozonizado, como o cheiro de uma tempestade encapsulada em cristal. Lyris reconheceu-o imediatamente: *aetherite*¹⁷ sobrecarregado. O cheiro de uma falha etérica.
-
-Ela encontrou os corpos perto do que restava da porta dos fundos.
-
-Quatro. Não dois — quatro corpos severamente carbonizados, posicionados em semi-círculo como se tivessem tentado correr juntos para a saída. Os dois maiores — um homem e uma mulher cujos rostos a fuligem havia apagado, mas cujas posturas ainda carregavam o contorno de quem tentara proteger os menores — jaziam sobre os dois menores. Elara e Martyn Aldebar, e dois lavradores que Lyris nunca conheceria o nome, porque o fogo consumira até os ossos que poderiam identificá-los.
-
-Mas não foi isso que prendeu o olhar de Lyris. Foi o que estava ao lado deles.
-
-Uma *ceifadeira*¹⁸ — máquina agrícola de colheita, alimentada por um núcleo de aetherite que convertia pulsos etéricos em energia mecânica — jazia de lado como um animal abatido. Suas lâminas estavam retorcidas, seu chassis de metal escurecido pela exposição ao calor extremo, e o compartimento central, onde o núcleo etérico deveria estar intacto, estava rasgado de dentro para fora — como se algo houvesse explodido de dentro da máquina, arremessando fragmentos de cristal e metal em todas as direções.
-
-Um camponês idoso, com o rosto coberto de fuligem e os olhos vermelhos de quem chorara até secar, estava ajoelhado a dez passos de distância. Quando Lyris se aproximou, ele apontou para a carcaça da ceifadeira com um dedo que tremia.
-
-— O núcleo — ele disse, a voz rachada. — O núcleo entrou em colapso. Eu ouvi o zumbido antes — aquele zumbido que faz quando tá carregando demais. E depois... depois foi como um trovão dentro de uma garrafa. A onda de calor derrubou todo mundo que tava perto. Os que tavam dentro da casa... — Ele engoliu em seco. — Não tiveram chance.
-
-Lyris examinou os fragmentos do núcleo. Os cristais de aetherite estavam rachados em padrões que ela conhecia — não era uma falha natural. Núcleos de aetherite projetados para ceifadeiras tinham válvulas de segurança que os desativavam automaticamente quando a pressão etérica ultrapassava o limite. Para que um núcleo entrasse em colapso catastrófico, alguém precisaria ter desativado ou sabotado essas válvulas.
-
-Ela também notou a porta da frente da casa. Os caixilhos estavam estilhaçados para dentro — não para fora, como seria o caso se a explosão da ceifadeira os tivesse atingido. A porta tinha sido arrombada. De fora para dentro. Antes do fogo.
-
-E havia um rastro escuro no chão da varanda — não fuligem, não água, algo mais denso — que se estendia da porta dos fundos em direção ao campo ao norte, desaparecendo entre as *aerivas*¹⁹ que marcavam a fronteira com as colinas de Argentis.
-
-Sangue. Alguém tinha sangrado ali. E alguém tinha fugido.
-
-Lyris registrou cada detalhe — a posição dos corpos, o ângulo dos fragmentos do núcleo, a direção do rastro de sangue — e guardou para depois. Porque neste momento, não havia tempo para investigação. Havia uma criança chorando dentro de uma casa em chamas, e a menina de cinco valens que a ouvira estava desaparecida.
-
-Alyndra havia sumido.
+E também a mais vigiada.
 
 ---
 
-## III. O Choro e o Fogo
+Aurelius observava do terraço superior da Torre de Aurion, os braços cruzados, a silhueta esculpida contra o céu matinal de Sanctrum. Abaixo dele, o canteiro de obras se espalhava pela praça central — andaimes de metal e madeira, carruagens transportando lingotes de aetherite bruto das reservas de *Terraxis*, engenheiros de Fulmora com seus instrumentos de medição pendurados no cinto como armas.
 
-O caos foi rasgado por um som que não era fogo, não era vento, não era madeira rachando.
+Ao seu lado, *Lysias Thyrion* escrevia furiosamente em seu caderno.
 
-Era o choro de uma criança.
+— En Me — o jovem repórter disse sem tirar os olhos do papel —, posso fazer uma pergunta?
 
-Uma das vizinhas — uma mulher de avental cinzento que carregava baldes de água do poço mais próximo — largou tudo quando o som atingiu seus ouvidos. O balde caiu no chão com um clang metálico que ninguém registrou, e a mulher berrou, apontando para o que restava do segundo andar da casa:
+— Estão fazendo três por Pulso.
 
-— Lá! Lá em cima! Tem alguém vivo lá em cima!
+— Essa não conta. É profissional.
 
-O choro era frágil — irregular, cortado pela fumaça, o choro de quem está perdendo as forças e o fôlego ao mesmo tempo. Vindo do interior do segundo andar, de algum cômodo que o teto parcialmente desabado ainda protegia do fogo mas que estava, a cada segundo que passava, mais perto de se tornar uma armadilha mortal.
+Aurelius quase sorriu. Quase.
 
-Do lado de fora, escondida entre os sacos de grãos da carroça de suprimentos, Alyndra ouviu.
+— Pode perguntar.
 
-Nyx chiou — um som agudo, urgente, que era a versão lyrien de "não faça isso". Mas Alyndra não estava ouvindo Nyx. Estava ouvindo algo mais antigo, mais profundo — aquele mesmo instinto que a fizera pegar o filhote de lyrien rejeitado pela mãe, que a fizera atravessar a tempestade depois da morte de Melessa, que a fizera segurar a mão de Dravyn quando ninguém mais o tocava.
+— O senhor aprovou a RRA na assembleia há menos de uma nyra. Agora está construindo uma torre no centro de Sanctrum com engenheiros de Fulmora, aetherite de Terraxis e fundações que ninguém tocava desde antes da Queda. Isso é... urgente?
 
-O instinto gritou mais alto que o medo.
+Aurelius não respondeu imediatamente. Seus olhos percorreram o horizonte — as torres de cristal de Sanctrum, o mar além das falésias, os faróis dos navios que cruzavam o canal.
 
-E antes que Nyx pudesse impedi-la — antes que qualquer adulto pudesse alcançá-la — a menina de cinco valens disparou em direção à varanda, os cabelos loiros voando, as botas de couro pisando brasas sem que ela sentisse a dor, Nyx correndo atrás dela em uma tentativa fútil de alcançá-la.
+— Lysias — disse finalmente. — Quantas vezes, no último valen, você precisou enviar uma mensagem a outro reino?
 
-Lyris se virou quando o som das botas no chão queimado atingiu seus ouvidos. Viu Alyndra — pequena, determinada, absolutamente fora de si — correndo em direção à cortina de chamas que separava o exterior do interior da casa.
+— Três. Quatro. Depende do que conta como mensagem.
 
-— ALYNDRA! — o nome rasgou a fumaça como uma lâmina, mas era tarde demais.
+— E quanto tempo cada uma levou?
 
-A menina mergulhou na cortina de chamas.
+O jovem parou de escrever.
 
----
+— A mais rápida... doze daens. *Koramis* até *Thalassia*, com vento favorável. A mais lenta... seis syras. *Terraxis*, no inverno.
 
-## IV. O Sufocamento e a Água
+— Seis syras para uma mensagem — Aurelius repetiu, e havia um peso em sua voz que Lysias não compreendeu. — Seis syras em que Sanctrum não sabia o que acontecia em Terraxis. Seis syras em que uma peste podia se espalhar, um exército podia se mover, uma criança podia morrer. A RRA transforma seis syras em um pulso. Não é urgência, Lysias. É sobrevivência.
 
-O interior da casa era um pesadelo de calor e fumaça negra.
+Lysias anotou cada palavra. Quando terminou, leu o que escreveu e então acrescentou, em letra menor, no rodapé da página:
 
-O ar era tão espesso que parecia ter peso — pressionando contra os pulmões, arranhando a garganta, entrando nos olhos como areia incandescente. Cada respiração era uma batalha. Alyndra tossia sem parar, os olhos lacrimejando, mas não parava de se mover. Rastejava sobre as tábuas do chão, evitando as vigas que caíam ao redor como dentes de uma besta desabando, seguindo o som do choro que era agora seu único farol.
-
-O choro vinha do final do corredor, de um cômodo cuja porta pendia de uma dobradiça única. Alyndra empurrou-a com o ombro e encontrou o que restava de um quarto — talvez um berçário, talvez um escritório transformado em berçário. As paredes estavam pretas de fuligem, e a janela do outro lado estava bloqueada por uma cortina de fogo que pulsava com uma regularidade hipnótica, alimentada pelo vento que entrava pelas frestas.
-
-E debaixo de um cesto de vime virado, encolhida como um animal assustado, estava a pequena *Mila*²⁰.
-
-Tinha cabelos escuros colados ao rosto sujo de fuligem, olhos verdes arregalados de terror, os bracinhos estendidos na direção de onde a mãe deveria estar. Não chorava mais — apenas tremia, com a respiração curta e irregular de quem está em choque, as bochechas marcadas por lágrimas que a fuligem transformara em rios negros.
-
-Alyndra ajoelhou-se, puxou a pequena para os braços com a delicadeza desesperada de quem segura algo que pode se despedaçar a qualquer momento, e a envolveu no que restava de seu casaco.
-
-— Está tudo bem — sussurrou, a voz rachada pela fumaça. — Estou aqui. Você não está mais sozinha.
-
-Mila enterrou o rosto no pescoço de Alyndra e soluçou — um som pequeno, trêmulo, que era quase engolido pelo rugido do fogo ao redor.
-
-Foi nesse momento que o teto gemeu.
-
-Não um estalo seco, não um rangido — um som profundo, gutural, como se a própria estrutura da casa estivesse gritando. Alyndra ergueu os olhos e viu a viga: uma colossal viga mestra de madeira incandescente, com mais de quatro passos de comprimento, que havia sido solta de seus suportes pelo fogo e que agora deslizava em direção a elas com a lentidão aterrorizante de um pesadelo em câmera lenta.
-
-O pavor absoluto — o tipo de medo que não é racional nem controlável, o medo primal que todas as criaturas sentem quando a morte se materializa diante delas em forma física — despertou algo dentro de Alyndra que não era pensamento nem decisão. Era anterior a tudo isso. Era a defesa de uma criança que se recusa a morrer.
-
-Uma bolha de gelo translúcida e trêmula irrompeu do chão.
-
-O *cryonys*²¹ instintivo — não o que Lyris tentava ensinar nos treinos, não o que os manuais descreviam, mas algo mais antigo, mais visceral, que brotou do centro do peito da menina como uma fonte subterrânea rompendo a crosta terrestre — expandiu-se em uma cúpula ao redor de Alyndra e Mila, cristais de gelo nascendo do chão queimado em espirais concêntricas, envolvendo-as em um casulo de frio azul-prateado.
-
-A viga bateu na cúpula.
-
-O impacto foi devastador. A cúpula rachou — não com um estalo limpo, mas com um chiado violento, um sibilar de gelo sob pressão que ecoou pelo cômodo como o grito de algo vivo sendo dilacerado. Fissuras correram pela superfície da bolha como veias de relâmpago congelado, e o calor do lado de fora encontrou as brechas com a ferocidade de um predador que finalmente encontrou uma abertura na armadura de sua presa.
-
-Presas sob o peso da viga colossal, com o gelo derretendo rapidamente no calor absurdo que o fogo gerava, Alyndra sentiu o ar começar a falhar. Os pulmões queimavam. A visão escurecia nas bordas, como se alguém estivesse desligando as luzes do mundo uma a uma, começando pela periferia e convergindo para o centro. Mila soluçava contra seu peito, e Alyndra apertou-a com mais força, como se o abraço pudesse substituir o oxigênio que estava desaparecendo.
-
-*Não agora*, ela pensou. *Não depois de tudo.*
-
-E do lado de fora, algo mudou.
-
-Lyris ignorou tudo — o disfarce, a prudência, os valens de operações clandestinas que lhe ensinaram que se expor era morrer. Ergueu as mãos para o céu e canalizou seu *thermaris*²².
-
-A água dos baldes abandonados pelos vizinhos — cinco, seis baldes espalhados pelo quintal, alguns cheios, outros derramados — ergueu-se do chão em filetes prateados que convergiam para as mãos de Lyris como serpentes domesticadas. Ela os envolveu em um manto de água rodopiante e vapor frio que a cobria da cabeça aos pés — não uma armadura, não um escudo, mas uma extensão de si mesma, a fusão perfeita de água e calor que definia sua afinidade elemental, transformada agora em algo que nenhuma academia teria ensinado: uma armadura de corrente líquida e vapor condensado.
-
-E invadiu a casa.
-
-Não caminhou — atravessou. Como um torpedo de água e frio, Lyris cortou a cortina de chamas que bloqueava a porta principal, o manto aquático girando ao seu redor em uma espiral que apagava as chamas no raio de dois passos, deixando um rastro de vapor e madeira úmida. O calor tentou consumi-la — sentiu o manto vibrar, sentiu a água ferver contra sua pele — mas o thermaris não é apenas calor; é controle absoluto sobre a temperatura, e Lyris controlava o manto com a precisão de quem domina um elemento desde antes de saber que o dominava.
-
-O interior da casa era o inferno — literalmente. As paredes tremiam, o teto rachava, e em cada cômodo que Lyris atravessava o fogo recuava diante da cortina de água como se encontrasse algo que não sabia como consumir.
-
-E então ela viu.
-
-No fundo do corredor, sob uma viga que pesava mais do que três homens, envoltas por uma cúpula de gelo que estava rachando e derretendo e morrendo — Alyndra e Mila.
-
-Lyris mergulhou.
-
-O gelo cedeu sob o impacto de suas mãos — ela arremessou a viga pesada com um grito que não era palavra, era puro esforço, o tipo de grito que sai quando o corpo humano ultrapassa cada limite que a biologia lhe impôs. A viga voou para o lado, estilhaçando o que restava da parede ao fundo do cômodo, e Lyris agarrou Alyndra e a pequena contra o peito com a força desesperada de quem segura a própria vida.
-
-A menina tossiu — um som úmido, doloroso — e seus olhos se abriram. Castanhos, normais, sem brilho azul, sem gelo, sem poder. Apenas os olhos de uma criança de cinco valens que quase morreu.
-
-Lyris saltou pela janela.
-
-O vidro — ou o que restava dele — estilhaçou ao redor delas enquanto caíam em um arco de braços e pernas e manto de água e vapor. O teto da casa desabou atrás delas com um estrondo apocalíptico — madeira, telha, cinzas e metal retorcido desabando como uma onda que finalmente quebrou — e a onda de calor que se seguiu as empurrou para a frente, fazendo Lyris rolar pelo chão com as crianças pressionadas contra o peito.
-
-Nyx as alcançou três segundos depois, miando freneticamente, o focinho lambendo o rosto de Alyndra.
-
-Para os vizinhos e soldados que agora retornavam do campo — os Aga Uru com os braços cobertos de terra das trincheiras, os camponeses com baldes vazios e olhos arregalados — a cena era clara e simples: nenhuma aura de gelo, nenhum manto de água, nenhum traço visível de magia. Apenas o heroísmo absurdo de uma cuidadora que ignorou o bom senso e entrou num prédio em chamas para arrancar duas crianças da morte certa.
-
-E ninguém — nenhum Aga Uru, nenhum vizinho, nenhum dos lavradores que voltavam dos campos — notou que o vapor que subia das roupas de Lyris não era vapor de suor, mas o resíduo de um thermaris que havia operado em um nível que nenhuma cuidadora de orfanato deveria ser capaz de alcançar.
-
-Ninguém, exceto Nyx — que se enroscou ao redor dos tornozelos de Lyris e não soltou por um longo tempo, como se quisesse dizer: *Eu vi. Eu sei o que você é. E não importa.*
+*Ele disse "uma criança". Não "uma pessoa". Por que uma criança?*
 
 ---
 
-## V. O Rescaldo e o Ultimato
+Nos daens que se seguiram, a torre cresceu.
 
-O retorno para Velantis foi envolto num silêncio denso como o da sepultura.
+Não como as construções comuns de Sanctrum — que eram erguidas por mestres-pedreiros usando cantaria de mármore e argamassa de conchas moídas. A torre de ressonância de Sanctrum era algo diferente. Seu núcleo era um monolito de *núcleo etérico*³ — um cristal singular de aetherite puro, do tamanho de um homem, lapidado em uma forma octogonal que *Valtheris* projetara em seus laboratórios durante três valens de cálculos frustrados e protótipos quebrados.
 
-Alyndra não soltou Mila durante toda a viagem. A pequena dormia em seu colo, envolta no casaco de lã que um dos Aga Uru lhe emprestara, o rosto limpo da fuligem que Lyris limpara com um pano úmido molhado na água do balde. A respiração era calma agora — o sono profundo de quem foi arrancado do pior momento de sua existência e finalmente se sentia segura em braços que, embora pequenos demais para a tarefa, eram os braços mais determinados do mundo.
+O monolito foi instalado no 19º dia, ao zênite de Aurion, quando *Aurion* estava no zênite e a luz incidia perpendicularmente sobre a praça.
 
-O *veleiro de estrada*²³ deslizava pelos trilhos no silêncio do entardecer. Ninguém falava. Kira segurava a mão de Alyndra, os dedos entrelaçados, sem apertar, apenas presente — a mesma presença silenciosa que ela oferecia sempre que o mundo se tornava demais. Dravyn olhava pela janela, o caderno fechado no colo, os olhos refletindo o laranja do horizonte. Torvin contava as árvores que passavam, um ritual que o acalmava quando o silêncio pesava demais — mas seus lábios não se moviam, como se até a contagem fosse incapaz de preencher o espaço que o horror daquele dia havia aberto.
+Foram necessários vinte engenheiros, um guindaste a vapor e as mãos firmes de Tronus para posicionar o cristal sem riscá-lo. Quando a base octogonal tocou a fundação de pedra-sopro, algo aconteceu — um som, grave e profundo, como um sino subaquático, que percorreu a praça e fez os pássaros nas árvores próximas se calarem.
 
-Lyris sentou-se ao lado do condutor, os olhos no horizonte, processando cada detalhe com a frieza de quem foi treinada para transformar trauma em informação. O núcleo de aetherite sabotado. A porta forçada. O rastro de sangue apontando para o norte. A manifestação de cryonys de Alyndra — mais poderosa do que qualquer coisa que Lyris já vira em alguém daquela idade. E o thermaris dela própria, exibido em sua forma mais crua e descontrolada diante de dezenas de testemunhas.
+Valtheris sustentou a respiração.
 
-*Tudo o que construí em oito valens de disfarce*, ela pensou, *pode ter desmoronado em trinta segundos.*
+Tronus verificou o medidor de frequência.
 
-Ela olhou para dentro, para onde Alyndra segurava Mila como se a pequena fosse uma extensão de si mesma, como se resgatá-la tivesse resgatado algo dentro dela — algum fragmento da menina que perdeu Melessa, que perdeu Mespiria, que perdeu a infância antes de ter tempo de vivê-la.
+— A frequência do cristal e a frequência da fundação estão... casando — ele disse, e pela primeira vez em valens, sua voz transportava algo que não era precisão. Era assombro. — Elas estão se afinando sozinhas.
 
-*Ela salvou uma vida hoje. Com poder que não deveria existir em alguém da idade dela. E o mundo vai saber.*
+Valtheris fechou os olhos e sentiu a vibração subir pela espinha, entrar no crânio, ecoar em um lugar dentro dele que não tinha nome.
 
-Ao cruzarem os portões do *Orfanato Luminis*, a manhã já havia cedido para o crepúsculo, e as lanternas de aethra nos corredores lançavam sombras longas sobre o pátio de pedra. *Thar Elara*⁴ os aguardava no centro do pátio, de pé, as mãos cruzadas nas costas, a postura tão rígida quanto as muralhas que cercavam o orfanato.
+— É porque não são duas frequências — ele sussurrou. — Nunca foram. O cristal de aetherite e a pedra das fundações foram feitos pela mesma mão. A mesma era. A torre de ressonância não é uma invenção, Tronus. É um despertar.
 
-Ela viu Alyndra descer do Veleiro com Mila no colo, coberta de fuligem, os cabelos loiros emaranhados, os olhos com aquela expressão que Elara já tinha visto antes — nos veteranos de guerra que voltavam dos campos de batalha de Thalassia, nos sobreviventes dos incêndios das florestas de Pyralis, em todas as pessoas que tinham encarado a morte de frente e voltaram diferentes do que eram.
+A construção continuou. Os andaimes subiram. Os filamentos de aetherite foram tecidos entre as camadas de cristal e pedra, formando uma rede interna que *Valtheris* chamava de "o sistema nervoso da torre." Os *canalizadores etéricos*⁴ foram instalados no topo — quatro aparelhos em forma de trompa, posicionados nos pontos cardeais, cada um apontando para uma das outras seis capitais.
 
-E a diretora deu um ultimato.
-
-A voz de Elara cortou o ar do pátio como uma lâmina — cortante, precisa, implacável.
-
-— Alyndra Marethyus — ela disse, usando o nome completo, o que por si só já era uma sentença. — Você desobedeceu a uma ordem direta. Esgueirou-se de uma carroça de suprimentos. Infiltrou-se em uma zona de desastre. Entrou em uma estrutura em chamas. Arriscou sua vida — e a vida da criança que carregava — de uma forma que nenhum adulto responsável teria aprovado.
-
-A voz era a voz de quem governava com disciplina militar. Cada palavra era uma acusação. Cada pausa era uma sentença. As crianças que se haviam reunido no pátio para ver a chegada estavam em silêncio absoluto — até Nyx estava imóvel, as orelhas prateadas coladas contra a cabeça.
-
-— Eu poderia proibir suas saídas por seis meses. Poderia restringir suas atividades ao refeitório e ao dormitório. Poderia — e talvez devesse — transferi-la para uma ala mais supervisionada, onde cada passo seu fosse monitorado.
-
-Alyndra permaneceu de pé, Mila ainda no colo, e não desviou os olhos. Não chorou. Não implorou. Apenas sustentou o olhar de Elara com uma seriedade que não combinava com seus cinco valens — a seriedade de quem sabe que cometeu um erro e está preparada para enfrentar as consequências.
-
-E então a máscara cedeu.
-
-Foi como assistir a uma fortaleza desmoronar — não com estrondo, mas em silêncio, pedra por pedra. Os ombros de Elara caíram. A mandíbula, que havia estado firme como aço, tremeu. E os olhos — os olhos que haviam carregado a disciplina de uma comandante e a compaixão de uma mãe em um equilíbrio impossível por mais valens do que Alyndra poderia contar — se encheram de lágrimas.
-
-Elara caiu de joelhos.
-
-Não como uma diretora. Não como uma comandante. Como uma mulher que quase perdeu uma criança.
-
-Ela puxou Alyndra para um abraço desesperado — um abraço que era ao mesmo tempo aperto e pedido de desculpas e agradecimento e promessa — e sua voz, quando finalmente saiu, era um sussurro quebrado:
-
-— Menina idiota. Menina corajosa. Idiota. — Ela apertou mais forte. — Você está viva. Alyndra, você está viva.
-
-Alyndra enterrou o rosto no ombro de Elara e finalmente chorou.
-
-Nyx se aproximou e enroscou-se nas pernas das duas, como se pudesse, com aquele gesto simples, manter juntas as pessoas que mais precisavam estar juntas naquele momento.
-
-As crianças do orfanato, que observavam da porta do refeitório, viram a diretora mais rigorosa que já existiu ajoelhada no chão de pedra, segurando uma menina coberta de fuligem como se aquela menina fosse a coisa mais preciosa do mundo. E entenderam, sem que ninguém dissesse uma palavra, que o amor tem uma linguagem que não obedece a regras nem ultimatos.
-
-Mila, ainda no colo de Alyndra, dormiu tranquila — a única pessoa naquele pátio que não sabia, e não precisava saber, o que havia acontecido.
+E em torno da torre, os muros de Sanctrum testemunharam algo que não viam há eras: um projeto nascido não da guerra, mas da necessidade de falar.
 
 ---
 
-## VI. O Eco e o Repórter
+## II. O Primeiro Sussurro
 
-A história espalhou-se de forma incontrolável — como fogo, ironicamente.
+A ativação ocorreu no 24º dia da 6ª nyra, ao entardecer.
 
-Não pelos canais oficiais — a Guarda Costeira de *Thalendris*²⁴ ainda estava preparando seu relatório, e o *Escritório dos Arautos do Éter*²⁵ ainda estava verificando fontes. Mas pela via mais antiga e mais poderosa que existe: boca a boca. Os camponeses que viram a cena contaram aos vizinhos, que contaram aos comerciantes, que contaram aos viajantes, e em menos de dois dias a história já tinha percorrido as estradas de terra entre Velantis e *Zephyra*²⁶ com uma velocidade que nenhum veleiro de estrada conseguiria igualar.
+Valtheris estava dentro da base da torre, em uma câmara circular de três *passos* de diâmetro, iluminada apenas pelo brilho pulsante do núcleo etérico. O cristal octogonal ocupava o centro da sala, suspenso sobre um pedestal de pedra-sopro por meio de engrenagens de bronze que Tronus calibrara durante dois daens inteiros.
 
-*Uma criança de cinco anos entrou num prédio em chamas e salvou uma criança.*
+Ao redor do cristal, os quatro canalizadores etéricos erguiam-se como dedos de luz, cada um apontando para um ponto cardeal. Seus filamentos internos de aetherite pulsavam em azul — não com a luz fria dos cristais comuns, mas com um brilho quente, quase vivo, que lembrava a chama de uma vela vista sob água.
 
-A frase era simples demais para ser verdade. E, como toda frase simples demais, carregava dentro de si a semente de algo maior — a semente do mito, do milagre, da lenda que as pessoas precisavam acreditar que existia num mundo que, com frequência, lhes parecia demasiado sombrio.
+Tronus estava ao lado de Valtheris, os olhos fixos no medidor.
 
-Em poucos dias, o *arauto do éter*²⁷ narrou em todos os *receptores de ressonância* do continente a versão oficial do evento:
+— Frequência do núcleo: 7,43 haelens. Canalizadores calibrados. Campo de ressonância estável. En Gesh... estamos prontos.
 
-*"Notícia extraordinária: a Guilda dos Arautos do Éter confirma que uma criança de cinco anos, residente no Orfanato Luminis em Velantis, Sylvaris, demonstrou uma coragem inexplicável ao entrar nas chamas de um incêndio na Fazenda Aldebar para salvar a pequena Mila Aldebar, de dezoito meses. A população local refere-se ao resgate como um verdadeiro milagre da primavera, enquanto a Guarda Costeira de Thalendris confirmou o salvamento, mas recusa-se a comentar sobre a natureza física do feito. O incêndio, segundo investigação preliminar, foi causado pelo colapso do núcleo de aetherite de uma ceifadeira agrícola. As vítimas foram identificadas como Elara e Martyn Aldebar e dois lavradores da propriedade."*
+Valtheris ergueu a mão.
 
-A transmissão não mencionou Lyris. Não mencionou a patrulha Aga Uru. Não mencionou o rastro de sangue nem a porta forçada. A história oficial era limpa, simples e heroica — e como toda história oficial limpa e simples, era uma versão editada da verdade.
+No terraço acima, *Aurelius* estava de pé diante do canalizador principal — um aparato maior que os demais, moldado em forma de concha, posicionado no ponto mais alto da torre. Sua voz seria a primeira a atravessar o continente pelo ar.
 
-No Orfanato Luminis, as crianças ouviram a transmissão no refeitório, em silêncio absoluto.
+Ele olhou para o horizonte. Sanctrum se estendia abaixo — as ruas de paralelepípedos brancos, as torres de cristal cintilando sob *Aurion* em seu declínio, o mar além das falésias pintado de laranja e roxo. Bandeiras dos *sete reinos* tremulavam nas praças — Sanctrum havia mandado hastear todas em sinal de união.
 
-Alyndra estava sentada na grama do pátio, Nyx no colo, Mila dormindo em um cobertor ao seu lado. As palavras do Arauto entravam nela como gotas de água em pedra — cada uma deixando uma marca que não desaparecia.
+Atrás dele, o *Conselho dos 12* observava em silêncio. *Selynis Thalassa* estava na extremidade da fila, os olhos percorrendo cada detalhe da torre com a atenção de quem busca falhas.
 
-*Alyndra. Orfanato Luminis. Sylvaris.*
+Aurelius respirou fundo.
 
-Seu nome. Sua idade. Onde morava.
+— Vamos — ele disse, e sua voz desceu pelo interior da torre até Valtheris, que a ouviu através de um tubo de ressonância de cobre.
 
-Tudo público.
+Valtheris tocou o núcleo.
 
-Kira apertou sua mão. Torvin olhava para ela com olhos arregalados, como se a visse pela primeira vez. Dravyn não disse nada — apenas abriu o caderno e começou a desenhar uma figura com asas de gelo, envolta em chamas que se curvavam como se fossem vivas.
+O cristal reagiu.
 
----
+Não com explosão, não com luz cegante, mas com um som — grave, contínuo, que começou no centro da torre e se expandiu para fora como uma onda. As paredes de cristal vibraram. Os canalizadores etéricos emitiram um zumbido agudo que subiu em frequência até ultrapassar o limite da audição humana.
 
-A exposição logo trouxe curiosos.
+E então, no topo da torre, o ar se partiu.
 
-O jovem repórter *Lysias Thyrion*²⁸ bateu à porta do orfanato quatro dias após a transmissão, com um caderno de anotações que parecia prestes a desintegrar-se de tantas folhas soltas, os óculos quebrados no meio da armação, e uma determinação que a experiência ainda não havia ensinado a moderar.
+Nada visível aconteceu. Nenhuma explosão, nenhum relâmpago. Mas os engenheiros de Fulmora que estavam nos andaimes sentiram — todos ao mesmo tempo — uma pressão no peito, como se a atmosfera tivesse ficado mais densa por uma fração de pulso.
 
-Ele era, por definição oficial da *Guilda dos Arautos do Éter*²⁹, um arauto em estágio — o que significava que suas matérias eram revisadas três vezes antes da publicação, que seu salário mal pagava o aluguel de um cômodo no distrito dos impressores de Velantis, e que ninguém, absolutamente ninguém, o levava a sério quando se aproximava com o bloco de notas erguido.
+Aurelius falou.
 
-Mas Lysias tinha algo que a maioria dos repórteres veteranos já havia perdido: a fome de quem ainda acredita que a verdade importa mais que o acesso.
+— Cidadãos de *Nova Aetherion* — sua voz grave e clara entrou no canalizador principal e foi transformada em um pulso etérico que viajou pelo ar a uma velocidade que só a luz podia igualar. — Hoje, pela primeira vez na história dos *sete reinos*, minha voz chega até vocês não em syras, não em daens, mas neste instante. O que vocês ouvem agora é o primeiro sussurro da *Rede de Ressonância de Aurion* — uma ponte de luz e cristal que liga cada capital do continente. De Sanctrum a *Zephyra*. De *Monte Pyralis* a *Fortaleza de Rocha*. Da *Torre do Céu* a *Maré de Cristal*. E até a *Cidadela Sombria*.
 
-*Eu estive na Assembleia*, ele pensava, ajustando os óculos enquanto esperava na portaria. *Eu vi Thaloris sorrir. Vi Varek Nythor fingir. Vi Selynis Thalassa votar contra a RRA com um argumento que ninguém quis ouvir. Mas nada daquilo se compara a uma criança que atravessa o fogo.*
+Ele fez uma pausa. O silêncio no topo da torre era absoluto — nem o vento ousava soprar.
 
-*Thar Elara* barrou sua entrada de forma implacável.
+— Esta rede não pertence a Sanctrum — Aurelius continuou. — Pertence a todos nós. A cada reino que construiu uma torre. A cada engenheiro que lapidou um cristal. A cada povo que acreditou que a distância não precisa ser solidão. A RRA é o começo de uma era — uma era em que nenhuma voz precisará se perder no vento. Nenhuma mensagem precisará cruzar mares sozinha. Nenhuma criança precisará esperar valens para saber se quem ela ama ainda está vivo.
 
-— Nenhuma entrevista — ela disse, a voz carregando o peso de mil batalhas que ela já havia travado para proteger as crianças sob seus cuidados. — As crianças deste orfanato não são atração de gazeta. Não são curiosidade de feira. São seres humanos que passaram por um trauma, e eu não vou permitir que ninguém — repórter, aristocrata ou Guardião Mestre — transforme a dor delas em entretenimento.
+Lysias, que observava do terraço inferior com o caderno aberto, parou de escrever. *Nenhuma criança*, pensou. *Dessa vez ele disse de novo.*
 
-Lysias tentou argumentar. Apresentou suas credenciais. Mencionou a Guilda. Citou o direito do povo de saber. Usou cada artifício que seus três valens de prática jornalística lhe haviam ensinado.
+Valtheris, na câmara do núcleo, sentiu as lágrimas antes de perceber que chorava. Tronus não chorou — mas seus dedos tremiam no medidor, e o traço do instrumento dançava de um lado para o outro como um coração acelerado.
 
-Elara não cedeu um segundo.
+O pulso de Aurelius viajou pelo éter em todas as direções. Em *Sylvaris*, onde a torre ainda não existia, o sinal passou como um sopro entre as nuvens. Em *Fulmora*, os canalizadores da Torre do Céu captaram a vibração e a armazenaram em seus cristais receptores — ainda passivos, ainda em construção, mas já ouvindo.
 
-Frustrado, mas persistente — pois a persistência era a única arma que a inexperiência não havia conseguido enferrujar —, Lysias encontrou uma elevação coberta de *giralis* perto dos muros leste do orfanato. Sentou-se na grama, abriu o caderno, e observou.
+A voz do Guardião Mestre atravessou o continente em menos de um pulso.
 
-Observou por mais de uma hora.
+E no ar, em um lugar entre o audível e o impossível, algo respondeu — não com palavras, mas com uma vibração tão antiga que nem Valtheris conseguia identificá-la. Uma frequência que não pertencia a nenhuma torre, a nenhum cristal, a nenhuma mão humana.
 
-Viu as crianças brincarem no pátio sob a supervisão das cuidadoras — as mais novas correndo em círculos, as mais velhas sentadas em grupos, o vaivém doméstico de uma instituição que tenta, contra todas as probabilidades, ser um lar. Viu Kira organizar uma fila para o refeitório com a eficiência de uma militar disfarçada de adolescente. Viu Dravyn sentado sozinho debaixo de uma *argentis*³⁰, desenhando.
+Ele a registrou no medidor. Depois apagou o registro.
 
-E viu Alyndra.
-
-A menina de cinco valens estava sentada na grama com Nyx no colo e Mila Aldebar dormindo num cobertor ao seu lado. Ela não brincava. Não corria. Apenas observava as outras crianças com uma serenidade que não combinava com sua idade — como se estivesse olhando para o mundo de fora de si mesma, através de uma janela que ninguém mais conseguia ver.
-
-Lysias escreveu em seu caderno:
-
-*"A criança não brinca. Observa. Há algo nos olhos dela que não é tristeza, não é medo, não é saudade — é uma profundidade. Como se ela já tivesse visto o fim de algo e soubesse que o fim não é o fim. Não consigo descrever melhor. Preciso voltar."*
-
-E depois, depois de muito pensar, riscou o parágrafo e escreveu outro:
-
-*"O verdadeiro segredo do Orfanato Luminis não é o resgate. Não é a criança que atravessou o fogo. O verdadeiro segredo está naqueles olhos castanhos — olhos que o fogo se recusou a queimar, olhos que carregam algo mais antigo do que qualquer criança de cinco anos deveria carregar. Eu não sei o que é. Mas vou descobrir."*
-
-Ele guardou o caderno, ajeitou os óculos, e voltou para Velantis com mais perguntas do que respostas — o que, para qualquer repórter que se prezasse, era o melhor sinal possível.
+Alguns segredos não eram dele para contar.
 
 ---
 
-Muito além dali — separada por léguas de estrada, por montanhas e mares e fronteiras que o poder humano havia erguido — uma outra pessoa ouviu a mesma notícia e a processou de uma forma muito diferente.
+## III. Sete Torres, sete reinos
 
-Na penumbra da *Câmara dos Sussurros*³¹, em *Sanctrum*³², *Selynis Thalassa*³³ leu o relatório completo sobre sua mesa de ébano — não a versão editada que o Arauto transmitiu ao continente, mas o relatório bruto, sem filtros, enviado pela Guarda Costeira de Thalendris através de um *velkora*³⁴ criptografado.
+**Zephyra — Sylvaris**
 
-Seus olhos percorreram cada linha com a eficiência de quem processa informação mais rápido do que a maioria das pessoas respira. A expressão não mudou — o rosto permaneceu uma máscara de calma profissional, os olhos percorrendo cada detalhe sem que um único músculo facial se movesse.
+A torre de Sylvaris foi a segunda a ser ativada.
 
-Mas quando terminou, seus dedos tamborilaram três vezes na mesa.
+Foi construída no ponto mais alto da plataforma central de Zephyra, onde o vento soprasse mais forte e mais constante — um presente da natureza que *Thaloris Ventaris* soube aproveitar. Os engenheiros de Fulmora trabalharam sob a supervisão direta de *Mestre Tronus*, que reclamava sem parar da instabilidade do vento, da umidade que enferrujava seus instrumentos, e do fato de que *Thaloris* insistia em visitar o canteiro de obras diariamente para "oferecer sugestões."
 
-*Colapso do núcleo de aetherite. Quatro vítimas. Uma criança de cinco anos atravessou as chamas usando cryonys. Criou uma barreira de gelo que suportou o impacto de uma viga mestra. Saiu ilesa com a criança.*
+— Senhor Ventaris — Tronus disse em um dia em que o Lugal Lil apareceu pela terceira vez naquela syra —, a estrutura de sustentação não pode ser modificada para acomodar um jardim suspenso na base.
 
-Ela cruzou os dados com o que já sabia — os registros de nascimento de Mespiria, o relatório de Lyris sobre a manifestação na casa de Melessa durante o inverno, as anotações sobre o cristal dourado que havia sido entregue a Alyndra no aniversário de cinco anos.
+— Apenas algumas trepadeiras — Thaloris respondeu, sorrindo. — Jardins suspensos são a marca de Zephyra. As pessoas precisam sentir que a torre é nossa, não uma imposição de Sanctrum.
 
-Três vezes. Em menos de um valen, uma criança de cinco valens havia manifestado cryonys em três situações distintas de estresse extremo. Cada manifestação mais poderosa que a anterior. Cada manifestação mais controlada.
+— É uma imposição de *Fulmora* — Tronus corrigiu, o tom seco. — Nós a projetamos. Nós a construímos.
 
-Isso não era acidente. Não era talento precoce. Não era o brilho comum que as academias elementares identificavam nas crianças de sete ou oito valens.
+— E Sanctrum a pagou — Thaloris respondeu, sem perder o sorriso. — Mas a torre fica em *meu* reino, Mestre Tronus. E em *meu* reino, as coisas têm raízes. As torres de *Aetherion* tinham jardins nos últimos andares. Por que as nossas seriam diferentes?
 
-Isso era algo que Selynis não tinha um nome para descrever — mas que reconhecia, com a certeza fria de quem passou a vida inteira catalogando ameaças, como a confirmação de que um *aethra* muito perigoso havia despertado no continente.
+Tronus não tinha resposta para isso. Ninguém sabia como eram as torres de Aetherion — exceto, talvez, os fragmentos de lendas que os *Seraphyen* deixaram nas pedras.
 
-Ela guardou o relatório em uma pasta e trancou-a na gaveta.
+A torre de Zephyra foi ativada no 28º dia. O vento uivou entre os canalizadores, e por um instante — um pulso apenas — o som que saiu da torre não foi um zumbido, mas uma melodia. Como se o próprio ar de Sylvaris estivesse cantando.
 
-*Não há como escondê-la agora*, pensou. *O nome está nos registros. Na voz do Arauto. Em cada canto do continente que tem um receptor. A questão não é mais se ela será encontrada — é quem a encontrará primeiro.*
+Thaloris ouviu e sorriu.
 
-*Preciso falar com Aurelius. Antes que seja tarde demais.*
+— Eu avisei — disse para *Vethran Noll*, que estava ao seu lado. — Raízes.
 
 ---
 
-**[FIM DO CAPÍTULO XII]**
+**Monte Pyralis — Pyralis**
+
+Nenhum reino apresentou mais resistência técnica do que Pyralis.
+
+Não por oposição política — o *Imperador Ignar Vulkarys* havia se abstido na votação da assembleia, mas não vetou a construção. A resistência veio da própria geografia. O *Monte Pyralis* era um vulcão ativo, cujas câmaras de magma subiam e desciam como o peito de um gigante dormindo. Instalar um cristal de aetherite puro em meio a rocha fundente exigia engenharia que nem Tronus considerava possível.
+
+— O calor degrada o cristal em três daens — Valtheris explicou a Aurelius, em uma reunião de emergência no 22º dia. — Precisamos de um *sintonizador*⁵ que possa recalibrar a frequência diariamente.
+
+— Há alguém capaz?
+
+— Em Fulmora, três. Em Sanctrum, eu. Mas nenhum vai querer viver em um vulcão.
+
+Foi a *Dumu Nin Elainy* quem resolveu o problema.
+
+A filha do Imperador — jovem, com olhos de âmbar que pareciam conter brasas — apareceu no canteiro de obras no 23º dia carregando uma caixa de lingotes que pesavam mais do que ela. Os engenheiros de Fulmora pararam de trabalhar para observá-la.
+
+— O que você quer? — o supervisor de obra perguntou.
+
+— Colocar isso aqui — ela indicou a base da torre inacabada. — É *obsidiana etérica*⁶. Encontrei no depósito das forjas. Meu pai guarda há valens sem saber o que é.
+
+Tronus examinou os lingotes. Seus olhos se arregalaram.
+
+— Isso... isso é um isolante natural para aetherite. Onde você achou?
+
+— Na forja do meu bisavô — Elainy respondeu, como se fosse óbvio. — Ele dizia que a pedra "não gostava de calor." Eu achava que ele estava delirando. Mas se serve para proteger o cristal do magma...
+
+— Serve — Tronus interrompeu, a voz carregada de algo entre reverência e frustração. — Perfeitamente. Mestre Tronus — ele disse para si mesmo, afundando o rosto nas mãos —, e você passou três valens tentando resolver esse problema.
+
+A torre de Monte Pyralis foi ativada no 30º dia. O magma rugiu abaixo da fundação, mas o núcleo etérico permaneceu frio e estável, envolto em obsidiana etérica. Quando o primeiro pulso atravessou a torre, o calor do vulcão diminuiu por um instante — como se a montanha mesma estivesse ouvindo.
+
+Ignar Vulkarys observou de seu trono na *Cidadela das Forjas*.
+
+— Interessante — disse, a voz como pedra rolando. — A menina é mais útil do que eu pensava.
+
+---
+
+**Fortaleza de Rocha — Terraxis**
+
+A torre de *Terraxis* foi a mais barata de construir. Não porque fosse menor ou mais simples, mas porque *Torgath* negociou cada bloco de aetherite como se fosse o último do mundo.
+
+— Cinquenta lingotes — o Lugal de Terraxis disse a Valtheris, batendo o punho na mesa de negociações. — Não um a mais. E quero direito de *extração prioritária* nas minas do norte.
+
+— O aetherite já é pago por Sanctrum — Valtheris respondeu, cansado.
+
+— Então Sanctrum pode pagar mais. — Torgath sorriu, um sorriso que não tinha calor. — Eu tenho as minas, En Gesh. Sanctrum tem o ouro. Quem precisa de quem?
+
+A negociação se estendeu por cinco daens. No final, Valtheris concordou com sessenta lingotes, direito de extração compartilhado no norte, e um acordo de manutenção que obrigava Fulmora a enviar técnicos a Terraxis duas vezes por nyra.
+
+Torgath assinou o contrato com a satisfação de um mercador que acaba de fechar o maior negócio de sua vida.
+
+— Mestre Ouric — ele disse ao conselheiro, após os engenheiros partirem. — Me diga: quanto valem sessenta lingotes de aetherite no mercado negro?
+
+Ouric fez um cálculo mental rápido.
+
+— Mais do que Sanctrum pagou.
+
+— É o que eu pensei. — Torgath recostou-se em sua cadeira de pele de *urrak*. — Guarde essa informação. Pode ser útil.
+
+A torre de Fortaleza de Rocha foi ativada no 33º dia. Sua estrutura era a mais robusta de todas — blocos de granito entrelaçados com veios de aetherite, projetada para suportar terremotos e avalanches. Quando o pulso inaugural atravessou a torre, o som que ela emitiu era grave e pesado — como o batimento de um coração de pedra.
+
+---
+
+**Torre do Céu — Fulmora**
+
+A torre de *Fulmora* foi a mais fácil de construir. Não surpreendentemente — era a capital dos engenheiros, e *Zerynthia* havia designado seus melhores técnicos para o projeto continental.
+
+Mas a torre de Fulmora também foi a mais ambiciosa.
+
+— Duas torres — Zerynthia anunciou a Tronus no 18º dia, desdobrando um projeto sobre a mesa de seu gabinete. — A principal e uma auxiliar. A auxiliar será um repetidor — amplifica o sinal e retransmite com alcance dobrado. Assim, se a principal cair, a auxiliar assume.
+
+— Duas torres em uma única capital? — Tronus franziu a testa. — Isso não estava no projeto original de Valtheris.
+
+— Valtheris projetou o mínimo necessário — Zerynthia respondeu, os olhos violeta brilhando com estática. — Eu projeto o suficiente. Sanctrum pode ter a maior torre. Fulmora terá a mais inteligente.
+
+A torre principal foi ativada no 26º dia, ao mesmo tempo em que Zephyra. A torre auxiliar — menor, mais discreta, escondida atrás dos laboratórios de engenharia — foi ativada silenciosamente no 29º, sem cerimônia, sem discurso, sem que ninguém fora de Fulmora soubesse.
+
+Tronus não aprovava. Mas quando questionou Zerynthia, ela respondeu:
+
+— Sanctrum tem o Guardião Mestre. *Thalassia* tem a frota. *Pyralis* tem o vulcão. O que Tem Fulmora? Tem engenharia. E eu não vou desperdiçar nossa única vantagem consultando democracias.
+
+---
+
+**Maré de Cristal — Thalassia**
+
+A torre de *Thalassia* foi a mais bonita.
+
+Construída parcialmente submersa — sua base descia vinte *passos* abaixo da superfície do mar, ancorada em recifes de *coral vibrátil*⁷ que os thalassianos cultivavam há gerações —, a torre de Maré de Cristal parecia crescer da água como uma concha gigante de cristal e madre-pérola. Seus canalizadores etéricos eram envoltos em coral vivo, que pulsava em tons de azul e verde ao ritmo das marés.
+
+A *Nin Kaelia Marethyus* supervisionou cada fase da construção pessoalmente.
+
+— A água é nosso elemento — ela disse aos engenheiros de Fulmora, que reclamavam da corrosão salina. — E o coral é nosso aetherite. Deixem que os construtores thalassianos trabalhem nas partes submersas. Vocês cuidam do que está acima da superfície.
+
+A torre foi ativada no 31º dia, durante a maré alta. Quando o pulso inaugural atravessou o núcleo, os recifes de coral vibrátil ao redor da base brilharam em uníssono — um anel de luz azul que se expandiu pela água como um sussurro óptico, visível a léguas de distância.
+
+Os pescadores thalassianos que viram o brilho pararam de remar e ficaram em silêncio. Depois, voltaram ao trabalho com um sorriso que nenhum deles soube explicar.
+
+Kaelia observou do cais principal, o manto de escamas prateadas balançando na brisa marítima.
+
+— Bonito — ela murmurou. — Agora vamos ver quanto tempo dura essa beleza.
+
+---
+
+## IV. A Caixa que Fala
+
+O *receptor de ressonância* chegou ao *Orfanato Luminis* em uma carroça puxada por dois *velroks*, no 26º dia da 6ª nyra, três daens depois da ativação da torre de Sanctrum e um daen depois de *Sylvaris* ter declarado feriado municipal em comemoração.
+
+A carroça parou no portão dos fundos — não na entrada principal, porque *Thar Elara* não queria que as crianças vissem a entrega antes do momento. Quatro mensageiros descarregaram uma caixa de madeira e latão do tamanho de uma arca de documentos, coberta por uma lona impermeável, e a carregaram até o pátio interno.
+
+*Elara* inspecionou a caixa com a seriedade de quem examina uma criança recém-nascida.
+
+— É menor do que eu imaginava — ela disse.
+
+— É maior do que parece — o mensageiro respondeu. — Quando ativada, o alcance cobre toda *Velantis* e arredores. Basta girar o cristal superior no sentido horário até a primeira resistência. A primeira transmissão oficial ainda não tem data, mas deve ser em *poucos daens*. Um manual de operação vem dentro da caixa.
+
+Ele se despediu. As rodas da carroça rangueram no caminho de terra, e o som se perdeu entre os campos de *Aethrys*.
+
+Elara desdobrou a lona.
+
+A caixa era uma peça de engenharia notável — mesmo para olhos que não entendiam de *aetherite*. O corpo era de madeira de *argentis* tratada, com veios prateados que ainda brilhavam sob a luz. As laterais eram de latão polido, com grades de ventilação em formato de ondas. No topo, um cristal azul do tamanho de um punho era montado sobre uma articulação que permitia girá-lo em qualquer direção. Na frente, uma abertura em formato de cone amplificava o som.
+
+Elara colocou a caixa sobre o pedestal de pedra que os funcionários haviam instalado no centro do pátio uma syra antes — sem explicar por quê, apenas dizendo que "algo importante chegaria."
+
+— *Lyris* — ela chamou.
+
+Lyris apareceu da cozinha, as mãos ainda molhadas de louça.
+
+— O Receptor — Elara disse, apontando para a caixa. — A RRA chegou ao orfanato.
+
+Lyris examinou o aparelho com olhos que viam mais do que madeira e latão. Viu os filamentos de aetherite dentro das grades de ventilação. Viu o mecanismo de sintonização sob o cristal. Viu o peso da engenharia envolvida em cada componente.
+
+E viu a implicação.
+
+Até aquele momento, o Orfanato Luminis estava conectado ao mundo apenas por mensageiros — daens de espera para cada notícia. Agora, qualquer transmissão feita em qualquer capital do continente chegaria ao pátio onde as crianças brincavam.
+
+Qualquer notícia. Incluindo notícias sobre elas.
+
+— Precisamos decidir onde instalar — Lyris disse, controlando a voz. — E quem pode operar.
+
+— As crianças maiores podem aprender — Elara respondeu. — *Kira* seria perfeita. Ela é responsável e gosta de novidades.
+
+Lyris concordou em silêncio. Mas fez uma nota mental: seria ela quem giraria o cristal pela primeira vez. E seria ela quem decidiria quando as crianças ouviam e quando não ouviam.
+
+---
+
+A primeira transmissão chegou no 28º dia, ao aebril.
+
+*Alyndra* estava sentada na grama do pátio, *Nyx* enroscada em seu colo como sempre, as orelhas prateadas móveis captando sons que a menina não conseguia identificar. Ao seu lado, *Kira* e *Torvin* discutiam sobre a caixa — Torvin achava que era uma máquina de guerra, Kira achava que era um instrumento musical.
+
+— É um receptor — Dravyn disse do canto, sem levantar os olhos do caderno.
+
+— O que é um receptor? — Torvin perguntou.
+
+— Não sei. Mas parece um receptor.
+
+O cristal no topo do Receptor pulsou em azul.
+
+Nyx ergueu a cabeça. Suas orelhas giraram para a caixa — não com curiosidade, mas com a atenção tensa de um animal que reconhece algo.
+
+E então a voz saiu.
+
+Não era a voz do *Arauto do Éter* — as transmissões regulares ainda não tinham começado. Era uma voz feminina, clara e formal, fazendo um teste de sinal.
+
+*"Aqui é torre de ressonância de Sanctrum, canal principal. Teste de frequência para receptores na região de Velantis, Sylvaris. Se alguém estiver ouvindo, por favor registre a intensidade do sinal."*
+
+As crianças pararam.
+
+Torvin abriu a boca. Kira agarrou o braço de Alyndra. Dravyn levantou os olhos do caderno pela primeira vez em daens.
+
+A voz veio de dentro da caixa. Clara como se a mulher estivesse ali, no pátio, invisível. As palavras eram perfeitas, sem distorção, sem eco, como se a distância entre Sanctrum e Velantis — centenas de *passos*, dois reinos, montanhas e rios — não existisse.
+
+— É mágica — Torvin sussurrou.
+
+— Não é mágica — Lyris respondeu, que apareceu silenciosamente atrás das crianças. — É engenharia. aetherite e cristal, pulsando na mesma frequência. A voz viaja pelo éter como ondas na água.
+
+— É lindo — Kira disse, os olhos arregalados. — É como se a mulher estivesse aqui.
+
+— Não está — Lyris respondeu. E sua voz carregava um peso que as crianças não perceberam. — Está a centenas de léguas daqui. E pode ouvir de volta, se soubermos como responder.
+
+*Alyndra* não disse nada.
+
+Ela estava olhando para a caixa com uma expressão que Lyris reconheceu — não maravilha, não medo, mas algo entre reconhecimento e saudade. Como se a menina já tivesse ouvido aquela voz antes. Como se a voz a estivesse procurando.
+
+O cristal pulsava em azul. Nyx chiou baixinho, as orelhas girando. E *Alyndra* sentiu algo — não no corpo, não na pele, mas em um lugar mais profundo que ambos, um lugar que não tinha nome.
+
+Como se uma corda fosse afinada dentro de seu peito, e a vibração da caixa estivesse tocando aquela corda em uma frequência que apenas ela percebia.
+
+Ela piscou. A sensação passou.
+
+— Alyndra? — Kira apertou seu braço. — Você está bem?
+
+— Estou — ela respondeu. — É só que... a voz é bonita.
+
+Lyris observou a menina por um longo momento. Depois, discretamente, analisou o Receptor com a atenção de quem procura falhas. Não encontrou nenhuma.
+
+Mas encontrou uma pergunta que não sabia formular.
+
+---
+
+## V. A Porta Oculta
+
+A *Cidadela Sombria* erguia-se nas montanhas negras do leste como uma cicatriz na paisagem.
+
+Ao contrário das outras capitais, onde as torres de Ressonância eram construídas em praças públicas, com engenheiros de Fulmora supervisionando cada etapa e governantes observando dos terraços, a torre de *Umbra* foi erguida nos fundos da Cidadela, atrás de muros que nenhum visitante estrangeiro jamais veria.
+
+O governador de Umbra, Varek Nythor, justificou a localização com uma cortesia que era quase uma performance.
+
+— As tempestades no leste são imprevisíveis — escreveu a Valtheris em uma mensagem oficial. — Uma torre exposta sofreria danos constantes. A Cidadela tem uma câmara interna protegida por rocha natural que é ideal para o equipamento.
+
+Valtheris enviou uma equipe de três engenheiros de Fulmora, liderados por um jovem *sintonizador* chamado *Caelum*, que chegou à Cidadela Sombria no 20º dia sem saber o que esperar.
+
+O que encontrou foi silêncio.
+
+A Cidadela Sombria não era como as outras capitais. Não havia mercados ao ar livre, nem praças com fontes, nem crianças correndo entre os pés de *argentis*. Havia corredores estreitos de pedra negra, ladeados por portas fechadas. Havia lanternas que emitiam luz alaranjada fraca, criando sombras que se moviam mesmo quando não havia vento. Havia guardas em cada esquina — não com armaduras ostensivas, mas com olhos que seguiam os visitantes como dedos em uma corda.
+
+Caelum e seus dois assistentes foram instalados em aposentos modestos na ala leste da Cidadela, e o trabalho começou no dia seguinte.
+
+A câmara designada para a torre era grande o suficiente — um espaço abobadado de quinze *passos* de altura, com paredes de rocha vulcânica que absorvia o som. Os engenheiros instalaram o núcleo etérico sobre o pedestal de pedra-sopro que Valtheris havia enviado, e conectaram os canalizadores aos pontos cardeais.
+
+No terceiro dia de trabalho, Caelum notou algo estranho.
+
+— O supervisor local — ele disse a seus assistentes em voz baixa, durante o intervalo do zênite. — O homem de olhos escuros que fica observando. Ele está aqui desde que chegamos.
+
+— Todos ficam observando — um assistente respondeu. — É *Umbra*. Eles observam tudo.
+
+— Ele não está observando a torre — Caelum insistiu. — Está observando *nós*. Especificamente, ele está observando *quando* deixamos a câmara. E quando voltamos.
+
+Os assistentes trocaram olhares.
+
+— Você acha que...
+
+— Não sei o que eu acho — Caelum interrompeu. — Mas a partir de hoje, nenhum de nós sai da câmara sem que outro fique. E eu vou trancar o núcleo com um selo de frequência pessoal antes de ir dormir. Se alguém tocar no cristal durante a nyxara, saberei.
+
+---
+
+O homem de olhos escuros chamava-se *Voran*.
+
+Era um agente de *Umbra* — não um soldado, não um diplomata, mas algo entre os dois. Sua função na Cidadela era supervisionar "segurança interna," um título vago que significava, na prática, que ele respondia diretamente aos mestres nas profundezas — os mesmos mestres que orientavam o governador Varek Nythor como um titereiro maneja suas marionetes.
+
+Voran recebia instruções por mensagens escritas em tinta que desaparecia após um velar. A mais recente dizia:
+
+*"A torre será completada. Seu núcleo, intacto. Mas antes do selo final, um ajuste será necessário. O *cristal-espelho*⁸ será instalado por nosso técnico no interior do canalizador sul. Ele copiará cada frequência que entrar e sair da torre e a retransmitirá para nosso receptor nas profundezas. Ninguém fora de Umbra saberá. Se o sintonizador de Fulmora descobrir, ele será "reassinalado" para outra região."*
+
+Voran queimou a mensagem e dispersou as cinzas pela janela.
+
+Na nyxara do 23º dia, quando Caelum e seus assistentes dormiam em seus aposentos trancados, três figuras encapuzadas entraram na câmara da torre. O técnico de Umbra — um homem magro com dedos longos que pareciam feitos para trabalho de precisão — carregava uma caixa menor que a palma de sua mão, selada com cera negra.
+
+Ele abriu a caixa. Dentro, um fragmento de cristal menor que uma unha — translúcido, quase invisível, com veios que brilhavam em um azul tão escuro que beirava o negro.
+
+O *cristal-espelho*.
+
+Com delicadeza cirúrgica, o técnico abriu o painel traseiro do canalizador sul — aquele que apontava para Sanctrum — e inseriu o fragmento no interior da engrenagem de aetherite, entre dois filamentos que pulsavam em azul claro.
+
+O cristal-espelho se fundiu com a estrutura.
+
+Não houve faíscas, não houve som. O fragmento simplesmente se tornou parte do canalizador, indistinguível dos outros componentes, pulsando na mesma frequência, absorvendo a mesma energia.
+
+Mas enquanto os outros canalizadores enviavam segundos em uma direção, o canalizador sul agora enviava em duas.
+
+O técnico recolheu suas ferramentas. As três figuras saíram da câmara. A porta se fechou atrás delas sem som.
+
+Na manhã seguinte, Caelum entrou na câmara e fez sua verificação habitual. O medidor de frequência não registrou nenhuma anomalia. O núcleo etérico pulsava em 7,43 haelens — perfeito. Os canalizadores estavam calibrados.
+
+Tudo parecia normal.
+
+Porque o cristal-espelho não alterava a frequência — ele a *refletia*. E nenhuma medição externa podia detectar um sinal que ia e voltava na mesma frequência, como um eco que se perde no som original.
+
+Caelum selou a câmara e informou Valtheris: "Torre de Umbra operacional. Sem anomalias."
+
+Valtheris registrou a confirmação em seu diário.
+
+E em algum lugar nas profundezas da Cidadela Sombria, um cristal menor que uma unha pulsava em azul escuro, copiando cada palavra que entrava e saía da rede — cada discurso, cada mensagem, cada segredo que os sete reinos compartilhavam pela ponte de cristal que havia acabado de construir.
+
+---
+
+## VI. A Era das Torres
+
+No 34º dia da 6ª nyra, as sete torres de ressonância estavam operacionais.
+
+Sanctrum. *Zephyra*. *Monte Pyralis*. *Fortaleza de Rocha*. *Torre do Céu*. *Maré de Cristal*. *Cidadela Sombria*.
+
+Sete torres em sete capitais, cada uma pulsando na mesma frequência, cada uma conectada às outras por fios invisíveis de luz etérica que atravessavam o continente como veias de um corpo colossal que acabava de despertar.
+
+Valtheris observava o mapa em seu gabinete — um mapa que ele próprio desenhara, com sete pontos luminosos marcando as posições das torres. Cada ponto pulsava em azul, sincronizado com os outros, como corações batendo em uníssono.
+
+— Sete — ele murmurou. — Sete torres. Sete segundos. Um continente.
+
+Tronus estava ao seu lado, o medidor na mão, os olhos cansados de valens de trabalho sem descanso.
+
+— A frequência está sincronizada em todas as sete — ele confirmou. — 7,43 haelens. Margem de erro: zero.
+
+— Zero?
+
+— Zero. Como se o núcleo de cada torre fosse o mesmo cristal.
+
+Valtheris sorriu — um sorriso cansado, mas genuíno.
+
+— Talvez sejam. Afinal, todos vieram da mesma fundação. A mesma era. A mesma mão que lapidou a primeira pedra de *Aetherion*.
+
+---
+
+Em Sanctrum, Aurelius transmitiu seu segundo discurso oficial — desta vez, para as sete torres simultaneamente.
+
+— Cidadãos de Nova Aetherion — sua voz ecoou em cada capital, em cada *receptor de ressonância* que houvesse sido instalado, em cada canto do continente onde o cristal pulsava. — A Rede de Ressonância de Aurion está completa. Sete torres conectam nossos reinos como nunca antes na história. A partir de hoje, a distância não é mais desculpa para o silêncio. A ignorância não é mais desculpa para a inação.
+
+Ele fez uma pausa.
+
+— Mas lembrem-se: toda luz projeta sombra. Toda ponte pode ser atravessada em ambas as direções. O que conecta também pode ser observado. O que ilumina também pode revelar. Usem esta rede com sabedoria. E cuidem uns dos outros — porque se não o fizerem, ninguém mais o fará.
+
+A transmissão terminou. O silêncio que se seguiu era o silêncio de um continente que acabara de ouvir a si mesmo pela primeira vez.
+
+---
+
+No Orfanato Luminis, as crianças ouviram o discurso de Aurelius em silêncio absoluto.
+
+O receptor de ressonância pulsava em azul suave no pátio, a voz do Guardião Meste saindo do cone amplificador com uma clareza que fazia parecer que ele estava ao lado delas. *Alyndra* estava sentada na grama, Nyx no colo, os olhos fixos na caixa de madeira e latão como se esperasse que ela fizesse algo mais — como se houvesse uma segunda camada naquele som, uma voz dentro da voz, que apenas ela podia perceber.
+
+Nyx chiou. Suas orelhas giraram.
+
+E *Alyndra* sentiu de novo aquela vibração — aquela corda afinando dentro do peito, aquele reconhecimento que não tinha nome. Mais forte desta vez. Como se a voz de Aurelius estivesse procurando alguém. Como se soubesse onde procurar.
+
+E por um instante — um pulso apenas — ela sentiu que a voz era para ela.
+
+Não as palavras. A voz.
+
+A vibração por trás das palavras.
+
+E então passou.
+
+— Ele fala bonito — Alyndra disse.
+
+— Ele fala como quem está assustado — Lyris respondeu do umbral da porta, sua voz baixa o suficiente para que apenas Alyndra ouvisse.
+
+Alyndra olhou para ela.
+
+— Assustado de quê?
+
+Lyris não respondeu. Mas seus olhos diziam: *De tudo.*
+
+---
+
+Na *Câmara dos Sussurros* de Sanctrum, *Selynis Thalassa* ouviu o discurso com os olhos fechados e os dedos tamborilando na mesa.
+
+Quando a transmissão terminou, ela abriu os olhos e disse para ninguém na sala:
+
+— Sete torres. Sete pontos de acesso. Sete portas.
+
+Ela se levantou e caminhou até a janela.
+
+— E uma delas — murmurou, olhando para o leste, na direção das montanhas negras de Umbra — foi construída onde ninguém podia ver.
+
+Ela escreveu uma mensagem cifrada e a selou com seu brasão pessoal.
+
+*"Investigar a torre de Umbra. Prioridade máxima. Enviar um sintonizador de confiança — não de Fulmora. Alguém que não possa ser comprado."*
+
+---
+
+Na Cidadela Sombria, o governador Varek Nythor ouviu o discurso de Aurelius sentado em seu gabinete escuro, as mãos cruzadas sobre o colo, o sorriso que não tocava seus olhos firmemente no lugar.
+
+Quando a voz do Guardião Mestre mencionou "toda ponte pode ser atravessada em ambas as direções," Varek Nythor inclinou-se para a frente.
+
+— Sábio — ele murmurou, a voz macia como seda. — O senhor sabe que as pontes têm duas mãos. Mas não sabe ainda que uma delas já é nossa.
+
+Ele acendeu uma vela negra — um gesto ritual que ninguém na Cidadela compreendia, mas que ninguém questionava — e a colocou sobre o mapa que cobria sua mesa. O mapa tinha sete pontos marcados em vermelho, um em cada capital.
+
+Sete torres. Sete portas.
+
+E atrás de uma delas, no canalizador sul de uma torre que ninguém vigiava de perto, um cristal menor que uma unha pulsava em azul escuro.
+
+Copiando tudo.
+
+Aguardando.
+
+---
+
+***[FIM DO CAPÍTULO XII]**
 
 ---
 
@@ -370,72 +566,20 @@ Ela guardou o relatório em uma pasta e trancou-a na gaveta.
 
 ## 📖 Glossário do Capítulo
 
-¹ **Thalia** — Curandeira de Mespiria; voluntária do Orfanato Luminis. Auxiliou Melessa Solynthr no nascimento de Alyndra e permaneceu próxima após a morte da parteira. Traz a notícia do incêndio ao orfanato.
+¹ **pedra-sopro** — Material de construção ancestral de origem *Seraphyen*; encontrado nas fundações das Torres de Aetherion. Pedra pálida e porosa que ressoa na frequência natural do aetherite, permitindo a interface entre o núcleo etérico das torres de ressonância e as fundações primordiais. Presente em todas as sete capitais, em diferentes quantidades.
 
-² **Orfanato Luminis** — Complexo fortificado nos arredores de Velantis; abrigo de Alyndra. Guardado por destacamento permanente de ~30 Aga Uru (Sentinelas do Alvorecer).
+² **medidor de frequência** — Instrumento portátil de origem fulmorana; visor de cristal com linhas azuis que indicam a frequência de ressonância do aetherite em haelens. Usado por engenheiros para calibrar torres e receptores da RRA.
 
-³ **Fazenda Aldebar** — Propriedade rural de Elara e Martyn Aldebar; destruída por incêndio após colapso do núcleo de aetherite de uma ceifadeira.
+³ **núcleo etérico** — Cristal octogonal singular de aetherite puro, do tamanho de um homem, que constitui o coração de cada torre de ressonância. Lapidado em formato octogonal por Valtheris, opera na frequência-base de 7,43 haelens. Instalado sobre pedestal de pedra-sopro, sintoniza-se automaticamente com as fundações de Aetherion.
 
-⁴ **Thar Elara** — Diretora do Orfanato Luminis. Mulher de disciplina militar e coração de mãe.
+⁴ **canalizador etérico** — Aparelho em forma de trompa posicionado no topo de cada torre de ressonância; converte pulsos etéricos do núcleo em ondas que se propagam pelo ar. Cada torre possui quatro canalizadores nos pontos cardeais, além de um canalizador principal (maior, em forma de concha) usado para transmissões oficiais. Feito de latão com filamentos internos de aetherite.
 
-⁵ **receptor de ressonância** — Caixa de madeira e latão com cristal pulsante; receptor doméstico da RRA. Capta pulsos etéricos e os converte em som. Três transmissões regulares ao dia.
+⁵ **sintonizador** — Técnico especializado em calibrar e manter a frequência dos núcleos etéricos e receptores de RRA. Formados principalmente em Fulmora. Habilidade rara: apenas cerca de vinte sintonizadores ativos existem em todo o continente.
 
-⁶ **nin aga** — Capitão da guarnição Aga Uru; comandante de patrulha.
+⁶ **obsidiana etérica** — Variedade rara de obsidiana com propriedades isolantes naturais contra aetherite. Encontrada em depósitos vulcânicos antigos de Pyralis. Usada como revestimento protetor em ambientes de calor extremo para preservar a integridade do cristal. Descoberta para esse fim pela Dumu Nin Elainy.
 
-⁷ **aethra** — Energia espiritual que permeia o mundo; base de tecnologias e manifestações elementares.
+⁷ **coral vibrátil** — Espécie de coral bio-luminescente cultivado pelos thalassianos há gerações. Reage a pulsos etéricos, emitindo luz azul synchronizada com a frequência da RRA. Usado como material de construção e decoração na torre de Maré de Cristal.
 
-⁸ **Aga Uru** — "Escudos da Tempestade"; guerreiros de elite de armadura prateada, força militar de Sylvaris. Comunicam-se por sinais durante patrulha. Juram proteger o povo, não o governante.
+⁸ **cristal-espelho** — Fragmento microscópico de cristal escuro desenvolvido em segredo por técnicos de Umbra. Quando inserido em um canalizador etérico, copia e retransmite cada frequência que entra e sai para um receptor oculto, sem alterar a frequência original — tornando-se indetectável por medidores convencionais. Instalado clandestinamente no canalizador sul da torre da Cidadela Sombria, permitindo a Umbra interceptar toda comunicação da RRA.
 
-⁹ **velrok** — Animal de grande porte, utilizado para montaria e tração.
-
-¹⁰ **colinas de Argentis** — Região montanhosa nos arredores de Velantis.
-
-¹¹ **aethrys** — Cereal dourado de cultivo extensivo em Sylvaris; base alimentar.
-
-¹² **Alyndra** — Protagonista; filha de Ayla e Aurelius; cinco anos; manifestou cryonys instintivo durante o resgate.
-
-¹³ **Nyx** — Lyrien prateado de Alyndra; companheiro empático.
-
-¹⁴ **Lyris** — Agente Nyctara enviada por Aurelius para proteger Alyndra; afinidade thermaris.
-
-¹⁵ **Nyctara** — Codinome de Lyris; "A Sombra de Sanctrum".
-
-¹⁶ **giralis** — Flor ornamental de pétalas iridescentes, muito cultivada em Sylvaris para fins decorativos e medicinais.
-
-¹⁷ **aetherite** — Mineral condutor etérico; base da engenharia etérica. Núcleos de aetherite alimentam ceifadeiras e outras máquinas. Possuem válvulas de segurança contra sobrecarga.
-
-¹⁸ **ceifadeira** — Máquina agrícola de colheita alimentada por núcleo de aetherite; converte pulsos etéricos em energia mecânica para cortar e processar plantações.
-
-¹⁹ **aerivas** — Trepadeiras delicadas de folhas prateadas, comuns em Sylvaris.
-
-²⁰ **Mila Aldebar** — Bebê de 18 meses resgatada por Alyndra na Fazenda Aldebar; filha de Elara e Martyn Aldebar.
-
-²¹ **cryonys** — Poder elemental de gelo; fusão de Água e Vento. Manifesta-se como cristais, temperaturas abaixo do normal, barreiras de gelo. Alyndra manifestou cryonys instintivo — forma visceral e descontrolada que surge sob estresse extremo.
-
-²² **thermaris** — Fusão elemental de Água + Fogo; vapor superaquecido. Afinidade de Lyris. Permite controle absoluto sobre temperatura e manipulação de água em estado gasoso/líquido.
-
-²³ **veleiro de estrada** — Carruagem que desliza sobre trilhos de aetherite polido.
-
-²⁴ **Thalendris** — Cidade costeira de Sylvaris.
-
-²⁵ **Escritório dos Arautos do Éter** — Redação da Guilda dos Arautos em Sanctrum.
-
-²⁶ **Zephyra** — Capital de Sylvaris; cidade flutuante.
-
-²⁷ **arauto do éter** — Locutor oficial da Guilda dos Arautos do Éter.
-
-²⁸ **Lysias Thyrion** — Jovem repórter da Guilda dos Arautos do Éter; determinado e perceptivo. Cobriu a Grande Assembleia (Cap 9). Busca a verdade por trás do "milagre" do Orfanato Luminis.
-
-²⁹ **Guilda dos Arautos do Éter** — Primeira organização de imprensa do continente.
-
-³⁰ **argentis** — Árvore de tronco prateado e copa vasta, comum em Sylvaris.
-
-³¹ **Câmara dos Sussurros** — Base de operações de Selynis Thalassa em Sanctrum.
-
-³² **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões e do Conselho dos 12.
-
-³³ **Selynis Thalassa** — mestra da informação; titular do Assento Ukam do Conselho dos 12. Cruza dados sobre Alyndra e reconhece o despertar de um aethra perigoso.
-
-³⁴ **velkora** — Dispositivo de comunicação/vigilância por cristal etérico.
-
-Nota: termos comuns de tempo (dia, noite, hora, segundo, manhã, ano, mês) são usados em português na narração.
+Nota: termos de tempo seguem o sistema canônico (valen, nyra, daen, velar, pulso, syra). Unidades terrestres foram substituídas conforme o glossário geral do livro.

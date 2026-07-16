@@ -6,435 +6,362 @@
 
 # CAPÍTULO XLVI
 
-# O Caminho de Thalassia
+# Reencontro
 
-*"Caminhar não é mover os pés. Caminhar é carregar o que foi e escolher não colocar no chão. Caminhar é o ato mais corajoso que existe — porque requer que você *olhe para frente* mesmo quando tudo que ama está atrás."*
+*"A volta não é o contrário da partida. A volta é o reconhecimento de que o que foi partido nunca mais estará inteiro — e que, mesmo assim, ainda vale a pena voltar."*
 — Fragmento dos *Cantos de Adormecimento*¹, compilação atribuída ao Ciclo das *Giralis*² Negras
 
 ---
 
-## I. O Que Sobreviveu
+## I. O Despertar em Terras Estranhas
 
-O orfanato estava de pé.
+Alyndra⁷ acordou sem saber onde estava.
 
-Não *inteiro* — de pé. A diferença entre inteiro e de pé é a diferença entre uma casa e um *refúgio*, entre um edifício e uma *promessa*, entre o que foi construído por mãos e o que é mantido por *vontade*. As paredes leste e norte estavam rachadas — não desabadas, *rachadas*, como se a estrutura tivesse *absorvido* o impacto do que aconteceu e tivesse decidido que rachar era melhor do que quebrar. O telhado parcialmente desabado deixava entrar a luz do *Aurion*³ em feixes diagonais que pintavam o piso de *aethrys*⁴ com listras douradas e brancas, como se o céu estivesse *desenhando* dentro do orfanato.
+Não foi um despertar suave — foi um *retorno*. Como se a consciência tivesse estado mergulhada em água gelada e estivesse sendo *puxada* para a superfície, lentamente, dolorosamente, cada membro do corpo protestando contra o movimento, cada segundo de percepção chegando como fragmento, como caco de algo que outrora foi inteiro e que agora estava *quebrado* em pedaços que não se encaixavam.
 
-Mas os alicerces estavam *intactos*.
+O teto era branco.
 
-Os alicerces — as fundações de pedra que Melessa⁵ Solynthr tinha visto serem colocadas quando era jovem, que tinham *sobrevivido* a milênios de clima e a tempestades de *aethra*⁷ e à passagem de milhares de crianças que tinham vivido dentro daqueles muros — estavam intactos. E os alicerces eram o que importava. As paredes eram *matéria*. Os telhados eram *engenharia*. Os alicerces eram *promessa* — a promessa de que aquele lugar existiria *não importa o que acontecesse*, de que o orfanato era mais que um edifício, era uma *ideia*, e ideias não podem ser destruídas por *nihilarys*⁸ ou aberrações ou conspirações.
+Não o branco do Orfanato Luminis⁸ — aquele branco amarelado das paredes pintadas com tinta fina que descascava nas quinas, que tinha cheiro de cera velha e pano úmido, aquele branco que Alyndra⁷ conhecia desde os quatro valens e que era tão familiar quanto o próprio rosto. Este era um branco *diferente* — liso, *imaculado*, o branco de *aethrys*⁶ polido, o branco que pertencia a *Sanctrum*⁹, à Fortaleza Branca, ao coração do poder elemental de Alyndra.
 
-Alyndra⁹ entrou primeiro.
+Alyndra⁷ piscou.
 
-Não porque fosse a mais corajosa — porque era a que *precisava* entrar primeiro. Os outros a seguiriam — Lyris¹⁰ atrás dela, Kira¹¹ ao lado, Dravyn¹² e Tomas¹³ e Mila¹⁷ — mas alguém precisava *abrir* a porta, e Alyndra⁹ era quem *abria* portas no orfanato, era quem entrava primeiro, era quem *verificava* se o mundo era seguro antes de deixar os outros entrarem.
+Os olhos demoraram para focar — não porque a luz fosse forte, porque a *mente* estava lenta, como se os pensamentos estivessem navegando em *cryonys*¹⁰, cada ideia se movendo com a lentidão de algo que quase *congelou*. A visão se ajustou aos poucos: o teto de *aethrys*⁶, as paredes lisas, uma janela retangular por onde entrava a luz dourada do *Aurion*¹¹, uma mesa de pedra ao lado da cama, um jarro de água, uma caneca, uma bandeja com alimentos que ela não reconheceu — raízes, sementes, algo que parecia *Giralis*² seca.
 
-A porta não precisou ser aberta — tinha sido *arrancada* durante o ataque. Os *nihilarys*⁸ e os mercenários de *Umbra*¹⁸ não tinham tido tempo ou interesse em destruir portas — tinham passado *por cima*, como inundação passa por cima de uma barreira, como o *cryonys*¹⁴ passa por cima de tudo que é *quente*. A porta jazia no chão do corredor, os *gonzos* de ferro arrancados das dobradiças, a madeira rachada em três pedaços que ninguém tinha recolhido.
+O corpo *doía*.
 
-Alyndra⁹ *pisou* na porta.
+Não uma dor aguda, localizada, o tipo de dor que indica uma ferida específica. Era uma dor *difusa* — nas articulações, nos músculos, nos ossos, como se o corpo tivesse sido *desmontado* e *remontado* e algo não tivesse encaixado direito, como se os dias de inconsciência tivessem deixado marcas não na pele mas na *estrutura*, nas fibras, no *tecido* do que Alyndra⁷ era feita.
 
-Não por cima — *em cima*. Os pés descalços — porque Alyndra⁹ tinha perdido os sapatos durante o sequestro e ninguém tinha pensado em lhe dar outros — tocaram a madeira rachada. A superfície estava *áspera*, farpas de madeira pinicando a sola, e o toque foi *elétrico*, como se a madeira fosse um *condutor* e o que passava por ele não fosse eletricidade mas *memória*, a memória de milhares de vezes que Alyndra⁹ tinha atravessado aquela porta — de aebril, de manhã, de *ante-aurion*²⁰, com Nyx¹⁵ pulando ao lado, com Kira¹¹ chamando do refeitório, com Dravyn¹² desenhando no corredor, com a vida acontecendo *dentro* daqueles muros como a vida acontece em qualquer lugar onde crianças crescem — com ruído, com bagunça, com *alegria*.
+E havia algo mais.
 
-O refeitório estava *vazio*.
+Algo que não era dor física, que não era cansaço, que não era a desorientação de acordar em um lugar desconhecido. Era uma *ausência* — um espaço vazio no peito, no centro do corpo, onde algo costumava *estar* e agora não estava. Alyndra⁷ tentou identificar o que faltava. Tocou o peito com as mãos — a mão esquerda encontrando o tecido de uma túnica limpa que não era sua, a mão direita buscando instintivamente algo que *não estava ali*.
 
-Não vazio de objetos — vazio de *gente*. As mesas estavam onde sempre tinham estado, as cadeiras alinhadas, o balcão da cozinha ao fundo com as canecas de barro empilhadas como sempre. Mas as paredes — as paredes tinham *marcas*. Marcas de *aethra*⁷ residual, manchas de *cryonys*¹⁴ que tinham derretido, rachaduras que não eram de impacto mas de *temperatura*, como se algo muito *quente* e algo muito *frio* tivessem se *encontrado* ali e a parede tivesse *absorvido* o choque.
+Nyx¹².
 
-Kira¹¹ encontrou os desenhos.
+O nome surgiu na mente como um *eco* — não como lembrança, como *saudade*, como a dor de um membro fantasma que continua doendo depois que o membro foi cortado. Nyx¹² — o *lyrien*¹³ de pelagem prateada, o corpinho translúcido e brilhante que pulsava com uma luz azulada que era a luz mais *viva* que Alyndra⁷ conhecia, o companheiro que dormia ao lado dela desde os primeiros valens no orfanato, que a seguia como uma sombra luminosa, que *brilhava* quando Alyndra⁷ estava feliz e *pulsava* quando Alyndra⁷ estava com medo e *crescia* quando Alyndra⁷ precisava de proteção.
 
-Não todos — *alguns*. Dravyn¹² tinha coberto as paredes do corredor leste com desenhos durante valens, centenas de desenhos, retratos e paisagens e criaturas imaginárias que transformavam o corredor em uma galeria que os adultos *toleravam* e as crianças *adoravam*. Muitos estavam *destruídos* — a parede rachada os tinha dividido em fragmentos, os pedaços de *aethrys*⁷ cobertos com giz que agora era pó. Mas alguns *sobreviveram* — três desenhos intactos na parede sul, protegidos pelo ângulo em que estavam, escondidos da destruição como sementes escondidas sob a terra.
+Nyx¹² não estava ali.
 
-Um era um retrato do orfanato visto de cima — a perspectiva de um *lyrien*¹³, como se Dravyn¹² tivesse imaginado o que Nyx¹⁵ via quando voava sobre o telhado. O segundo era um desenho de *Giralis*² — as pétalas translúcidas detalhadas com uma precisão que era *absurda* para a idade de Dravyn¹². O terceiro era um retrato de Alyndra⁹ — o perfil, os olhos fechados, as mãos vazias, e ao lado, menor, prateado, *brilhante* — Nyx¹⁵.
+A ausência *pesava* — pesava no peito como uma pedra, como a *Manopla da Vinculação*¹⁴ pesa no pulso de Aurelius, como o mundo inteiro pesa nos ombros de quem sabe que algo *acabou*. E Alyndra⁷ *sabia* — não sabia como, não sabia por que, mas o corpo sabia antes que a mente, e o corpo dizia que Nyx¹² estava *morta*.
 
-Alyndra⁹ olhou para o terceiro desenho.
+Os fragmentos vieram em *onda*.
 
-E não disse nada. Não porque não tivesse o que dizer — porque o que tinha a dizer era *grande demais* para caber em palavras, e as palavras, quando são insuficientes, são *insulto* ao que se sente.
+Não uma memória inteira — *fragmentos*. Gelo. Muito gelo. O frio absoluto do *cryonys*¹⁰ expandindo pelo corpo como uma inundação, como algo que está dentro e que *precisa* sair, e a sensação de ser ao mesmo tempo *quem ela era* e algo *maior*, algo que não tinha nome e que não cabia no corpo de cinco valens. Os olhos da aberração — dezesseis olhos, negros e prateados, focados nela com uma intensidade que era *fome*. Uma forma prateada passando entre suas pernas — pequena, frágil, do tamanho de uma bola — e depois *escuridão*. Não a escuridão da nyxara, não a escuridão do sono — a escuridão do *nada*, do vazio absoluto, do lugar onde as coisas que morrem *vão*.
 
-Tomas¹³ encontrou suas pedras.
+Alyndra⁷ fechou os olhos.
 
-Três. De vinte e sete. As outras estavam *perdidas* — provavelmente durante o ataque, quando o caos tinha varrido o orfanato como um *velrok*¹⁶ arranca a vegetação, e as pedras que Tomas¹³ tinha contado e recolhido e organizado durante valens tinham sido *espalhadas* pelo chão como se o acaso tivesse decidido que vinte e quatro pedras lisas eram *dispensáveis*. Tomas¹³ segurou as três que restavam — uma branca, uma cinza, uma com veios azuis — e *não chorou*. Não porque não quisesse — porque Tomas¹³ tinha *terminado* de chorar. Havia dias em que Tomas¹³ tinha chorado *tudo*, e agora o que restava era a aceitação de que três pedras eram *suficientes*, porque o que as pedras representavam não era contagem, era *ordem*, e a ordem existe mesmo quando faltam pedaços.
+E *chorou*.
 
-Mila¹⁷ encontrou a *Giralis*².
+Não um choro de desespero — um choro *seco*, silencioso, o tipo de choro que acontece quando não há mais lágrimas para chorar, quando o corpo já despendeu toda a umidade que tinha e o que sobra é apenas o *movimento* — os ombros tremendo, a boca se contraindo, o ar entrando e saindo em *sopros* que eram mais espasmos que respiração. Alyndra⁷ chorou por Nyx¹², pelo *lyrien*¹³ que tinha se *colocado* entre ela e a aberração, que tinha *atacado* algo que era imensamente maior, que tinha *morrido* defendendo alguém que amava.
 
-No jardim — o pedaço de terra que ficava atrás do orfanato, onde Melessa⁵ tinha plantado ervas e onde as crianças maiores cultivavam *Giralis*² como exercício de paciência e cuidado — no meio da destruição, no solo revolvido e nas cinzas do que tinha sido uma cerca baixa de madeira, havia uma *Giralis*². Viva. Com as pétalas translúcidas abertas para o *Aurion*³, brilhando com uma luz própria que era delicada e *obstinada*, como se a flor soubesse que tudo ao redor tinha sido destruído e tivesse *decidido* florescer mesmo assim.
+Nyx¹² não tinha medo. Nyx¹² era feito de *cryonys*¹⁰ — não sentia medo. Sentia *lealdade*. E a lealdade de Nyx¹² era tão grande, tão *absoluta*, tão *simples* — não era uma escolha, era uma *natureza*, assim como o gelo congela e a luz brilha, Nyx¹² protegia — que a criatura tinha se movido sem hesitar, sem calcular, sem *pensar*, porque pensar era algo que os *lyriens*¹³ não faziam quando quem amam está em perigo.
 
-Mila¹⁷ *olhou* para a flor.
+E agora Nyx¹² era *nada*.
 
-E a flor *olhou* de volta — não literalmente, as *Giralis*² não têm olhos, mas a luz que emanava das pétalas era *direcionada*, era *intencional*, era como se a flor estivesse *dizendo* algo que só Mila¹⁷ podia *ouvir*.
-
-— Ela *sobreviveu* — Mila¹⁷ disse, e a voz era um sussurro que carregava *tudo* — todo o medo, toda a perda, toda a esperança de uma criança de dois valens que está vendo a primeira coisa bonita que viu desde o ataque.
-
-E Alyndra⁹ — que estava ao lado de Mila¹⁷, que tinha os olhos fixos na flor, que sentia o *cryonys*¹⁴ adormecido nas veias *reconhecer* algo na pétala translúcida, como se a flor fosse feita da mesma substância que ela carregava — *tocou* a *Giralis*².
-
-O toque foi leve — os dedos de Alyndra⁹ nas pétalas, um contato tão suave quanto o *cryonys*¹⁴ permite. E a flor *brilhou* — não mais, não com intensidade, com uma *resposta*, um aceno de reconhecimento, como se a *Giralis*² soubesse quem a tocava e *aprovasse*.
-
-Kira¹¹ tirou uma semente do bolso.
-
-— Eu guardei — Kira¹¹ disse, e a voz era firme, prática, a voz de quem planeja para o futuro porque o futuro é *tudo* que resta. — Antes do ataque. Plantei três, só uma nasceu. Essa.
-
-Kira¹¹ colocou a semente na mão de Mila¹⁷. Mila¹⁷ olhou para a semente — pequena, redonda, marrom — e depois para a flor, e depois para Kira¹¹, e depois para Alyndra⁹. E *entendeu*. Entendeu que a vida *continua* — não apesar da destruição, *por causa* da destruição, porque quando tudo é arrancado, o que sobra é o que *importa*, e o que importa são as sementes, e as crianças, e as flores que florescem mesmo quando o mundo ao redor é cinzas.
+Uma porta se abriu.
 
 ---
 
-## II. A Casa de Melessa Solynthr
+## II. Os Rostos Conhecidos
 
-A jornada de despedida rumo à costa de Thalassia começou com um desvio necessário. Antes de seguirem para o porto, elas deixaram os limites de Velantis e seguiram pela estrada de terra que serpenteava até a vila de Mespiria³⁸. Foi ali, naquele vale cercado por colinas, que a infância de Alyndra⁹ tomou forma. A casa de Melessa⁵, embora distante do orfanato de Velantis em léguas físicas, parecia incrivelmente próxima na geografia da memória. Era uma estrutura pequena — dois aposentos e uma cozinha, um telhado de telhas de barro que a neve de *Sylvaris*²⁵ cobria a cada inverno, e uma porta de madeira que rangia quando era aberta e que *não rangeu* quando Alyndra⁹ a tocou, como se a casa soubesse quem era e tivesse *decidido* ser silenciosa.
+Lyris¹⁶ entrou primeiro.
 
-A porta não estava trancada.
+A figura que apareceu na porta era *diferente* da Alyndra⁷ lembrava — não no rosto, o rosto era o mesmo, as feições firmes, os olhos verdes, a cicatriz no maxilar que era marca de uma batalha que Lyris¹⁶ nunca contou por completo. O que era diferente era o *estado* — Lyris¹⁶ estava *gasta*, como um pano que foi esfregado demais, como uma *argenis*¹⁷ que sobreviveu a uma tempestade e perdeu metade dos galhos mas continua de pé. Os olhos tinham sombras — não as sombras de quem dormiu mal, as sombras de quem *viveu* algo que deixou marcas por dentro. Os cabelos, que sempre estiveram presos com precisão militar, estavam soltos, caindo pelos ombros como se Lyris¹⁶ tivesse esquecido que existiam.
 
-Não porque alguém tivesse *destrancado* — porque nunca tinha sido trancada. Melessa⁵ não acreditava em trancas. Dizia: *"O que precisa ser protegido por tranca já está perdido. O que é *de verdade* não precisa de tranca — precisa de amor. E amor não tem fechadura."* Alyndra⁹ lembrava dessa frase. Lembrava de muitas frases de Melessa⁵ — frases que pareciam *simples* e que eram *profundas*, como poços que parecem rasos até que você jogue uma pedra e descubra que o fundo está *longe*.
+E os olhos — os olhos de Lyris¹⁶ *brilhavam*.
 
-Alyndra⁹ entrou.
+Não com *aethra*¹⁸, não com *Thermaris*¹⁹, não com poder. Com *lágrimas*. Lágrimas que Lyris¹⁶ não chorava — *nunca* chorava — desde que tinha oito valens, desde que a mãe morreu, desde que aprendera que chorar era *fraqueza* e fraqueza era *morte*. E agora, na porta da câmara médica de Sanctrum⁹, Lyris¹⁶ chorava, e as lágrimas corriam pelas cicatrizes e pelas sombras e pela exaustão e *caíam* no chão de *aethrys*⁶ branco.
 
-O cheiro a atingiu *primeiro*.
+— Alyndra — Lyris¹⁶ disse, e a voz era um sussurro, um sopro, quase nada — mas o "nada" continha *tudo*, continha dias de medo e meses de busca e valens de cuidado e a promessa que Lyris¹⁶ tinha feito a Aurelius²⁰ e a si mesma e ao mundo inteiro de que aquela garota *sobreviveria*.
 
-Não o cheiro de *pó* ou de *abandono* — o cheiro de *pão*. Melessa⁵ fazia pão. Fazia pão *toda nyxara*²², antes de dormir, quando o orfanato estava quieto e as crianças dormiam e o único som era o som da massa sendo sovada e do forno aquecendo. O cheiro era *familiar* — tão familiar quanto o rosto da própria mãe, tão familiar quanto o som do próprio nome. E o cheiro *não deveria estar ali* — a casa estava abandonada há valens, o forno estava frio, não havia pão desde meses, mas o cheiro *persistia*, impregnado nas paredes de pedra, nos móveis de madeira, nos *tecidos* que Melessa⁵ tinha tecido com as próprias mãos.
+Alyndra⁷ olhou.
 
-Alyndra⁹ *inspirou*.
+E Lyris¹⁶ olhou.
 
-E o cheiro trouxe *tudo* — trouxe as manhãs em que acordava com o aroma de pão fresco subindo pelas escadas, trouxe as Nyxaras em que sentava no colo de Melessa⁵ enquanto a velha contava histórias que não eram de livros mas de *vida*, trouxe os dias de doença em que Melessa⁵, mesmo fraca, mesmo com o corpo *desistindo*, continuava fazendo pão porque "crianças precisam de pão e eu não vou morrer sem fazer pão pelo menos mais um mês".
+E no olhar — que durou um segundo, dois, três, um segundo que continha um mês inteiro de sentimentos — havia algo que não precisava de palavras. Alyndra⁷ *via* — via as sombras, via as cicatrizes, via a exaustão, via uma mulher que tinha lutado e sangrado e quase morrido *por ela*. E Lyris¹⁶ *via* — via os olhos de Alyndra⁷, os olhos que eram *secos*, sem *cryonys*¹⁰, sem brilho, sem a luminosidade azul que havia surgido durante o despertar e que agora estava *apagada*, como se a luz de Nyx¹² tivesse levado consigo não apenas a vida do *lyrien*¹³ mas também algo de Alyndra⁷.
 
-A sala estava como Melessa⁵ tinha deixado.
+Lyris¹⁶ atravessou a câmara em três passos e *abraçou* Alyndra⁷.
 
-A mesa — redonda, com uma perna mais curta que as outras que fazia a superfície *tombar* para a esquerda — estava no centro. Sobre a mesa, um pano de linho que tinha sido branco e que agora era amarelado pelo tempo. Ao lado do pano, uma caneca de barro com uma rachadura no fundo — a caneca que Melessa⁵ usava para o chá de *Giralis*². No canto da sala, uma *argenis*²⁰ de madeira — não uma *argenis*²⁰ de verdade, um banco esculpido na forma de *argenis*²⁰, que Melessa⁵ usava como estante e que estava coberto de livros de capa dura com títulos que Alyndra⁹ nunca leu porque Melessa⁵ não *sabia* ler mas *gostava* de ter livros, e os livros eram *decoração* e a decoração era *fé* — fé no conhecimento, fé no futuro, fé nas crianças que iriam crescer e aprender a ler e *entender* o que estava naqueles livros.
+Não um abraço gentil — um abraço *desesperado*, o abraço de alguém que quase perdeu o que mais importava e que agora está *segurando* como se o segurar pudesse *consertar* o que foi quebrado, como se os braços pudessem *reconstruir* os dias de guerra, como se o calor de um corpo pudesse *derreter* o gelo que tinha se formado dentro de Alyndra⁷ durante a batalha e que não tinha derretido desde então.
 
-Alyndra⁹ tocou a caneca.
+Alyndra⁷ *chorou* de novo.
 
-A caneca de barro estava *fria* — fria como a morte, fria como o *cryonys*¹⁴, fria como o lugar dentro do peito onde Nyx¹⁵ costumava pulsar. O barro era *áspero* sob os dedos, com imperfeições que as mãos de Melessa⁵ tinham deixado na modelagem — marcas de dedos, um arranhão no fundo, a rachadura que Melessa⁵ nunca tinha consertado porque "uma caneca com rachadura tem *caráter*, Alyndra, e *caráter* é mais importante que perfeição".
+Desta vez não era um choro seco — era *água*, as lágrimas que o corpo tinha guardado, as lágrimas que tinham ficado *presas* durante a inconsciência, as lágrimas que eram por Nyx¹² e pelo medo e pela dor e pela sensação de acordar em um lugar desconhecido e descobrir que algo que amava tinha *morrido*.
 
-Lyris¹⁰ entrou atrás de Alyndra⁹.
+— Eu sei — Lyris¹⁶ sussurrou, e a voz era quente contra o ouvido de Alyndra⁷, e as mãos de Lyris¹⁶ estavam nas costas de Alyndra⁷, e os dedos encontraram as *omoplatas* e *apertaram*, como se Lyris¹⁶ estivesse segurando não uma garota mas um *mundo*. — Eu sei. Eu sei sobre Nyx¹². Eu *vi*.
 
-Não disse nada. Não *precisava*. As duas mulheres — a guardiã e a filha de quem ela cuidava, a agente de *Sanctrum*²³ e a herdeira de *Thalassia*²⁴, a mulher que tinha jurado proteger e a garota que tinha *sobrevivido* — ficaram de pé na sala de Melessa⁵, cercadas pelos cheiros e pelos objetos e pelas *sombras* de uma vida que tinha sido *boa*, e que tinha *acabado*, e que permanecia naquelas paredes como um eco permanece em uma caverna — fraco, distante, mas *presente*.
+E Alyndra⁷ *sentiu* — sentiu que não estava sozinha, sentiu que mesmo com Nyx¹² morta e o corpo doído e o *cryonys*¹⁰ silenciado e o mundo de cabeça para baixo, havia *alguém* que estava ali, que tinha estado ali desde o início, que tinha vindo do orfanato até os confins de *Fulmora*²¹ e que tinha *voltado* com ela, e essa presença — essa presença era *suficiente*.
 
-— Ela fazia pão aqui — Alyndra⁹ disse, e a voz era um *sussurro*, como se falar alto fosse *profanar* o silêncio sagrado da casa de Melessa⁵.
+Por agora.
 
-— Eu sei — Lyris¹⁰ respondeu.
+Suficiente.
 
-— Eu não sabia que ela tinha deixado a caneca — Alyndra⁹ continuou, e a voz agora era *trêmula*, não de frio, de *tudo*, de todas as coisas que Alyndra⁹ não sabia sobre Melessa⁵ e que nunca mais poderia *perguntar*, porque Melessa⁵ estava *morta*, e os mortos não respondem perguntas, e o que restava era uma caneca rachada e um pano amarelado e um banco em forma de *argenis*²⁰ e o *cheiro* de pão que não ia passar.
+— Como está ele? — Alyndra⁷ perguntou, e a voz era pequena, tão pequena quanto Nyx¹², tão pequena quanto a esperança de que a resposta fosse diferente do que o corpo já sabia.
 
-Lyris¹⁰ colocou a mão no ombro de Alyndra⁹.
+Lyris¹⁶ não respondeu.
 
-E ficaram ali — no silêncio, no cheiro, na *memória* — por horas que pareceram dias e que foram segundos e que foram *tudo* e *nada* ao mesmo tempo, porque o tempo não existe quando se está diante de algo que é *maior* que o tempo, e a casa de Melessa⁵ era *maior* que o tempo, era *amor* materializado em madeira e barro e pão.
+A ausência de resposta era a resposta. E Alyndra⁷ *entendeu* — não com a mente, com o *coração*, com o lugar dentro do peito onde Nyx¹² costumava pulsar e que agora estava *vazio*, um vazio que era do tamanho de um *lyrien*¹² prateado e que *pesava* como uma montanha.
 
-Alyndra⁹ tocou o umbral da porta ao sair.
+Lyris¹⁶ segurou Alyndra⁷ durante horas inteiros.
 
-O gesto foi *deliberado* — os dedos tocando a madeira como quem toca a testa de alguém que dorme, como quem *acaricia* pela última vez. E no gesto havia um *adeus* — não o adeus dramático dos bardos, não o adeus das histórias de guerra, o adeus de uma garota que está dizendo *obrigada* a uma casa que foi mais que uma casa, que foi *lar*, que foi *segurança*, que foi *Melessa*.
-
-A porta rangeu quando se fechou.
-
-E Alyndra⁹ *sorriu*. Um sorriso pequeno, dolorido, *verdadeiro*. O tipo de sorriso que existe quando se está *chegando ao fim* e se percebe que o fim é *bonito* e *triste* e *necessário* e que *não havia outro caminho*.
+Não falaram. Não precisavam. As palavras eram *insuficientes* para o que existia entre elas — a garota que tinha perdido o *lyrien*¹³ e a mulher que tinha quase perdido a garota. O silêncio era a única linguagem que cabia naquela câmara branca de *Sanctrum⁹*, e o silêncio dizia: *eu estou aqui. Eu estou aqui. Eu estou aqui.*
 
 ---
 
-## III. O Quarto de Ayla
+## III. Os Rostos que Ficaram
 
-A casa ficava a dez passos da de Melessa⁵.
+A porta se abriu de novo.
 
-Não dez passos de distância — dez passos de *história*. A casa de Melessa⁵ era o *presente*, o aqui, o agora. A casa ao lado era o *passado* — o que existia *antes*, o que Alyndra⁹ não conhecia, o que pertencia a uma mulher que tinha *morrido* para que Alyndra⁹ pudesse *viver*.
+Não Lyris¹⁶ — *vozes*. Múltiplas, sobrepostas, em cacofonia de sons que eram meio riso meio choro meio *alívio*, e os sons não faziam sentido individualmente mas faziam sentido *juntos*, como as notas de uma canção que cada uma sozinha é um ruído mas que juntas formam uma melodia.
 
-Lyris¹⁰ parou na frente da casa.
+Alyndra⁷ levantou a cabeça do ombro de Lyris¹⁶.
 
-Ela *sabia* — sabia o que era aquela casa, sabia *quem* tinha vivido ali, sabia que os passos que estavam prestes a dar eram passos que Alyndra⁹ nunca tinha dado e que Lyris¹⁰, por valens, tinha *impedido* que fossem dados, porque a verdade sobre Ayla³⁰ era *perigosa*, e a filha de Ayla³⁰ era *alvo*, e saber *muito* sobre si mesma era o tipo de coisa que fazia os alvos *vulneráveis*.
+E *viu*.
 
-Mas agora — agora a guerra tinha acabado. A aberração estava destruída. Os *Nihil Shid*²⁹ tinham recuado. E Alyndra⁹ merecia *saber*. Não tudo — não que Aurelius²⁶ era seu pai, não que ela era a herdeira de *Thalassia*²⁴, não que os Anciãos³¹ tinham planos para ela — mas *algo*. Algo que conectasse Alyndra⁹ à mulher que tinha dado a vida para que ela existisse.
+Kira²³ entrou primeiro — alta, magra, os cabelos castanhos cortados na altura dos ombros de um jeito que era mais *prático* que estético, os olhos escuros arregalados como se não acreditasse no que estava vendo. Kira²³ tinha quinze valens e era monitora júnior do Orfanato Luminis⁸ e era a amiga mais velha que Alyndra⁷ tinha — não porque fossem próximas no sentido de segredos compartilhados e confidências noturnas, mas porque tinham *crescido juntas*, e isso, no orfanato, era mais forte que amizade, era *sobrevivência*.
 
-— Essa casa — Lyris¹⁰ começou, e a voz era *cuidadosa*, cada palavra escolhida como quem pisa em gelo fino — foi o refúgio de uma mulher muito querida, que precisou se esconder do mundo.
+Dravyn²⁴ entrou atrás — menor que Kira²³, mais * largo*, com os olhos redondos e curiosos de quem vê o mundo como um desenho que precisa ser copiado, e nas mãos — sempre nas mãos — um pedaço de carvão e um pedaço de papel, porque Dravyn²⁴ *desenhava* tudo, sempre, o tempo inteiro, como se o ato de desenhar fosse respirar, e sem desenhar o mundo ficava *borrado* e impreciso.
 
-Alyndra⁹ não respondeu.
+Tomas²⁵ entrou em seguida — o mais novo, o mais *pequeno*, com os olhos grandes e assustados de quem não entende completamente o que aconteceu mas *sente* que foi algo terrível, e nos braços de Tomas²⁵ havia algo que ele *segurava* como se fosse o único objeto real no mundo: uma coleção de pedras lisas, as pedras de contagem que Tomas²⁵ carregava desde os três valens e que eram a única coisa que o tranquilizava quando o mundo ficava *grande demais*.
 
-Não porque não tivesse ouvido — porque *sabia*. Não sabia o nome, não sabia a história, não sabia os detalhes, mas *sabia* que tinha uma mãe que tinha *morrido*, e o luto de uma criança que perdeu a mãe antes de conhecê-la é um luto *estranho* — não é saudade por alguém que se *lembra*, é saudade por alguém que *nunca existiu* na memória mas existe no *corpo*, no sangue, na forma do rosto, nos olhos que são parecidos com olhos que nunca viu.
+E Mila²⁶.
 
-Lyris¹⁰ abriu a porta.
+Mila²⁶ era a menor de todas — dois valens, talvez menos, pequena demais para o que tinha *visto*, pequena demais para a guerra e o sequestro e o templo e a aberração. Mila²⁶ não tinha sido *sequestrada* com as outras — tinha ficado no orfanato, escondida no porão durante o ataque, os ouvidos tapados com as mãos, os olhos fechados, o corpo *tremendo* enquanto os sons de violência aconteciam *lá fora*, nos corredores que eram *lar*. Mila²⁶ tinha chegado a Sanctrum⁹ com os outros resgatados, mas era *diferente* — mais quieta, mais *trêmula*, mais *velha* do que os dois valens permitiam.
 
-A casa estava *vazia*.
+As quatro crianças pararam na porta.
 
-Não como a casa de Melessa⁵ — vazia de um jeito *diferente*. A casa de Melessa⁵ estava vazia de *gente* mas cheia de *presença*, densa de cheiros e texturas e *vida*. Esta casa estava vazia de *ambos* — não havia odores, não havia objetos pessoais, não havia marcas de vida, apenas o cheiro *plano* de poeira e madeira envelhecida, um cheiro que não contava *histórias*. Como se quem tinha morado ali tivesse *apagado* tudo antes de partir, como se a casa fosse uma *casca* — a casca de uma existência que tinha sido *cuidadosamente removida* para que não restassem vestígios.
+Quatro pares de olhos fixaram-se em Alyndra⁷.
 
-A poeira era *uniforme* — não poeira de uso, poeira de *abandono*. A poeira que se acumula quando ninguém toca nada, quando ninguém limpa nada, quando ninguém *vive*.
+E Kira²³ — Kira²³ que não chorava desde que era *sylentis*⁴¹ e que tinha aprendido que não ter *aethra*¹⁸ era uma marca que não se podia lavar — Kira²³ *correu*.
 
-Alyndra⁹ entrou.
+Não andou — *correu*. Três passos e os braços estavam ao redor de Alyndra⁷, os joelhos dobrados na borda da cama, o rosto enterrado no ombro de Alyndra⁷, e o corpo tremia — não de frio, de *alívio*, o tipo de tremor que acontece quando algo que estava *tenso* por dias finalmente *solta*, como uma corda de *velrok*²⁷ que foi tensionada além do limite e que ao ser cortada *recua* com uma força que faz os dedos sangrarem.
 
-O piso rangeu — madeira velha, resinada, a mesma madeira que o orfanato, a mesma madeira que as casas de *Velantis*²⁷, a madeira que era *Sylvaris*²⁵, que crescia nas florestas de *argenis*²⁰ e que era cortada e serrada e transformada em lares para pessoas que precisavam de *lugar* para existir.
+— Você está *viva* — Kira²³ disse, e a voz era um *sussurro*, um *gemido*, um *canto*, algo entre os três, algo que existia na fronteira entre a dor e a alegria e que era *bonito* de um jeito que feria. — Você está *viva*. Você está *viva*. Você está *viva*.
 
-A sala principal tinha uma mesa — diferente da de Melessa⁵, esta era *reta*, de madeira escura, sem pano de linho, sem caneca rachada. Apenas uma mesa. E uma cadeira. E uma janela que dava para o quintal, e pelo quintal se via a casa de Melessa⁵ — a mesma vista que Ayla³⁰ tinha *tido*, a mesma vista que Alyndra⁹ tinha agora, a mesma janela que conectava mãe e filha através de valens de distância e que nenhuma das duas tinha sabido que conectava.
+Dravyn²⁴ não correu. Dravyn²⁴ *desenhou*.
 
-Lyris¹⁰ guiou Alyndra⁹ até o quarto.
+A mão — sempre a mão, sempre o carvão, sempre o papel — começou a mover-se antes que Dravyn²⁴ pensasse, os traços se formando com a velocidade de quem *não decide* desenhar, desenhar é o que Dravyn²⁴ *faz*, como respirar, como piscar, como existir. E o que surgiu no papel não era um rosto, não era uma paisagem, era um *retrato* — um retrato de Alyndra⁷, os olhos grandes, os traços Marethyus²⁸ no queixo, o cabelo loiro, e ao lado do retrato, menor, prateado, translúcido — Nyx¹². O *lyrien*¹³. Morto.
 
-O quarto estava no fundo do corredor — pequeno, tão pequeno que uma cama e um armário quase *preenchiam* o espaço. A cama era simples — colchão de palha sobre uma estrutura de madeira, lençóis de linho branco que tinham sido *lavados* antes de Ayla³⁰ partir e que agora estavam *cinzentos*, amarelados, *mortos*. O armário era vazio — não um armário que tinha sido esvaziado, um armário que *nasceu* vazio, como se quem o colocou ali tivesse planejado *não usar*.
+Dravyn²⁴ não disse nada. O desenho disse tudo.
 
-E a parede.
+Tomas²⁵ sentou-se no chão ao lado da cama. Não porque fosse tímido — porque Tomas²⁵ *precisava* do chão, do contato com algo sólido, da gravidade puxando para baixo e *ancorando*, porque os últimos dias tinham sido como flutuar em *cryonys*¹⁰ e Tomas²⁵ estava *cansado* de flutuar. As pedras de contagem saíram do bolso e foram *dispostas* no chão — uma fileira de pedras lisas, cada uma com uma cor diferente, cada uma representando algo que Tomas²⁵ não explicava e que não precisava explicar porque as pedras eram *dele* e ninguém mais precisava entender.
 
-A parede *frente* à cama.
+E Mila²⁶ — Mila²⁶ *olhou*.
 
-Alyndra⁹ olhou.
+Não com os olhos assustados de quem viu demais — com os olhos de uma criança de dois valens que está *vendo* a pessoa que *protegeu* os outros no orfanato, a garota mais velha que sempre *cuidava* dos menores, que sempre *explicava* as coisas quando os adultos não estavam, que sempre *estava lá*. E Mila²⁶ fez algo que não fazia desde o ataque ao orfanato — *sorriu*.
 
-Lyris¹⁰ olhou.
+Não um sorriso grande — um sorriso *pequeno*, quase invisível, o tipo de sorriso que existe quando a dor é tão grande que a alegria *não cabe* e o que sobra é apenas o *esboço* de uma felicidade que está por vir, que vai chegar, que está *a caminho*.
 
-E na parede — na parede que estava *frente* à cama, a parede que era o *primeiro* que se via ao acordar, a parede que era a última coisa que se via antes de dormir — havia *algo escrito*.
+— Alyndra — Mila²⁶ disse, e a voz era tão pequena que parecia um *sopro*.
 
-Não em *velante*²⁸ comum — em *Emê-Gir*²⁹. A língua antiga. A língua que os eruditos de *Sanctrum*²³ estudavam mas que poucos *falavam*, a língua que era *mais velha* que os reinos, mais velha que os *Seraphyens*³⁰, mais velha que o próprio *Aurion*³. Os símbolos eram *delicados* — traços finos, quase caligráficos, como se quem escreveu tivesse *tempo* e *cuidado* e *amor*, e cada linha fosse um *fio* de um tecido que estava sendo tecido não para ser visto mas para ser *sentido*.
+E Alyndra⁷ — que estava sendo abraçada por Kira²³ e observada por Dravyn²⁴ e acompanhada por Tomas²⁵ e olhada por Mila²⁶ — *sorriu* também.
 
-A tinta era marrom — marrom *escuro*, como terra molhada, como *sangue* seco, como a cor que o *cryonys*¹⁴ fica quando está *derretendo*. Os símbolos tinham *profundidade* — traços sobrepostos que sugeriam camadas de significado, como se a mensagem tivesse sido escrita uma vez e *reescreita* depois, cada versão *mais completa* que a anterior, cada versão *mais verdadeira*.
-
-Lyris¹⁰ *leu*.
-
-E Lyris¹⁰ — que não chorava, que não *podia* chorar, que era feita da mesma *recusa* que faz o gelo permanecer gelo — sentiu algo *quebrar* dentro do peito. Não o coração — algo *mais fundo*, algo que estava *abaixo* do coração, no lugar onde os *juramentos* ficam guardados e onde as *lealdades* repousam.
-
-— Alyndra⁹ — Lyris¹⁰ disse, e a voz era um *fio*, tão fino que quase não existia. — Isso é... isso é *dela*.
-
-Alyndra⁹ não entendia *Emê-Gir*²⁹. Não tinha estudado a língua antiga, não tinha tido acesso aos textos de *Sanctrum*²³, não sabia que os símbolos na parede eram mais do que *linhas*. Mas Alyndra⁹ *sentia* — sentia algo emanando da parede que era *quente* e *triste* e *amoroso* e *antigo*, como se as palavras escritas na parede não fossem *palavras* mas *sentimentos* materializados em tinta, sentimentos que tinham *esperado* valens para serem *lidos* por alguém que os *merecia*.
+Não um sorriso grande. Um sorriso *pequeno*, dolorido, o sorriso de quem perdeu Nyx¹² e quase perdeu tudo e que está *viva* apesar disso, e a vida — mesmo a vida que dói — é *ainda* vida, e a vida, para crianças que cresceram em um orfanato, é *tudo*.
 
 ---
 
-## IV. As Palavras na Parede
+## IV. O Corredor
 
-Lyris¹⁰ traduziu.
+Aurelius²⁰ estava no corredor.
 
-Não tudo de uma vez — *devagar*, frase por frase, como quem desembrulha algo *frágil*, como quem abre uma flor sem arrancar as pétalas. A voz de Lyris¹⁰ era baixa, quase um *sussurro*, e cada palavra em *velante*²⁸ era seguida pela tradução, e cada tradução era um * golpe* — suave, preciso, *mortal*.
+Não no corredor principal — em um corredor lateral, estreito, iluminado por cristais embutidos nas paredes que emitiam uma luz dourada e fraca. O corredor dava para a câmara médica através de uma fresta — uma fresta vertical, larga o suficiente para que um olho pudesse *ver* mas não larga o suficiente para que um corpo pudesse *passar*. Aurelius²⁰ estava de pé junto à fresta, os ombros encostados na parede, os braços cruzados, os olhos fixos no interior da câmara.
 
-— *Emê-Gir*²⁹ tem uma estrutura diferente — Lyris¹⁰ começou, e a voz era a voz de professora, a voz de quem *explica* porque *explicar* é a única coisa que pode fazer quando o que precisa ser dito é *grande demais* para ser simplesmente dito. — Cada símbolo carrega *camadas* de significado. A primeira camada é *literal*. A segunda é *emocional*. A terceira é *pessoal*. Quem escreveu isso — escreveu nas *três*.
+Ele *via*.
 
-Alyndra⁹ olhou para a parede. Para os símbolos que pareciam *vivos* sob a luz fraca que entrava pela janela.
+Via Alyndra⁷ — sentada na cama, a túnica branca de Sanctrum⁹ solta nos ombros, os cabelos loiros desgrenhados, o rosto que era o rosto de Ayla³⁰ e que *era* o rosto de Alyndra⁷, único, irrepetível, impossível de confundir com qualquer outro rosto no mundo. Via Kira²³ abraçando Alyndra⁷, os braços longos e finos envolvendo a garota como se fosse um *presente* que precisava ser *protegido*. Via Dravyn²⁴ desenhando no chão, o carvão raspando no papel com o som seco de quem está *registrando* algo que precisa ser lembrado. Via Tomas²⁵ sentado com as pedras de contagem, as fileiras coloridas que só faziam sentido para quem as colocou ali. Via Mila²⁶ de pé na porta, os olhos grandes fixos em Alyndra⁷, o sorriso pequeno no rosto como uma flor de *Giralis*² nascendo em um campo de cinzas.
 
-— A primeira linha — Lyris¹⁰ disse, e a voz *tremeu*: — *Eu te amei antes de ver.* Diz: "Eu amei você antes que meus olhos encontrassem os seus. Antes do primeiro segundo em que você existiu. Antes do *ante-aurion*²⁰ em que o mundo decidiu que você ia *ser*. Amei a *ideia* de você. Amei o *possível*. E quando você *nasceu*, o possível se tornou *real*, e eu amei o real com tudo que tinha."
+Via Alyndra⁷ *sorrir*.
 
-Alyndra⁹ *sentiu*.
+O sorriso era pequeno — menor que o sorriso de Mila²⁶, menor que qualquer sorriso que Alyndra⁷ tinha dado no orfanato, menor que o sorriso que ela tinha dado quando encontrou Nyx¹² pela primeira vez. Mas era um sorriso, e o sorriso era *real*, e o sorriso era *dela*, e Aurelius²⁰, que nunca tinha visto a filha sorrir de perto, que conhecia os sorrisos de Alyndra⁷ apenas por relatórios de *Tar-Gig*²¹ e pelo brilho do cristal dourado, sentiu algo no peito que era *quente* e *pesado* e *bonito* e *insuportável* ao mesmo tempo.
 
-Não com a mente — com o *peito*. O lugar vazio, o lugar onde Nyx¹⁵ costumava pulsar, *reconheceu* algo nas palavras de Lyris¹⁰ como a corda de um *velrok*¹⁶ reconhece a *frequência* de outra corda quando ambas vibram no mesmo tom. Era como se as palavras fossem *frequência* — e a frequência era a mesma frequência do amor que Alyndra⁹ sentia por Nyx¹⁵, por Lyris¹⁰, por Kira¹¹ e Dravyn¹² e Tomas¹³ e Mila¹⁷, pelo orfanato, por *tudo* que era *bom* no mundo. E a frequência *ressonava* no peito como um sino que nunca soubera que existia, e a ressonância *doía*, e a dor era *bonita*.
+Os olhos de Aurelius²⁰ *molharam*.
 
-— A segunda linha — Lyris¹⁰ continuou, e os olhos estavam *molhados*, e Lyris¹⁰ não se importava, não agora, não aqui, não diante daquela parede: — *Eu te amo agora que não posso ver.* Diz: "Eu te amo *agora*, neste momento, neste segundo, neste lugar onde você não está e eu estou. O amor não *parou* quando meus olhos fecharam. O amor não *diminuiu* quando minha respiração *parou*. O amor é — e essa é a palavra em *Emê-Gir*²⁹, não existe tradução exata em *velante*²⁸ — o amor é *o que permanece quando tudo mais se vai*."
+Não lágrimas — Aurelius²⁰ não chorava, não *podia* chorar, não era o tipo de homem que chorava, e o *En Me*²⁹ de Sanctrum⁹ *não chorava*, e o descendente do Seraphyen Vento Luz *não chorava*, e o homem mais poderoso de Alyndra *não chorava* — mas os olhos *molharam*, e a diferença entre olhos molhados e lágrimas é a diferença entre *quase* e *totalmente*, e *quase* é tão doloroso quanto *totalmente* quando o que está em jogo é uma filha que nunca soube que você existe.
 
-Alyndra⁹ ajoelhou-se.
+Alyndra⁷ não olhou para a fresta.
 
-Não conscientemente — o corpo *ajoelhou*, os joelhos *dobraram*, e Alyndra⁹ ficou de joelhos no piso de madeira daquele quarto pequeno, olhando para a parede, olhando para as palavras que uma mulher tinha escrito valens atrás, uma mulher que tinha *sabido* que ia morrer, que tinha *aceito*, que tinha *escolhido* usar o último *tempo* de vida não para chorar mas para *escrever*, para deixar algo *para sempre* na parede de um quarto que ninguém sabia que era *dela*.
+Alyndra⁷ não *viu* Aurelius²⁰.
 
-— A terceira linha — Lyris¹⁰ disse, e a voz era *quase* inaudível, como se as palavras fossem *santas* e fossem *pesadas* e Lyris¹⁰ estivesse carregando algo que era maior do que ela: — *Eu te amarei quando você ler isto e eu tiver partido.* Diz: "Eu estarei *genuína* — *genuína* é a palavra — eu estarei *presente* quando seus olhos encontrarem estas palavras. Não com o corpo — o corpo terá *voltado* ao *aethra*⁷, terá se *dissolvido* na substância do mundo. Mas o *amor* não é corpo. O amor é *aethra*⁷. E *aethra*⁷ não *morre*. *Aethra*⁷ se *transforma*. E quando você ler isto, eu serei o *calor* que você sente no peito sem saber de onde vem. Eu serei o *vento* que empurra seus cabelos quando você caminha. Eu serei a *luz* que faz suas lágrimas *brilharem* como *Giralis*² quando você chorar."
+Os olhos de Alyndra⁷ estavam em Kira²³, em Dravyn²⁴, em Tomas²⁵, em Mila²⁶ — nas crianças do orfanato, nas pessoas que eram *delas*, que faziam parte da mesma história de *perda* e *sobrevivência* que tinha começado no Orfanato Luminis⁸ e que continuava ali, em uma câmara branca de Sanctrum⁹, longe de tudo que conheciam.
 
-Alyndra⁹ *chorou*.
+Aurelius²⁰ *viu* e *não foi visto*.
 
-Não o choro seco da câmara médica de *Sanctrum*²³. Não o choro silencioso que havia guardado desde o despertar. *Lágrimas*. Lágrimas quentes, reais, *verdadeiras*, caindo pelo rosto como *aethra*⁷ líquido, como a essência de Alyndra⁹ estivesse *saindo* pelos olhos, e cada lágrima era mais do que água — era *reconhecimento*, era a resposta do corpo de Alyndra⁹ à *frequência* que a parede emitia, era o corpo de uma filha *respondendo* à mãe que nunca conheceu, que nunca *viu*, que nunca *ouviu*, mas que *amou* — amou *antes*, amava *agora*, amaria *depois*.
+E isso — isso era *tudo*. Isso era o que a vida de Aurelius²⁰ tinha se tornado: ver e não ser visto. Proteger e não ser *conhecido*. Amar e não ser *reconhecido*.
 
-E Alyndra⁹ não sabia que aquelas palavras eram de *Ayla*³⁰.
+Os dedos de Aurelius²⁰ tocaram a parede de *aethrys*⁶ ao lado da fresta — um toque leve, quase imperceptível, como se ele estivesse *tentando* tocar Alyndra⁷ através da parede, através da fresta, através do espaço que separava um pai de uma filha que não sabia que era filha.
 
-Não sabia que a mulher que tinha escrito naquela parede era *sua mãe*. Não sabia que Ayla³⁰ — princesa de *Thalassia*²⁴, guerreira da Kalúdris²⁷, amante de Aurelius²⁶, mãe que *morreu* no parto para que Alyndra⁹ pudesse *viver* — tinha *escondido* naquela casa durante os meses de gravidez, que tinha *esperado* naquela cama com o medo de quem sabe que cada mês pode ser a última, que tinha *escrito* na parede como quem escreve uma *carta* que nunca será enviada, porque a carta não era para um endereço — era para *todo o tempo*, para o *futuro*, para o dia em que alguém que amasse encontrasse aquelas palavras e *entendesse*.
+E então Aurelius²⁰ *virou-se*.
 
-Alyndra⁹ *só sentia*.
+Virou as costas para a fresta. Caminhou pelo corredor lateral. Os passos eram *silenciosos* — o tipo de silêncio que só quem tem *aethra*¹⁸ o suficiente para *moldar* o som ao redor do corpo consegue produzir, o silêncio de um fantasma, de uma sombra, de alguém que existe e *escolhe* não ser ouvido.
 
-Sentia o amor. Sentia a perda. Sentia a *verdade* que existia *debaixo* das palavras, a verdade que não precisava de tradução porque era *universal* — a verdade de uma mãe que ama uma filha que não conheceu, a verdade de um ser humano que está *partindo* e que quer *deixar* algo *de si* para trás, a verdade de que o amor é a única coisa que *sobrevive* à morte, à distância, ao *silêncio*.
+Aurelius²⁰ caminhou.
 
-E no chão — ajoelhada diante da parede, as mãos no piso de madeira, as lágrimas caindo como *Giralis*² que se abre ao *Aurion*³ — Alyndra⁹ *entendeu* algo que não sabia que precisava entender. Entendeu que *alguém* a tinha amado *antes* de vê-la. Que alguém tinha *pensado* nela quando ela ainda era *possível* e não *real*. Que alguém tinha *escrito* palavras de amor em uma parede vazia, para que ela encontrasse valens depois, quando o mundo tivesse *acabado* e começado de novo, e quando ela precisasse *saber* — não fatos, não nomes, não *histórias* — apenas que tinha sido *amada*.
+E o coração — o coração que tinha sustentado a *Erupção do Carmesim*³¹, que tinha canalizado o poder de Nyxalor³², que tinha *vencido* uma aberração composta de milhares de *nihilarys*³³ — o coração *pesava* mais que a *Manopla da Vinculação*¹⁴.
 
-— Seja *brava* — Lyris¹⁰ traduziu, e a voz *quebrou*, a última frase, a frase que Lyris¹⁰ não conseguiu *segurar*, a frase que era *tudo* — *Seja corajosa, meu pequeno broto. E seja *livre*.*
-
-E Lyris¹⁰ — a mulher que nunca tinha tido filhos, a agente que nunca tinha *permitido* que a maternidade fosse mais forte que a missão, a guardiã que havia *julgado* o amor como *fraqueza* — *ajoelhou-se* ao lado de Alyndra⁹ e *segurou* a garota, e as duas ficaram ali, no chão de madeira do quarto de uma mulher morta, cercadas por palavras de *Emê-Gir*²⁹ que eram mais antigas que os reinos e mais *novas* que as lágrimas que corriam pelo rosto de Alyndra⁹, e o mundo *parou* — não por *poder*, não por *guerra*, por *amor* — o amor de uma mãe que escreveu na parede e de uma filha que *leu* sem saber que lia, e de uma mulher que *segurou* porque era isso que o amor *faz* — segura, *protege*, *permanece*.
+Porque a *Manopla da Vinculação*¹⁴ era apenas *aethrys*⁶ e ouro. E o coração era *Alyndra*.
 
 ---
 
-## V. A Última Vez
+## V. A Mão Vazia
 
-Lyris¹⁰ chamou Alyndra⁹ para fora.
+Valens depois, os preparativos começaram.
 
-Não com palavras — com a mão. A mão de Lyris¹⁰ no ombro de Alyndra⁹, um toque suave, deliberado, o toque de quem sabe que é o momento de *ir* e que *ir* é mais difícil que *ficar*, porque ficar é *continuar* e ir é *começar*, e começar exige *coragem* de um tipo que nem os *Seraphyens*³⁰ tinham.
+Elara³⁴ Elara³⁵ coordenava tudo — a logística, os transportes, os itinerários, as permissões. A Elara³⁴ — título concedido a certas operativas de alto escalão em *Sanctrum⁹* — tinha chegado ao orfanato dois dias após o fim da batalha e já estava *governando* a reconstrução como se o orfanato fosse um posto avançado militar e não um lar para crianças abandonadas. Lyris¹⁶ observava a eficiência de Elara³⁴ Elara³⁵ com uma mistura de admiração e *desconfiança* — a Elara³⁴ era *competente*, e competência, no mundo de *Sanctrum⁹*, era sempre acompanhada de *segundas intenções*.
 
-Alyndra⁹ levantou-se.
+— O transporte sai de manhã — Elara³⁴ Elara³⁵ informou, os olhos percorrendo uma lista em *aethrys*⁶ translúcido. — Três *velroks*³⁷. Uma *Koramis*³⁸ de carga para os suprimentos. Os dias de viagem até Velantis³⁹ são sete se o tempo estiver limpo, doze se encontrarem *tempestades de aethra*¹⁸ na passagem de Sylvaris²⁴.
 
-As pernas estavam *dormes* — não doloridas, *pesadas*, como se o corpo tivesse absorvido todo o peso das lágrimas e não tivesse energia para se *carregar*. Os joelhos protestaram — um som seco, como madeira rangendo, como a porta da casa de Melessa⁵ quando era aberta. Mas Alyndra⁹ *levantou-se*, porque *levantar* era o que *restava*.
+— E a reconstrução? — Lyris¹⁶ perguntou.
 
-Olhou para a parede uma última vez.
+— Já começou — Elara³⁴ Elara³⁵ respondeu. — As fundações estão intactas. As paredes leste e norte precisam ser reconstruídas — a *aethrys*⁶ que sobreviveu será reaproveitada. O telhado parcialmente desabado será substituído. O prazo é de meses se os materiais chegarem a tempo.
 
-Não leu as palavras de novo — não precisava. As palavras estavam *dentro* agora, gravadas no mesmo lugar onde Nyx¹⁵ tinha *pulsado*, no mesmo lugar onde o *cryonys*¹⁴ *dormia*, no mesmo lugar onde o *amor* — o amor de Melessa⁵, o amor de Lyris¹⁰, o amor que não tinha nome e que *não precisava* de nome — *residia*. As palavras de Ayla³⁰ estavam *gravadas* no *aethra*⁷ de Alyndra⁹, e nem a morte, nem o tempo, nem o *nihilary*⁸ ancestral poderia *apagá-las*.
+Lyris¹⁶ assentiu. A reconstrução do orfanato era *importante* — não pelas paredes e telhados, que eram apenas *matéria*, mas pelo que o orfanato *significava* — era *lar*, o único que muitas daquelas crianças tinham conhecido, o lugar onde Kira²³ tinha ensinado os menores a ler, onde Dravyn²⁴ tinha coberto as paredes de desenhos, onde Tomas²⁵ tinha contado pedras no jardim, onde Mila²⁶ tinha brincado com as sombras antes que o mundo ficasse *sério*.
 
-Alyndra⁹ saiu do quarto.
+— Eu quero ir — Alyndra⁷ disse.
 
-Passou pela mesa vazia. Pelo corredor escuro. Pela porta que rangeu ao se fechar — e que não rangeu quando Lyris¹⁰ a fechou atrás dela, como se a casa soubesse que era a *última vez* e quisesse ser *gentil*.
+A voz veio do canto da sala — baixa, firme, *certa*. Alyndra⁷ estava de pé junto à janela, as mãos cruzadas sobre o peito, os olhos fixos na luz do *Aurion*¹¹ que entrava pelo vidro de *aethrys*⁶. A túnica branca de Sanctrum⁹ pendia nela como se fosse grande demais — porque era, era a túnica de uma *adulta*, e Alyndra⁷ tinha apenas cinco valens e era *magra* e o *cryonys*¹⁰ tinha consumido reservas que o corpo ainda não tinha *reposto*.
 
-Lá fora, a luz do *Aurion*³ era *dourada*.
+— Quero ver o orfanato — Alyndra⁷ continuou. — Quero ver como está.
 
-A manhã tinha passado — Aurion estava alto, o céu era azul e limpo, o tipo de céu que existe depois de uma *tempestade*, quando a atmosfera parece ter sido *lavada* e tudo é *novo*, *luminoso*, *possível*. O ar cheirava a *Giralis*² e a terra molhada e a *esperança* — não porque a esperança *cheirasse* de verdade, mas porque a esperança é o que *imaginamos* quando o mundo *melhora* e o *Aurion*³ brilha.
+Lyris¹⁶ olhou para Elara³⁴ Elara³⁵. Elara³⁴ olhou para a lista. A lista não tinha objeções.
 
-Lyris¹⁰ carregava uma mochila.
-
-A mochila era de *couro escuro*, simples, prática — a mesma que Lyris¹⁰ usava nas missões de *Tar-Gig*³⁵, a mesma que tinha *sobrevivido* a meses de campo, a mesma que agora continha *tudo* que Alyndra⁹ precisava para *começar* de novo. Dentro: roupas limpas, uma manta, comida para dias de viagem, um *kit* médico básico, e — no fundo, embrulhado em pano de linho — o *único* fragmento de Nyx¹⁵ que tinha sido encontrado: um tufo de pelo prateado do tamanho de uma unha, que brilhava com uma luz azulada fraca e que era tudo que restava da companheira que tinha *dado a vida* por Alyndra⁹.
-
-Lyris¹⁰ não tinha mostrado o fragmento a Alyndra⁹.
-
-Ainda não era o *momento*. O momento viria — viria quando Alyndra⁹ estivesse *pronta*, quando o *cryonys*¹⁴ tivesse *dormido* o suficiente, quando a viagem a *Thalassia*²⁴ tivesse *começado* e a distância do orfanato tivesse *criado* espaço para que a dor de Nyx¹⁵ fosse *sentida* sem *destruir*.
-
-Lyris¹⁰ olhou para Alyndra⁹.
-
-E viu uma menina de cinco valens com olhos que eram *grandes demais* para o rosto, com uma mão que estava *vazia* onde deveria estar *cheia*, com um *cryonys*¹⁴ que *dormia* nas veias e um *aethra*⁷ que era *mais* do que qualquer criança de cinco valens tinha direito de carregar. Viu uma garota que tinha *perdido* — perdido Nyx¹⁵, perdido o orfanato, perdido a *inocência*, perdido a *certeza* de que o mundo era *seguro*. E viu uma garota que *continuava* — que *caminhava* com a cabeça *erguida* e os olhos *fixos* no horizonte, não porque não tivesse *medo*, mas porque *andar* apesar do medo era o que Alyndra⁹ *fazia*.
-
-— Está pronta? — Lyris¹⁰ perguntou.
-
-Alyndra⁹ olhou para ela.
-
-— Não — Alyndra⁹ disse.
-
-E *andou*.
+— Vocês podem ir — Elara³⁴ Elara³⁵ decidiu. — O primeiro grupo parte de manhã. Lyris¹⁶, você é responsável pelas crianças. Relatório a cada dia.
 
 ---
 
-## VI. O Horizonte
+O embarque aconteceu no pátio norte de Sanctrum⁹.
 
-Caminharam juntas.
+Os *velroks*³⁷ estavam alinhados — três criaturas de pelagem cinza-prateada, cada uma com dois metros e meio de altura nos ombros, os olhos escuros e inteligentes avaliando os passageiros com a indiferença de quem já carregou *milhares* de pessoas e para quem mais alguns não fazem diferença. Os arreios eram de *couro tratado* com óleos de *argenis*¹⁷, e as selas eram largas o suficiente para que duas crianças pudessem montar juntas.
 
-Não lado a lado — *juntas*. Lyris¹⁰ à frente, meio passo à frente, abrindo o caminho como quem *abre* portas, como quem *protege*, como quem *cuida*. Alyndra⁹ atrás, um passo atrás, seguindo os passos de Lyris¹⁰ como tinha *seguido* durante valens, como tinha seguido desde o primeiro dia no orfanato, quando Lyris¹⁰ era a "aposentada misteriosa" e Alyndra⁹ era a "menina dos olhos grandes" e nenhuma das duas sabia que o que as conectava era *mais profundo* que explicações.
+Alyndra⁷ montou no segundo *velrok*³⁷.
 
-Os campos de *aethrys*¹ eram *dourados*.
+O animal não se moveu quando ela subiu — ficou *parado*, a cabeça virada, os olhos fixos em Alyndra⁷ com uma intensidade que era *reconhecimento*, como se o *velrok*³⁷ *soubesse* que estava carregando alguém que carregava algo *pesado*, algo que não se podia ver mas que se podia *sentir*, o tipo de coisa que faz os animais inclinarem a cabeça e ficarem *quietos*.
 
-Não dourados como *ouro* — dourados como a *luz*, dourados como o *Aurion*³ ao *ante-aurion*²⁰, dourados como o *aethra*⁷ que brilha na superfície das *Giralis*² quando Aurion as toca. Os campos se estendiam em todas as direções — planos, vastos, *infinitos* — e as espigas de *aethrys*⁴ cresciam em fileiras que pareciam *geometria* viva, como se o próprio solo de *Sylvaris*²⁵ fosse um *desenho* que alguém tinha *planejado* com *precisão*, cada espiga no lugar certo, cada ângulo *exato*, cada fileira uma *equação* resolvida.
+Lyris¹⁶ montou atrás de Alyndra⁷.
 
-O vento *soprava*.
+— Você está bem? — Lyris¹⁶ perguntou, a voz baixa, apenas para Alyndra⁷, não para as crianças nem para Elara³⁴ nem para os soldados que montavam guarda ao redor do comboio.
 
-Não o vento forte dos campos — um vento *gentil*, o tipo de vento que existe quando o mundo está *em paz*, que não *empurra* nem *puxa*, apenas *toca*, como se a atmosfera estivesse *passando a mão* pelo cabelo de Alyndra⁹, como se *Sylvaris*²⁵ estivesse *dizendo adeus*.
-
-Alyndra⁹ *respirou*.
-
-E em cada respiração havia *algo novo* — não *cryonys*¹⁴, não *aethra*⁷, não poder. Era *espaço*. O espaço que existe quando se *deixa* de carregar o que não se pode carregar. O espaço que existe quando se *aceita* que a mão está vazia e que o vazio não é *nada* — é *lugar*, é *possibilidade*, é o local onde algo *novo* pode *nascer*.
-
-Ela olhou para a mão.
+Alyndra⁷ não respondeu *imediatamente*. Os olhos estavam fixos nas mãos — nas duas mãos que descansavam sobre o pescoço do *velrok*³⁷, nas duas mãos que estavam *vazias*.
 
 A mão direita. Vazia.
 
 A mão esquerda. Vazia.
 
-E *aceitou*.
+Onde Nyx¹² costumava *descansar* — no colo, no ombro, nas mãos de Alyndra⁷ quando a garota carregava o *lyrien*¹² prateado durante as caminhadas pelo orfanato — havia *nada*. Um espaço vazio que era mais pesado que qualquer coisa que pudesse ocupá-lo. A mão de Alyndra⁷ fechou — os dedos se curvando ao redor de algo que não estava ali, agarrando *ar*, agarrando *nada*, agarrando a *ausência* de Nyx¹² como se a ausência pudesse ser *segurada* se os dedos fossem *fortes* o bastante.
 
-Não porque tivesse *superado* — porque *superar* não existe, o que existe é *carregar*, e carregar é diferente de *esquecer*, e Alyndra⁹ ia *carregar* Nyx¹⁵ para sempre, no espaço vazio da mão, no lugar onde o *lyrien*¹³ costumava *descansar*. Mas *carregar* não é *parar*. E Alyndra⁹ não ia *parar*.
+— Estou — Alyndra⁷ disse, e a voz era *suficiente* — não forte, não fraca, *suficiente*. O tipo de suficiente que existe quando não há energia para mais e o que resta é *aceitar* que suficiente é, de fato, suficiente.
 
-Os arredores de *Velantis*²⁷ apareceram ao longe — os telhados das casas, a torre do mercado, o *Farol de Sylvaris*²⁵ que brilhava durante a Nyxara para guiar os *velroks*¹⁶ e os viajantes. A cidade estava *diferente* — marcas da guerra ainda visíveis, muros sendo reconstruídos, ruas sendo *limpas* — mas estava *viva*. A cidade estava *viva* porque as pessoas que nela viviam tinham *decidido* continuar, e continuar é o ato mais *revolucionário* que existe, mais revolucionário que *guerrear*, mais revolucionário que *vencer*, mais revolucionário que qualquer *aethra*⁷ que já foi canalizado.
+Lyris¹⁶ colocou a mão no ombro de Alyndra⁷.
 
-Lyris¹⁰ parou.
+O toque era *quente* — não *Thermaris*¹⁹, calor humano, o calor de uma mão que está *ali*, que *escolheu* estar ali, que vai *continuar* estando ali mesmo quando o orfanato estiver reconstruído e os dias passarem e o mundo continuar *girando*. Lyris¹⁶ não disse nada. Não precisava. A mão no ombro dizia: *eu estou aqui. Eu estou aqui. Eu estou aqui.*
 
-Não porque tivesse chegado ao destino — porque *olhou*. Olhou para trás — não para *Velantis*²⁷, para *Alyndra⁹*. Para a garota que caminhava um passo atrás, com os olhos fixos no horizonte, com a mão vazia ao lado do corpo, com o *cryonys*¹⁴ silenciado nas veias e o *aethra*⁷ de *Thalassia*²⁴ pulsando no peito e o *coração* — o coração — *quebrado* e *funcionando* e *batendo* e *vivendo*, apesar de tudo, apesar de Nyx¹⁵, apesar da aberração, apesar dos *Nihil Shid*²⁹, apesar de *tudo*.
+O comboio partiu.
 
-— *Thalassia*²⁴ — Lyris¹⁰ disse, e a palavra era uma *seta* — apontando para a frente, para o horizonte, para o mar, para o desconhecido.
+Três *velroks*³⁷ e uma *Koramis*³⁸ de carga, atravessando o pátio norte de Sanctrum⁹ em direção à ponte de *aetherite*³⁹ que ligava a Fortaleza Branca ao continente. Atrás deles, as torres de *aethrys*⁶ brilhavam com a luz do *Aurion*¹¹ nascente, e a luz dourada pintava os muros com sombras longas, e as sombras se estendiam como dedos, como braços, como *tentáculos* de algo que não queria deixar partir o que *pertencia* a ele.
 
-Alyndra⁹ olhou para *frente*.
+Alyndra⁷ olhou para trás.
 
-O horizonte era *aberto* — não uma linha, um *espaço*, o tipo de espaço que existe quando a terra e o céu se *encontram* e *não se separam*, onde tudo que existe é *possível* e nada é *certo* e o futuro é uma * página em branco* que espera ser *escrita*.
+Não para Sanctrum⁹ — para a mão vazia. Para o espaço onde Nyx¹² deveria estar. Para o *nada* que era mais presente do que qualquer coisa que existisse.
 
-E Alyndra⁹ — cinco valens, os olhos *úmidos* mas *firmes*, a mão *vazia* mas *aberta*, o *cryonys*¹⁴ *silenciado* mas *presente*, o coração *quebrado* mas *batendo* — *olhou*.
+E depois virou-se. Virou-se para a frente, para a ponte, para o continente, para *Sylvaris*²⁴, para o orfanato, para o que *sobreviveu*. Porque sobreviver — sobreviver é o que Alyndra⁷ fazia. Sobreviver era o que tinha aprendido a fazer no orfanato, era o que tinha feito durante o sequestro, era o que tinha feito durante a batalha. E agora ia *continuar* fazendo.
 
-Olhou para *trás*.
+Mesmo sem Nyx¹².
 
-Uma última vez.
+Mesmo com a mão vazia.
 
-Para *Velantis*²⁷ — a cidade que a *acolheu* quando não tinha *para onde ir*. Para o orfanato — o lugar que foi *lar* quando o mundo era *simples*. Para os campos de *aethrys*¹⁴ — que eram *ouro* sob a luz do *Aurion*³ e que *carregavam* as memórias de todos que tinham *caminhado* por ali. Para *tudo* que Alyndra⁹ tinha *perdido* — Melessa⁵, Nyx¹⁵, a inocência, a *certeza*. Para *tudo* que Alyndra⁹ tinha *encontrado* — Lyris¹⁰, Kira¹¹, Dravyn¹², Tomas¹³, Mila¹⁷, o *cryonys*¹⁴, o *futuro*.
+Mesmo com o coração *pesado*.
 
-E *virou-se*.
+O comboio avançou. A ponte de *aetherite*³⁹ rangeu sob os cascos dos *velroks*³⁷. E Alyndra⁷ — cinco valens, os olhos secos, a mão vazia, o *cryonys*¹⁰ silenciado, o coração partido — *foi* para frente.
 
-Virou-se para a *frente*.
+Como sempre.
 
-E *não olhou para trás de novo*.
-
-A estrada *curvava* — descendo das colinas de *Sylvaris*²⁵ em direção à planície costeira, em direção ao mar, em direção a *Thalassia*²⁴. A estrada era *antiga* — pedras gastas pelo *tempo*, marcas de *velroks*¹⁶ e *carruagens* e *milhares* de passos que tinham *percorrido* aquele caminho antes de Alyndra⁹, antes de Lyris¹⁰, antes de *Aurelius*²⁶, antes de milênios. A estrada era *neutra* — não *boa* nem *má*, não *fácil* nem *difícil*, apenas *caminho*, o tipo de caminho que *existe* para ser *percorrido*.
-
-E *elas* — duas figuras contra o horizonte, uma mais alta que a outra, uma com mochila e a outra com a mão vazia — *caminharam*.
-
-Caminharam em *silêncio*.
-
-Não o silêncio de quem *não tem o que dizer* — o silêncio de quem *tem tudo a dizer* e *escolhe* dizer com os *pés*, com o *coração*, com a *direção* que escolheu quando o mundo *ficou* e *recomeçou*. Cada passo era uma *decisão*. Cada passo era um *adeus*. Cada passo era um *início*. O chão sob as solas era de terra batida e pedras gastas, e cada pedra tinha a *temperatura* do *Aurion*³ que a aquecera o dia inteiro — morna, viva, presente — como se a própria estrada estivesse *dizendo* que o caminho era *seguro*.
-
-Os campos de *aethrys*¹⁴ *brilhavam*.
-
-O *Aurion*³ *descia*.
-
-O horizonte *esperava*.
-
-E Alyndra⁹ — a herdeira de *Thalassia*²⁴, a filha de Ayla³⁰ e Aurelius²⁶, a menina que *nasceu* sob três luas e que *cresceu* sem saber o que era, a garota que *perdeu* Nyx¹⁵ e *encontrou* palavras de amor em uma parede, que *aprendeu* que a mão vazia não é *nada* mas *possibilidade* — Alyndra⁹ *caminhou*.
-
-Para a frente.
-
-Para o mar que brilhava ao longe como *aethra*⁷ líquido.
-
-Para *Thalassia*²⁴.
-
-Para o *desconhecido*.
-
-Para *tudo* que estava por *vir*.
+Como *sempre*.
 
 ---
 
-**[FIM DO LIVRO I — A SEMENTE DA ETERNIDADE]**
+***[FIM DO CAPÍTULO XLVI]**
 
 ---
 
-> **Nota aos leitores:** O material abaixo — glossário e previsão — é material de referência. No livro publicado, será realocado para o apêndice ao final do volume. Aqui, permanece como suporte à leitura serializada.
+> **Nota aos leitores:** O material abaixo — glossário, linha do tempo, previsão — é material de referência. No livro publicado, será realocado para o apêndice ao final do volume. Aqui, permanece como suporte à leitura serializada.
 
 ---
 
 ## 📖 Glossário do Capítulo
 
-¹ **Cantos de Adormecimento** — Compilação antiga de textos sobre entidades e rituais proibidos; atribuída ao Ciclo das *Giralis*² Negras. A epígrafe final do Livro I reflete sobre o ato de caminhar para frente.
+¹ **Cantos de Adormecimento** — Compilação antiga de textos sobre entidades e rituais proibidos; atribuída ao Ciclo das *Giralis*² Negras. A epígrafe reflete sobre o retorno a um lugar que nunca mais será o mesmo.
 
-² **Giralis** — Flores de pétalas translúcidas nativas de Sylvaris²⁵. A única flor sobrevivente no jardim do orfanato; símbolo de resistência e continuidade.
+² **Giralis** — Flores de pétalas translúcidas nativas de Sylvaris²⁴. Referenciada na atribuição e na comparação com o sorriso de Mila²⁶.
 
-³ **Aurion** — A estrela central de Alyndra. A luz do *Aurion*³ pinta os campos de *aethrys*¹⁴ de dourado.
-
-⁴ **aethrys** — Material cristalino com propriedades elementais. Os campos de *aethrys*¹⁴ ao redor de Velantis²⁷ são cultivados; as espigas crescem em fileiras geométricas.
-
-⁵ **Melessa Solynthr** — Parteira idosa de Mespiria³²; acolheu Ayla³⁰ e criou Alyndra⁹. Morreu quando Alyndra⁹ tinha quatro *valens*⁵. Sua casa é o primeiro lugar visitado por Alyndra⁹ antes de partir.
-
-⁶ **aethron / aethrons** — Unidade de tempo imensa; equivalente a um milênio (mil valens). Termo mantido em língua antiga por se tratar de conceito cosmogônico único de Alyndra. Os alicerces do orfanato existem há *aethrons*⁶. Na narração comum, usa-se "milênio/milênios" (já aplicado nos capítulos).
-
-⁷ **aethra** — Manifestação física da alma; energia espiritual fundamental. O amor de Ayla³⁰ por Alyndra⁹ é comparado a *aethra*⁷ — não morre, transforma-se.
-
-⁸ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²⁹. A ameaça que destruiu parte do orfanato e que motiva a ida de Alyndra⁹ a Thalassia²⁴.
-
-⁹ **Alyndra / Alyndra Marethyus** — Última herdeira de Thalassia²⁴; cinco *valens*⁵. Caminha para *Thalassia*²⁴ ao final do capítulo. Filha de Aurelius²⁶ e Ayla³⁰. Não sabe que as palavras na parede são de sua mãe.
-
-¹⁰ **Lyris** — Agente de *Tar-Gig*³⁵; protetora e tutora de Alyndra⁹. Acompanha Alyndra⁹ a *Thalassia*²⁴. Traduziu as palavras de *Emê-Gir*²⁹ da parede do quarto de Ayla³⁰.
-
-¹¹ **Kira** — Monitora júnior do Orfanato Luminis⁸; quinze *valens*⁵. Guardava sementes de *Giralis*² e plantou a flor que sobreviveu no jardim do orfanato.
-
-¹² **Dravyn** — Criança do orfanato; desenhista. Seus desenhos nas paredes do corredor leste — incluindo um retrato de Alyndra⁹ e Nyx¹⁵ — parcialmente sobreviveram ao ataque.
-
-¹³ **Tomas** — Criança do orfanato; carrega pedras de contagem. Encontrou três de suas vinte e sete pedras entre os escombros.
-
-¹⁴ **cryonys** — Fusão elemental de Água e Vento; gelo e congelamento absoluto. A disciplina de Alyndra⁹ está *silenciada* mas *presente* — dorme nas veias como uma semente aguardando a primavera.
-
-¹⁵ **Nyx** — *Lyrien*¹³ de estimação de Alyndra⁹; *lyrien*¹³ de pelagem prateada. Morto ao defender Alyndra⁹ da aberração. A mão de Alyndra⁹ está vazia onde Nyx¹⁵ costumava descansar. Um fragmento de pelo prateado do tamanho de uma unha foi recuperado por Lyris¹⁰.
-
-¹⁶ **velrok** — Criatura de carga e montaria. Referência na comparação entre o caos do ataque e um *velrok*¹⁶ arrancando vegetação.
-
-¹⁷ **Mila** — Criança do orfanato; dois *valens*⁵. Não foi sequestrada durante o ataque. Seu sorriso ao ver a *Giralis*² sobrevivente foi comparado a uma flor nascendo em campo de cinzas.
-
-¹⁸ **Umbra** — Reino das Sombras e Mistérios; sétimo reino. Mercenários de *Umbra*¹⁸ participaram do ataque ao orfanato.
-
-¹⁹ **alara** — A manhã; período após o *ante-aurion*²⁰. Melessa⁵ fazia pão toda *nyra*²¹, antes do *alara*¹⁹. Na narração, usa-se "manhã" (já aplicado nos capítulos).
-
-²⁰ **ante-aurion** — A madrugada. Alyndra⁹ acordou durante o *ante-aurion*²⁰ na câmara médica de Sanctrum²³.
-
-²¹ **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Melessa⁵ morreu há *nyras*²¹. O orfanato ficou vazio por *nyras*²¹. Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
+³ **ante-aurion** — Vide nota ³ do capítulo anterior.
 
 
-²³ **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões. Alyndra⁹ despertou em Sanctrum²³ após a batalha.
+⁵ **valen / valens** — Unidade de tempo longa; equivalente a um ano. Alyndra⁷ tem cinco *valens*⁵. Kira²³ tem quinze *valens*⁵. Mila²⁶ tem cerca de dois *valens*⁵. Na narração, usa-se "ano" (já aplicado nos capítulos).
 
-²⁴ **Thalassia** — Reino Submerso; Maré de Cristal. Destino de Alyndra⁹ e Lyris¹⁰. Linhagem de Ayla³⁰ e Marethyus. O horizonte para o qual Alyndra⁹ caminha.
+⁶ **aethrys** — Material cristalino com propriedades elementais. As paredes de Sanctrum⁹ são de *aethrys*⁶ branco polido.
 
-²⁵ **Sylvaris** — Reino dos Ventos Livres; terceiro reino. As casas de Melessa⁵ e Ayla³⁰ ficam em *Sylvaris*²⁵, perto de Velantis²⁷. Os campos de *aethrys*¹⁴ se estendem pelas planícies de *Sylvaris*²⁵.
+⁷ **Alyndra / Alyndra Marethyus** — Última herdeira de Thalassia²⁸; cinco *valens*⁵. Desperta em câmara médica de Sanctrum⁹ com o *cryonys*¹⁰ silenciado e Nyx¹² morta.
 
-²⁶ **Aurelius** — *En Me*³³ de Sanctrum²³; pai secreto de Alyndra⁹. Não aparece diretamente neste capítulo — mas sua sombra está presente nas palavras de Ayla³⁰ e no fragmento de Nyx¹⁵ que Lyris¹⁰ carrega.
+⁸ **Orfanato Luminis** — Orfanato onde Alyndra⁷ cresceu; localizado em Velantis³⁹, Sylvaris²⁴. Sendo reconstruído com supervisão de Elara³⁴ Elara³⁵.
 
-²⁷ **Velantis** — Segunda maior cidade de Sylvaris²⁵; localização do Orfanato Luminis⁸. A cidade está sendo reconstruída após o ataque. O *Farol de Sylvaris*²⁵ guia viajantes à noite.
+⁹ **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões. Alyndra⁷ desperta em uma câmara médica de *Sanctrum*⁹.
 
-²⁸ *(entrada removida — velrok, vide nota ¹⁶)*
+¹⁰ **cryonys** — Fusão elemental de Água e Vento; gelo e congelamento absoluto. A disciplina de Alyndra⁷ está silenciada após o esforço do despertar.
 
-²⁹ **Nihil Shid** — Ordem secreta de *nihilarys*⁸. A ameaça que motiva a partida de Alyndra⁹ a *Thalassia*²⁴. A aberração destruída por Aurelius²⁶ foi uma *experiência* dos *Nihil Shid*²⁹.
+¹¹ **Aurion** — A estrela central de Alyndra. A luz do *Aurion*¹¹ entra pela janela da câmara médica.
 
-³⁰ **Ayla / Ayla Marethyus** — Mãe de Alyndra⁹; princesa de *Thalassia*²⁴; falecida no parto. Escreveu uma mensagem de amor em *Emê-Gir*³⁹ na parede do quarto onde se escondeu durante a gravidez. Alyndra⁹ não sabe que as palavras são de sua mãe.
+¹² **Nyx** — *Lyrien*¹³ de estimação de Alyndra⁷; *lyrien*¹³ de pelagem prateada. *Morto* — sacrificou-se para defender Alyndra⁷ da aberração. Sua ausência é uma ferida que Alyndra⁷ não consegue cicatrizar.
 
-³¹ **Anciãos** — Três seres imensamente antigos sob a Torre de Aurion³⁸. Prepararam a vinda de Alyndra⁹ a *Thalassia*²⁴. (Referenciado indiretamente neste capítulo.)
+¹³ **lyrien** — Criatura elemental de companhia. Nyx¹² era um *lyrien*¹³ de pelagem prateada.
 
-³² **Mespiria** — Vila agrícola em Sylvaris²⁵; onde Ayla³⁰ se escondeu e Alyndra⁹ nasceu sob a oitava *Convergência Tripla*³⁹.
+¹⁴ **Manopla da Vinculação** — Relíquia de Aurelius²⁰ contendo o selo de Elarys⁵ e o poder de Nyxalor³². Aurelius²⁰ sente que seu coração pesa mais que a *Manopla da Vinculação*¹⁴.
 
-³³ **En Me** — Título do Guardião Mestre de Sanctrum²³. Aurelius²⁶ é o *En Me*³³ atual.
+¹⁵ **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
+
+¹⁶ **Lyris** — Agente de *Tar-Gig*²¹; protetora de Alyndra⁷. Chegou à câmara médica e abraçou Alyndra⁷. Acompanhará as crianças de volta ao orfanato.
+
+¹⁷ **argenis** — Árvore; termo genérico para grandes vegetais lenhosos. Lyris¹⁶ foi comparada a uma *argenis*¹⁷ que sobreviveu a uma tempestade.
+
+¹⁸ **aethra** — Manifestação física da alma; energia espiritual fundamental. As *tempestades de aethra*¹⁸ podem atrasar a viagem a Velantis³⁹.
+
+¹⁹ **Thermaris** — Fusão elemental de Água e Fogo; vapor superaquecido. Disciplina de Lyris¹⁶.
+
+²⁰ **Aurelius** — *En Me*²⁹ de Sanctrum⁹; pai secreto de Alyndra⁷. Observa Alyndra⁷ por uma fresta no corredor sem ser visto.
+
+²¹ **Tar-Gig** — Organização de inteligência e operações especiais.
 
 
-³⁵ **Tar-Gig** — Organização de inteligência e operações especiais. Lyris¹⁰ é agente de *Tar-Gig*³⁵.
+²³ **Kira** — Monitora júnior do Orfanato Luminis⁸; quinze *valens*⁵. *Sylentis*⁴¹ — sem afinidade elemental ativa. Correu para abraçar Alyndra⁷ ao reencontrá-la.
 
-³⁶ **aetherite** — Mineral cristalino denso. Referência genérica a materiais de construção.
+²⁴ **Dravyn** — Criança do orfanato; desenha *tudo* o tempo. Retratou Alyndra⁷ e Nyx¹² em papel com carvão.
 
-³⁷ **Kalúdris** — Ordem da Aurora; organização militar a que Aurelius²⁶ pertencia. (Referenciada na linhagem de Ayla³⁰.)
+²⁵ **Tomas** — Criança do orfanato; a mais nova entre os que viajaram. Carrega pedras de contagem desde os três *valens*⁵.
 
-³⁸ **Torre de Aurion** — Ponto mais alto de Sanctrum²³; solar do *En Me*³³. Abaixo da fundação, a câmara dos Anciãos³¹.
+²⁶ **Mila** — Criança do orfanato; cerca de dois *valens*⁵. Não foi sequestrada — ficou escondida durante o ataque. Seu sorriso foi comparado a uma flor de *Giralis*².
 
-³⁹ **Emê-Gir** — Língua antiga de Alyndra; mais velha que os reinos. Cada símbolo carrega três camadas de significado: literal, emocional e pessoal. Ayla³⁰ escreveu a mensagem do quarto em *Emê-Gir*²⁹.
+²⁷ **velrok** — Criatura de carga e montaria. O comboio usa três *velroks*³⁷ para a viagem a Velantis³⁹.
+
+²⁸ **Marethyus** — Sobrenome da linhagem de Thalassia²⁸. Alyndra⁷ carrega os traços Marethyus²⁸ no queixo.
+
+²⁹ **En Me** — Título do Guardião Mestre de Sanctrum⁹. Aurelius²⁰ é o *En Me*²⁹.
+
+³⁰ **Ayla / Ayla Marethyus** — Mãe de Alyndra⁷; morta no parto. Alyndra⁷ tem o rosto de Ayla³⁰.
+
+³¹ **Erupção do Carmesim** — Técnica suprema de Aurelius²⁰. Aurelius²⁰ sente que seu coração pesa mais que algo que *suportou a Erupção do Carmesim*³¹.
+
+³² **Nyxalor** — Entidade ancestral de fogo e destruição; aprisionada na *Manopla da Vinculação*¹⁴.
+
+³³ **nihilary / nihilarys** — Agentes dos *Nihil Shid*⁴⁰; seres de escuridão. A aberração que matou Nyx¹² era composta de milhares de *nihilarys*³³.
+
+³⁴ **Elara** — Título concedido a operativas de alto escalão em Sanctrum⁹. Elara³⁴ Elara³⁵ coordena a reconstrução do Orfanato Luminis⁸ e o transporte das crianças.
+
+³⁵ **Elara** — Nome da Elara³⁴ que coordena a logística; também nome de uma das três luas de Alyndra.
+
+³⁹ **alara** — A manhã; período após o *ante-aurion*³. O transporte sai ao *alara*³⁶. Na narração, usa-se "manhã" (já aplicado nos capítulos).
+
+
+³⁸ **Koramis** — Ave de cristal negro; montaria aérea de guerra. Uma *Koramis*³⁸ de carga transporta suprimentos.
+
+³⁹ **aetherite** — Mineral cristalino denso. A ponte que liga Sanctrum⁹ ao continente é feita de *aetherite*³⁹.
+
+⁴⁰ **Nihil Shid** — Ordem secreta de *nihilarys*³³; responsáveis pela conspiração contra Alyndra⁷.
+
+⁴¹ **sylentis** — Indivíduo sem afinidade elemental ativa; sem *aethra*¹⁸ manifestado.

@@ -6,181 +6,205 @@
 
 # CAPÍTULO XXVIII
 
-# O Caminho das Lágrimas
+# Frentes de Resgate
 
-*"Não existem resgates limpos. Cada criança que voltamos a encontrar carrega no corpo a marca do que perdeu — e o que perdeu nunca cabe em um relatório."*
-
----
-
-## I. As Veias do Mapa
-
-Cinco equipes. Sete rotas. Três reinos.
-
-A operação que Selynis Thalassa¹ havia desenhado na *Câmara dos Sussurros*² tomou forma no território como uma teia de veias luminosas se espalhando pelo corpo do continente — cada equipe um vaso sanguíneo, cada rota um caminho que o sangue precisava percorrer para chegar ao coração ferido. E o coração ferido era, naquele momento, um ponto no mapa que pulsava em vermelho: o *Ponto Ômega*³, o templo nas planícies de cinza onde todas as linhas se cruzavam, onde todas as *cargas fantasmas*⁴ convergiam, onde Alyndra⁵ estava sendo levada.
-
-As equipes não se comunicavam entre si — o protocolo era silêncio absoluto em campo, comunicação exclusivamente pela *RRA*⁶ em frequência cifrada, e mesmo assim apenas transmissões essenciais: posições, anomalias, contatos. Cada equipe operava de forma autônoma, como um órgão que cumpre sua função sem perguntar ao corpo inteiro o que fazer — os pulmões respiram sem consultar o fígado, e as equipes de resgate avançavam sem consultar umas às outras, porque a velocidade era mais importante que a coordenação, e a coordenação, em território hostil, era uma ilusão que se desvanecia no primeiro contato com o inimigo.
-
-A primeira equipe — liderada por Sera, a mulher que Selynis Thalassa¹ havia treinado pessoalmente e que se movia em silêncio mesmo montada em um *velrok*⁷ — avançava para o norte, cortando as colinas de *Val-Koras*⁸ em diagonal. Levavam quatro operativos, suprimentos para quinze dias, e uma informação que Sera não compartilhava com os outros: um depósito intermediário de *cargas fantasmas*⁴ havia sido identificado dois dias antes por um contato comercial de Selynis Thalassa¹ em *Fulmora*⁹ — um armazém abandonado nas bordas de *Val-Koras*⁸ que, de acordo com o contato, guardava não mercadoria, mas pessoas. Crianças.
-
-A segunda equipe seguiu para leste, cruzando a fronteira de *Sylvaris*¹⁰ em direção às planícies cinzentas que separavam os reinos iluminados de *Umbra*¹¹. Cinco operativos, incluindo dois especialistas em rastreamento por *aetherite*¹² — e um passageiro não autorizado que se apresentou no ponto de partida com uma garrafa de tinta nos bolsos e uma expressão de quem não vai aceitar um "não" como resposta.
-
-Lysias Thyrion¹³ não era um combatente. Lysias Thyrion¹³ era um repórter — um homem que havia passado valens transformando palavras em armas e fatos em munição, e que agora queria transformar testemunhos em algo que o mundo não pudesse ignorar. Sera o recusou — duas vezes. Na terceira vez, Lysias Thyrion¹³ não pediu. Simplesmente montou em um *velrok*⁷ de carga atrás do último operativo da segunda equipe e disse:
-
-— Se me mandarem de volta, eu volto. Se me amarrarem, eu fico amarrado e escrevo de memória. Se me matarem, o *Heraldo de Velantis*¹⁴ publica tudo que eu já mandei. Vocês não têm como perder.
-
-O argumento era pragmático, cínico, e perfeitamente calibrado para o tipo de pessoa que toma decisões em frações de segundo. Sera olhou para ele por quatro segundos — avaliando o risco de ter um civil na equipe contra o risco de ter um repórter furioso publicando relatórios não autorizados — e disse apenas:
-
-— Não fala. Não corre. Não morre. Se quebrar alguma dessas regras, eu te deixo no caminho.
-
-Lysias Thyrion¹³ assentiu. Guardou a garrafa de tinta. E a segunda equipe partiu para leste com os cinco operativos e um homem que não sabia lutar mas que sabia escrever — o que, em guerras como aquela, era uma forma de luta.
-
-A terceira equipe avançou para sul, cobrindo os portos de *Sylvaris*¹⁰ — uma possibilidade remota, mas Selynis Thalassa¹ não deixava possibilidades remotas desprotegidas. A quarta equipe operou a partir de *Sanctrum*¹⁵, processando dados em tempo real e alimentando o mapa de probabilidade. A quinta equipe — a cobertura aérea, montada em *Koramis*¹⁶ de cristal — cruzou o céu como sombras contra o dourado de *Aurion*¹⁷, com *aetherite*¹² nos arreios e cristais de comunicação sintonizados na frequência reservada.
-
-Cinco equipes. Sete rotas. Três reinos. E em algum lugar entre eles — em um ponto que nenhuma equipe havia alcançado ainda, em um caminho que nenhuma equipe conhecia — Korath¹⁸ corria com Alyndra⁵ no ombro e *Nyx*¹⁹ enroscada em seu peito, e a distância entre eles e as equipes de resgate crescia a cada segundo como um abismo que se alarga lentamente, com a paciência imperturbável de quem sabe que o tempo está do seu lado.
+*"Quando a tempestade atinge o centro, não há abrigo — só direções. E cada direção é um risco que alguém precisa correr."*
 
 ---
 
-## II. Os Olhos que Não Esquecem
+## I. O Abalo da Torre
 
-O depósito intermediário nas bordas de *Val-Koras*⁸ era um armazém de pedra escura, sem janelas, com uma única porta de ferro enferrujado que havia sido trancada por fora — não com cadeado, mas com um sigilo de *aethra*²⁰ que nenhum ladrão comum conseguiria quebrar e que, no entanto, se desfez quando Sera colocou a mão sobre ele e canalizou uma corrente de *aethra*²⁰ de intensidade cirúrgica, cortando o sigilo como um bisturi corta sutura.
+A notícia chegou primeiro pela *RRA*¹ — não como notícia, mas como ruído. Um padrão de interferência na frequência reservada que os operadores da *Torre de Aurion*² identificaram como anomalia, catalogaram como estática, e ignoraram por três segundos antes de perceberem que a estática tinha ritmo — e o ritmo era o ritmo de uma mensagem cifrada de emergência, o tipo de mensagem que só era transmitida quando algo havia ultrapassado o limiar do intolerável.
 
-A porta se abriu.
+A notícia chegou depois pelo cristal privado — e este sim era impossível de ignorar, porque o cristal não vibrava na frequência padrão da *RRA*¹, não pulsava com a modulação azul-esverdeada dos relatórios da *Tar-Gig*³, e não emanava o brilho opaco dos canais diplomáticos. O cristal privado pulsava com a cor do *aethra*⁴ de uma pessoa específica — uma cor que apenas uma pessoa no mundo podia produzir — e quando pulsava nessa cor, a *Torre de Aurion*² inteira sentia, porque a *Torre de Aurion*² foi construída para responder ao *aethra*⁴ de quem governa, e quem governa estava, naquele instante, sentindo algo que fazia o ar ao redor vibrar.
 
-O que estava dentro — Sera e seus quatro operativos, armados até os dentes, preparados para combate, para emboscada, para qualquer coisa que o inimigo tivesse deixado como armadilha — não era o que esperavam. Não havia guardas. Não havia *nihilarys*²¹. Havia crianças. Oito crianças — as mais novas tinham talvez três valens, as mais velhas não passavam de nove — encolhidas no canto mais escuro do armazém, sobre um colchão fino que cheirava a mofo e urina, com os olhos arregalados e o corpo rígido de quem aprendeu, nos últimos meses, que qualquer som podia ser o som de algo ruim chegando.
+Aurelius⁵ estava em seu gabinete no topo da torre — o Solar Privado do *En Me*⁶, como era chamado, uma sala circular com paredes de cristal que ofereciam uma vista panorâmica de *Sanctrum*⁷ em todas as direções. A cidade se estendia abaixo como uma tapeçaria de luz e pedra: torres de *aethrys*⁸ brilhando na manhã, canais de *aethra*⁴ azul-dourada cortando ruas pavimentadas em mármore branco, pontes que conectavam andares superiores como costuras que prendiam o céu à terra. Era a vista mais bonita do continente — e Aurelius⁵ não a viu. Seus olhos estavam fechados.
 
-Não choraram quando a porta se abriu. Isso — o fato de que oito crianças não choraram quando estranhos armados entraram no cômodo onde estavam trancadas — era, para Sera, mais perturbador do que qualquer emboscada. Crianças deveriam chorar. Deveriam gritar, espernear, pedir ajuda. Mas estas crianças não fez nada disso — apenas ficaram imóveis, com os olhos fixos nos operativos como coelhos fixam os olhos nos faróis de um *velrok*⁷ que se aproxima: sem esperança, sem medo, apenas a vazia antecipação do impacto.
+O cristal privado pulsou pela terceira vez.
 
-Sera ajoelhou-se. Ajoelhou-se não como uma combatente se ajoelha — com o joelho direito à frente, pronto para levantar em um segundo — mas como uma pessoa se ajoelha: devagar, com os dois joelhos no chão frio, com os olhos na altura dos olhos delas.
+Aurelius⁵ abriu os olhos.
 
-— Meu nome é Sera — ela disse, e sua voz — que meses de espionagem haviam transformado em um instrumento de precisão, capaz de sussurrar informações em um quarto lotado sem que ninguém ouvisse — era agora suave, quase materna, como se a mulher que existia por baixo da agente estivesse, naquele momento, no comando. — Vocês estão seguras. Vim buscar vocês.
+O que viu no cristal — o que *leu*, porque a transmissão era de *aethra*⁴, não de palavras; informação direta, pura, sem a mediação imperfeita da linguagem — o fez fechar os olhos de novo. Não de dor, não de desespero, mas de uma contenção tão extrema que exigia que todos os sentidos se recolhessem para dentro, como os músculos de um atleta antes do salto — toda a energia comprimida em um único ponto de foco.
 
-A criança mais velha — uma menina de cabelos escuros e olhos muito grandes, que usava uma túnica três números maior do que seu corpo — olhou para Sera por um longo momento. Depois, sem dizer uma palavra, abriu os braços.
+E a *Torre de Aurion*² tremeu.
 
-E as outras crianças — uma por uma, em sequência, como se o gesto da mais velha fosse uma permissão — se aproximaram e se agarraram a ela. Não a Sera. À menina. À menina de cabelos escuros e olhos grandes que, nos dias em que estiveram trancadas, se tornara a guardiã delas — a mãe improvisada, a protetora de último instante, a criança que assumiu o papel de adulto porque nenhum adulto estava presente.
+Não um tremor de terra — *Sanctrum*⁷ não tinha terremotos, porque a cidade fora construída sobre um leito de cristal estabilizador que absorvia qualquer vibração geológica antes que chegasse à superfície. O tremor veio de outra fonte: veio do *aethra*⁴ de Aurelius⁵, do *aethra*⁴ que, em um segundo de emoção descontrolada, se expandiu para além dos limites de seu corpo e percorreu as paredes de cristal da torre como uma onda que se propaga na água. Os cristais vibraram. O ar vibrou. Os operadores nas salas inferiores — três andares abaixo do Solar — olharam para o teto com a expressão de quem percebe que algo grande aconteceu acima, mas não sabe o quê.
 
-Sera sentiu algo apertar dentro do peito — algo que meses de treinamento haviam tentado extirpar, e que, de vez em quando, em momentos como aquele, voltava à superfície como uma *giralis*²² que brota no concreto: inesperada, impossível, absurdamente viva.
+Aurelius⁵ abriu os olhos pela segunda vez. Desta vez, os olhos não eram os olhos de sempre — eram os olhos de quem tomou uma decisão em um segundo e vai executá-la antes que o próximo segundo passe.
 
-Na outra equipe — a segunda equipe, a equipe com o passageiro não autorizado — Lysias Thyrion¹³ escrevia.
+— Cada agente — ele disse, e sua voz não era alta, mas preenchia a sala como o som de um sino preenche uma catedral — cada contato. Cada recurso em cada reino. *Encontrem-nas.*
 
-Escrevia em seu caderno de couro, com uma caneta que havia pertencido ao avô — uma caneta de *aethrys*²³ esculpida, com a ponta que nunca secava e o corpo que pesava nas mãos como uma promessa. Escrevia tudo: os rostos das crianças que a primeira equipe resgatou — "olhos de quem viu demais, bocas de quem não pode falar" — a expressão de Sera quando ajoelhou — "o joelho no chão de uma agente é o gesto mais vulnerável que já vi" — o caminho que a equipe fazia pelo terreno irregular de *Val-Koras*⁸, os *velroks*⁷ avançando em fila, a nyxara descendo sobre as colinas como um manto de silêncio.
+A ordem partiu pelo cristal como um raio que se ramifica: em *Sanctrum*⁷, os operativos da *Tar-Gig*³ receberam a transmissão e pararam o que estavam fazendo — relatórios, vigilância, contra-inteligência — e se prepararam para a única missão que importava. Em *Zephyra*⁹, o sinal alcançou os canais secundários e foi retransmitido para as células operacionais no interior de *Sylvaris*¹⁰. Em *Fulmora*¹¹, os contatos comerciais que Selynis mantinha sob fachadas de importação e exportação receberam o alerta codificado e começaram a rastrear rotas de *cargas fantasmas*¹².
 
-Não era reportagem. Era testemunho. A diferença — Lysias Thyrion¹³ sabia — era que reportagem informa, e testemunho transforma. E o que ele estava vendo naquela operação não era informação que precisava ser informada. Era verdade que precisava ser testemunhada.
+Em *Umbra*¹³, onde as sombras eram mais espessas e os ouvidos mais numerosos, a notícia não chegou — porque em *Umbra*¹³, a notícia já era conhecida. Os *Nihil Shid*¹⁴ operavam há meses. Sabiam que o momento viria. E quando veio, estavam prontos.
 
-— Anota isso — o operativo ao lado dele disse, sem olhar para Lysias Thyrion¹³, observando a nyxara com os olhos de quem varre o horizonte em busca de ameaças. — Quando a história sair, que seja verdadeira.
+Aurelius⁵ sabia disso. Sentia isso — uma pressão no peito que não era ansiedade mas *clareza*, a clareza brutal de quem enxerga o tabuleiro inteiro e percebe que o inimigo fez a jogada que esperava. Não havia surpresa na reação de Aurelius⁵. Havia algo pior: a certeza absoluta de que cada momento perdido era um momento em que Alyndra¹⁵ se afastava, e que a distância entre eles — a distância que ele havia mantido por valens, a distância que era ao mesmo tempo proteção e covardia — estava crescendo a cada segundo.
 
-— Vai ser — Lysias Thyrion¹³ respondeu, e a caneta não parou.
+Ele se levantou. Ajoelhou-se diante do cristal. E pela primeira vez em valens — pela primeira vez desde que a Convergência Tripla o arrancara do sono com a sensação de uma perda que não conseguia nomear — Aurelius⁵, o *Guardião Mestre*¹⁶, o homem mais poderoso de Alyndra, orou.
 
----
-
-## III. A Barreira de Cristal
-
-A segunda equipe encontrou o grupo na caverna.
-
-Não era uma caverna natural — ou se era, havia sido modificada: as paredes haviam sido escavadas de forma regular, o chão havia sido aplanado, e na entrada alguém havia erguido uma barreira de pedra empilhada que servia tanto para esconder a entrada quanto para impedir que quem estivesse dentro conseguisse sair. A barreira foi derrubada pelos operativos em três segundos — dois empurrando, um cortando com *aethra*²⁰ direcionado — e o que estava dentro fez toda a equipe parar.
-
-Cinco crianças. Não encolhidas — *agrupadas*. Organizadas em um círculo compacto no centro da caverna, com os corpos pressionados uns contra os outros como se a proximidade fosse uma fortaleza e a presença mútua fosse um muro. E no centro do círculo — protegendo as menores com os próprios braços, com os joelhos sangrando, com o rosto pálido como papel e os olhos brilhando com uma luz que não era luz normal — uma menina de doze valens, aproximadamente, cujas mãos emanavam uma aura tênue de *aethra*²⁰ que formava, ao redor do grupo, uma barreira semitransparente.
-
-A barreira era fraca — tão fraca que os especialistas em *aethra*²⁰ da equipe podiam ver as rachaduras nela, os pontos onde a energia se dissipava, os instantes em que a estrutura inteira tremia como uma membrana prestes a se romper. Mas estava *ali*. Intacta. Funcional. Cobrindo cinco crianças com uma cúpula de luz que nenhuma delas — nenhuma — tinha *aethra*²⁰ suficiente para criar.
-
-Exceto uma.
-
-A menina do centro sentiu a barreira ceder quando os operativos entraram — não porque os operativos a atacassem, mas porque o susto interrompeu a concentração dela, e a concentração era a única coisa que mantinha a barreira de pé. A cúpula desfez-se em fragmentos de luz que se dissiparam como flocos de *giralis*²² carregados pelo vento, e a menina — exausta, desnutrida, com hematomas nos pulsos onde mãos desconhecidas a tinham segurado — olhou para os operativos com uma expressão que Lysias Thyrion¹³ nunca esqueceria.
-
-Não era medo. Era *exaustão* — a exaustão absoluta, final, de quem chegou ao limite e descobriu que o limite era mais longe do que imaginava, e que mesmo assim havia chegado ao fim dele. Seus olhos — olhos de um âmbar profundo que brilhavam na escuridão como brasas — percorreram o grupo de estranhos e pararam em Lysias Thyrion¹³. Pararam na caneta em sua mão. E algo — algo que não era esperança, não era alívio, algo que era mais primitivo e mais antigo — passou por eles.
-
-Ela desabou.
-
-Não dramaticamente — seu corpo apenas cedeu, como uma *argentis*²⁴ que perde a seiva, e ela caiu para a frente, sobre as crianças menores, que a seguraram com os braços curtos e gritaram — o primeiro som que fizeram desde que os operativos entraram: um grito que não era de medo, mas de *protesto*, como se o universo estivesse cometendo uma injustiça ao permitir que aquela menina caísse depois de tudo que ela tinha feito.
-
-Lysias Thyrion¹³ escreveu. Escreveu com as mãos tremendo — e as mãos de Lysias Thyrion¹³ não tremiam há meses, não desde a primeira reportagem sobre as *cargas fantasmas*⁴, quando um operário de *Umbra*¹¹ ameaçou quebrar seus dedos se ele publicasse uma única linha. Escreveu:
-
-> *"Sobreviveram não por poder, mas por estarem juntos. A barreira de aethra não era forte — era o último recurso de uma menina que não podia mais. Mas foi suficiente. Cinco crianças vivem porque uma menina se recusou a desistir. E quando ela caiu, quem a segurou foram as mesmas crianças que ela protegeu. Não existe reversão nisso — não existe hierarquia, não existe dívida. Existe apenas a verdade mais antiga do mundo: ninguém sobrevive sozinho."*
-
-O equipe socorreu a menina — água, compressas, o pouco de alimento que carregavam nas bolsas. Ela não pronunciou uma palavra. Mas quando a equipe a levantou do chão, a menina de olhos âmbar abriu a mão — e na palma havia um fragmento de *aetherite*¹², tão pequeno quanto uma unha, que emanava uma luz azul-esverdeada: a cor da *RRA*⁶.
-
-Ela o segurava desde que a embalaram ali — dois dias, talvez três. A *aetherite*¹² não era uma ferramenta de comunicação; era uma *bússola*. Alguém — talvez os próprios *Nihil Shid*²⁵, talvez um operativo infiltrado que sabia que as crianças precisariam de alguma forma de contato — havia colocado o fragmento no bolso de uma das crianças menores. E a menina de olhos âmbar o encontrara, o ativara instintivamente, e o segurara com a tenacidade de quem sabe que um fragmento de luz, no escuro, pode ser a diferença entre viver e desaparecer.
-
-Sera — que monitorava todas as equipes pela *RRA*⁶ — recebeu o sinal do fragmento. A localização foi triangulada em segundos. E no mapa de cristal na *Câmara dos Sussurros*², um ponto azul piscou onde antes só havia escuridão: cinco crianças vivas, uma menina exausta, e um fragmento de *aetherite*¹² que brilhava como uma estrela caída nas mãos de quem não tinha nada além das próprias mãos.
+Não para *Aurion*¹⁷. Não para os Seraphyens. Para uma menina que não sabia que ele existia.
 
 ---
 
-## IV. O Preço
+## II. O Centro da Tempestade
 
-Nem todas as frentes encontraram crianças vivas.
+*Sanctrum*⁷ se transformou.
 
-Nem todas as frentes voltaram inteiras.
+A transformação não foi visível para a maioria dos cidadãos — as ruas continuavam movimentadas, os mercados funcionavam, os canais de *aethra*⁴ pulsavam com a regularidade de sempre. Mas nas camadas superiores — nas Torres de *aethrys*⁸ que abrigavam os órgãos de poder, nas câmaras subterrâneas onde as decisões realmente eram tomadas, nos corredores sem janela por onde operativos passavam como sombras vestidas de túnica — *Sanctrum*⁷ se transformou. Deixou de ser uma capital e se tornou um quartel-general.
 
-A terceira equipe — a que cobria os portos de *Sylvaris*¹⁰ — foi emboscada no ante-aurion do terceiro dia de operação. A emboscada foi perfeita: três operativos avançando pela estrada costeira, confiantes porque a rota havia sido varrida e considerada segura, e do nada — do silêncio, da névoa que o mar ergue nas nyxaras, da escuridão entre os postes de iluminação que haviam sido apagados um a um sem que ninguém notasse — os *nihilarys*²¹ surgiram.
+A *RRA*¹ transmitiu a notícia na manhã seguinte. Não como reportagem — a *RRA*¹ não fazia reportagens; a *RRA*¹ transmitia fatos, e fatos, quando transmitidos com a neutralidade absoluta de um sistema que não tinha opiniões, eram mais devastadores do que qualquer adjetivo. A transmissão foi breve: "Ataque ao Orfanato Luminis¹⁹, *Velantis*²⁰. Múltiplas crianças levadas. Alyndra¹⁵ separada do grupo. Responsáveis não identificados. Investigação em andamento."
 
-*Nihilaryth*²¹ não lutam como humanos lutam. *Nihilaryth*²¹ lutam como escuridão luta: sem forma fixa, sem peso, sem som. Eles se movem nas sombras entre as sombras, e quando atacam, o ataque não vem de uma direção — vem de todas, simultaneamente, como se a própria escuridão se curvasse em torno da presa e a engolisse por inteiro. Dois operativos morreram ali — dois homens e mulheres que meses de serviço haviam transformado em máquinas de sobrevivência, e que naquela estrada costeira, naquela nyxara, descobriram que mesmo máquinas podem ser desmontadas.
+A brevidade era a arma. Porque entre as linhas — entre as palavras não ditas, entre as informações omitidas — havia um abismo que qualquer pessoa com conhecimento mínimo da política continental podia preencher: se o Orfanato Luminis¹⁹ fora atacado, e se a criança separada era Alyndra¹⁵, então o ataque não era aleatório. Era cirúrgico. E quem faz ataques cirúrgicos contra orfanatos protegidos por ex-agentes da *Tar-Gig*³ não é um bandido comum — é uma organização com recursos, informação e motivação suficiente para enfrentar as consequências.
 
-O terceiro operativo — um homem chamado Varn, que havia chegado à *Tar-Gig*²⁶ por recomendação de Aldric²⁷ — sobreviveu. Sobreviveu não por habilidade — a habilidade, contra *nihilarys*²¹, é insuficiente — mas por *aetherite*¹². O fragmento que carregava no peito, dentro de um compartimento blindado, emitiu um segundo de luz quando a emboscada começou — um segundo automático, uma última mensagem que *aetherite*¹² envia quando o portador está prestes a morrer — e o segundo alertou a equipe aérea, que chegou em tempo de afastar os *nihilarys*²¹ com explosões concentradas de *aethra*²⁰, mas não em tempo de salvar os dois que já tinham caído.
+O continente ficou em choque.
 
-Varn voltou sozinho. Trazia nos braços o corpo de um companheiro — não podia carregar dois — e nos olhos a expressão de quem viu o rosto do inimigo e reconheceu algo que não deveria existir: *preparação*. Os *nihilarys*²¹ não estavam ali por acaso. Não haviam interceptado a equipe por sorte. Sabiam que a equipe viria. Sabiam a rota. Sabiam o segundo de chegada.
+Lysias Thyrion²¹ recebeu a transmissão em seu quarto de hospedaria em *Velantis*²⁰ — que, ironicamente, ficava a menos de dois quilômetros do Orfanato Luminis¹⁹. O repórter — que há meses vinha documentando as *cargas fantasmas*¹², que havia recebido um fragmento de cristal negro como ameaça, que publicara artigos que fizeram pessoas poderosas sentirem desconforto — ouviu a transmissão e sentiu algo que não era surpresa. Era confirmação. A confirmação de tudo que ele vinha dizendo, de tudo que ninguém quis ouvir, de cada linha que escreveu e cada fonte que citou e cada risco que correu.
 
-Os *Nihil Shid*²⁵ anteciparam os resgates. Esperavam que as equipes fossem enviadas. E emboscá-las era tão importante para eles quanto capturar as crianças — talvez mais importante, porque cada equipe eliminada era uma equipe a menos buscando Alyndra⁵.
+— Eu avisei — ele sussurrou para o quarto vazio, para as paredes descascadas, para o fragmento de cristal negro no bolso da túnica. — Eu *avisei*.
 
-Sera recebeu a notícia na manhã seguinte. Sua expressão não mudou — o rosto de Sera era um instrumento de precisão que não desperdiçava movimentos em emoções. Mas suas mãos — as mãos que seguravam o cristal de comunicação — tremeram. E Sera não tremia.
+But o aviso, como todos os avisos dados a pessoas que não querem ouvir, tinha chegado tarde demais.
 
-— Dois — ela disse, e a palavra caiu no silêncio da frequência cifrada como uma pedra cai em um poço fundo.
+Na *Torre de Aurion*², a *Câmara dos Sussurros*²² se tornou o que Selynis Thalassa²³ sempre soube que poderia se tornar: o centro nervoso de uma operação continental. Mesas de cristal ativadas, projetando mapas tridimensionais de cada reino, com pontos luminosos marcando as posições conhecidas de agentes e as rotas suspeitas de *cargas fantasmas*¹². Operativos entravam e saíam sem que se falassem — a comunicação na câmara não era verbal; era gestual, uma coreografia de sinais que Selynis havia desenvolvido ao longo de valens de espionagem e que permitia que vinte pessoas trabalhassem na mesma sala sem trocar uma única palavra audível.
 
-Lysias Thyrion¹³ ouviu. Estava ao lado do cristal, escrevendo, e ouviu a palavra "dois" e entendeu — não porque alguém explicasse, mas porque a gramática da guerra é universal: quando alguém diz "dois" em um tom de voz como aquele, não está contando. Está lamentando.
+Selynis Thalassa²³ estava de pé no centro da câmara, com os olhos verdes percorrendo os mapas como um general percorre um campo de batalha. Seus dedos se moviam sobre a superfície da mesa de cristal — não tocando, apenas flutuando milímetros acima, como se pudesse sentir a topografia da informação através da *aethra*⁴ que emanava das projeções. Ela não estava nervosa. Selynis Thalassa²³ não ficava nervosa — a emoção que os outros chamavam de nervosismo, ela havia substituído há muito tempo por algo mais útil: uma atenção tão intensa que se parecia com calma.
 
-Escreveu no caderno:
+Havia algo pessoal na urgência de seus movimentos — uma precisão que excedia o profissional, uma velocidade que sugeria não apenas eficiência mas *necessidade*. E a necessidade tinha nome: Lyris²⁴. Selynis Thalassa²³ tinha enviado Lyris²⁴ para o Orfanato Luminis¹⁹. Tinha colocado Lyris²⁴ como guardiã de Alyndra¹⁵. E agora Alyndra¹⁵ tinha sido levada — e Lyris²⁴ estava ferida — e o santuário que Selynis Thalassa²³ havia construído com valens de planejamento e diplomacia e mentiras necessárias estava em ruínas.
 
-> *"Dois operativos da Tar-Gig morreram na estrada costeira de Sylvaris. Emboscada de nihilarys. O terceiro, Varn, voltou com um corpo nos braços. Não vou publicar os nomes — não até que as famílias sejam notificadas. Mas vou registrar: existiam. Foram valentes. E não voltaram."*
+Havia algo mais: Selynis Thalassa²³ sabia — com a certeza gelada de quem vê o resultado de suas próprias falhas — que poderia ter agido antes. Que os sinais estavam lá: as *cargas fantasmas*¹² triplicando, a lista encontrada por Daress²⁵ no templo abandonado, os padrões de movimentação nas fronteiras de *Fulmora*¹¹ e *Umbra*¹³ que gritavam que algo estava sendo preparado. Selynis Thalassa²³ tinha visto os sinais. Tinha interpretado os sinais. Tinha *entendido* os sinais.
 
-O *Heraldo de Velantis*¹⁴ publicaria aquilo meses depois — quando a poeira baixasse, quando os mortos fossem chorados, quando o mundo estivesse pronto para ler sem desmoronar. Mas o registro — o ato de escrever, o gesto de testemunhar — aconteceu ali, naquele segundo, com a caneta de *aethrys*²³ de um avô que acreditava que a verdade era a última defesa contra o esquecimento.
+E não agira a tempo.
 
-A verdade. Sempre a verdade. Mesmo quando a verdade era insuportável.
+Isso — a falha, o atraso, a criança arrancada do orfanato enquanto Selynis Thalassa²³ sentava em seu escritório mapeando rotas em vez de bloqueá-las — era algo que Selynis Thalassa²³ não perdoaria a si mesma. Não agora. Não enquanto Alyndra¹⁵ estivesse nas mãos de quem a levasse.
+
+— Preciso de cinco equipes — ela disse, e sua voz cortou o silêncio da câmara como uma navalha corta seda. — Três para varredura terrestre, uma para interceptação marítima, uma para cobertura aérea. Cada equipe com um mínimo de quatro operativos. Rastreamento por *aetherite*²⁶ em todas as rotas conhecidas de *cargas fantasmas*¹².
+
+Os sinais foram feitos. As equipes se formaram. E *Sanctrum*⁷ — a cidade de luz, a capital continental, a sede do poder que governava sete reinos — se tornou, naquela manhã, uma máquina de guerra.
 
 ---
 
-## V. A Frequência que Se Afasta
+## III. As Rotas se Abrem
 
-No topo da *Torre de Aurion*²⁸, Aurelius²⁹ estava de pé diante do painel de cristal — e o painel de cristal era, naquele momento, a coisa mais importante do mundo, porque o painel de cristal era um mapa, e o mapa mostrava cada equipe como um ponto de luz se movendo pelo território, e entre os pontos de luz — entre as equipes que avançavam, resgatavam, perdiam — havia um ponto que pulsava com uma cor diferente.
+As equipes partiram em direções diferentes — não aleatoriamente, mas de acordo com um mapa de probabilidade que Selynis Thalassa²³ havia construído em sua mente ao longo de meses de análise e que agora era materializado nas projeções de cristal da câmara: rotas convergentes, pontos de passagem, locais de armazenamento, cada dado sobre as *cargas fantasmas*¹² que a *Tar-Gig*³ havia coletado transformado em uma teia de possibilidades que tinha um centro — e o centro era um templo abandonado na fronteira de *Fulmora*¹¹ e *Umbra*¹³, nas planícies de cinza a leste de *Val-Koras*²⁷.
 
-A cor de Alyndra⁵.
+Selynis Thalassa²³ não mencionou o templo em voz alta. Não precisava — os operativos que precisavam saber já sabiam, e os que não precisavam saber não saberiam até que fosse seguro. Mas ela olhou para o ponto no mapa — um ponto que pulsava com luz vermelha, marcado como *Ponto Ômega*²⁸ nos registros da *Tar-Gig*³ — e sentiu algo que não era esperança and não era desespero, mas algo entre os dois: a antecipação de quem sabe que a batalha está chegando e não sabe se vai vencer.
 
-Aurelius²⁹ não precisava do mapa para saber onde Alyndra⁵ estava. Sentia — no *aethra*²⁰ que percorria seu corpo, no mesmo *aethra*²⁰ que havia feito a *Torre de Aurion*²⁸ tremer quando a notícia chegou — a assinatura elemental dela: um frio tênue e constante, como a lembrança de um inverno que nunca termina. Essa assinatura era parte dele — parte de seu *aethra*²⁰, parte de seu sangue, parte de algo que existia antes que qualquer nome fosse dado a qualquer coisa. Ele podia senti-la como um músico sente a nota fundamental de um acorde: não com os ouvidos, mas com algo mais profundo, algo que ficava abaixo da consciência e acima da biologia.
+A primeira equipe partiu para o norte — em direção às colinas de *Val-Koras*²⁷, seguindo a rota terrestre que as *cargas fantasmas*¹² utilizavam com mais frequência. Quatro operativos, montados em *velroks*²⁹ de carga, com suprimentos para quinze dias e cristais de comunicação sintonizados na frequência reservada. A líder — uma mulher chamada Sera, que Selynis Thalassa²³ havia treinado pessoalmente e que tinha a rara capacidade de mover-se em silêncio mesmo montada em um *velrok*²⁹ — não disse nada ao partir. Apenas acenou com a cabeça e desapareceu na tarde como uma sombra que se dissolve.
 
-Mas a distância estava aumentando.
+A segunda equipe partiu para o leste — em direção à fronteira com *Fulmora*¹¹, cortando pelas planícies onde o capim alto escondia qualquer coisa que não quisesse ser encontrada. Cinco operativos, incluindo dois especialistas em rastreamento de *aetherite*²⁶ que podiam detectar a assinatura elemental de qualquer objeto que tivesse sido carregado por mais de três meses por uma pessoa com *aethra*⁴ ativo. A lógica era simples: se Alyndra¹⁵ estava manifestando *cryonys*³⁰ — e tudo indicava que estava —, então o *aetherite*²⁶ que ela tocasse carregaria a assinatura de gelo por meses.
 
-Cada segundo que passava, a assinatura enfraquecia — não porque Alyndra⁵ estivesse enfraquecendo, mas porque a distância entre ela e *Sanctrum*¹⁵ estava crescendo além do alcance do cristal. A *aethra*²⁰, como qualquer energia, se dissipa com a distância — e Alyndra⁵ estava se afastando do centro do continente em direção às bordas, para aquele lugar onde *Fulmora*⁹ e *Umbra*¹¹ se tocavam sem se fundirem, onde a terra era cinza e o ar cheirava a enxofre e as estrelas eram mais numerosas porque não havia luz artificial para competir com elas.
+A terceira equipe partiu para o sul — em direção aos portos de *Sylvaris*¹⁰, cobrindo a possibilidade de que as crianças fossem transportadas por via marítima. Três operativos, mais leves, mais rápidos, com instruções de interrogar cada capitão de cada navio que tivesse partido do litoral de *Sylvaris*¹⁰ nos últimos três meses.
 
-Aurelius²⁹ colocou as mãos sobre o painel de cristal. Fechou os olhos. Estendeu o *aethra*²⁰ — estendeu como quem estende os braços em uma escuridão que não tem paredes, alcançando, buscando, tentando tocar algo que estava se movendo para longe.
+A quarta equipe ficou em *Sanctrum*⁷ — não como reserva, mas como centro de processamento: recebiam informações das três equipes de campo, cruzavam dados com os registros da *RRA*¹, e alimentavam o mapa de probabilidade em tempo real. Selynis Thalassa²³ supervisionava pessoalmente.
 
-Por um segundo — um único segundo — ele sentiu.
+E a quinta equipe — a equipe de cobertura aérea — partiu em *Koramis*³¹, três aves de cristal treinadas para transporte rápido de um único passageiro cada, seguindo rotas que nenhum *velrok*²⁹ podia percorrer. O *aetherite*²⁶ que as montarias carregavam nos arreios permitia que os passageiros se comunicassem com a câmara mesmo em voo — uma tecnologia que Selynis Thalassa²³ havia desenvolvido especificamente para operações de resgate, e que nunca tinha sido usada em escala continental.
 
-Frio. Não o frio do *cryonys*³⁰ — esse frio era diferente, mais profundo, mais antigo, como se viesse do núcleo de Alyndra em vez da superfície. E medo — não o medo de Alyndra⁵, mas algo que a cercava, que a pressionava, que estava tentando, com a paciência geológica de algo que existe há milênios, moldá-la, contê-la, reduzi-la a uma forma que coubesse dentro do plano que os *Nihil Shid*²⁵ tinham para ela.
+Foi então que Aldric³² se apresentou.
 
-E depois — silêncio.
+Não no *Solar Privado do En Me*⁶ — Aldric³² não tinha acesso ao *Solar Privado do En Me*⁶, e sabia disso. Apresentou-se no térreo da *Torre de Aurion*², diante do destacamento de guardas que protegia a entrada da câmara de comunicação, com as mãos vazias e a postura de quem não pede permissão — informa que vai agir e espera que o mundo se ajuste.
 
-A assinatura desapareceu. Não gradualmente — de uma vez, como se alguém tivesse apagado uma vela.
+— Preciso de uma equipe — ele disse, e sua voz era a mesma voz baixa e precisa que usava para pedir que as crianças do orfanato guardassem os brinquedos, mas havia algo nela que não pertencia ao orfanato — algo que pertencia a salas de operações, a planos de batalha, à linguagem crispada de quem já havia feito coisas que jardineiros não fazem. — Seis operativos. Rota norte, passando por *Val-Koras*²⁷ até a fronteira de *Fulmora*¹¹.
 
-Aurelius²⁹ abriu os olhos. O painel de cristal mostrava o mapa, e o mapa mostrava as equipes, e as equipes eram pontos de luz, e entre os pontos de luz havia um vazio onde a cor de Alyndra⁵ tinha estado dias antes. O vazio era pequeno — um pixel que faltava em uma tapeçaria de milhares de pixels — mas Aurelius²⁹ via aquele vazio como um buraco no peito, como a ausência que fica quando algo que deveria estar presente é arrancado sem cerimônia, sem transição, sem sequer um aviso.
+O capitão da guarda — um homem de ombros largos que nunca tinha visto Aldric³² antes e que o avaliava com a desconfiança profissional de quem protege uma torre que foi atacada por coisas piores do que jardineiros — ergueu uma sobrancelha.
 
-Ela está além do alcance.
+— Identificação?
 
-O pensamento veio não em palavras, mas como uma pressão no peito — a pressão de uma verdade que ele se recusava a aceitar e que, apesar da recusa, continuava existindo, implacável como a gravidade. Alyndra⁵ estava além do alcance do cristal, além do alcance do *aethra*²⁰, além do alcance de tudo que Aurelius²⁹ podia fazer sentado em uma torre no centro do continente.
+— Aldric³². Orfanato Luminis¹⁹. — Uma pausa. — *Kalúdris*³³.
 
-Selynis Thalassa¹ entrou no Solar Privado sem bater — não porque fosse descortesia, mas porque bater era uma formalidade que meses de urgência haviam tornado obsoleta. Seus olhos verdes percorreram o rosto de Aurelius²⁹ — e Selynis Thalassa¹, que lia rostos como outros leem textos, viu algo no rosto do *Guardião Mestre*³¹ que a fez parar.
+A palavra *Kalúdris*³³ mudou tudo. A *Kalúdris*³³ — a Ordem da Aurora — era uma lenda viva entre os guardas da *Torre de Aurion*²: a unidade de elite que havia servido sob o comando direto do *Guardião Mestre*¹⁶ nas guerras de milênios passados, a unidade de que se falava em sussurros porque falar em voz alta era reconhecer que o mundo já tinha sido mais perigoso do que era agora — e que talvez estivesse voltando a ser.
 
-— Perdemos o sinal — Aurelius²⁹ disse, e a voz era calma, e a calma era a coisa mais assustadora que Selynis Thalassa¹ já tinha ouvido, porque a calma de Aurelius²⁹ não era serenidade — era contenção, era a represa que segura o rio, era o muro que impede o dilúvio, e Selynis Thalassa¹ sabia que represas quebram e que muros caem.
+O capitão da guarda olhou para Aldric³². Olhou para suas mãos — mãos que afiavam facas de jardim mas que tinham calos de *aethrys*⁸ nos dedos, o tipo de calo que só se forma após meses de empunhar armas que não são facas de jardim. Olhou para sua postura — a postura de um combatente treinado na escola de *Thalassia*³⁴, reconhecível pela posição dos pés, pelo alinhamento dos ombros, pela forma como o peso do corpo se distribuía como se estivesse permanentemente pronto para um movimento explosivo.
 
-— As equipes estão avançando — Selynis Thalassa¹ respondeu. — Sera encontrou oito crianças em *Val-Koras*⁸. A segunda equipe encontrou cinco em uma caverna — uma menina de doze valens criou uma barreira de *aethra*²⁰ para protegê-las. A terceira equipe sofreu baixas. Dois operativos mortos.
+— Estou enviando uma solicitação para a Câmara dos Sussurros²² — o capitão disse.
 
-Aurelius²⁹ ouviu cada palavra. Processou cada detalhe. Oito crianças. Cinco crianças. Dois mortos. E Alyndra⁵ — além do alcance, além da percepção, além de tudo que ele podia sentir exceto a ausência que ela deixava, uma ausência que era tão grande e tão antiga que parecia existir antes dele, como se ele tivesse nascido já sentindo a falta de algo que ainda não conhecia.
+— Envie — Aldric³² respondeu. — Mas eu parto independentemente da resposta. *Velantis*²⁰ é a dois dias de distância se pegarmos a rota expressa de *Koramis*³¹. A cada segundo que perdemos, a trilha esfria.
 
-— Continue — ele disse. — Cada equipe. Cada rota. Não pare até encontrá-la.
+O capitão enviou. A resposta veio em menos de um segundo — Selynis Thalassa²³ não precisava de explicações. Ela conhecia Aldric³². Ou conhecia o suficiente para saber que, se um homem da *Kalúdris*³³ estava pedindo uma equipe de resgate, o pedido não era impulso — era cálculo.
 
-Selynis Thalassa¹ assentiu. Não disse "nós vamos encontrá-la" — porque Selynis Thalassa¹ não fazia promessas que não podia garantir, e naquele momento, com o sinal de Alyndra⁵ apagado no painel de cristal e os *nihilarys*²¹ emboscando equipes nas estradas costeiras, a garantia de encontrá-la era uma promessa que ninguém no mundo podia fazer.
+Aldric³² recebeu seis operativos, *velroks*²⁹ de marcha, suprimentos para dez dias, e permissão para operar sob o protocolo *Tar-Gig*³ em território de *Sylvaris*¹⁰ e *Fulmora*¹¹.
 
-Mas fez algo melhor que prometer. Saiu do Solar e voltou para a *Câmara dos Sussurros*², e a *Câmara dos Sussurros*² — que já operava no limite máximo de capacidade — acelerou, porque Selynis Thalassa¹ não acreditava em limites quando o que estava em jogo era uma criança, e porque os mapas, as rotas, os pontos de convergência — tudo indicava uma direção, um destino, um ponto final onde todas as linhas se cruzavam: o *Ponto Ômega*³, o templo na fronteira, o lugar onde Alyndra⁵ estava sendo levada.
+Partiu na tarde daquele mesmo dia.
 
-E onde, em breve, alguém precisaria ir buscá-la.
+---
 
-**[FIM DO CAPÍTULO XXVIII]**
+## IV. A Confissão de Aldric
+
+Lyris²⁴ se levantou.
+
+Não porque tivesse se curado — o *thermaris*³⁵ ainda ardia em suas veias como brasas que se recusam a se apagar, e o corpo doía como se tivesse sido espancado por dentro, cada músculo protestando contra o esforço excessivo da explosão de *aethra*⁴ durante a nyxara. Mas o *thermaris*³⁵ tinha uma propriedade que o *cryonys*³⁰ não tinha: ele acelerava a recuperação. A fusão de Água e Fogo, quando focada internamente, estimulava a circulação de *aethra*⁴ pelo corpo, e o *aethra*⁴ circulando mais rápido significava que os danos se reparavam em uma fração do tempo normal. Lyris²⁴ não sabia disso teoricamente — não tinha estudado as propriedades curativas das SinDrarys em uma academia — mas sabia praticamente, porque sentia: o corpo que, na nyxara anterior, se recusava a se mover agora respondia aos comandos com uma lentidão que era desconfortável mas funcional.
+
+Ela encontrou Aldric³² no pátio.
+
+Ele estava preparando suprimentos — não com a pressa de quem se prepara para fugir, mas com o método de quem se prepara para operar. Cada item colocado em um lugar específico: cristais de comunicação no bolso interno da túnica, rações de viagem no saco de couro, uma garrafa de água na cintura. Havia também algo que Lyris²⁴ nunca tinha visto nas mãos de Aldric³²: uma espada curta, com a bainha de couro escuro e o punho envolto em tiras de *aethrys*⁸ trançado. Não era uma faca de jardim. Era uma arma de combate — e a forma como Aldric³² a amarrou nas costas, com a eficiência de quem fez aquilo milhares de vezes, sugeria que a faca de jardim sempre tinha sido a fachada, e a espada curta sempre tinha sido a verdade.
+
+— Você está partindo — Lyris²⁴ disse. Não era pergunta.
+
+— Estou — Aldric³² confirmou, sem parar de arrumar os suprimentos.
+
+— Para onde?
+
+— Norte. *Val-Koras*²⁷. Depois a fronteira de *Fulmora*¹¹.
+
+Lyris²⁴ atravessou o pátio até ele. Seu corpo ainda doía, mas a dor era secundária — a dor sempre era secundária quando havia algo mais importante pela frente.
+
+— Como você sabe para onde foram?
+
+Aldric³² parou. Virou-se. Seus olhos — os olhos escuros, impenetráveis, que sempre diziam menos do que deveriam e mais do que pretendiam — encontraram os de Lyris²⁴, e pela primeira vez desde que Lyris²⁴ o conhecia, não havia evasiva no olhar. Havia algo que parecia admiração — mas não do tipo que se oferece; do tipo que se reconhece, relutantemente, quando se percebe que outra pessoa é mais forte do que se esperava.
+
+— Porque eu venho rastreando as rotas de *cargas fantasmas*¹² há meses — ele disse. — Alguém tinha que fazer. E você estava ocupada protegendo as crianças.
+
+O silêncio que se seguiu durou quatro segundos.
+
+Lyris²⁴ processou a informação — não gradualmente, mas de uma vez, como uma porta que se abre para revelar um cômodo que sempre existiu mas que nunca foi mostrado. Aldric³² rastreando rotas. Aldric³² com dados sobre *cargas fantasmas*¹². Aldric³² sabendo para onde as crianças foram levadas antes mesmo de Selynis Thalassa²³ enviar as equipes. Aldric³² — o jardineiro, o zelador, o homem de respostas evasivas e sorrisos escassos — conduzindo uma investigação paralela em segredo, durante meses, sem que ninguém soubesse.
+
+— *Você* sabia — Lyris²⁴ disse, e a voz era baixa, mas havia *aethra*⁴ nela, o *aethra*⁴ do *thermaris*³⁵ que, mesmo exausto, ainda conferia a suas palavras um peso que não era volume mas temperatura. — Você sabia que iam atacar.
+
+— Eu sabia que iam atacar *alguém* — Aldric³² corrigiu. — Não sabia que seria o orfanato. Não sabia que seria *ela*. — Uma pausa. — Mas sabia que o padrão das rotas apontava para uma operação grande. E comuniquei isso ao canal da *Tar-Gig*³ há quatro meses.
+
+— A Selynis não mencionou.
+
+— A Selynis recebe centenas de relatórios por mês. O meu pode ter se perdido entre os outros.
+
+Lyris²⁴ olhou para ele por um longo momento. Não acreditava — não totalmente. Acreditava que Aldric³² vinha rastreando as rotas; a evidência estava ali, na espada nas costas, na precisão dos suprimentos, no conhecimento que um jardineiro não deveria ter. Mas não acreditava que o relatório tivesse "se perdido." Selynis Thalassa²³ não perderia relatórios. Selynis Thalassa²³ arquivava relatórios, catalogava relatórios, transformava relatórios em munição.
+
+— O templo — Lyris²⁴ disse, e a palavra saiu como uma acusação. — É para onde a levam. O templo na fronteira de *Fulmora*¹¹ e *Umbra*¹³.
+
+Aldric³² assentiu.
+
+— O *Ponto Ômega*²⁸. Eu rastreei as convergências de rota até lá. Todas as linhas se cruzam no mesmo lugar — um templo abandonado nas planícies de cinza. Não há nome nos registros oficiais. Nos registros da *Tar-Gig*³, é designado como *Ponto Ômega*²⁸.
+
+— Como você tem acesso aos registros da *Tar-Gig*³?
+
+Aldric³² não respondeu diretamente. Em vez disso, tirou do bolso interno da túnica um cristal opaco — não azul-esverdeado como os cristais da *Tar-Gig*³, mas cinza, com veios de luz que pulsavam em um padrão que Lyris²⁴ reconheceu como o protocolo antigo, o protocolo que Selynis Thalassa²³ havia estabelecido valens atrás.
+
+— A Selynis me deu acesso — Aldric³² disse. — Não oficialmente. Mas me deu. Porque ela sabia que eu não ia parar de investigar, e que se eu não tivesse acesso aos registros, encontraria os dados de outro jeito — um jeito que seria mais lento, mais perigoso e mais barulhento. Selynis Thalassa²³ prefere controlar as variáveis.
+
+Lyris²⁴ sentiu algo que não era surpresa. Era *reconhecimento* — o reconhecimento de uma verdade que sempre esteve visível mas que ela se recusou a ver: Aldric³² não era um jardineiro. Nunca tinha sido um jardineiro. E Selynis Thalassa²³ sabia disso desde o início.
+
+— Leve-me com você — Lyris²⁴ disse.
+
+— Você está ferida.
+
+— *Leve-me com você.*
+
+Aldric³² olhou para ela — para os olhos de cinza claro que brilhavam com a luz residual do *thermaris*³⁵, para as mãos que tremiam não de fraqueza mas de *aethra*⁴ acumulado, para a postura de quem não ia aceitar um "não" como resposta. E algo nos olhos de Aldric³² mudou — algo que Lyris²⁴ não tinha visto antes, algo que parecia respeito misturado com dor, como se Aldric³² visse na mulher à sua frente um reflexo de alguém que conheceu há muito tempo, alguém que também não aceitava um "não" como resposta, alguém que morreu protegendo algo em que acreditava.
+
+— Você monta *Koramis*³¹? — ele perguntou.
+
+— Montei.
+
+— Então monta. Partimos em um minuto.
+
+Lyris²⁴ não sorriu — não havia motivo para sorrir. Mas algo dentro dela — algo que tinha se esvaziado quando colapsou no pátio, quando o *thermaris*³⁵ a consumiu e a deixou deitada nas *Giralis*³⁶ como uma boneca que alguém esqueceu — se encheu novamente. Não completamente. Não com a plenitude de antes. Mas o suficiente.
+
+O suficiente para lutar.
+
+A tarde se transformou em ante-aurion, e a ante-aurion se transformou em manhã, e nas planícies ao norte de *Velantis*²⁰, duas figuras montadas em *Koramis*³¹ cruzavam o céu como sombras contra o dourado de *Aurion*¹⁷ — uma ex-agente da *Tar-Gig*³ com *thermaris*³⁵ fervendo nas veias, e um ex-companheiro da *Kalúdris*³³ com uma espada curta nas costas e um mapa de rotas de *cargas fantasmas*¹² na mente.
+
+Atrás deles, outras equipes se espalhavam pelo continente como veias de luz em um mapa escuro. E no *Ponto Ômega*²⁸ — no templo abandonado nas planícies de cinza, onde todas as linhas se cruzavam — algo esperava.
+
+Algo que tinha Alyndra¹⁵.
+
+***[FIM DO CAPÍTULO XXVIII]**
 
 ---
 
@@ -190,64 +214,74 @@ E onde, em breve, alguém precisaria ir buscá-la.
 
 ## 📖 Glossário do Capítulo
 
-¹ **Selynis Thalassa** — Mestra da Informação; titular do Assento Ukam no Conselho dos 12. Coordena as operações de resgate continentais a partir da *Câmara dos Sussurros*².
+¹ **RRA** — Rede de Ressonância de *Aurion*; sistema de comunicação instantânea por pulsos etéricos.
 
-² **Câmara dos Sussurros** — Base de operações na *Torre de Aurion*²⁸; centro nervoso da inteligência continental.
+² **Torre de Aurion** — Ponto mais alto de *Sanctrum*; abriga o *Solar Privado do En Me* e a *Câmara dos Sussurros*.
 
-³ **Ponto Ômega** — Designação da *Tar-Gig*²⁶ para o templo na fronteira *Fulmora*⁹-*Umbra*¹¹, onde as *cargas fantasmas*⁴ convergem.
+³ **Tar-Gig** — Organização de inteligência e espionagem aliada a Selynis Thalassa.
 
-⁴ **cargas fantasmas** — Operação de tráfico de pessoas sem registro, orquestrada pelos *Nihil Shid*²⁵.
+⁴ **aethra** — Energia elemental que permeia todo o mundo de Alyndra; base de poderes elementais.
 
-⁵ **Alyndra** — Criança do Orfanato Luminis; portadora de *cryonys*³⁰; alvo prioritário dos *Nihil Shid*²⁵. Sua assinatura de *aethra*²⁰ desapareceu do alcance de *Sanctrum*¹⁵.
+⁵ **Aurelius** — *En Me* (Guardião Mestre), 33º na linhagem. Pai biológico de Alyndra — fato que ela desconhece.
 
-⁶ **RRA** — Rede de Ressonância de *Aurion*¹⁷; sistema de comunicação instantânea por pulsos etéricos.
+⁶ **En Me** — Título do Guardião Mestre; líder supremo de *Sanctrum*.
 
-⁷ **velrok** — Montaria de grande porte usada para transporte e combate.
+⁷ **Sanctrum** — Capital continental; sede do poder político e da *Torre de Aurion*.
 
-⁸ **Val-Koras** — Região de passagem nas fronteiras orientais de *Sylvaris*¹⁰.
+⁸ **aethrys** — Cristal elemental usado em arquitetura, engenharia e armamento.
 
-⁹ **Fulmora** — Reino dos Raios; quinto reino. Fronteira com *Umbra*¹¹.
+⁹ **Zephyra** — Capital de *Sylvaris*; construída sobre sete pilares de cristal.
 
 ¹⁰ **Sylvaris** — Reino dos Ventos, Florestas e Cristais; primeiro reino.
 
-¹¹ **Umbra** — Reino das Sombras e Mistérios; sétimo reino. Origem dos mercenários e dos *nihilarys*²¹.
+¹¹ **Fulmora** — Reino dos Raios; quinto reino.
 
-¹² **aetherite** — Mineral sensível a *aethra*²⁰; usado em rastreamento e comunicação.
+¹² **cargas fantasmas** — Termo não oficial para o tráfico de pessoas através das fronteiras sem registro.
 
-¹³ **Lysias Thyrion** — Repórter do *Heraldo de Velantis*¹⁴; acompanha a segunda equipe de resgate como testemunha civil. Seu caderno de campo se tornará registro histórico da operação.
+¹³ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
 
-¹⁴ **Heraldo de Velantis** — Periódico de circulação em *Velantis* e regiões vizinhas de *Sylvaris*.
+¹⁴ **Nihil Shid** — Seita secreta que se autodenomina "Os Iluminados"; orquestram as *cargas fantasmas* e a rede de *nihilarys*.
 
-¹⁵ **Sanctrum** — Capital continental; sede do poder político e da *Torre de Aurion*²⁸.
+¹⁵ **Alyndra** — Criança do Orfanato Luminis; portadora de *cryonys* inconsciente; alvo prioritário dos *Nihil Shid*.
 
-¹⁶ **Koramis** — Ave de cristal usada como montaria aérea rápida.
+¹⁶ **Guardião Mestre** — Líder supremo da Ordem dos Guardiões de *Sanctrum*. Título atualmente ocupado por Aurelius⁵.
 
 ¹⁷ **Aurion** — A estrela central de Alyndra.
 
-¹⁸ **Korath** — Mercenário de *Umbra*¹¹; responsável pelo sequestro de Alyndra⁵. Ainda a transporta em direção ao *Ponto Ômega*³.
+¹⁸ **Orfanato Luminis** — Instituição de acolhimento em *Velantis*; administrada por Lyris.
 
-¹⁹ **Nyx** — O *lyrien* prateado companheiro de Alyndra⁵.
+¹⁹ **Velantis** — Cidade principal do interior de *Sylvaris*; onde se localiza o Orfanato Luminis.
 
-²⁰ **aethra** — Energia elemental que permeia Alyndra; base de poderes elementais.
+²⁰ **Velantis** (referred on line 56, so ²⁰) — *already defined as part of line 56*.
 
-²¹ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²⁵; seres capazes de manipular escuridão. Emboscaram a terceira equipe de resgate.
+²¹ **Lysias Thyrion** — Repórter do *Heraldo de Velantis*; autor de artigos denunciando as *cargas fantasmas*.
 
-²² **giralis** — Flores de pétalas prateadas que abrem durante a noite.
+²² **Câmara dos Sussurros** — Base de operações de Selynis Thalassa na *Torre de Aurion*.
 
-²³ **aethrys** — Cristal elemental usado em arquitetura, engenharia e armamento.
+²³ **Selynis Thalassa** — Mestra da Informação; titular do Assento Ukam no Conselho dos 12.
 
-²⁴ **argentis** — Árvore de casca prateada; metáfora para exaustão vital.
+²⁴ **Lyris / Nyctara** — Administradora do Orfanato Luminis; ex-agente da *Tar-Gig*; portadora de *thermaris*.
 
-²⁵ **Nihil Shid** — Organização secreta "Os Iluminados"; orquestram as *cargas fantasmas*⁴ e a rede de *nihilarys*²¹.
+²⁵ **Daress** — Operativo da *Tar-Gig* infiltrado na fronteira *Fulmora*-*Umbra*.
 
-²⁶ **Tar-Gig** — Organização de inteligência e espionagem aliada a Selynis Thalassa¹.
+²⁶ **aetherite** — Mineral sensível a *aethra*; usado em rastreamento e comunicação.
 
-²⁷ **Aldric** — Ex-companheiro da *Kalúdris*; zelador do Orfanato Luminis.
+²⁷ **Val-Koras** — Região de passagem nas fronteiras orientais de *Sylvaris*.
 
-²⁸ **Torre de Aurion** — Ponto mais alto de *Sanctrum*¹⁵; abriga o Solar Privado do *En Me*.
+²⁸ **Ponto Ômega** — Designação da *Tar-Gig* para o templo abandonado na fronteira *Fulmora*-*Umbra*.
 
-²⁹ **Aurelius** — *Guardião Mestre*³¹, 33º na linhagem; pai biológico de Alyndra⁵. Perdeu a assinatura de *aethra*²⁰ da filha no painel de cristal.
+²⁹ **velrok** — Montaria de grande porte usada para transporte e combate.
 
-³⁰ **cryonys** — SinDrarys de Água + Vento; manifesta gelo. Alyndra⁵ é portadora.
+³⁰ **cryonys** — SinDrarys de Água + Vento; manifesta gelo e congelamento. Alyndra é portadora.
 
-³¹ **Guardião Mestre** — Líder supremo da Ordem dos Guardiões de *Sanctrum*¹⁵. Título de Aurelius²⁹.
+³¹ **Koramis** — Ave de cristal usada como montaria aérea rápida.
+
+³² **Aldric** — Guarda e zelador do Orfanato Luminis. Ex-companheiro de Ayla na *Kalúdris*.
+
+³³ **Kalúdris** — Ordem da Aurora; unidade de elite que serviu sob o comando direto do *Guardião Mestre*.
+
+³⁴ **Thalassia** — Reino submarino; terra natal de Ayla.
+
+³⁵ **thermaris** — SinDrarys de Água + Fogo; manifesta vapor superaquecido. Lyris é portadora.
+
+³⁶ **Giralis** — Flores de pétalas prateadas que abrem durante a noite.

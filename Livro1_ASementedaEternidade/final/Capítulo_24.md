@@ -6,269 +6,295 @@
 
 # CAPÍTULO XXIV
 
-# A Nyxara sem Aurora
+# A Armadilha se Fecha
 
-*"A obra-prima da violência não é o golpe que mata. É o silêncio que o prepara — longo, paciente, perfeito."*
-
----
-
-## I. A Câmara nas Profundezas
-
-Trinta passos abaixo do nível mais baixo das fundações de um templo abandonado na fronteira entre *Fulmora*² e *Umbra*³ — um templo que não constava em nenhum mapa oficial, que não tinha nome em nenhum registro eclesiástico, que existia apenas como coordenadas em cristais de dados protegidos por sete camadas de encriptação e pela indiferença de quem não queria saber — havia uma sala. Escavada na rocha-mãe, com o cheiro adocicado de pedra milenar e o peso de toneladas de terra sobre o teto, a sala respirava com a paciência de algo que esperava há mais tempo do que a memória alcançava.
-
-Não uma sala natural. As paredes eram de pedra negra, lisa, cortada com a precisão de uma lâmina cirúrgica — fria ao toque como pele de criatura morta, polida por mãos que não viam a superfície do mundo há valens. O teto era baixo o suficiente para forçar quem entrava a curvar os ombros — não por acidente, mas por design, porque os *Nihil Shid*¹ haviam aprendido há valens que a humildade física facilitava a obediência mental. O ar era filtrado e ressecado — sem umidade, sem cheiro, sem textura — como se a própria atmosfera tivesse sido escrutinada e aprovada por um comitê de sombras. Não havia janelas. Não havia *Aurion*⁵. Não havia nada que lembrasse o mundo acima, o mundo dos vivos, o mundo que ainda acreditava que a escuridão era algo que se podia acender com uma tocha. Até o silêncio tinha uma qualidade diferente — não o silêncio de um lugar vazio, mas o silêncio de um lugar que havia aprendido a não fazer barulho.
-
-Havia, no centro da sala, uma mesa.
-
-E sobre a mesa, um mapa.
-
-O mapa era a única coisa naquela sala que poderia ser chamada de bela — e mesmo assim, a beleza era a beleza de uma adaga: limpa, exata, desprovida de qualquer ornamento que não fosse a função. Desenhado sobre uma superfície de *aethrys*⁶ escuro com fios de luz que pulsavam em azul-prateado — pulsavam como veias, como se o mapa tivesse vida própria —, o mapa mostrava um edifício com uma precisão que seria impossível para qualquer topógrafo de *Sylvaris*⁷ ou *Sanctrum*⁸. Cada parede tinha espessura medida. Cada porta tinha ângulo de abertura calculado. Cada janela tinha grau de opacidade catalogado.
-
-O edifício era o *Orfanato Luminis*⁹.
-
-Seis figuras estavam sentadas ao redor da mesa. Seis corpos humanos — ou o que restava de humanos — vestidos com túnicas cinzentas que absorviam a pouca luz que os cristais nas paredes emitiam. Seus rostos eram calmos. Seus olhos eram outros: não os olhos dos corpos que habitavam, mas olhos que pertenciam a algo mais antigo, algo que se lembrava de valens antes que aqueles corpos nascessem, algo que observava o mapa com a expressão de um cirurgião observando um coração exposto. Quando respiravam — e respiravam, porque os corpos que ocupavam ainda precisavam de ar — o som era uniforme, sincronizado, como se um único par de pulmões inflasse seis caixas torácicas.
-
-*Nihilaryth*¹⁰. Três deles habitavam corpos que haviam sido adquiridos nas fronteiras de *Umbra*³ — camponeses, mercadores, ninguém cuja ausência seria notada. Outros dois ocupavam antigos funcionários de *cargas fantasmas*¹¹, corpos já desgastados pelo uso que os *Nihil Shid*¹ faziam deles. O sexto — o que ocupava a posição de honra na cabeceira da mesa — estava em um corpo diferente: mais jovem, mais forte, com os ombros largos e as mãos firmes de quem trabalhou ao ar livre antes de se tornar um recipiente.
-
-A voz veio do sexto. Não uma voz humana — algo por baixo da voz, uma ressonância que fazia as paredes vibrarem em frequências que os ouvidos não captavam mas a pele sentia, como o zumbido de um cristal de *aethra*¹⁵ prestes a partir.
-
-— A nyxara do ataque foi fixada. Daqui a três dias. O ponto mais profundo do ciclo, quando *Lyria*¹⁴ está no zênite e a consciência dos habitantes atinge o menor nível de alerta.
-
-As outras cinco figuras não responderam. Não precisavam. A comunicação entre *nihilarys*¹⁰ não era verbal — era uma espécie de pulsão de *aethra*¹⁵ que transferia informações como o sangue transfere oxigênio: sem palavras, sem ruído, sem margem para interpretação. A intenção fluiu pela mesa como água por canais: reconhecimento, concordância, e algo mais — algo que, se tivesse nome em qualquer língua viva, seria chamado de *satisfação*.
-
-O *nihilary*¹⁰ na cabeceira tocou o mapa. Seu dedo — o dedo do corpo que habitava, mas movido pela vontade que o controlava — repousou sobre um ponto no perímetro leste do orfanato.
-
-— A infiltração primária será aqui. A dobradiça do portão leste está solta. Identificada pela própria defensora.
-
-Outra pulsão de *aethra*¹⁵ percorreu a mesa. Se os *nihilarys*¹⁰ pudessem sorrir — e podiam, em seus corpos emprestados, embora o sorriso nunca alcançasse os olhos porque os olhos não pertenciam ao rosto — teriam sorrido. Havia uma ironia que transcendia a compreensão humana naquele detalhe: a mulher que protegia o orfanato havia literalmente identificado para eles o ponto mais vulnerável de sua própria defesa. Em sua diligência, em sua paranoia, em sua tentativa de reforçar cada fraqueza que encontrava, Lyris¹⁶ havia inspecionado o portão leste, notado a dobradiça solta, e — sem saber — entregue aos *Nihil Shid*¹ a chave da porta dos fundos.
-
-O dedo moveu-se para outro ponto no mapa: o dormitório principal.
-
-— O alvo primário dorme aqui. Quarto compartilhado com outras menores. Isolamento no momento da extração será crítico.
-
-— E a *Nyctara*¹⁷? — A pergunta veio do *nihilary*¹⁰ à esquerda, em uma voz que soava como pedra rangendo sob pressão.
-
-A pausa que se seguiu durou exatamente dois segundos. Para os *nihilarys*¹⁰, aquela pausa era uma conversa inteira — uma avaliação de probabilidades, uma consulta a dados acumulados durante meses de observação, uma simulação mental de dezessete cenários de confronto.
-
-— O problema *Nyctara*¹⁷ será tratado — disse o *nihilary*¹⁰ na cabeceira. — Temos um contrapeso.
-
-A palavra ecoou na câmara. *Contrapeso*. O termo era preciso — não "solução", não "resposta", não "derrota". Contrapeso. Como se Lyris¹⁶ fosse uma força que não podia ser removida, apenas equilibrada. Como se ela fosse uma lei da natureza — não algo a ser destruído, mas algo a ser compensado.
-
-O *nihilary*¹⁰ na cabeceira retirou o dedo do mapa e cruzou as mãos sobre a mesa. Nos cristais das paredes, os fios de luz azul-prateada pulsaram uma vez — um sinal. A câmara inteira pareceu respirar.
-
-— O comandante de campo chegará em dois dias. O *mercador*²⁰.
-
-Outra pulsão de *aethra*¹⁵. Desta vez, a ressonância carregava algo diferente — algo que, em um humano, seria chamado de respeito. Ou expectativa. Ou ambas as coisas ao mesmo tempo, entrelaçadas como raízes de *argentis*²¹ sob a terra.
-
-O *mercador*²⁰. Era assim que os *Nihil Shid*¹ chamavam Korath²² entre si — não por disfarce, mas porque a linguagem dos *Nihil Shid*¹ era econômica, e mercadores e assassinos compartilham a mesma habilidade fundamental: a capacidade de calcular o valor exato de qualquer coisa, incluindo vidas.
-
-A mesa brilhou mais uma vez. E no mapa do orfanato, as rotas de ataque começaram a pulsar — linhas vermelhas que se desenharam sobre as paredes e portas como veias de um corpo que estava prestes a despertar.
+*"A calma antes da tempestade não é paz. É o momento em que o ar carrega tanto peso que até o silêncio faz barulho."*
 
 ---
 
-## II. O Coração Implacável
+## I. A Lista
 
-Korath²² chegou ao templo abandonado quando a terceira lua já estava no céu, montado em um *velrok*²³ de pelagem cinzenta cujos olhos eram tão vazios quanto os de seu dono. Desmontou sem pressa — cada movimento era deliberado, calculado, como se seu corpo fosse uma máquina que operava em eficiência máxima e desperdiçava energia apenas em respiração e batimento cardíaco. O casco do *velrok*²³ mal fez som ao tocar a terra; Korath²² emanava uma economia de gestos que fazia o ar ao redor parecer mais denso.
+A mensagem chegou à *Câmara dos Sussurros*² na nona hora daquela tarde — não por canal oficial, não pela *RRA*⁵, mas pelo método mais antigo e mais confiável que Selynis Thalassa⁶ conhecia: um mensageiro vivo, com um cilindro de cristal selado entre as costelas, caminhando por quinhentos passos de corredores que não apareciam em nenhum mapa de *Sanctrum*⁷.
 
-Ele era enorme. Não grande — enorme. A palavra era insuficiente, como tentar descrever o mar chamando-o de úmido. Korath²² tinha dois metros e meio de altura, e cada centímetro era composto de músculo e osso e algo mais — uma densidade que sugeria que seu corpo era mais pesado do que deveria ser, como se a gravidade ao redor dele fosse mais forte, como se o mundo reconhecesse que aquele homem era um ponto de massa que não seguia as regras comuns. Quando ele se movia, o ar deslocado tinha um peso que os pulmões sentiam antes de os olhos registrarem.
+Selynis estava sozinha. Isso não era acidente — na *Câmara dos Sussurros*², solitude não era solidão; era protocolo. As paredes absorviam som. O ar era filtrado três vezes antes de chegar aos pulmões. E a mesa de vidro negro — que era, na verdade, uma superfície de aethryl escuro capaz de projetar informações em camadas que só os olhos treinados de Selynis podiam decifrar — estava vazia, à espera.
 
-O rosto era o que as pessoas notavam primeiro — ou tentavam não notar. As cicatrizes de gelo não eram lineares, não eram limpas, não eram as marcas organizadas de um ferimento cirúrgico. Eram ramificações. Começavam na mandíbula esquerda e se espalhavam pelo pescoço e pela bochecha como raízes de *argentis*²¹ congeladas sob a pele — veias de tecido cicatrizado que tinham uma cor entre o branco e o azul, como se o sangue sob aquelas marcas tivesse sido substituído por algo que não sangrava mas que também não cicatrizava direito. Um *cryonys*²⁴ brutal, aplicado sem precisão — ou com precisão cruel, dependendo de quem contava a história. Korath²² nunca contou. Nunca falava do que lhe haviam feito; falava apenas do que faria.
+Ela abriu o cilindro.
 
-Os olhos eram o que as pessoas notavam em seguida, e o que nunca esqueciam. Cinza tão claro que quase parecia branco — não o branco de neve ou de ossos, mas o branco do gelo no momento exato em que começa a se formar, quando a água ainda não decidiu se é líquida ou sólida. Olhos que olhavam *através* das coisas, que não pareciam focar em rostos ou objetos mas em algum ponto atrás deles, em algum lugar onde as coisas que importavam realmente estavam.
+Dentro, um cristal de memória pulsava com uma luz azul-esverdeada — a cor dos relatórios *Tar-Gig*⁸ de prioridade máxima. Selynis o colocou na mesa. O cristal se expandiu, liberando uma cascata de imagens, textos e diagramas que flutuaram no ar diante dela como peças de um quebra-cabeça que estava, finalmente, quase completo.
 
-A armadura de obsidiana reforçada cobria seu torso e os ombros como uma segunda pele — negra, sem reflexo, absorvendo a luz em vez de devolvê-la, como se fosse feita do mesmo material que o espaço entre as estrelas. Não era decorada. Não tinha insígnias. Não tinha identificadores. Era simples, pesada e letal, como o homem que a vestia. Na cintura, uma lâmina de obsidiana descansava em uma bainha de couro seco — mais longa que uma espada comum, mais larga que um sabre, com uma borda que parecia cortar o ar ao redor.
+O operativo se chamava *Daress*⁹. Havia se infiltrado numa estação de cargas na fronteira entre *Fulmora*¹⁰ e *Umbra*¹¹ há seis meses, trabalhando como manusense de armazém — um trabalho tão monótono que ninguém perguntava seu nome duas vezes. Era essa a beleza da infiltração *Tar-Gig*⁸: os melhores espiões não eram os que se escondiam, mas os que se tornavam invisíveis pela força da irrelevância.
 
-Korath²² entrou na câmara subterrânea e curvou os ombros para passar pela porta — não porque a porta fosse baixa demais para ele, mas porque a porta era baixa, e a porta tinha sido feita para ser baixa, e as regras de um lugar eram as regras de um lugar, mesmo quando se tinha dois metros e meio de altura e uma lâmina de obsidiana na cintura.
+O relatório de Daress continha três informações. Três apenas. Mas cada uma delas era uma pedra que, ao cair, fazia o tabuleiro inteiro tremer.
 
-Os seis *nihilarys*¹⁰ estavam onde ele esperava que estivessem: ao redor da mesa, em seus corpos emprestados, com seus olhos que não pertenciam aos rostos. Korath²² não se sentou. Ficou de pé no lado oposto da mesa, com as mãos apoiadas na borda negra da superfície de *aethrys*⁶, e olhou para o mapa do orfanato como quem olha para um tabuleiro de xadrez antes do primeiro lance. Recomporia as peças em silêncio — era o que fazia antes de qualquer operação: visualizar cada movimento antes de executá-lo, ensaiar a coreografia da violência na mente para que o corpo não precisasse pensar quando chegasse o momento.
+Primeira: os comboios não se dispersavam após as entregas como Selynis havia presumido. Eles convergiam. Todas as rotas — as de *Sylvaris*¹³, as de *Fulmora*¹⁰, as de *Umbra*¹¹ — corriam para um único ponto: um templo abandonado na fronteira Fulmora-Umbra, nas planícies de cinza a leste de *Val-Koras*¹⁴. O templo não tinha nome nos registros oficiais. Nos registros *Tar-Gig*⁸, era designado como *Ponto Ômega*¹⁵.
 
-Ele não era um homem de ideologia. Isso era importante — os *Nihil Shid*¹ o haviam escolhido por isso. Korath²² não acreditava em luz ou escuridão, não servia a deuses ou profecias, não nutria ressentimentos contra reinos ou sistemas. Servia a *Umbra*³ porque *Umbra*³ o havia treinado, e ele tinha um código — simples, imutável, não sujeito a interpretações: quem paga, manda. Quem obedece, vive. Quem quebra o contrato, não respira mais. Era um código feio, um código que os poetas de *Velantis*²⁵ cantariam como barbárie, mas Korath²² não era poeta. Era profissional. E a profissionalidade era a forma mais elegante de violência que existia.
+Segunda: o volume de *cargas fantasmas*¹⁶ havia triplicado nos últimos três meses. Não dezenas — como os padrões anteriores sugeriam — mas centenas. Corpos. Pessoas que entravam em carroças cobertas e não saíam. Pessoas cujos nomes ninguém conhecia e cujas ausências ninguém registrava.
 
-Seu código tinha uma regra sobre crianças. Não as mata sem necessidade. Isso não era compaixão — era economia. Crianças mortas não têm valor no mercado de *cargas fantasmas*¹¹. Crianças vivas, sim. E Korath²² era, acima de tudo, um homem que entendia de valor.
+Selynis leu essas duas informações com a compostura de quem lê um relatório meteorológico. Previsível. Confirmatório. Importante, mas esperado.
 
-— Doze operativos — ele disse, e sua voz era grave o bastante para fazer a água em um copo vibrar. — Todos possuídos ou aliados. Quatro com treinamento avançado em infiltração. Três com capacidade de supressão de *aethra*¹⁵ de campo. Os demais, combate corpo a corpo.
+Depois chegou a terceira.
 
-Ele não perguntou se era suficiente. Não perguntava coisas assim. Se os *Nihil Shid*¹ dissessem que doze era o número, doze era o número. E se doze não fossem suficientes, Korath²² faria que fossem. Era isso que o diferenciava dos outros comandantes de *Umbra*³: não a força — muitos eram fortes — mas a recusa em aceitar que a força pudesse ser insuficiente.
+Daress havia encontrado uma lista.
 
-— A criança²⁶ é o alvo primário — ele continuou, e ao dizer "criança"²⁶ sua voz não mudou. Não havia peso especial na palavra, não havia revolta, não havia relutância. Era um dado. Uma coordenada. Um ponto no mapa como qualquer outro. — Entregá-la ao templo intacta. As outras são cargas secundárias — valor menor, mas valor. Não as danifique além do necessário para o transporte.
+Não um documento oficial — nada que os *Nihil Shid*¹⁷ fossem descuidados o bastante para deixar em papel. Era um cristal de dados, escondido numa cavidade detrás de uma pedra solta¹⁸ na parede do templo, protegido por um selo de *aethra*¹⁹ que o próprio Daress quase não conseguiu romper. Dentro do cristal: nomes. Datas. Locais. Uma planilha de alvos, organizada com a precisão cirúrgica que era a assinatura dos *Nihil Shid*¹⁷.
 
-O *nihilary*¹⁰ na cabeceira inclinou a cabeça. A concordância fluiu pela sala como uma corrente subterrânea.
+Selynis percorreu a lista com os olhos. Nomes que não conhecia — homens, mulheres, crianças de vilas fronteiriças cuja existência era tão frágil que um sopro de burocracia bastava para apagá-las. Corpos sem raízes. Vidas sem testemunhas. O tipo de pessoa que o mundo já havia decidido esquecer.
 
-— E a *Nyctara*¹⁷?
+Depois chegou ao primeiro nome da lista.
 
-Korath²² olhou para o mapa. Seus olhos claros encontraram o ponto marcado no dormitório — o quarto de Alyndra²⁷ — e depois se moveram para outro ponto: o quarto dos fundos, no extremo oposto do corredor, onde Lyris¹⁶ dormia.
+Alyndra.
 
-— A *Nyctara*¹⁷ é um problema operacional — ele disse. — Problemas operacionais têm soluções operacionais. A solução já foi providenciada.
+Apenas o nome. Sem sobrenome — porque Alyndra não tinha sobrenome, não tinha registro, não existia nos bancos de dados de nenhum reino. Era uma criança órfã, criada no *Orfanato Luminis*²⁰, sem pedigree, sem linhagem, sem nada que a tornasse visível para os sistemas que governavam o mundo de Alyndra.
 
-Ele virou-se para a porta. A câmara estava terminada com ele; o que restava era execução, e execução não acontecia em salas subterrâneas com mapas brilhantes. Execução acontecia no campo, no momento exato, com a precisão de um segundo entre a decisão e a ação.
+E ainda assim, lá estava. No topo da lista.
 
-Antes de sair, ele parou. Não se virou. Mas sua voz veio de dentro da armadura de obsidiana como se a pedra falasse:
+As mãos de Selynis pararam.
 
-— Três dias.
+Não pararam de tremer — Selynis não tremia. Pararam de *mover*. Como se o corpo, ao processar a informação, tivesse decidido que qualquer gesto subsequente seria irrelevante diante da magnitude daquele dado. Os dedos, que estavam a um segundo de digitar a próxima ordem de vigilância, ficaram suspensos sobre a superfície negra da mesa, como pássaros que esqueceram o voo.
 
-A porta se fechou atrás dele. E nas paredes da câmara, os cristais pulsaram em azul-prateado, uma vez, como um coração que bate quando percebe que o momento chegou.
+*No topo*, ela pensou. *Não no meio. Não no fim. No topo.*
 
----
+Isso significava que Alyndra não era um alvo aleatório — um corpo a mais na corrente de desaparecidos que alimentava a máquina dos *Nihil Shid*¹⁷. Era uma prioridade. Era o alvo. E se era o alvo, havia algo nela — naquela criança de olhos castanhos que praticava *cryonys*²³ sem saber que o fazia, que ouvia vozes nas nyxaras sem saber de onde vinham — que os *Nihil Shid*¹⁷ queriam mais do que queriam qualquer outro corpo no continente.
 
-## III. A Geometria da Queda
+Selynis reativou os dedos. Digitou uma sequência de comandos na mesa de vidro negro. As imagens mudaram — o mapa de rotas desapareceu, substituído por um rosto: o rosto de Alyndra, capturado por um cristal de observação há quatro meses, quando Selynis ainda acreditava que poderia manter o orfanato fora do radar.
 
-O plano tinha quatro partes. Não mais, não menos — quatro era o número que a geometria da violência exigia quando o objetivo era captura e não destruição. Quatro ângulos, quatro forças, quatro direções de pressão simultânea que, ao se encontrarem no centro, criariam um ponto de colapso do qual o alvo não poderia escapar porque não haveria uma única direção de fuga que não estivesse coberta.
+— Rastreamento ampliado — ela ditou para o cristal gravador, e sua voz era a mesma de sempre — baixa, precisa, controlada como o fio de uma navalha. — Prioridade absoluta sobre o Orfanato Luminis²⁰. Quero um perímetro de vigilância de oitenta passos em todas as direções. Equipe de seis operativos *Tar-Gig*⁸, revezamento de quatro horas. Qualquer movimento não identificado dentro do perímetro — qualquer pessoa, animal, *lyrien*²⁵, qualquer coisa — deve ser reportado em tempo real.
 
-A beleza do plano residia em sua simplicidade — e a simplicidade residia nos meses de preparação que a tinham tornado possível.
+Ela fez uma pausa. O silêncio da câmara era absoluto.
 
-A primeira equipe era a *Equipe Alfa*. Quatro operativos. Missão: ataque frontal ao portão norte do orfanato. O portão norte era o principal — o que dava para a rua larga, o que as carruagens de suprimentos usavam, o que tinha a maior visibilidade e, portanto, a maior probabilidade de ser observado. A *Equipe Alfa* não precisava entrar pelo portão. Precisava apenas fazer barulho — barulho suficiente para acordar quem estivesse dormindo, para puxar a atenção de quem estivesse de guarda, para criar uma perturbação tão óbvia e tão ameaçadora que todos os olhos e todos os instintos de proteção se voltassem para o norte.
+Isso não era mais inteligência. Isso era uma contagem regressiva.
 
-Era a isca. A mais antiga, a mais simples, a mais eficaz.
-
-Enquanto a *Equipe Alfa* mantinha a atenção no norte, a *Equipe Beta* entraria pelo leste — pelo portão com a dobradiça solta que Lyris¹⁶ havia identificado em sua inspeção do perímetro. Dois operativos de infiltração, treinados para se mover no escuro com mais naturalidade do que os peixes se movem na água. Eles não carregavam armas pesadas — carregavam silêncio, e o silêncio, nas mãos certas, era mais letal do que qualquer lâmina.
-
-A ironia era perfeita. Em sua tentativa de proteger o orfanato, Lyris¹⁶ havia inspecionado cada centímetro do perímetro. Havia notado a dobradiça do portão leste. Havia provavelmente planejado consertá-la — ou já tinha mandado alguém consertá-la. Mas os *Nihil Shid*¹ tinham uma regra sobre informação: quando uma informação é útil, ela é usada imediatamente. Quando uma fonte revela uma vulnerabilidade, a janela de exploração dessa vulnerabilidade se abre e nunca se fecha, porque a velocidade com que a informação perde valor é a velocidade com que a defesa se adapta.
-
-A *Equipe Beta* não esperaria pela adaptação.
-
-A terceira equipe era a *Equipe Gamma*. Três operativos montados em *Koramis*²⁸ — as grandes aves de cristal que *Umbra*³ criava em ninhos nas montanhas além da fronteira oriental. A *Equipe Gamma* não atacaria o orfanato diretamente. Sua função era superior: cobrir as rotas de fuga. Um *Koramis*²⁸ posicionado a oeste do orfanato, outro ao sul, o terceiro em órbita ampla, patrulhando o perímetro externo como sentinelas voadoras cujos olhos podiam ver na nyxara melhor do que qualquer lâmpada de cristal. Se alguém tentasse escapar — uma criança²⁶ correndo pelos campos, um adulto carregando o alvo primário pelas ruas estreitas — os *Koramis*²⁸ estariam lá.
-
-E se Lyris¹⁶ tentasse voar — se ela tivesse o que era necessário para chamar um *Koramis*²⁸ ou usar *thermaris*²⁹ para se elevar — os arqueiros montados nas aves teriam uma flecha antes que ela atingisse a altitude de três *argentis*²¹.
-
-A quarta parte do plano era Korath²².
-
-Ele sozinho.
-
-Isso não era arrogância — era cálculo. Korath²² havia estudado o mapa durante mais tempo do que os *nihilarys*¹⁰, e em seu estudo havia identificado algo que os *nihilarys*¹⁰, com toda sua antiga sabedoria e seus corpos emprestados, não podiam identificar porque não tinham experiência de campo: o ritmo. Cada orfanato tem um ritmo — o ritmo de quem cuida, de quem dorme, de quem acorda, de quem chora. Korath²² conhecia aquele ritmo porque o havia observado pessoalmente durante cinco meses, posicionado em um prédio abandonado a duzentos passos do muro leste, com um dispositivo de amplificação auditiva de *aetherite*³⁰ pressionado contra a pedra e seus olhos claros memorizando cada rotina, cada turno de guarda, cada som.
-
-Ele sabia que Lyris¹⁶ fazia uma ronda às duas horas da nyxara e outra às cinco. Ele sabia que a guardiã — Kira³² — dormia na ala das meninas menores e era a primeira a acordar com qualquer barulho. Ele sabia que o homem — Aldric³³ — tinha um quarto no alpendre da cozinha e afiava uma faca durante a nyxara, mas que seu sono era pesado e seu despertar lento. Ele sabia que *Nyx*³⁴, a *lyrien*³⁵ prateada de Alyndra²⁷, dormia no quarto da menina e era o único fator verdadeiramente imprevisível — um animal com instintos que transcendiam o treinamento de qualquer operativo.
-
-Korath²² iria sozinho ao dormitório de Alyndra²⁷. Entraria pelo corredor leste enquanto a *Equipe Beta* abria o portão, passaria pelo refeitório vazio, desceria o corredor dos dormitórios e estaria diante da porta da menina em menos de quarenta segundos. O tempo entre o primeiro barulho da *Equipe Alfa* e sua chegada ao quarto de Alyndra²⁷ seria de aproximadamente oito minutos — tempo suficiente para que o caos do ataque norte tivesse consumido toda a atenção, mas não tempo suficiente para que Lyris¹⁶ organizasse uma defesa coerente.
-
-Alyndra²⁷ seria capturada. As outras crianças seriam contadas, classificadas e entregues à *Equipe Beta* para extração. Os adultos seriam neutralizados — não mortos, a menos que fosse necessário, porque mortes geravam perguntas e perguntas geravam investigações e investigações atrasavam entregas.
-
-Quatro partes. Uma geometria perfeita.
-
-E no centro da geometria, como o olho de um furacão que não se move enquanto tudo ao redor é destruído, estaria Korath²² — de pé no quarto de uma criança²⁶ de olhos castanhos, com sua armadura de obsidiana absorvendo a pouca luz e sua lâmina na bainha, cumprindo o contrato com a mesma eficiência implacável com que cumpria todos os contratos.
+— E ative o canal seguro com Lyris²⁷.
 
 ---
 
-## IV. O Contrapeso
+## II. O Visitante Negro
 
-O operativo se chamava Vex.
+Lysias Thyrion²⁸ não era um homem corajoso. Ele era um homem honesto — e há uma diferença entre os dois que a maioria das pessoas confunde. A coragem exige a disposição de enfrentar o perigo sabendo que ele existe. A honestidade exige apenas a recusa de mentir, mesmo quando a mentira seria mais segura. Lysias não tinha coragem. Tinha algo pior: uma teimosia moral que o impedia de calar a boca mesmo quando cada fibra de seu corpo gritava para fazê-lo.
 
-Não era um nome — era uma designação, como todos os nomes nos escalões operacionais de *Umbra*³. Vex era baixo, magro, com o rosto angular de quem passou a vida inteira sendo ignorado e aprendeu que ser ignorado era a melhor camuflagem que existia. Não tinha a presença física de Korath²², não tinha a força de um operativo de linha de frente, não tinha a frieza calculista dos *nihilarys*¹⁰. O que Vex tinha era algo que nenhum dos outros tinha: um dispositivo.
+Seu artigo — publicado três meses atrás nas páginas do *Heraldo de Velantis*²⁹ — havia sido uma bomba. Não uma bomba elegante, como Selynis teria construído, mas uma bomba honesta: desajeitada, barulhenta, impossível de ignorar. Nele, Lysias denunciava os desaparecimentos nas fronteiras de Sylvaris, citava fontes que não deveria citar, nomeava portos que não deveria nomear, e terminava com uma pergunta que ecoou por toda *Sylvaris*¹³ e além: *"Quem está alimentando a máquina que devora os que ninguém reclama?"*
 
-O dispositivo repousava em uma caixa de *aetherite*³⁰ preto, do tamanho de um antebraço, protegido por camadas de sedação etérica que impediam que qualquer varredura de *aethra*¹⁵ detectasse sua assinatura. Vex carregava a caixa nas costas como quem carrega um fardo — não com orgulho, não com relutância, mas com a aceitação neutra de quem sabe que o peso que carrega é necessário para o funcionamento da máquina.
+A resposta, Lysias descobriria, tinha um endereço.
 
-Dentro da caixa, o dispositivo era uma maravilha de engenharia sombria. Construído com *aetherite*³⁰ refinado e forjado nas fundições subterrâneas de *Umbra*³, ele operava em um princípio simples: supressão de *aethra*¹⁵. Quando ativado, o dispositivo criava um campo de interferência em um raio de quarenta passos — uma bolha invisível onde as correntes de *aethra*¹⁵ que permeavam o mundo eram dissipadas, diluídas, tornadas inúteis. Dentro desse campo, ninguém podia canalizar *cryonys*²⁴. Ninguém podia invocar *thermaris*²⁹. Ninguém podia fazer qualquer coisa que dependesse da energia elemental — porque a energia simplesmente não estaria lá.
+Seus aposentos em Velantis³⁰ ficavam no terceiro andar de uma hospedaria no distrito dos escribas — um quarto pequeno, mobiliado com austeridade funcional: uma cama estreita, uma mesa de trabalho coberta de manuscritos, uma prateleira torta onde repousavam exemplares de leis e decretos que Lysias consultava com a devoção de um sacerdote consultando textos sagrados. A janela dava para uma rua estreita onde *lyriens*²⁵ vadiavam e comerciantes gritavam preços de frutas.
 
-Era como apagar o ar em uma sala: não importava quão forte fosse o pulmão de quem respirava, sem ar, não havia respiração.
+Era o tipo de lugar onde um repórter honesto mora: modesto, esquecível, seguro.
 
-A *Nyctara*¹⁷ era uma usuária de *thermaris*²⁹. Isso era fato — havia sido confirmado por três fontes independentes, incluindo um ex-operativo do *Tar-Gig*³⁷ que havia servido ao lado de Lyris¹⁶ em *Sanctrum*⁸ valens atrás. Seus reflexos eram rápidos, sua capacidade analítica era formidável, e em combate corpo a corpo ela era mais perigosa do que a maioria dos agentes de campo de qualquer organização continental.
+Não era seguro o bastante.
 
-Mas *thermaris*²⁹ era a base de seu poder. Sem *aethra*¹⁵ para canalizar, Lyris¹⁶ não seria mais perigosa do que qualquer outra mulher com um punhal e boa formação. Perigosa, sim — mas contida. Gerenciável.
+A batida na porta veio no final da nyxara — não uma batida, exatamente, mas um som, como se alguém tivesse tocado a madeira com o nó dos dedos. Três vezes. Igual. Preciso.
 
-Vex sabia tudo isso porque os *Nihil Shid*¹ o haviam instruído durante horas. Ele sabia que Lyris¹⁶ era a guardiã de Alyndra²⁷. Sabia que era uma ex-operativa do *Tar-Gig*³⁷. Sabia que havia sido reativada recentemente e que sua lealdade ao orfanato — e especificamente à menina de olhos castanhos — era o tipo de lealdade que fazia pessoas cometerem atos irracionais. E os *Nihil Shid*¹ tinham um plano para explorar essa lealdade.
+Lysias levantou-se da mesa, onde estava revisando as anotações para um artigo complementar — este sobre as rotas de *cargas fantasmas*¹⁶ que cruzavam as planícies de *Val-Koras*¹⁴. No bolso de sua túnica, um pequeno cristal de memória guardava as fontes.
 
-Se Lyris¹⁶ lutasse — e lutaria, porque o tipo de pessoa que protege é o tipo de pessoa que luta — Vex ativaria o dispositivo e criaria o campo de supressão. A *Nyctara*¹⁷ sentiria o *aethra*¹⁵ se esvair de suas veias como água de um vaso rachado. Seus *thermaris*²⁹ falhariam. Seus reflexos, condicionados a contar com a energia elemental, seriam mais lentos. E nesse momento de desequilíbrio — nesses poucos segundos em que um guerreiro descobre que sua arma principal não funciona — um operativo de apoio, posicionado nas sombras atrás dela, faria o que precisava ser feito.
+— Quem é? — ele perguntou, e sua voz falhou na última sílaba, porque algo no silêncio que se seguiu à sua pergunta lhe disse que não era uma visita social.
 
-Não matá-la. Os *Nihil Shid*¹ não queriam Lyris¹⁶ morta — morta, ela se tornaria mártir, e mártires são mais perigosos vivos do que mortos. Queriam-na neutralizada. Imobilizada. E, idealmente, forçada a observar enquanto Alyndra²⁷ era levada embora — porque os *nihilarys*¹⁰ entendiam algo que os humanos frequentemente esqueciam: a dor de não poder proteger é mais devastadora do que a dor de ser ferido. E uma Lyris¹⁶ quebrada pela impotência era uma Lyris¹⁶ que não voltaria a ser uma ameaça.
+Silêncio.
 
-Vex ajustou as correias da caixa nas costas e respirou fundo. Não era corajoso — não era medroso. Era funcional. Assim como Korath²², assim como os *nihilarys*¹⁰, Vex era uma peça no tabuleiro, e as peças não questionam o jogo.
+Depois, sem que a porta se abrisse — sem que houvesse som de dobradiças ou de passos — a voz veio de dentro do quarto. Não de trás dele, não de cima, mas de um lugar que parecia ser o centro exato do ar, como se as próprias moléculas tivessem decidido falar.
 
-— O campo cobrirá o dormitório e o corredor principal — disse o *nihilary*¹⁰ na cabeceira, finalizando o briefing. — Você se posicionará no ponto marcado no mapa — o refeitório. Quando a *Nyctara*¹⁷ se mover em direção ao quarto da criança²⁶, você ativa o dispositivo e mantém o campo ativo até que a extração esteja completa.
+— Alguns relatos são melhores deixados por escrever, jovem homem. Pelo bem de seus dedos. E de sua garganta.
 
-Vex assentiu. Uma vez.
+Lysias não se moveu. Não porque tivesse coragem — porque o medo o havia paralisado com a eficiência de uma mão fria no pescoço. Seu coração martelava tão forte que sentia o sangue pulsando nas têmporas, e por um momento — um segundo que durou uma eternidade — ele pensou que ia morrer ali, naquele quarto miserável, com o artigo inacabado sobre a mesa.
 
-— E se ela chegar ao dispositivo antes da ativação?
+Depois o medo foi substituído por outra coisa. Não coragem — Lysias não tinha coragem. Mas indignação. A indignação de um homem que passou a vida inteira acreditando que as palavras eram a única arma que os fracos possuíam, e que desistir dessa arma era entregar não apenas a batalha, mas a própria humanidade.
 
-O *nihilary*¹⁰ considerou a pergunta. Sua expressão — a expressão do corpo emprestado, que não era sua — não mudou.
+— Quem é você? — ele repetiu, e sua voz ainda tremia, mas tremia com raiva, não com medo.
 
-— Ela não chegará. A *Nyctara*¹⁷ é boa. Mas não é mais rápida do que o desespero de quem perdeu o *aethra*¹⁵.
+Nenhuma resposta. Mas no centro da mesa — sobre suas anotações, sobre o manuscrito, sobre as fontes que poderiam condená-lo — algo se materializou. Não apareceu; *materializou-se*. Um fragmento de cristal negro, do tamanho de um polegar, com arestas tão afiadas que pareciam cortar a própria luz ao redor. Pulsava — no fundo do fragmento, uma luminosidade azul-prateada, igual à das tochas dos *nihilarys*³¹.
 
-Vex não perguntou mais. Guardou a informação como quem guarda uma ferramenta: no lugar certo, pronta para uso.
+Uma carta de visita.
 
-E o dispositivo pulsou uma vez dentro da caixa de *aetherite*³⁰ — um segundo azul-prateado que Vex sentiu nas costas, através das correias, como um coração que batia em um ritmo que não era humano.
+A presença se retirou. Não como uma pessoa que sai — como uma névoa que se dissolve, como uma sombra que se recolhe quando a fonte de luz se aproxima. O ar no quarto voltou ao normal. A temperatura voltou ao normal. E Lysias ficou sozinho, de pé diante de sua mesa, olhando para o fragmento de cristal negro que agora repousava sobre suas anotações como um selo sobre um testamento.
 
----
+Ele pegou o fragmento. As arestas cortaram a ponta de seu dedo indicador — um corte fino, quase indolor, que sangrou em três gotas perfeitas sobre o manuscrito inacabado.
 
-## V. A Hora das Sombras
+Lysias enxugou o sangue. Guardou o fragmento no bolso, ao lado do cristal de memória.
 
-Os dois dias que antecederam a nyxara do ataque passaram com a lentidão viscosa de algo que não queria acabar — ou que queria acabar depressa demais, dependendo de qual lado do mapa se estava.
+Não iria parar de escrever.
 
-No templo abandonado, os preparativos finais foram executados com a precisão de um ritual. Os doze operativos de Korath²² receberam seus equipamentos em silêncio — cada peça inspecionada, cada lâmina testada, cada frasco de sedativo contado. Ninguém falou. Ninguém fez perguntas. O silêncio entre eles não era o silêncio de quem não tem o que dizer, mas o silêncio de quem já disse tudo o que precisava dizer nos meses de treinamento que precederam aquele momento.
-
-Korath²² revisou cada operativo com o olho clínico de quem inspeciona instrumentos antes de uma cirurgia. O homem da *Equipe Alfa* que carregava as cargas de distorção sonora — verificou. Os dois infiltradores da *Equipe Beta* e seus trajes de absorção de luz — verificou. Os três arqueiros da *Equipe Gamma* e suas flechas com pontas de paralisia — verificou. Vex e seu dispositivo — verificado.
-
-O *nihilary*¹⁰ da cabeceira entregou a Korath²² o último elemento do plano: um cristal de comunicação sintonizado na frequência de supressão da *RRA*³⁸.
-
-— O transmissor do orfanato será o primeiro a ser neutralizado — disse o *nihilary*¹⁰. — Sem comunicação, não há chamado de socorro. Sem socorro, não há reforços. A cidade de *Velantis*²⁵ tem uma guarnição de guardiões que pode responder em vinte minutos a um alerta de *aethra*¹⁵. Vinte minutos é mais do que suficiente para completar a extração e desaparecer.
-
-Korath²² pegou o cristal. Era pequeno, opaco, quase sem peso — como todas as coisas perigosas.
-
-— Quem neutraliza o transmissor?
-
-— Um ajudante de cozinha — disse o *nihilary*¹⁰. — Subornado há três meses pelo *Mestre dos Sussurros* de *Sylvaris*⁷, Vethran Noll. Não é um operativo — é um par de mãos baratas que precisava de moedas. Suficiente para acessar o transmissor da *RRA*³⁸ e desativá-lo durante a nyxara. Fugirá do orfanato antes do ataque — não queremos testemunhas.
-
-Korath²² processou a informação. Um ajudante de cozinha. Subornado por Vethran Noll — um nome que conhecia de relatórios, o *Mestre dos Sussurros* de *Sylvaris*⁷, um homem cuja habilidade de comprar lealdades era rivalizada apenas por sua discrição. A escolha era típica de Noll: não um espião, não um agente — uma pessoa comum, com uma fraqueza comum, transformada em ferramenta pelo peso das moedas certas no momento certo.
-
-O ajudante fugiria antes da operação. Isso era prudente — testemunhas sobreviventes geravam perguntas, e perguntas atrasavam operações. Noll sabia disso. Os *Nihil Shid*¹ sabiam disso. E Korath²², que não confiava em ninguém que não tivesse um contrato assinado em sangue, sabia que a distância entre um ajudante de cozinha e uma boca frouxa era medida em minutos, não em dias.
-
-Quanto ao zelador — Aldric³³ — Korath²² o havia observado durante cinco meses. Homem silencioso, quarto no alpendre da cozinha, rotina previsível, sono pesado. Nada em seu perfil sugeria ligação com *Umbra*³ ou com a rede dos *Nihil Shid*¹. Era uma variável descartada — um homem comum em um lugar que, em três dias, deixaria de ser comum.
-
-— A nyxara mais profunda — Korath²² disse, voltando ao mapa. — *Lyria*¹⁴ no zênite. O *aethra*¹⁵ natural mais denso. Maior probabilidade de sonhos profundos. Menor probabilidade de vigília espontânea.
-
-Os *nihilarys*¹⁰ concordaram. O *aethra*¹⁵ natural — a energia que permeava o mundo de Alyndra — tinha ciclos, e o ciclo mais profundo da nyxara, quando *Lyria*¹⁴ atingia seu ponto mais alto no céu, era o momento em que a consciência humana atingia o nível mais baixo de alerta. As pessoas não apenas dormiam — *afundavam*. E quem afunda não acorda com facilidade.
-
-Era a janela. E a janela se abriria em três dias.
+Mas agora sabia — com a certeza de quem sentiu a borda da lâmina — que escrever tinha um preço. E que o preço seria cobrado.
 
 ---
 
-## VI. Sombras em Movimento
+## III. A Chamada
 
-Na nyxara que antecedeu a operação — a última nyxara de normalidade que o *Orfanato Luminis*⁹ conheceria — Korath²² estava de pé no telhado do prédio abandonado a duzentos passos do muro leste, com o dispositivo de amplificação auditiva no ouvido e os olhos claros varrendo o perímetro como varreduras de luz em uma nyxara sem estrelas.
+O canal seguro da *RRA*⁵ operava em uma frequência que apenas Selynis e seus operativos conheciam — uma modulação de *aethra*¹⁹ que se disfarçava de ruído estático nos receptores convencionais. Quando ativada, a transmissão era indetectável: não como um sinal escondido, mas como algo que *não existia* para qualquer aparelho que não estivesse sintonizado na frequência exata.
 
-O orfanato dormia.
+A chamada chegou até Lyris²⁷ na manhã seguinte, enquanto ela organizava os suprimentos do orfanato no pequeno almoxarifado atrás da cozinha. O cristal receptor — um fragmento opaco que Lyris usava como pingente em um colar de couro, invisível sob a roupa — vibrou três vezes contra a pele do peito.
 
-As lanternas de cristal nos corredores internos estavam apagadas — apenas uma bruxuleava na cozinha, projetando um cone de luz dourada que tremia como a última pulsação de um cristal aetheris quase exaurido. O portão norte estava fechado. O portão leste — com sua dobradiça solta, a dobradiça que Lyris¹⁶ havia identificado — estava fechado também, mas não trancado. Os *velrok*²³ no estábulo estavam quietos, as cabeças baixas, os corpos imóveis como estátuas de carne e osso. As *giralis*³⁹ no jardim — as flores de pétalas prateadas que Lyris¹⁶ cultivava com o cuidado que outros reservavam para filhos — estavam abertas, como sempre estavam durante a nyxara, suas pétalas translúcidas brilhando com uma luminosidade fraca e etérea que parecia a própria essência da beleza tentando existir em um mundo que não a merecia.
+Lyris olhou ao redor. As crianças estavam no pátio, supervisionadas por Kira³³. O corredor estava vazio. Ela entrou no almoxarifado e fechou a porta.
 
-Korath²² observou tudo. Contou tudo. Cronometrou tudo.
+— Lyris³⁰ — ela disse, e o cristal reconheceu sua voz.
 
-O turno de guarda de Aldric³³ terminou às duas horas. Ele entrou na cozinha, acendeu a lamparina, sentou-se à mesa. Não afiou a faca naquela nyxara — uma variação na rotina que Korath²² registrou sem atribuir-lhe importância maior do que qualquer outra. Lyris¹⁶ fez sua ronda às duas e meia — passou pelo corredor principal, olhou para cada porta, parou por três segundos junto ao portão leste. Seus dedos tocaram a dobradiça. Korath²² viu — mesmo à distância, mesmo com apenas a luz fraca das *giralis*³⁹, ele viu o gesto. Lyris¹⁶ tocou a dobradiça como quem toca uma ferida: com a ponta dos dedos, levemente, como se estivesse verificando se algo havia mudado.
+A voz que veio do cristal não era a voz de Selynis — era uma voz genérica, sintetizada, sem timbre reconhecível. Mas as palavras eram de Selynis, e Lyris reconhecia as palavras como reconhecia o próprio rosto.
 
-Não havia mudado. A dobradiça continuava solta. E Lyris¹⁶ continuava sem saber que a soltura daquela dobradiça era a razão pela qual, em três dias, dois operativos passariam por aquele exato ponto como sombras através de uma fresta.
+— A criança³⁴ está em perigo. Mais do que você imagina. Aumente a segurança. Não confie em ninguém novo.
 
-Korath²² desceu do telhado. Montou no *velrok*²³. Afastou-se do prédio abandonado sem olhar para trás — não porque o orfanato não merecesse um último olhar, mas porque últimos olhares eram um desperdício de tempo, e Korath²² não desperdiçava tempo.
+Lyris sentiu o sangue gelar nas veias. Não porque a mensagem fosse surpreendente — porque não era. Desde que Alyndra começara a manifestar *cryonys*²³, desde que as vozes nas nyxaras haviam começado, Lyris sentia uma ansiedade que não tinha nome, uma pressão no peito como se o próprio ar estivesse ficando mais pesado ao redor do orfanato a cada dia que passava.
 
-No templo abandonado, os doze operativos esperavam. Os três *Koramis*²⁸ descansavam em seus poleiros de pedra, com as penas de cristal brilhando na escuridão como lâminas de vidro. Vex estava sentado no canto, com a caixa de *aetherite*³⁰ nas costas, os olhos fechados, respirando com a calma de quem pratica um exercício de concentração há valens. Os *nihilarys*¹⁰ permaneciam ao redor da mesa, imóveis, seus corpos emprestados sentados como estátuas de cera em uma câmara mortuária, seus verdadeiros selves espreitando de dentro dos olhos que não lhes pertenciam.
+— De quem? — ela perguntou, e sua voz era mais baixa do que pretendia.
 
-Korath²² entrou na câmara. Curvou os ombros na porta. Olhou para o mapa — o mapa do orfanato, do lugar onde crianças dormiam e *giralis*³⁹ brilhavam e uma mulher fazia rondas nas nyxaras para proteger o que amava.
+A pausa que se seguiu durou dois segundos. Depois:
 
-Ele tirou a lâmina da bainha. A obsidiana bebeu a luz dos cristais e não a devolveu. A borda era tão afiada que o ar parecia se separar ao redor dela, como se a própria matéria soubesse que algo mais duro do que ela estava próximo.
+— De todos.
 
-Korath²² inspecionou a lâmina. Virou-a uma vez, duas vezes, sentindo o peso no pulso, confirmando o equilíbrio. A lâmina era uma extensão de seu braço — havia sido forjada para ele nas fundições de *Umbra*³, moldada à medida de sua mão, temperada em *cryonys*²⁴ brutal até que a obsidiana adquirisse a dureza de algo que não quebra e a frieza de algo que não sente.
+O canal se fechou. O cristal parou de vibrar.
 
-Ele guardou a lâmina. A bainha chiou quando a borda deslizou para dentro — um som fino, agudo, como o último suspiro de algo que esperava ser usado.
+Lyris ficou no almoxarifado por mais doze segundos, de pé entre sacos de grãos e potes de remédio, com as mãos apoiadas na parede de pedra e os olhos fechados. Não confie em ninguém novo. De quem. De todos.
 
-— A operação começa ao cair da próxima nyxara — ele disse.
+Ela não confiava inteiramente em Selynis — a Mestra da Informação era uma aliada, sim, mas aliados têm agendas, e as agendas de Selynis Thalassa⁶ eram tão complexas e multicamadas quanto os cristais de dados que usava para espionar continentes. Lyris sabia que Selynis protegia Alyndra não por compaixão, mas porque a criança tinha valor — valor estratégico, tático, político. Isso não tornava a proteção menos real, mas a tornava menos *simples*.
 
-Ninguém respondeu. Ninguém precisava.
+Ainda assim, a advertência era real. Lyris sentia que era real — sentia com a mesma certeza instintiva com que sentia a proximidade de uma tempestade antes de ver as nuvens.
 
-Três dias.
+Quando saiu do almoxarifado, seus olhos já tinham mudado. A expressão gentil de quem cuidava de crianças ainda estava lá — estaria sempre lá, porque era genuína — mas por baixo dela, agora, havia algo mais duro. Algo que parecia aço embaixo de seda.
 
-E o orfanato dormia.
+Naquela manhã, Lyris fez três coisas.
 
-As *giralis*³⁹ no jardim estavam abertas, suas pétalas prateadas erguidas para um céu onde *Lyria*¹⁴ ainda não havia atingido o zênite, mas se aproximava, arrastando consigo a maré de escuridão que transformava o mundo em silhuetas e o silêncio em algo pesado. Os *velrok*²³ no estábulo estavam quietos, respirando lento, sonhando os sonhos simples de animais que não sabiam que em três dias seus estábulos estariam vazios. No dormitório principal, Alyndra²⁷ dormia com *Nyx*³⁴ encolhida aos seus pés e Mila⁴⁰ em seus braços, e seus olhos castanhos estavam fechados, e sob suas pálpebras algo se movia — algo antigo, algo que tentava contatá-la há meses, algo que sussurrava promessas em uma língua que ela não devia conhecer.
+Primeiro: percorreu o perímetro do orfanato, inspeção completa, observando cada janela, cada porta, cada ponto de acesso que um estranho pudesse usar. Notou, com a atenção de quem vê sem querer ver, que o portão leste — o que dava para a rua estreita que ligava o orfanato ao distrito comercial — tinha uma dobradiça solta. Não estava assim na última inspeção.
 
-E no corredor dos fundos, em um quarto que cheirava a pedra antiga e a faca afiada, Lyris¹⁶ dormia — ou fingia dormir — com as mãos cruzadas sobre o peito e a respiração controlada de quem pode parecer adormecido mas que nunca está completamente adormecido, porque meses de vigilância condicionaram seu corpo a descansar com um olho sempre aberto — o olho interno, o olho que não tem pálpebra.
+Depois: pediu a Aldric³⁶ que reforçasse o turno da nyxara. Aldric era um homem silencioso, de ombros largos e olhos que pareciam ter visto coisas demais para ainda se surpreenderem com qualquer coisa. Quando Lyris mencionou "precauções extras", ele não perguntou por quê. Apenas assentiu e foi verificar os corredores.
 
-E na cozinha, sob a luz fraca de uma lamparina que tremia como se soubesse o que estava por vir, Aldric³³ estava sentado. Sem faca. Sem movimento. Apenas sentado, com as mãos entrelaçadas sobre a mesa e os olhos — olhos de quem vigia não por dever, mas por instinto — fixos em um ponto vazio na parede.
+Terceiro: sentou-se ao lado de Alyndra, no pátio, e observou a menina praticar *cryonys*²³. Alyndra estava de pé no centro de um círculo de geada — uma manifestação espontânea que acontecia quando sua concentração atingia certos níveis — com os olhos fechados e as mãos estendidas, como se estivesse tocando algo invisível no ar. *Nyx*³⁷, a *lyrien*²⁵ prateada, estava sentada ao lado dela, imóvel, com os olhos fixos em algo que Lyris não conseguia ver.
 
-A nyxara continuou.
+Lyris observou. E preocupou-se. Porque a geada ao redor de Alyndra era mais extensa do que havia sido na nyxara anterior. E porque *Nyx*³⁷ não estava dormindo — estava vigiando.
 
-As sombras esperaram.
-
-E quando a nyxara atingiu seu ponto mais profundo — quando *Lyria*¹⁴ atingiu o zênite e a *aethra*¹⁵ natural se condensou como névoa invisível e o mundo inteiro pareceu segurar a respiração — as sombras pararam de esperar.
+E *Nyx*³⁷ nunca vigiava a menos que sentisse algo que os humanos não sentiam.
 
 ---
 
-**[FIM DO CAPÍTULO XXIV]**
+## IV. As Ruínas de Ventus
+
+Thaloris Ventaris³⁸ não dormia há cinco meses.
+
+Não era insônia no sentido comum — não era a incapacidade de adormecer, mas a recusa de fazê-lo. Porque cada vez que fechava os olhos, a voz vinha. A voz que não era voz, a presença que não era presença, os olhos azul-prateados que o observavam do canto do quarto onde as trevas eram mais espessas. E com a voz vinham as promessas — ou o que restava delas, que era algo entre a esperança e a armadilha.
+
+Vethran Noll³⁹ o observava com a paciência de quem cuida de um doente crônico. Não por compaixão — Vethran não era compassivo — mas porque Thaloris era o reino, e se o reino desmoronasse, Vethran desmoronaria junto.
+
+— *Lugal Lil*⁴⁰ — ele disse, entrando nos aposentos de Thaloris sem ser anunciado. — Uma palavra.
+
+Thaloris estava sentado na borda da cama, com a taça de vinho âmbar de *Aeriva*⁴¹ na mão — a mesma taça, o mesmo vinho, o mesmo gosto metálico de ferro que acompanhava cada gole há meses. Seus olhos, que uma vez haviam sido a arma mais elegante de Sylvaris, estavam vermelhos de exaustão e injetados de uma veia azul que não estava ali um valen atrás.
+
+— Fale — Thaloris disse.
+
+— Você solicitou uma reunião com o contato dos *Nihil Shid*¹⁷. Nas ruínas do Templo de *Ventus*⁴³. — Vethran não fez isso como pergunta; fez como acusação. — Eu aconselho contra.
+
+— Eu sei.
+
+— O Conselho dos 12⁴⁴ tem informantes em todos os postos avançados entre Zephyra e as colinas do sul. Qualquer movimento seu fora do palácio será notado.
+
+— Eu sei.
+
+— Selynis Thalassa⁶ tem operativos na região. Se ela interceptar—
+
+— *Eu sei*, Thaloris repetiu, e sua voz era plana — sem energia, sem ira, sem qualquer coisa que Vethran pudesse usar como alavanca. — Você acha que não sei? Acha que não penso nisso a cada segundo desde que consenti? Eu sei os riscos, Vethran. Conheço cada um deles. E vou mesmo assim.
+
+Vethran o estudou por um longo momento. Seus olhos de cinza transparente — olhos que pareciam ver através das coisas como a luz de *Aurion*⁴⁵ atravessa o cristal — não revelaram emoção. Mas a postura mudou. Os ombros, que estavam retos como sempre, caíram um centímetro. Uma fração de fração. O equivalente emocional de um suspiro em um homem que não suspirava.
+
+— Por quê? — Vethran perguntou, e a pergunta era genuína — o tipo de pergunta que só se faz quando todas as respostas lógicas já foram esgotadas e o que sobra é a necessidade de entender algo que desafia a compreensão.
+
+Thaloris bebeu. O vinho tinha gosto de nada.
+
+— Porque se eu não for — ele disse, e sua voz mudou — não para a frieza calculada do *Lugal Lil*⁴⁰, não para a ironia desesperada de quem negocia com demônios, mas para algo mais simples e mais perigoso: a honestidade de um homem que não tem mais mentiras sobrando — então nunca vou saber se a promessa era real. E se não era real, então matei pessoas — pessoas que não conhecia, pessoas que tinham nomes e famílias e filhos — por nada. Por uma mentira. E se matei por uma mentira, então não sou um homem que fez um pacto com o diabo. Sou um homem que não é nada.
+
+O silêncio que se seguiu durou mais do que Vethran teria desejado.
+
+— Quando? — ele perguntou.
+
+— Daqui a dois dias. Nyxara. As ruínas de *Ventus*⁴³.
+
+Vethran assentiu. Uma vez. Sem comentário. Sem objeção adicional. Porque sabia — como sempre soube — que Thaloris já havia tomado a decisão antes de chamar Vethran para ouvir. A conversa não era sobre persuasão. Era sobre ter alguém que testemunhasse — não o ato em si, mas o momento em que o ato se tornou inevitável.
+
+Vethran saiu. Seus passos não fizeram som.
+
+E Thaloris ficou sozinho com a taça, o vinho, e a certeza — a certeza absoluta, inegável, que tinha o peso de uma sentença — de que caminhava para algo que não podia nomear, em direção a um encontro que não podia evitar, em direção a uma escolha que não era escolha porque todas as alternativas já haviam sido consumidas pela máquina que ele mesmo havia ajudado a construir.
+
+Ele olhou pela janela. *Aurion*⁴⁵ estava se pondo, mergulhando Zephyra em tons de âmbar e violeta. *Nyx*³⁷ ainda não havia aparecido.
+
+*Nyx*³⁷ nunca mais aparecia.
+
+---
+
+## V. O Peso no Ar
+
+Alyndra não sabia o que era.
+
+Saberia? Talvez nunca. Talvez em algum valen distante, quando olhasse para trás e visse cada peça do tabuleiro com a clareza da retrospectiva, pudesse nomear aquela sensação com a precisão que a urgência do momento não permitia. Mas por agora — naquela manhã, de pé no pátio do Orfanato *Luminis*²⁰ com as mãos ainda frias da prática de *cryonys*²³ e os olhos ainda fechados — Alyndra não sabia. Sentia.
+
+Sentia o ar mais pesado.
+
+Não como antes da chuva — ela conhecia aquele peso, o peso úmido e denso que precede as tempestades de *Sylvaris*¹³, quando o vento carrega a umidade das planícies e a deposita sobre as colinas como um manto invisível. Isso era diferente. Era um peso *seco*, elétrico, como se o próprio *aethra*¹⁹ ao redor do orfanato estivesse se tornando mais denso, mais concentrado, mais *presente*.
+
+*Nyx*³⁷ sentia também. A *lyrien*²⁵ não dormia há duas nyxaras — passava o tempo deitada ao lado de Alyndra, com os olhos abertos, as orelhas erguidas, o focinho apontado para o portão leste do orfanato. Não latia — *Nyx*³⁷ quase nunca latia — mas sua quietude era mais eloquente do que qualquer latido. Era a quietude de um animal que percebeu uma ameaça que os sentidos humanos não captam.
+
+Alyndra praticou *cryonys*²³ mais intensamente naquela manhã do que havia praticado em todo o mês. Não por instrução — Lyris não havia pedido que praticasse — mas por um impulso que vinha de dentro, de um lugar mais profundo que a consciência, como se seu corpo soubesse algo que sua mente ainda não compreendia. As manifestações eram mais fortes: o gelo que formava ao redor de suas mãos era mais espesso, a temperatura do ar em seu raio de três passos caía de forma mensurável, e nos momentos de maior concentração, cristais de gelo se formavam espontaneamente nas superfícies ao redor dela — no poço do pátio, nas folhas das *giralis*⁴⁶ que cresciam junto ao muro, nas pedras do caminho.
+
+Kira³³ observava de longe, com os olhos arregalados de quem vê algo que desafia a compreensão mas não ousa interromper. Dravyn⁴⁷, sentado no canto do pátio com um bloco de carvão e um pedaço de casca de *argentis*⁴⁸, desenhava sem levantar os olhos — mas o que desenhava não era o pátio, nem as crianças, nem as *giralis*⁴⁶. Desenhava algo que ninguém lhe havia ensinado a desenhar: uma torre cercada por sombras, com um ponto de luz no topo que parecia pulsar.
+
+Lyris observava tudo. E preocupava-se.
+
+Não era a manifestação de *cryonys*²³ que a preocupava — Lyris já havia aceitado que Alyndra era algo além do que a ciência de Alyndra podia explicar. Era a *intensificação*. Cada dia que passava, Alyndra ficava mais forte. Cada nyxara, as vozes que ouvia ficavam mais nítidas. E cada vez que Lyris olhava para a menina, via algo novo nos olhos castanhos — não medo, não dor, mas *reconhecimento*. Como se Alyndra estivesse começando a entender algo que ninguém mais podia ver.
+
+E Lyris — que havia dedicado sua vida a proteger aquela criança, que havia construído o Orfanato *Luminis*²⁰ como um santuário contra um mundo que devorava os vulneráveis — sentia, pela primeira vez desde que encontrara Alyndra na porteira do orfanato com os olhos ainda molhados de lágrimas que não tinha por quem chorar, que o santuário talvez não fosse suficiente.
+
+A mensagem de Selynis ecoava em sua mente como o som de um sino em uma câmara vazia: *De todos.*
+
+---
+
+## VI. A Luz na Escuridão
+
+E então a nyxara veio.
+
+Veio como vem toda nyxara — não com um evento, mas com uma transição, um desbotamento gradual da luz de *Aurion*⁴⁵ que transforma o mundo de cores em formas, as formas em silhuetas, as silhuetas em escuridão. Mas naquela nyxara específica — a última nyxara antes que tudo mudasse, antes que a armadilha se fechasse de vez e as peças começassem a se mover no tabuleiro — a escuridão pareceu mais gentil. Ou talvez mais triste. As duas coisas, às vezes, são indistinguíveis.
+
+Kira³³ leu para as crianças menores. Sentada no canto do refeitório, com uma lanterna de cristal projetando um círculo de luz dourada sobre o livro aberto em seu colo, ela leu a história de como *Aurion*⁴⁵ havia nascido — ou como os antigos acreditavam que havia nascido, do primeiro sopro de vento que atravessou o vazio e se incendiou de tanto se mover. As crianças ouviam com os olhos arregalados, sete pares de olhos refletindo a luz dourada como sete pequenos sóis. Uma delas — Mila⁴⁹ — adormeceu antes do fim, com a cabeça no ombro de Kira e um sorriso que não sabia que era o último sorriso inocente de uma nyxara que não voltaria.
+
+Dravyn⁴⁷ continuou desenhando. No canto do pátio, sob a luz fraca de *Nyx*³⁷ — que, estranhamente, brilhava mais do que o normal naquela nyxara, como se a lua menor quisesse compensar alguma ausência — ele rabiscava na casca de *argentis*⁴⁸ com uma intensidade que beirava a obsessão. A torre cercada por sombras. Um ponto de luz no topo. E agora, na base da torre, algo que não estava no desenho anterior: uma criança de olhos castanhos, de pé diante das sombras, com as mãos estendidas como se estivesse oferecendo algo — ou recebendo.
+
+Torvin⁵⁰ contava os dias. Estava sentado no telhado do galpão de ferramentas — seu posto de observação predileto, de onde podia ver o portão principal e a rua além — com um graveto na mão e uma pedra plana no joelho, marcando cada dia que passava desde a última transmissão da *RRA*⁵. Dezessete marcas. A próxima transmissão seria em três dias. Torvin não sabia exatamente o que esperava ouvir na transmissão — sabia apenas que as mensagens de Selynis tinham se tornado mais curtas e mais urgentes nos últimos meses, e que isso significava alguma coisa que ele, com seus sete valens e sua mente curiosa demais para sua própria segurança, não deveria estar tentando decifrar.
+
+Mila⁴⁹ dormia nos braços de Alyndra. A menina mais nova do orfanato — dois valens, olhos grandes como azeitonas, uma risada que fazia até as pedras parecerem menos duras — tinha sido transferida para o cuidado de Alyndra naquele mês, como se alguma força invisível soubesse que as duas precisavam uma da outra. Alyndra segurava Mila com uma delicadeza que contradizia sua idade — ou que a transcendia, porque havia algo no modo como aquela criança de olhos castanhos segurava uma criança menor que sugeria não cuidado aprendido, mas cuidado *instintivo*, como se proteger fosse tão natural para Alyndra quanto respirar.
+
+*Thar Elara*⁵¹ olhava para os portões do orfanato de fora. De pé na rua estreita, envolta em um manto que a confundia com as sombras, ela observava — não com hostilidade, não com suspeita, mas com a expressão de alguém que mede o valor de algo que pode ser perdido. Os portões estavam fechados. As luzes internas eram quentes. E dentro, crianças dormiam sem saber que eram o centro de algo muito maior do que o orfanato, do que *Velantis*³⁰, do que qualquer uma delas poderia imaginar.
+
+*Thar Elara*⁵¹ não entrou. Apenas observou. Depois virou-se e desapareceu na nyxara como quem desaparece num sonho — sem som, sem testemunha, sem rastro.
+
+Aldric³⁶ afiava uma lâmina.
+
+Estava sentado no alpendre da cozinha, com a pedra de afiar no colo e a faca — uma faca de cozinha, grande, que Lyris usava para cortar raízes — entre as mãos. O som era ritmado, hipnótico: *shhhh, shhhh, shhhh* — metal contra pedra, uma cadência tão antiga quanto a própria ideia de proteção.
+
+— Para o jardim? — Lyris perguntou, passando por ele a caminho de seu quarto.
+
+— Para o jardim — Aldric confirmou, sem levantar os olhos.
+
+Lyris olhou para a lâmina. Para o jardim, é claro. Para cortar *giralis*⁴⁶, podar *argentis*⁴⁸, preparar canteiros. Para o jardim.
+
+Nenhum dos dois acreditou nisso. Mas nenhum dos dois disse nada mais, porque havia verdades que só precisam ser reconhecidas em silêncio.
+
+E Alyndra — Alyndra estava sentada junto à janela do dormitório, com Mila adormecida em seu regaço e *Nyx*³⁷ sentada ao seu lado, olhando para o céu noturno sobre *Velantis*³⁰.
+
+*Velantis*³⁰ era bonita durante a Nyxara. As lanternas de cristal dos distritos mais ricos projetavam feixes de luz dourada e azul que se refletiam nos telhados de ardósia e nas copas das *argentis*⁴⁸ que ladeavam as avenidas principais. Ao longe, a silhueta das torres do distrito governamental recortava-se contra o céu como dentes de uma engrenagem celeste. Os sons da cidade — distantes, abafados pela distância e pelos muros do orfanato — chegavam como murmúrios: o eco de uma carruagem, o latido de um *lyrien*²⁵, a canção de um bardo que ninguém ouvia mas que insistia em cantar.
+
+E no centro de tudo isso — no coração do orfanato, no centro da nyxara, no olho de uma tempestade que ainda não havia sido nomeada — Alyndra olhava para o céu e sentia.
+
+Aninhando Mila no regaço, ela sentia o peso. A densidade. A eletricidade seca no ar.
+
+*Nyx*³⁷ uivou — não um uivo de alerta, mas algo mais profundo, mais antigo, como se a *lyrien*²⁵ estivesse respondendo a uma frequência que existia além do alcance do som.
+
+Alyndra acariciou a pelagem escura de *Nyx*³⁷. Ajustou Mila em seu regaço. E sussurrou — não para *Nyx*³⁷, não para Mila, não para ninguém que pudesse ouvir, mas para o próprio ar, para a escuridão, para a sensação inominável que pressionava contra seu peito:
+
+— Algo está vindo.
+
+A nyxara continuou. As crianças dormiam. *Aurion*⁴⁵ estava ausente, *Nyx*³⁷ brilhava, e o orfanato — pequeno, vulnerável, precioso — permanecia de pé como uma única vela acesa numa sala que estava ficando escura.
+
+A armadilha se fechava.
+
+E a tempestade — a verdadeira tempestade, aquela que não trazia chuva mas algo pior — ainda estava a dois dias de distância.
+
+Mas já se podia sentir o vento que a precedia.
+
+---
+
+***[FIM DO CAPÍTULO XXIV]**
 
 ---
 
@@ -278,83 +304,101 @@ E quando a nyxara atingiu seu ponto mais profundo — quando *Lyria*¹⁴ atingi
 
 ## 📖 Glossário do Capítulo
 
-¹ **Nihil Shid** — Seita secreta que se autodenomina "Os Iluminados"; orquestram as *cargas fantasmas* e a rede de *nihilarys*.
+¹ **Arauto do Éter** — Figura lendária de Alyndra; associado a profecias e advertências sobre o equilíbrio entre luz e escuridão.
 
-² **Fulmora** — Reino dos Raios; quinto reino.
-
-³ **Umbra** — Reino das Sombras e Mistérios; sétimo reino. Origem dos mercenários e do dispositivo de supressão de *aethra*.
-
-⁴ **valen / valens** — Unidade de tempo longa; equivalente a um ano (~365 dias). Na narração, usa-se "ano" (já aplicado nos capítulos).
-
-⁵ **Aurion** — A estrela central de Alyndra.
-
-⁶ **aethrys** — Mineral cristalino usado em superfícies táteis de projeção.
-
-⁷ **Sylvaris** — Reino dos Ventos, Florestas e Cristais; primeiro reino.
-
-⁸ **Sanctrum** — Capital continental; sede do Conselho dos 12 e da Torre de *Aurion*.
-
-⁹ **Orfanato Luminis** — Orfanato em *Velantis*; alvo do ataque coordenado pelos *Nihil Shid*.
-
-¹⁰ **nihilary / nihilarys** — Agentes dos *Nihil Shid*; seres capazes de manipular escuridão e ausência. Habitam corpos humanos como receptáculos.
-
-¹¹ **cargas fantasmas** — Termo não oficial para o tráfico de pessoas através das fronteiras sem registro.
+² **Câmara dos Sussurros** — Base de operações de Selynis Thalassa; escritório na Torre de Aurion em Sanctrum. Projetada para absorver som e impedir interceptação.
 
 
+⁴ **Valira** — Período que corresponde à tarde em Alyndra. Na narração comum, usar "tarde".
 
-¹⁴ **Lyria** — Uma das três luas de Alyndra; atinge o zênite no ponto mais profundo da noite.
+⁵ **RRA** — Rede de Ressonância de Aurion; sistema de comunicação instantânea por pulsos etéricos. Possui canais cifrados conhecidos apenas por operadores autorizados.
 
-¹⁵ **aethra** — Energia elemental que permeia todo o mundo de Alyndra; base de todos os poderes elementais.
+⁶ **Selynis Thalassa** — Mestra da Informação; titular do Assento Ukam no Conselho dos 12. Mantém a rede de inteligência mais extensa de Alyndra.
 
-¹⁶ **Lyris (Nyctara)** — Administradora do Orfanato Luminis; ex-operativa do *Tar-Gig* com afinidade ao *thermaris*.
+⁷ **Sanctrum** — Capital continental; sede do Conselho dos 12 e da Torre de Aurion.
 
-¹⁷ **Nyctara** — Codinome operacional de Lyris; usado pelos *Nihil Shid* para designá-la como ameaça tática.
+⁸ **Tar-Gig** — Organização de inteligência e espionagem; aliada de Selynis Thalassa.
 
-¹⁸ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos literários específicos, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo" (já aplicado nos capítulos).
+⁹ **Daress** — Operativo do Tar-Gig infiltrado como manusense numa estação de cargas na fronteira Fulmora-Umbra.
 
-¹⁹ **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
+¹⁰ **Fulmora** — Reino dos Raios; quinto reino. Governado por Zerynthia.
 
-²⁰ **o mercador** — Designação interna dos *Nihil Shid* para Korath.
+¹¹ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
 
-²¹ **argentis** — Árvore de casca prateada e folhas translúcidas; comum em *Sylvaris*.
+¹² **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
 
-²² **Korath** — Mercenário de *Umbra*; comandante de campo da operação. Enorme, cicatrizes de gelo no rosto, olhos quase brancos, armadura de obsidiana.
+¹³ **Sylvaris** — Reino dos Ventos, Florestas e Cristais; primeiro reino. Governado por Thaloris Ventaris.
 
-²³ **velrok** — Animal de grande porte, utilizado para montaria e tração.
+¹⁴ **Val-Koras** — Região de passagem nas fronteiras orientais de Sylvaris; entroncamento de rotas terrestres.
 
-²⁴ **cryonys** — Poder elemental de gelo; fusão de Água e Vento.
+¹⁵ **Ponto Ômega** — Designação Tar-Gig para o templo abandonado na fronteira Fulmora-Umbra onde as cargas fantasmas convergem.
 
-²⁵ **Velantis** — Cidade principal do interior de *Sylvaris*; onde se localiza o Orfanato Luminis.
+¹⁶ **cargas fantasmas** — Termo não oficial para o tráfico de pessoas através das fronteiras sem registro.
 
-²⁶ **criança** — Termo genérico. Alyndra é o alvo primário; as demais são "cargas secundárias".
+¹⁷ **Nihil Shid** — Organização secreta que se autodenomina "Os Iluminados"; operam nas sombras do continente. Orquestram as cargas fantasmas e a rede de nihilarys.
 
-²⁷ **Alyndra** — Menina de olhos castanhos, criada no Orfanato Luminis. Alvo primário da operação.
+¹⁸ **pedra solta** — Elemento comum em construções antigas, usado aqui como ponto de ocultação de dados.
 
-²⁸ **Koramis** — Ave de cristal usada como montaria aérea; criada nos ninhos das montanhas de *Umbra*.
+¹⁹ **aethra** — Energia elemental que permeia todo o mundo de Alyndra; base de poderes elementais.
 
-²⁹ **thermaris** — Poder elemental de vapor e calor; fusão de Água e Fogo.
+²⁰ **Orfanato Luminis** — Orfanato em Velantis onde Alyndra foi criada; administrado por Lyris.
 
-³⁰ **aetherite** — Mineral sensível a *aethra*; usado em dispositivos de supressão e comunicação.
+²¹ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos literários específicos, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo" (já aplicado nos capítulos).
+
+²² **esquecimento** — Perda momentânea da ação; paralisia causada por choque ou revelação.
+
+²³ **cryonys** — Poder elemental de gelo; fusão de Água e Vento. Manifestado por Alyndra.
 
 
-³² **Kira** — Auxiliar do Orfanato Luminis; monitora as meninas menores.
+²⁵ **lyrien** — Pequeno animal doméstico companheiro comum em Alyndra; felino etéreo de olhos dourados.
 
-³³ **Aldric** — Zelador do Orfanato Luminis; observado pelos *Nihil Shid* durante a fase de reconhecimento.
+²⁶ **ativar** — Comando operacional; iniciar canal de comunicação.
 
-³⁴ **Nyx** — *Lyrien* prateada companheira de Alyndra.
+²⁷ **Lyris** — Administradora do Orfanato Luminis; guardiã de Alyndra.
 
-³⁵ **lyrien** — Animal companheiro de tamanho médio, comum em Alyndra.
+²⁸ **Lysias Thyrion** — Repórter do *Heraldo de Velantis*; autor de artigos denunciando as cargas fantasmas.
 
-³⁶ **alen** — Unidade de tempo equivalente a sessenta pulsos. Na narração comum, usa-se "minuto" (já aplicado nos capítulos).
+²⁹ **Heraldo de Velantis** — Periódico de circulação em Velantis e regiões vizinhas de Sylvaris.
 
-³⁷ **Tar-Gig** — Organização de inteligência e espionagem de *Sanctrum*.
+³⁰ **Velantis** — Cidade principal do interior de Sylvaris; onde se localiza o Orfanato Luminis.
 
-³⁸ **RRA** — Rede de Ressonância de *Aurion*; sistema de comunicação instantânea.
+³¹ **nihilary / nihilarys** — Agentes dos Nihil Shid; seres capazes de manipular escuridão e ausência.
 
-³⁹ **giralis** — Flores de pétalas prateadas que abrem durante a noite.
+³² **Alara** — Período que corresponde à manhã em Alyndra.
 
-⁴⁰ **Mila** — Menina mais nova do Orfanato Luminis; dorme nos braços de Alyndra.
+³³ **Kira** — Auxiliar do Orfanato Luminis; responsável pelo cuidado das crianças menores.
 
-⁴¹ **Alara** — Período que corresponde à manhã em Alyndra. Plural: *Alaras*.
+³⁴ **designação Alvo** — Termo operacional usado por Selynis Thalassa para se referir a Alyndra em comunicações cifradas.
 
-⁴² **Vethran Noll** — *Mestre dos Sussurros* de *Sylvaris*; especialista em subornos e operações de influência.
+
+³⁶ **Aldric** — Guarda e zelador do Orfanato Luminis; homem silencioso e leal.
+
+³⁷ **Nyx** — A Menor das três luas de Alyndra; também o nome da lyrien prateada companheira de Alyndra.
+
+³⁸ **Thaloris Ventaris** — Lugal Lil de Sylvaris; o Senhor dos Ventos. Envolveu-se com os Nihil Shid em troca de promessas de imortalidade.
+
+³⁹ **Vethran Noll** — Conselheiro-chefe de Thaloris; Mestre dos Sussurros de Sylvaris.
+
+⁴⁰ **Lugal Lil** — Título do governante de Sylvaris; "Senhor dos Ventos".
+
+⁴¹ **Aeriva** — Região vinícola de Sylvaris; produtora do vinho âmbar.
+
+⁴² **valen / valens** — Unidade de tempo longa; equivalente a um ano (~365 dias). Na narração, usa-se "ano" (já aplicado nos capítulos).
+
+⁴³ **Ventus** — Deus ancestral dos ventos de Sylvaris; o Templo de Ventus é um local sagrado em ruínas nas colinas ao sul de Zephyra.
+
+⁴⁴ **Conselho dos 12** — Órgão consultivo de Sanctrum; composto por doze assentos.
+
+⁴⁵ **Aurion** — A estrela central de Alyndra.
+
+⁴⁶ **giralis** — Flores de pétalas prateadas que abrem durante a nyxara; ornamentam o pátio do Orfanato Luminis.
+
+⁴⁷ **Dravyn** — Criança do Orfanato Luminis; desenha obsessivamente imagens que parecem premonitórias.
+
+⁴⁸ **argentis** — Árvore de casca prateada e folhas translúcidas; comum em jardins de Sylvaris.
+
+⁴⁹ **Mila** — Menina mais nova do Orfanato Luminis; três *valens*, cuidada por Alyndra.
+
+⁵⁰ **Torvin** — Menino do Orfanato Luminis; monitora transmissões RRA e vigia o perímetro.
+
+⁵¹ **Thar Elara** — Figura misteriosa observada próximo ao Orfanato Luminis; suas intenções permanecem incertas.

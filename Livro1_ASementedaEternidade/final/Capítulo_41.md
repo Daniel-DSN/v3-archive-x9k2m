@@ -6,330 +6,374 @@
 
 # CAPÍTULO XLI
 
-# Julgamento Final do Carmesim
+# Erupção do Carmesim
 
-*"Quando os dois colossais dançam, nem os deuses observam em silêncio — observam em reverência, porque o que dança não é fogo, é o nascimento da aniquilação vestida de beleza."*
+*"Quando o fogo não basta, o homem de fogo não desiste — ele se torna o próprio incêndio, e queima até que reste apenas o silêncio entre as cinzas e o céu."*
 — Fragmento dos *Cantos de Adormecimento*¹, compilação atribuída ao Ciclo das *Giralis*² Negras
 
 ---
 
-## I. O Selo se Abre
+## I. O En Me
 
-O céu *rasgou*.
+Aurelius³ não caminhou até o campo de batalha.
 
-Não como rasga papel — como rasga *realidade*. A camada de atmosfera que separava Alyndra do que existia *acima* — não o espaço, não o vazio, algo *mais*, algo que os eruditos de *Sanctrum*³ chamavam de "o tecido primordial" e que os *Cantos de Adormecimento*¹ descreviam como "o manto que Elarys vestiu antes de dormir" — se *abriu*. Uma fenda — não horizontal, não vertical, *diagonal*, como se uma mão invisível tivesse cortado o céu com uma lâmina que não era feita de metal mas de *intenção*.
+Aurelius³ *desceu*.
 
-E da fenda — veio *luz*.
+Não como um homem desce uma escadaria — como uma estrela desce do firmamento. O rastro carmesim que havia rasgado o céu desde a *Torre de Aurion*⁴ até a fronteira de *Fulmora*⁵ e *Umbra*⁶ ainda ardia no horizonte como uma cicatriz de luz, tingindo as nuvens de vermelho e carregando o cheiro de ozônio e rocha fundida. Os olhos de todos os que ainda conseguiam ver — Velatrix⁷, Lyris⁸, Aldric⁹, Urrak¹⁰, o velho Marethyus¹¹ estirado no chão com a relíquia vazia contra o peito — estavam fixos na figura que havia surgido da coluna de fogo e atingido a aberração com uma força que fez o solo rachar em um raio de cinqüenta passos.
 
-Não a luz do *Aurion*⁴, que era dourada e quente e *familiar*. Não a luz de *Lyria*⁵, que era prateada e fria e *distante*. Uma luz que era *outra* — vermelha, dourada, e branca simultaneamente, uma cor que não existia no espectro visível de Alyndra, que só existia quando algo de *fora* do mundo decidia se manifestar *dentro* dele. A luz jorrou da fenda como lava de um vulcão celestial, em cascata, em ribeiros, em *cachoeiras* de energia que desciam do céu em arcos que desafiavam a gravidade e a geometria e a própria física do mundo.
+A onda de choque e o calor avassalador daquela aterrissagem meteórica, porém, cobraram outro preço silencioso no epicentro da cratera. O corpo congelado e sem vida de Nyx⁹, que jazia sob a casca de gelo protetora criada pelo *cryonys*²⁷ de Alyndra, não resistiu à violência concussiva do impacto. A casca se rompeu e os restos inertes do pequeno *lyrien* estilhaçaram-se em dezenas de fragmentos cristalinos de um tom prateado e opaco, espalhando-se pela cinza como cinzas frias de uma estrela que se apagou.
 
-A manopla no pulso esquerdo de Aurelius⁶ *arderu*.
+O impacto inicial tinha sido devastador. A aberração — a criatura de dois metros e quarenta de obsidiana e *nihilarys*¹² compactados, o monstro que havia resistido a Velatrix⁷, a Marethyus¹¹, a todos os guerreiros de *Tar-Gig*¹³ — tinha sido *empurrada*. Não recuado. Empurrada. Seus pés haviam arrancado sulcos de dez passos no solo de pedra, e a obsidiana de seu peito — que havia resistido a lâminas de vapor e malhos de *aetherite*¹⁴ e raios de *aethra*¹⁵ thalassiano — tinha *rachado*.
 
-Não metaforicamente — o *aethrys*⁷ negro do artefato ficou *incandescente*, as bandas de ouro antigo brilharam com uma luz que era quase *cegante*, e o selo de Elarys⁸ — a espiral de chamas gravada no centro — *girou*. Não estava gravado em relevo estático — a espiral era *viva*, girando, expandindo, contraindo, como se fosse uma fechadura que estivesse sendo *aberta* por uma chave invisível.
+Mas a aberração ainda estava de pé.
 
-E dentro da manopla — dentro do selo — *Nyxalor*⁹ despertou.
+E Aurelius³ — que não era apenas um homem, que era o *En Me*¹⁶ de *Sanctrum*¹⁷, o Guardião Mestre¹⁶, o trigésimo terceiro na linhagem, o descendente direto do Seraphyen Vento Luz, o *aetheriano* mais forte de Alyndra — olhou para a criatura com olhos que não eram de raiva nem de medo, mas de *reconhecimento*, olhos que viam na aberração não um monstro, mas um crime.
 
-Não completamente. Aurelius⁶ não liberou Nyxalor⁹. Não *podia* liberar Nyxalor⁹ — a entidade aprisionada por Elarys era demasiado poderosa para ser liberada por um mortal, demasiado *antiga* para ser contida por um corpo humano, demasiado *destrutiva* para existir no mundo sem reduzir Alyndra a cinzas. O que Aurelius⁶ fez foi *acessar* — uma fração. Uma *fagulha*. A menor porção do poder de Nyxalor⁹ que o selo permitia escapar, como se Elarys — mesmo após milênios de aprisionamento, mesmo após o sacrifício, mesmo após a dissolução de seu corpo nas chamas da aniquilação — tivesse deixado uma *brecha* no selo, uma fresta por onde uma gota do poder podia escapar quando necessário.
+Um crime contra um homem. Um crime contra um reino. Um crime contra tudo que Alyndra era.
 
-E a gota — a gota era *suficiente*.
+Aurelius³ avançou.
 
-Aurelius⁶ sentiu o poder de Nyxalor⁹ entrar em seu corpo como sentira o *aethra*¹¹ pela primeira vez, há séculos — uma inundação, uma torrente, algo que era ao mesmo tempo *dele* e *não dele*, algo que pertencia a uma essência maior e que usava seu corpo como *canal*, como *instrumento*, como *ferramenta*. A diferença era que o *aethra*¹¹ era dele, era humano, era *natural*. O poder de Nyxalor⁹ era *divino* — no sentido mais antigo e mais aterrador da palavra, o sentido que existia antes dos Seraphyens e dos reinos e dos deuses, o sentido que pertencia ao tempo em que o mundo ainda estava sendo *criado* e destruição era apenas outro tipo de *construção*.
+Não houve anúncio. Não houve proclamação. Não houve o tipo de entrada que os bardos cantam — trombetas, estandartes, multidões em êxtase. O que houve foi um homem — alto, esguio, com cabelos castanhos que o vento da batalha empurrava para trás e olhos de um dourado tão profundo que pareciam conter o próprio *Aurion*¹⁸ — caminhando em direção à aberração com a naturalidade de quem caminha até uma tarefa que precisa ser feita, nem mais nem menos.
 
-Os olhos de Aurelius⁶ *arderam*.
+Ele não vestia armadura. Usava um manto longo de tecido cinza-prateado, bordado com os símbolos do *En Me*¹⁶ nas mangas e nas costas — as asas da *Koramis*¹⁹, a estrela de oito pontas, a espiral da *Torre de Aurion*⁴. Sob o manto, uma túnica simples de *aethrys*²⁰ branco, justa ao corpo, sem armadura, sem proteção, sem nada que sugerisse que ele estava prestes a enfrentar algo que havia derrotado dezenas de guerreiros treinados. As mãos estavam descobertas — finas, precisas, com dedos longos que pareciam feitos para moldar *aethra*¹⁵ tanto quanto para segurar uma espada. No pulso esquerdo, a *Manopla da Vinculação*²¹ — relíquia de *aethrys*²⁰ negro e ouro antigo, o artefato que conteria, em seu interior, o *selo de Elarys*²² e, selado junto a ele, uma fração do poder de Nyxalor²³.
 
-A cor mudou — não gradualmente, em um *piscar*. Dourado. Carmesim. E então *ambos*, como duas chamas ocupando o mesmo espaço, dourado e carmesim girando em espiral dentro de cada íris como duas serpentes em uma dança de combate. A pele de Aurelius⁶ começou a *brilhar* — não com a luminosidade carmesim da *Erupção do Carmesim*¹³, com algo mais *controlado*, mais *frio*, mais *antigo*. A luz era dourada nas bordas e carmesim no centro, como um olho de fênix, como o núcleo de uma estrela em formação.
+A aberração inclinou a cabeça.
 
-E então — do céu rasgado — *eles* desceram.
+O gesto era o mesmo de sempre — dezesseis olhos piscando em cascata, quatro braços se ajustando ao novo centro de gravidade. Mas havia algo *diferente* na inclinação desta vez. Era mais *profunda*. Mais *estudada*. Como se os milhares de *nihilarys*¹² dentro do corpo estivessem avaliando algo que não haviam avaliado antes — algo que reconheciam, não como ameaça, mas como *categoria diferente*, como se a aberração estivesse percebendo, pela primeira vez desde a possessão, que existia algo no mundo que não era comida, não era obstáculo, não era ferramenta, mas algo *outra coisa*, algo que os *nihilarys*¹² não tinham categorias para classificar.
 
----
+Aurelius³ parou a trinta passos da aberração.
 
-## II. Os Colossais
+— Thaloris Ventaris²⁴ — ele disse, e a voz era calma, profunda, a voz de quem está acostumado a ser ouvido em salas que ecoam há milênios. — Eu sou Aurelius³, *En Me*¹⁶ de *Sanctrum*¹⁷.
 
-O primeiro emergiu da fenda como uma montanha que decidesse *nascer*.
+A aberração não respondeu. Os dezesseis olhos permaneceram fixos nele, pulsando em sincronia, avaliando, calculando, *medindo*.
 
-Não caiu — *emergiu*. A massa do ser era tão grande, tão *presente*, que a simples passagem de seu corpo pela fenda no tecido do mundo fez a fenda se *alargar*, expandir, acomodar. A cabeça apareceu primeiro — uma cabeça que era ao mesmo tempo de *dragão* e de *serpente*, longa, triangular, com olhos que eram *focos* de luz branca tão intensos que era impossível olhar diretamente para eles. As mandíbulas se abriram ao emergir, e das mandíbulas *não* veio fogo — veio *luz*, uma luz que era tão quente que fazia o ar ao redor *crepitar*, que fazia as nuvens evaporarem a cinqüenta passos de distância, que fazia o vidro que havia sido o solo — o vitrificado pela *Erupção do Carmesim*¹³ — começar a *derreter de novo*.
+— Não vou pedir que pare — Aurelius³ continuou. — Não vou pedir que se renda. Não vou oferecer clemência. O que você *foi* já não existe. O que você *é* precisa ser desfeito.
 
-O corpo do ser se seguiu à cabeça — longo, sinuoso, feito de *energia e fogo*. Não era carne. Não era osso. Era algo entre a chama e a luz, algo que tinha *forma* mas não tinha *substância*, que existia como pura manifestação de poder elemental, como se alguém tivesse esculpido o conceito de *fogo* na forma de uma criatura viva. As escamas — placas de luz líquida que pulsavam em um ciclo interminável: dourado, carmesim, branco, dourado, carmesim, branco — emanavam calor suficiente para carbonizar a pedra a vinte passos. Cada escala *vibrava* com uma frequência que fazia o ar ao redor *cantar* — um som grave, profundo, quase *musical*, como se o ar fosse um instrumento de corda e o colossal estivesse *tocando* uma melodia que o mundo havia esquecido.
-
-O ser era do tamanho de uma montanha.
-
-Não uma montanha pequena — uma *montanha*. O corpo, da cabeça à ponta da cauda, media *centenas* de passos. As asas — duas, emergindo dos flancos do corpo como lençóis de fogo — tinham uma envergadura que cobria metade do campo de batalha quando totalmente abertas. Cada asa era feita da mesma luz líquida que formava as escamas, mas *mais fina*, mais *transparente*, como se as asas fossem feitas de *fogo* no estágio exato entre chama e luz, quando a chama é tão quente que deixa de ser laranja e se torna branca e quase *invisível*.
-
-O segundo ser emergiu da fenda logo atrás do primeiro.
-
-Era *idêntico* — ou quase. A mesma cabeça triangular, os mesmos olhos de luz branca, o mesmo corpo feito de energia e fogo e luz líquida. Mas havia uma diferença: o segundo ser era *carmesim* onde o primeiro era *dourado*, e dourado onde o primeiro era carmesim. As cores estavam *invertidas*, como se fossem espelhos um do outro, reflexos opostos de uma mesma essência, duas metades de um mesmo todo que haviam sido separadas e agora se reencontravam.
-
-Os dois colossais *pararam* no ar.
-
-Não voavam — *flutuavam*. A física não se aplicava a eles — eram feitos de poder, não de massa, e o poder não obedece à gravidade. Seus corpos pendiam no céu como duas luas novas, iluminando o campo de batalha com uma luz que fazia o *Aurion*⁴ parecer uma vela, que fazia *Lyria*⁵ parecer um reflexo, que fazia tudo que existisse em Alyndra parecer *pequeno* diante do que havia descido do tecido do mundo.
-
-Velatrix⁷ olhou.
-
-E Velatrix⁷ — que havia visto muitas coisas em valens de serviço, que havia enfrentado aberrações e conspirações e traições, que nunca tinha recuado de nada e nunca tinha se curvado diante de ninguém — sentiu algo que não sentia desde que era uma aprendiz em *Sanctrum*³: *temor*. Não medo — medo era o que se sentia diante de algo que podia machucar. *Temor* era o que se sentia diante de algo que podia *destruir tudo*, e que *sabia* que podia, e que *escolhia* — por agora — não destruir.
-
-Lyris⁸ olhou. E a espada que tinha nas mãos — a espada curta de lâmina dupla, com o *Thermaris*¹⁵ ainda quente nas ranhuras — pareceu *ridícula* diante dos colossais. Não por ser fraca — porque não era *a coisa certa*. Era como usar uma agulha para defender-se de uma avalanche.
-
-Aldric⁹ olhou. E suas mãos — que seguravam a espada fria de Ayla¹⁶ — *tremeram*. Não de frio, não de fadiga. De *reconhecimento*. Aldric⁹ havia lido sobre os colossais nos textos antigos da Kalúdris, a ordem a que pertencia com Aurelius⁶ e Ayla¹⁶. Havia lido sobre Nyxalor⁹, sobre Elarys, sobre o poder que havia sido selado na *Manopla da Vinculação*¹⁷. Havia *acreditado* que eram lendas. Agora, olhando para as duas montanhas de fogo e luz que flutuavam no céu acima do campo de batalha, Aldric⁹ percebeu que as lendas eram *conservadoras* — a realidade era maior, mais aterrorizante, mais *bonita* do que qualquer texto podia capturar.
-
-Urrak¹⁸ olhou. E o guerreiro de *Terraxis*¹⁹ — que já tinha enfrentado criaturas impossíveis, que já tinha lutado com *nihilarys*²⁰ e sobrevivido, que acreditava que não existia nada no mundo que pudesse fazê-lo *recuar* — *recuou*. Um passo. Involuntário. Instintivo. O corpo reconhecendo que o que estava diante dele era *superior* e reagindo antes que a mente pudesse intervir.
-
-Marethyus²¹ olhou. E o velho — deitado no chão, a relíquia vazia contra o peito, o sangue seco na testa, os olhos azuis abertos para o céu — *sorriu*. Um sorriso pequeno, quase invisível, o sorriso de quem está vendo algo que esperou milênios para ver. Um sorriso de *alívio* — porque Marethyus²¹ sabia, como poucos sabiam, que Nyxalor⁹ era a única força em Alyndra capaz de destruir o que os *Nihil Shid*²² haviam criado.
-
-A aberração olhou.
-
-E a aberração — a criatura de dois metros e quarenta que havia derrotado dezenas de guerreiros, que havia absorvido o *aethra*¹¹ de um campo de batalha inteiro, que havia sobrevivido à *Erupção do Carmesim*¹³ — *tremeu*.
+E então ele *atacou*.
 
 ---
 
-## III. A Dança Circular
+## II. O Oceano de Nihilaryth
 
-Eles *dançaram*.
+O *aethra*¹⁵ de Aurelius³ era diferente.
 
-Não atacaram — *dançaram*. Os dois colossais começaram a se mover ao redor do campo de batalha em um círculo, um girando no sentido horário e o outro no anti-horário, descrevendo círculos concêntricos que se expandiam e contraíam em um padrão que era *hipnótico*, que era *orgânico*, que era *antigo*.
+Não era diferente em *natureza* — era a mesma energia elemental que corria pelas veias de todos os *aetherianos*, a mesma força que Velatrix⁷ canalizava através de *Thermaris*¹⁴, que Marethyus¹¹ havia liberado da relíquia thalassiana. Era diferente em *escala*. Onde Velatrix⁷ era um rio, Aurelius³ era o oceano. Onde Marethyus¹¹ era uma tempestade, Aurelius³ era o céu inteiro durante uma nyxara de tempestades.
 
-O primeiro colosal — o dourado — abriu as asas. A envergadura cobriu o céu oriental. E do corpo do ser começaram a cair *cascatas* de fogo — não fogo comum, fogo *elemental*, chamas de luz líquida que se desprendiam das escamas como gotas de ouro derretido e caíam em arcos graciosos, cada gota emitindo calor suficiente para fazer a terra ferver e o ar crepitar. As gotas atingiam o solo e se *espalhavam* — não se apagavam, se *expandiam*, transformando-se em poças de fogo que cresciam e se uniam e formavam rios de lava que corriam em direção ao centro do campo de batalha.
+A primeira onda de *aethra*¹⁵ que Aurelius³ liberou não foi um ataque — foi uma *declaração*. A energia emanou de seu corpo em todas as direções como uma explosão silenciosa, uma onda de pressão elemental que fez o ar ao redor dele *vibrar* e distorcer, como se a própria realidade estivesse sendo esticada e comprimida ao mesmo tempo. A onda atingiu a aberração e a *empurrou* de novo — não com força bruta, mas com *presença*, com a pressão pura de uma quantidade de *aethra*¹⁵ que ninguém no campo de batalha havia sentido em valens, talvez em séculos.
 
-O segundo colosal — o carmesim — abriu as asas. A envergadura cobriu o céu ocidental. E de seu corpo começaram a cair *cascatas* de uma luz que não era fogo — era *energia* pura, desprovida de calor, desprovida de substância, composta apenas de *força*. As gotas de energia atingiam o solo e não queimavam — *dissolviam*, transformando a matéria em energia, convertendo pedra em luz e ar em *vazio* e *aethra*¹¹ em *nada*.
+A aberração recuou quinze passos. Os pés arrancando sulcos. Os braços girando para manter o equilíbrio. Os dezesseis olhos piscando descontroladamente.
 
-E onde as duas cascatas se encontravam — onde o fogo dourado e a energia carmesim colidiam no centro do campo de batalha — formou-se um *vórtice*.
+E então o segundo ataque veio.
 
-O vórtice era uma espiral de poder que girava no sentido horário e anti-horário simultaneamente, impossível, *absurdo*, como se a física tivesse sido desligada e o mundo estivesse operando sob regras diferentes. A espiral puxava tudo para dentro — *aethra*¹¹, matéria, luz, som, até o próprio *ar* era sugado para o vórtice como água para um ralo. A força de sucção era tão intensa que os fragmentos de vidro no solo — os restos vitrificados da *Erupção do Carmesim*¹³ — se *levantaram* do chão e foram absorvidos pela espiral, desaparecendo como grãos de areia em um furacão.
+Aurelius³ ergueu a mão direita — um gesto simples, quase casual, como se estivesse apanhando algo do ar — e o *aethra*¹⁵ ao redor dele se *condensou*. Não em lâmina, não em projétil, em *massa* — uma esfera de energia compressa que pulsava com uma luz carmesim que era tão intensa que os que a olharam diretamente sentiram as lágrimas brotarem e a pele dos rostos aquecer como se estivessem diante de uma fornalha. A esfera cresceu — do tamanho de um punho para o tamanho de uma cabeça, da cabeça para o tamanho de um tronco, do tronco para o tamanho de uma *Koramis*¹⁹ — e quando Aurelius³ a *lançou*, não a lançou como um projétil, a *dirigiu*, como um maestro dirige uma nota, com a precisão de quem molda *aethra*¹⁵ há mais milênios do que a maioria dos reinos existe.
 
-Os dois colossais continuaram dançando.
+A esfera carmesim atingiu a aberração no peito.
 
-Os círculos se expandiram — duzentos passos, trezentos, quatrocentos — e à medida que se expandiam, o vórtice crescia, e à medida que o vórtice crescia, a força de sucção aumentava, e à medida que a força de sucção aumentava, a aberração no centro do campo de batalha começou a ser *puxada*.
+O impacto não fez barulho. O silêncio durou dois segundos — um silêncio absoluto, como se o próprio som tivesse sido sugado para dentro da explosão — e então o *mundo* explodiu. A aberração foi empurrada para trás por quarenta passos, arrastando pelo solo, os braços batendo no chão, os olhos piscando em desordem, a obsidiana do peito *fragmentando* em uma explosão de cacos negros que voaram em todas as direções como estilhaços de vidro. O cratera que o impacto criou tinha vinte passos de diâmetro e três de profundidade, e o fundo da cratera *brilhava* — vermelho, laranja, o brilho do rock fundido, da terra derretida sob o calor da energia que Aurelius³ havia liberado.
 
-A aberração *resistiu*.
+A aberração levantou-se.
 
-Os quatro braços se cravaram no chão — dois de cada lado, os dedos de obsidiana afundando na terra vitrificada como garras em madeira podre. Os pés se alargaram, criando uma base mais estável. O corpo se *tensou*, os músculos — ou o que os *nihilarys*²⁰ tinham que era análogo a músculos — se contraindo com uma força que fazia o chão ao redor da aberração *rachar*.
+Lenta. Dolorosamente. Os braços tremiam. A obsidiana do peito estava fragmentada, revelando camadas de *nihilarys*¹² compactados que pulsavam como carne viva sob uma ferida aberta. Líquido negro escorria da ferida — não sangue, algo pior, a substância viscosa e escura que os *nihilarys*¹² usavam como cola para manter a coesão do corpo que haviam roubado.
 
-O vórtice puxou mais forte.
+E a aberração *regenerou*.
 
-A aberração escorregou. Um passo. Dois. As garras dos braços arrancando sulcos no vidro, os pés deixando marcas de fricção no solo derretido. Os dezesseis olhos estavam fixos no vórtice — não em medo, em *concentração*, cada *nihilary*²⁰ dentro do corpo tentando contribuir para a resistência, tentando ancorar a aberração ao solo como âncoras impedem um navio de ser levado pela correnteza.
+Não instantaneamente — em segundos, cada segundo um pouco mais lento que o anterior, a obsidiana se estendendo como metal fundido sobre a ferida, preenchendo as lacunas, selando as rachaduras, reconstruindo. Três segundos depois, o peito estava inteiro de novo. Quatro segundos depois, a aberração parecia não ter sido ferida.
 
-Os dois colossais dançaram *mais rápido*.
+Aurelius³ *sentiu*.
 
-O círculo acelerou — não gradualmente, em uma *aceleração* que fez o ar ao redor dos corpos dos seres crepitar e chiar, que fez o próprio céu parecer girar, que fez as nuvens formarem espirais que acompanhavam o movimento dos colossais como água acompanhando a rotação de um furacão. As cascatas de fogo e energia caíam mais rápidas, mais densas, mais *intensas*, e o vórtice crescia como uma boca que se abria, sugando com uma fome que não era física, que era *essencial*, que era a fome de algo que existe para consumir o que não deveria existir.
+Sentiu a regeneração não com os olhos — com o *aethra*¹⁵. Cada fragmento de obsidiana que se formava puxava *aethra*¹⁵ do ambiente, do ar, do solo, do campo de batalha inteiro. A aberração não regenerava magicamente — *alimentava-se* do mundo ao redor para se reconstruir. Cada camada de obsidiana nova era *aethra*¹⁵ roubado, convertido, *corrompido*. A criatura era um buraco no mundo — um vazio que sugava a substância elemental de Alyndra e a transformava em mais escuridão, mais massa, mais *aberração*.
 
-A aberração arrancou os braços do chão. Os dedos de obsidiana deixaram buracos no vidro. E com os braços livres, a aberração *atacou* o vórtice.
+E havia *milhares* de *nihilarys*¹² dentro daquele corpo.
 
----
+Milhares. Não centenas. Não dezenas. *Milhares*. Cada *nihilary*¹² era um fragmento de consciência escura, uma gota do vazio que os *Nihil Shid*³¹ haviam coletado ao longo de milênios de manipulação e corrupção. Cada gota era pequena — individualmente, um *nihilary*¹² era tão fraco quanto uma vela diante de uma fornalha. Mas milhares de gotas juntas, compactadas em um único corpo, alimentadas pelo *aethra*¹⁵ do próprio mundo — isso não era uma vela. Era um *incêndio*. Um incêndio que queimava ao contrário, sugando luz em vez de emitir, sugando calor em vez de produzir, sugando *vida* em vez de dar.
 
-## IV. A Resistência
+Aurelius³ atacou de novo.
 
-A aberração *desencadeou tudo*.
+A terceira onda foi diferente — não uma esfera, uma *lâmina*. Uma lâmina de *aethra*¹⁵ puro, comprimido em uma aresta tão fina que cortava o próprio ar, brilhando com uma luz que não era dourada nem vermelha mas algo entre os dois, uma cor que não tinha nome porque não existia na natureza, que só existia quando *aethra*¹⁵ era manipulado em densidades que transcendiam os limites do que os eruditos de *Sanctrum*¹⁷ consideravam possível. A lâmina cortou o braço direito da aberração — não o feriu, *cortou*, separando o membro do corpo com a limpeza de um instrumento cirúrgico, e o braço caiu no chão e se desintegrou em cacos de obsidiana que fumegavam e dissolviam.
 
-Não uma técnica, não um golpe — *tudo*. Os quatro braços se abriram para os lados, e dos braços vieram ondas de escuridão — não obsidiana, não *nihilarys*²⁰ individuais, *escuridão pura*, o vazio absoluto que os *nihilarys*²⁰ usavam como matéria-prima, o *anti-aethra*¹¹, a negação da energia elemental que dava forma ao mundo. As ondas de escuridão atingiram o vórtice — e o vórtice *absorveu*. A escuridão entrou na espiral de fogo e energia e foi *consumida*, transformada, convertida de anti-energia em energia, de vazio em presença, como se o poder dos colossais fosse capaz de *transmutar* a própria negação em sua essência oposta.
+A aberração gritou.
 
-A aberração *urrou*.
+O som rasgou o ar como unhas em lousa — milhares de vozes em uníssono, cada uma expressando algo que não era dor física mas *alarme*, o alarme de organismos que não sabiam que podiam ser ameaçados e estavam descobrindo que podiam.
 
-E dos dezesseis olhos — dos olhos que eram janelas para milhares de consciências fragmentadas — vieram *rajadas* de energia corrompida. Não escuridão — *aethra*¹¹ *corrompido*, o *aethra*¹¹ que a aberração havia absorvido do campo de batalha, de Velatrix⁷, de Marethyus²¹, de Lyris⁸, de Aldric⁹, de todos os guerreiros que haviam lutado e sangrado e caído, *todo* aquele *aethra*¹¹ roubado e convertido e armazenado — liberado de uma vez em rajadas que eram como raios negros cruzando o ar, cada raio carregando a energia acumulada de dias de drenagem.
+E o braço cresceu de novo.
 
-Os colossais *absorveram*.
+Cinco segundos. Um braço inteiro, novo, tão espesso e forte quanto o anterior, erguendo-se do ombro como um broto de trepadeira se ergue do solo — apenas que em vez de seiva, era *nihilary*¹², em vez de luz, era *escuridão*, em vez de vida, era *anti-vida*.
 
-O primeiro colosal — o dourado — abriu a boca, e a boca era um *forno*, uma fornalha de luz branca tão quente que os raios de *aethra*¹¹ corrompido se *desintegravam* antes de atingi-lo, convertidos em vapor elemental pelo calor da presença do ser. O segundo colosal — o carmesim — *desviou* as rajadas com as asas, as asas de luz líquida funcionando como escudos que não apenas bloqueavam mas *redirecionavam*, absorvendo a energia dos ataques e a devolvendo ao vórtice, onde era convertida e reprocessada.
+Aurelius³ cortou o novo braço.
 
-A aberração soltou *vento*.
+Outro cresceu.
 
-Era o último eco de Thaloris Ventaris²⁴ — o *aethra*¹¹ dos ventos de *Sylvaris*²⁵, a energia elemental que Thaloris havia dominado antes da possessão, que os *nihilarys*²⁰ não tinham conseguido corromper completamente, que ainda existia *dentro* da aberração como uma semente de vento em um campo de escuridão. O vento que saiu dos braços da aberração era *terrível* — não o vento suave dos campos de *Giralis*², não a brisa das planícies de *Sylvaris*²⁵, um *furacão* de *aethra*¹¹ eólico misturado com escuridão, com *nihilarys*²⁰, com a fúria de algo que está sendo *destruído e se recusa a aceitar*.
+Aurelius³ cortou de novo.
 
-Os colossais *dançaram através do vento*.
+Outro cresceu.
 
-O primeiro colosal girou — o corpo sinuoso se curvando em uma espiral que cortou o furacão ao meio, as escamas de luz líquida absorvendo o vento e o convertendo em mais combustível para as cascatas de fogo. O segundo colosal mergulhou — as asas fechadas, o corpo disparando em direção à aberração como uma lança de energia e fogo — e passou *por cima* da criatura tão perto que as asas quase a tocaram. O calor da passagem fez a obsidiana do topo da cabeça da aberração *derreter*, revelando o crânio de Thaloris Ventaris²⁴ — não humano, distorcido, *alongado*, mas reconhecivelmente um crânio, com as cavidades dos olhos e o queixo e a testa que tinham pertencido a um homem que governou *Sylvaris*²⁵.
-
-A aberração *contra-atacou* com sombra.
-
-As sombras ao redor do campo de batalha — as sombras das rochas, das colunas quebradas, dos corpos caídos, até a sombra da própria aberração — se *levantaram*. Não metaforicamente — as sombras se *materializaram*, ganhando volume e peso e *forma*, transformando-se em tentáculos de escuridão que se lançaram contra os colossais como serpentes caçando aves. Os tentáculos atingiram os corpos dos seres — e passaram *através*. Os colossais eram feitos de energia e fogo e luz; a sombra não podia tocar o que não era matéria. Os tentáculos se dispersavam ao contato, dissipando-se em fumaça negra que o vórtice sugava e consumia.
-
-A aberração *rugiu*.
-
-E então — a aberração *recuou*.
-
-Não por escolha — por *força*. O vórtice estava *ganhando*. A espiral de fogo e energia girava cada vez mais rápido, cada vez mais forte, cada vez mais *faminta*, e a força de sucção estava puxando a aberração para dentro com uma intensidade que os quatro braços e os dezesseis olhos e os milhares de *nihilarys*²⁰ não conseguiam mais resistir. Os pés da criatura *escorregavam*. As garras dos braços *rasgavam* o chão sem conseguir se fixar. O corpo *oscilava* como uma árvore em um vendaval.
-
-E nos olhos da aberração — nos dezesseis olhos, nos milhares de consciências — surgiu algo que não era raiva, não era fúria, não era determinação.
-
-Era *desespero*.
-
-O desespero de algo que percebe que vai ser *desfeito*.
+E a aberração *avançava*.
 
 ---
 
-## V. A Revelação
+## III. O Cálculo de Velatrix
 
-A casca *rachou*.
+Velatrix⁷ observava.
 
-Não de cima para baixo, não de um lado para o outro — de *todas as direções* ao mesmo tempo. A obsidiana que recobria o corpo da aberração — a obsidiana que era a *pele* dos *nihilarys*²⁰, a armadura que os *Nihil Shid*²² haviam construído para proteger sua criação — começou a se fragmentar em cacos que não caíram, que *voaram*, arrancados do corpo pela força do vórtice como folhas de uma árvore em um furacão. Os cacos giraram na espiral de fogo e energia e se *dissolveram*, convertidos em fumaça e luz e *nada*.
+Ela estava de pé — não porque tivesse forças para estar de pé, mas porque Velatrix⁷ não sabia estar de outra forma quando havia algo sendo decidido ao seu redor. O corpo protestava — a ferida no flanco pulsava, a sobrancelha arrancada ardia, as doze feridas menores espalhadas pelos braços e pelas pernas enviavam mensagens de dor que a mente havia aprendido a arquivar em um compartimento rotulado "depois". O *aethra*¹⁵ estava quase esgotado — não completamente, Velatrix⁷ nunca esgotava completamente, mas em um nível tão baixo que cada lâmina de vapor que ela poderia criar seria mais fumaça que arma.
 
-E *debaixo* da casca — havia um homem.
+Ao lado dela, Lyris⁸ estava debruçada contra uma coluna quebrada, a espada ainda na mão, os olhos fixos na figura de Aurelius³ como se não acreditasse no que via. Aldric⁹ estava de joelhos, a espada de Ayla³² fria na mão, o rosto uma máscara de descrença e alívio e algo que era *esperança* — a esperança de quem já não esperava mais e de repente voltou a esperar sem permissão. Urrak¹⁰ estava sentado no chão, as costas apoiadas em uma pedra, o malho de *aetherite*¹⁴ deitado entre as pernas como um cadáver, os olhos cinza-prateados acompanhando cada movimento de Aurelius³ com a atenção de um ferreiro assistindo a um outro ferreiro forjar — respeito profissional, admiração técnica, e a humildade de quem sabe que está vendo algo que nunca verá de novo.
 
-Não inteiro. Não *são*. Não *vivo* no sentido pleno da palavra. Mas *homem*. O corpo de Thaloris Ventaris²⁴ estava lá — distorcido, alongado, *fundido* com a rede de *nihilarys*²⁰ que o haviam invadido, mas *reconhecível*. Os braços — os dois braços *humanos* que Thaloris havia tido antes da possessão — estavam lá, alongados pelo processo de transformação mas ainda *braços*, com mãos, com dedos, com cicatrizes que contavam histórias de valens de luta nos céus de *Sylvaris*²⁵.
+Marethyus¹¹ estava consciente.
 
-O rosto de Thaloris Ventaris²⁴.
+O velho estava deitado no chão, a relíquia vazia contra o peito, o sangue seco na testa, o braço esquerdo imóvel ao lado do corpo. Mas os olhos estavam abertos — olhos azuis, os olhos de Thalassia³³, os olhos de uma linhagem de reis do mar — e nos olhos havia algo que os valens não tinham conseguido apagar: *reconhecimento*. Marethyus¹¹ conhecia Aurelius³. Não pessoalmente — *reputacionalmente*. Sabia quem era, sabia o que era, sabia o que representava. E o que Marethyus¹¹ via era algo que confirmava uma suspeita que o velho carregava desde meses: que Aurelius³ não era apenas o Guardião Mestre¹⁶ de *Sanctrum*¹⁷. Era algo *mais*. Algo que os títulos não capturavam. Algo que só se via quando se via o *aethra*¹⁵ dele em ação.
 
-Era o que fez todos os presentes — Velatrix⁷, Lyris⁸, Aldric⁹, Urrak¹⁸, Marethyus²¹, até os soldados de *Tar-Gig*²⁶ que restavam de pé — *perderem o fôlego*. O rosto não era completamente humano — a mandíbula era demasiado larga, os olhos eram demasiado grandes, a pele tinha uma tonalidade que era entre o cinza da obsidiana e o tom natural de Thaloris, como se os *nihilarys*²⁰ tivessem pintado a pele do *interior* com sua escuridão. Mas os *traços* estavam lá — o nariz afilado, as maçãs do rosto salientes, o queixo quadrado. E os olhos — os dois olhos verdes que ainda eram verdes, que tinham sobrevivido à possessão, que Marethyus²¹ havia visto brilhar meses atrás, que eram os olhos do *Lugal Lil*²⁸ de *Sylvaris*²⁵, o Senhor dos Ventos, o homem que voava mais rápido que o próprio vento — estavam abertos.
+Velatrix⁷ calculava.
 
-E nos olhos verdes de Thaloris Ventaris²⁴ havia algo que não era *nihilary*²⁰, não era escuridão, não era ausência.
+A mente de Velatrix⁷ era uma máquina — não uma máquina fria, uma máquina *eficiente*, o tipo de máquina que processa informações em tempo real enquanto o coração sangra e os pulmões queimam e o corpo pede para cair. Ela observava cada troca de golpes entre Aurelius³ e a aberração, e cada observação era um dado, e cada dado era uma variável, e cada variável era uma peça em uma equação que Velatrix⁷ estava resolvendo enquanto observava.
 
-Era *dor*.
+*Dado 1:* Aurelius³ era mais forte que qualquer combatente que ela já tinha visto. Mais forte do que Marethyus¹¹ no auge. Mais forte do que ela mesma no auge. O *aethra*¹⁵ dele era mais denso, mais controlado, mais *vasto* do que qualquer coisa que os textos de *Sanctrum*¹⁷ descreviam.
 
-A dor de um homem que está *preso* dentro de seu próprio corpo. A dor de uma consciência que foi *enterrada* sob milhares de consciências estrangeiras, que foi *esmagada* pelo peso de uma possessão que não consentiu, que está *vendo* — através dos olhos verdes que os *nihilarys*²⁰ não conseguiram extinguir — o que seu corpo está fazendo e não pode impedir.
+*Dado 2:* A aberração regenerava. Cada dano que Aurelius³ causava era reparado em segundos. Cada braço cortado crescia de novo. Cada ferida na obsidiana se selava. A criatura não parecia ter um limite — cada vez que se regenerava, parecia *forte*, não enfraquecida.
 
-Velatrix⁷ viu o rosto. E *reconheceu*.
+*Dado 3:* A aberração absorvia *aethra*¹⁵ do ambiente. Quanto mais Aurelius³ lutava, mais energia ele liberava no campo de batalha, e mais energia a aberração tinha para se alimentar. Era um paradoxo — o próprio poder de Aurelius³ estava *alimentando* a criatura que ele tentava destruir.
 
-— Thaloris Ventaris²⁴ — ela disse, e a voz era um sussurro que ninguém ouviu mas todos *sentiram*, porque o nome carregava peso, porque o nome era um *reino*, porque o nome era o líder que havia desaparecido de *Sylvaris*²⁵ e cujo paradeiro ninguém sabia, e agora o paradeiro era *isto* — um corpo distorcido, um rosto emergindo de uma casca de *nihilarys*²⁰, dois olhos verdes cheios de dor no meio de uma criatura de dois metros e quarenta.
+*Dado 4:* A aberração tinha milhares de *nihilarys*¹². Cada *nihilary*¹² era um reservatório de escuridão que podia ser convertido em massa, em força, em regeneração. Mesmo que Aurelius³ destruisse metade dos *nihilarys*¹², a outra metade seria suficiente para reconstruir o corpo inteiro. Mesmo que destruísse três quartos, o quarto restante seria suficiente. A criatura era uma máquina de reconstrução que só parava quando não havia mais *nihilarys*¹² para alimentá-la.
 
-Lyris⁸ viu. E Lyris⁸ — que tinha ouvido falar do *Lugal Lil*²⁸ em missões de *Sanctrum*³, que conhecia a reputação de Thaloris Ventaris²⁴ como o *aetheriano* mais forte de *Sylvaris*²⁵ — sentiu algo que era entre a tristeza e o horror, a tristeza de ver um homem grande reduzido a *isto*, o horror de perceber que os *Nihil Shid*²² eram capazes de fazer isto com qualquer pessoa, com *qualquer* reino, com *qualquer* líder.
+*Dado 5:* Aurelius³ estava *gastando*. Não era visível — não como Velatrix⁷ gastava, com o suor e a respiração e o tremor. Era sutil — uma diminuição imperceptível na intensidade da luz carmesim que cercava seus golpes, um atraso mínimo entre um ataque e o próximo, uma tensão nas mandíbulas que sugeria que a facilidade dos primeiros golpes estava se tornando *esforço*.
 
-Aldric⁹ viu. E apertou a espada fria de Ayla¹⁶ com tanta força que os nós dos dedos ficaram brancos. Porque Aldric⁹ sabia — sabia por experiência, sabia porque havia visto coisas parecidas na fronteira de *Umbra*²⁹, sabia porque a Kalúdris tinha arquivos sobre possessão que faziam os estômagos dos agentes se revirarem — que o que havia acontecido com Thaloris Ventaris²⁴ era o que os *Nihil Shid*²² planejavam fazer com Alyndra³⁰. Se não fosse por Aurelius⁶, se não fosse por Velatrix⁷, se não fosse por todos os que tinham lutado e sangrado e morrido — *Alyndra³⁰* seria *isto*.
+A equação era clara.
 
-A aberração *lutar*.
+Velatrix⁷ virou-se para os guerreiros restantes.
 
-O rosto de Thaloris Ventaris²⁴ — emergindo da casca fragmentada, os olhos verdes brilhando entre as veias negras dos *nihilarys*²⁰ — *contorcia-se*. A boca se abriu em um grito que era *metade* humano e *metade* *nihilary*²⁰, um som que era ao mesmo tempo a agonia de Thaloris e a fúria dos *nihilarys*²⁰ que o possuíam. Os braços — os quatro braços, dois humanos alongados e dois de obsidiana — se bateram contra o vórtice, tentando romper a espiral, tentando se *libertar*.
+— *Recuem* — ela disse, e a voz era a voz de um comandante que está dando uma ordem que sabe que ninguém vai obedecer. — Saiam do raio de duzentos passos. Todos. Agora.
 
-E dos braços humanos de Thaloris Ventaris²⁴ — dos braços que ainda eram *braços* — veio *vento*.
+Ninguém se moveu.
 
-Não o furacão corrompido de antes — algo *diferente*. O vento que saiu das mãos de Thaloris era *limpo*. Não carregava *nihilarys*²⁰. Não carregava escuridão. Era o vento de *Sylvaris*²⁵ — puro, transparente, o tipo de vento que sopra nos campos de *Giralis*² e faz as pétalas dançarem. Era o *último eco* de Thaloris Ventaris²⁴, a última manifestação do homem que existia *debaixo* dos *nihilarys*²⁰, e era *bonito* — bonito e triste e *desesperado*, como uma canção que alguém canta enquanto afunda.
+Lyris⁸ não se moveu porque Lyris⁸ estava ao lado da coluna quebrada com a espada na mão e os olhos fixos em Aurelius³, e se Lyris⁸ fosse recuar, teria que *desviar os olhos*, e Lyris⁸ não ia desviar os olhos porque o que estava vendo era a coisa mais importante que já tinha visto em sua vida.
 
-Os dois colossais *sentiram* o vento.
+Aldric⁹ não se moveu porque a espada de Ayla³² — fria, sem *aethra*¹⁵, sem *cryonys*³⁵ thalassiano, sem *nada* a não ser aço e memória — ainda estava em sua mão, e Aldric⁹ não ia soltar a espada de Ayla³² nem se o mundo acabasse.
 
-E pararam de dançar.
+Urrak¹⁰ não se moveu porque Urrak¹⁰ era de *Terraxis*¹⁸, e os guerreiros de *Terraxis*¹⁸ não recuam. Era cultural. Era genético. Era *obstinação*.
 
-Por um segundo — um único segundo — os dois colossais ficaram *imóveis* no ar, as asas abertas, os corpos sinuosos pendendo como serpentes suspensas, os olhos de luz branca fixos na aberração. E no silêncio da pausa, o vento de Thaloris Ventaris²⁴ soprou pelo campo de batalha — um sopro limpo em um mundo de fogo e escuridão, uma *lembrança* do que a aberração tinha *sido*.
+Marethyus¹¹ não se moveu porque Marethyus¹¹ era velho demais para recuar e sábio demais para tentar.
 
-E então os colossais *retomaram a dança*.
+Velatrix⁷ olhou para eles. Depois olhou para Aurelius³.
 
----
+A aberração tinha cortado dois braços novos desde que Velatrix⁷ começara a calcular. Ambos tinham crescido de novo. Aurelius³ tinha liberado o que parecia ser uma explosão de *aethra*¹⁵ que carbonizou o solo em um raio de trinta passos — e a aberração absorveu a energia da explosão *enquanto ela acontecia*, usando o próprio poder de Aurelius³ como combustível para regenerar os danos que o poder tinha causado.
 
-## VI. O Julgamento
+— Ele não pode vencer isso sozinho — Velatrix⁷ sussurrou, e a frase não era descrença, era *diagnóstico* — o diagnóstico clínico de uma mente que via o mundo como um tabuleiro e que acabara de perceber que o tabuleiro estava *viciado*. — A criatura absorve mais rápido do que ele consegue danificar. Cada golpe alimenta o inimigo. Se ele continuar assim, vai se esgotar antes de destruí-la.
 
-Os dois colossais *convergiram*.
+Ninguém respondeu.
 
-Não gradualmente — em um *movimento único*. Os dois corpos sinuosos, que até então haviam dançado em círculos concêntricos em direções opostas, *se aproximaram*, como duas constelações se aproximando no céu, como dois rios se encontrando no mar. O primeiro colosal — o dourado — descreveu um arco que cortou o céu de leste a oeste. O segundo — o carmesim — descreveu um arco que cortou o céu de oeste a leste. E os dois arcos se encontraram *sobre* a aberração — diretamente *sobre* — formando um X de fogo e energia e luz que cobriu a criatura como uma *cruz* celestial.
+Porque todos já sabiam.
 
-A aberração olhou para cima.
-
-Os dezesseis olhos — os que restavam, os que ainda conseguiam focar — viram os dois colossais convergindo. Os dois olhos verdes de Thaloris Ventaris²⁴ viram também. E nos olhos verdes — por um segundo que durou uma eternidade — não havia medo.
-
-Havia *alívio*.
-
-Os colossais *mergulharam*.
-
-Os dois corpos — cada um do tamanho de uma montanha, cada um feito de energia e fogo e luz, cada um portando o poder fragmentado de Nyxalor⁹ — desceram do céu como dois meteoros de fogo celestial. O ar ao redor deles *ionizou* — as moléculas de oxigênio e nitrogênio se separaram em componentes carregados, criando uma aurora artificial que coloriu o céu de verde e violeta e branco. O som do mergulho era *ensurdecedor* — um rugido contínuo que fazia a terra tremer e as rochas rachar e os corpos dos caídos vibrarem como se estivessem tentando se *levantar*.
-
-E então — os colossais *abraçaram* a aberração.
-
-Não *atacaram*. *Abraçaram*. Os dois corpos sinuosos se enrolaram ao redor da aberração como serpentes se enrolam ao redor de uma presa, cada um cobrindo metade do corpo da criatura, os corpos de fogo e energia se *fundindo* com a obsidiana e os *nihilarys*²⁰ e a carne humana que existia *debaixo*. O calor era *inconcebível* — não o calor da *Erupção do Carmesim*¹³, que era o calor de um homem, mas o calor de algo *divino*, o calor que existia quando o mundo estava sendo criado e a forja dos Seraphyens ainda estava acesa.
-
-A aberração *gritou*.
-
-O som que saiu da aberração não era um grito de um ser — era o grito de *milhares*. Milhares de *nihilarys*²⁰ gritando simultaneamente, cada um expressando algo que era entre a dor e o terror e a dissolução. O som era tão intenso que fez o vidro no chão *explodir* em fragmentos finos como poeira, que fez as paredes restantes do templo *desmoronar*, que fez os ouvidos dos sobreviventes sangrarem e os corações dos que estavam conscientes *acelerarem* como se o próprio medo fosse um estimulante.
-
-A aberração *se desfez*.
-
-A rede de *nihilarys*²⁰ que mantinha o corpo coeso começou a se *dissolver*. Não gradualmente — em ondas, como ondas que se retiram de uma praia, cada onda levando consigo uma camada de *nihilarys*²⁰, cada camada se desintegrando no fogo dos colossais, se convertendo em energia, em luz, em *nada*. As veias negras que percorriam o corpo de Thaloris Ventaris²⁴ se *apagaram* — uma a uma, como estrelas se apagando no céu do *ante-aurion*³², cada veia que se apagava era um *nihilary*²⁰ que deixava de existir.
-
-Os braços de obsidiana caíram. Não se *despedaçaram* — *derreteram*, a obsidiana se tornando líquida, o líquido evaporando, o vapor sendo sugado pelo vórtice. Os dezesseis olhos — negros, prateados, esfarrapados — se *apagaram* um por um, como velas que são apagadas por uma mão invisível, cada olho que se apagava era uma consciência de *nihilary*²⁰ que deixava de existir.
-
-E no centro — *debaixo* da rede que se desintegrava, *debaixo* dos braços que derretiam, *debaixo* dos olhos que se apagavam — o corpo de Thaloris Ventaris²⁴ ficou *exposto*.
-
-Era um corpo *quebrado*.
-
-Os braços humanos — os únicos que restavam — estavam retorcidos em ângulos impossíveis, as articulações deslocadas, os ossos visíveis sob a pele em pontos onde a carne havia sido *consumida* pela possessão. As pernas não se sustentavam — os joelhos dobrados para trás, os pés inertes. O torso estava *coberto* de cicatrizes — não cicatrizes de batalha, cicatrizes de *posse*, marcas onde os *nihilarys*²⁰ tinham se *instalado* e crescido e se *alimentado*, como crateras de um vulcão que eruptou sob a pele.
-
-O rosto — o rosto era o que *restava* de Thaloris Ventaris²⁴. Os olhos verdes — abertos, *fixos*, brilhando com uma luz que era cada vez mais *fraca*, como uma vela no fim do pavio. A boca — entreaberta, emitindo um som que não era grito nem suspiro, algo *entre*, algo que era o último respiro de um homem que estava sendo *libertado* de uma prisão que durou dias e pareceu uma eternidade.
-
-Os dois colossais — os dois corpos de fogo e energia e luz que abraçavam a aberração — *apertaram*.
-
-Não com força — com *abolição*. Os corpos se *fundiram* mais intimamente com a aberração, e o fogo e a energia penetraram cada centímetro do que restava, *purificando*, *queimando*, *limpando*. Cada *nihilary*²⁰ que ainda restava no corpo de Thaloris Ventaris²⁴ foi *arrancado* — não fisicamente, *essencialmente*, extraído de seu núcleo vital, separado da matéria a que havia se agarrado, aniquilado pela chama que era mais antiga que o próprio conceito de *nihilary*²⁰.
-
-E quando o último *nihilary*²⁰ foi destruído — quando o vazio dentro do corpo de Thaloris Ventaris²⁴ foi finalmente *vazio* de vazio, quando a escuridão que ocupava o lugar da alma foi substituída por *nada* — os dois colossais se *afastaram*.
-
-Não gradualmente — em um *flash*. Os corpos se desmaterializaram, a energia se dissipou, o fogo se extinguiu, e os dois colossais se tornaram o que eram antes de serem invocados: *nada*. Ou quase nada — duas sombras de luz que subiram de volta para a fenda no céu, dois *fantasmas* de energia que atravessaram o tecido do mundo e desapareceram *além*, levando consigo o poder de Nyxalor⁹ de volta ao selo de Elarys⁸, à *Manopla da Vinculação*¹⁷, ao aprisionamento que duraria até que o mundo precisasse de novo.
-
-A fenda no céu se *fechou*.
-
-O vórtice se *dissipou*.
-
-E no centro do campo de batalha — onde duzentos passos de terra haviam sido vitrificados, onde colunas haviam sido desintegradas, onde a guerra mais devastadora dos últimos milênios havia sido travada — restava uma cratera.
-
-A cratera tinha cinqüenta passos de diâmetro e dez de profundidade. O fundo era liso — liso como vidro, liso como *nada* — e brilhava com um calor residual que era vermelho e escuro, como brasas cobertas de cinzas. Ao redor da cratera, o campo de batalha era uma paisagem de *devastação* — fragmentos de vidro, poça de lava, rochas derretidas, corpos caídos, armas quebradas, marcas de *aethra*¹¹ queimado no chão como cicatrizes.
-
-E no centro da cratera — no fundo, no ponto mais profundo, no coração da destruição — havia um corpo.
-
-Pequeno.
-
-Quebrado.
-
-Inconsciente.
-
-Thaloris Ventaris²⁴ estava deitado no fundo da cratera como um boneco abandonado — os braços retorcidos, as pernas inertes, o corpo coberto de cicatrizes que ainda fumegavam com o calor residual dos colossais. A pele era cinza — não o cinza dos *nihilarys*²⁰, o cinza de quem perdeu *tudo*, de quem teve a alma arrancada e o corpo *devolvido* sem o que o fazia ser *humano*. Os olhos verdes estavam *fechados*.
-
-Mas o peito subia e descia.
-
-*Respirava*.
-
-Thaloris Ventaris²⁴ — o *Lugal Lil*²⁸ de *Sylvaris*²⁵, o Senhor dos Ventos, o homem que voava mais rápido que o próprio vento, o homem que havia sido corrompido e possuído e transformado em uma aberração que quase destruiu tudo — *respirava*.
-
-Não estava curado. Não estava são. Não estava *vivo* no sentido pleno da palavra — algo dentro dele havia sido quebrado de uma forma que nenhum *aethra*¹¹ podia consertar, nenhum sanador podia reparar, nenhum valen podia restaurar. O que os *nihilarys*²⁰ haviam feito com Thaloris Ventaris²⁴ era *irreversível* — a possessão de milhares de *nihilarys*²⁰ não deixava sobreviventes intactos, deixava *restos*, fragmentos do que era antes, pedaços de uma vida que nunca mais seria inteira.
-
-Mas *respirava*.
+E porque todos também sabiam que *saber* não muda *nada*. A aberração estava entre eles e Alyndra³⁶. E não havia outro caminho além de Aurelius³.
 
 ---
 
-## VII. O Silêncio
+## IV. Erupção do Carmesim
 
-Aurelius⁶ caiu.
+Aurelius³ parou.
 
-Não de pé — de *joelhos*. Um joelho no chão, depois o outro, o corpo que havia sustentado a fração do poder de Nyxalor⁹ finalmente *cedendo* sob o peso do que havia feito. A *Manopla da Vinculação*¹⁷ no pulso esquerdo *fumegava* — não brilhava, fumegava, o *aethrys*⁷ negro quente ao toque, as bandas de ouro antigo escurecidas, o selo de Elarys⁸ pulsando com uma luz que era fraca, quase apagada, como se o selo estivesse *cansado*, como se Elarys tivesse gastado sua última reserva de poder para manter a fração de Nyxalor⁹ sob controle.
+Não recuou — *parou*. Os braços caíram ao lado do corpo. Os olhos dourados se fecharam. A respiração — que até então tinha sido constante, controlada, a respiração de um mestre em combate — se *profundizou*, cada inspiração durando mais, cada expiração liberando menos, como se o corpo estivesse se preparando não para lutar, mas para *algo mais*.
 
-Aurelius⁶ respirava.
+A aberração parou também.
 
-A respiração era pesada — cada inspiração um esforço, cada expiração um alívio. O *aethra*¹¹ dentro dele estava *esgotado* — não apenas a fração que a *Erupção do Carmesim*¹³ tinha consumido, mas a fração que o poder de Nyxalor⁹ havia *queimado*, a fração que os colossais haviam usado como combustível, a fração que a invocação havia extraído de seu núcleo vital como seiva de uma árvore. Aurelius⁶ estava *vivo* — por um triz, por uma margem que era tão fina quanto a diferença entre o *aethra*¹¹ e o vazio, entre a alma e a dissolução, entre *existir* e *não existir*.
+Os dezesseis olhos fixaram-se na figura de Aurelius³ com uma atenção que era diferente de tudo que tinham demonstrado até então. Não era avaliação tática. Não era medição de ameaça. Era algo que, se os *nihilarys*¹² tivessem a capacidade de sentir *medo*, seria medo — o medo primitivo, ancestral, de algo que está prestes a acontecer e que não pode ser impedido.
 
-O campo de batalha ficou em *silêncio*.
+O *aethra*¹⁵ ao redor de Aurelius³ começou a *mudar*.
 
-Não o silêncio da paz — o silêncio do *vazio*. O silêncio que existe quando algo tão grande aconteceu que os ouvidos não conseguem mais processar som, quando a mente não consegue mais processar pensamento, quando o coração não consegue mais processar emoção. Era o silêncio de quem está diante de algo que *excede* a capacidade humana de compreensão.
+Não gradualmente — em uma *escalada*. A energia elemental que permeava o campo de batalha — que já era densa por causa da luta, espessa como névoa, visível como poeira de luz — começou a se *concentrar* em direção a Aurelius³ como água se concentra em um funil. As partículas de *aethra*¹⁵ que flutuavam no ar, que corriam pelo solo, que pulsavam nas veias dos feridos e dos vivos e até dos moribundos — todas começaram a migrar, convergindo no corpo de Aurelius³ como se ele fosse um ímã e o mundo inteiro fosse ferro. O ar ficou pesado, denso, cada respiração um esforço contra a pressão crescente. Os cabelos dos sobreviventes eriçaram-se com a eletricidade estática que precedia a tempestade.
 
-Os sobreviventes olhavam.
+E então Aurelius³ *brilhou*.
 
-Velatrix⁷ estava de pé — de pé, como sempre — mas os olhos estavam *úmidos*, e Velatrix⁷ não tinha olhos úmidos desde que era uma criança em *Sanctrum*³. Ela olhava para a cratera, para o corpo de Thaloris Ventaris²⁴, para o homem quebrado que respirava no fundo, e os olhos úmidos não eram de tristeza por Thaloris — eram de *reconhecimento*, o reconhecimento de que o que acontecera ali era o tipo de coisa que muda *tudo*, que reescreve *histórias*, que faz os reinos pararem e pensarem.
+Não com a luz dourada do *Aurion*¹⁸, não com a luz prateada da lua *Lyria*³⁷, não com nenhuma luz que pertencesse ao céu de Alyndra. Com uma luz *carmesim* — vermelha, profunda, antiga, a cor do fogo em seu ponto mais quente, a cor do sangue antes de coagular, a cor de algo que não deveria existir na superfície do mundo mas que existia, que estava ali, que *queimava*.
 
-Lyris⁸ estava debruçada contra a coluna quebrada, a espada ainda na mão, o *Thermaris*¹⁵ extinto nas ranhuras da lâmina. Ela olhava para Aurelius⁶ — o *En Me* de joelhos, a manopla fumegando, o corpo *gasto* — e sentia algo que era entre a admiração e a confusão e o *alívio*. A batalha estava *acabada*. A aberração estava *destruída*. Alyndra³⁰ estava *a salvo*. E o homem que havia feito tudo isso — o homem que havia quebrado todos os protocolos, que havia cruzado o continente em velocidade absurda, que havia liberado a *Erupção do Carmesim*¹³ e invocado os colossais e *vencido* — estava de joelhos, fumegando, quase *destroído*.
+A luz vinha de *dentro* de Aurelius³.
 
-Aldric⁹ estava de joelhos também. A espada de Ayla¹⁶ — fria, sem *aethra*¹¹, sem *cryonys*³³ thalassiano, sem *nada* além de aço e memória — descansava no chão ao lado dele. Ele olhava para a cratera, para o corpo de Thaloris Ventaris²⁴, para o *Lugal Lil*²⁸ de *Sylvaris*²⁵ que era agora um homem quebrado deitado no fundo de uma cratera. E nos olhos de Aldric⁹ havia algo que era *compreensão* — a compreensão de que Thaloris Ventaris²⁴ era uma vítima tanto quanto os soldados que tinham morrido defendendo o templo, tanto quanto Nyx³⁴ que tinha morrido defendendo Alyndra³⁰, tanto quanto *todos* que tinham sido consumidos pela conspiração dos *Nihil Shid*²².
+Não de suas mãos, não de seus olhos — de *todo* o corpo. Cada centímetro de pele emitia luminosidade carmesim, como se o *aethra*¹⁵ dentro dele tivesse atingido uma temperatura e uma densidade que o transformavam em algo que não era mais completamente humano. Os olhos de Aurelius³, quando se abriram, não eram mais dourados — eram *carmesins*, brilhando como brasas, emitindo uma luz que fazia o ar ao redor crepitar e estalar como lenha em uma fogueira.
 
-Urrak¹⁸ estava sentado. O malho de *aetherite*²¹ deitado entre as pernas. Os olhos cinza-prateados varrendo o campo de batalha — os corpos, as armas quebradas, a cratera, o vidro vitrificado, a *devastação* — e calculando. Não como Velatrix⁷ calculava — Urrak¹⁸ não calculava com equações, calculava com *instinto*, o instinto de um guerreiro que está vendo o resultado de uma batalha e sabe que o resultado poderia ter sido *pior*. Muito pior.
+A *Erupção do Carmesim*³⁸.
 
-Marethyus²¹ estava deitado no chão. A relíquia vazia contra o peito. Os olhos abertos para o céu — o céu que tinha se *rasgado* para deixar os colossais passarem e que agora estava *inteiro* de novo, liso, escuro, salpicado de estrelas que pareciam *mais brilhantes* do que antes, como se o mundo estivesse *celebrando* o fim da aberração com uma explosão de luz que não era fogo nem energia — era *beleza*, a beleza pura e simples de um céu na Nyxara que finalmente está livre de sombras.
+Velatrix⁷ conhecia o nome. Todos os agentes de *Sanctrum*¹⁷ conheciam o nome — era uma lenda dentro da Ordem, uma técnica tão poderosa que nunca tinha sido usada em combate, uma capacidade do *En Me*¹⁶ que era mais *mito* do que realidade. Os textos descreviam a Erupção como "a liberação controlada da totalidade do *aethra*¹⁵ vital em uma explosão esférica de energia e fogo", e advertiam que o uso incorreto da técnica *matava* o usuário, queimar todo o *aethra*¹⁵ de uma vez era queimar a alma, e sem alma não havia vida, apenas vazio.
 
-Marethyus²¹ olhava para Aurelius⁶.
+Aurelius³ ergueu os braços.
 
-E nos olhos do velho — nos olhos azuis de Thalassia³⁶, nos olhos de uma linhagem de reis do mar — havia algo que era *respeito*. O respeito de um homem velho por um homem que fez o que precisava ser feito, que quebrou o juramento que fizera para si mesmo para salvar aqueles que não podiam se salvar, que pagou o preço que o poder cobra sem reclamar, sem hesitar, sem *vacilar*.
+O gesto foi simples — dois braços se abrindo para os lados, as palmas para cima, como se estivesse oferecendo algo ao céu. Mas o que aconteceu *depois* do gesto não foi simples.
 
-A nyxara ficou em silêncio.
+O *aethra*¹⁵ carmesim que circundava o corpo de Aurelius³ se *expandiu*.
 
-Nenhum grito. Nenhum golpe. Nenhum som além do vento — o vento limpo que soprou do norte, carregando o cheiro de *Giralis*² e de terra molhada e de algo que era *fim* — o cheiro do fim de uma guerra, o cheiro do fim de uma nyxara de batalha, o cheiro do momento em que tudo *para* e o mundo pode finalmente *respirar*.
+Não em onda — em *esfera*. Uma esfera de energia carmesim que cresceu a partir do corpo de Aurelius³ em todas as direções ao mesmo tempo, expandindo-se com uma velocidade que fazia a luz parecer lenta, que fazia o som parecer estático. A esfera cresceu — dez passos, vinte, cinqüenta, cem, duzentos — e quando atingiu duzentos passos de raio, *detonou*.
 
-E no centro do templo — deitado no chão de pedra, com as costas apoiadas na parede mais espessa, com o corpo pequeno demais para o peso que carregava, com as pestanas fechadas e os lábios entreabertos e o coração que ainda batia — *Alyndra³⁰ respirou*.
+A explosão não foi auditiva.
 
-Uma inspiração. Fraca. Irregular. Mas uma inspiração.
+Foi *silenciosa*.
 
-E no segundo em que Alyndra³⁰ respirou — um único segundo em que o peito da garota subiu e desceu e o ar entrou em seus pulmões e a vida continuou — o mundo inteiro *segurou a respiração*. Não por medo. Por *reverência*. A reverência de quem está testemunhando algo que é ao mesmo tempo *pequeno* e *imenso* — uma criança respirando em um campo de batalha destruído, a vida continuando em meio à morte, a *semente* que sobreviveu ao incêndio e ainda tem raízes.
+O silêncio durou um segundo — um único segundo em que o mundo inteiro pareceu segurar a respiração — e então a onda de energia atingiu tudo em um raio de duzentos passos com uma força que transcendia a física. A terra *vitrificou* — não derreteu, *vitrificou*, transformando-se em vidro liso e translúcido que refletia a luz carmesim como um espelho de sangue. O ar *queimou* — não inflamou, *queimou*, cada molécula de oxigênio consumida pela energia, criando um vácuo parcial que fazia os pulmões dos que estavam dentro do raio *colapsarem* com um estalo seco e íntimo. As rochas se *pulverizaram*. As colunas que restavam do templo se *desintegraram*. O solo que já estava danificado pela luta entre Velatrix⁷, Marethyus¹¹ e a aberração se *apagou* — não em fogo, em *nada*, a energia consumindo a matéria e transformando-a em luz e calor e *vazio*, deixando para trás o cheiro acre de terra queimada e a sensação fantasma de calor na pele.
 
-Aurelius⁶ ouviu.
+A aberração foi *engolida*.
 
-O *En Me* — de joelhos, a manopla fumegando, o corpo esgotado, o *aethra*¹¹ quase a zero — *ouviu* a respiração de Alyndra³⁰. E nos olhos de Aurelius⁶ — os olhos que tinham sido dourados, que tinham sido carmesins, que tinham sido o portal pelo qual o poder de Nyxalor⁹ passara — algo mudou. Eles se *fecharam*. E quando se abriram, voltaram a ser *dourados*. Apenas dourados. Humanos. Os olhos de um pai que não sabia que era pai, olhando para o céu, descobrindo que sua filha estava *viva*.
+A esfera carmesim a envolveu completamente — a criatura de dois metros e quarenta, os dezesseis olhos, os quatro braços, os milhares de *nihilarys*¹² compactados — tudo desapareceu dentro da explosão como uma pedra desaparece dentro de um lago. O corpo da aberração foi atingido pela energia em todas as direções simultaneamente — de cima, de baixo, dos lados, de dentro — e a obsidiana que recobria a criatura *fundiu*, não rachou, *fundiu*, derretendo como cera sob o calor de uma chama que não era chama, era *aethra*¹⁵ puro, incontrolável, absoluto.
 
-O vento soprou.
+O grito da aberração foi ouvido a valens de distância.
 
-O vidro no chão brilhou com a luz das estrelas.
+Não um grito — um *som*. Algo que ia além do que gargantas humanas ou não-humanas podiam produzir. Um som que era milhares de *nihilarys*¹² gritando ao mesmo tempo, cada um expressando algo que era entre a dor e o terror e a fúria, e a soma de milhares de dores e terrores e fúrias era algo que o ar não conseguia carregar, que fazia as ondas de pressão do próprio grito racharem o vidro que o solo havia se tornado, que fazia os ouvidos dos sobreviventes *sangrarem*, que fazia *Lyria*³⁷, lá no alto, *tremer* em sua órbita como se a lua sentisse o que acontecia embaixo e quisesse se afastar.
 
-E a nyxara — a mais longa, a mais devastadora, a mais *impossível* nyxara da história de Alyndra — acabou.
+A explosão durou cinco segundos.
+
+Cinco segundos em que o mundo foi *carmesim* — a luz, o calor, o som, o *tudo* era carmesim, vermelho, fogo, destruição em uma escala que não existia desde a última Convergência Tripla, desde que os deuses ainda caminhavam sobre Alyndra e decidiam o destino dos reinos com um piscar de olhos.
+
+E então — a explosão *passou*.
+
+A esfera carmesim se *retraiu* — não gradualmente, em um *colapso*, como se alguém tivesse invertido a direção do tempo e estivesse *desfazendo* a explosão, sugando de volta a energia que havia liberado. A luz vermelha diminuiu. O calor diminuiu. O ar voltou a ter oxigênio. O vidro que havia sido o solo começou a rachar com o choque térmico, estilhaçando em milhares de fragmentos que tilintavam como sinos funerários.
+
+E no centro da área devastada — duzentos passos de vidro estilhaçado e terra vitrificada e rochas pulverizadas e *nada* — a aberração estava de *pé*.
 
 ---
 
-**[FIM DO CAPÍTULO XLI]**
+## V. Ainda de Pé
+
+Os dezesseis olhos piscaram.
+
+A obsidiana que recobria o corpo estava *destruída* — não danificada, *destruída*, derretida em grandes áreas que revelavam o que havia *debaixo*: não carne, não osso, mas uma rede de *nihilarys*¹² entrelaçados, compactados, pulsando como um coração ferido sob uma ferida aberta. A rede era grotesca — veias negras que se cruzavam e se separavam e se cruzavam de novo em um padrão que não era orgânico, que era *arquitetônico*, como se os *nihilarys*¹² tivessem construído uma cidade dentro do corpo de Thaloris Ventaris²⁴, uma cidade de escuridão e dor e *nada*.
+
+A aberração *tremeu*.
+
+Não o corpo inteiro — partes. Fragmentos. Os braços tremiam. As pernas tremiam. A cabeça — que ainda era a cabeça de Thaloris Ventaris²⁴, distorcida, alongada, com os olhos verdes quase completamente cobertos pela obsidiana negra — tremia como se algo *dentro* do corpo estivesse lutando contra os *nihilarys*¹², tentando *se libertar*.
+
+E então — os *nihilarys*¹² *trabalharam*.
+
+As veias negras pulsaram com mais intensidade. A obsidiana começou a se reformar — mais lenta do que antes, mais difícil, como se o dano causado pela *Erupção do Carmesim*³⁸ tivesse *afetado* os *nihilarys*¹² não apenas fisicamente mas *essencialmente*, como se a energia carmesim tivesse *queimado* algo dentro deles que não podia ser regenerado. A obsidiana cresceu em camadas finas, frágeis, translúcidas — não a obsidiana densa e impenetrável de antes, mas algo *menos*, algo que sugeria que a aberração havia sido *enfraquecida*.
+
+A aberração gritou de novo.
+
+O grito era diferente — mais *fino*, mais *desesperado*, como se metade dos *nihilarys*¹² houvesse sido destruída pela explosão e a metade restante estivesse lutando para manter a coesão do corpo sem recursos suficientes.
+
+Velatrix⁷ viu. E *calculou*.
+
+— Três quartos — ela disse, e a voz era um sussurro que ninguém ouviu porque ninguém estava prestando atenção em Velatrix⁷. — Ele destruiu três quartos dos *nihilarys*¹². A criatura está *ferida* de verdade. Mas ainda tem um quarto. E um quarto de milhares ainda é *centenas*.
+
+A aberração se virou para Aurelius³.
+
+E nos dezesseis olhos — nos que restavam, nos que ainda conseguiam focar — havia algo que não era raiva. Era *ódio*. O ódio de algo que quase foi destruído, que quase teve sua existência *cancelada*, que quase foi enviado de volta ao vazio de onde veio. E no ódio havia algo pior: *fome*. A fome de algo que perdeu muito e precisa *recompor*, que precisa de mais *aethra*¹⁵, mais massa, mais *vida* para se reconstruir.
+
+A aberração *atacou*.
+
+Não com os quatro braços — com os *dois* que tinham sobrevivido à explosão intactos. Os outros dois estavam *incompletos* — metade do comprimento, as mãos faltando, os dedos substituídos por tentáculos de obsidiana frágil. Mas os dois braços intactos se moveram com a fúria da desesperação — rápidos, implacáveis, cada golpe carregando não apenas força mas *fome*, a fome de algo que vai devorar o que quer que esteja na frente dele para se tornar inteiro de novo.
+
+Aurelius³ *bloqueou*.
+
+Não com uma lâmina de *aethra*¹⁵ — com o *corpo*. O braço esquerdo se ergueu e a energia carmesim ao redor de seu antebraço *solidificou* em um escudo de luz pura que absorveu o impacto do braço da aberração como se fosse um muro de *aethrys*²⁰. O segundo braço da aberração veio de cima — Aurelius³ *desviou*, o corpo se movendo com uma agilidade que contradizia sua aparência humana, e o braço da aberração atingiu o solo onde ele estivera um segundo antes, criando uma cratera de três passos.
+
+Aurelius³ *contra-atacou*.
+
+O punho direito — envolto em *aethra*¹⁵ carmesim tão denso que parecia feito de vidro rubro — atingiu o peito da aberração. O impacto foi *ensurdecedor* — um som que era osso e obsidiana e energia colidindo simultaneamente. A aberração *voou* para trás — vinte passos, trinta, quarenta — e caiu no vidro estilhaçado que havia sido o solo, rolando, batendo, os braços se debatendo como insetos.
+
+Aurelius³ avançou.
+
+Um passo. Dois. Três. Cada passo deixando pegadas de *aethra*¹⁵ carmesim no vidro, cada pegada brilhando como uma brasa, cada pegada sendo um anúncio: *eu ainda estou aqui, e eu ainda estou lutando*.
+
+Mas a aberração se levantou. Mais uma vez.
+
+E os *nihilarys*¹² começaram a absorver.
+
+O *aethra*¹⁵ carmesim que Aurelius³ havia liberado na explosão não havia desaparecido — havia se *dispersado*, espalhado pelo campo de batalha como poeira de luz, como partículas de energia que agora estavam saturando o ambiente. E a aberração — a aberração que era um buraco, um funil, um *vazio* — começou a *sugar* aquela poeira de volta para si. Cada partícula de *aethra*¹⁵ carmesim que a aberração absorvia não apenas a reconstruía, a *fortalecia* — o *aethra*¹⁵ de Aurelius³ era mais denso, mais poderoso do que o *aethra*¹⁵ ambiental, e cada gota que a aberração sugava era equivalente a dez gotas de *aethra*¹⁵ comum.
+
+A aberração *cresceu*.
+
+Não muito — mas cresceu. Os braços incompletos se completaram. A obsidiana frágil se tornou densa de novo. Os dezesseis olhos brilharam com uma intensidade que era *mais* do que antes da explosão — não mais forte, mais *concentrada*, como se os *nihilarys*¹² restantes tivessem se *compactado*, se *otimizado*, como se a destruição de três quartos de seus números tivesse feito o quarto restante *mais eficiente*.
+
+Aurelius³ viu.
+
+E Aurelius³ *entendeu*.
+
+A *Erupção do Carmesim*³⁸ — sua técnica mais poderosa, a liberação controlada da totalidade de seu *aethra*¹⁵ em uma explosão que poderia vitrificar duzentos passos de terreno — não tinha sido suficiente. A aberração sobrevivera. Absorvera a energia. *Usara* a energia contra ele. Cada gota de poder que ele havia liberado estava agora dentro da criatura, fazendo-a mais forte, mais densa, mais *impossível* de destruir.
+
+Ele não podia vencer assim.
+
+A matemática era a mesma que Velatrix⁷ tinha calculado: a aberração absorvia mais rápido do que ele podia danificar. Cada ataque que ele fazia era um presente que ele dava ao inimigo. Cada explosão de *aethra*¹⁵ era combustível para a reconstrução. Era lutar contra o oceano com uma xícara — não importa quanta água ele jogasse fora, o oceano sempre teria mais.
+
+Aurelius³ parou.
+
+A aberração avançou.
+
+Dez passos. Oito. Cinco.
+
+E Aurelius³ — que havia quebrado todos os protocolos de *Sanctrum*¹⁷ para chegar até aqui, que havia cruzado o continente em velocidade absurda, que havia liberado a *Erupção do Carmesim*³⁸ pela primeira vez em milênios — *olhou*.
+
+Não para a aberração.
+
+Para Alyndra³⁶.
+
+Ela estava deitada no chão, ao lado do templo — inconsciente desde o despertar do *cryonys*³⁵, desde a explosão de gelo que havia congelado a aberração e depois a *consumido*, deixando-a sem forças, sem consciência, sem *nada* além da respiração fraca e o coração que ainda batia. O corpo da garota era pequeno — pequeno demais para o peso que carregava, pequeno demais para o *cryonys*³⁵ que corria em suas veias, pequeno demais para ser o centro de uma guerra que envolvia reinos e linhagens e entidades ancestrais.
+
+Ao lado de Alyndra³⁶, no chão, havia uma forma pequena e quebrada — os restos de Nyx³⁹, o *lyrien*⁴⁰ de pelagem prateada que havia acompanhado Alyndra³⁶ desde *Terraxis*¹⁸. Nyx³⁹ estava *morta* — o corpo da criatura rachado em fragmentos que já não brilhavam, a luz azulada que pulsava no interior extinta, a essência de Nyx³⁹ dissipada no ataque final que havia sido a tentativa *desesperada* e *inútil* e *heróica* de um companheiro defendendo sua dona.
+
+Aurelius³ olhou para Alyndra³⁶. Depois para Nyx³⁹. Depois para a aberração, que avançava.
+
+E então — Aurelius³ olhou para a mão esquerda.
+
+A *Manopla da Vinculação*²¹.
+
+---
+
+## VI. Perdão, Elarys
+
+Era um artefato pequeno.
+
+Não impressionante. Não intimidante. Não o tipo de relíquia que fazia guerreiros engolirem em seco ou sábios balançarem a cabeça em reverência. A manopla era feita de *aethrys*²⁰ negro, reforçada com bandas de ouro antigo que se perdiam sob uma pátina de milênios. No centro, gravado em baixo-relevo, o símbolo do *selo de Elarys*²² — uma espiral de chamas que se curvava para dentro, como se o fogo estivesse *abrindo* caminho para o centro de algo. A manopla pesava menos que um elmo de guerra. Cabia confortavelmente no pulso esquerdo de Aurelius³.
+
+E dentro da manopla, selado pelo sacrifício de Elarys, aprisionado nas chamas da aniquilação, dormindo há milênios — havia Nyxalor²³.
+
+Aurelius³ tocou a manopla.
+
+O gesto foi leve — os dedos da mão direita roçando a superfície de *aethrys*²⁰ negro, como se estivesse acariciando algo vivo, algo que poderia acordar a qualquer momento e mudar tudo. A pele de seus dedos sentiu o frio do metal antigo, a textura áspera dos milênios de pátina acumulada. E quando os dedos tocaram a manopla, a manopla *respondeu*.
+
+Não com luz. Não com som. Com *vibração*.
+
+Uma vibração que vinha de *dentro* — do selo de Elarys²², do lugar onde Nyxalor²³ dormia aprisionado. Era *antiga*, mais antiga do que *Sanctrum*¹⁷, mais antiga do que os Sete Reinos, mais antiga do que quase tudo que existia na superfície de Alyndra. Era a vibração de algo que existia *antes*, nos tempos em que os Seraphyens caminhavam entre os mortais e o mundo era novo. A vibração subiu pelo braço de Aurelius³ — uma sensação que não era frio nem calor, mas *memória*, como se seus ossos estivessem se lembrando de algo que sua mente nunca soube.
+
+Atingiu o *núcleo vital* — o ponto entre o coração e a coluna onde o *aethra*¹⁵ de um *aetheriano* se concentrava. E ali, a vibração encontrou algo que *respondeu* — o *aethra*¹⁵ do Seraphyen Vento Luz, a linhagem mais antiga de *Sanctrum*¹⁷, algo que tinha *direito* de falar com Nyxalor²³ porque compartilhava a mesma *origem*, o mesmo *tecido*, a mesma *essência* primordial.
+
+A manopla *brilhou*.
+
+A luz era fraca — uma luminescência dourada que pulsava nas bandas de ouro antigo, como se o metal estivesse se lembrando de algo que havia esquecido. O selo de Elarys²² vibrou mais forte. E no interior da manopla, algo que dormia há milênios *estremeceu* pela primeira vez em milênios.
+
+A aberração parou.
+
+A três passos de Aurelius³, a aberração *congelou*. Os dezesseis olhos — quatorze dos quais tinham sido reconstruídos pela absorção do *aethra*¹⁵ carmesim — fixaram-se na manopla com uma intensidade que era *diferente* de tudo que tinham demonstrado antes. Não era avaliação tática. Não era fome. Era *reconhecimento* — o reconhecimento de algo que os *nihilarys*¹² *conheciam*, algo que fazia parte de sua história, de sua origem, de seu *medo* mais profundo.
+
+Nyxalor²³.
+
+Os *nihilarys*¹² *conheciam* Nyxalor²³. Nyxalor²³ era uma das *armas* mais poderosas que os *Nihil Shid*³¹ haviam criado — uma entidade de fogo e destruição que havia sido usada por Mythra, a *nihilary*¹² ancestral, para quase destruir Yggorath. Elarys a selara com sua vida. O selo fora incrustado na manopla. E agora, milênios depois, a manopla estava no pulso de Aurelius³, e a vibração de Nyxalor²³ estava subindo pelo braço dele, e os *nihilarys*¹² dentro da aberração *sabiam* o que isso significava.
+
+A aberração recuou.
+
+Um passo. Dois. Três. Por *medo*. Pela primeira vez — por *medo*. Não o medo instintivo de algo que é mais forte. O medo *consciente* de algo que representava *aniquilação*. Os *nihilarys*¹² dentro do corpo de Thaloris Ventaris²⁴ sabiam o que Nyxalor²³ podia fazer. Sabiam porque *tinham visto* — tinham visto Nyxalor²³ na guerra primordial, tinham visto o que Elarys fizera para selá-lo, tinham visto o sacrifício de uma Seraphyen para conter o que não podia ser contido de outra forma.
+
+Aurelius³ olhou para a aberração recuando. Depois olhou para Alyndra³⁶.
+
+A garota respirava. Fraco, irregular, mas *respirava*. As pestanas não se mexiam. Os lábios estavam entreabertos. O rosto — o rosto de uma criança que não deveria estar ali, que não deveria ter sido o alvo de uma conspiração que envolvia reinos e *nihilarys*¹² e *Nihil Shid*³¹ — estava sereno, como se o sono que a consumia fosse um refúgio, como se Alyndra³⁶ tivesse decidido que aquele era o melhor lugar para estar enquanto o mundo se despedaçava ao redor dela.
+
+Aurelius³ olhou para a manopla. Para o selo de Elarys²². Para a vibração que subia pelo braço.
+
+E Aurelius³ *fechou os olhos*.
+
+— Perdão, Elarys — ele sussurrou, e a voz carregava algo que Aurelius³ raramente permitia que suas vozes carregassem: *peso*. O peso de uma decisão que ele havia adiado por milênios. O peso de um juramento que ele havia feito a si mesmo quando o selo de Elarys²² foi colocado na manopla: *nunca usar, nunca acessar, nunca despertar o que está dormindo*. O peso de quebrar um juramento. O peso de *necessidade*.
+
+A manopla *arderiu*.
+
+Não o metal — o ar ao redor da manopla. O ar *queimou* com uma intensidade que fez todos os presentes — Velatrix⁷, Lyris⁸, Aldric⁹, Urrak¹⁰, Marethyus¹¹ — *recuarem* instintivamente, o corpo reconhecendo como ameaça algo que a mente não conseguia classificar.
+
+E Aurelius³ — o En Me¹⁶ de Sanctrum¹⁷, o Guardião Mestre¹⁶, o homem mais poderoso de Alyndra — abriu os olhos.
+
+Os olhos não eram mais dourados. Não eram mais carmesins.
+
+Eram *ambos*.
+
+As duas chamas ardiam no mesmo espaço, dourado e carmesim girando em espiral dentro de cada íris como duas serpentes na dança que precede o bote. Duas forças ocupando o mesmo corpo. Duas *essências* encontrando-se no ponto preciso onde o humano termina e o divino começa — e onde, por um instante que duraria milênios na memória de quem visse, ambos coexistiram.
+
+O selo de Elarys²² se *abriu*.
+
+---
+
+***[FIM DO CAPÍTULO XLI]**
 
 ---
 
@@ -341,70 +385,79 @@ E a nyxara — a mais longa, a mais devastadora, a mais *impossível* nyxara da 
 
 ¹ **Cantos de Adormecimento** — Compilação antiga de textos sobre entidades e rituais proibidos; atribuída ao Ciclo das *Giralis*² Negras.
 
-² **Giralis** — Flores de pétalas translúcidas nativas de Sylvaris²⁵.
+² **Giralis** — Flores de pétalas translúcidas nativas de Sylvaris.
 
-³ **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões.
+³ **Aurelius** — *En Me*¹⁶ de *Sanctrum*¹⁷; trigésimo terceiro na linhagem; o *aetheriano* mais forte de Alyndra. Descendente direto do Seraphyen Vento Luz.
 
-⁴ **Aurion** — A estrela central de Alyndra.
+⁴ **Torre de Aurion** — Ponto mais alto de *Sanctrum*¹⁷; solar privado do *En Me*¹⁶. Aurelius³ partiu de lá em direção ao campo de batalha.
 
-⁵ **Lyria** — A lua prateada; uma das três luas de Alyndra.
+⁵ **Fulmora** — Reino dos Raios; quinto reino. O templo da batalha fica na fronteira de *Fulmora*⁵ e *Umbra*⁶.
 
-⁶ **Aurelius** — *En Me* de *Sanctrum*³; trigésimo terceiro na linhagem; invocou uma fração do poder de Nyxalor⁹ para destruir a aberração.
+⁶ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
 
-⁷ **aethrys** — Material cristalino usado em armaduras, armas e construção.
+⁷ **Velatrix** — Figura enigmática que lidera forças de elite; domina *Thermaris*. Identidade velada.
 
-⁸ **selo de Elarys** — Selo criado pelo sacrifício de Elarys para aprisionar Nyxalor⁹; incrustado na *Manopla da Vinculação*¹⁷.
+⁸ **Lyris** — Agente aposentada de *Tar-Gig*¹³; reativada para proteger Alyndra³⁶. Usa *Thermaris*¹⁴ rudimentar.
 
-⁹ **Nyxalor** — Entidade ancestral de fogo e destruição; aprisionada pelo selo de Elarys⁸ há *aethrons*¹⁰. Aurelius⁶ acessou uma fração de seu poder para invocar os dois colossais.
+⁹ **Aldric** — Companheiro de Ayla³² na Kalúdris; portador da espada de Ayla³². Estilo de luta thalassiano.
 
-¹⁰ **aethron / aethrons** — Unidade de tempo; mil *valens*¹⁴. Nyxalor⁹ está aprisionado há *aethrons*¹⁰. Na narração comum, usa-se "milênio/milênios" (já aplicado nos capítulos).
+¹⁰ **Urrak** — Lenda de *Terraxis*¹⁸; guerreiro da guilda de Velatrix⁷. Luta com malho de *aetherite*¹⁴.
 
-¹¹ **aethra** — Manifestação física da alma; energia espiritual fundamental.
+¹¹ **Marethyus** — Avô materno de Alyndra³⁶; ex-Guardião Mestre de *Sanctrum*¹⁷; último descendente direto dos reis de Thalassia³³.
 
-¹² **elarae / elaraes** — Unidade de tempo; cem *valens*¹⁴ (um século). Na narração comum, usa-se "século/séculos" (já aplicado nos capítulos).
+¹² **nihilary / nihilarys** — Agentes dos *Nihil Shid*³¹; seres que manipulam escuridão e ausência. A aberração contém milhares de *nihilarys*¹² compactados no corpo de Thaloris Ventaris²⁴.
 
-¹³ **Erupção do Carmesim** — Técnica suprema de Aurelius⁶; liberação controlada da totalidade do *aethra*¹¹ vital. Usada no capítulo anterior contra a aberração.
+¹³ **Tar-Gig** — Organização de inteligência e operações especiais; forças de Velatrix⁷.
 
-¹⁴ **valen / valens** — Unidade de tempo longa; equivalente a um ano (~365 dias). Na narração, usa-se "ano" (já aplicado nos capítulos).
+¹⁴ **aetherite** — Mineral cristalino usado em armas e armaduras. O malho de Urrak¹⁰ é forjado em *aetherite*¹⁴ puro.
 
-¹⁵ **Thermaris** — Fusão elemental de Água + Fogo; vapor superaquecido. Usada por Lyris⁸ em espada curta.
+¹⁵ **aethra** — Manifestação física da alma; energia espiritual fundamental. A aberração absorve *aethra*¹⁵ do ambiente para se regenerar.
 
-¹⁶ **Ayla** — Ayla Marethyus; mãe de Alyndra³⁰. Sua espada é portada por Aldric⁹.
+¹⁶ **En Me / Guardião Mestre** — Título do líder supremo de *Sanctrum*¹⁷. Aurelius³ é o trigésimo terceiro *En Me*¹⁶.
 
-¹⁷ **Manopla da Vinculação** — Relíquia contendo o *selo de Elarys*⁸ e o poder aprisionado de Nyxalor⁹. Usada por Aurelius⁶ no pulso esquerdo.
+¹⁷ **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões.
 
-¹⁸ **Urrak** — Lenda de *Terraxis*¹⁹; guerreiro da guilda de Velatrix⁷. Luta com malho de *aetherite*²¹.
+¹⁸ **Aurion** — A estrela central de Alyndra.
 
-¹⁹ **Terraxis** — Reino montanhoso; fonte de *aetherite*²¹ e guerreiros lendários.
+¹⁹ **Koramis** — Ave de guerra de cristal negro usada como montaria por cavaleiros de *Sanctrum*¹⁷.
 
-²⁰ **nihilary / nihilarys** — Agentes dos *Nihil Shid*²²; seres que manipulam escuridão e ausência. A aberração continha milhares de *nihilarys*²⁰ compactados.
+²⁰ **aethrys** — Material cristalino usado em armaduras, armas e construção.
 
-²¹ **Marethyus** — Avô materno de Alyndra³⁰; ex-Guardião Mestre de *Sanctrum*³; último descendente direto dos reis de Thalassia³⁶.
+²¹ **Manopla da Vinculação** — Relíquia contendo o *selo de Elarys*²² e o poder aprisionado de Nyxalor²³. Usada por Aurelius³ no pulso esquerdo.
 
-²² **Nihil Shid** — Ordem dos *nihilarys*²⁰; os conspiradores que orquestraram a possessão de Thaloris Ventaris²⁴.
+²² **selo de Elarys** — Selo criado pelo sacrifício de Elarys para aprisionar Nyxalor²³. Incrustado na *Manopla da Vinculação*²¹.
 
+²³ **Nyxalor** — Entidade ancestral de fogo e destruição; uma das armas mais poderosas dos *Nihil Shid*³¹. Selada por Elarys há *aethrons*²⁵.
 
-²⁴ **Thaloris Ventaris** — Ex-*Lugal Lil*²⁸ de *Sylvaris*²⁵; possuído por legiões de *nihilarys*²⁰ e transformado na aberração. Sobreviveu ao Julgamento Final — inconsciente, quebrado, mas vivo.
+²⁴ **Thaloris Ventaris** — Ex-*Lugal Lil* de *Sylvaris*²⁵; possuído por legiões de *nihilarys*¹² e transformado na aberração.
 
-²⁵ **Sylvaris** — Reino dos Ventos Livres; cuja capital é *Zephyra*.
+²⁵ **aethron / aethrons** — Unidade de tempo; um *aethron*²⁵ equivale a mil *valens*²⁸. Na narração comum, usa-se "milênio/milênios" (já aplicado nos capítulos).
 
-²⁶ **Tar-Gig** — Organização de inteligência e operações especiais; forças de Velatrix⁷.
-
-²⁷ **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
-
-²⁸ **Lugal Lil** — Título do governante de *Sylvaris*²⁵; Senhor dos Ventos. Thaloris Ventaris²⁴ era o *Lugal Lil*²⁸.
-
-²⁹ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
-
-³⁰ **Alyndra** — Alyndra Marethyus; última herdeira de Thalassia³⁶; filha de Aurelius⁶ e Ayla¹⁶. Inconsciente, mas respirando.
-
-³¹ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos literários específicos, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo" (já aplicado nos capítulos).
-
-³² **ante-aurion** — A madrugada; período que precede o nascer de *Aurion*⁴.
-
-³³ **cryonys** — Fusão elemental de Água + Vento; gelo/congelamento absoluto. A afinidade de Alyndra³⁰.
-
-³⁴ **Nyx** — *Lyrien*³³ de pelagem prateada; companheiro de Alyndra³⁰. Morto defendendo Alyndra³⁰ no capítulo anterior.
+²⁶ **Sylvaris** — Reino dos Ventos Livres; cuja capital é *Zephyra*.
 
 
-³⁶ **Thalassia** — Maré de Cristal; reino submerso. Linhagem ancestral de Marethyus²¹ e Alyndra³⁰.
+²⁸ **valen / valens** — Unidade de tempo longa; equivalente a um ano (~365 dias). Na narração, usa-se "ano" (já aplicado nos capítulos).
+
+²⁹ **elarae / elaraes** — Unidade de tempo; um *elarae*²⁹ equivale a cem *valens*²⁸ (um século). Na narração comum, usa-se "século/séculos" (já aplicado nos capítulos).
+
+³⁰ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos literários específicos, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo" (já aplicado nos capítulos).
+
+³¹ **Nihil Shid** — Ordem dos *nihilarys*¹²; os conspiradores que orquestraram a possessão de Thaloris Ventaris²⁴.
+
+³² **Ayla** — Ayla Marethyus; mãe de Alyndra³⁷; morta no parto sob a 8ª Convergência Tripla.
+
+³³ **Thalassia** — Maré de Cristal; reino submerso. Linhagem ancestral de Marethyus¹¹ e Alyndra³⁶.
+
+³⁴ **nyra / nyras** — Unidade de tempo; equivalente a um mês (~28-30 dias). Na narração comum, usa-se "mês/meses" (já aplicado nos capítulos). Em referências ao calendário sagrado Seraphyen, *nyra* pode ser mantido.
+
+³⁵ **cryonys** — Fusão elemental de Água + Vento; gelo/congelamento absoluto. A afinidade de Alyndra³⁶.
+
+³⁶ **Alyndra** — Alyndra Marethyus; última herdeira de Thalassia³³; filha de Aurelius³ e Ayla³². Está inconsciente desde o despertar do *cryonys*³⁵.
+
+³⁷ **Lyria** — A lua prateada; uma das três luas de Alyndra.
+
+³⁸ **Erupção do Carmesim** — Técnica suprema de Aurelius³; liberação controlada da totalidade do *aethra*¹⁵ vital em uma explosão esférica de energia e fogo.
+
+³⁹ **Nyx** — *Lyrien*⁴⁰ de pelagem prateada; companheiro de Alyndra³⁶ desde *Terraxis*¹⁸. Morto defendendo Alyndra³⁶.
+
+⁴⁰ **lyrien** — Criatura elemental. Nyx³⁹ era um *lyrien*⁴⁰ de *cryonys*³⁵.

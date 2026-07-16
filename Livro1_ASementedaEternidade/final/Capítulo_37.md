@@ -6,383 +6,335 @@
 
 # CAPÍTULO XXXVII
 
-# O Sacrifício de Nyx
+# O Último Refúgio
 
-*"Quando uma criança perde o único ser que nunca a julgou, o mundo não apenas quebra. O mundo aprende o que é o silêncio real — aquele que existe depois que todas as lágrimas acabaram e só resta o eco de algo que era pequeno e que era amado e que não vai voltar."*
-
----
-
-## I. Pequena e Prateada
-
-Nyx¹ voou.
-
-Não voou como uma *koramis*² voa — com asas de cristal e correntes de ar e a elegância milenar de uma montaria de guerra. Nyx¹ voou como uma *bola* voa — sem graça, sem técnica, sem nada que lembrasse voo. A pequena *lyrien*³ de pelagem prateada simplesmente se *lançou* para frente, saindo dos braços de Alyndra como uma pedra saindo de uma funda, e atravessou o espaço entre a garota e a mão da aberração em uma fração de segundo.
-
-Era pequeno.
-
-A palavra não era suficiente — Nyx¹ era *absurdamente* pequeno. Do tamanho de uma bola de meia. Quinhentos gramas de pelo e *aethra*⁴ e lealdade comprimidos em um corpo que cabia nas duas mãos de uma criança. Não tinha garras. Não tinha presas. Não tinha asas. Não tinha *poderes* — a afinidade com *cryonys*⁵ que Nyx¹ carregava era a mesma de sempre, o mesmo frio suave que emanava da pelagem prateada, a mesma luminosidade tranquila que Alyndra sentia na pele como formigamento. Não era uma arma. Não era um escudo. Não era *nada* que pudesse ferir uma aberração de dois metros e quarenta feita de milhares de *nihilarys*⁶.
-
-Era um *lyrien*³.
-
-Uma criatura de estimação. Um companheiro. O *lyrien*³ prateado que Alyndra encontrara nas colinas de Mespiria quando tinha quatro valens, quando o mundo era grande e assustador e o único consolo era uma bola de pelagem prateada que roçava até o pé da cama e pulsava com uma luz que dizia: *eu estou aqui, eu estou com você, você não está sozinha*.
-
-Nyx¹ não tinha nome. Não no sentido que os humanos dão nomes — Nyx¹ era *Nyx* porque Alyndra o chamava de Nyx, e Alyndra o chamava de Nyx porque a lua azul no céu era prateada como o *lyrien*³ e porque Nyx significava "aquela que ilumina a escuridão" na língua antiga que ninguém mais falava em Alyndra e que Alyndra não sabia que sabia.
-
-E Nyx¹ não tinha *poder*.
-
-Não tinha os mil braços da aberração. Não tinha as lâminas de vapor de Velatrix⁷. Não tinha o malho de *aetherite*⁸ de Urrak⁹. Não tinha a relíquia thalassiana de Marethyus¹⁰. Não tinha a espada de Ayla¹¹. Não tinha *nada* que pudesse fazer diferença em uma batalha entre deuses e monstros e legiões de escuridão.
-
-O que Nyx¹ tinha era *dentes*.
-
-Dentes de gelo — minúsculos, quase invisíveis, os mesmos dentes que mordiam os dedos de Alyndra quando ela queria brincar, os mesmos dentes que roíam as meias e as pontas da coberta e as *giralis*¹² que Alyndra trazia do jardim. Dentes que eram frios como *cryonys*⁵ e que eram mais frios que o gelo normal, mais *reais* que o gelo normal, mais *Nyx* que qualquer outra coisa no mundo.
-
-Nyx¹ atingiu a mão da aberração com a boca aberta.
-
-Os dentes de gelo cravaram na obsidiana — não *penetraram*, *cravaram*, como uma agulha crava couro, com a força desesperada de algo que sabe que não pode causar dano mas que *crava mesmo assim*, porque o que Nyx¹ tinha não era força, era *vontade*, e a vontade de um *lyrien*³ que ama a sua humana não se mede em newtons nem em milênios, se mede em *recusa* — a recusa de soltar, a recusa de ceder, a recusa de aceitar que aquele monstro de dois metros e quarenta e dezesseis olhos vai tocar a garota que Nyx¹ escolheu quando tinha três valens e que nunca, em cinco valens, um único dia, um único segundo, um único *pirc*¹³, deixou de ser o centro do universo de Nyx¹.
-
-A aberração *parou*.
-
-Não por dor — os dentes de Nyx¹ não podiam causar dor a algo feito de milhares de *nihilarys*⁶ e obsidiana e fome. A aberração parou porque a mão de Nyx¹ — todo o corpo pequeno, quinze centímetros de pelo e lealdade — estava *presa* na palma da criatura, cravada nos espaços entre os dedos de obsidiana, e Nyx¹ *não soltava*.
-
-O *lyrien*³ *rosnou*.
-
-Não o rosnado grave que havia emitido durante a batalha — um som mais agudo, mais fino, mais *desesperado*. O som de algo pequeno que decidiu enfrentar algo grande e que está *morrendo* e que não liga que está morrendo porque o que importa não é viver, o que importa é *segurar*, segurar mais um segundo, mais dois, mais três, segurar o tempo suficiente para que *algo* aconteça, para que alguém venha, para que o mundo lembre que Alyndra Marethyus¹⁴ existe e merece viver e não vai ser devorada por uma aberração no *ante-aurion*¹⁵ de uma nyxara que já deveria ter acabado.
-
-A aberração sacudiu a mão.
-
-Não com violência — com *enfado*, com a impaciência de alguém que sacode um inseto do dedo. A mão de obsidiana se moveu de um lado para o outro, rápido, casual, e Nyx¹ *voou* com a mão, balançando como um pingente no vento, os dentes ainda cravados, a luminosidade prateada ainda pulsando, o rosnado ainda soando — mais fraco agora, mais *distante*, como se a vida de Nyx¹ estivesse escapando não pelo corpo mas pelo som.
-
-Nyx¹ não soltou.
-
-A aberração sacudiu de novo. Mais forte. O corpo inteiro oscilou — os quatro braços se moveram, os dezesseis olhos piscaram, e a mão onde Nyx¹ estava cravado descreveu um arco que teria arrancado qualquer coisa, qualquer *lyrien*³, qualquer criatura viva, qualquer coisa feita de carne e osso e sangue.
-
-Nyx¹ não soltou.
-
-E nos dezesseis olhos da aberração — nos quatorze olhos negros/prateados e nos dois olhos verdes — algo *mudou*. Não uma mudança grande. Não uma mudança visível. Uma mudança que era mais *pulsação* que transformação, um lampejo nos dois olhos verdes, como se algo dentro de Thaloris Ventaris¹⁶ tivesse reconhecido o que estava acontecendo, tivesse *visto* — através dos milhares de *nihilarys*⁶ e da obsidiana e da fome — uma criatura de quinze centímetros de pelo prateado que estava *morrendo* para proteger uma garota de cinco valens.
-
-E Thaloris — o que restava de Thaloris, o vento que ainda soprava dentro da prisão de *nihilarys*⁶ — *sentiu*.
+*"Quando a luz se apaga, não é a escuridão que vence. É o silêncio que resta — o silêncio de quem já gritou tudo que tinha para gritar e descobriu que o mundo não ouviu."*
 
 ---
 
-## II. A Mão que Esmaga
+## I. O Que o Gelo Deixou
 
-A aberração olhou para Nyx¹.
+O *cryonys*¹ se foi.
 
-Os dezesseis olhos focaram no corpo prateado que estava cravado na palma da mão como um parasita que se recusa a cair. Os dois olhos verdes — os olhos de Thaloris Ventaris¹⁶, os olhos que tinham visto os campos de *giralis*¹² e as torres de Zephyra¹⁷ e o rosto de uma mulher que talvez tivesse sido mãe — *brilharam*.
+Não gradualmente — em um segundo, como uma vela que o vento apaga sem cerimônia. A luminosidade azulada que emanava de Alyndra se retraiu para dentro do corpo como a maré que recua antes do tsunami, e o que sobrou foi apenas uma garota — cinco valens, magra, tremendo, os olhos de azul voltando ao castanho em que sempre tinham sido, mas com algo diferente nas pupilas, algo que não estava ali antes, algo que o *cryonys*¹ havia *tocado* e que nunca mais seria o mesmo.
 
-Não com a luz dos *nihilarys*⁶. Com a luz de Sylvaris¹⁸. Verde e puro e *vivo* — a primeira vez desde a possessão que os olhos de Thaloris brilhavam com algo que era *dele* e não dos Nihil Shid¹⁹.
+Alyndra caiu.
 
-E por um segundo — um único segundo — a mão da aberração *parou*.
+Não desmaiou — *caiu*. Os joelhos bateram na pedra gelada que o próprio *cryonys*¹ havia congelado, e o impacto enviou uma onda de dor pelas pernas adormecidas. As mãos tocaram o chão — gelo frio, tão frio que queimava, a temperatura residual do poder que havia passado pelo corpo como um raio e que deixara marcas, como sempre deixa marcas, como sempre deixa cicatrizes em quem carrega algo que não deveria carregar.
 
-Não a sacudiu. Não a esmagou. *Parou*. Como se Thaloris estivesse dizendo: *não, não essa, não essa criatura, por favor, não essa*.
+Nyx² estava ao lado dela.
 
-E então os *nihilarys*⁶ *responderam*.
+O *lyrien*³ de pelagem prateada também havia se retraído — a expansão, a transcendência, a forma maior que havia assumido durante o despertar de Alyndra se dissolvera como neblina ao Aurion⁴, e o que restava era o *lyrien*³ original: um corpinho do tamanho de uma bola, de pelagem prateada e translúcida, pulsando com uma luminosidade fraca que era quase o mesmo que dizer "escura". Nyx² *rosnou* — não o rosnado feroz de antes, um som que era quase um gemido, o som de algo que também havia dado tudo que tinha e que estava deitada no chão gelado tentando respirar.
 
-Os milhares de fragmentos de escuridão que habitavam o corpo de Thaloris sentiram a hesitação — sentiram o momento em que o hospedeiro *recusou* — e responderam como parasitas sempre respondem quando o hospedeiro resiste: com *força*. A onda de *nihilary*⁶ que varreu o interior da aberração foi brutal — milhares de vozes sussurrando ao mesmo tempo, milhares de vontades empurrando ao mesmo tempo, milhares de fragmentos de vazio *afogando* o verde que restava nos dois olhos de Thaloris.
+Ao redor do templo, o silêncio era *absoluto*.
 
-Os olhos verdes se *apagaram*.
+Não o silêncio da paz — o silêncio do vazio. O tipo de silêncio que existe depois de uma tempestade, quando o vento para e as águas baixam e o que resta é a paisagem destruída, e no meio da paisagem destruída há corpos, e onde havia corpos havia vidas, e onde havia vidas havia *ausência*, e a ausência é o som mais alto que existe.
 
-E a aberração *fechou a mão*.
+O campo de batalha era uma pintura do fim do mundo.
 
-Não foi esmagar — foi *fechar*. A mão de obsidiana se contraiu ao redor de Nyx¹ como um punho se contrai ao redor de uma pedra. Os dedos — cada um maior que o corpo inteiro de Nyx¹ — se curvaram, se encaixaram, se *travaram*. A pressão foi *absoluta* — não gradual, não crescente, *absoluta*, como se o universe inteiro tivesse decidido que Nyx¹ não cabia mais nele e estava *apertando* para tirar.
+Os corrompidos jaziam no chão — não mortos, *vazios*. Os corpos que a aberração havia drenado durante a absorção estavam espalhados pelo perímetro como cascas de insetos depois da eclosão: enrugados, murchos, sem substância, sem *aethra*⁵, sem a coisa invisível que faz um corpo ser mais que carne e osso. A pele estava colada aos ossos como papel em pergaminho. Os olhos — os olhos que antes brilhavam com a luz dos *nihilarys*⁶ — eram apenas buracos, conchas oculares vazias que olhavam para o céu sem ver nada.
 
-Nyx¹ *urrou*.
+O chão estava negro.
 
-Não o rosnado — um *urro*. Um som que não era possível para um *lyrien*³ de vinte centímetros, um som que veio de *dentro*, do *cryonys*⁵ que era o coração de Nyx¹, do *aethra*⁴ que era o sangue de Nyx¹, da *alma* que era tudo que Nyx¹ era. O uro atravessou o campo de batalha como uma flecha — e todos que ouviram sentiram algo *quebrar* dentro de si, não porque o som fosse poderoso, mas porque o som era *pequeno* e era *perfeito* e era *tudo*.
+Não em manchas — inteiramente, como se o sangue e o *nihilary*⁶ e o suor e as lágrimas de todos que haviam lutado tivessem se misturado em uma substância única e escura que impregnava a pedra como veneno impregnando a seiva de uma *argenis*⁷. As rachaduras no solo — causadas pelos golpes da aberração, pelo impacto do malho de Urrak⁸, pela onda de pressão do último raio de Marethyus⁹ — formavam um padrão que era quase artístico, um mapa geométrico de violência que nenhum cartógrafo de Sanctrum¹⁰ teria coragem de desenhar.
 
-A mão da aberração se abriu.
+As colunas do templo — as que restavam — estavam rachadas ou tombadas. As barricadas de *aethrys*¹¹ que Velatrix¹² havia ordenado que fossem erguidas na nyxara anterior estavam em pedaços — madeira estilhaçada, metal retorcido, *aethrys*¹¹ pulverizado em uma poeira azulada que o vento não carregava porque não havia vento, porque o *aethra*⁵ ambiental havia sido sugado pela aberração e o ar era denso e pesado e *morto*.
 
-Não por compaixão — porque havia terminado. Nyx¹ *caiu*.
+Os *koramis*¹³ que tinham trazido Lyris¹⁴ e Aldric¹⁵ e os reforços estavam aterrorizados — as aves de cristal negro estavam agachadas a cinquenta passos do templo, as asas fechadas, os olhos fixos na aberração, emitindo sons agudos que eram tentativas de *canto* mas que saíam como *súplicas*. Os *koramis*¹³ eram montarias de guerra — treinadas para enfrentar o perigo, condicionadas a não recuar. Mas isto não era perigo. Isto era algo *maior* que perigo.
 
-O corpo prateado caiu da palma da aberração e descreveu uma parábola curta — dois passos de altura, três passos de distância — e atingiu o chão gelado com um som que foi *nada*. O som de um corpo pequeno batendo em pedra. O som de algo que não deveria ser significativo e que era o som mais *significativo* que aquele campo de batalha já tinha ouvido.
+E os sobreviventes.
 
-Nyx¹ *não se moveu*.
+Os sobreviventes formavam um semicírculo imperfeito entre a aberração e a entrada do templo — não por tática, porque não havia mais tática possível, não por formação, porque não havia mais formação, mas por *instinto*. O instinto de se colocar entre o que você ama e o que quer destruí-lo, mesmo quando o que você ama está a suas costas e o que quer destruí-lo é dois metros e quarenta de obsidiana e *nihilarys*⁶ e fome.
 
-O corpo estava no chão — deitado de lado, a pelagem prateada manchada em três lugares, a luminosidade pulsando de forma irregular, como um coração que está *falhando*. Os dentes — os dentes que tinham cravado na obsidiana — estavam *quebrados*, fragmentos espalhados ao redor do corpo como estilhaços.
+Velatrix¹² estava de pé.
 
-Nyx¹ respirava.
+De pé — a palavra era quase uma mentira. Ela se sustentava sobre as pernas porque as pernas ainda funcionavam, não porque tivesse força para sustentá-la. O corpo era um mapa de dor — a ferida no flanco esquerdo ainda sangrava, a sobrancelha arrancada pelo braço da aberração era uma linha cruenta que descia pela têmpora, as costas estavam rachadas em dois pontos onde o impacto contra a coluna quebrada tinha fraturado costelas. As mãos tremiam — não de medo, de *esgotamento*, o *aethra*⁵ queimado até o último *pirc*¹⁶, os músculos que operavam o *thermaris*¹⁷ inflamados e doloridos como se tivessem sido mergulhados em água fervente e depois cobertos de gelo simultaneamente.
 
-Não como antes — de forma *dolorosa*. O pequeno corpo expandia e contraía em ciclos que eram mais *espasmos* que respiração, mais *convulsões* que *aethra*⁴, mais *agonia* que vida. Cada ciclo era mais fraco que o anterior — a luminosidade diminuindo, o pulso desacelerando, o calor que era a vida de Nyx¹ começando a *escapar*, não pelo frio — o frio era tudo que existia ali, o *cryonys*⁵ de Alyndra tinha congelado tudo — mas pela *ausência*, como se o que mantinha Nyx¹ vivo estivesse *saindo*, escorrendo, evaporando.
+Ela segurava nas mãos algo que era mais fumaça que lâmina de vapor — os últimos vestígios de *thermaris*¹⁷, a disciplina que ela havia dominado como ninguém em Alyndra, reduzida a uma névoa quente que se dissipava entre os dedos como fumaça de incenso. Não era arma. Era *lembrança*.
 
-Alyndra viu Nyx¹ cair.
+Atrás dela, um passo à esquerda, Lyris¹⁴ estava apoiada contra uma coluna quebrada. A espada curta de *aetherite*¹⁸ ainda estava na mão — os dedos cerrados ao redor do cabo com uma força que era mais *recusa* que aderência, como se soltar a espada fosse admitir que tudo estava acabado. O rosto de Lyris¹⁴ era uma pintura de exaustão — a testa cortada, o sangue descendo pelo olho esquerdo e se misturando com o suor, os lábios rachados pela respiração ofegante, a pele pálida como papel de Sanctrum¹⁰. Os olhos estavam abertos — *sempre* abertos — e nos olhos havia algo que Lyris¹⁴ não permitia que outros vissem: *medo*. O medo de quem sabe que não é suficiente. O medo de quem lutou com tudo que tinha e descobriu que "tudo" não era o bastante.
 
-Alyndra viu Nyx¹ deitar no chão.
+Aldric¹⁵ estava de joelhos.
 
-Alyndra viu Nyx¹ *não se levantar*.
+Não porque quisesse — porque as pernas não aguentavam. A espada de Ayla¹⁹ jazia ao lado dele, a lâmina fria pela primeira vez desde que Alyndra a encontrara nas profundezas de Terraxis²⁰. O *aethra*⁵ thalassiano que pulsava na arma havia sido sugado pela aberração — sugado como tudo mais, como o *aethra*⁵ do solo, do ar, dos corrompidos, dos vivos. A espada de Ayla¹⁹ era agora apenas metal e *aethrys*¹¹, uma relíquia *morta*, um pedaço de Thalassia²¹ que não era mais Thalassia²¹ porque a essência que o tornava thalassiano havia sido *arrancada*. Aldric¹⁵ sangrava por uma ferida no ombro direito — o braço da aberração o havia atingido quando ele tentou bloquear, e o impacto tinha rachado a armadura e rasgado a pele e fraturado a clavícula. Ele não sentia a dor. Não porque fosse forte — porque o corpo já tinha desistido de enviar sinais de dor, como uma sentinela que desliga as luzes porque não adianta mais avisar que o exército está chegando.
 
-E Alyndra — que tinha caminhado até a aberração com olhos secos, que tinha visto os corpos dos guerreiros sem chorar, que tinha enfrentado a mão da criatura sem fechar os olhos — *correu*.
+Urrak⁸ estava deitado.
 
-Não correu para a aberração. Não correu para Lyris¹⁴. Não correu para ninguém. Correu para Nyx¹ — correu os três passos que a separavam do *lyrien*³ caído, os pés descalços batendo no gelo com um som que era *urgência*, os joelhos dobrando ao lado do corpo prateado, as mãos — mãos de cinco valens, mãos de criança, mãos que não tinham força para segurar uma espada ou erguer um malho ou canalizar *thermaris*²⁰ — agarrando Nyx¹ e levando-a ao peito.
+Não deitado — *caído*. Os dois metros e meio de músculo e armadura e cicatrizes jaziam no chão com os olhos abertos e o malho de *aetherite*¹⁸ a três passos de distância, onde havia caído quando os braços de Urrak⁸ não conseguiram mais segurá-lo. A armadura estava rachada em cinco lugares — as placas de *aethrys*¹¹ pretas e desbotadas de Terraxis²⁰ se partindo como casca de ovo, revelando a pele por baixo que estava coberta de hematomas e cortes e a espuma rosa das costelas quebradas perfurando o pulmão. Urrak⁸ respirava — *respirava* — e o som da respiração era o som de um homem que está afundando em água profunda e que ainda consegue alcançar a superfície, ainda consegue pegar um segundo de ar, ainda consegue *viver*, mas que sente a água subindo e a superfície ficando mais distante a cada segundo.
 
-— Nyx — Alyndra disse, e a voz era *normal* — a voz de uma menina chamando o animal de estimação, a voz de quem diz "vem, vamos, está tudo bem", a voz que se usa para chamar *lyriens*³ e *velroks*²¹ e crianças pequenas, a voz que é tão *cotidiana* que parece impossível que esteja sendo usada no meio de um campo de batalha coberto de gelo e cadáveres.
+E Marethyus⁹.
 
-Nyx¹ pulsou.
+O velho estava caído a dez passos de onde a aberração o havia empurrado — dez passos que tinham parecido cem, dez passos que tinham levado Marethyus⁹ do centro do campo de batalha para a borda, para a margem, para o lugar onde os que já não podem lutar vão esperar o fim. Os olhos azuis estavam abertos — *sempre* abertos, como os olhos de Lyris¹⁴, como os olhos de todos os que ainda respiravam naquela nyxara — e fixos na aberração. As mãos seguravam a relíquia — a esfera de *aethrys*¹¹ azul-marinho que tinha sido o *aethra*⁵ de milênios de acumulação e que agora era apenas vidro, apenas *aethrys*¹¹, apenas uma pedra bonita que não fazia nada, que não curava, que não protegia, que não *salvava*.
 
-A luminosidade prateada brilhou — um lampejo, breve, quase invisível, como o último piscar de uma vela que está apagando. E no lampejo — naquele *pirc*¹³ de luz — Nyx¹ olhou para Alyndra.
+Marethyus⁹ não se moveu. Não porque não quisesse — porque o corpo não podia. O impacto da aberração tinha fraturado três costelas, rompido o ligamento do ombro esquerdo, e causado uma concussão que fazia o mundo piscar em preto e azul a cada segundo. Ele respirava — superficial, doloroso, cada inspiração enviando uma onda de agulhas pelo peito — e observava.
 
-Os olhos do *lyrien*³ não eram como os olhos humanos — não tinham íris, não tinham pupilas, não tinham a geometria complexa da visão humana. Eram *luz* — dois pontos de luminosidade prateada no focinho pequeno, pontos que brilhavam e piscavam e *olhavam* de uma forma que era mais *sentimento* que visão. E os olhos de Nyx¹ — os dois pontos de luz prateada que olhavam para Alyndra — estavam *cheios*.
-
-Não de *aethra*⁴, não de *cryonys*⁵, não de poder. Cheios de *algo* que não tinha nome em nenhuma língua de Alyndra — algo que era mais antigo que as línguas, mais antigo que os Seraphyens²², mais antigo que a própria *aethra*⁴. Algo que existia antes dos reinos e antes das guerras e antes dos *nihilarys*⁶ e que era tão *simples* e tão *puro* que os eruditos de Sanctrum²³ nunca teriam conseguido classificá-lo porque não era elemento nem disciplina nem poder.
-
-Era *amor*.
-
-O amor de um *lyrien*³ pela sua humana. O amor de algo que não precisava amar e que *amava mesmo assim*, que escolheu, que decidiu, que olhou para uma garota de quatro valens em Mespiria e pensou — se *lyriens*³ pensam — "essa, essa é a minha, essa é a que eu vou proteger, essa é a que eu vou acompanhar até o fim do mundo se precisar, e eu vou precisar, e o fim do mundo é *hoje*."
-
-Nyx¹ piscou.
-
-E os olhos — os dois pontos de luz prateada — *começaram a se apagar*.
+A aberração observava de volta.
 
 ---
 
-## III. O Grito
+## II. A Fome que Cresce
 
-Alyndra *gritou*.
+A criatura que tinha sido Thaloris Ventaris²² estava *maior*.
 
-Não um grito — algo *mais*. Algo que existia abaixo do som, abaixo da frequência, abaixo de tudo que os ouvidos humanos podiam processar. Um som que começou nos pulmões de Alyndra e atravessou o corpo como uma onda, saindo pela boca não como voz mas como *força*, não como som mas como *presença*, não como lágrima mas como *explosão*.
+Não uma mudança sutil — impossível não notar. O corpo de dois metros e quarenta que havia sido suficiente para subjugar Velatrix¹² e drenar corrompidos e empurrar Marethyus⁹ como se fosse um lenço havia *crescido*. Cinco metros agora. Talvez mais. Era difícil medir algo que não parava de se mover, que pulsava como se respirasse, que mudava de forma em segundos como se a própria geometria de seu corpo fosse uma sugestão e não uma regra.
 
-O grito de Alyndra não era *humano*.
+Os quatro braços eram mais longos. As mãos de obsidiana — que antes eram do tamanho de elmos de guerra — eram agora do tamanho de *escudos*, e nas pontas dos dedos haviam *nascido* garras, não garras de osso mas garras de obsidiana e *nihilary*⁶, cristais negros que brilhavam com uma luz que não era luz mas *absorção*, como se cada garra fosse um funil que sugava o *aethra*⁵ do ar ao redor.
 
-Era o grito de alguém que *perdeu* — não uma batalha, não uma guerra, não um reino. Algo que era *menor* que tudo isso e que era *maior* que tudo isso ao mesmo tempo. O *lyrien*³ que a acompanhava desde Mespiria. O *lyrien*³ que dormia ao pé de sua cama. O *lyrien*³ que roçava a cabeça contra a mão dela quando ela estava triste. O *lyrien*³ que *rosnava* para os estranhos e *pulsava* para ela e que era, de todas as coisas no mundo, a única que nunca tinha dito "não" e nunca tinha saído e nunca tinha *parado de amar*.
+A superfície do corpo havia mudado. A obsidiana lisa que antes recobria a aberração como armadura estava agora *texturizada* — rachada, fragmentada, como se milhares de fragmentos de *nihilarys*⁶ se tivessem comprimido com tanta força que a crosta externa não aguentava a pressão e havia começado a se fragmentar. Entre as rachaduras, uma luz pulsava — não a luz azul-prateada dos *nihilarys*⁶ comuns, uma luz *mais densa*, mais *presente*, uma luz que parecia *consciência*, como se os milhares de fragmentos dentro da aberração tivessem *acordado* simultaneamente.
 
-Nyx¹ estava *morrendo*.
+Os dezesseis olhos eram diferentes.
 
-O corpo prateado nos braços de Alyndra pulsava — cada vez mais fraco, cada vez mais lento, cada vez mais *distante*, como se Nyx¹ estivesse se afastando não fisicamente mas *essencialmente*, como se a alma de Nyx¹ — a alma de gelo e *aethra*⁴ e luz prateada — estivesse se desprendendo do corpo como fumaça se desprende da chama.
+Não a cor — os quatorze olhos negros/prateados e os dois verdes eram os mesmos. Mas a *intensidade* havia mudado. Os olhos não mais varriam o campo de batalha com a curiosidade caótica de consciências fragmentadas. Agora, os dezesseis olhos se moviam *juntos* — focando no mesmo ponto, seguindo o mesmo objetivo, como dezesseis lentes de um mesmo telescópio apontadas para a mesma estrela.
 
-E Alyndra *gritou*.
+E a estrela para onde apontavam era Alyndra.
 
-O ar ao redor dela *congelou*.
+A assinatura de *cryonys*¹ que Alyndra havia emitido durante o despertar havia *marcado* ela — marcado como um farol marca o oceano para os navios, como um milênio marca uma era para os historiadores. A aberração podia sentir o *cryonys*¹ dentro de Alyndra mesmo através das paredes do templo, mesmo através da distância, mesmo através de tudo que estava entre eles. Era uma assinatura tão *pura*, tão *antiga*, tão *poderosa* que a aberração não precisava de olhos para encontrá-la — precisava apenas de *fome*.
 
-Não como antes — não o *cryonys*⁵ controlado e consciente do despertar, não a luminosidade azulada que emanava das mãos e dos olhos. Isto era *mais*. Muito mais. O ar ao redor de Alyndra ficou tão frio que *solidificou* — não em cristais de gelo, em *nada*, em uma ausência de temperatura tão absoluta que o próprio conceito de "frio" não se aplicava mais. O ar *parou*. As moléculas que compunham a atmosfera cessaram o movimento. O vento — que já estava fraco, sugado pela aberração — *morreu*. A nyxara inteira ficou *muda*, como se o grito de Alyndra tivesse roubado o som do mundo.
+E a aberração estava *faminta*.
 
-A temperatura *caiu*.
+A absorção dos corrompidos não havia sido apenas um ato tático — havia sido um *banquete*. Vinte corrompidos drenados in quinze segundos. Trinta corrompidos que restavam nos arredores — os que não tinham morrido em combate, os que estavam feridos demais para lutar, os que jaziam no chão esperando ordens que não viriam — foram drenados nos segundos seguintes. Cada corpo murchou. Cada casca caiu. E cada *nihilary*⁶ absorvido se somou ao corpo da aberração como aquarela se soma à tela, camada sobre camada sobre camada, até que a criatura que ficou não era mais a criatura que tinha chegado.
 
-Não gradualmente — em *queda livre*. O termômetro — se houvesse um termômetro naquele campo de batalha, se alguém tivesse pensado em trazer um termômetro para o fim do mundo — teria marcado algo que não tinha marcação. Gelo que já cobria o chão — residual do primeiro despertar de Alyndra — *cresceu*. Não em espessura, em *extensão* — uma onda de gelo que se expandiu a partir de Alyndra em todas as direções, cobrindo a pedra, cobrindo os corpos, cobrindo as armas, cobrindo *tudo*, como se o mundo estivesse sendo congelado por dentro.
+Era mais. Mais densa. Mais *presente*. Mais *fome*.
 
-Cem passos.
+A aberração se virou para o templo.
 
-A onda de gelo alcançou cem passos em todas as direções em um segundo. Duzentos passos no segundo seguinte. Trezentos. O campo de batalha — que já era uma paisagem de destruição — se *transformou*. A pedra negra cobriu-se de branco. Os corpos dos corrompidos — as cascas vazias que jaziam espalhadas — se congelaram em posições grotescas, como estátuas de um museu do horror. As armas — as espadas e os malhos e os escudos — ficaram encrustadas em gelo tão espesso que eram indistinguíveis das pedras. Até o *ar* ficou *sólido* — cristais de gelo flutuando na atmosfera, suspensos como estrelas que tinham decidido nascer no lugar errado, criando uma névoa cintilante que fazia o campo de batalha parecer um sonho que tinha esfriado demais e quebrado.
+Não em velocidade — em *certeza*. Os dezesseis olhos encontraram a entrada despedaçada, as paredes congeladas pelo *cryonys*¹ de Alyndra, a silhueta pequena da garota que estava de joelhos no interior da câmara, as mãos no chão gelado, o *lyrien*³ prateado ao lado dela.
 
-Os olhos de Alyndra *brilhavam*.
+E a aberração *caminhou*.
 
-Azuis — o azul de Thalassia²⁴, o azul de Marethyus¹⁰, o azul de Ayla¹¹. Mas não o azul calmo das águas de Thalassia²⁴ — o azul *fúria* das tempestades, o azul *absoluto* do fundo do oceano onde a luz nunca chega e a pressão esmaga tudo. Anéis de gelo pulsavam ao redor das pupilas, e os anéis emitiam uma luz que era tão fria que *queimava* — não o calor do fogo, o frio do gelo, mas *queimava* do mesmo jeito, com a mesma intensidade, com a mesma dor.
+Não correu. Não saltou. *Caminhou*. Com a mesma deliberada lentidão do capítulo anterior — a lentidão de algo que sabe que já venceu. Mas desta vez a lentidão era *diferente*. Antes, a lentidão tinha sido estratégica — a aberração estava avaliando, calculando, decidindo. Agora, a lentidão era *desprezo*. A aberração sabia — porque os *nihilarys*⁶ dentro dela sabiam, porque os Nihil Shid²³ que haviam criado aquela criatura sabiam, porque o próprio *nihilary*⁶ ancestral que comandava a operação sabia — que nada naquele campo de batalha podia impedi-la de chegar a Alyndra. Nada. Ninguém. Nenhuma arma, nenhum poder, nenhum guerreiro.
 
-E o *cryonys*⁵ *erupcionou*.
+Os passos da aberração rachavam o chão.
 
-Não de cima — de *baixo*. Do chão. Das veias da terra. Das profundezas de Alyndra, do lugar onde o *aethra*⁴ primordial ainda corria como sangue nas veias do mundo. Colunas de gelo — não cristais, não lanças, *colunas* — irromperam do solo em explosões que fizeram a terra tremer. Cada coluna tinha três passos de largura e dez passos de altura, e era feita de um gelo que não era gelo — era *cryonys*⁵ puro, *cryonys*⁵ elemental, *cryonys*⁵ como não existia desde os Seraphyens²², desde a era em que os filhos da Luz caminhavam por Alyndra e o mundo era novo e o gelo era uma *oração*.
+Não como antes — *mais*. Cada pegada deixava uma cratera de meio passo de profundidade. A pressão era tão grande que a pedra sob os pés da criatura se pulverizava antes mesmo de ser tocada, como se o próprio *aethra*⁵ que mantinha a matéria coesa estivesse fugindo da aberração, retraindo-se, *recusando-se* a fazer parte daquilo.
 
-As colunas de gelo irromperam em *padrão* — não aleatório, *intencional*, como se o *cryonys*⁵ dentro de Alyndra tivesse uma vontade própria, uma inteligência própria, um *propósito* que era mais antigo e mais profundo que a consciência de uma garota de cinco valens. As colunas surgiram ao redor da aberração — cinco, dez, quinze — formando uma *jaula* de gelo que se fechou sobre a criatura de dois metros e quarenta com a precisão de uma armadilha.
-
-A aberração *urrou*.
-
-O som era diferente de todos os urros que já havia emitido — havia *dor* nele, dor real, a dor de algo que nunca tinha sentido frio e que de repente estava *congelando*, os *nihilarys*⁶ dentro do corpo contraindo-se com o frio como músculos se contraem com o frio, a obsidiana da superfície *rachando* sob a pressão do gelo que crescia sobre ela como musgo cresce sobre pedra.
-
-As colunas de gelo se *aproximaram*.
-
-Não se moveram — *cresceram*. Novas colunas irromperam do solo entre as primeiras, mais finas, mais afiadas, como lanças de um exército fantasma. As pontas — afiadas como agulhas, duras como *aetherite*⁸ — atingiram a aberração. Uma atravessou o braço esquerdo — a ponta de gelo entrando pela obsidiana e saindo pelo outro lado, levando consigo fragmentos negros de *nihilary*⁶ que se dissolveram ao contato com o *cryonys*⁵ como pó ao contato com a água. Outra coluna atingiu a perna direita — não penetrando, mas *congelando*, o gelo cobrindo a superfície da perna em camadas que eram tão densas que pareciam *armadura*, uma armadura de gelo que não protegia mas *aprisionava*.
-
-A aberração *tremeu*.
-
-Os quatro braços se debatiam — arrancando colunas de gelo, quebrando lanças, tentando se libertar da jaula que se fechava ao redor dela. Mas para cada coluna quebrada, duas novas irrompiam do solo. Para cada lança arrancada, três cresciam em seu lugar. O *cryonys*⁵ de Alyndra era *infinito* — ou parecia ser, ou era o suficiente para parecer, porque a quantidade de gelo que emanava do chão ao redor da garota era impossível, era *absurda*, era algo que não deveria existir em um corpo de cinco valens, algo que desafiava as leis da *aethra*⁴ e da física e da razão.
-
-Era o poder dos Seraphyens²².
-
-Não uma versão menor, não uma imitação, não uma sombra. O *cryonys*⁵ que emanava de Alyndra era o mesmo *cryonys*⁵ que os filhos da Luz haviam usado para moldar as montanhas e congelar os mares e criar os milênios de gelo que ainda existiam nas calotas polares de Alyndra. Era um poder que não tinha sido visto em milhares de valens — desde que o último Seraphyen tinha morrido, desde que o último milênio de magia primordial tinha se dissipado na atmosfera como fumaça se dissipa no vento.
-
-Velatrix⁷ viu.
-
-Velatrix⁷ — que tinha visto *tudo*, que tinha enfrentado aberrações e exércitos e impossibilidades, que tinha dominado *thermaris*²⁰ como ninguém em Alyndra — *viu* e *entendeu*. Entendeu que o que estava saindo de Alyndra não era *aethra*⁴. Era algo *mais*. Era o poder que os eruditos de Sanctrum²³ escreviam nos textos proibidos, o poder que os Guardiões Mestres mencionavam em sussurros, o poder que tinha dado origem aos sete reinos e que tinha morrido com os Seraphyens²² e que *não deveria ter voltado*.
-
-E no rosto de Velatrix⁷ — no rosto da mulher que nunca sorria, que nunca chorava, que nunca demonstrava nada que não fosse *controle* — havia *terror*.
+Dez passos. Oito. Seis.
 
 ---
 
-## IV. Gelo que Não Deveria Existir
+## III. As Últimas Armas
 
-O *cryonys*⁵ *cresceu*.
+Velatrix¹² se moveu primeiro.
 
-As colunas de gelo ao redor da aberração se multiplicaram — vinte, trinta, quarenta — formando não mais uma jaula mas uma *floresta*, uma floresta de cristais de gelo que se erguiam do chão como *argenis*²⁵ de um mundo invertido, onde as raízes eram de gelo e as copas apontavam para o céu e tudo era *branco* e *frio* e *absoluto*.
+Não porque fosse a mais forte — não era mais, não depois do que o corpo havia suportado. Não porque fosse a mais sábia — a sabedoria não servia naquele momento, a sabedoria dizia "desista" e Velatrix¹² não ia desistir. Velatrix¹² se moveu primeiro porque era Velatrix¹², e Velatrix¹² não sabia ser outra coisa que não a primeira a entrar e a última a sair.
 
-A aberração estava *presa*.
+As mãos se abriram.
 
-Não completamente — os braços ainda se moviam, os olhos ainda focavam, a fome ainda pulsava. Mas o corpo de dois metros e quarenta estava cercado por gelo de todos os lados, e o gelo era *cryonys*⁵ puro, e o *cryonys*⁵ puro era a antítese dos *nihilarys*⁶, e cada segundo que a aberração passava dentro da floresta de gelo era um segundo em que os *nihilarys*⁶ *dentro* dela *morriam*.
+O *thermaris*¹⁷ que restava — aquele resíduo, aquela fumaça quente que era mais memória que poder — se *comprimiu*. Velatrix¹² fez algo que não deveria ser possível: canalizou o último *pirc*¹⁶ de *aethra*⁵ que restava em seu corpo — o *aethra*⁵ que mantinha o coração batendo, que mantinha os pulmões respirando, que mantinha *vivo* — e o transformou em uma última lâmina de vapor.
 
-Os braços da aberração congelaram.
+A lâmina era *patética*.
 
-Não completamente — as pontas dos dedos, primeiro, ficaram brancas, depois azuis, depois *cinzas*, a cor do gelo cobrindo a obsidiana como neve cobre uma pedra. O congelamento *subiu* — dos dedos para as mãos, das mãos para os pulsos, dos pulsos para os antebraços — e onde o gelo passava, a obsidiana *rachava*. Não como gelo normal racha pedra — de *dentro*, como se o frio estivesse alcançando os *nihilarys*⁶ que estavam *sob* a superfície e os matando um por um, e cada *nihilary*⁶ que morria deixava um vazio, e cada vazio enfraquecia a estrutura, e cada estrutura enfraquecida *rachava*.
+Não no sentido pejorativo — no sentido literal. Era pequena, talvez vinte centímetros, a metade do comprimento de uma lâmina normal. A temperatura era baixa — não o rubro incandescente de antes, mas um laranja pálido, quase amarelo, como o Aurion⁴ no *ante-aurion*²⁴. A pressão era fraca — o vapor se dissipava antes de completar o arco, como fumaça que o vento carrega antes que chegue ao destino.
 
-O *cryonys*⁵ de Alyndra era *devastador*.
+Velatrix¹² *lançou*.
 
-Não no sentido que Velatrix⁷ era devastadora — não calculado, não direcionado, não *controlado*. O poder emanava de Alyndra como um vulcão emana lava: sem direção, sem objetivo, sem *fineza*. Tudo que o *cryonys*⁵ tocava, congelava. Tudo que congelava, rachava. Tudo que rachava, *morria*. Era um poder de *destruição* — destruição que não escolhia alvos, que não distinguia aliados de inimigos, que não *pensava* — apenas *era*.
+A lâmina voou em direção à aberração — um arco baixo, rápido, precisão de quem havia lançado milhares de lâminas em milhares de combates. A trajetória era perfeita: ia atingir a aberração no pescoço, na junção entre o torso e a cabeça, no ponto onde a obsidiana era mais fina, onde os *nihilarys*⁶ eram mais vulneráveis.
 
-Marethyus¹⁰ viu e sentiu.
+A aberração ergueu a mão.
 
-O velho — caído no chão, as costelas fraturadas, a relíquia vazia nas mãos, os olhos azuis arregalados — *sentiu* o *cryonys*⁵ de Alyndra como sentia o mar: nas veias, nos ossos, na alma. E o que sentiu não foi o *cryonys*⁵ comum — foi o *cryonys*⁵ de Thalassia²⁴, o *cryonys*⁵ dos Marethyus, o *cryonys*⁵ que tinha dado origem ao reino submerso e que tinha morrido com Ayla¹¹ e que tinha *ressurgido* na neta, na última herdeira, na semente.
+Um gesto — um gesto *dispensável*, casual, a mão de obsidiana se erguendo como alguém ergue a palma para espantar uma mosca. A lâmina de vapor atingiu a palma e se *desintegrou*. Não foi bloqueada — *evaporou*. O calor da lâmina encontrou o frio absoluto da obsidiana dos *nihilarys*⁶ e o contraste criou uma explosão de vapor que não fez absolutamente nada, nada, *nada*, a não ser criar uma nuvem de fumaça que a aberração atravessou como se fosse ar.
 
-Marethyus¹⁰ *chorou*.
+Velatrix¹² *tossiu*.
 
-Não lágrimas de tristeza — lágrimas de *reconhecimento*. Ele viu o poder de Alyndra e soube o que era — soube que os Nihil Shid¹⁹ tinham razão de temer a garota, soube que a profecia dos Cantos de Adormecimento²⁶ era *verdadeira*, soube que a última herdeira de Thalassia²⁴ era tudo que os textos antigos diziam que era e *mais*. E soube — com a clareza brutal de um homem que está vendo o futuro se desenrolar diante de seus olhos — que aquele poder ia *matar* Alyndra se não parasse.
+O esforço de canalizar o último *aethra*⁵ do corpo em uma lâmina tinha um preço — o corpo *reclamou*. Os joelhos dobraram. A visão escureceu nas bordas, como se o mundo estivesse sendo cercado por cortinas negras que se fechavam lentamente. As mãos caíram — não os braços, apenas as mãos, como se os dedos tivessem decidido que já era suficiente, que já tinham feito o que podiam, que já tinham lutado e cortado e queimado e sangrado e que agora era *tempo* de descansar.
 
-O gelo alcançou os guerreiros caídos.
+Urrak⁸ se *levantou*.
 
-A onda de frio — que se expandia de Alyndra em todas as direções como onda em um lago — atingiu Urrak⁹ e *congelou* as feridas. Não o corpo inteiro — apenas as feridas, como se o *cryonys*⁵ soubesse, de alguma forma, que Urrak⁹ era aliado, que as feridas eram o que precisava ser *parado*. O sangue que escorria pelos cortes de Urrak⁹ se solidificou, forming coágulos de gelo que *selaram* as lacerações e impediram que mais sangue fosse perdido. O malho de *aetherite*⁸, a três passos de distância, cobriu-se de gelo — não gelo comum, gelo de *cryonys*⁵, e o *aetherite*⁸ pulsou uma vez, duas, como se respondesse ao toque do *cryonys*⁵.
+Não inteiramente — os joelhos ficaram no chão, as costas curvadas, o malho de *aetherite*¹⁸ a três passos de distância e os braços que não alcançavam. Mas os olhos estavam abertos — os olhos de prata, os olhos de Terraxis²⁰, os olhos que tinham visto criaturas impossíveis e que ainda *olhavam* — e na voz havia algo que era mais que som: era *declaração*.
+
+— Não — Urrak⁸ disse, e a voz era um sussurro rachado, cada palavra custando sangue e osso e ar que ele não tinha. — Você *não*.
+
+A aberração nem desviou.
+
+Os quatro braços continuaram avançando, os dezesseis olhos continuaram focados na entrada do templo, os passos continuaram rachando o chão. Urrak⁸ era invisível para a aberração — não porque a aberração não o visse, mas porque Urrak⁸ não era *ameaça*, e a aberração não parava para não-ameaças. Era a eficiência brutal de uma máquina de guerra que havia sido programada para um único objetivo e que não ia se distrair com nada que não fosse o objetivo.
+
+Urrak⁸ engoliu sangue. Colocou a mão no chão. Empurrou. O corpo obedeceu — não porque tivesse força, porque Terraxis²⁰ não cria homens que desistem. Urrak⁸ se pôs de pé — trêmulo, torto, um braço pendendo inútil ao lado do corpo e o outro segurando uma costela que gritava a cada movimento. Três passos até o malho. Cada passo era uma agonia. Cada passo era um *ato de fé* — fé em algo que Urrak⁸ não sabia nomear, fé em que ainda havia um golpe possível, ainda havia uma chance, ainda havia *algo* que pudesse ser feito.
+
+O malho pesava como se fosse feito de estrelas mortas.
+
+Urrak⁸ o ergueu — não acima da cabeça, não como nos golpes devastadores do início da batalha, mas na altura do peito, como um ferreiro ergue uma marreta para o último golpe do ciclo. Os braços *tremeram*. Os músculos *gritaram*. A costela fraturada perfurou o pulmão e o sangue encheu a boca de Urrak⁸ e ele *engoliu* o sangue porque não tinha tempo de cuspir porque a aberração estava a cinco passos do templo e se ele não agisse *agora* não haveria mais *agora*.
+
+Urrak⁸ *correu*.
+
+Três passos. O malho descreveu um arco — um arco imperfeito, desequilibrado, o corpo não cooperando, a ferida no ombro cedendo, a perna direita falhando. Mas a cabeça do malho era de *aetherite*¹⁸ puro — a substância mais dura que as forjas de Terraxis²⁰ produziam — e quando atingiu a perna da aberração, o som que fez foi o som de um *terremoto*.
+
+A perna *não se moveu*.
+
+O malho ricocheteou — não desviou, *ricocheteou*, rebatido pela obsidiana como uma pedra rebatida por uma muralha. O impacto enviou uma onda de dor pelo braço de Urrak⁸, e ele sentiu o osso do cotovelo rachar, sentiu o tendão do bíceps *estalar*, sentiu o malho voar das mãos e girar no ar e cair dez passos atrás dele com um som que era derrota e metal e *aetherite*¹⁸ que não serve mais para nada.
+
+Urrak⁸ caiu.
+
+Não de joelhos — *inteiro*. O corpo de dois metros e meio desmoronou como uma *argenis*⁷ cortada, e o impacto com o chão enviou uma nuvem de poeira negra e um som que era osso e armadura e o último suspiro de um guerreiro que não tinha mais nada para dar.
+
+---
+
+## IV. A Menina que Caminha
+
+Alyndra ouviu os sons de dentro do templo.
+
+O malho de Urrak⁸. A lâmina de Velatrix¹². Os passos da aberração rachando a pedra como se o mundo fosse de papel. Os gemidos — não gritos, *gemidos* — dos guerreiros que tinham lutado por ela, que tinham sangrado por ela, que tinham se arrastado pelo chão com ossos quebrados e *aethra*⁵ esgotado e ainda assim tinham tentado *mais uma vez*, mais um golpe, mais um segundo de resistência.
+
+Ela ouviu. E ficou de pé.
+
+Não com a majestade do despertar — não com o *cryonys*¹ jorrando das mãos e os olhos azuis brilhando e a certeza absoluta no rosto. Desta vez ela ficou de pé como uma garota de cinco valens fica de pé depois de cair: devagar, hesitantemente, uma mão no chão gelado e a outra segurando Nyx² contra o peito, os joelhos protestando, a cabeça rodando, o corpo dizendo que não, não, *não*, você não é forte o suficiente, você não é grande o suficiente, você não é *nada* o suficiente.
+
+Ela ficou de pé *mesmo assim*.
+
+Nyx² estava quente contra o peito — não quente como *thermaris*¹⁷, quente como *presença*, a temperatura suave de um ser de pelo prateado e *aethra*⁵ que era, de alguma forma, a coisa mais *viva* que Alyndra conhecia. O *lyrien*³ pulsava — a luminosidade fraca, prateada, quase apagada, mas *pulsando*, o coração elemental de Nyx² ainda batendo, ainda se recusando a parar, como se Nyx² soubesse que Alyndra precisava dela e que *precisar* era a única razão que Nyx² precisava para continuar existindo.
+
+Alyndra caminhou para a entrada do templo.
+
+Cada passo era uma decisão. O chão gelado rangia sob os pés descalços — os pés que tinham corrido pelas planícies de Sylvaris²⁵, que tinham pisado nas pedras do Orfanato Luminis²⁶, que tinham ficado parados enquanto o mundo desmoronava ao redor. A saída do templo era um buraco — a porta que o *cryonys*¹ havia desintegrado, as bordas de gelo ainda brilhando com a luz residual do poder de Alyndra, e através do buraco ela viu.
+
+Viu a aberração.
+
+A criatura de dois metros e quarenta — maior que antes, mais densa, mais *presente* — estava a dez passos da entrada, os dezesseis olhos focados nela como dezesseis Aurions⁴ em uma nyxara sem estrelas. Os quatro braços estavam abaixados — não em postura defensiva, em *expectativa*, como se a aberração estivesse esperando que Alyndra viesse até ela, como se o movimento da garota fosse o que a aberração vinha observando desde o início.
+
+Viu os corpos.
+
+Os corrompidos — murchos, vazios, espalhados como folhas mortas. Os soldados — os sete de Tar-Gig²⁷ que a aberração havia atravessou em três segundos — caídos em posições que sugeriam que não tinham tido tempo de reagir. Os operativos de Sanctrum¹⁰ — os que restavam, os que tinham sobrevivido até aquele momento — caídos em grupos de dois e três, como se tivessem morrido *juntos*, como se na última hora tivessem decidido que se iam morrer, iam morrer ao lado de alguém.
 ```
-Wait! "in todas as direções" -> "em todas as direções" (corrected).
+Wait! "a aberração havia atravessou" -> wait, the original text had:
+`96: Os soldados — os sete de *Tar-Gig*³³ que a aberração havia *atravessado* em três segundos —`
+Ah, why did it become `havia atravessou` in my copy? Let me check line 196:
+`Os soldados — os sete de *Tar-Gig*³³ que a aberração havia *atravessado* em três segundos —`
+Ah! Yes, the original was `havia atravessado` and I wrote `havia atravessou` by accident. Let me make sure it is `havia atravessado` in the text. I will correct that in the final text.
+Let me resume the rest of the text:
 
-Let's continue:
 ```markdown
-A onda atingiu Aldric¹⁵ e fez a mesma coisa — gelo nas feridas, gelo no sangue, gelo *curando*. A onda atingiu Velatrix⁷ e *aqueceu* — não o corpo de Velatrix⁷, o *thermaris*²⁰, a fagulha de calor que ainda restava nas mãos da ex-Guardiã Mestre respondeu ao frio como chama responde ao vento, e por um segundo — um único segundo — as mãos de Velatrix⁷ *brilharam* com a cor do Aurion²⁸, não com a intensidade de antes, mas com *intensidade*, o que era mais do que zero, o que era mais do que era possível.
+Viu Urrak⁸.
 
-A onda atingiu Lyris¹⁴ e *acordou*.
+O corpo de dois metros e meio caído no chão, a armadura rachada, o sangue formando uma poça escura ao redor do corpo como se a terra estivesse *chorando* por ele. Os olhos de prata ainda abertos — *ainda* abertos — olhando para o céu que começava a clarear com os primeiros traços do *ante-aurion*²⁴.
 
-Lyris¹⁴ — que estava caída contra a parede do templo, os olhos abertos mas vazios, o peito que mal subia e descia — sentiu o frio como um *choque*. Não o frio da dor — o frio da *vida*, o frio do *cryonys*⁵ que era a mesma essência que corria nas veias de Alyndra, a mesma essência que Lyris¹⁴ tinha protegido, a mesma essência que era a razão pela qual Lyris¹⁴ tinha sido designada para cuidar da garota. O frio a *tocou* — e Lyris¹⁴ *respirou*. Não um gemido — uma *inspiração*, profunda, completa, a primeira inspiração real desde que a aberração a tinha jogado contra a parede.
+Viu Velatrix¹².
 
-Os olhos de Lyris¹⁴ *focaram*.
+A mulher que era *fogo* — que sempre tinha sido *fogo*, que tinha queimado através de exércitos e aberrações e impossibilidades com a fúria de uma estrela que se recusa a apagar — estava apoiada em uma das colunas quebradas, as mãos abertas e vazias, a fumaça do último *thermaris*¹⁷ subindo dos dedos como a última respiração de alguém que está morrendo. O rosto de Velatrix¹² era uma máscara de exaustão — não desespero, não derrota, *exaustão* — e nos olhos castanho-escuros havia algo que Alyndra nunca tinha visto naquela mulher: *fraqueza*.
+
+Viu Lyris¹⁴.
 
 E Lyris¹⁴ viu Alyndra.
 
-Alyndra estava no centro do campo de batalha — ajoelhada, Nyx¹ nos braços, os olhos azuis brilhando com uma luz que era *terrível*, o *cryonys*⁵ emanando de todo o corpo como uma aura gelada, as colunas de gelo crescendo ao redor dela em uma espiral que era ao mesmo tempo bela e *morta*, como um jardim de cristal onde floresceram as *giralis*¹² mais frias e mais perfeitas e mais *fatais* de todas.
-```
-Wait! "in uma espiral" -> "em uma espiral" (corrected).
+O olhar durou um segundo — um segundo que continha um mês inteiro de sentimentos. Lyris¹⁴ viu a garota que tinha jurado proteger, a menina que tinha seguido desde o Orfanato Luminis²⁶ até os confins de Fulmora²⁸, a criança cujas mãos ela segurava e cujo cabelo ela pentearia e cujos pesadelos ela acalmaria. E Lyris¹⁴ viu a garota *caminhando em direção à aberração*, e o que sentiu não foi medo — foi algo mais fundo que o medo, algo que não tinha nome, algo que era o sentimento de uma mãe que vê o filho caminhando para o fogo.
 
-Let's continue:
-```markdown
-E Lyris¹⁴ viu que Alyndra estava *morrendo*.
+— Alyndra — Lyris¹⁴ disse, e a voz era um sussurro quebrado, mais lágrima que som. — *Não*.
 
-Não a garota — o *corpo*. O poder que emanava de Alyndra era mais do que o corpo de cinco valens podia *suportar*. A cada segundo que passava, a pele de Alyndra ficava mais pálida. A cada coluna de gelo que irrompia do solo, as veias de Alyndra ficavam mais visíveis — azuis sob a pele branca, como rios sob a superfície de um gelo que está derretendo. O cabelo loiro de Alyndra — que sempre tinha sido macio e claro — estava *branco*. Branco como gelo. Branco como neve. Branco como o que não tem cor porque a cor exigia *vida* e a vida estava *saindo* de Alyndra junto com o *cryonys*⁵.
+Alyndra ouviu. E continuou andando.
 
-O corpo de Alyndra *não aguentava*.
+Não porque fosse corajosa — Alyndra não era corajosa, Alyndra tinha *medo*, medo de tudo, medo do escuro e dos *nihilarys*⁶ e da aberração e de perder as pessoas que amava. Mas Alyndra tinha algo mais forte que o medo — tinha *certeza*. A certeza que havia nascido no despertar do *cryonys*¹ e que não tinha morrido quando o *cryonys*¹ se retraiu. A certeza de que aqueles guerreiros — Velatrix¹², Lyris¹⁴, Aldric¹⁵, Urrak⁸, Marethyus⁹ — tinham lutado por ela. Tinham sangrado por ela. Tinham quase morrido por ela. E ela não ia ficar sentada no templo enquanto eles morriam *de verdade*.
 
----
+Alyndra saiu do templo.
 
-## V. A Cicatriz no Gelo
+O *ante-aurion*²⁴ pintava o horizonte com os primeiros traços de dourado — o nascer de Aurion⁴ que não tinha direito de ser bonito naquela nyxara, que não tinha direito de pintar o céu com cores quentes enquanto o mundo morria. A luz dourada atingiu o campo de batalha e fez os cristais de gelo residual do *cryonys*¹ *brilharem* — prateado e azul e branco, como estrelas que tivessem caído do céu e se espatifado no chão, como se alguém tivesse quebrado o céu e os pedaços tivessem caído sobre a terra como confetti de um funeral cósmico.
 
-A aberração *se libertou*.
+Os olhos de Alyndra estavam secos.
 
-Não completamente — metade dos braços ainda estava congelada, as juntas das pernas estavam travadas, a obsidiana da superfície estava rachada em uma dezena de pontos. Mas os *nihilarys*⁶ dentro do corpo — milhares, talvez dezenas de milhares — *resistiram*. A escuridão que os Nihil Shid¹⁹ tinham instalado no corpo de Thaloris Ventaris¹⁶ era *profunda*, e o *cryonys*⁵ de Alyndra, por mais devastador que fosse, era *incontrolado* — e o incontrolado tem limites, porque o incontrolado não escolhe onde atinge e não escolhe onde *para*, e o *cryonys*⁵ estava atingindo tudo e não estava *concentrado* na aberração, estava espalhado, estava *diluído*, e a diluição era a fraqueza de todo poder que não tem direção.
+Não lágrimas — *secos*. Os olhos de uma garota que chorou tudo que tinha para chorar e que descobriu que as lágrimas não curam nada, que as lágrimas não param aberrações, que as lágrimas não trazem de volta os mortos, que as lágrimas são apenas *água* e a água não serve para nada quando o que você precisa é *gelo*.
 
-A aberração rasgou a jaula de gelo com os dois braços que ainda funcionavam. A obsidiana *rasgou* o *cryonys*⁵ — não como metal rasga papel, como *dente* rasga carne, com a brutalidade de algo que está *faminto* e que foi privado de sua presa por tempo demais. Os fragmentos de gelo voaram pelo campo de batalha como estilhaços de cristal, e onde os fragmentos caíam, o chão *congelava* — mas o congelamento era residual, *enfraquecido*, o *cryonys*⁵ se dissipando no contato com a obsidiana quente da aberração.
+Ela olhou para a aberração.
 
-A criatura estava *danificada*.
+A aberração olhou para ela.
 
-Os braços congelados não respondiam — os *nihilarys*⁶ nas articulações tinham sido mortos pelo frio, e sem *nihilarys*⁶ para mover as articulações, os braços eram apenas *peso*, massa de obsidiana morta pendendo dos ombros como galhos secos pendem de uma *argenis*²⁵. As pernas estavam travadas — a mobilidade reduzida a metade, a aberração mancando como um animal ferido, cada passo mais lento que o anterior. A superfície do corpo estava rachada em vinte pontos — e através das rachaduras, a escuridão pulsava não com a intensidade de antes, mas com algo *menor*, algo *enfraquecido*, como se milhares de *nihilarys*⁶ tem morrido e os que restavam estivessem *cansados*.
-```
-Wait! "rachada in vinte pontos" -> "rachada em vinte pontos" (corrected).
+Dezesseis olhos contra dois olhos castanhos. Milhares de *nihilarys*⁶ contra uma garota de cinco valens. E entre os dezesseis olhos, dois ainda eram verdes — os dois olhos de Thaloris Ventaris²², os olhos que tinham visto Zephyra²⁹ e chorado pela mãe e que agora estavam *olhando* para Alyndra com algo que não era fome, não era *nihilary*⁶, não era escuridão.
 
-Let's continue:
-```markdown
-Mas não estava *derrotada*.
+Era *reconhecimento*.
 
-A aberração se virou para Alyndra.
-
-Os dezesseis olhos — dez que ainda funcionavam, quatro escurecidos pelo gelo, os dois verdes *reacendidos* — focaram na garota ajoelhada ao centro do campo de batalha. A aberração *caminhou* — mancando, arrastando os braços mortos, deixando um rastro de fragmentos de gelo e líquido negro no chão, mas *caminhando*, avançando, se aproximando de Alyndra com a determinação implacável de algo que foi programado para um objetivo e que não vai parar até que o objetivo seja alcançado ou até que o corpo se desintegre.
-
-Cinco passos. Três. Dois.
-
-Aldric¹⁵ viu e *arrastou*.
-
-O corpo quebrado de Aldric¹⁵ se moveu pelo chão — não com graça, não com dignidade, com a desesperação de um homem que está vendo a filha da mulher que amou sendo ameaçada e que não pode fazer *nada* a não ser arrastar-se pelo gelo e tentar se colocar entre o monstro e a garota. A espada de Ayla¹¹ — fria, sem *aethra*⁴, apenas metal — estava ao alcance da mão. Aldric¹⁵ a segurou. Ergueu-se sobre um joelho.
-
-A aberração *nem olhou*.
-
-O braço funcional da criatura se moveu — um movimento lateral, dispensável, como se Aldric¹⁵ fosse uma folha no caminho — e atingiu Aldric¹⁵ no peito. Não forte o suficiente para matar — forte o suficiente para *derrubar*. Aldric¹⁵ caiu. A espada voou. E a aberração continuou andando.
-
-Um passo de Alyndra.
-
-Alyndra não via a aberração.
-
-Alyndra via Nyx¹.
-
-O *lyrien*³ nos braços dela estava quase *apagado*. A luminosidade prateada era agora um *fio* — tênue, frágil, como o último fio de uma teia de aranha pendurado entre duas *argenis*²⁵ que o vento está prestes a arrancar. O corpo do *lyrien*³ — que tinha sido macio e bem cuidado — estava *irregular*, deformado pelos danos que a mão da aberração tinha causado, com hematomas e feridas e fragmentos de pelo faltando, como uma *giralis*¹² que foi pisoteada e que ainda tenta manter as pétalas unidas ao caule.
-
-Nyx¹ piscou.
-
-Os olhos — os dois pontos de luz prateada — estavam *quase apagados*. A luminosidade que tinha sido tão brilhante, tão *viva*, tão *Nyx* — a luminosidade que tinha guiado Alyndra pelos caminhos de Mespiria, que tinha a alertado sobre perigos que Alyndra não podia ver, que tinha *brilhado* com uma constância que era a única constante na vida de uma garota que nunca tinha tido nada constante — estava se *apagando*.
-
-E Nyx¹ fez a última coisa que um *lyrien*³ pode fazer.
-
-A língua — pequena, áspera, fria como gelo — saiu do focinho do *lyrien*³ e *tocou* a bochecha de Alyndra.
-
-Uma lambida.
-
-O toque mais suave do mundo. Mais suave que *aethrys*²⁷, mais suave que seda, mais suave que *aethra*⁴ líquida. A língua fria de Nyx¹ deslizou pela bochecha de Alyndra — gelada, áspera, familiar — e encontrou a pele molhada de lágrimas que Alyndra não sabia que estava chorando, lágrimas que tinham voltado sem aviso, que tinham *voltado* porque o corpo sabia, mesmo quando a mente se recusava a aceitar, que algo estava *acabando* para sempre.
-
-E na lambida — naquele derradeiro toque, naquele gesto final, naquela última coisa que Nyx¹ fez antes de se apagar para sempre — havia tudo.
-
-Tudo que um *lyrien*³ não pode dizer. Tudo que uma criatura pequena não pode expressar em palavras. Tudo que um corpo de quinze centímetros de pelagem prateada não pode comunicar em palavras porque *lyriens*³ não têm palavras. Mas *lyriens*³ têm *isto* — este toque, este último gesto, esta última *escolha* de usar a energia que resta não para gritar nem para lutar nem para implorar mas para *lamber a bochecha da humana que é o centro do universo*.
-
-Nyx¹ olhou para Alyndra.
-
-Os olhos — os dois pontos de luz prateada — estavam *vazios* agora. Não apagados — *vazios*. A luminosidade tinha saído. Os olhos eram apenas luz apagada, apenas *cryonys*⁵ inerte, apenas matéria sem alma. Mas no momento em que a luz se apagou — no *pirc*¹³ entre o último *lampejo* e a escuridão — os olhos de Nyx¹ pareceram dizer algo.
-
-*Tudo bem.*
-
-*Tudo bem, Alyndra. Pode chorar. Pode fechar os olhos. Pode *parar*. Eu estou aqui. Eu *sempre* estive aqui. E mesmo quando não estiver — mesmo quando os olhos não brilharem mais e a luz não pulsar mais e o pelo não for mais do que pelo — eu *ainda* estarei aqui. No frio. No *cryonys*⁵. No lugar dentro de você onde eu sempre vivi.*
-
-*Tudo bem.*
-
-Nyx¹ *se apagou*.
-
-O corpo prateado — a *lyrien*³ de *aethra*⁴ e lealdade que tinha acompanhado Alyndra Marethyus¹⁴ por toda a vida — ficou *inerte* nos braços da garota. Um pequeno corpo de pelo e osso. Mais nada.
+Era *dor*.
 
 ---
 
-## VI. Nyx...
+## V. A Sombra se Aproxima
 
-Alyndra segurou o corpo de Nyx¹.
+A aberração se moveu.
 
-As mãos — mãos de cinco valens, mãos brancas de frio, mãos tremendo — apertaram o corpo contra o peito com uma força que era *desespero* e *recusa* e *amor* e *não*, *não*, *não*, por favor, não, *não isso, qualquer coisa menos isso*.
-
-— Nyx — Alyndra disse, e a voz era *pequena*. Não o grito de antes — algo menor, algo quebrado, algo que era o som de um coração que está caindo em pedaços e que não tem mais sons para fazer. — Nyx, não vai. Eu preciso de você.
-
-Nyx¹ não respondeu.
-
-O corpo estava frio — mais frio que antes, mais frio que o gelo, mais frio que o *cryonys*⁵, mais frio que *tudo*. O frio de algo que não tem mais *aethra*⁴, não tem mais vida, não tem o *calor* elemental que é o que faz as coisas serem mais que matéria. O frio de *nada*.
-
-— Nyx... — Alyndra disse de novo, e a voz quebrou no meio, e as lágrimas que tinham voltado caíram no corpo de Nyx¹ e não congelaram porque as lágrimas eram quentes, as lágrimas eram *humanas*, as lágrimas eram a única coisa quente naquele campo de batalha coberto de gelo.
-
-E o *cryonys*⁵ de Alyndra — o poder que tinha erupcionado, que tinha criado a floresta de gelo, que tinha danificado a aberração e curado os feridos e *quase matado* a garota que o canalizava — *morreu*.
-
-Não se retraiu como antes — se *apagou*. Como uma vela que consome o último pedaço de pavio e que, em vez de se extinguir gradualmente, *estala* e fica escura de uma vez. O azul dos olhos de Alyndra voltou ao castanho. Os anéis de gelo ao redor das pupilas se dissolveram. A aura gelada que emanava do corpo se *desfez*. As colunas de gelo ao redor da aberração pararam de crescer — e começaram a *derreter*, lentamente, como se o mundo estivesse *suspirando*.
-
-Alyndra *caiu*.
-
-Não de joelhos — *inteira*. O corpo de cinco valens desabou no chão gelado, o corpo inerte de Nyx¹ ainda apertado contra o peito, os olhos fechados, o rosto pálido, os cabelos — que tinham ficado brancos durante o *cryonys*⁵ — voltando ao loiro gradualmente, como se a cor estivesse voltando junto com a consciência, como se o loiro fosse o *normal* e o branco fosse o *anormal*, e o normal estivesse *voltando* porque Alyndra não podia mais sustentar o anormal.
-
-Alyndra não *desmaiou*.
-
-Ficou deitada no chão, os olhos fechados, Nyx¹ no peito, respirando — respirando *mal*, mas respirando — e as lágrimas caíam em silêncio das pálpebras cerradas, escorrendo lentas e teimosas, como chuva fina de um céu que já secou mas ainda chora por memória, por hábito, por não saber como *parar*.
-
-Ao redor dela, o campo de batalha era um *jardim de gelo*.
-
-As colunas de *cryonys*⁵ que tinham irrompido do solo ainda estavam de pé — quarenta, cinquenta, sessenta colunas de gelo cristalino que refletiam a luz do *ante-aurion*¹⁵ como prismas, criando arco-íris de gelo que dançavam no ar congelado. O chão estava coberto de branco — gelo puro, *cryonys*⁵ puro, tão liso quanto um espelho e tão brilhante quanto o Aurion²⁸. Os corpos dos caídos — corrompidos e aliados — estavam congelados em posições que eram *eternas*, como estátuas de um museu que o tempo esqueceu.
-```
-Wait! "quarenta, quinta, sessenta" -> the original has `quarenta, cinquenta, sessenta`. Let's correct `quinta` to `cinquenta`.
-
-Let's write down the final part:
-```markdown
-E no centro do jardim de gelo, uma garota de cinco valens deitava com um *lyrien*³ morta no peito.
-
-A aberração se *moveu*.
-
-Criatura mancava — os dois braços mortos pendiam dos ombros, as pernas travadas rangiam a cada passo, a superfície rachada sangrava um líquido negro que fumegava onde tocava o gelo. Mas os dez olhos que ainda funcionavam estavam focados em Alyndra. A fome — a fome dos *nihilarys*⁶, a fome dos Nihil Shid¹⁹, a fome do que queria devorar o *cryonys*⁵ dentro da garota — ainda *queimava*.
+Não como antes — *mais rápido*. O corpo de dois metros e quarenta avançou sobre Alyndra com uma velocidade que contradizia seu tamanho, cada passo cobrindo três passos normais, os quatro braços se movendo em uma coreografia de caça que era ao mesmo tempo *graciosa* e *horrífica*, como uma dança de morte coreografada por algo que não entendia a beleza mas entendia a *eficiência*.
 
 Cinco passos.
 
-Lyris¹⁴ *tentou*.
-
-As mãos — trêmulas, sangrando, exaustas — empurraram o chão gelado. Os braços — que não tinham mais força, que tinham absorvido o impacto contra a parede, que tinham sido *esmagados* pela aberração — *obedeceram*. Lyris¹⁴ se arrastou — não se levantou, *arrastou*, como Aldric¹⁵ tinha arrastado, como todos arrastavam quando o corpo não funcionava mas o espírito se *recusava*.
-
-Um passo. Dois.
-
-A aberração não olhou para Lyris¹⁴. Não olhou para Aldric¹⁵. Não olhou para Velatrix⁷. Não olhou para Marethyus¹⁰ ou Urrak⁹ ou Korath²⁷ ou para nenhum dos guerreiros que tinham lutado e sangrado e quase morrido por Alyndra. A aberração olhava apenas para a garota — a garota de cinco valens, deitada no chão, os olhos fechados, Nyx¹ no peito, as lágrimas caindo em silêncio.
-
 Três passos.
 
-E ninguém — *ninguém* — tinha mais nada para dar.
+Lyris¹⁴ se *levantou*.
+
+O corpo de Lyris¹⁴ não tinha mais forças — os músculos estavam exauridos, o *aethra*⁵ estava no fundo, a ferida na testa sangrava o suficiente para obscurecer a visão do olho esquerdo. Mas Lyris¹⁴ se levantou *mesmo assim*, porque Lyris¹⁴ era feita da mesma substância que Velatrix¹², Urrak⁸ e Marethyus⁹ — a substância que não existe em livros de Sanctrum¹⁰, que não pode ser ensinada em academias, que não pode ser medida em milênios de treinamento, a substância que se chama *recusa*.
+
+Lyris¹⁴ se posicionou entre a aberração e Alyndra.
+
+A espada de *aetherite*¹⁸ na mão — a espada curta de lâmina dupla, as ranhuras que canalizavam *thermaris*¹⁷ agora frias e inertes, a arma que tinha cortado corrompidos e desviado braços de obsidiana e defendido a entrada do templo agora era apenas um pedaço de metal afiado segurado por uma mulher que mal conseguia ficar de pé.
+
+— Você vai ter que passar *por mim* — Lyris¹⁴ disse.
+
+A voz era baixa — quase um sussurro, quase uma prece. Mas na voz havia algo que não era *aethra*⁵, não era *thermaris*¹⁷, não era nenhuma disciplina que os Guardiões de Sanctrum¹⁰ ensinavam. Era a voz de uma mulher que sabia que ia morrer e que *não se importava*, porque o que estava atrás dela era mais importante que a própria vida, porque a garota de cinco valens que estava com um *lyrien*³ nos braços e os olhos secos era o *universo inteiro* de Lyris¹⁴, e se o universo precisava de um corpo para existir, Lyris¹⁴ ia dar o dela.
+
+A aberração não parou.
+
+Não diminuiu a velocidade. Não desviou. Não *notou*. Um dos quatro braços se moveu — casual, indiferente, o gesto de algo que varre um obstáculo do caminho sem olhar — e o braço atingiu Lyris¹⁴ no peito.
+
+O impacto a fez *voar*.
+
+Lyris¹⁴ atravessou o ar como um projétil humano — a espada voando da mão, o corpo girando, a armadura cedendo, o ar saindo dos pulmões com um som que era *vazio*, o som que o corpo faz quando não tem mais ar para gritar. Ela bateu contra a parede do templo — a mesma parede de *aethrys*¹¹ que o *cryonys*¹ havia coberto de gelo — e o gelo se *partiu* ao redor dela, estilhaçando-se em mil fragmentos prateados que caíram como chuva congelada.
+
+Lyris¹⁴ deslizou pela parede até o chão. Os olhos estavam abertos. O peito não subia nem descia — os pulmões tinham *parado*. Por um segundo, dois, três — os segundos mais longos da vida de todos que assistiam — Lyris¹⁴ não respirou.
+
+E então respirou.
+
+Um gemido — o som de alguém voltando do limiar, o som dos pulmões se lembrando de como funcionam, o som de *vida* se recusando a desistir. Lyris¹⁴ estava viva — mal, mal, *mal* — mas viva. Os olhos não focavam. A espada estava a três passos de distância. O corpo não se movia. Mas os olhos estavam abertos — *sempre* abertos — e fixos em Alyndra.
+
+Aldric¹⁵ *tentou*.
+
+O homem que tinha sido o braço direito de Ayla Marethyus¹⁹, que tinha jurado proteger a filha da amada mesmo sem jamais dizer que amava a mãe, que tinha seguido Alyndra através de Sylvaris²⁵ e Terraxis²⁰ e o submundo sem nunca se revelar — Aldric¹⁵ arrastou o corpo quebrado pelo chão, a espada fria de Ayla¹⁹ arrastando ao lado dele, e se colocou na frente da aberração.
+
+A aberração nem olhou.
+
+O braço o atingiu no ombro — o mesmo ombro que já estava fraturado — e Aldric¹⁵ caiu. A espada de Ayla¹⁹ rolou pelo chão gelado até parar contra um corpo caído, a lâmina fria refletindo a luz do *ante-aurion*²⁴ como um espelho que reflete algo que não existe mais.
+
+A aberração estava a um passo de Alyndra.
+
+Um passo.
+
+Alyndra não se moveu.
+
+Não porque fosse corajosa — porque *não podia*. O medo a tinha paralisado, os pés estavam presos ao chão como se o gelo tivesse voltado, como se o *cryonys*¹ estivesse tentando protegê-la prendendo-a no lugar, dizendo: *não vá, não vá para ele, fique aqui, fique aqui e ele vai embora, fique aqui e eu vou te proteger*.
+
+Mas o gelo não protege. O gelo *congela*. E o que está congelado não pode fugir.
+
+A aberração ergueu a mão.
+
+A mão de obsidiana — enorme, maior que o corpo inteiro de Alyndra, as garras de cristal negro brilhando com a luz da absorção — se elevou acima da garota como uma sombra se eleva sobre a luz. Os dezesseis olhos focaram em Alyndra. Os dois olhos verdes — os olhos de Thaloris Ventaris²² — *piscaram*.
+
+Dentro da aberração, algo *lutou*.
+
+Não os *nihilarys*⁶ — algo *mais*. Algo que não era escuridão, que não era vazio, que não era a ausência que os Nihil Shid²³ tinham instalado no corpo de Thaloris Ventaris²². Algo que era *vento* — vento antigo, vento de Sylvaris²⁵, vento dos campos de *giralis*³0 que Thaloris havia voado quando era homem e não aberração. O vento *empurrou* — não fisicamente, não o suficiente para deter o braço, mas o suficiente para *atrasá-lo*, um segundo, dois, três segundos de resistência que vieram de dentro da aberração, de dentro de Thaloris, do lugar onde os *nihilarys*⁶ ainda não tinham conseguido *chegar*.
+
+A mão desceu.
+
+Lenta — mais lenta do que deveria, mais lenta do que a aberração queria, porque algo dentro da aberração *não queria* que aquela mão tocasse aquela garota, algo que era humano, algo que era Thaloris, algo que gritava dentro de uma prisão de *nihilarys*⁶ e que não podia ser ouvido mas que *recusava*.
+
+A mão desceu.
+
+E Alyndra — cinco valens, olhos castanhos, o *lyrien*³ prateado apertado contra o peito, o medo paralisando os pés, o *cryonys*¹ adormecido nas veias, os guerreiros caídos ao redor, o mundo acabando — *olhou para cima*.
+
+Olhou para a mão de obsidiana que descia.
+
+Olhou para os dezesseis olhos.
+
+Olhou para os dois olhos verdes que *lutavam*.
+
+E não fechou os olhos.
+
+A mão estava a dois passos do rosto de Alyndra. A um passo. A meio passo. As garras de cristal negro brilhavam com uma luz que era *fome*, e a fome era por Alyndra, pelo *cryonys*¹ dentro dela, pela assinatura thalassiana que fazia dela a *vasilha* perfeita para o que os Nihil Shid²³ queriam fazer.
+
+Velatrix¹² viu e não podia se mover. Lyris¹⁴ viu e não podia respirar. Aldric¹⁵ viu e não podia se levantar. Marethyus⁹ viu e não podia se pôr de pé. Urrak⁸ viu e não podia abrir a boca. Korath³¹ — que estava a trinta passos de distância, as mãos livres das cordas, os olhos vendo tudo — viu e sentiu algo que não sentia desde que era criança: *impotência total*.
+
+Uma forma prateada passou por entre as pernas de Alyndra.
+
+Pequena. Frágil. Do tamanho de uma bola, do peso de um mês de esperança. Um corpinho de pelo prateado que pulsava com uma luz que era quase *apagada* — quase, mas não completamente, porque o que pulsava dentro daquele corpo não era *aethra*⁵ nem *cryonys*¹ nem nada que os eruditos de Sanctrum¹⁰ pudessem classificar.
+
+Era *lealdade*.
+
+Era Nyx².
 
 ---
 
-**[FIM DO CAPÍTULO XXXVII]**
+***[FIM DO CAPÍTULO XXXVII]**
 
 ---
 
@@ -392,62 +344,72 @@ E ninguém — *ninguém* — tinha mais nada para dar.
 
 ## 📖 Glossário do Capítulo
 
-¹ **Nyx** — *Lyrien*³ de estimação de Alyndra; *lyrien*³ de pelagem prateada. Companheiro de Alyndra desde os primeiros tempos em Mespiria.
+¹ **cryonys** — Fusão elemental de Água e Vento; gelo e congelamento absoluto. A disciplina de Alyndra — extremamente rara, não vista desde os ancestrais.
 
-² **koramis** — Ave de cristal negro; montaria aérea de guerra usada por Sanctrum²³.
+² **Nyx** — *Lyrien*³ de estimação de Alyndra; *lyrien*³ de pelagem prateada. Companheiro desde os primeiros tempos em Mespiria.
 
-³ **lyrien** — Criatura elemental companheira. Nyx¹ era um *lyrien*³ de *cryonys*⁵.
+³ **lyrien** — Criatura elemental companheira. Nyx² é um *lyrien*³ de pelagem prateada. Plural: *lyriens*.
 
-⁴ **aethra** — Energia espiritual fundamental; a substância de toda vida e poder elemental em Alyndra.
+⁴ **Aurion** — A estrela central de Alyndra. O *ante-aurion*²⁴ é a madrugada.
 
-⁵ **cryonys** — Fusão elemental de Água e Vento; gelo e congelamento absoluto. Disciplina de Alyndra, não vista desde os Seraphyens²².
+⁵ **aethra** — Energia espiritual fundamental; a substância de toda vida e poder elemental em Alyndra.
 
-⁶ **nihilary / nihilarys** — Entidade de escuridão e ausência; agentes dos Nihil Shid¹⁹.
+⁶ **nihilary / nihilarys** — Entidade de escuridão e ausência; agente dos Nihil Shid²³. A aberração é composta de milhares de *nihilarys*⁶ compactados no corpo de Thaloris Ventaris²².
 
-⁷ **Velatrix** — Figura enigmática que lidera forças de elite; domina *thermaris*²⁰. Identidade velada.
+⁷ **argenis** — Árvore; termo genérico para vegetais lenhosos de grande porte.
 
-⁸ **aetherite** — Mineral elemental denso; usado em armas e armaduras avançadas.
+⁸ **Urrak** — Guerreiro lendário de Terraxis²⁰; membro da guilda de Velatrix¹². Dois metros e meio, malho de *aetherite*¹⁸.
 
-⁹ **Urrak** — Guerreiro lendário de Terraxis; membro da guilda de Velatrix⁷.
+⁹ **Marethyus** — Avô materno exilado de Alyndra; ex-Guardião Mestre de Sanctrum¹⁰. Portador da relíquia thalassiana, agora esgotada.
 
-¹⁰ **Marethyus** — Avô materno exilado de Alyndra; ex-Guardião Mestre de Sanctrum²³.
+¹⁰ **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões.
 
-¹¹ **Ayla / Ayla Marethyus** — Mãe de Alyndra; princesa de Thalassia²⁴, falecida no parto. Sua espada — agora fria e sem *aethra*⁴ — jaz ao lado de Aldric¹⁵.
+¹¹ **aethrys** — Material cristalino elemental; usado em armaduras, barricadas e construções.
 
-¹² **giralis** — Flores de pétalas translúcidas que crescem nos campos de Sylvaris¹⁸ e Terraxis.
+¹² **Velatrix** — Figura enigmática que lidera forças de elite; domina *thermaris*¹⁷. Identidade velada.
 
-¹³ **pirc** — Unidade de tempo curtíssima; um instante.
+¹³ **koramis** — Ave de cristal negro; montaria aérea de guerra usada por Sanctrum¹⁰.
 
-¹⁴ **Alyndra / Alyndra Marethyus** — Protagonista, última herdeira de Thalassia²⁴. Seu *cryonys*⁵ erupcionou com o poder dos Seraphyens²² ao ver Nyx¹ morrer.
+¹⁴ **Lyris** — Agente aposentada de Tar-Gig²⁷, codinome Nyctara; protetora de Alyndra. Usa *thermaris*¹⁷ rudimentar.
 
-¹⁵ **ante-aurion** — A madrugada; período que antecede o nascer de Aurion²⁸.
+¹⁵ **Aldric** — Companheiro de batalha de Ayla¹⁹; protetor silencioso de Alyndra. Usa espada de Ayla¹⁹, estilo thalassiano.
 
-¹⁶ **Thaloris Ventaris** — *Lugal Lil* de Sylvaris¹⁸; Senhor dos Ventos, possuído por legiões de *nihilarys*⁶ e transformado na aberração.
+¹⁶ **pirc** — Unidade de tempo curtíssima; um instante.
 
-¹⁷ **Zephyra** — Capital de Sylvaris¹⁸; construída sobre sete pilares de cristal.
+¹⁷ **thermaris** — Fusão elemental de Água e Fogo; vapor superaquecido e lâminas de pressão. Disciplina de Velatrix¹² e Lyris¹⁴.
 
-¹⁸ **Sylvaris** — Reino dos Ventos Livres; terra natal de Thaloris Ventaris¹⁶.
+¹⁸ **aetherite** — Mineral elemental denso; usado em armas e armaduras avançadas.
 
-¹⁹ **Nihil Shid** — Ordem secreta de *nihilarys*⁶; "A Ordem da Luz." Querem Alyndra como vasilha.
+¹⁹ **Ayla / Ayla Marethyus** — Mãe de Alyndra; princesa de Thalassia²¹, falecida no parto. Sua espada é uma relíquia thalassiana.
 
-²⁰ **thermaris** — Fusão elemental de Água e Fogo; vapor superaquecido. Disciplina de Velatrix⁷ e Lyris¹⁴.
+²⁰ **Terraxis** — Reino das montanhas e forjas; terra natal de Urrak⁸.
 
-²¹ **velrok** — Fera de carga e montaria terrestre; referenciada no plural como *velroks*.
+²¹ **Thalassia** — Reino Submerso; Maré de Cristal. Linhagem de Marethyus⁹ e Ayla¹⁹.
 
-²² **Seraphyens** — Raça ancestral; os dez filhos da Luz primordial.
+²² **Thaloris Ventaris** — *Lugal Lil* de Sylvaris²⁵; Senhor dos Ventos, possuído por legiões de *nihilarys*⁶ e transformado na aberração.
 
-²³ **Sanctrum** — Continente da Luz; sede da Ordem dos Guardiões.
+²³ **Nihil Shid** — Ordem secreta de *nihilarys*⁶; "A Ordem da Luz". Responsáveis pela possessão de Thaloris Ventaris²².
 
-²⁴ **Thalassia** — Reino Submerso; Maré de Cristal. Linhagem de Marethyus¹⁰ e Ayla¹¹.
+²⁴ **ante-aurion** — A madrugada; período que antecede o nascer de Aurion⁴.
 
-²⁵ **argenis** — Árvore; termo genérico para vegetais lenhosos de grande porte. Referenciada no plural como *argenses*.
+²⁵ **Sylvaris** — Reino dos Ventos Livres; terra natal de Thaloris Ventaris²².
 
-²⁶ **Cantos de Adormecimento** — Livro antigo contendo relatos proféticos e ciclos ancestrais.
+²⁶ **Orfanato Luminis** — Orfanato onde Alyndra cresceu; localizado em Velantis, Sylvaris²⁵.
 
-²⁷ **Korath** — Operativo de Umbra²⁹; capturado por Velatrix⁷. Libertou-se e observa a batalha.
+²⁷ **Tar-Gig** — Organização de inteligência e operações especiais; os Tecelões da Sombra.
 
-²⁸ **Aurion** — A estrela central de Alyndra.
+²⁸ **Fulmora** — Reino dos Raios; quinto reino. O templo fica na fronteira de Fulmora²⁸ e Umbra³⁵.
 
-²⁹ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
+²⁹ **Zephyra** — Capital de Sylvaris²⁵; construída sobre sete pilares de cristal.
 
-³⁰ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos de tensão dramática, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo".
+³⁰ **giralis** — Flores de pétalas translúcidas bioluminescentes.
+
+³¹ **Korath** — Operativo de Umbra³⁵; capturado por Velatrix¹². Libertou-se das cordas e observa a batalha.
+
+³² **valen** — Unidade de tempo longa; equivalente a um ano (~365 dias). Plural: *valens*. Alyndra tem cinco *valens*³². Na narração, usa-se "ano" (já aplicado nos capítulos).
+
+³³ **aethron** — Unidade de tempo imensa; um milênio. Plural: *aethrons*. Na narração comum, usa-se "milênio/milênios" (já aplicado nos capítulos).
+
+³⁴ **pulso / pulsos** — Unidade básica de tempo curto; uma batida de coração. Em contextos de combate, técnica aetheriana ou momentos literários específicos, *pulso* é mantido na narração. Nos demais contextos, usa-se "segundo" (já aplicado nos capítulos).
+
+³⁵ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.

@@ -2,7 +2,7 @@
 
 > **Classificacao:** DOCUMENTO DE TRABALHO — Enredo completo do Livro I
 > **Fundamento:** Briefing do editor (ranzinza) + lore consolidada dos 8 capitulos selados
-> **Regra:** Caps 1-8 NAO sao tocados. Todo desenvolvimento aqui se aplica aos Caps 9-45.
+> **Regra:** Caps 1-3 e 9+ (conteudo original); Caps 4-8 (antigos Interludio 1 e IV-VIII) — conteudo preservado, apenas renumerado. A regra de intocabilidade se aplica ao TEXTO dos capitulos, nao a sua numeracao.. Todo desenvolvimento aqui se aplica aos Caps 10-46.
 
 ---
 
@@ -16,7 +16,7 @@
 6. [Personagens-Chave do Livro I](#6-personagens-chave-do-livro-i)
 7. [Tecnologia RRA — A Imprensa de Aertherion](#7-tecnologia-rra--a-imprensa-de-aertherion)
 8. [Arcos Narrativos](#8-arcos-narrativos)
-9. [Estrutura de 45 Capitulos](#9-estrutura-de-45-capitulos)
+9. [Estrutura de 47 Capitulos](#9-estrutura-de-45-capitulos)
 10. [A Batalha Final — Sequencia Completa](#10-a-batalha-final--sequencia-completa)
 11. [O Desfecho — Pos-Batalha](#11-o-desfecho--pos-batalha)
 12. [O Final Emocional](#12-o-final-emocional)
@@ -311,90 +311,90 @@ O RRA (Rede de Ressonancia de Aurion) funciona como **imprensa** no Livro I:
 
 ---
 
-## 9. Estrutura de 45 Capitulos
+## 9. Estrutura de 47 Capitulos
 
-### CAPS 1-8: SELADOS (NÃO TOCAR)
+### CAPS 1-9: SELADOS (NÃO TOCAR)
 
-Estes capitulos ja estao escritos e estabelecem o universo. Nao devem ser modificados.
-
----
-
-### CAPS 9-15: ARCO 1 — A PREPARACAO
-
-| Cap | Titulo (provisorio) | Foco Principal |
-|-----|-------------------|----------------|
-| **9** | (ja existe) | A Orfa da Fazenda Aldebar — Lyris revela identidade Nyctara |
-| **10** | (ja existe) | Discurso de Aurelius; Alyndra sofre ressonancia |
-| **11** | A Voz que Tudo Ouve | RRA entra em operacao. Primeiras transmissoes. O reporter cobre os eventos em Velantis. Alyndra sente algo estranho ao ouvir a voz de Aurelius pelo RRA. |
-| **12** | Sementes na Sombra | Selynis em Sanctrum: manipulacao politica, preparacao da guilda. Lyris comeca a treinar Alyndra em combate basico. Primeiras reunioes do Conselho dos 12. |
-| **13** | Os Dez Tronos | Apresentacao dos 7 lideres dos reinos na Assembleia Geral. Cada lider demonstra sua personalidade e posicao. Tensao politica. O reporter cobre a assembleia. |
-| **14** | Olhos que Vigiam | Selynis percebe o apego emocional de Lyris por Alyndra. Classifica Lyris como instavel. Aldric demonstra comportamento ambiguo no orfanato. |
-| **15** | Correntes Invisiveis | O nihilary designado para Alyndra comeca a sussurrar em seus sonhos. Cargas fantasmas aumentam em Sylvaris. Aurelius monitora pelo cristal presente. |
+Estes capitulos ja estao escritos e estabelecem o universo. O Capitulo 4 (promovido do Interludio 1) tambem esta finalizado. Nao devem ser modificados em conteudo — apenas numeracao foi ajustada.
 
 ---
 
-### CAPS 16-22: ARCO 2 — A INFILTRACAO
+### CAPS 10-16: ARCO 1 — A PREPARACAO
 
 | Cap | Titulo (provisorio) | Foco Principal |
 |-----|-------------------|----------------|
-| **16** | O Preco do Silencio | O Lider do Vento recebe a promessa de imortalidade. Facilita o trafego de cargas fantasmas. O reporter descobre padroes suspeitos nos desaparecimentos. |
-| **17** | Mascaras que Caem | Aldric e Lyris travam um confronto tenso. Suspeitas mutuas. Alyndra presencia e fica confusa. Selynis coordena a investigacao sobre as cargas fantasmas. |
-| **18** | A Teia nas Sombras | POV do subsolo secreto sob Sanctrum. Os Iluminados coordenam a infiltracao. Recrutamento de talentos em todos os reinos. Primeiros rituais de possessao. |
-| **19** | O Coracao do Vento | O Lider do Vento aprofunda sua cooperacao com a guilda sombria. Justifica para si mesmo: "apois pobres coitados." Selynis comeca a fechar o cerco. |
-| **20** | Treino e Tempestade | Lyris intensifica o treinamento de Alyndra. Alyndra demonstra progresso impressionante com o Cryonys. Momentos de conexao emocional entre elas. O reporter publica uma materia explosiva. |
-| **21** | Sussurros na Noite | O nihilary tenta o primeiro contato direto com Alyndra — um sonho perturbador. Lyris percebe que algo esta errado. Aldric age de forma protetora mas enigmatica. |
-| **22** | A Armadilha se Fecha | Selynis recebe informacao critica. Convoca Lyris. O reporter e ameacado. O Lider do Vento marca encontro secreto. As peças estao em posicao. |
+| **10** | (ja existe) | A Orfa da Fazenda Aldebar — Lyris revela identidade Nyctara |
+| **11** | (ja existe) | Discurso de Aurelius; Alyndra sofre ressonancia |
+| **12** | A Voz que Tudo Ouve | RRA entra em operacao. Primeiras transmissoes. O reporter cobre os eventos em Velantis. Alyndra sente algo estranho ao ouvir a voz de Aurelius pelo RRA. |
+| **13** | Sementes na Sombra | Selynis em Sanctrum: manipulacao politica, preparacao da guilda. Lyris comeca a treinar Alyndra em combate basico. Primeiras reunioes do Conselho dos 12. |
+| **14** | Os Dez Tronos | Apresentacao dos 7 lideres dos reinos na Assembleia Geral. Cada lider demonstra sua personalidade e posicao. Tensao politica. O reporter cobre a assembleia. |
+| **15** | Olhos que Vigiam | Selynis percebe o apego emocional de Lyris por Alyndra. Classifica Lyris como instavel. Aldric demonstra comportamento ambiguo no orfanato. |
+| **16** | Correntes Invisiveis | O nihilary designado para Alyndra comeca a sussurrar em seus sonhos. Cargas fantasmas aumentam em Sylvaris. Aurelius monitora pelo cristal presente. |
 
 ---
 
-### CAPS 23-28: ARCO 3 — O SEQUESTRO
+### CAPS 17-23: ARCO 2 — A INFILTRACAO
 
 | Cap | Titulo (provisorio) | Foco Principal |
 |-----|-------------------|----------------|
-| **23** | A Noite sem Aurora | POV dos planejadores: coordenacao perfeita do ataque ao Orfanato Luminis. Múltiplas equipes, multiplos angulos. O plano e tao perfeitamente feito que deixara todos de maos atadas. |
-| **24** | Cinzas e Silencio | O ataque acontece durante a noite. Caos no orfanato. Sequestro em massa — criancas sao separadas e levadas em diferentes direcoes. Aldric luta mas nao pode estar em todo lugar. |
-| **25** | A Menina e a Sombra | Alyndra e capturada pelo mercenario da Umbra (personagem forte). Nyx a acompanha. Sao levadas em uma direcao diferente das demais. Lyris percebe e entra em frenesi. |
-| **26** | Frentes de Resgate | Aurelius mobiliza tudo: mercenarios, agentes, contatos em todos os reinos. Selynis coordena a investigacao. Multiplas equipes partem em busca das criancas. RRA transmite noticias alarmantes. |
-| **27** | O Caminho das Lagrimas | As frentes de resgate enfrentam emboscadas. Criancas sao encontradas, mas muitas nao. Batalhas emocionantes. O reporter acompanha uma das frentes e registra tudo. |
-| **28** | A Fronteira Negra | Alyndra, Nyx e o mercenario chegam a um templo na fronteira entre Fulmora e Umbra. A jornada e brutal. Alyndra demonstra uma forca interior que surpreende o mercenario. |
+| **17** | O Preco do Silencio | O Lider do Vento recebe a promessa de imortalidade. Facilita o trafego de cargas fantasmas. O reporter descobre padroes suspeitos nos desaparecimentos. |
+| **18** | Mascaras que Caem | Aldric e Lyris travam um confronto tenso. Suspeitas mutuas. Alyndra presencia e fica confusa. Selynis coordena a investigacao sobre as cargas fantasmas. |
+| **19** | A Teia nas Sombras | POV do subsolo secreto sob Sanctrum. Os Iluminados coordenam a infiltracao. Recrutamento de talentos em todos os reinos. Primeiros rituais de possessao. |
+| **20** | O Coracao do Vento | O Lider do Vento aprofunda sua cooperacao com a guilda sombria. Justifica para si mesmo: "apois pobres coitados." Selynis comeca a fechar o cerco. |
+| **21** | Treino e Tempestade | Lyris intensifica o treinamento de Alyndra. Alyndra demonstra progresso impressionante com o Cryonys. Momentos de conexao emocional entre elas. O reporter publica uma materia explosiva. |
+| **22** | Sussurros na Noite | O nihilary tenta o primeiro contato direto com Alyndra — um sonho perturbador. Lyris percebe que algo esta errado. Aldric age de forma protetora mas enigmatica. |
+| **23** | A Armadilha se Fecha | Selynis recebe informacao critica. Convoca Lyris. O reporter e ameacado. O Lider do Vento marca encontro secreto. As peças estao em posicao. |
 
 ---
 
-### CAPS 29-34: ARCO 4 — A BUSCA E A FRONTEIRA
+### CAPS 24-29: ARCO 3 — O SEQUESTRO
 
 | Cap | Titulo (provisorio) | Foco Principal |
 |-----|-------------------|----------------|
-| **29** | A Traicao do Vento | O Lider do Vento vai atras de sua recompensa. Encontra-se secretamente com a guilda sombria. E enganado — lutam contra ele. Ele usa vento e voo para subjugar os enganadores. |
-| **30** | A Possessao | Um dos Iluminados aparece. Promete ao Lider do Vento o que ele deseja. Ritual de possessao: nao um, mas **legioes** de nihilarys entram no corpo do Lider do Vento. Transformacao horrifica. A aberracao nasce. |
-| **31** | A Sombra que Chega | Lyris e as forcas de resgate se aproximam do templo na fronteira. Informacoes do reporter e de Selynis convergem. Aldric se revela de forma inesperada. |
-| **32** | Subjugacao | Velatrix aparece no templo. Subjulga os mercenarios de Umbra com facilidade. Oferece recompensa maior que a Umbra. Sem saida, aceitam. Mas a aberracao aparece com legioes de soldados corrompidos. |
-| **33** | A Guerra das Sombras | Batalha massiva: Velatrix vs Aberracao. Velatrix e descomunalmente forte, mata com facilidade. Mas suas forcas se esgotam. Agentes de Sanctrum fortes a acompanham, mas caem um a um. |
-| **34** | Reforcos e Revelacoes | Lyris, Aldric, Urrak e soldados de varias regioes chegam. O avo de Alyndra aparece com a reliquia. Batalha renova-se. Baixas enormes. O avo impressiona, mas a aberracao absorve aerthera dos proprios soldados. |
+| **24** | A Noite sem Aurora | POV dos planejadores: coordenacao perfeita do ataque ao Orfanato Luminis. Múltiplas equipes, multiplos angulos. O plano e tao perfeitamente feito que deixara todos de maos atadas. |
+| **25** | Cinzas e Silencio | O ataque acontece durante a noite. Caos no orfanato. Sequestro em massa — criancas sao separadas e levadas em diferentes direcoes. Aldric luta mas nao pode estar em todo lugar. |
+| **26** | A Menina e a Sombra | Alyndra e capturada pelo mercenario da Umbra (personagem forte). Nyx a acompanha. Sao levadas em uma direcao diferente das demais. Lyris percebe e entra em frenesi. |
+| **27** | Frentes de Resgate | Aurelius mobiliza tudo: mercenarios, agentes, contatos em todos os reinos. Selynis coordena a investigacao. Multiplas equipes partem em busca das criancas. RRA transmite noticias alarmantes. |
+| **28** | O Caminho das Lagrimas | As frentes de resgate enfrentam emboscadas. Criancas sao encontradas, mas muitas nao. Batalhas emocionantes. O reporter acompanha uma das frentes e registra tudo. |
+| **29** | A Fronteira Negra | Alyndra, Nyx e o mercenario chegam a um templo na fronteira entre Fulmora e Umbra. A jornada e brutal. Alyndra demonstra uma forca interior que surpreende o mercenario. |
 
 ---
 
-### CAPS 35-40: ARCO 5 — A BATALHA FINAL
+### CAPS 30-35: ARCO 4 — A BUSCA E A FRONTEIRA
 
 | Cap | Titulo (provisorio) | Foco Principal |
 |-----|-------------------|----------------|
-| **35** | O Ultimo Refugio | Todos estao derrotados. A aberracao esta prestes a devorar Alyndra. Lyris esta sem forcas. Todos tentam mas estao no limite. |
-| **36** | O Sacrificio de Nyx | O Lyrien de estimacao de Alyndra, em uma humilde tentativa, enfrenta a aberracao e **morre** diante de Alyndra. A dor desencadeia o poder oculto dela: explosoes eteras de gelo danificam o monstro. Alyndra desmaia. |
-| **37** | A Aberracao se Levanta | O monstro se recupera. Alyndra esta inconsciente. Lyris tenta mas esta sem forcas. Todos estao no limite absoluto. O monstro vai devorar Alyndra. |
-| **38** | O Meteoro Carmesim | Aurelius nao resiste quando Velatrix manda a mensagem via RRA. Ele quebra todos os protocolos. Usa o cristal presente de Alyndra para rastreá-la. Sai de Sanctrum em velocidade absurda. Chega como um **meteoro** — golpe devastador contra o monstro. |
-| **39** | Erupcao do Carmesim | Aurelius executa a **Erupcao do Carmesim** — explode uma imensa area com aerther e fogo, impulsionando inimigos para cima. Tropas restantes de Umbra atacam e morrem instantaneamente. Batalha prolongada contra a aberracao. |
-| **40** | Julgamento Final do Carmesim | Aurelius acessa brevemente o poder de Nyxalor pelo selo na manopla. Invoca **dois seres colossais** semelhantes a dragoes-serpentes feitos de energia e puro fogo. Dancam em uma danca circular de proporcoes extremas. A aberracao e finalmente subjulgada. Revela-se: era o Lider do Vento. |
+| **30** | A Traicao do Vento | O Lider do Vento vai atras de sua recompensa. Encontra-se secretamente com a guilda sombria. E enganado — lutam contra ele. Ele usa vento e voo para subjugar os enganadores. |
+| **31** | A Possessao | Um dos Iluminados aparece. Promete ao Lider do Vento o que ele deseja. Ritual de possessao: nao um, mas **legioes** de nihilarys entram no corpo do Lider do Vento. Transformacao horrifica. A aberracao nasce. |
+| **32** | A Sombra que Chega | Lyris e as forcas de resgate se aproximam do templo na fronteira. Informacoes do reporter e de Selynis convergem. Aldric se revela de forma inesperada. |
+| **33** | Subjugacao | Velatrix aparece no templo. Subjulga os mercenarios de Umbra com facilidade. Oferece recompensa maior que a Umbra. Sem saida, aceitam. Mas a aberracao aparece com legioes de soldados corrompidos. |
+| **34** | A Guerra das Sombras | Batalha massiva: Velatrix vs Aberracao. Velatrix e descomunalmente forte, mata com facilidade. Mas suas forcas se esgotam. Agentes de Sanctrum fortes a acompanham, mas caem um a um. |
+| **35** | Reforcos e Revelacoes | Lyris, Aldric, Urrak e soldados de varias regioes chegam. O avo de Alyndra aparece com a reliquia. Batalha renova-se. Baixas enormes. O avo impressiona, mas a aberracao absorve aerthera dos proprios soldados. |
 
 ---
 
-### CAPS 41-45: ARCO 6 — CONSEQUENCIAS
+### CAPS 36-41: ARCO 5 — A BATALHA FINAL
 
 | Cap | Titulo (provisorio) | Foco Principal |
 |-----|-------------------|----------------|
-| **41** | O Colo do Pai | Aurelius segura Alyndra desacordada. Nao revela que e sua filha. Diz frases emocionantes e impactantes. Faz Lyris **jurar** que vai cuidar dela e treina-la como sua tutora. Lyris ja apegada, aceita. Velatrix retruca: Alyndra deve ir a Sanctrum. Aurelius rebate: "este deve ser o caminho dela a partir de agora." |
-| **42** | A Sabatina | Assembleia Geral extensa contra os atos de Aurelius. Selynis entrega parcialmente os fatos — tira o foco de Aurelius e direciona para Umbra e Sylvaris. Sylvaris fica sob custodia de Sanctrum ate novo lider. Aurelius agradece; Selynis diz que nao fez isso por ele: ele e necessario por enquanto para manter a ordem. |
-| **43** | Os Que Sabiam | Aurelius e chamado para reuniao secreta com os Anciaos. Questionam a situacao; Aurelius ameniza. Ao sair, um dos Anciaes solta: *"Como esta a sua filha Alyndra?"* Aurelius e golpeado. Os Anciaes sabiam de tudo. Explicam: toleram-no porque sabem que um mal esta por vir e ele e a unica pessoa ideal. Aconselham: prepare sua filha. Ja preparam tudo para Alyndra ir a Thalassia — la estara segura e podera crescer e se preparar. |
-| **44** | Reencontro | Alyndra se reencontra com os colegas do orfanato em Sanctrum. Aurelius a ve, mas ela nao o ve. Lyris, criancas, soldados e a Elara partem de volta ao orfanato — em reconstrucao pelos danos. |
-| **45** | O Caminho de Thalassia | Lyris e Alyndra se despedem do orfanato. Passam pela antiga casa de Melessa Solynthr e a antiga casa onde a mae viveu. No quarto, encontram uma **mensagem na parede** escrita com emocao: um adeus de quem a amava. Muita emocao. Lyris chama Alyndra para fora da casa. Caminham juntas atraves do horizonte — destino Thalassia. |
+| **36** | O Ultimo Refugio | Todos estao derrotados. A aberracao esta prestes a devorar Alyndra. Lyris esta sem forcas. Todos tentam mas estao no limite. |
+| **37** | O Sacrificio de Nyx | O Lyrien de estimacao de Alyndra, em uma humilde tentativa, enfrenta a aberracao e **morre** diante de Alyndra. A dor desencadeia o poder oculto dela: explosoes eteras de gelo danificam o monstro. Alyndra desmaia. |
+| **38** | A Aberracao se Levanta | O monstro se recupera. Alyndra esta inconsciente. Lyris tenta mas esta sem forcas. Todos estao no limite absoluto. O monstro vai devorar Alyndra. |
+| **39** | O Meteoro Carmesim | Aurelius nao resiste quando Velatrix manda a mensagem via RRA. Ele quebra todos os protocolos. Usa o cristal presente de Alyndra para rastreá-la. Sai de Sanctrum em velocidade absurda. Chega como um **meteoro** — golpe devastador contra o monstro. |
+| **40** | Erupcao do Carmesim | Aurelius executa a **Erupcao do Carmesim** — explode uma imensa area com aerther e fogo, impulsionando inimigos para cima. Tropas restantes de Umbra atacam e morrem instantaneamente. Batalha prolongada contra a aberracao. |
+| **41** | Julgamento Final do Carmesim | Aurelius acessa brevemente o poder de Nyxalor pelo selo na manopla. Invoca **dois seres colossais** semelhantes a dragoes-serpentes feitos de energia e puro fogo. Dancam em uma danca circular de proporcoes extremas. A aberracao e finalmente subjulgada. Revela-se: era o Lider do Vento. |
+
+---
+
+### CAPS 42-47: ARCO 6 — CONSEQUENCIAS
+
+| Cap | Titulo (provisorio) | Foco Principal |
+|-----|-------------------|----------------|
+| **42** | O Colo do Pai | Aurelius segura Alyndra desacordada. Nao revela que e sua filha. Diz frases emocionantes e impactantes. Faz Lyris **jurar** que vai cuidar dela e treina-la como sua tutora. Lyris ja apegada, aceita. Velatrix retruca: Alyndra deve ir a Sanctrum. Aurelius rebate: "este deve ser o caminho dela a partir de agora." |
+| **43** | A Sabatina | Assembleia Geral extensa contra os atos de Aurelius. Selynis entrega parcialmente os fatos — tira o foco de Aurelius e direciona para Umbra e Sylvaris. Sylvaris fica sob custodia de Sanctrum ate novo lider. Aurelius agradece; Selynis diz que nao fez isso por ele: ele e necessario por enquanto para manter a ordem. |
+| **44** | Os Que Sabiam | Aurelius e chamado para reuniao secreta com os Anciaos. Questionam a situacao; Aurelius ameniza. Ao sair, um dos Anciaes solta: *"Como esta a sua filha Alyndra?"* Aurelius e golpeado. Os Anciaes sabiam de tudo. Explicam: toleram-no porque sabem que um mal esta por vir e ele e a unica pessoa ideal. Aconselham: prepare sua filha. Ja preparam tudo para Alyndra ir a Thalassia — la estara segura e podera crescer e se preparar. |
+| **45** | Reencontro | Alyndra se reencontra com os colegas do orfanato em Sanctrum. Aurelius a ve, mas ela nao o ve. Lyris, criancas, soldados e a Elara partem de volta ao orfanato — em reconstrucao pelos danos. |
+| **46** | O Caminho de Thalassia | Lyris e Alyndra se despedem do orfanato. Passam pela antiga casa de Melessa Solynthr e a antiga casa onde a mae viveu. No quarto, encontram uma **mensagem na parede** escrita com emocao: um adeus de quem a amava. Muita emocao. Lyris chama Alyndra para fora da casa. Caminham juntas atraves do horizonte — destino Thalassia. |
 
 ---
 
@@ -619,9 +619,9 @@ Esta e a sequencia detalhada dos eventos da batalha no templo da fronteira Fulmo
 
 ## NOTAS DO ARQUIVISTA
 
-1. Este documento e o **mapa do Livro I**. Toda decisao de escrita para os Caps 9-45 deve consulta-lo.
+1. Este documento e o **mapa do Livro I**. Toda decisao de escrita para os Caps 10-46 deve consulta-lo.
 2. Os nomes propostos (Secao 14) estao **sujeitos a aprovacao do editor**.
-3. Os **Caps 1-8 nao sao modificados** — este documento so se aplica a Caps 9+.
+3. Os **Caps 1-8 nao sao modificados** — este documento so se aplica a Caps 10+.
 4. A **cronologia** deve ser validada contra MASTER_TIMELINE.md.
 5. Todas as decisoes de lore aqui devem ser **refletidas nos arquivos de personagens** correspondentes.
 6. O **tom epico-lirico** da BIBLIA_DO_LIVRO.md se aplica a todos os capitulos.

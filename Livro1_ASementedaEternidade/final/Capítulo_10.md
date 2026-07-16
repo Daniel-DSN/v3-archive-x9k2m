@@ -6,407 +6,395 @@
 
 # CAPÍTULO X
 
-# A Grande Assembleia
+# O Tecido dos Dias
 
 ---
 
-*"Quando os líderes se reúnem, o mundo prende a respiração. Pois das palavras ditas em câmaras fechadas nascem guerras, pazes, e tudo o que há entre um e outro."*
+*"Há uma beleza silenciosa nos dias que não entram para a história — dias de chuva miúda, de conversas ao pé do fogo, de mãos que se tocam sem pressa. São esses dias, somados, que formam o chamado lar."*
 
 ---
 
-**I. O Pergaminho**
+**I. A Primeira Mesa**
 
-A convocação chegou ao *Orfanato Luminis*¹ sete dias antes da Assembleia.
+A manhã no *Orfanato Luminis* começava sempre da mesma forma.
 
-Veio por meios tradicionais — pois a *RRA*² ainda era um projeto confinado aos laboratórios da Torre de Aurion: um *Koramis*³ de plumagem azul-relâmpago, olhos brancos como fogo, que pousou no pátio central sob o olhar curioso das crianças. A ave carregava um pergaminho lacrado com o selo de ouro do *Guardião Mestre*⁴.
+Primeiro, o cristal de *Aetheris* — não um sino de metal, porque *Thar Elara* detestava sons agressivos, mas uma lâmina de cristal finamente lapidada que produzia uma nota suave e prolongada quando o dedo da diretora a percutia. O som se espalhava pelos dormitórios como luz líquida, e as crianças acordavam uma a uma, como flores se abrindo para a presença de *Aurion*.
 
-*Thar Elara*⁵ recebeu-o pessoalmente.
+*Alyndra* abriu os olhos e ficou imóvel por um momento, ouvindo. O vento nas *aerivas* do pátio. O chiado baixinho de *Nyx*, enroscada aos pés de sua cama. O murmúrio das crianças se vestindo, pés descalços no chão de madeira.
 
-Ela leu em silêncio, diante das crianças reunidas, e depois ergueu os olhos para *Lyris*⁶, que observava do fundo do pátio.
+Três dias desde o retorno de *Thalendris*. Três dias em que o Orfanato Luminis reabsorveu suas quarenta crianças com a eficiência silenciosa de quem fez da rotina sua forma mais elevada de proteção.
 
-— É uma convocação — Elara disse, a voz carregada de um peso que as crianças não compreenderam. — O Guardião Mestre convoca todos os líderes dos *Sete Reinos*⁷ para a primeira *Grande Assembleia*⁸ em doze valens. Será em Sanctrum, no *Salão dos Ventos*⁹.
+— Acordada? — *Kira* apareceu na porta, cabelos ruivos desgrenhados, túnica azul mal ajustada.
 
-As crianças murmuravam animadas — Sanctrum, a *Cidade de Cristal*¹⁰, que algumas só conheciam das histórias. Mas Lyris e Elara trocaram um olhar que nenhuma criança captou.
+— Acordada — Alyndra saltou da cama.
 
-*Uma assembleia geral*, Lyris pensou. *Convocada por *Aurelius*¹¹. Precisamente no momento em que a RRA² está prestes a sair dos laboratórios.*
+No refeitório, o cheiro de pão de *aethrys* recém-assado enchia o ar. As mesas compridas de madeira tinham vasos de *giralis* no centro — flores luminescentes que durante a nyxara emitiam luz azulada, mas que de dia pareciam margaridas de pétalas translúcidas.
 
-Coincidência? Ou algo mais?
+*Lyris* servia o desjejum no grande refeitório. Suas mãos cortavam o pão quente com movimentos rítmicos, distribuindo as fatias e enchendo as canecas de barro com leite de *lactharis*. Qualquer criança que olhasse para ela veria apenas uma cuidadora dedicada, uma matrona afável de ombros levemente curvados cujos cabelos grisalhos estavam presos em um coque frouxo.
 
----
+Mas a mulher que cortava o pão não estava ali. Quem estava ali era *Nyctara*. E sob a máscara da cuidadora, sua mente operava em um estado de paranoia calculada.
 
-No mesmo dia, mensageiros similares chegavam a cada capital dos Sete Reinos.
+*Três dias desde que os falsos pedintes nos cais tentaram usar um Velkora nas crianças. Três dias desde que Alyndra gerou uma onda de cryonys que arremessou um mercenário de Umbra contra a madeira do cais. O nome dela já deve estar ecoando nos corredores do norte.*
 
-Em *Zephyra*¹², *Thaloris Ventaris*¹³ recebeu o pergaminho em seu *Salão das Brisas*¹⁴, sorrindo enquanto lia, como se a convocação fosse um presente pessoal.
+— Eu vi primeiro! — *Torvin* gritou, esticando os braços.
 
-— O Velho Sábio finalmente resolveu se mexer — murmurou para *Vethran Noll*¹⁵, seu *mestre dos sussurros*¹⁶, que permanecia imóvel a seu lado. — Achou que passaria o resto da vida contemplando o umbigo na *Biblioteca de Aurion*¹⁷.
+— Você viu porque eu estava distraída — *Mira* puxou a cesta.
 
-— Ele quer apresentar a *rede de ressonância de Aurion*¹⁸ ao continente — Vethran respondeu. — Formalmente.
+Thar Elara servia leite de lactharis em canecas de cerâmica.
 
-— Sei muito bem o que ele quer, Vethran. — Thaloris dobrou o pergaminho com cuidado. — A pergunta é: o que mais ele quer?
+— Torvin. Mira. Compartilhar não é opcional. E há pão suficiente para todos.
 
-No *Monte Pyralis*¹⁹, o *Imperador Ignar Vulkarys*²⁰ leu a convocação com a expressão de quem está lendo um relatório de estoque, e não uma carta histórica.
+Alyndra sentou-se ao lado de Kira, observando a sala. *Dravyn* no canto, desenhando enquanto comia. Mira contando ameixas secas. E ali, na porta da cozinha, de braços cruzados, *Aldric*.
 
-— Grande Assembleia — disse, a voz como pedra rolando. — Doze valens desde a última. E agora, de repente, o Guardião Mestre quer conversar.
+Lyris desviou o olhar da menina para o caseiro. Apoiado no batente, ele não comia. Não conversava. Apenas observava o refeitório. A cicatriz fina em sua têmpora direita parecia mais pálida sob a luz de *Aurion*. Quando Torvin derrubou uma caneca no chão, o som do barro quebrado fez duas crianças pularem. Aldric não piscou. Seus olhos não focaram no copo quebrado — focaram nas portas duplas do salão.
 
-Ele amassou o pergaminho com uma das mãos e o jogou na fornalha mais próxima.
+*Ele não tem reflexos de jardineiro*, Lyris diagnosticou, a faca deslizando pela casca do pão. *Ele avalia saídas. Ele mapeia ameaças.*
 
-— Prepararei a *Dumu Nin Elainy*²¹ para a viagem. Que ela veja como os políticos dançam antes de aprender a cortar cabeças.
+Aldric virou o rosto lentamente, sentindo o peso do escrutínio. Seu olhar cruzou com o de Lyris. Não houve desafio. Foi uma quietude pesada, inescrutável. Ele a observou de volta com a frieza de quem está acostumado a vigiar e ser vigiado.
 
-Na *Torre do Céu*²², a *Matriarca Zerynthia*²³ leu a convocação com os olhos violeta crepitando de interesse. Seu engenheiro-chefe, *Mestre Tronus*²⁴, estava ao seu lado.
+Depois, abaixou a cabeça em um cumprimento mudo, virou-se e desapareceu na direção da estufa.
 
-— RRA, Tronus — ela disse. — Ele vai apresentar a rede oficialmente. Quer que os *vinculadores*²⁵ a ratifiquem.
+Lyris apertou o cabo da faca. *O que você é, Aldric? E de que lado está?*
 
-— E o senhor acha que vão ratificar?
+O Orfanato Luminis já não era apenas um refúgio. Estava se tornando uma trincheira. E Lyris precisava garantir que, quando as sombras viessem buscar a menina que brilhava, ela estaria pronta.
 
-— *Thaloris*²⁶ vai apoiar. *Ignar*²⁷ vai ignorar. *Torgath*²⁸ vai barganhar. *Kaelia*²⁹ vai aceitar por lealdade. Varek vai sorrir e dizer sim. — Ela sorriu, um sorriso afiado. — A pergunta é: o que *Selynis*³⁰ vai dizer?
-
-Em *Maré de Cristal*³¹, a *Nin Kaelia Marethyus*³² leu a convocação com os olhos verdes fixos no selo de ouro. Seu irmão, o *Almirante Vaelor Marethyus*³³, esperava em silêncio.
-
-— Ele está fazendo algo grande — Kaelia disse, a voz como água corrente. — Não apenas a tecnologia. Algo mais.
-
-— Como sabe?
-
-— Porque ele sabe que não estamos prontos. E ainda assim convocou a Assembleia. — Ela ergueu os olhos. — Quando um homem como Aurelius age antes do tempo, é porque o tempo está se esgotando.
-
-Em *Fortaleza de Rocha*³⁴, o *Lugal Torgath*³⁵ leu, grunhiu algo inaudível, e jogou o pergaminho para *Mestre Ouric*³⁶.
-
-— Averigue quanto *aetherite*³⁷ eles vão precisar para essa Rede. E descubra o preço que Sanctrum está disposto a pagar.
-
-Na *Cidadela Sombria*³⁸, o governador de *Umbra*⁴⁰, *Varek Nythor*³⁹ — a quem os círculos internos de Umbra chamavam, entre ironias que só eles entendiam, de Governador Fantoche — recebeu o pergaminho com um sorriso que não tocava seus olhos.
-
-— Que generoso — murmurou, a voz macia como seda. — O Guardião Mestre nos convida para sua festa.
-
-Ele guardou o pergaminho sem lê-lo até o final.
-
-Já sabia o que dizia. Seus mestres nas profundezas já lhe haviam contado, dias antes do Koramis partir.
+— Coma, Alyndra — Lyris murmurou ao passar pela cadeira da menina, pousando uma fatia quente em seu prato. A voz saiu suave, doce, maternal. Uma mentira perfeita.
 
 ---
 
-**II. O Salão dos Ventos**
+**II. O Desenhista de Símbolos**
 
-Sanctrum, em dias de Assembleia, era uma cidade transformada.
+Dravyn estava no canto do pátio, como sempre.
 
-As ruas de paralelepípedos brancos que serpenteavam entre as torres de cristal estavam cheias de comerciantes, viajantes, diplomatas e curiosos vindos de todos os reinos. As bandeiras dos Sete Reinos pendiam das janelas — o vento azul de *Sylvaris*⁴¹, o fogo vermelho de *Pyralis*⁴², a terra marrom de *Terraxis*⁴³, o raio violeta de *Fulmora*⁴⁴, a água azul-marinho de *Thalassia*⁴⁵, a sombra negra de Umbra, e a luz dourada de Sanctrum.
+O espaço entre o muro leste e a aeriva mais velha, onde a luz chegava filtrada. Ele o reivindicara há anos, não com palavras, mas com a consistência de quem está sempre no mesmo lugar.
 
-No centro da cidade, aninhado entre os pilares da *Torre de Aurion*⁴⁶, ficava o Salão dos Ventos.
+O caderno estava aberto. Sua mão se movia com rapidez.
 
-Não era a maior câmara de Sanctrum — esse título pertencia à *Sala das Decisões*⁴⁷, com suas colunas de cristal e teto abobadado. O Salão dos Ventos era menor, mais íntimo, projetado não para cerimônias públicas, mas para reuniões onde cada palavra importava. Suas paredes eram de mármore branco veiado de ouro, o teto era uma cúpula de vidro que permitia ver o céu, e no centro havia uma mesa circular de madeira escura — não de cristal, não de pedra, mas de madeira, um material raro em Sanctrum, vinda de uma única árvore que crescera no centro do continente antes da *Queda de Aetherion*⁴⁸.
+Alyndra aproximou-se.
 
-Ao redor da mesa, sete cadeiras. Uma para cada reino.
+— O que está desenhando?
 
-Os assentos não eram idênticos. Cada um refletia o reino que representava: a cadeira de Sylvaris tinha encosto de penas entrelaçadas; a de Pyralis, braços de ferro forjado em forma de chamas; a de Umbra, estofada em veludo negro que parecia absorver a luz.
+Dravyn não respondeu. Ela olhou por cima do ombro.
 
-— É uma mesa de guerra — observou alguém.
+Símbolos. Círculos entrelaçados em padrões quase matemáticos. Linhas em ângulos impossíveis. Pontos em constelações que provocavam familiaridade perturbadora.
 
-— Não — corrigiu Aurelius, que estava ao lado da cadeira de Sanctrum, a única que não tinha encosto — porque ele, como anfitrião, ficaria de pé. — É uma mesa de conversa. Guerra é o que acontece quando a conversa falha.
+E no centro: uma mulher com asas de luz.
+
+— Quem é?
+
+Ele parou.
+
+— Não sei. Apareceu na minha cabeça ontem durante a nyxara.
+
+Alyndra olhou para a figura. Algo entre o peito e a garganta, como uma lembrança.
+
+— Ela parece importante.
+
+— Todas são. Só não sei por quê. Ainda.
+
+Levantou-se e foi embora.
 
 ---
 
-A Assembleia começou ao zênite de Aurion.
+Naquela nyxara, Lyris pegou o caderno.
 
-Os líderes entraram um a um, acompanhados por seus assessores e guardas, que permaneceram nas galerias superiores enquanto os chefes tomavam seus lugares.
+Folheou as páginas e parou nos símbolos.
 
-Zerynthia entrou primeiro, os olhos violeta varrendo o salão com a precisão de quem está catalogando cada saída, cada janela, cada possível ponto de emboscada. Seguida por Mestre Tronus, que carregava um medidor de frequência portátil que não largava nem durante discursos solenes.
+*Seraphyen.*
 
-Kaelia veio em seguida, o manto de escamas de prata arrastando no mármore, o Almirante Vaelor logo atrás. Seus olhos encontraram os de Aurelius por um instante, e algo passou entre eles — uma pergunta que não podia ser feita em público.
+Reconheceu cada um. Dos arquivos dos *Tar-Gig*. Das câmaras subterrâneas de *Sanctrum*.
 
-Torgath entrou com passos pesados, sua capa de pele de *urrak*⁴⁹ sobre os ombros largos. Não olhou para ninguém. Sentou-se e cruzou os braços, deixando claro que estava ali porque o contrato exigia, não por vontade própria.
+Virou para a mulher alada. O coração apertou.
 
-Ignar Vulkarys entrou como uma tempestade contida — cada movimento econômico, cada olhar medido. Sua filha, a Dumu Nin Elainy, estava ao seu lado, jovem mas com olhos que já tinham visto demais.
+— *Ayla*...
 
-Thaloris Ventaris entrou sorrindo, como se estivesse chegando a uma festa. Suas vestes fluidas ondulavam mesmo sem vento, e ele cumprimentou cada líder com uma familiaridade que os outros não retribuíam. Vethran Noll, seu mestre dos sussurros, seguia-o como uma sombra.
+Mas não. A figura tinha asas. Ayla nunca tivera. Se Dravyn não conhecia Ayla, o desenho não era cópia. Era visão.
 
-Varek Nythor, o governador de Umbra, entrou por último, e seu sorriso era o mais cordial de todos. O *Enviado Silente*⁵⁰ estava a seu lado, imóvel como uma estátua de gelo.
+*Dravyn está vendo coisas que não deveria ver.*
 
-Os assentos ao redor da mesa não estavam todos preenchidos. Alguns líderes (como o Lugal Torgath) sentaram-se pessoalmente. Outros (como a Nin Kaelia) ocuparam seus lugares enquanto seus segundos — Vaelor, no caso — permaneciam na galeria. O *Conselho dos 12*⁵¹ ocupava um nível intermediário: nem na mesa principal, nem nas galerias, mas em assentos elevados que ladeavam o salão, observando.
-
-*Selynis Thalassa*⁵² estava entre eles, no *Assento Ukam*⁵³, seus olhos percorrendo cada líder com a atenção de quem estava memorizando cada tique, cada desvio de olhar.
-
-E nas galerias superiores, apertado entre dois representantes comerciais de Terraxis que discutiam o preço do aetherite, estava *Lysias Thyrion*⁵⁴.
-
-Jovem, magro, com um caderno de notas que parecia prestes a desabar de tantas folhas soltas, Lysias era o mais novo correspondente da recém-fundada *Guilda dos Arautos do Éter*⁵⁵. Estava em Sanctrum havia três valens, e até aquele momento sua maior conquista havia sido entrevistar um vendedor de *velrok*⁵⁶ na praça central.
-
-A Grande Assembleia era sua primeira grande missão.
-
-E ele estava aterrorizado.
-
-— Lembretes — murmurou para si mesmo, abrindo o caderno. — Anotar tudo. Perguntar coisas importantes. Não vomitar.
-
-Ele não sabia, naquele momento, que sua pergunta — a primeira que faria em uma Assembleia — mudaria o rumo da conversa.
+E a pergunta: *por que agora?*
 
 ---
 
 **III. O Apresentador**
 
-Aurelius ergueu a mão, e o silêncio caiu sobre o salão.
+Na mesma tarde, *Aurelius* descia ao segundo subsolo da *Torre de Aurion*¹.
 
-— Senhores e senhoras dos Sete Reinos — disse, a voz grave e clara como um sino de cristal. — Há doze valens, não nos reuníamos assim. Doze valens em que o mundo mudou mais do que nos cem anteriores.
+O *Laboratório de Engenharia Etérica*² era um espaço abobadado, iluminado por cristais de *aetherite*³ pendentes. Cheiro de ozônio. Zumbido constante.
 
-Ele fez uma pausa, deixando as palavras ecoarem.
+*Valtheris*⁴, *En Gesh*⁵, Mestre das Ferramentas, estava diante de uma mesa de metal negro. Os dedos longos estavam manchados de fuligem azul — o resíduo característico de quem manipulava aetherite bruto há mais tempo do que deveria. Ajustou as lentes de proteção que repousavam sobre o nariz aquilino e olhou para Aurelius com a expressão de quem preferia estar com as mãos sujas do que com a boca aberta.
 
-— Hoje, convidei-os aqui para apresentar algo que pode mudá-lo ainda mais.
+— *En Me*. Chegou no momento exato. — A voz era seca, cortante como o bisel de um cristal recém-lapidado.
 
-Um sinal. As portas laterais se abriram.
+O dispositivo no centro era um cilindro de latão polido, do tamanho de um antebraço, com filamentos de aetherite em seu interior como veias de luz.
 
-*Valtheris*⁵⁷, *En Gesh*⁵⁸, Mestre das Ferramentas, entrou carregando um cilindro de latão polido do tamanho de um antebraço. Os dedos longos estavam manchados de fuligem azul — a marca do aetherite bruto — e as lentes de proteção repousavam sobre o nariz aquilino. Seus movimentos eram precisos, cuidadosos — não por hesitação, mas pela reverência de um artesão que finalmente via sua obra reconhecida.
+— Isto — Valtheris tocou o cilindro — é o *transmissor de ressonância*⁶. Comunicação instantânea por *pulsos* etéricos. Velocidade da luz. De uma torre a outra.
 
-Ele colocou o cilindro no centro da mesa.
+— Como?
 
-— Senhores — disse, a voz seca e cortante como o bisel de um cristal, ainda que os olhos revelassem a excitação de quem finalmente saía do laboratório. — Senhoras. Isto é a rede de ressonância de Aurion. RRA. Comunicação instantânea por pulsos etéricos, transmitidos através de *Torres de Ressonância*⁵⁹ construídas sobre as fundações originais de Aetherion.
+— Aetherite. Criei um campo de ressonância na frequência natural do mineral. As fundações das *Torres de Aetherion*⁷ ainda ressoam. Basta construir novos receptores sobre elas.
 
-Ele tocou o cilindro, e filamentos de aetherite em seu interior pulsaram com luz azul.
+Aurelius examinou o cilindro.
 
-— Velocidade da luz. De uma capital a outra. Sem Koramis. Sem navios. Sem dias de espera.
+— Segurança?
 
-O Imperador Ignar inclinou-se para a frente, os olhos fixos no cilindro.
+— Criptografia por ressonância única. Sem o código, o sinal é ruído estático. E as torres serão em território controlado.
 
-— E como isso funciona, exatamente?
+— Quantas para cobrir os *sete reinos*?
 
-— aetherite — Valtheris respondeu. — O mineral que forma a base de toda a nossa engenharia etérica. Criei um campo de ressonância na frequência natural do mineral. As fundações das antigas Torres ainda ressoam. Basta construir novos receptores sobre elas.
+— Sete. Uma em cada capital.
 
-— E o alcance? — perguntou Zerynthia, os olhos violeta brilhando.
+— Custo?
 
-— Sete torres. Uma em cada capital. Cobrindo todo o continente.
+— Alto. Mas uma torre dura séculos.
 
-— E a segurança? — A voz veio das arquibancadas do Conselho.
+Aurelius caminhou ao redor da mesa.
 
-Selynis Thalassa.
+— Quantas pessoas sabem?
 
-Valtheris virou-se para ela.
+— Três assistentes. E o senhor.
 
-— Criptografia por ressonância única — disse, com a confiança de quem passou valens aperfeiçoando cada detalhe. — Cada transmissão é codificada na frequência exata do cristal do receptor. Sem o código, o sinal é ruído. E as torres estarão em território controlado.
+— *Selynis* não pode saber ainda.
 
-— Controlado por quem? — Selynis insistiu, e sua voz era calma, mas carregava um fio de gelo. — Por Sanctrum? Pelos reinos individualmente? Por uma entidade neutra?
+Valtheris ergueu a sobrancelha.
 
-Valtheris hesitou.
+— Prepare uma demonstração para o *Conselho dos 12*⁸ — Aurelius continuou. — Depois, convocarei uma *assembleia geral*⁹. Esta tecnologia precisa ser de todos.
 
-— A administração...
+— Quantas torres em trinta daens?
 
-— A administração ainda não foi definida — Aurelius interrompeu, sua voz suave, mas firme. — Porque isso é algo que decidiremos juntos. Hoje.
+— Seis, talvez sete.
 
-Thaloris Ventaris sorriu, os dedos tamborilando levemente no braço de sua cadeira.
+— Construa oito. Prepare uma para *Sylvaris*.
 
-— O Guardião Mestre nos convocou para decidir, então. Que honra.
+— Sylvaris? — Valtheris repetiu, e pela primeira vez desde a chegada de Aurelius a precisão técnica deu lugar a uma nota de genuína confusão. — *En Me*, Sylvaris não tem representação no Conselho. Não há infraestrutura para suportar uma torre de ressonância. É como plantar uma semente em pedra.
 
-Havia um tom em sua voz que ninguém conseguiu identificar.
+Aurelius não respondeu. Saiu.
 
----
+Valtheris ficou com o cilindro pulsando na mão, os olhos fixos na porta que se fechava. Rodou o dispositivo entre os dedos — o gesto de um artesão examinando uma peça que ele mesmo fabricara — e franziu o cenho.
 
-**IV. O Repórter**
-
-Foi no momento de silêncio que se seguiu que a voz surgiu das galerias superiores.
-
-— Posso fazer uma pergunta?
-
-Todos os olhos se voltaram para cima. Um jovem magro, de cabelos castanhos desgrenhados e um caderno de notas que ameaçava desabar, estava de pé entre dois representantes de Terraxis.
-
-— Lysias Thyrion — ele se apresentou, a voz saindo mais aguda do que gostaria. — Correspondente da Guilda dos Arautos do Éter. Recém-fundada. Por... por Aurelius, na verdade.
-
-Ele apontou para Aurelius, depois pareceu perceber que apontar para o Guardião Mestre era inapropriado, e baixou a mão rapidamente.
-
-— A pergunta — repetiu, tentando soar profissional. — A RRA substitui os Koramis, certo? Os mensageiros alados. Mas... e se um koramis não quiser ser substituído?
-
-Silêncio.
-
-Ignar Vulkarys franziu a testa.
-
-— O que?
-
-— Digo — Lysias engoliu em seco — os Koramis são criaturas vivas. Eles têm sentimentos. Eles... eles gostam de voar com mensagens. É o propósito deles, sabe? Voar. Entregar. E de repente a gente coloca uma torre que faz o trabalho deles em um segundo, e eles ficam... desempregados.
-
-Alguém na galeria riu. Zerynthia ergueu uma sobrancelha. Varek Nythor manteve o sorriso imóvel.
-
-— Você está perguntando — Torgath disse lentamente, como se estivesse digerindo cada palavra — se os Koramis vão ficar tristes?
-
-— Bem... — Lysias hesitou. — É mais sobre o que acontece com eles. Se a RRA substitui o transporte de mensagens, os Koramis deixam de ser criados para esse fim. Eles podem voltar à natureza. Mas será que sabem? Será que eles entendem que estão livres?
-
-— Eles são aves — Ignar disse, a voz seca. — Não poetas.
-
-— Mas são aves que serviram ao continente por valen-gales! — Lysias insistiu, ganhando coragem. — A *senhora da vida*⁶⁰, do Conselho dos 12, disse que os Koramis estavam sendo esgotados pelo transporte de cilindros de chumbo. Que substituí-los por torres seria... como foi mesmo... "um ato de misericórdia com a fauna."
-
-A senhora da vida, no *Assento Yakam*⁶¹, inclinou a cabeça em reconhecimento.
-
-— De fato — ela disse. — A carga de trabalho dos Koramis vinha aumentando há décadas. Muitos morriam de exaustão nas rotas mais longas.
-
-— Então a RRA salva Koramis! — Lysias concluiu, como se tivesse descoberto algo importante. — Isso é bom, certo?
-
-— É... uma perspectiva interessante — Aurelius disse, e havia um traço de divertimento em sua voz. — Mas talvez possamos discutir o bem-estar dos Koramis depois de decidirmos o destino da rede.
-
-Lysias sentou-se, o rosto vermelho, escrevendo furiosamente em seu caderno.
-
-O Almirante Vaelor, na galeria de Thalassia, murmurou algo para si mesmo.
-
-— O primeiro repórter do continente — disse, baixinho — e ele pergunta sobre pássaros.
-
-— Pelo menos perguntou algo — a Nin Kaelia respondeu, igualmente baixo. — Os outros estão com medo de abrir a boca.
+*Sylvaris... Por quê?*
 
 ---
 
-**V. O Debate**
+**IV. A Sabatina**
 
-A discussão se estendeu por velares.
+O gabinete do Guardião Mestre cheirava a cera quente e ozônio.
 
-Zerynthia defendeu a RRA com a paixão de uma convertida. Falou sobre velocidades de transmissão, sobre eficiência energética, sobre o potencial de integração continental. Seus olhos violeta crepitavam com estática enquanto enumerava os benefícios técnicos, e Mestre Tronus, ao seu lado, acenava com a cabeça em concordância.
+Aurelius estava de pé diante da imensa janela de vidro arqueado, observando o mar engolir os últimos raios de Aurion. Sua mão direita repousava sobre o peito, onde o peso da *Manopla de Vinculação*¹⁰ exigia seu tributo silencioso.
 
-— A RRA não é apenas comunicação — Zerynthia declarou, a mão batendo na mesa. — É a espinha dorsal de um continente que não se fala há valen-gales. Fulmora pode ter protótipos operacionais em ciclo lunare se a aprovação sair hoje.
+Ele não ouviu passos. A mudança na densidade do ar o avisou.
 
-— Protótipos — Torgath repetiu, a voz pesada como pedra. — Ou seja, ainda não funciona de verdade. E quer que Terraxis pague por torres que talvez nunca transmitam nada além de esperança.
+— *mestra da informação — a quem nada escapa*¹¹ — Aurelius disse, sem se virar. — Não é costumeiro vê-la fora das catacumbas antes do velum.
 
-— Os testes em laboratório foram conclusivos — Zerynthia respondeu, os olhos se estreitando.
+*Selynis Thalassa* parou no centro da sala. Não trazia pergaminhos. Apenas a postura ereta e a frieza de vidro que a tornavam a mulher mais temida de Sanctrum.
 
-— Laboratório — Torgath grunhiu. — Eu pago mineradores para extrair aetherite das entranhas da terra. Cada torre vai precisar de toneladas. Quanto custa uma torre, Matriarca? Isso você não disse.
+— E não é costumeiro que a Suprema Ordem desperdice seus talentos mais afiados ensinando crianças a ler no oeste, *En Me* — ela respondeu, a voz perfeitamente nivelada.
 
-— O custo será dividido entre os reinos — Aurelius interveio, a voz cortando a tensão como uma lâmina. — Sanctrum absorve a maior parte. É um investimento continental, não uma conta de Terraxis.
+Aurelius virou-se devagar. O rosto do homem que carregava os *Sete Reinos* nos ombros era granito puro.
 
-Nos velares que se seguiram, Torgath voltou à carga com exigências comerciais — isenções de taxa para rotas de mineração, prioridade no fornecimento de aetherite bruto, e um assento permanente na comissão de administração da rede. Cada demanda era uma moeda de troca.
+— Aposentadoria é um direito, Selynis. Lyris encontrou paz.
 
-Ignar Vulkarys ouviu em silêncio. Sua filha, Elainy, observava cada orador com olhos que registravam tudo — e quando Kaelia falou de protocolos de segurança, a jovem dumu nin inclinou-se imperceptivelmente para a frente, como se aquela palavra tivesse um peso diferente do que esperava. Quando Ignar finalmente falou, sua voz foi como um trovão distante.
+— Paz. — Selynis caminhou até a mesa de carvalho, arrastando a ponta de um dedo pelo contorno do brasão entalhado na madeira. — Uma palavra curiosa. Especialmente quando minhas fontes me dizem que o vento no oeste está cheirando a enxofre e gelo negro.
 
-— Pyralis não precisa de palavras que viajam pelo ar. Precisa de aço que fura a carne. Mas... viemos ver. Viemos testemunhar. Não nos decepcione.
+Os olhos de Aurelius não piscaram. Sua postura não se alterou. Mas o ar na sala pareceu ficar subitamente mais pesado.
 
-Thaloris Ventaris se recostou em sua cadeira de penas, o sorriso irônico nos lábios.
+— O controle das fronteiras de Sylvaris é responsabilidade do Lugal Lil — Aurelius disse, a voz como engrenagens de bronze girando lentas. — Se há contrabandistas cruzando as linhas, a jurisdição é dele.
 
-— Torgath tem razão em cobrar números — disse, o tom casual demais para uma discussão que moldaria o continente. — Mas os números são o trabalho de Tronus, não nosso. Nosso trabalho é decidir se queremos viver no passado ou no próximo ciclo lunare.
+— Não insulte minha inteligência com burocracia. — Selynis ergueu os olhos verdes, perfurando os do Guardião Mestre. Ela não recuou diante da pressão atmosférica que a aura dele emanava. — Batedores de *Umbra* não viajam tão longe por contrabando. Eles estão caçando. E o senhor colocou a nossa melhor agente desativada exatamente na rota deles.
 
-— Sylvaris vive muito bem no passado — Ignar respondeu sem levantar os olhos, os dedos desenhando círculos lentos no braço de ferro forjado de sua cadeira. — Seus ventos não precisam de torres para soprar.
+— E o que você deduz disso?
 
-— E o fogo de Pyralis precisa de torres para queimar mais alto? — Thaloris retrucou.
+— Que o senhor escondeu algo no Orfanato Luminis. — Ela inclinou a cabeça milimetricamente. Não era uma acusação; era um fato sendo colocado sobre a mesa como uma lâmina fria. — Uma peça que o Conselho não conhece. Uma peça valiosa o bastante para despertar o apetite das sombras, e frágil o bastante para precisar de uma babá com instintos assassinos.
 
-Ignar finalmente o olhou. O silêncio entre eles durou exatamente dois segundos — o suficiente para todos na mesa sentirem o peso de uma rivalidade que não começara naquela sala.
+Aurelius sustentou o silêncio. Um silêncio ensurdecedor, que para Selynis confirmava mais do que qualquer negação.
 
-— Pyralis — Ignar disse, a voz como cinzas — não precisa de nada. Mas se as torres forem construídas, quero garantias de que minhas rotas de fornecimento de aetherite não serão interceptadas por essa rede. Nenhuma transmissão sobre minhas minas sem minha autorização.
+— Não há peça alguma — Aurelius disse finalmente, e a inabalável certeza em sua voz teria convencido qualquer pessoa em Sanctrum, exceto a mulher à sua frente. — Existem apenas crianças. Nenhuma conspiração de sua sala de sussurros mudará isso.
 
-Varek Nythor falou em seguida, e seu sorriso era tão cordial que parecia colado ao rosto.
+Selynis sustentou o olhar por mais três segundos. Não tinha o nome. Não tinha o rosto. Mas tinha a certeza de que havia sangue na água, e ela descobriria de quem era.
 
-— Umbra veio em paz — disse, a voz macia como seda. — Como sempre. Acreditamos que toda inovação merece uma chance. Que a Rede de Aurion ilumine os cantos mais escuros do continente. Inclusive os nossos.
+Deu as costas a ele, caminhando em direção à porta pesada. Antes de girar a maçaneta de bronze, olhou por cima do ombro.
 
-Ele sorriu. Ninguém soube dizer se era genuíno ou ameaça.
+— Muros de pedra e agentes antigos não seguram o que vive no escuro, Aurelius. — A voz dela era um aviso letal. — Seja o que for que o senhor enterrou em Sylvaris... reze para que eu o encontre antes que as coisas que não respiram o façam.
 
-Selynis Thalassa, do Assento Ukam, observou o sorriso do Governador com olhos que não piscavam.
+A porta se fechou com um clique metálico suave.
 
-*Ele está feliz demais*, ela pensou. *Muito feliz. Como quem já sabe o resultado antes da votação.*
+Aurelius ficou sozinho no gabinete. A máscara de granito finalmente cedeu. Ele exalou um ar que parecia preso há anos, sua mão apertando o peito com força, sentindo o segundo fantasma de uma ausência que nunca doera tanto.
 
-E então, quando o debate parecia chegar a um impasse, a Nin Kaelia falou.
-
-Sua voz era suave, mas silenciou o salão.
-
-— Thalassia apoia a RRA — disse. — Não porque seja a tecnologia mais avançada, ou porque nos trará vantagens comerciais. Apoiamos porque o mar nos ensinou que o isolamento é uma forma lenta de morte. Nosso reino é feito de ilhas, corais, arquipélagos que o oceano separa. Se esta rede pode encurtar a distância entre nós, que assim seja.
-
-Ela fez uma pausa.
-
-— Mas peço que a implementação inclua um protocolo de segurança. Toda luz projeta sombra. E quanto mais longe a voz viajar, mais longe chegarão os ouvidos que não deveriam escutar.
-
-O silêncio que se seguiu foi mais pesado que qualquer palavra.
-
-Thaloris Ventaris manteve o sorriso, mas seus olhos se estreitaram ligeiramente.
-
-— Precaução razoável — disse, com um aceno casual. — Sylvaris concorda.
+*Ela está descobrindo mais rápido do que esperava... Preciso que a Assembleia aconteça antes.*
 
 ---
 
-No Orfanato Luminis, Lyris parou de ouvir os sussurros do velkora e encarou a janela. Três valens de silêncio tinham se passado desde que Thar Elara partira para Sanctrum. As crianças dormiam. Alyndra estava deitada na cama do canto, Nyx enroscado a seus pés, os olhos fechados mas a respiração irregular de quem não dorme de verdade.
+**V. A Trincheira**
 
-Ela sabia o que estava acontecendo naquele momento. A Assembleia. A votação. A rede que poderia conectar tudo — e expor tudo.
+No dia seguinte, Lyris convidou Alyndra para um passeio nos fundos do orfanato.
 
-No pátio, sob a luz fraca de Aurion, uma figura movia-se ao longo do perímetro leste. Aldric. Ele se ajoelhava junto à base do muro onde as pedras estavam soltas — o mesmo ponto que Lyris havia identificado dias antes. Com as mãos, recolocava cada pedra no lugar, uma a uma, com a precisão silenciosa de quem não queria que ninguém ouvisse.
+— Vamos — disse, estendendo a mão. — Preciso de ajuda para contar as estacas da cerca.
 
-Lyris observou por um longo momento. *Ele não é apenas um jardineiro. Mas hoje, está reparando o muro que eu não pude reparar sozinha.*
+Alyndra foi, Nyx trotando ao lado.
 
-Ela voltou-se para a janela. *A rede vai mudar tudo. Se for aprovada, cada mensagem que eu enviar para Sanctrum poderá ser interceptada. E se não for...*
+Lyris a levou até o limite do terreno — onde o gramado dava lugar a uma vegetação mais densa, e a cerca de madeira separava o orfanato dos campos de aethrys.
 
-Alyndra se mexeu na cama.
+— Sabe contar? — Lyris perguntou, ajoelhando-se para ficar na altura dela.
 
-— Lyris? — a voz pequena veio do escuro. — A Thar Elara vai voltar?
+— Sei. Até cem.
 
-— Vai — Lyris respondeu, suavemente. — Logo.
+— Ótimo. Quero que conte quantas estacas têm neste pedaço aqui. Depois, vamos ver se os números batem com o mapa que Elara tem na biblioteca.
 
-Alyndra não perguntou mais. Fechou os olhos. E Lyris ficou ali, entre a criança que dormia e o muro que um estranho consertava, esperando notícias de um mundo que estava prestes a mudar.
+Alyndra começou a contar, séria, tocando cada estaca com o dedo.
 
----
+Lyris observou-a, mas seus olhos percorriam outro mapa — o invisível. Os ângulos de visão da estrada de acesso. Os pontos cegos entre as árvores. As depressões no terreno onde alguém poderia se esconder.
 
-**VI. A Votação**
+O orfanato era uma fortaleza disfarçada de lar. Mas uma fortaleza precisava de mais do que muros — precisava de consciência. Cada criança que soubesse onde ficavam os limites seguros era um par de olhos extra.
 
-A *Mesa dos vinculadores*⁶² votou primeiro.
+Lyris já começara a mapear. Naquela manhã, antes do cristal de aetheris tocar, ela havia percorrido o perímetro e identificado três pontos vulneráveis: o portão dos fundos, cuja tranca estava frouxa; o muro leste, onde as pedras estavam soltas perto da estufa; e a janela do porão, que não fechava direito.
 
-Thaloris Ventaris, por Sylvaris: a favor.
+Pequenas coisas. Coisas que um caseiro atento notaria e consertaria. Mas Aldric não era o único caseiro — e Lyris não confiava que ele contaria a ela se encontrasse algo.
 
-Ignar Vulkarys, por Pyralis: abstenção.
+— Vinte e três! — Alyndra anunciou, orgulhosa.
 
-Torgath, por Terraxis: a favor, com condições comerciais.
+— Vinte e três — Lyris repetiu, sorrindo. — Agora me mostra onde começa o caminho que vai para a estrada principal.
 
-Zerynthia, por Fulmora: a favor.
+Alyndra apontou para a trilha de terra que levava ao portão.
 
-Kaelia Marethyus, por Thalassia: a favor.
+— Se alguém vier por ali — Lyris disse, com um tom de jogo —, aonde você correria?
 
-Varek Nythor, por Umbra: a favor.
+A menina pensou por um momento. Depois apontou para a estufa.
 
-A maioria estava clara. Mas o Conselho dos 12 ainda precisava ratificar.
+— Lá. Tem parede de vidro, dá para ver se vem alguém.
 
-Selynis Thalassa levantou-se.
+Lyris conteve o sorriso. *Boa escolha.*
 
-— Antes de votarmos — disse, sua voz ecoando no salão silencioso — quero que conste em ata: a rede de ressonância de Aurion é uma tecnologia de comunicação instantânea. Não há precedente para isso. Não há protocolo de segurança testado. Não há garantia de que a criptografia não será quebrada.
+— E se tiver alguém na estufa? — Lyris provocou.
 
-Ela olhou diretamente para Varek Nythor.
+Alyndra franziu a testa, pensando.
 
-— E quando uma tecnologia nova é apoiada por quem menos esperávamos, é sábio perguntar: o que eles veem que nós não vemos?
+— A horta — disse finalmente. — Dá para rastejar entre os pés de aethrys.
 
-Varek Nythor sustentou seu olhar sem piscar.
+*Excelente.*
 
-— A Senhora Thalassa vê fantasmas onde há apenas progresso — disse, com um sorriso doce. — Infelizmente, essa é a maldição dos que vivem nas sombras: começam a ver sombras em toda parte.
+Lyris não disse nada. Apenas estendeu a mão e pegou a de Alyndra para voltar ao orfanato. Não era treinamento formal — não para uma criança de cinco anos. Era semeadura. Gestos pequenos que, repetidos ao longo do tempo, construiriam uma consciência de sobrevivência que nenhuma lição poderia ensinar.
 
-— Prefiro ver sombras a ser cego para elas — Selynis respondeu.
+*Ela não sabe que estou ensinando*, Lyris pensou. *Mas quando precisar, o corpo dela vai lembrar.*
 
-Aurelius ergueu a mão.
-
-— A preocupação do Assento Ukam está registrada — disse. — E será endereçada. Mas a Rede precisa de aprovação para sair do papel. Senhores do Conselho: como votam?
-
-O Conselho dos 12 votou.
-
-A favor: oito assentos.
-
-Contra: um — o Assento Ukam.
-
-Abstenção: um.
-
-A rede de ressonância de Aurion estava aprovada.
+Lyris trouxe Alyndra de volta à sala comum, onde Kira organizava um jogo de cartas com as menores. A menina ainda segurava o número vinte e três nos olhos, como quem memoriza uma senha que ainda não aprendeu a usar. Lyris observou-a por um momento — depois virou-se e caminhou em direção à estufa.
 
 ---
 
-**VII. O Silêncio Após**
+**VI. O Impasse na Estufa**
 
-Os líderes se levantaram, os cumprimentos foram trocados, os apertos de mão medidos e as promessas vagas flutuaram pelo Salão dos Ventos como pétalas em uma corrente de ar.
+O interior da estufa de vidro era úmido e quente, saturado com o cheiro de terra molhada e folhas de *mirael*. As paredes de vidro estavam embaçadas, isolando o ambiente do frio que castigava os pátios de pedra lá fora.
 
-Aurelius permaneceu de pé junto à mesa circular depois que o último assento esvaziou. Suas mãos repousavam sobre a madeira antiga — a mesma madeira que vira decisões moldar continentes. E agora, mais uma decisão havia sido tomada.
+Lyris fechou a porta atrás de si com um clique metálico.
 
-Valtheris se aproximou, rodando o cilindro de latão entre os dedos manchados de fuligem — o gesto inconsciente de um artesão examinando a peça que ele mesmo fabricara. A luz azul pulsava entre suas falanges.
+No fundo do corredor verde, ajoelhado entre os canteiros, estava Aldric. O caseiro podava raízes com a paciência metódica de quem dedicou uma vida a isso, sua túnica manchada de terra nas mangas.
 
-— En Me — disse, a voz seca cortando o silêncio do salão vazio, ainda que os olhos trajessem uma satisfação que ele não se esforçava para esconder. — Oito a favor. Começamos nesta semana?
+— As tesouras de poda perdem o fio rápido com a umidade — Lyris disse casualmente, caminhando por entre as bancadas de plantas. — Especialmente quando o homem que as usa aplica a força a partir do ombro, mantendo o pulso rigidamente travado em um ângulo de defesa.
 
-— Começamos no próximo dia — Aurelius respondeu. — A torre de Sanctrum primeiro. Depois, as outras seis.
+Aldric não parou de podar. O som metálico da tesoura continuou, rítmico e preciso.
 
-— E o cronograma?
+— Há raízes teimosas por aqui — ele murmurou, a voz áspera, sem desviar os olhos da terra. — Exigem um pulso firme para não escapar.
 
-— O mais rápido possível. Cada dia sem a rede é um dia a mais de escuridão.
+Lyris parou a três passos dele. Não fechou os punhos. Mas o ar ao seu redor mudou — um calor súbito, quase sufocante, começou a se irradiar de seu corpo. O vidro embaçou ainda mais. A umidade da estufa reagiu à temperatura em seu sangue.
 
-Valtheris assentiu e se retirou, os passos ecoando pelo mármore como engrenagens em movimento.
+— Este jardim abriga sementes raras, Aldric — ela disse, e a voz de cuidadora havia evaporado, substituída por um sussurro frio que não combinava com o calor da sala. — O tipo de semente que atrai pragas que vêm de muito longe. Pragas letais.
+
+O som da tesoura parou.
+
+Aldric levantou-se devagar. Limpou a terra das mãos na lateral da túnica. Quando se virou para Lyris, ele não parecia incomodado pelo calor. E, em um movimento fluido que contradizia completamente seus modos lentos de jardineiro, a pesada tesoura de poda girou em sua mão, acomodando-se em uma guarda baixa e invertida — a biomecânica perfeita de um homem que sabia segurar uma lâmina para abrir gargantas, não para cortar folhas.
+
+Os olhos tempestuosos do caseiro encontraram os dela. Não havia medo. Apenas o vazio implacável de quem já havia caminhado pelo inferno.
+
+— Eu conheço as pragas que tentam pular esses muros, senhora — Aldric respondeu, o tom nivelado, perfeitamente calmo, embora a ponta da tesoura estivesse milimetricamente alinhada com as costelas de Lyris. — E sei muito bem como cortá-las. Minha única preocupação... é se o calor repentino desta estufa veio para ajudar a regar, ou se veio queimar as minhas plantas.
+
+O ar vibrou entre eles. Duas mentiras de frente uma para a outra. Um jardineiro e uma babá, medindo a letalidade através de metáforas veladas.
+
+Lyris estudou a postura dele. O equilíbrio impecável. O olhar que não cedia. *Ele morreria antes de me deixar dar um passo em direção ao pátio das crianças*, ela avaliou. *Mas a lealdade de um veterano sem bandeira é sempre uma charada letal.*
+
+Lentamente, Lyris relaxou os ombros. O calor começou a se dissipar, o vapor recuando para o chão da estufa como uma maré perdendo a força.
+
+— O calor — ela disse, a voz suavizando de volta para a máscara da cuidadora — só queima o que tenta sufocar a raiz. Os brotos estão seguros comigo.
+
+Aldric manteve a guarda por mais três segundos, estudando o rosto de Lyris em busca de qualquer fratura na promessa. Depois, com a mesma fluidez, girou a tesoura de volta para a posição normal de poda. O soldado letal desapareceu, e o caseiro de ombros cansados retornou.
+
+— Então teremos uma boa colheita nesta temporada — ele murmurou, virando as costas para ela e ajoelhando-se de volta no canteiro. — Se as pragas tentarem entrar... descobrirão que o solo aqui é fundo o bastante para adubo.
+
+Lyris não disse mais nada. Girou nos calcanhares e saiu da estufa, o clique da porta de vidro soando como uma trégua frágil e temporária.
+
+O Orfanato Luminis tinha muros invisíveis e, inegavelmente, um guardião com dentes de aço. Ela só precisava descobrir se ele protegia a mesma semente que ela — ou se esperava a hora de colhê-la para um inimigo desconhecido.
 
 ---
 
-Ao lado do pilar de mármore, Lysias Thyrion escrevia furiosamente em seu caderno:
+**VII. O Relatório**
 
-*"A RRA foi aprovada. Oito assentos a favor. Um contra. A Senhora Selynis Thalassa, do Assento Ukam, votou contra — mas será que sua preocupação é com a segurança da rede, ou com algo que ela sabe e não pode dizer? O governador de Umbra, Varek Nythor, apoiou a tecnologia com um sorriso que ninguém soube interpretar. E a Nin Kaelia de Thalassia pediu precaução — 'toda luz projeta sombra', disse. Será que ela sabe algo que nós não sabemos?"*
+Na mesma nyxara, Lyris sentou-se à mesa da cozinha depois que todos dormiam.
 
-Ele parou de escrever e olhou para o salão vazio.
+Diante dela, uma folha em branco e uma pena. Não a tábua de cera — essa era para as mensagens que ninguém mais deveria ler. O papel era para o relatório oficial. O que seria enviado a Aurelius pelo próximo *mensageiro*¹².
 
-*A aprovação é o começo, não o fim. E o começo de uma rede que conecta sete reinos é também o começo de sete novos tipos de perigo.*
+Ela escreveu devagar, medindo cada palavra:
 
-Lysias não sabia que havia encontrado a história de sua vida.
+> *"En Me,*
+>
+> *Três dias se passaram desde o retorno a Velantis. A situação no orfanato Luminis permanece estável. A Semente adaptou-se à rotina sem dificuldades. Nenhuma nova manifestação desde o incidente em Thalendris.*
+>
+> *Informo que identifiquei um indivíduo de interesse no quadro do orfanato: Aldric, funcionário contratado há poucos dias para serviços de manutenção. Exibe treinamento militar avançado — possivelmente thalassiano. Não representa ameaça imediata, mas recomendo cautela.*
+>
+> *Sugiro que as defesas ao redor do orfanato sejam reforçadas de forma discreta. No momento, confio na camuflagem proporcionada pelo número de crianças — quarenta órfãos são a melhor cobertura para um. Mas camuflagem não é proteção.*
+>
+> *Aguardando instruções.*
+>
+> *L."*
 
-Ele apenas sentia — com o instinto que todo grande repórter tem — que aquela aprovação era o primeiro passo de uma jornada que nenhum dos presentes naquela sala conseguiria controlar.
+Lyris leu duas vezes.
+
+O relatório era verdadeiro — mas não a verdade inteira. Ela não mencionava que Aldric sabia o nome de Alyndra. Não mencionava que os símbolos de Dravyn se assemelhavam a glifos Seraphyen. Não mencionava que, naquela tarde, Alyndra escolhera a horta como rota de fuga e que a escolha era correta.
+
+*Se Aurelius souber que eu sei, ele vai me puxar da missão. Ou vai me matar.*
+
+Ela não sabia qual dos dois era mais provável.
+
+Molhou a cera, selou o pergaminho com o brasão do orfanato — um selo genérico, sem identificação pessoal — e entregou ao mensageiro da manhã seguinte.
+
+O relatório partiu para Sanctrum. Curto. Controlado. Inocente.
+
+E Lyris voltou a observar a escuridão.
 
 ---
 
-**[FIM DO CAPÍTULO X]**
+Amanheceu sobre o orfanato.
+
+Alyndra acordou com Nyx a lamber o rosto. O cristal de aetheris ainda não havia tocado, mas os primeiros raios de Aurion já pintavam o céu de lilás e rosa.
+
+Ela sentou-se na cama e olhou pela janela. Viu Lyris no pátio, perto da estufa, os olhos fixos no horizonte como se esperasse algo.
+
+Não sabia o que Lyris esperava. Mas sentia — com aquela intuição que as crianças têm e que os adultos perdem — que o mundo ao redor estava mudando. E que as estacas da cerca que ela contara no dia anterior não eram apenas estacas. Eram os limites de um território que, de alguma forma, precisava ser defendido.
+
+*Vinte e três estacas*, pensou. *Vinte e três passos até a estrada.*
+
+E guardou o número, sem saber por quê.
+
+---
+
+Em Sanctrum, Aurelius recebeu o relatório na mesma tarde.
+
+Leu uma vez. Leu duas vezes.
+
+*L.*, pensou. *Lyris. Sempre econômica. Sempre controlada. Mas o que não está dizendo?*
+
+Havia buracos no relatório. Pequenos, quase imperceptíveis — mas Aurelius os via. Não mencionava como Alyndra reagira ao retorno. Não mencionava os sonhos dela. Não mencionava se o cristal dourado pulsava.
+
+Lyris estava escondendo algo.
+
+A pergunta era: o quê?
+
+Ele guardou o pergaminho em uma pasta sobre a mesa. Ao lado, o rascunho da convocação da assembleia geral, ainda incompleto.
+
+*Preciso que isso aconteça antes que Selynis descubra. Antes que Lyris decida agir por conta própria. Antes que o jogo escape do meu controle.*
+
+Pegou a pena. Continuou escrevendo.
+
+---
+
+***[FIM DO CAPÍTULO X]**
 
 ---
 
@@ -414,68 +402,28 @@ Ele apenas sentia — com o instinto que todo grande repórter tem — que aquel
 
 ---
 
-
 ## 📖 Glossário do Capítulo
 
-¹ **Orfanato Luminis** — Complexo fortificado nos arredores de Velantis, Sylvaris; abrigo de Alyndra.
-² **RRA** — rede de ressonância de Aurion; sistema de comunicação instantânea por pulsos etéricos que atravessam o continente à velocidade da luz. Criada por Valtheris (En Gesh) no Laboratório de Engenharia Etérica (Torre de Aurion). Mecanismo: cilindros transmissores de latão com filamentos de aetherite convertem voz em pulsos etéricos codificados, transmitidos por Torres de Ressonância construídas sobre fundações de Aetherion. Sete torres, uma em cada capital dos reinos (Torre de Aurion/Sanctrum, Zephyra/Sylvaris, Monte Pyralis, Fortaleza de Rocha/Terraxis, Torre do Céu/Fulmora, Maré de Cristal/Thalassia, Cidadela Sombria/Umbra). Aprovada pela Grande Assembleia (8×1, único voto contra de Selynis Thalassa). Construção: engenharia de Fulmora (Vaela Zerynthia, Mestre Tronus), financiamento de Sanctrum. Operação: Guilda dos Arautos do Éter, 3 transmissões ao dia. Criptografia por ressonância única.
-³ **koramis** — Ave gigante de montaria; envergadura de até 10 passos; usada como mensageira.
-⁴ **Guardião Mestre** — Título de Aurelius Lumivael, líder da Ordem dos Guardiões e En Me de Sanctrum.
-⁵ **Thar Elara** — Diretora do Orfanato Luminis.
-⁶ **Lyris** — Ex-agente Nyctara; guardiã disfarçada de Alyndra.
-⁷ **Sete Reinos** — Sanctrum, Sylvaris, Pyralis, Terraxis, Fulmora, Thalassia, Umbra.
-⁸ **Grande Assembleia** — Reunião extraordinária dos líderes dos sete reinos; não ocorria há 12 valens.
-⁹ **Salão dos Ventos** — Câmara de assembleias em Sanctrum; mesa circular de madeira.
-¹⁰ **Cidade de Cristal** — Epíteto de Sanctrum; referência às torres de cristal que compõem a cidade.
-¹¹ **Aurelius** — Guardião Mestre (En Me); pai oculto de Alyndra.
-¹² **Zephyra** — Capital de Sylvaris; cidade flutuante.
-¹³ **Thaloris Ventaris** — Lugal Lil de Sylvaris, Senhor dos Ventos.
-¹⁴ **Salão das Brisas** — Sala privada de Thaloris Ventaris no palácio de Zephyra.
-¹⁵ **Vethran Noll** — mestre dos sussurros de Thaloris Ventaris; chefe de inteligência de Sylvaris.
-¹⁶ **mestre dos sussurros** — Título do chefe de espionagem de Sylvaris.
-¹⁷ **Biblioteca de Aurion** — Maior biblioteca do continente, localizada em Sanctrum.
-¹⁸ **rede de ressonância de Aurion** — Nome completo da RRA; tecnologia de comunicação instantânea.
-¹⁹ **Monte Pyralis** — Capital de Pyralis; vulcão onde se localiza a Cidadela das Forjas.
-²⁰ **Imperador Ignar Vulkarys** — Lugal Izi de Pyralis, Senhor do Fogo.
-²¹ **Dumu Nin Elainy** — Filha de Ignar Vulkarys; herdeira de Pyralis.
-²² **Torre do Céu** — Sede do governo de Fulmora; capital do reino dos raios.
-²³ **Matriarca Zerynthia** — Nin Nim de Fulmora, Senhora dos Raios.
-²⁴ **Mestre Tronus** — Engenheiro-chefe de Fulmora; conselheiro de Zerynthia.
-²⁵ **vinculadores** — Conselho de representantes dos reinos para decisões de infraestrutura continental.
-²⁶ **Thaloris** — Forma abreviada de Thaloris Ventaris.
-²⁷ **Ignar** — Forma abreviada de Imperador Ignar Vulkarys.
-²⁸ **Torgath** — Lugal de Terraxis (Lugal Ki); governante das montanhas e minas.
-²⁹ **Kaelia** — Forma abreviada de Nin Kaelia Marethyus.
-³⁰ **Selynis** — Forma abreviada de Selynis Thalassa, mestra da informação.
-³¹ **Maré de Cristal** — Capital de Thalassia; cidade portuária submersa parcialmente.
-³² **Nin Kaelia Marethyus** — Nin A de Thalassia, Senhora das Águas.
-³³ **Almirante Vaelor Marethyus** — Irmão da Nin Kaelia; comandante da frota thalassiana.
-³⁴ **Fortaleza de Rocha** — Capital de Terraxis; cidadela nas montanhas.
-³⁵ **Lugal Torgath** — Lugal Ki de Terraxis; governante das montanhas e minas.
-³⁶ **Mestre Ouric** — Conselheiro real de Terraxis; mestre em mineração e comércio.
-³⁷ **aetherite** — Mineral condutor etérico; base da engenharia etérica do continente.
-³⁸ **Cidadela Sombria** — Capital de Umbra; fortaleza nas montanhas negras.
-³⁹ **Varek Nythor** — Governador de Umbra; tão poderoso quanto o Guardião Mestre, mas corrompido de forma invisível. Mantém as aparências de um líder dócil enquanto um plano de tomada de poder é tramado nas profundezas. Os círculos internos de Umbra o chamam ironicamente de "Governador Fantoche" — um apelido que só eles compreendem verdadeiramente.
-⁴⁰ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
-⁴¹ **Sylvaris** — Reino dos Ventos, Florestas e Cristais; primeiro reino.
-⁴² **Pyralis** — Reino de Fogo e Forjas; segundo reino.
-⁴³ **Terraxis** — Reino de Montanhas e Minas; terceiro reino.
-⁴⁴ **Fulmora** — Reino dos Raios e Invenções; quarto reino.
-⁴⁵ **Thalassia** — Reino das Águas e Corais; quinto reino.
-⁴⁶ **Torre de Aurion** — Sede do poder de Sanctrum; abriga o Conselho dos 12 e os laboratórios.
-⁴⁷ **Sala das Decisões** — Maior câmara cerimonial de Sanctrum.
-⁴⁸ **Queda de Aetherion** — Cataclismo que destruiu a civilização primordial de Aetherion.
-⁴⁹ **urrak** — Fera de montanha de Terraxis; pele e chifres usados como material.
-⁵⁰ **Enviado Silente** — Guarda pessoal de Varek Nythor, governador de Umbra.
-⁵¹ **Conselho dos 12** — Órgão consultivo de Sanctrum; composto por 12 assentos.
-⁵² **Selynis Thalassa** — mestra da informação; titular do Assento Ukam do Conselho dos 12.
-⁵³ **Assento Ukam** — Assento do Conselho dos 12; ocupado por Selynis Thalassa.
-⁵⁴ **Lysias Thyrion** — Correspondente da Guilda dos Arautos do Éter; primeiro repórter do continente.
-⁵⁵ **Guilda dos Arautos do Éter** — Primeira organização de imprensa do continente.
-⁵⁶ **velrok** — Grande quadrúpede; pelagem prateada, utilizado para montaria e tração.
-⁵⁷ **Valtheris** — En Gesh, Mestre das Ferramentas; criador da RRA. Dedos cronicamente manchados de fuligem azul de aetherite, voz seca e precisão técnica que o fazem mais artesão que diplomata.
-⁵⁸ **En Gesh** — Título: "Mestre das Ferramentas"; responsável pela engenharia de Sanctrum.
-⁵⁹ **torres de ressonância** — Estruturas que transmitem os pulsos etéricos da RRA.
-⁶⁰ **senhora da vida** — Titular do Assento Yakam do Conselho dos 12; responsável pela fauna e flora.
-⁶¹ **Assento Yakam** — Quinto assento do Conselho dos 12.
-⁶² **mesa dos vinculadores** — Grupo de representantes que decide sobre infraestrutura continental.
+¹ **Torre de Aurion** — Sede do poder de Sanctrum; abriga o Conselho dos 12.
+
+² **Laboratório de Engenharia Etérica** — 2º subsolo da Torre de Aurion; onde Valtheris desenvolveu a RRA.
+
+³ **aetherite** — Mineral condutor etérico; base da engenharia etérica. Forma bruta e impura do cristal de energia, usada em dispositivos de comunicação e armazenamento de aethra. Extraída primariamente em Terraxis (Mina-Mae).
+
+⁴ **Valtheris** — En Gesh, Mestre das Ferramentas; criador da RRA. Dedos cronicamente manchados de fuligem azul de aetherite, voz seca e precisão técnica que o fazem mais artesão que diplomata. Anos de pesquisa sobre propriedades ressonantes da aetherite até conseguir o primeiro transmissor funcional.
+
+⁵ **En Gesh** — Título do Mestre das Ferramentas; responsável pela engenharia e inovação tecnológica de Sanctrum.
+
+⁶ **transmissor de ressonância** — Dispositivo central da RRA; cilindro de latão polido com filamentos de aetherite que convertem vibrações sonoras em pulsos etéricos.
+
+⁷ **Torres de Aetherion** — Fundações originais da Era Seraphyen sobre as quais as Torres de Ressonância da RRA foram construídas.
+
+⁸ **Conselho dos 12** — Órgão governante máximo de Sanctrum; composto por doze assentos.
+
+⁹ **assembleia geral** — Reunião extraordinária dos líderes dos Sete Reinos.
+
+¹⁰ **Manopla de Vinculação** — Artefato de imenso poder usado pelo Guardião Mestre de Sanctrum.
+
+¹¹ **mestra da informação** — Título honorífico de Selynis Thalassa no Conselho dos 12; responsável pela inteligência e informação do continente.
+
+¹² **mensageiro** — Sistema de mensageiros entre os reinos.

@@ -6,251 +6,241 @@
 
 # CAPÍTULO XXXIV
 
-# A Guerra das Sombras
+# Subjugação
 
-*"Não é a escuridão que mata o guerreiro. É a percepção, chegando lenta como geada, de que a escuridão não tem fim — e de que seus golpes, por mais precisos, por mais devastadores, estão lutando contra algo que não pode morrer porque já está morto."*
-
----
-
-## I. O Primeiro Choque
-
-A aberração avançou.
-
-Não como um animal ataca — como um desastre. Os quatro braços se moveram primeiro, dois para cada lado, abrindo caminho através da escuridão como se a escuridão fosse um tecido que precisava ser rasgado. Cada passo rachava o plateau de basalto em um raio de cinco passos, não pelo peso em si — a aberração era densa, sim, mas não pesada o suficiente para esmagar pedra apenas por gravidade — mas pela pressão de *aethra*¹ corrompido que vazava pelos pés e se infiltrava na terra como veneno na corrente sanguínea. As legiões de soldados possuídos avançaram atrás dela, e o som dos passos não era o som de botas em pedra — era o som de centenas de corpos se movendo em sincronia, um zumbido grave e contínuo como o de uma máquina que não pode ser desligada.
-
-Velatrix² não esperou. Esperar era uma estratégia para quem tinha tempo. Ela não tinha.
-
-— Taelus³ — ela disse, e a palavra não era um nome, era um comando. — Cerco cerrado nos flancos. Ninguém penetra o perímetro interno. Operativos de Umbra⁴ nas linhas de contenção. *koramis*⁵ em altitude de cobertura.
-
-Taelus³ — o comandante dos Tar-Gig⁶, um homem de ombros largos e mandíbula quadrada que carregava um bastão de *aethrys*⁷ carregado com módulos de pressão — não respondeu com palavras. Respondeu com ação. Os doze operativos se moveram em formação — quatro no flanco esquerdo, quatro no direito, quatro com Velatrix² no centro — e as *koramis*⁵ estacionadas nas bordas do plateau bateram as asas e subiram, criando uma barreira aérea de cristal e vigilância. Korath⁸ posicionou seus mercenários atrás dos Tar-Gig⁶, nas linhas de contenção — não como reserva, mas como muro, a última camada antes do templo.
-
-A aberração estava a quarenta metros quando Velatrix² correu.
-
-Não correu como um soldado corre — correu como um projétil. As placas de *aethrys*⁷ da armadura absorviam o atrito, e o manto negro não se agitava porque o tecido era pesado demais para se mover com o vento, e os pés não faziam som porque o *thermaris*⁹ que fluía por suas veias criava uma camada de ar sobreaquecido entre as botas e o chão que eliminava o ruído. Velatrix² cruzou os primeiros vinte metros em menos de três segundos — e quando estava a vinte metros da aberração, ergueu as duas mãos e o ar entre ela e a criatura igniu.
-
-O *thermaris*⁹ não se manifestou como fogo. Manifestou-se como lâmina.
-
-Uma lâmina de calor comprimido — invisível, exceto pelas distorções que criava no ar, como se o espaço estivesse sendo cortado por um vidro invisível — disparou das mãos de Velatrix² com a velocidade de um pensamento e atingiu a aberração no ombro esquerdo. O impacto foi espetacular — a obsidiana que recobria o ombro rachou, fragmentos negros voando em todas as direções, e sob a obsidiana havia algo que não era carne e não era osso — era escuridão, a escuridão densa e pulsante dos *nihilarys*¹⁰ compactados, e a escuridão chiou quando o calor do *thermaris*⁹ a tocou, como metal sendo forjado, como água em chapa quente.
-
-A aberração urrou.
-
-O som não vinha da boca — a aberração não tinha boca no sentido convencional. Vinha de todos os lugares ao mesmo tempo, como se milhares de vozes tivessem sido comprimidas em uma garganta coletiva e estivessem tentando gritar em uníssono. O rugido fez o ar vibrar, fez as *argentis*¹¹ ao redor do templo rangerem, fez os operativos de Tar-Gig⁶ que estavam nos flancos sentirem os dentes tremerem.
-
-Velatrix² não parou para avaliar. Disparou outra lâmina. E outra. E outra.
-
-Três lâminas de calor em dois segundos — cada uma atingindo um ponto diferente da aberração: o peito, o braço direito superior, a coxa esquerda. Cada impacto rachava a obsidiana. Cada rachadura revelava mais escuridão. Cada escuridão chiava com o calor. Mas a aberração não caiu. Não recuou. Apenas oscilou — uma oscilação que durou menos de um segundo — e continuou avançando, como se as lâminas de *thermaris*⁹ fossem mosquitos em um elefante, irritantes mas inofensivas.
-
-E então os corrompidos chegaram.
+*"A verdadeira autoridade não pede permissão. Ela chega, e quem está no caminho descobre que a escolha nunca foi se moveria ou não — mas se moveria antes ou depois de ser movido."*
 
 ---
 
-## II. Lâminas de Calor
+## I. A Chegada da Tempestade
 
-Os primeiros corrompidos não vieram em formação — vieram como água. Sem ordem, sem hierarquia, sem a disciplina de um exército — apenas corpos se movendo em massa, centenas de formas que tinham sido homens e mulheres e que agora eram apenas hospedeiros, cascas humanas preenchidas por *nihilarys*¹⁰ que as controlavam com a eficiência de um maestro conduzindo uma orquestra de marionetes. As armas eram improvisadas — espadas enferrujadas, lanças partidas, pedras afiadas, até mesmo os próprios punhos em alguns casos — e os olhos estavam abertos, sem foco, sem expressão, sem a luz que torna um olho humano em um olho de pessoa. A pele de cada corrompido era manchada de azul-prateado — a cor do *aethra*¹ corrompido impregnando os tecidos como tinta na água — e os movimentos eram coordenados, não marchavam como soldados marcham, marchavam como marionetes marcham, com a sincronia de corpos que são movidos por uma vontade que não é a deles.
+Selynis Thalassa¹ não era Selynis Thalassa¹ quando a *koramis*² pousou no plateau de basalto a quinhentos metros do templo.
 
-Taelus³ e os quatro operativos do flanco esquerdo receberam a primeira onda.
+O corpo era o mesmo — a mesma estatura mediana, os mesmos ombros estreitos, o mesmo rosto que funcionava melhor como ferramenta do que como tela para emoções. A estrutura óssea era idêntica, a respiração tinha a mesma cadência controlada, os mesmos dedos longos que passavam valens digitando relatórios e analisando dados em salas escuras de Sanctrum³. Mesma mulher. Mesma pele. Mesmo sangue.
 
-Não recuaram. Os Tar-Gig⁶ não recuavam — não porque não soubessem que recuar era uma opção, mas porque tinham sido treinados para não considerar recuar uma opção. Taelus³ girou o bastão de *aethrys*⁷ em um arco e o módulo de pressão no interior disparou uma onda concussiva que atingiu cinco corrompidos simultaneamente — os corpos voaram para trás como folhas em vendaval, ossos quebrando sob a força, *nihilarys*¹⁰ sendo espremidos para fora das carcaças. O operativo ao lado de Taelus³ — Vess¹² , uma mulher magra com cicatrizes nas têmporas que carregava duas adagas de *aethrys*⁷ curtas e afiadas como lâminas de cirurgião — cortou o primeiro corrompido que atravessou a onda concussiva. O golpe entrou pelo pescoço e saiu pela nuca, e o corpo caiu sem sequer balançar. O segundo corrompido veio pela direita — Vess¹² girou, a adaga esquerda cortando o tendão de Aquiles e a direita entrando pelo olho. Dois corrompidos em menos de dois segundos.
+Mas Selynis tinha desaparecido.
 
-Mas a onda não parava.
+O que emergiu da *koramis*² era outra coisa. Usava armadura — não a armadura cerimonial dos Guardiões de Sanctrum³, não a armadura padrão das forças de defesa continentais, mas algo que parecia ter sido forjado para aquele corpo específico: placas de *aethrys*⁴ negro sobrepostas como escamas de um dragão, articulações que permitiam movimento total sem sacrificar proteção, um manto curto que caía até a cintura e que era feito de um tecido que absorvia luz como um poço absorve pedras. O elmo era aberto — expondo o rosto — mas o rosto de Selynis tinha mudado. Não fisicamente. Em expressão. A expressão de Selynis — a expressão de quem analisa, calcula, pondera — havia sido substituída por algo que não era expressão, era intenção pura. Os olhos — que nas salas de inteligência eram olhos de quem lê dados — agora eram olhos de quem processa campo de batalha, avaliando distâncias, ameaças, ângulos de ataque com a mesma eficiência que antes aplicava a planilhas e relatórios.
 
-Atrás dos primeiros cinco, mais dez. Atrás dos dez, mais vinte. Atrás dos vinte, uma massa contínua de corpos que se movia como enxame, que fluía como água, que preenchia o espaço entre o horizonte e o perímetro defensivo com a determinação implacável de algo que não sente medo e não sente dor e não sente nada que seja humano. Os corrompidos não gritavam ao morrer. Não sangravam como humanos sangram — o sangue deles era escuro, espesso, impregnado de *aethra*¹ corrompido. E quando caíam — quando uma lâmina de *aethrys*⁷ os cortava ou uma onda concussiva os derrubava ou uma explosão de *thermaris*⁹ os carbonizava — outros tomavam seu lugar. Sempre outros. Sempre mais. Como se o mundo estivesse produzindo corrompidos na mesma velocidade em que eles eram destruídos, como se a aberração fosse uma fonte que criava soldados a partir do nada.
+Os operativos Tar-Gig⁵ desceram das outras três *koramis*² que pousaram atrás da primeira. Doze ao todo — vestidos com o negro operacional de elite que distinguia os Tar-Gig⁵ das forças convencionais de Sanctrum³, armados com dispositivos de *aethrys*⁴ que Selynis havia aprovado pessoalmente meses atrás durante a última revisão do arsenal. Doze soldados de elite. Doze corpos treinados para funcionar como um único organismo. Doze armas que Selynis ativaria com a mesma eficiência com que outrora ativava filtros de dados.
 
-No centro do campo de batalha, Velatrix² lutava de um modo que faria os historiadores de Sanctrum¹³ chorarem e os poetas de Fulmora¹⁴ ficarem mudos.
+Atrás dela, o horizonte pulsava.
 
-Ela não lutava como um soldado — lutava como um fenômeno. O *thermaris*⁹ fluía por suas veias como sangue, mas não era sangue, era calor puro, e cada movimento de seus braços criava ondas de pressão térmica que varriam o campo em arcos devastadores. Um corrompido se aproximou pela esquerda — Velatrix² ergueu a palma e o ar entre ela e o corrompido detonou, uma explosão de calor concentrado que vaporizou a parte superior do corpo do corrompido e deixou apenas as pernas, que caíram como postes cortados. Dois corrompidos tentaram flanqueá-la pela direita — ela girou e o *thermaris*⁹ se manifestou como vapor sobreaquecido, o mesmo vapor que havia subjugado os mercenários de Umbra⁴ no dia anterior, mas desta vez era letal — o vapor envolveu os dois corrompidos e os cozinhou por dentro, a pele ficando vermelha e depois preta e depois caindo, como casca de árvore queimada, expondo o que restava: músculo enrijecido, osso carbonizado, *nihilary*¹⁰ chiando dentro da carcaça como inseto em chama.
+A aberração estava próxima — Lyris⁶ e Aldric⁷ tinham reportado a trilha de destruição pelo canal RRA⁸, e a assinatura de *aethra*⁹ corrompido era forte o suficiente para que Selynis a sentisse sem precisar de instrumentos. A aberração caminhava em direção ao templo. Era uma corrida. E Selynis — que nunca perdia corridas, nem mesmo as que não sabia que estava disputando — tinha chegado primeiro.
 
-Velatrix² avançou. Não em direção aos corrompidos — em direção à aberração. Cada passo era um campo de batalha em si — ondas de calor se expandiam de seus pés, criando crateras de temperatura no chão que carbonizavam qualquer corrompido que pisasse nelas. As lâminas de calor disparavam de suas mãos em sequência — não aleatória, calculada, cada lâmina atingindo um ponto diferente da aberração com a precisão de um cirurgião e a força de um vulcão. O peito. O abdômen. O braço inferior direito. O joelho. Cada impacto rachava a obsidiana. Cada rachadura revelava escuridão. Mas a aberração continuava andando, e a cada segundo que passava, Velatrix² percebia algo que não queria perceber: as rachaduras estavam se fechando.
+— Formação de cerco — Selynis disse, e a voz era baixa, precisa, sem inflexão. Não era a voz de Selynis Thalassa¹, analista de inteligência. Era a voz de Velatrix¹⁰ — a face de Sanctrum³ que existia nos relatórios como lenda e nos campos de batalha como tempestade. — Perímetro de trezentos metros ao redor do templo. Ninguém entra. Ninguém sai. Contato visual com os mercenários de Umbra¹¹ assim que estivermos em posição.
 
-Não instantaneamente — levavam segundos. Três. Quatro. Cinco. Mas se fechavam. A obsidiana se reformava, os fragmentos se reagrupavam, a superfície ficava lisa de novo como se nada tivesse acontecido. A aberração não apenas resistia aos golpes de Velatrix² — se regenerava deles.
+Os doze operativos se moveram. Não marcharam — fluíram. O movimento era coordenado, silencioso, eficiente — cada homem ocupando sua posição no perímetro como peças de um tabuleiro sendo colocadas por uma mão invisível. Selynis observou por três segundos e depois avançou.
 
-Korath⁸ lutava nas linhas de contenção com a brutalidade pragmática que o tinha tornado um dos mercenários mais caros de Umbra⁴. Dois metros e meio de altura, armadura de obsidiana que absorvia golpes como esponja absorve água, espada de *aethrys*⁷ escuro que cortava com a eficiência de uma guilhotina. Korath⁸ não era usuário elemental — não tinha *thermaris*⁹, não tinha *SinDrarys*¹⁵, não tinha a manipulação refinada de *aethra*¹ que distinguia os elites de Sanctrum¹³. O que tinha era força bruta — e no meio daquela nyxara, força bruta era suficiente. Um corrompido agarrou seu braço — Korath⁸ torceu o braço do corrompido até quebrar, usando o próprio peso do corpo do soldado contra ele. Outro corrompido tentou perfurar sua armadura com uma lança enferrujada — Korath⁸ desviou, o projétil deslizando pelo ombro de obsidiana, e respondeu com um corte diagonal que dividiu o corrompido do ombro à cintura. O corpo caiu em duas metades. As metades pararam de se mover.
+Ela caminhava em direção ao templo com o passo firme de quem não se esconde e não se desvia. As placas de *aethrys*⁴ da armadura não faziam som — o material absorvia o atrito e devolvia silêncio. O manto negro não se agitava — o tecido era pesado o suficiente para se manter imóvel mesmo no vento sulfuroso que varria o plateau. Selynis era uma sombra caminhando em direção a outras sombras, e a diferença entre ela e os mercenários de Umbra¹¹ era a diferença entre uma sombra que escolhe onde cai e uma sombra que é lançada.
 
-Mas atrás das metades, mais corrompidos. Sempre mais.
-
----
-
-## III. A Maré dos Mortos
-
-O primeiro operativo de Tar-Gig⁶ a cair foi Oren¹⁶.
-
-Não caiu pelos corrompidos — caiu pela aberração. Taelus³ tinha ordenado que os operativos mantivessem distância da criatura, que se concentrassem nas legiões enquanto Velatrix² tentava causar dano estrutural à aberração. Mas Oren¹⁶ — que era jovem, que era impulsivo, que tinha ouvido histórias sobre o que Velatrix² podia fazer e que queria ver — se aproximou demais. Um dos quatro braços da aberração — um dos braços inferiores, mais rápido do que parecia — se estendeu e o atingiu no peito. O impacto não foi violento — foi dispersivo. A armadura de *aethrys*⁷ de Oren¹⁶ absorveu o golpe, mas a força por trás do braço era tão grande — e tão carregada de *aethra*¹ corrompido — que a armadura explodiu. Fragmentos de *aethrys*⁷ voaram em todas as direções como estilhaços de vidro, e Oren¹⁶ foi lançado para trás por dez passos, caindo no chão com um som que era metal, osso e homem morrendo.
-
-Taelus³ viu.
-
-— Oren!
-
-O operativo estava deitado no chão, os olhos abertos, a respiração garganteante — o peito tinha cedido, as costelas haviam cedido, e algo dentro do peito — pulmão, talvez, ou o coração — estava fazendo um som que não era um som de coisa funcionando. Taelus³ correu até ele, caiu de joelhos ao lado, colocou as mãos sobre o peito do operativo — mas não havia *aethrys*⁷ suficiente para consertar o que o braço da aberração tinha feito. Não havia *aethra*¹ suficiente, não havia tempo suficiente, não havia nada suficiente. Oren¹⁶ olhou para Taelus³ com olhos que estavam ficando cinzas — o *aethra*¹ corrompido da aberração já estava se infiltrando no corpo, já estava consumindo o que restava de vida — e disse algo que Taelus³ não conseguiu ouvir porque o som da batalha era alto demais, mas que os lábios de Oren¹⁶ formaram com clareza:
-
-— Continue.
-
-E Oren¹⁶ morreu.
-
-Taelus³ se levantou. Não houve momento de luto, não houve pausa para processar — porque os corrompidos não faziam pausas, e quem faz pausa em uma guerra contra mortos que andam se torna morto que não anda. Taelus³ pegou o bastão de *aethrys*⁷, ativou o módulo de pressão, e voltou para a linha de frente. Mas algo nos olhos de Taelus³ tinha mudado — não medo, não desespero, mas consciência. A consciência de que a matemática tinha começado a trabalhar contra eles. Onze Tar-Gig⁶. De doze. E a nyxara estava apenas começando.
-
-A aberração continuou avançando, e os corrompidos continuaram vindo, e o *aethra*¹ continuava diminuindo. Velatrix² sentia a drenagem a cada segundo — o *thermaris*⁹ que ela mantinha ativo exigia mais *aethra*¹ para se manter, e o *aethra*¹ disponível estava se tornando mais fino, mais fino, como se o ar estivesse ficando mais espesso e mais hostil ao mesmo tempo. Cada explosão de calor, cada lâmina de pressão, cada onda de vapor sobreaquecido — tudo exigia *aethra*¹, e o *aethra*¹ era finito. Mesmo para Velatrix².
-
-E os corrompidos não sentiam fadiga. Não sentiam dor. Não sentiam nada. Um corrompido que Velatrix² cortou ao meio continuou rastejando com os braços — a parte superior do corpo se arrastando pelo chão, as entranhas deixando um rastro no basalto, os olhos mortos ainda fixos em Velatrix² com uma atenção que era perturbadora na sua constância. Outro corrompido que Taelus³ atingiu com uma onda concussiva — o corpo voou para trás, quebrou três costelas, perfurou um pulmão — se levantou e continuou andando, sem expressão, sem hesitação, como se o conceito de dor não existisse no vocabulário dos *nihilarys*¹⁰. Um terceiro corrompido que Korath⁸ decapitou — a cabeça rolando pelo chão, os olhos ainda abertos — continuou se movendo, o corpo sem cabeça avançando dois passos antes de finalmente cair, como uma marionete cujas cordas haviam sido cortadas uma por uma.
-
-Não era combate. Era absurdo. E o absurdo era esmagador.
+À frente, os operativos de Umbra¹¹ a viram.
 
 ---
 
-## IV. A Queda
+## II. Thermaris
 
-Vess¹² foi a segunda.
+Os operativos de Umbra¹¹ era profissionais. Isso precisava ser dito — não como elogio, mas como contexto. Eram mercenários treinados nas academias subterrâneas de Umbra¹¹, onde aprendiam desde cedo que o *aethra*⁹ era uma ferramenta e que ferramentas deveriam ser usadas com precisão e sem desperdício. Conheciam protocolos de cerco, técnicas de supressão elemental, métodos de combate corpo a corpo que combinavam artes marciais com manipulação de *aethrys*⁴. Cada um deles tinha valens de experiência em missões que variavam de assassinato político a proteção de cargas valiosas. Eram bons. Eram muito bons.
 
-Morreu lutando — não havia outro modo para os Tar-Gig⁶ morrerem. Três corrompidos a cercaram simultaneamente, e Vess¹² cortou dois — a adaga esquerda entrando pelo globo ocular do primeiro, a direita cortando a garganta do segundo — mas o terceiro era mais forte que os outros, um corpo que tinha sido musculoso antes da possessão e que a possessão não tinha tornado mais fraco. O corrompido agarrou o pulso de Vess¹² e torceu — o som do osso quebrando foi seco, limpo, o som de algo que não deveria ser quebrado sendo quebrado de qualquer forma. Vess¹² soltou a adaga. O corrompido a atingiu no peito com uma cabeçada — o impacto foi surpreendente na sua violência, como se o *nihilary*¹⁰ dentro do corpo soubesse exatamente onde golpear para causar dano máximo — e Vess¹² voou para trás, caindo sobre um corrompido que Korath⁸ acabara de derrubar. Os dois corpos — um vivo, um morto, ou os dois mortos, porque era difícil dizer onde a possessão terminava e a morte começava — se embaralharam no chão.
+Não eram suficientes.
 
-Vess¹² não se levantou.
+O primeiro operativo que tentou impedir Velatrix¹⁰ foi um homem alto, com uma lança de *aethrys*⁴ comprida e uma máscara que cobria o rosto inteiro. Ele se posicionou à frente da entrada do templo com a postura de quem defende um portão — lança apontada para a frente, pés plantados, centro de gravidade baixo. Era a postura clássica dos lanceros de Umbra¹¹, ensinada em todas as academias, praticada em todos os treinamentos. Uma postura perfeita.
 
-O peito havia cedido — não como o de Oren¹⁶, que tinha sido esmagado, mas de um modo mais lento, mais insidioso. A cabeçada do corrompido tinha rachado o esterno, e os fragmentos de osso estavam se movendo dentro do peito de Vess¹² , cortando, perfurando, fazendo o que ossos não deveriam fazer a um corpo que ainda tentava respirar. O *aethra*¹ corrompido — que permeava tudo naquele campo de batalha como umidade no ar — se infiltrou na ferida, acelerando o processo que tinha matado Oren¹⁶ em minutos. Vess¹² respirou. Respirou de novo. Parou de respirar.
+Velatrix¹⁰ não parou. Não diminuiu o ritmo. Não desviou.
 
-Nove Tar-Gig⁶. De doze.
+Quando estava a três passos do lancero, ela ergueu a mão direita — não em um golpe, não em um bloqueio, em um gesto — e o ar ao redor da mão igniu. Não com fogo — com pressão. O *thermaris*¹², o *SinDrarys*¹³ de Água + Fogo, não se manifesta como chamas quando é canalizado por um mestre — se manifesta como força térmica pura, como se o conceito de calor fosse removido da física e substituído por algo mais fundamental, mais bruto, mais devastador. A onda de pressão térmica atingiu o lancero no peito — não o queimou, não o incinerou, o empurrou. Empurrou com uma força que fez a armadura dele ranger, que fez os pés arrancarem do chão, que fez o corpo voar para trás como uma marionete cujas cordas tivessem sido cortadas.
 
-Daryn¹⁷ morreu no mesmo minuto — não de um corrompido, mas da exaustão. Daryn¹⁷ era um operativo de canalização — seu papel era manipular o *aethra*¹ ambiental para reforçar as capacidades dos outros operativos, criando campos de *aethra*¹ mais denso ao redor de cada combatente. Mas manipular *aethra*¹ em um ambiente onde o *aethra*¹ estava sendo drenado pela aberração era como tentar encher um balde com um buraco no fundo. Daryn¹⁷ canalizou — canalizou durante duas horas seguidas, sem parar, sem descanso, puxando *aethra*¹ do próprio corpo quando o *aethra*¹ ambiental se tornou demasiado fino — e o corpo não aguentou. Daryn¹⁷ caiu no meio de uma canalização, os olhos se virando para branco, o coração parando não porque foi atacado mas porque se esgotou, porque o *aethra*¹ que sustentava os batimentos cardíacos tinha sido dado aos outros.
+O lancero bateu na parede do templo a sete passos de distância. A pedra rachou no impacto. Ele caiu e não se levantou.
 
-Oito Tar-Gig⁶.
+Um segundo. Um segundo para eliminar um lancero de Umbra¹¹.
 
-Kest¹⁸ morreu com uma lâmina de *aethrys*⁷ nas mãos, cravada no peito de um corrompido — ele havia empurrado a lâmina até o coração do hospedeiro e o *nihilary*¹⁰ dentro do corpo, sentindo a morte iminente, tinha revidado, canalizando *aethra*¹ corrompido pela metal da lâmina e para dentro dos braços de Kest¹⁸. Os braços de Kest¹⁸ ficaram negros — não a cor da pele, a cor do *nihilary*¹⁰ — e a corrupção se espalhou pelo corpo em segundos, viajando pelas veias como veneno, alcançando o coração de Kest¹⁸ antes que ele pudesse soltar a lâmina. Kest¹⁸ caiu de pé — ficou de pé por um segundo, os olhos arregalados, a boca aberta em um grito que não tinha som — e depois desabou.
+Os outros oito operativos reagiram — e reagiram bem. Dois ativaram *aethra-dampeners*¹⁴, os supressores elementais que criavam campos de interferência no *aethra*⁹ ambiental. Três se moveram para flanquear Velatrix¹⁰, com espadas de *aethrys*⁴ desembainhadas e movimentos coordenados que sugeriam valens de treinamento em equipe. Um atirou um projétil — não uma flecha, um fragmento de *aethrys*⁴ carregado com *aethra*⁹ comprimido — que cortou o ar em direção ao pescoço de Velatrix¹⁰ com a velocidade de um pensamento. Os dois restantes se posicionaram atrás dos dampeners, usando-os como escudos elementais enquanto preparavam dispositivos de contenção.
 
-Sete Tar-Gig⁶.
+Velatrix¹⁰ não parou.
 
-A aberração não tinha feito nada para matar nenhum deles. A aberração nem notou. Os Tar-Gig⁶ não morreram pela aberração — morreram pelas legiões, pela drenagem, pela exaustão, pelo *aethra*¹ corrompido que infestava cada centímetro do campo de batalha. A aberração continuava andando — quatro metros de obsidiana e escuridão e milhares de *nihilarys*¹⁰ compactados, avançando em direção ao templo com a constância de uma maré, imperturbável, inevitável.
+O projétil — o fragmento de *aethrys*⁴ que se movia rápido o suficiente para cortar aço — atingiu a mão esquerda de Velatrix¹⁰. Não a cortou. Derreteu. A temperatura ao redor da mão de Velatrix¹⁰ era tão alta — resultado do *thermaris*¹² que ela mantinha ativo como um campo de força permanente — que o *aethrys*⁴, ao entrar em contato com a aura térmica, perdeu coesão molecular e se tornou líquido, pingando no chão como metal fundido. A mão de Velatrix¹⁰ nem se moveu.
 
-E a cada segundo que passava, o *aethra*¹ diminuía mais. E a cada segundo que o *aethra*¹ diminuía, Velatrix² ficava mais lenta. Não visivelmente — Velatrix² não ficava lenta de um modo que os outros pudessem perceber, porque Velatrix² controlava cada movimento com a precisão de quem não permite que o corpo pareça cansado. Mas ela sentia. Sentia o *thermaris*⁹ exigindo mais *aethra*¹ para o mesmo resultado. Sentia as lâminas de calor ficando mais finas, as explosões ficando mais fracas, o vapor sobreaquecido ficando menos quente. Sentia o corpo pedindo para parar e a mente recusando.
+Os dois flanqueadores chegaram simultaneamente — espadas cortando em arcos que se cruzavam, um vindo pela esquerda, outro pela direita, a coordenação perfeita de quem treinou aquele movimento centenas de vezes. Velatrix¹⁰ girou — não um giro de combate, um giro de precisão — e as mãos encontraram os pulsos dos dois espadachins. O contato durou menos de um segundo. Mas nesse segundo, Velatrix¹⁰ canalizou *thermaris*¹² através das palmas e para dentro dos corpos dos mercenários. Não o suficiente para matar — não era sua intenção. O suficiente para que cada célula dos dois homens sentisse, de uma vez, o equivalente a febre de valens concentrada em três segundos. Os espadachins soltaram as armas. Caíram de joelhos. O suor — que brotou instantaneamente de cada poro — escorria pelo rosto e pelas mãos como se os corpos estivessem tentando se cozinhar de dentro para fora.
 
-E os corrompidos continuavam chegando.
+Cinco segundos. Cinco operativos de Umbra¹¹ incapacitados. Três restantes.
 
----
+Os dampeners ainda estavam ativos — o zumbido agudo dos dispositivos criava uma bolha de interferência que, em teoria, deveria reduzir a capacidade de manipulação de *aethra*⁹ de Velatrix¹⁰. E reduziam. Reduziam em talvez vinte por cento. E vinte por cento, para Velatrix¹⁰, era a diferença entre derrotar os três restantes em cinco segundos e derrotá-los em sete.
 
-## V. A Aberração Permanece
+Ela avançou.
 
-Velatrix² enfrentou a aberração diretamente pela terceira vez.
+O *thermaris*¹² se manifestou de um modo diferente agora — não como onda de pressão, mas como vapor. O ar ao redor de Velatrix¹⁰ se tornou branco, denso, opaco — uma nuvem de vapor sobreaquecido que se expandiu rapidamente, envolvendo os três mercenários restantes e os dois dampeners em um manto de calor que era ao mesmo tempo cegante e sufocante. Os dampeners — que funcionavam com cristais de *aethrys*⁴ sensíveis à temperatura — racharam sob o calor extremo, emitindo um som agudo que era quase um grito, e o campo de interferência colapsou. Os operativos atrás dos dampeners tentaram recuar, mas o vapor era todo — estava em todos os lugares, impossível de evitar, impossível de atravessar sem que a pele sentisse o equivalente a ser mergulhada em água fervente.
 
-Desta vez, ela não disparou lâminas. Desta vez, ela tocou.
+Quando o vapor se dissipou — e levou apenas dois segundos para dissipar, porque Velatrix¹⁰ controlava o *thermaris*¹² com a mesma precisão com que Selynis Thalassa¹ controlava dados — os três operativos estavam no chão. Não mortos. Submetidos. Respirando com dificuldade, a pele avermelhada pelo calor, os olhos arregalados pelo choque de ter enfrentado algo que os treinamentos de Umbra¹¹ nunca haviam preparado para enfrentar.
 
-Aproximou-se a dois passos — o mais perto que tinha chegado da criatura desde o início da batalha — e ergueu as duas mãos. As palmas ficaram a vinte centímetros da superfície de obsidiana do peito da aberração. E Velatrix² empurrou.
+Sete segundos. Oito operativos de Umbra¹¹ incapacitados. Um pelo impacto. Dois pelo choque térmico direto. Cinco pelo vapor sobreaquecido.
 
-O *thermaris*⁹ não se manifestou como lâmina, não se manifestou como vapor, não se manifestou como onda. Manifestou-se como tudo ao mesmo tempo — uma descarga concentrada de calor que saiu das palmas de Velatrix² como um rio de fogo líquido, atingindo a aberração no peito com uma intensidade que fez a obsidiana derreter. Não rachar — derreter. A superfície negra ficou vermelha, depois branca, depois líquida, gotejando como cristal aetheris derretido, e sob a obsidiana derretida Velatrix² viu o que estava dentro: camadas de *nihilarys*¹⁰ compactados, camadas sobre camadas sobre camadas, como os anéis de uma árvore, cada anel sendo um *nihilary*¹⁰ que se instalara no corpo de Thaloris Ventaris¹⁹ durante a possessão, e os *nihilarys*¹⁰ chiaram com o calor e alguns se desintegraram — não muitos, não o suficiente, mas alguns — e a aberração gritou.
+Nenhum morto. Isso era importante. Velatrix¹⁰ não matava quando não precisava — não por compaixão, mas por eficiência. Mortos não podem ser interrogados. Mortos não podem fazer acordos. Mortos não podem servir de exemplo para quem está assistindo.
 
-O grito fez o chão tremer. Fez as paredes do templo rangerem. Fez os últimos Tar-Gig⁶ de pé cobrirem os ouvidos com as mãos. Fez Korath⁸ — que nunca tinha coberto os ouvidos em combate, nem mesmo quando enfrentara Nyctara²⁰ — arregalar os olhos.
-
-A aberração recuou. Cinco passos. Seis. Pela primeira vez desde o início da batalha, a criatura de obsidiana recuou de verdade — não uma oscilação, não um ajuste, uma retirada. Os quatro braços balançaram descontrolados. Os dezesseis olhos piscaram em desordem. A superfície do peito — onde a obsidiana tinha derretido — estava exposta, e os *nihilarys*¹⁰ sob a superfície pulsavam como um coração ferido.
-
-Velatrix² preparou o segundo golpe.
-
-Mas o *aethra*¹ acabou.
-
-Não completamente — Velatrix² ainda tinha reservas, ainda tinha o *aethra*¹ que podia puxar do próprio corpo, dos tecidos, dos ossos, do sangue — mas o *aethra*¹ atmosférico, o *aethra*¹ que alimentava o *thermaris*⁹ de modo sustentável, o *aethra*¹ que fazia das lâminas de calor lâminas e não acordos, estava fino demais para sustentar outro golpe daquela magnitude. Velatrix² sentiu o *thermaris*⁹ falhar — não como uma luz que se apaga, como uma flama que diminui, o calor nas palmas diminuindo de vulcão para fornalha para braseiro para candeia, e a segunda descarga — que Velatrix² tentou disparar — saiu como um sopro quente em vez de um rio de fogo.
-
-A aberração viu.
-
-Os dezesseis olhos encontraram os olhos de Velatrix² — e nos olhos da aberração havia algo que não era *nihilary*¹⁰. Era avaliação. A aberração tinha entendido. Entendido que Velatrix² era forte, devastadora, terrível — mas finita. E finito contra infinito é uma equação que só tem um resultado.
-
-Os dezesseis olhos piscaram. Os dois verdes — os olhos de Thaloris Ventaris¹⁹ — piscaram por último.
-
-E a aberração avançou de novo.
-
-Não em velocidade — em massa. Os quatro braços se estenderam e a aberração cresceu, não fisicamente, mas elementalmente — a obsidiana se expandiu, as camadas de *nihilarys*¹⁰ se compactaram, o corpo de quatro metros se tornou mais denso, mais pesado, mais presente, como se milhares de *nihilarys*¹⁰ tivessem decidido, em uníssono, que era hora de parar de brincar. O passo seguinte rachou o plateau de basalto em um raio de dez passos — não cinco, dez — e a onda de pressão derrubou três Tar-Gig⁶ que estavam a quinze passos de distância.
-
-Velatrix² se moveu. Não para atacar — para proteger. Interpôs o corpo entre a aberração e os operativos caídos, e as placas de *aethrys*⁷ da armadura absorveram o impacto da onda de pressão com um som que era cristal rangendo, cristal pedindo para rachar. O manto negro — que não se agitava, que não se movia, que absorvia luz como um poço absorve pedras — se rasgou. Pela primeira vez desde que Velatrix² vestira aquela armadura, o manto se rasgou — não pelo vento, não por lâmina, pela força bruta da pressão de *aethra*¹ corrompido.
-
-Velatrix² caiu de joelhos.
-
-Não porque a força da aberração a tivesse derrubado — porque os joelhos pediram. As pernas, que tinham carregado Velatrix² por horas sem descanso, que tinham absorvido o impacto de cada explosão, cada onda, cada lâmina de calor que ela mesma tinha disparado, finalmente falharam. O *aethra*¹ que sustentava os músculos estava se esgotando, e os músculos respondiam à falta de *aethra*¹ como um motor responde à falta de combustível — com paralisação.
-
-Taelus³ correu até ela.
-
-— Velatrix² —
-
-— Levante-se — ela disse, e a voz era a voz de Velatrix² de novo, a voz que não era expressão, era intenção, a voz que ordenava e comandava e existia como um ato de vontade pura, mas a voz falhava, havia uma trinca na voz, uma trinca que Taelus³ nunca tinha ouvido. — Levante-se e volte para a linha.
-
-Velatrix² se levantou. Não conseguiu se levantar — forçou. O corpo obedeceu porque a mente obrigou, e a obrigação era mais forte que a fadiga, mais forte que a dor, mais forte que o *aethra*¹ corrompido que estava se infiltrando em seus pulmões com cada respiração. Velatrix² se levantou e voltou para a linha.
-
-Mas Velatrix² sabia — e Selynis Thalassa²³ sabia, porque Selynis estava dentro de Velatrix², assistindo, calculando, processando — que a matemática tinha se tornado irrecuperável. Sete Tar-Gig⁶ de doze. Os mercenários de Umbra⁴ — Korath¹⁰ não tinha perdido nenhum, mas três estavam feridos demais para lutar e um estava morto, sufocado pelo *aethra*¹ corrompido que tinha se infiltrado em seus pulmões durante uma explosão de vapor residual. O *aethra*¹ atmosférico estava em vinte por cento do normal e diminuindo. A aberração estava se regenerando mais rápido do que Velatrix² conseguia causar dano. E os corrompidos — os corrompidos que não paravam, que não morriam, que não sentiam — continuavam chegando.
-
-O céu — o que restava do céu — pulsava com uma luz que não era luz de Aurion²⁴. Era a luz do *aethra*¹ corrompido, um brilho azul-prateado e errado que fazia o ar parecer doente, que fazia as *argentis*¹¹ ao redor do templo parecerem cadáveres de pé, que fazia o próprio plateau de basalto parecer uma ferida no corpo do mundo.
+E Korath¹⁵ estava assistindo.
 
 ---
 
-## VI. O Crepúsculo das Forças
+## III. A Rendição do Lobo
 
-A batalha tinha durado — por estimativa de Taelus³, que ainda conseguia contar o tempo apesar de tudo — quase quatro horas.
+Korath¹⁵ estava de pé na entrada do templo — a fenda vertical na rocha negra por onde havia levado Alyndra¹⁶ dias atrás — e observava.
 
-Quatro horas de combate contínuo. Quatro horas de *thermaris*⁹, de lâminas de calor, de ondas concussivas, de golpes de espada e de bastão e de punhos contra corpos que não sentiam. Quatro horas de ondas de corrompidos, cada onda mais densa que a anterior, cada onda substituindo os mortos com mais mortos, cada onda tornando o campo de batalha um charco de sangue escuro e ossos quebrados e *nihilarys*¹⁰ chiando dentro de carcaças que já não eram humanas. Quatro horas em que o *aethra*¹ atmosférico tinha diminuído de cem por cento para quinze. Quatro horas em que a aberração tinha absorvido *aethra*¹ do solo, do ar, dos corpos caídos — cada corpo que morria no campo de batalha se tornava fonte de *aethra*¹ para a aberração, e a aberração sugava o *aethra*¹ dos mortos com a eficiência de um leech que não tem limite.
+Não com medo. Korath¹⁵ não sentia medo no sentido convencional do termo — o medo, para Korath¹⁵, era uma ferramenta de sobrevivência, algo que se processava e se convertia em ação, não uma emoção que paralisava ou desorientava. Ele observava com avaliação. Avaliando a ameaça, calculando as opções, medindo a diferença entre o que tinha e o que precisava para sobreviver.
 
-Velatrix² estava de pé. Apenas de pé. As mãos — que haviam disparado centenas de lâminas de calor, que haviam criado ondas de vapor letais, que haviam derretido obsidiana — tremiam. Não o tremor de quem tem frio — o tremor de quem esgotou. As placas de *aethrys*⁷ da armadura estavam rachadas em sete lugares, e o manto negro — rasgado pela onda de pressão da aberração — pendia dos ombros como asas partidas. O rosto estava suado — Velatrix² não suava, Velatrix² nunca suava, mas Selynis Thalassa²³ suava, e Selynis estava mais perto da superfície agora do que tinha estado em qualquer momento desde o início da batalha, porque Velatrix² precisava de toda a energia de Selynis para permanecer de pé.
+A diferença era abissal.
 
-Os Tar-Gig⁶ restavam cinco. Cinco operativos que ainda lutavam — Taelus³, três cujos nomes Velatrix² sabia mas que a exaustão impedia de articular, e um cujo nome tinha sido esquecido porque o *aethra*¹ corrompido tinha começado a afetar a memória de todos os presentes. Os mercenários de Umbra⁴ restavam sete — incluindo Korath¹⁰, que estava de pé não por determinação mas por teimosia, os olhos brancos e acinzentados fixos na aberração com uma intensidade que sugeria que Korath¹⁰ não sabia mais o que era desistir.
+Korath¹⁵ era um dos melhores mercenários de Umbra¹¹. Isso não era vaidade — era fato documentado pelas academias, pelos registros de missão, pelas dezenas de operações bem-sucedidas que tinham construído sua reputação como o tipo de soldado que cumpre ordens e volta vivo. Ele conhecia *aethra-dampeners*¹⁴, conhecia técnicas de supressão, conhecia os pontos fracos de cada tipo de usuário elemental. Tinha enfrentado Lyris⁶ em combate no passado — e embora não tivesse vencido, também não tinha perdido. Era um profissional.
 
-O *aethra*¹ estava em quinze por cento.
+Velatrix¹⁰ não era um usuário elemental. Era uma força da natureza.
 
-A aberração estava em mais.
+O que Korath¹⁵ acabara de ver não era um combate — era uma demonstração. Velatrix¹⁰ poderia ter matado os oito operativos em menos segundos do que os levara para incapacitá-los. A vaporização teria sido mais rápida. A incineração, mais eficiente. Mas Velatrix¹⁰ escolhera a subjugação — não a destruição. E essa escolha dizia mais sobre ela do que qualquer técnica de *thermaris*¹² poderia revelar: era estrategista. Era profissional. E, o que era mais importante, estava aqui por um motivo — não para destruir, mas para controlar.
 
-Mais *aethra*¹ do que tinha começado, mais massa do que tinha começado, mais presença do que tinha começado. Cada corrompido que morria, cada corpo que caía, cada gota de *aethra*¹ que a aberração sugava do ambiente se somava ao seu poder. A criatura de quatro metros se tornara uma criatura de quatro metros e vinte, os braços mais espessos, a obsidiana mais densa, os dezesseis olhos brilhando mais forte. E os dois olhos verdes — os olhos de Thaloris Ventaris¹⁹ — estavam abertos. Não piscando. Abertos. Olhando. E naquele olhar — no olhar de algo que tinha sido um homem e que agora era uma aberração — havia algo que não era *nihilary*¹⁰ e que Velatrix², mesmo no limite do esgotamento, registrou e arquivou: reconhecimento. Thaloris Ventaris¹⁹ estava lá. Enterrado sob milhares de *nihilarys*¹⁰, sepultado sob camadas de obsidiana e escuridão e corrupção, mas lá. E sabia o que estava acontecendo.
+Korath¹⁵ reconheceu o emblema no peitoral da armadura de Velatrix¹⁰. Não o emblema oficial de Sanctrum³ — algo mais antigo, mais raro, um símbolo que só aparecia em documentos classificados que Korath¹⁵ havia visto em seus meses de operações para os Nihil Shid¹⁷: a marca dos Tar-Gig⁵. Não os operativos — a própria organização. A força interna de Sanctrum³ que existia nas sombras das sombras, que era enviada quando a situação era demasiado grave para os Guardiões convencionais e demasiado sensível para intervenção militar aberta.
 
-A aberração parou. A quinze metros do templo.
+Sanctrum³ não enviava os Tar-Gig⁵ por acidente. Enviava-os quando algo era prioridade absoluta.
 
-Não porque estivesse cansada — a aberração não se cansava. Não porque estivesse ferida — a aberração se regenerava. Parou porque podia parar. Porque não tinha pressa. Porque a matemática estava do lado dela e ela o sabia, e os dezesseis olhos varreram o campo de batalha — as defesas em ruínas, os soldados caídos, os Tar-Gig⁶ de pé por pura obstinação, Velatrix² como uma sombra que tinha esquecido como ser sólida — e a aberração esperou.
+Korath¹⁵ desembainhou a espada. Não como ameaça — como protocolo. A lâmina de *aethrys*⁴ escuro refletiu a pouca luz do plateau, e Korath¹⁵ a segurou ao lado do corpo, apontada para baixo. Era a postura de rendição dos mercenários de Umbra¹¹ — uma postura que Korath¹⁵ não adotava desde os primeiros valens de carreira, quando era jovem e verde e não sabia que rendição era uma palavra que, para homens como ele, se tornava mais difícil a cada dia que passava.
 
-Esperou porque podia.
+Mas Korath¹⁵ era pragmático. E o pragmatismo dizia: lutar contra Velatrix¹⁰ e os Tar-Gig⁵ era suicídio. Submeter-se era sobrevivência. E Korath¹⁵ sempre escolhera a sobrevivência.
 
-Velatrix² olhou para Taelus³. Taelus³ olhou para Velatrix². E nos olhos de Taelus³ — nos olhos de um homem que tinha visto os melhores soldados de Sanctrum¹³ morrerem um a um, que tinha segurado a mão de Oren¹⁶ enquanto a vida escapava, que tinha visto Vess¹² e Daryn¹⁷ e Kest¹⁸ cair e não poder fazer nada — havia algo que não era desespero. Era algo pior. Era a percepção de que tinham lutado com tudo que tinham, que tinham feito tudo que podiam, que tinham dado tudo que eram — e que não tinha sido suficiente.
+Ele caminhou em direção a Velatrix¹⁰. Cada passo era medido — não apressado, não arrastado, o ritmo preciso de quem se aproxima não de um inimigo, mas de uma negociação. Os olhos de Korath¹⁵ — aqueles olhos escuros demais, que absorviam luz em ver de refleti-la — encontraram os olhos de Velatrix¹⁰. E por um segundo, algo passou entre eles — não comunicação verbal, mas algo mais antigo, mais instintivo, o reconhecimento de dois predadores que avaliam um ao outro e decidem que nenhum dos dois ganha em uma luta que não precisa acontecer.
 
-Korath¹⁰ se aproximou de Velatrix². Os passos eram pesados — mais pesados do que deveriam, porque o *aethra*¹ corrompido estava tornando o ar denso e cada respiração era um esforço, e a armadura de obsidiana — que uma vez havia sido leve o suficiente para lutar — agora parecia pesar o peso de um mundo.
+— Você oferece um acordo melhor? — Korath¹⁵ perguntou. A voz era seca, factual, como todas as vozes de Korath¹⁵ eram. Não havia ressentimento na pergunta — não havia orgulho ferido, não havia humilhação. Era negociação. A mesma negociação que Korath¹⁵ fazia toda vez que os termos de uma missão mudavam no meio do caminho. Os Nihil Shid¹⁷ tinham oferecido pagamento. Sanctrum³, agora, oferecia outra coisa. Korath¹⁵ queria saber o quê.
 
-— Quanto *aethra* você tem? — Korath¹⁰ perguntou. A voz era seca, factual, como sempre — mas havia algo na secura que era rachadura, como se a voz estivesse prestes a quebrar.
+Velatrix¹⁰ olhou para ele. A avaliação durou cinco segundos — tempo suficiente para que Velatrix¹⁰ processasse não apenas as informações visuais sobre Korath¹⁵ — postura, armamento, condição física — mas também os dados que Selynis Thalassa¹ havia compilado sobre ele nos últimos meses: histórico de missões, conexões com os Nihil Shid¹⁷, comportamento durante a entrega de Alyndra¹⁶ ao templo. Selynis tinha tudo. Velatrix¹⁰ usava tudo.
 
-Velatrix² não respondeu imediatamente. Quando respondeu, a voz era diferente — mais baixa, mais fina, mais Selynis do que Velatrix²:
-
-— O suficiente para mais alguns golpes. Não o suficiente para matar a aberração.
-
-Korath¹⁰ processou a informação. Três segundos. Depois:
-
-— E a menina?
-
-Velatrix² olhou para o templo. A entrada — a fenda vertical na rocha negra por onde Korath¹⁰ havia levado Alyndra²⁵ dias atrás — estava intacta. Os Tar-Gig⁶ que tinham defendido a entrada durante as primeiras horas estavam todos mortos agora, os corpos empilhados como barricadas improvisadas, mas a entrada em si estava intacta. Alyndra²⁵ ainda estava dentro. Nyx²⁶ ainda estava dentro. O templo — as paredes de *aethrys*⁷, o chão de pedra, as câmaras internas — ainda protegia o que estava dentro.
-
-— A menina está viva — Velatrix² disse. E a palavra "viva" saiu com um peso que Velatrix² não pretendia — o peso de quem sabe que "viva" é uma condição temporária, que "viva" é um estado que pode mudar a qualquer segundo, que "viva" depende de defesas que estão falhando.
-
-O silêncio que se seguiu foi o silêncio de um campo de batalha que está entre as ondas — o silêncio que existe quando os corrompidos recuam brevemente para se reagrupar, quando a aberração decide esperar, quando o mundo respira por um segundo antes de engasgar de novo.
-
-E nesse silêncio, Velatrix² ouviu algo.
-
-Não do campo de batalha — do céu. O som de asas cortando o ar. O zumbido grave de cristal vibrando. O som que era *koramis*⁵ — não as *koramis*⁵ que já estavam ali, outras *koramis*⁵, vindas de algum lugar, vindas de fora do horizonte escuro.
-
-Velatrix² ergueu os olhos.
-
-E no céu — no céu que era escuridão e luz azul-prateada e *aethra*¹ corrompido — havia formas. Formas que se moviam contra o vento, que cortavam a escuridão como facas cortam manteiga, que vinham em formação — três colunas de cinco *koramis*⁵, as asas de cristal refletindo a pouca luz que restava, e na *koramis*⁵ da frente havia uma silhueta que Velatrix² reconheceu não pelo rosto — que estava coberto por uma máscara de voo — mas pela postura, pela maneira como o corpo se inclinava contra o vento, pela forma como a mão segurava as rédeas com a precisão de quem voa há valens.
-
-Velatrix² não sorriu. Velatrix² não demonstrou alívio. Velatrix² não demonstrou nada. Mas algo nos olhos — algo que era mais Selynis do que Velatrix², algo que era a mulher que compilava dados e fazia planos e que nunca perderia — se moveu. Um fragmento de esperança. Não esperança de vitória — Velatrix² era realista demais para esperança de vitória naquele momento. Esperança de tempo. Mais tempo. Mais alguns minutos. Mais alguns golpes. Mais alguma coisa.
-
-A aberração também ouviu. Os dezesseis olhos se viraram para o céu. Os corrompidos — que estavam em um estado de pausa temporária, como exércitos que esperam a ordem de marchar — se moveram, se reorganizaram, apontaram para as *koramis*⁵ que se aproximavam.
-
-A aberração recusou-se a esperar mais.
-
-Os quatro braços se abriram. Os dezesseis olhos se sincronizaram. E a aberração — que tinha esperado, que tinha podido esperar, que tinha escolhido esperar — correu. Não o passo pesado e deliberado de antes — uma corrida, uma carga, quatro metros de obsidiana e *nihilarys*¹⁰ avançando em direção ao templo com a velocidade de algo que decidiu que o tempo de esperar tinha acabado.
-
-Velatrix² se pôs na frente.
-
-— Tar-Gig⁶ — ela disse, e a voz era a voz de Velatrix² de novo, a voz que não era expressão, era intenção, a voz que ordenava e comandava e existia como um ato de vontade pura. — Todos. Agora. Tudo.
-
-Cinco Tar-Gig⁶ se moveram. Sete mercenários de Umbra⁴ se moveram. Korath¹⁰ se moveu. E Velatrix² — Velatrix² que tinha dado tudo, que tinha esgotado quase todo o *aethra*¹ que tinha, que tremia e suava e cujo manto estava rasgado e cujas placas de armadura estavam fendidas — correu em direção à aberração com o último que tinha.
-
-O último *thermaris*⁹. O último golpe. O último tudo.
-
-A aberração avançava. Os corrompidos avançavam. As *koramis*⁵ se aproximavam. E o céu — o céu que não tinha mais Aurion²⁴, o céu que era apenas escuridão e *aethra*¹ corrompido — ficou mais escuro ainda, como se o próprio mundo estivesse fechando os olhos para não ver o que ia acontecer.
-
-Velatrix² ergueu as mãos.
-
-O calor que restava — o último *thermaris*⁹, o último fragmento do *SinDrarys*¹⁵ de Água + Fogo que fazia de Selynis Thalassa²³ algo mais do que humana — se concentrou nas palmas como uma vela em um templo escuro: fraca, frágil, mas presente.
-
-E Velatrix² avançou para o encontro.
+— Sim — ela disse.
 
 ---
 
-**[FIM DO CAPÍTULO XXXIV]**
+## IV. O Acordo
+
+Velatrix¹⁰ não sentou. Não se acomodou. Não fez gestos de cortesia ou de hostilidade. Permaneceu de pé, diante de Korath¹⁵ e dos operativos de Umbra¹¹ que se arrastavam para uma posição de respeito — ou o que restava de respeito depois de terem sido subjugados em sete segundos — e falou com a precisão de quem redige termos de rendição:
+
+— Vocês estão em território sob jurisdição de Sanctrum³. As cargas fantasmas¹⁸ que transportaram para este templo são crimes contra a Carta Continental. Por lei, os responsáveis seriam extraditados para Sanctrum³ e julgados pelo Conselho dos 12.
+
+Korath¹⁵ não moveu um músculo. Os Tar-Gig⁵ ao redor do perímetro mantiveram suas posições, silenciosos como estátuas de obsidiana.
+
+— No entanto — Velatrix¹⁰ continuou, e a pausa que interrompeu a frase durou exatamente um segundo, nem mais nem menos —, a situação atual transcende a jurisprudência convencional. O que está chegando a este templo não é um exército, não é uma força política e não é uma ameaça que os tribunais de Sanctrum³ podem processar. É algo que Sanctrum³ classificou como Anomalia Elemental de Classe Kalúdris¹⁹ — a mais alta classificação existente nos protocolos continentais. Uma ameaça existencial não para um reino, não para dois, mas para todos.
+
+A palavra Kalúdris¹⁹ fez algo que as espadas e o *thermaris*¹² não tinham conseguido: fez os olhos de Korath¹⁵ se alargarem. Não muito — Korath¹⁵ controlava suas microexpressões com a disciplina de quem aprendeu que cada piscar pode revelar uma informação — mas o suficiente para que Velatrix¹⁰ notasse. E notasse que Korath¹⁵ conhecia o termo. O que significava que os Nihil Shid¹⁷ sabiam o que estavam fazendo quando enviaram Korath¹⁵ para o templo. O que significava que os Nihil Shid¹⁷ queriam que algo Kalúdris¹⁹ acontecesse ali.
+
+Velatrix¹⁰ arquivou essa informação para processamento posterior. Agora, o que importava era o acordo.
+
+— Sanctrum³ oferece o seguinte: vocês cooperam com as forças de Sanctrum³ na defesa deste templo contra a ameaça que se aproxima. Em troca, Sanctrum³ garante proteção diplomática completa — nenhuma das operações que realizaram para os Nihil Shid¹⁷ será investigada, nenhum dos membros de sua equipe será extraditado, nenhum registro será aberto. Além disso, Sanctrum³ paga — o equivalente ao triplo do que os Nihil Shid¹⁷ ofereceram por esta operação.
+
+A pausa que se seguiu foi de três segundos. Korath¹⁵ processou os termos. Os operativos ao redor — os que estavam de pé, os que estavam de joelhos, os que ainda tentavam se recuperar do vapor sobreaquecido — processaram também. A matemática era simples: os Nihil Shid¹⁷ pagavam para que levassem Alyndra¹⁶ ao templo e a guardassem. Sanctrum³ pagava o triplo para que ficassem e lutassem. A diferença entre as duas ofertas não era apenas financeira — era existencial. Os Nihil Shid¹⁷ não tinham dito nada sobre o que estava vindo. Não tinham mencionado Kalúdris¹⁹. Não tinham preparado ninguém.
+
+Era a diferença entre trabalhar para quem te usa e trabalhar para quem te informa.
+
+— A alternativa — Velatrix¹⁰ disse, e a voz perdeu dez graus de temperatura, como se o *thermaris*¹² tivesse sido temporariamente desativado e substituído por algo mais frio —, é resistir. E quem resiste a uma força de Sanctrum³ em território de jurisdição continental durante uma Anomalia de Classe Kalúdris¹⁹ é tratado não como combatente, mas como cúmplice da ameaça. Sanctrum³ não tem tempo para julgamentos durante anomalias Kalúdris¹⁹. A resolução é sumária.
+
+Não era ameaça. Era facto. E Korath¹⁵ — que era muitas coisas, mas não era estúpido — reconheceu o facto como reconhecia o terreno vulcânico sob seus pés: algo que não podia ser mudado, apenas navegado.
+
+Korath¹⁵ guardou a espada.
+
+O gesto durou dois segundos — o tempo necessário para que a lâmina de *aethrys*⁴ escorregasse para dentro da bainha com um som que era quase um sussurro. Quando a espada estava guardada, Korath¹⁵ endireitou os ombros e olhou para Velatrix¹⁰ com os olhos que absorviam luz e devolviam nada.
+
+— Aceito — ele disse. E depois, porque Korath¹⁵ era mais do que um mercenário — era um homem que, nos dias em que transportou Alyndra¹⁶ até o templo, havia descoberto que algumas cargas não deveriam ser carregadas — acrescentou: — A menina está dentro. Viva. O *lyrien*²⁰ também. Se o que você diz sobre Kalúdris¹⁹ é verdade, então eles são o que importa. Proteger o templo é protegê-los.
+
+Velatrix¹⁰ não demonstrou satisfação. Não demonstrou surpresa. Mas algo nos olhos — algo que era mais Selynis do que Velatrix¹⁰, um fragmento da mulher que havia compilado dados sobre Alyndra¹⁶ e Alyndra¹⁶ era uma linha em uma planilha — se moveu. A menina. Alyndra¹⁶. O nome que Velatrix¹⁰ tinha visto em dezenas de relatórios, o nome que motivava metade das operações de inteligência de Sanctrum³ nos últimos meses, o nome que pertencia a uma criança de braços gelados que estava presa no escuro de um templo ancestral.
+
+— Saibam — Velatrix¹⁰ disse, dirigindo-se não apenas a Korath¹⁵ mas a todos os mercenários que podiam ouvir —, o que vem aí não é algo que vocês possam combater. Ninguém pode. A aberração que se aproxima carrega milhares de *nihilarys*²² compactados em seu corpo. Cada passo dela é um terremoto. Cada segundo de existência dela corrompe o *aethra*⁹ do mundo ao redor. O que Sanctrum³ pede de vocês não é vitória. É tempo. Tempo para que a menina e o *lyrien* sejam extraídos do templo. Tempo para que reforços cheguem. Tempo para que alguém que pode enfrentar a aberração — e existem poucos — seja mobilizado.
+
+Os mercenários ouviram. Alguns demonstraram medo — o tipo de medo que vem de saber que está do lado errado de uma guerra que não entende. Outros demonstraram resolução — o tipo de determinação que surge quando não há alternativa e a única opção viável é fazer o melhor possível com o que se tem. Korath¹⁵ não demonstrou nada. Mas a mão direita — a mão que não segurava mais a espada — descansava no cabo, pronta para desembainhar se necessário. Não porque Korath¹⁵ acreditasse que a espada faria diferença contra uma aberração Kalúdris¹⁹. Mas porque não saber o que fazer não era motivo para não fazer nada.
+
+O acordo foi selado.
+
+Os Tar-Gig⁵ integraram o perímetro com os operativos de Umbra¹¹. A fusão foi tensa mas funcional — dois grupos de soldados que, sob outras circunstâncias, teriam se matado, agora trabalhando lado a lado porque algo maior do que suas rivalidades estava se aproximando. Korath¹⁵ posicionou seus melhores combatentes nos pontos de acesso ao templo. Velatrix¹⁰ estabeleceu o posto de comando no plateau de basalto, com uma visão clara do templo e do horizonte.
+
+E Selynis — porque Velatrix¹⁰ era Selynis tanto quanto Selynis era Velatrix¹⁰, e a fronteira entre as duas não era uma linha mas uma membrana — abriu o comunicador RRA⁸ e transmitiu:
+
+— Velatrix¹⁰ ao Comando Central. Templo seguro. Forças de Umbra¹¹ subjugadas e cooptadas. Nenhum ferido fatal. A menina e o *lyrien* estão dentro, confirmado. Preparando extração.
+
+A resposta veio em três segundos:
+
+— Comando Central para Velatrix¹⁰. Extração autorizada. Porém — anomalia detectada em trajetória de convergência. Assinatura consistente com aberração documentada no relatório Kalúdris¹⁹. Estimativa de chegada: menos de uma hora. Prioridade máxima: extração da menina antes do contato.
+
+Uma hora. Velatrix¹⁰ fechou o comunicador. Olhou para o horizonte.
+
+O horizonte pulsava.
+
+---
+
+## V. O Céu se Fecha
+
+A terra tremeu.
+
+Não um tremor — um segundo. Um segundo que vinha de baixo, que subia pelas raízes e pelas rochas e pelas veias de *aethrys*⁴ que corriam pelo subsolo como artérias do mundo, e que atingia a superfície como um soco que faz a pele da terra estremecer. O plateau de basalto vibrou sob os pés de Velatrix¹⁰ e dos soldados ao redor. Pedras pequenas saltaram. Poeira se levantou. As *koramis*² estacionadas nas bordas do plateau grasnaram — o som de cristal contra cristal, o som de montarias que sentem o que está chegando antes de qualquer ser humano.
+
+E o céu — o céu que era cinza, o céu que era nublado, o céu que era o tipo de céu que existe sobre terras que ninguém quis — escureceu.
+
+Não gradualmente. De uma vez. Como se algo tivesse colocado uma tampa sobre o mundo.
+
+Velatrix¹⁰ olhou para cima. E o que viu fez algo que raramente acontecia: fez Velatrix¹⁰ parar. Não por medo — Velatrix¹⁰ não parava por medo. Por avaliação. A avaliação dizia que o que estava no céu era maior do que qualquer coisa que ela já tivesse enfrentado. E Velatrix¹⁰ tinha enfrentado muitas coisas.
+
+A aberração surgiu no horizonte como uma montanha que decide andar.
+
+Era grande — eis a primeira palavra, a mais simples, a mais insuficiente. Grande de um modo que transcendia o próprio termo, que fazia "grande" parecer pequena, que fazia "enorme" parecer modesta e "colossal" parecer exagero tímido. Medida do chão ao ponto mais alto — onde quer que fosse o ponto mais alto de algo que não tinha forma fixa — a aberração tinha talvez quase duas vezes a altura de um homem, mas a altura era a parte menos impressionante. O que impressionava era a presença. A aberração ocupava o espaço de um modo que era mais do que físico — era elemental. Cada célula do corpo da aberração irradiava *aethra*⁹ corrompido, e o *aethra*⁹ corrompido se propagava pelo ar como onda em água, tocando tudo o que estava em um raio de centenas de metros com uma intensidade que fazia as *argentis*²³ murchar e as pedras rachar e o próprio *aethra*⁹ atmosférico se tornar denso e pesado e errado.
+
+A aberração tinha quatro braços — braços articulados de substância que era ao mesmo tempo orgânica e mineral, cobertos de fragmentos de obsidiana que pulsavam com a luz azul-prateada dos *nihilarys*²² que habitavam seu interior. Dezesseis olhos — negros, prateados, e dois verdes — varriam o ambiente. Cada olho se movia independentemente, como se a aberração fosse um ser composto de múltiplas consciências que olhavam para múltiplas direções ao mesmo tempo. Os passos eram devastadores — cada um rachava o chão em um raio de cinco passos, não pelo peso em si, mas pela pressão de *aethra*⁹ corrompido que vazava pelos pés e se infiltrava na terra como veneno na corrente sanguínea.
+
+E atrás da aberração — não um, não dez, não cem — legiões.
+
+Soldados. Ou o que foram soldados. Homens e mulheres vestidos com armaduras rústicas — armaduras que pertenciam a nenhum reino, a nenhuma organização, a nenhuma época reconhecível — e cujos olhos estavam mortos. Não fechados — mortos. Olhos abertos, sem foco, sem expressão, sem humanidade, como se algo tivesse entrado neles e apagado tudo o que era pessoa e deixado apenas o corpo. A pele dos soldados era manchada de azul-prateado — a cor do *aethra*⁹ corrompido impregnando os tecidos como tinta na água — e os movimentos eram coordenados. Não marchavam como soldados marcham — marchavam como marionetes marcham, com a sincronia de corpos que são movidos por uma vontade que não é a deles. Cada soldado carregava uma arma — algumas espadas enferrujadas, algumas lanças partidas, algumas apenas pedras afiadas — e as armas, como os corpos, eram apenas casas para algo que não era visível: *nihilarys*²². Cada soldado era um hospedeiro — um corpo humano possuído por um *nihilary*²², convertido em soldado de uma legião que não tinha lado, que não tinha causa, que tinha apenas fome.
+
+Legiões. Centenas. Talvez mais — era difícil contar no escuro, porque o escuro que a aberração carregava não era apenas ausência de Aurion²⁴. Era substância. A escuridão emanava da aberração como aura e se espalhava pelo terreno como névoa, engolindo a luz, obscurecendo as formas, transformando o horizonte em uma parede de preto que fazia o mundo parecer infinito e claustrofóbico ao mesmo tempo.
+
+O *aethra*⁹ sufocava.
+
+Não gradualmente — subitamente, como se alguém tivesse colocado uma mão sobre a boca do mundo. O *aethra*⁹ atmosférico que sustentava os poderes elementais de todos os presentes — de Velatrix¹⁰, dos Tar-Gig⁵, dos mercenários de Umbra¹¹ — ficou mais fino. Como se a aberração estivesse drenando o *aethra*⁹ do ar, sugando-o para dentro de si como um buraco negro suga a luz. Velatrix¹⁰ sentiu a redução imediatamente — não como desconforto, mas como informação: o *thermaris*¹² que ela mantinha como campo de força permanente exigia mais *aethra*⁹ para se manter ativo, e o *aethra*⁹ disponível estava diminuindo.
+
+Os Tar-Gig⁵ sentiram também. Os operativos de Umbra¹¹ sentiram. Até Korath¹⁵ — que não era usuário elemental no sentido estrito, mas cujo corpo treinado era sensível às flutuações de *aethra*⁹ — sentiu: uma pressão no peito, como se o ar tivesse se tornado mais espesso, mais difícil de respirar, mais hostil.
+
+A aberração parou.
+
+A cinquenta metros do templo. Onde a trilha de destruição terminava e o perímetro defensivo começava. Os dezesseis olhos — dois verdes, catorze de outras cores — varreram as defesas: os Tar-Gig⁵ posicionados, os mercenários de Umbra¹¹ nos pontos de acesso, as *koramis*² nas bordas do plateau, e, no centro de tudo, Velatrix¹⁰ — uma figura de armadura negra e manto que absorvia luz, de pé no plateau de basalto como se fosse o plateau e não uma pessoa que estivesse em cima dele.
+
+A aberração olhou para Velatrix¹⁰. Velatrix¹⁰ olhou para a aberração.
+
+E por um segundo — um único segundo que durou uma eternidade — as duas forças se avaliaram. Velatrix¹⁰ era forte. Mais forte do que quase qualquer ser em Alyndra. O *thermaris*¹² que fluía por suas veias era equivalente ao poder de três Guardiões de Sanctrum³ combinados. Ela tinha enfrentado usurpadores, exércitos, conspirações e anomalias elementais menores. Nunca havia perdido um confronto direto.
+
+Halas a aberração não era um confronto direto. Era um desastre andante. Era valens de *aethra*⁹ corrompido compactados em uma forma que desafiava a física. Era milhares de *nihilarys*²² que pensavam e agiam como uma mente coletiva. Era legiões de soldados possuídos que não sentiam dor, não sentiam medo, não sentiam nada que fosse humano. E era grande. Terrivelmente, impossivelmente grande. O tipo de grande que faz a palavra "grande" querer pedir desculpas por não ser suficiente.
+
+Velatrix¹⁰ sentiu algo que não sentia há valens. Não medo — cautela. A cautela de quem percebe que o inimigo à frente é mais do que ela pode derrotar sozinha, e que a vitória, se existir, exigirá algo que vai além do *thermaris*¹² e dos Tar-Gig⁵ e dos mercenários de Umbra¹¹.
+
+Os dois olhos verdes da aberração — os dois olhos que ainda eram os olhos de Thaloris Ventaris²⁵ — piscaram. E naquele piscar, Velatrix¹⁰ viu algo que não esperava: não humanidade, não reconhecimento, mas algo entre — um fragmento de algo que não era *nihilary*²², não era *aethra*⁹ corrompido, não era escuridão. Algo que estava enterrado tão profundamente dentro da aberração que nem mesmo os *nihilarys*²² sabiam que existia.
+
+Era Thaloris. Ou o que restava dele. Um fantasma preso dentro de uma criatura de milhares de *nihilarys*²².
+
+Velatrix¹⁰ registrou isso. Arquivou. Não porque não fosse importante — porque era, terrivelmente importante — mas porque o imediato exigia ação, não contemplação.
+
+Korath¹⁵ estava ao lado dela. Seus olhos escuros estavam fixos na aberração, e pela primeira vez desde que Lyris⁶ o conhecera — desde os dias em que transportou Alyndra¹⁶ através da fronteira — Korath¹⁵ falou sem que ninguém perguntasse:
+
+— A menina. Precisamos tirar a menina primeiro.
+
+Velatrix¹⁰ concordou. Não verbalmente — com um movimento de cabeça que durou menos de um segundo. Korath¹⁵ entendeu e se moveu, chamando dois de seus melhores operativos e apontando para la entrada do templo.
+
+A aberração não se moveu. Ficou ali, a cinquenta metros, com os dezesseis olhos fixos nas defesas, com as legiões de soldados possuídos paradas atrás dela como um oceano de olhos mortos e armas enferrujadas, com o *aethra*⁹ corrompido pulsando ao redor como um coração doente que bate em ritmo irregular.
+
+Esperava.
+
+Ou avaliava.
+
+Ou ambas as coisas.
+
+Velatrix¹⁰ respirou. O ar — mais fino, mais denso, mais cheio de *aethra*⁹ corrompido — entrou nos pulmões e saiu em uma nuvem de vapor que era seu *thermaris*¹² reagindo ao ambiente hostil. Ela olhou para o horizonte — onde a escuridão engolia o último traço de luz de Aurion²⁴ — e depois olhou para as legiões, e depois olhou para a aberração, e depois disse, para ninguém e para todos, uma frase que era ao mesmo tempo constatação e desafio, avaliação e promessa:
+
+— Esta vai ser uma longa nyxara.
+
+A aberração não respondeu. Os *nihilarys*²² dentro dela não tinham linguagem — ou tinham uma linguagem que não era feita de palavras, e que se comunicava em segundos de escuridão e pressão e ausência.
+
+Mas os dois olhos verdes — os olhos de Thaloris — piscaram de novo.
+
+E no piscar, havia algo que Velatrix¹⁰ não identificou porque não tinha tempo para identificar, porque a aberração estava se movendo, e os soldados possuídos avançavam, e o *aethra*⁹ corrompido era uma onda que se aproximava, e a nyxara — a nyxara que Velatrix¹⁰ havia previsto como longa — estava apenas começando.
+
+---
+
+***[FIM DO CAPÍTULO XXXIV]**
 
 ---
 
@@ -260,72 +250,64 @@ E Velatrix² avançou para o encontro.
 
 ## 📖 Glossário do Capítulo
 
-¹ **aethra** — A energia ou magia etérica que flui através de Alyndra. A aberração age drenando o *aethra*¹ do ambiente.
+¹ **Selynis Thalassa** — Agente principal de inteligência e espionagem de Sanctrum³, coordenadora de dados estratégicos. Assume a identidade de Velatrix¹⁰ em operações táticas terrestres.
 
-² **Velatrix** — A persona e título militar adotado por Selynis Thalassa²³ durante intervenções diretas de combate.
+² **koramis** — Ave gigante de cristal e penas cromáticas de Sylvaris²⁷, montaria aérea ágil e de alta velocidade.
 
-³ **Taelus** — Comandante dos operativos Tar-Gig⁶ que atua na linha de frente ao lado de Velatrix².
+³ **Sanctrum** — Planalto central continental, centro político continental e sede do Conselho dos 12.
 
-⁴ **Umbra** — Reino das Sombras, das terras de permafrost e cordilheiras de obsidiana no extremo norte.
+⁴ **aethrys** — Cristal elemental que atua como condutor e emissor de energia. Compõe a armadura de Velatrix¹⁰, as armas e os supressores elementais.
 
-⁵ **koramis** — Ave gigante de cristal e penas cromáticas de Sylvaris, usada como montaria de combate.
+⁵ **Tar-Gig** — Força militar de elite e inteligência estratégica secreta sob controle do Conselho de Sanctrum³.
 
-⁶ **Tar-Gig** — Força especial secreta militar e de inteligência da capital Sanctrum¹³.
+⁶ **Lyris** — Administradora do Orfanato Luminis³⁰. Codinome de combate: Nyctara. Auxiliou Aldric⁷ no envio da rota de destruição.
 
-⁷ **aethrys** — Cristal elemental condutor de energia que compõe as armaduras e os armamentos dos soldados.
+⁷ **Aldric** — Agente de campo e guerreiro, portador da espada Thalassiana²³. Reportou a movimentação do inimigo.
 
-⁸ **Korath** — Líder dos mercenários umbranos encarregados da guarda de Alyndra²⁵ no templo.
+⁸ **RRA** — Rede de Ressonância de Aurion; o sistema seguro de comunicação por ressonadores aetherianos.
 
-⁹ **thermaris** — Técnica SinDrarys¹⁵ de Água + Fogo; canaliza pressão e calor térmico extremos.
+⁹ **aethra** — A energia ou magia etérica que flui através de Alyndra. A aberração age drenando o *aethra*⁹ das vizinhanças.
 
-¹⁰ **nihilary / nihilarys** — Entidades de sombra ligadas a Nihilaryth que preenchem e controlam os hospedeiros corrompidos.
+¹⁰ **Velatrix** — A persona e título militar adotado por Selynis Thalassa¹ durante intervenções diretas de combate.
 
-¹¹ **argentis** — Árvores de casca prateada de Sylvaris cujos canais internos conduzem energia e murcham sob a corrupção.
+¹¹ **Umbra** — Reino das Sombras, das montanhas geladas e do permafrost extremo no norte. Origem dos mercenários de defesa.
 
-¹² **Vess** — Operativa Tar-Gig⁶ especialista em combate ágil com adagas de cristal; segunda baixa da equipe de resgate.
+¹² **thermaris** — Técnica SinDrarys¹³ de Água + Fogo; canaliza energia térmica pura gerando pressão e ondas de vapor superaquecido de alto poder destrutivo.
 
-¹³ **Sanctrum** — Planalto central continental, centro político continental e sede do Conselho dos 12.
+¹³ **SinDrarys** — A técnica de fundir duas afinidades elementais complementares para manifestar uma técnica superior.
 
-¹⁴ **Fulmora** — O Reino dos Raios, campos de plasma e tempestades perpétuas no nordeste.
+¹⁴ **aethra-dampener / aethra-dampeners** — Dispositivos portáteis de cristal projetados para criar campos localizados de interferência elemental que suprimem o fluxo de *aethra*⁹.
 
-¹⁵ **SinDrarys** — A técnica de fundir duas afinidades elementais complementares para manifestar uma técnica superior.
+¹⁵ **Korath** — Líder dos mercenários de Umbra¹¹ que transportou Alyndra¹⁶ até o templo e acabou aceitando a rendição negociada.
 
-¹⁶ **Oren** — Jovem operativo Tar-Gig⁶, primeira baixa da equipe, esmagado pela pressão elemental de um dos braços da aberração.
+¹⁶ **Alyndra** — Menina órfã, foco do rapto e do ritual de convergência, abrigada viva no interior do templo.
 
-¹⁷ **Daryn** — Operativo Tar-Gig⁶ especialista em canalização defensiva que morre de exaustão *aethrica*¹.
+¹⁷ **Nihil Shid** — Organização conspiratória criminosa que financiou o transporte de Alyndra¹⁶ sob a fachada das cargas fantasmas¹⁸.
 
-¹⁸ **Kest** Kest — Operativo Tar-Gig⁶ que morre infectado pela corrupção canalizada através de sua própria lâmina.
+¹⁸ **cargas fantasmas** — Operação ilegal de tráfego de pessoas e aetherite promovida pelos Nihil Shid¹⁷.
 
-¹⁹ **Thaloris Ventaris** — O antigo governante de Sylvaris que aceitou o pacto dos Nihil Shid e acabou transformado no monstro.
+¹⁹ **Kalúdris** — A classificação de anomalia de mais alta prioridade nos protocolos de defesa continentais de Sanctrum³.
 
-²⁰ **Nyctara** — Título de combate e identidade secreta de Lyris²⁹.
+²⁰ **lyrien / lyriens** — Animais companheiros nativos de Alyndra, sensíveis ao fluxo de *aethra*⁹.
 
-²¹ **Selynis Thalassa** — Identidade civil de Velatrix², Mestra da Informação em Sanctrum¹³.
+²¹ **Nyx** — O *lyrien*²⁰ prateado de estimação de Alyndra¹⁶ que permanece com ela nas profundezas do templo.
 
-²² **Sylvaris** — O Reino dos Ventos, florestas prateadas e campos dourados no oeste; primeiro reino.
+²² **nihilary / nihilarys** — Entidades de sombra que compõem o corpo da aberração e possuem os corpos de civis transformados em soldados corrompidos.
 
-²³ **Lugal Lil** — Título tradicional em *Emê-Gir* do monarca de Sylvaris.
+²³ **argentis** — Árvores de casca prateada de Sylvaris²⁷ cujos canais internos conduzem energia e murcham sob a corrupção.
 
-²⁴ **Aurion** — A estrela central e sol de Nova Aetherion.
+²⁴ **Aurion** — A estrela central e sol de Nova Aetherion. A aura de escuridão da aberração bloqueia a claridade natural de Aurion²⁴.
 
-²⁵ **Alyndra** — A órfã protagonista com afinidades de *cryonys*³⁰, mantida refém no templo da fronteira.
+²⁵ **Thaloris Ventaris** — O falecido governante de Sylvaris²⁷ que se submeteu ao vazio e foi transformado em aberração.
 
-²⁶ **Nyx** — O *lyrien*²⁸ prateado de estimação de Alyndra²⁵.
+²⁶ **Lugal Lil** — Título tradicional em *Emê-Gir* do monarca de Sylvaris²⁷.
 
-²⁷ **lyrien** — Animal companheiro nativo de Alyndra, sensível ao fluxo de *aethra*¹.
+²⁷ **Sylvaris** — O Reino dos Ventos, campos de trigo e florestas de casca prateada no oeste; primeiro reino.
 
-²⁸ **Lyris** — Administradora do Orfanato Luminis²⁹. Codinome de combate: Nyctara²⁰. Mencionada na previsão.
+²⁸ **cryonys** — Técnica SinDrarys¹³ de fusão Água + Vento de baixas temperaturas e manifestações de gelo. Mencionada na previsão.
 
-²⁹ **Aldric** — Agente de campo e guerreiro, portador da espada Thalassiana. Mencionado na previsão.
+²⁹ **Ayla** — Linhagem thalassiana ancestral e falecida mãe de Alyndra¹⁶. Mencionada na previsão.
 
-³⁰ **Ayla Marethyus** — Linhagem thalassiana ancestral e falecida mãe de Alyndra²⁵. Mencionada na previsão.
+³⁰ **Orfanato Luminis** — A instituição de acolhimento de órfãos onde Alyndra¹⁶ passou sua infância. Mencionada na previsão.
 
-³¹ **Terraxis** — Reino da Terra, das minas e das oficinas de metalurgia no centro-leste. Mencionado na previsão.
-
-³² **aetherite** — Mineral denso e pesado condutor de força sísmica, nativo de Terraxis³¹. Mencionada na previsão.
-
-³³ **Marethyus** — O avô materno de Alyndra²⁵ e antigo governante de Thalassia. Mencionado na previsão.
-
-³⁴ **Thalassia** — Reino das Águas e dos arquipélagos no sudeste. Mencionado na previsão.
-
-³⁵ **Urrak** — Fera de montanha robusta de Terraxis³¹ e apelido de combate do guerreiro gigante de Terraxis³¹. Mencionado na previsão.
+³¹ **Aurelius** — Aurelius Lumivael, o En Me (Guardião Mestre) de Sanctrum³. Mencionado na previsão.

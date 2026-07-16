@@ -6,263 +6,301 @@
 
 # CAPÍTULO XXXII
 
-# A Sombra que Chega
+# A Possessão
 
-*"Existem velocidades que o corpo não compreende — apenas a urgência. E a urgência é a linguagem que o desespero fala quando as palavras já não alcançam."*
-
----
-
-## I. Voo de Convergência
-
-A *koramis*¹ cortava o céu como uma lâmina de cristal negro corta água — sem resistência, sem atrito, sem o protesto que a física faz quando algo pesado se recusa a obedecer à gravidade. As asas da ave batiam com a precisão de um metrônomo elemental, cada movimento sincronizado com as correntes de *aethra*² atmosférico que fluíam entre as camadas de ar como veias invisíveis. O vento passava pelas bordas das asas e se tornava silêncio — não o silêncio vazio das planícies, mas o silêncio ativo de uma máquina viva que transformava movimento em ausência de som.
-
-Aldric³ pilotava.
-
-Não era a palavra exata — pilotar implicava uma máquina, e uma *koramis* não era máquina. Era uma criatura de cristal e *aethra*, uma montaria que respondia a comandos não de rédeas mas de impulso, não de mãos mas de intenção. Aldric³ guiava a *koramis* com os joelhos pressionados contra os flancos de cristal e as mãos levemente apoiadas na base do pescoço, e a ave respondia — virava, subia, descia, acelerava — como se pudesse ler não os comandos corporais de Aldric³, mas o mapa de *aethra* que seus pensamentos desenhavam no ar.
-
-Era assim que os talassianos voavam. Não com força — com ressonância.
-
-Lyris⁴ estava montada atrás dele, com as mãos firmemente agarradas aos arreios de *aethrys*⁵ e o vento batendo no rosto com a força de quem tenta empurrar alguém para trás. Não era uma posição confortável — a *koramis* era feita para um cavaleiro, não para dois — mas Lyris⁴ não pensava em conforto. Pensava em Alyndra⁶. Pensava em Nyx⁷. Pensava no templo na fronteira de Fulmora⁸ e Umbra⁹, e na distância — ainda imensa, ainda insuportável — que os separava da menina que juraram proteger.
-
-— Quanto tempo? — Lyris⁴ perguntou, e a voz saiu dilacerada pelo vento.
-
-Aldric³ não se virou. Seus olhos — escuros, focados, absorvidos pelo horizonte que se desfazia diante deles como uma pintura que alguém apagasse com movimentos largos — permaneceram fixos na frente.
-
-— Mais duas horas de voo direto. Talvez menos se as correntes de *aethra* continuarem favoráveis.
-
-Duas horas. Duas horas de voo sobre território que não era de nenhum reino — a faixa desolada entre Fulmora⁸ e Umbra⁹, onde a terra se tornava rocha vulcânica e a rocha se tornava cinza e a cinza se tornava nada. Lyris⁴ conhecia aquela rota. Havia estudado os mapas da Câmara dos Sussurros¹⁰, havia cruzado os dados da RRA¹¹, havia compilado cada relato de aventureiros e mercenários que haviam tentado atravessar a fronteira e voltado — quando voltaram — com histórias que não eram histórias mas advertências.
-
-La fronteira não era um lugar. Era um limite. E limites, em Alyndra, tinham o hábito de devorar quem os desafiava sem preparação.
-
-A *koramis* voava a uma altitude que permitia ver a paisagem abaixo em detalhes suficientes para reconhecer o que ela era e insuficientes para reconhecer o que ela não era. Lyris⁴ olhava para baixo e via: planícies de cinza, interrompidas por formações rochosas que se erguiam como costelas de um gigante enterrado; fileiras de *argentis*¹² mortas — não secas, não caídas, mortas, com os troncos negros e as folhas enroscadas como dedos de cadáver; e, ao longe, uma mancha de escuridão no horizonte que não era sombra de montanha nem nuvem de tempestade, mas algo que era a ambos e a nenhum simultaneamente.
-
-O *aethra* ali era denso demais. Lyris⁴ sentia — não via, sentia — a densidade energética que emanava do chão como calor que emana de uma ferida infectada. O ar tinha peso. Cada respiração era mais esforço do que deveria ser, como se os pulmões precisassem trabalhar contra uma pressão que não existia no restante de Alyndra.
-
-— O *aethra* está estranho — Aldric³ disse, e a observação era tão óbvia que não precisava ser dita, mas foi dita porque o silêncio entre eles era mais pesado que o *aethra*, e o silêncio, quando carrega medo, precisa ser quebrado. — Corrompido. Como se algo tivesse derramado veneno nas veias do mundo.
-
-Lyris⁴ não respondeu. Sabia o que ele descrevia. Toda a rede RRA¹¹ havia captado as anomalias nos últimos meses — flutuações de *aethra* atmosférico que não correspondiam a nenhum padrão natural, emissões de energia negra que pulsavam como um coração doente no subsolo da fronteira. Selynis¹³ havia sido a primeira a identificar a anomalia. Selynis¹³, com sua precisão cirúrgica de quem analisa dados como outros analisam rostos, havia rastreado a assinatura até um ponto específico: o templo.
-
-O mesmo templo onde Alyndra⁶ havia sido levada.
-
-A *koramis* acelerou. As asas bateram com mais frequência, e o ar se tornou um canto agudo que vibrava nos ossos. Aldric³ inclinou o corpo para frente, e a ave respondeu, mergulhando em uma corrente descendente que os catapultou para a frente com uma velocidade que fez o horizonte estalar como um chicote.
-
-Lyris⁴ agarrou os arreios com mais força. Não de medo — de raiva. A raiva de quem voa o mais rápido que pode e ainda sente que não é rápido o suficiente, que cada segundo no ar é um segundo a mais que Alyndra⁶ passa no templo, e cada segundo é uma eternidade quando se é criança e se está sozinha no escuro.
-
-*Aguenta, menina*, Lyris⁴ pensou, e o pensamento era tão intenso que, por um instante, ela jurou que o *aethra* ao redor pulsou em resposta — como se a urgência de um coração pudesse se propagar pelo ar e alcançar quem estava além do alcance dos olhos.
-
-*Só mais duas horas.*
+*"A possessão não é a entrada de algo estranho. É a descoberta de que o corpo era um recipiente o tempo todo — e que o conteúdo original nunca foi dono de si."*
 
 ---
 
-## II. A Confissão de Aldric
+## I. A Promessa Cumprida
 
-A verdade veio na segunda hora de voo.
+O canto não parava.
 
-Não porque Aldric³ decidisse contá-la — Lyris⁴ percebeu que ele carregava algo há meses, algo que pesava nos ombros como uma capa invisível de ferro, algo que ele engolia a cada dia e que, a cada dia, se tornava mais difícil de engolir. Ela o conhecia há valens agora — desde os tempos do Orfanato Luminis¹⁴, desde antes de Lyris⁴ se tornar Nyctara¹⁵, desde quando ambos eram jovens o suficiente para acreditar que proteger crianças era simples e que o mal tinha formas reconhecíveis. Aldric³ sempre foi reservado — não silencioso, mas seletivo, escolhendo cada palavra com a precisão de um armeiro que escolhe as peças de um mecanismo. Mas havia algo diferente naquele voo. Uma tensão nos maxilares. Uma rigidez nas costas. A forma como os dedos apertavam o pescoço da *koramis* com força demais para quem voava há valens.
+Thaloris Ventaris¹ estava de pé no centro do círculo de pedra do Templo de Ventus², com os braços caídos ao lado do corpo e o dardo de *aethrys*³ ainda encravado no ombro esquerdo, e não conseguia mover-se. Não por paralisia — não havia cordas, nem grilhões, nem força física a conter-lhe os membros. Não se movia porque o ar não se movia.
 
-— Aldric³ — Lyris⁴ disse, e o nome não era pergunta nem convite — era um reconhecimento. — Me diga.
+O *aethra*⁴ que circundava o templo tornara-se sólido — não em substância, mas em vontade. O ar continuava gasoso, ainda podia ser respirado, ainda preenchia os pulmões com oxigênio e os vestígios elementais que teciam a atmosfera de Alyndra. No entanto, perdera a fluidez. Movimentar-se era como nadar em mel: cada gesto possível, mas a um custo desproporcional, como se a própria textura do mundo resistisse à intenção de quem ousava rompê-la.
 
-Aldric³ não respondeu por doze segundos. Depois quinze. Depois vinte. Lyris⁴ contou cada um, porque contar era o que fazia quando não podia fazer nada mais — quando o corpo estava preso nas costas de uma ave e o futuro estava preso nas mãos de forças que não controlava, contar segundos era a única forma de exercer controle sobre algo.
+A mulher de branco cantava.
 
-Quando Aldric³ falou, a voz era baixa — quase inaudível sobre o vento, quase engolida pelo canto das asas. Mas Lyris⁴ ouviu. Cada sílaba. Cada pausa. Cada fragmento de verdade que saía de dentro de Aldric³ como fragmentos de vidro saindo de uma ferida.
+As palavras eram incompreensíveis — não apenas porque eram em uma língua que não existia em nenhum glossário de *Emê-Gir*⁵, mas porque não eram palavras. Eram vibrações. Sons que existiam na fronteira entre a audição e a sensação, que atingiam os tímpanos de Thaloris e continuavam além, atravessando os ossos, os tecidos, os vasos sanguíneos, até atingir algo no centro do corpo que não era físico — algo que os textos antigos chamavam de núcleo vital, o ponto onde o *aethra* pessoal de um ser vivo convergia com o *aethra* ambiental.
 
-— Eu conhecia Ayla¹⁶.
+A mulher estava cantando diretamente para o núcleo vital de Thaloris.
 
-O nome tombou no ar como uma pedra em água profunda — sem respingo, sem ondas, apenas a absorção silenciosa do impacto. Lyris⁴ sentia a revelação não como emoção, mas como física: o peito contraiu-se, os braços enrijeceram, o coração disparou — e a *koramis* sentiu, traduzindo o sobressalto em um leve desequilíbrio do voo.
+E o núcleo vital respondia.
 
-— Como? — Lyris⁴ perguntou, e a palavra era curta porque palavras longas eram demais para o momento.
+Thaloris sentia isso — uma vibração interna que crescia a cada nota do canto, como um diapasão sendo atingido por ondas sonoras na frequência exata de ressonância. Não era dor — ainda não. Era reconhecimento. Como se algo dentro dele — algo que sempre esteve ali, algo que ele nunca soube que existia — estivesse sendo acordado por um som que era feito especificamente para acordá-lo.
 
-— Kaelia Marethyus¹⁷ me enviou. Ela representava Thalassia em Sanctrum e cooperava de perto com a Câmara dos Sussurros¹⁰ na época. Há valens — muitos valens, antes de Alyndra⁶ nascer — ela me ordenou que encontrasse Ayla¹⁶. Disse que a segurança de Ayla era de interesse vital da Câmara.
+— O que você está fazendo? — Thaloris perguntou, e a voice saiu estrangulada, como se as cordas vocais tivessem que atravessar o mel espesso do ar solidificado para chegar ao mundo exterior.
 
-Aldric³ fez uma pausa. A *koramis* ajustou sua altitude automaticamente, subindo para evitar uma coluna de vapor sulfuroso que se erguia do solo como o dedo de um fantasma. Quando o ar clareou, ele continuou.
+A mulher não parou de cantar. Mas seus olhos — aqueles olhos de Aurion⁶ liquefeito, impossivelmente claros, impossivelmente calmos — encontraram os de Thaloris, e através do canto, como se a canção e a fala pudessem coexistir na mesma voz, ela disse:
 
-— Encontrei-a em Mespiria¹⁸. Estava grávida. Quase no final — o *cryonys* de Alyndra⁶ já começava a se manifestar na criança, e Ayla¹⁶ sentia. Sentia o frio se espalhando pelo próprio corpo como se a filha estivesse congelando-a de dentro para fora.
+— Cumprindo a promessa.
 
-Aldric³ soltou os ombros — um gesto mínimo que, na tensão do voo, era o equivalente a um desabafar. E Lyris⁴ percebeu que aquela não era a primeira vez que ele contava essa história — era a primeira vez que ele a contava para alguém. Que ele havia carregado aquelas palavras dentro de si por valens, como pedras no bolso de um afogado, e que as pedras finalmente se tornaram pesadas demais para continuar carregando.
+A promessa.
 
-— Eu deveria ter reportado a Kaelia¹⁷. Era minha missão. Era meu dever para com a Câmara. Mas quando vi Ayla¹⁶ — quando vi a barriga, quando vi o medo nos olhos dela, quando vi o gelo formando cascas nos próprios braços dela a cada vez que a criança se movia — eu não pude. Não pude entregar aquela mulher e aquela criança aos Nihil Shid¹⁹. Nem indiretamente. Nem através da Câmara.
+A palavra ecoou no interior de Thaloris como uma pedra jogada em um poço — caindo, caindo, caindo, sem atingir o fundo porque o poço não tinha fundo. A promessa que a voz sussurrava nas nyxaras há meses. A promessa que o havia levado às ruínas do templo. A promessa de imortalidade.
 
-Lyris⁴ não interrompeu. Não porque não tivesse perguntas — tinha dezenas, centenas — mas porque entendia algo que a experiência de valens no Orfanato Luminis¹⁴ havia lhe ensinado: que certas confissões só podem ser completadas se quem ouve permanecer em silêncio até o fim. Interromper era arriscar que o confessor fechasse a boca e nunca mais a abrisse.
+— Eu vim pelo que me foi oferecido — Thaloris disse, e a voz era mais forte agora, porque a raiva — a raiva que era a última coisa que ele tinha, a última emoção que pertencia ao homem e não ao *Lugal Lil*⁷ — queimava com intensidade suficiente para derreter o mel do ar ao seu redor. — Imortalidade. Foi isso que me prometeram.
 
-— Fiquei. Fiquei em Mespiria¹⁸ por meses. Ajudei Ayla¹⁶ no parto — o *cryonys* complicou tudo, a temperatura da sala caiu tanto que a água no balde congelou e a criança nasceu coberta de gelo, como se tivesse sido esculpida em uma caverna de inverno e não em um corpo de mulher. Ayla¹⁶ a segurou por três segundos — três segundos — e depois... seu corpo cedeu sob o peso da Convergência Tripla. A exaustão da canalização elemental sob aquele alinhamento de luas simplesmente drenou sua última faísca vital.
+A mulher sorriu. O sorriso era o mesmo sorriso de antes — perfeito, sereno, materno. Mas agora, naquele sorriso, Thaloris viu algo que não havia visto antes: antiguidade. Uma antiguidade tão profunda, tão abissal, que a palavra "antigo" perdia o significado ao tentar descrever-la. A mulher de branco não era velha. Era anterior.
 
-Aldric³ falou com a clareza dolorosa de quem testemunhou o preço supremo daquela convergência no parto. Não foi uma doença ou força misteriosa que a levou, mas a exaustão extrema da canalização que drenou suas forças até o fim.
+— Imortalidade — ela repetiu, e a palavra em seus lábios tinha o peso de uma sentença. — Sim, Thaloris. Você terá imortalidade. Mas não o tipo que você imaginava — não a perpetuação do corpo que você conhece, não a extensão da consciência que você chama de "eu". A imortalidade que oferecemos é diferente.
 
-— Depois — ele continuou, e a voz era mais firme agora, como se atravessar a memória do parto tivesse sido o mais difícil e o resto fosse descer uma colina —, Melessa²⁰ Solynthr a criou. A parteira que ajudou no parto, que viu Ayla¹⁶ sucumbir à exaustão logo após o nascimento — Melessa ficou com Alyndra⁶. Eu vigiei de longe, não entrei. Passei meses em Mespiria¹⁸, morando em uma pensão, acompanhando de fora, certificando-me de que os Nihil Shid¹⁹ não tinham rastreado a criança. Melessa a criou até ficar doente. Até não poder mais. E foi só depois que Alyndra⁶ foi para o Orfanato Luminis¹⁴ — levada por outros, não por mi, porque se alguém me visse colocando aquela criança em um orfanato, as perguntas começariam.
+Ela se aproximou. Cada passo deixava uma marca luminosa no chão de pedra — como se a luz que emanava dela fosse tão densa que transbordava, tingindo o mundo com brilho como um pincel de Aurion.
 
-— E você ficou vigiando — Lyris⁴ disse. Não era pergunta.
+— A imortalidade que oferecemos é a delas.
 
-— De longe, primeiro. Meses. Depois me aproximei — me ofereci como voluntário. Quando Kaelia¹⁷ finalmente me chamou de volta a Sanctrum²², eu já tinha acesso ao orfanato. Tinha permissão para visitar. Tinha a confiança de Sera²¹.
+Ela apontou para cima.
 
-Lyris⁴ respirou fundo. O vento trouxe o cheiro de enxofre — estavam se aproximando da fronteira, a terra abaixo se tornando cada vez mais negra, cada vez mais morta. E naquele momento, envolvida em enxofre e velocidade e uma confissão que mudava tudo o que ela pensava saber sobre Aldric³, Lyris⁴ entendeu algo: Aldric³ não era apenas um aliado. Era algo mais raro e mais perigoso — era alguém que havia escolhido Alyndra⁶ não por dever, não por ordem, não por lealdade a uma organização, mas por algo que não tinha nome em nenhuma língua de Alyndra. Algo que era anterior à lealdade e posterior ao amor. Algo que estava entre a proteção e a culpa, e que Aldric³ carregava como uma ferida que nunca cicatrizou.
+Thaloris olhou.
 
-Aldric³ tirou algo de sob a túnica.
-
-Não com pressa — com a deliberada lentidão de quem retira um objeto que guardou por valens e que, ao ser retirado, deixa o corpo mais leve e mais vazio ao mesmo tempo. Era uma espada. Não uma espada comum — mesmo envolvida na capa de couro que a protegia, a espada emanava. O *aethra* que saía dela era diferente do *aethra* corrompido da fronteira — era limpo, frio, com a textura de cristal submerso em água glacial. Lyris⁴ sentiu o *aethra* da espada atravessar a capa de couro como sentira a umidade no ar antes de uma tempestade: não visível, mas inegável.
-
-— O que é isso? — Lyris⁴ perguntou.
-
-Aldric³ segurou a espada com as duas mãos — uma mão na lâmina envolvida, outra no cabo — e a ergueu até o nível dos olhos. Depois, com um gesto que foi ao mesmo tempo cuidadoso e cerimonial, ele puxou a capa de couro.
-
-A lâmina surgiu como um raio de Aurion surgindo atrás de uma nuvem — não gradualmente, mas de uma vez, com uma luminosidade que fez Lyris⁴ piscar e a *koramis* emitir um som agudo de alerta. Era Thalassiana²³ — isso era imediatamente reconhecivel. O aço tinha a cor da água profunda: azul-escuro nas bordas, mais claro no centro, com veios que pulsavam em prata como correntes subaquáticas fossilizadas no metal. A lâmina era longa — mais longa do que uma espada padrão, quase uma espada de montaria — e fina, com uma borda tão afiada que o ar parecia se separar ao redor dela como água ao redor de um navio. No cabo, uma gema de *aethrys*⁵ azul claro pulsava com a regularidade de um coração.
-
-— A espada de Ayla¹⁶ — Aldric³ disse, e a voz era baixa, carregada de um peso que era ao mesmo tempo honra e luto. — Era dela. Uma relíquia Thalassiana²³ — forjada nas forjas submersas de Velantis²⁴ há milênios, antes que o reino afundasse. Ayla¹⁶ a carregava quando a encontrei em Mespiria¹⁸. Dizia que era a única coisa que restava de sua linhagem.
-
-Aldric³ embainhou a espada. Não a devolveu sob a túnica — segurou-a diante de si, como quem segura uma promessa.
-
-— Era para ser de Alyndra⁶ — ele disse. — Ayla¹⁶ me fez prometer que, quando Alyndra⁶ estivesse pronta, eu entregaria a espada a ela. Que a espada era o direito de nascença que o mundo tentou roubar. Eu prometi. E guardei. Por valens, guardei.
-
-Aldric³ olhou para Lyris⁴. Seus olhos — que eram o tipo de olhos que não revelavam nada a menos que quem olhasse estivesse disposto a ver — revelaram algo. Não lágrimas. Aldric³ não era homem de lágrimas. Mas ausência — a ausência de lágrimas que deveria ter havido e não houve, como uma ferida que cicatrizou tão mal que nem a dor consegue encontrá-la.
-
-— Quando encontrarmos Alyndra⁶ — Aldric³ disse, e a voz era firme agora, firme como o aço Thalassiano²³ da espada —, eu vou dar isso a ela. Vou cumprir a promessa. Não importa o que aconteça no templo, não importa o que encontrarmos lá dentro. A espada vai para Alyndra⁶.
-
-Lyris⁴ assentiu. Não com palavras — com um gesto breve da cabeça que continha tudo o que as palavras não podiam conter naquele momento: compreensão, respeito, e algo que era quase gratidão — gratidão por saber que Aldric³ carregava aquele peso para que Lyris⁴ não precisasse carregá-lo sozinha.
-
-A *koramis* continuou voando. O horizonte escureceu. A fronteira se aproximava. E a espada de Ayla¹⁶ pulsava no colo de Aldric³ como um coração fora do peito, esperando pela filha que ainda não conhecia.
-
-Lyris⁴ ia virar a atenção de volta para a fronteira quando percebeu o movimento. Aldric³ não olhava para frente. Seus olhos — fixos no horizonte durante toda a confissão — agora olhavam para baixo. Para as mãos. Para a espada. E para algo que não estava ali, algo que seus olhos procuravam no vazio entre os dedos como quem procura um objeto perdido há valens e que sabe que não vai encontrar.
-
-— Aldric³ — Lyris⁴ disse de novo. Desta vez, não era reconhecimento. Era convite.
-
-Aldric³ respirou fundo — o tipo de respiração que antecede algo que se carrega há valens e que, uma vez dito, não pode mais ser guardado.
-
-— Há uma coisa mais — ele disse. — Depois que Melessa²⁰ ficou doente e Alyndra⁶ foi para o orfanato, eu voltei a Mespiria¹⁸. Uma vez. Para visitar o túmulo.
-
-Lyris⁴ não interrompeu.
-
-— A terra estava remexida. Não destruída — remexida. Com precisão. Como se alguém soubesse exatamente onde cavar e não quisesse que ninguém visse. As flores que Elara fizera brotar na noite do enterro ainda estavam ali — murchas, mas intactas, como sentinelas que guardavam um segredo que já não havia nada para guardar. Mas abaixo da terra... o túmulo estava vazio. O corpo de Ayla¹⁶ não estava lá.
-
-O vento soprou. A *koramis* tremeu. Lyris⁴ sentiu o ar gelar ao redor — não o frio da fronteira, que era geológico, elementar, esperado — mas o frio de uma revelação que não deveria existir.
-
-— Eu não contei a ninguém — Aldric³ continuou, e a voz era mais baixa agora, quase um sussurro perdido no vento. — Pensei que fosse um animal. Depois pensei que fossem aldeões — saqueadores de túmulos, algo comum nas vilas sem guarda. Mas nenhum animal cava com precisão, e nenhum saqueador desenterra uma mulher e deixa as flores intactas. E depois... parei de pensar nisso. Porque pensar nisso significava aceitar que algo que eu não compreendia havia acontecido — e eu já não compreendia o suficiente sobre o mundo para caber mais uma incógnita.
-
-Ele fez uma pausa. Suas mãos — as mãos que seguravam a espada de Ayla¹⁶ — apertaram a lâmina envolvida com força suficiente para fazer a gema de *aethrys*⁵ pulsar em alerta.
-
-— Eu devia ter contado — ele disse. — A você. A Selynis¹³. A alguém. Mas como se diz — a voz falhou, e ele engoliu o que restava da frase como quem engole vidro — como se diz que o túmulo da mãe de uma criança está vazio?
-
-Lyris⁴ não respondeu. Não porque não tivesse resposta — mas porque a resposta que tinha era a mesma de Aldric³: não se diz. Não se pode dizer. Algumas verdades são tão pesadas que as palavras se quebram ao tentar carregá-las.
-
-A *koramis*¹ continuou voando. O horizonte escureceu mais ainda. E a espada de Ayla¹⁶ pulsava no colo de Aldric³ — a última coisa concreta que restava de uma mulher cujo corpo o mundo havia perdido, cujo túmulo havia sido violado, e cuja filha estava presa num templo sem saber que nem mesmo os mortos estavam a salvo.
+E viu.
 
 ---
 
-## III. Sinais de Convergência
+## II. O Céu se Abre
 
-O comunicador RRA¹¹ crepitou.
+Não era nuvem.
 
-O som era agudo, metálico, como um inseto preso em metal — a assinatura sonora do canal seguro que a RRA¹¹ usava para transmissões de prioridade máxima. Lyris⁴ ativou o receptor no pulso — um dispositivo de *aethrys*⁵ do tamanho de uma moeda que se prendia ao antebraço com correias de couro — e a voz que saiu não era uma voz, era um mapa.
+Não era escuridão. Não era tempestade. Não era nenhum fenômeno atmosférico que os textos elementais de Sylvaris⁸ houvessem catalogado em valens de estudo e observação. Era algo que estava entre as categorias — algo que existia na fronteira entre o visível e o sentido, entre o que os olhos podiam processar e o que o cérebro podia suportar.
 
-— Equipe Norte — posição atual: treze quilômetros ao norte do templo. Avançando pelo desfiladeiro de basalto. Sem contato visual com o inimigo. *Aethra* corrompido detectado em intensidade moderada.
+O céu estava escuro.
 
-A primeira equipe. Lyris⁴ reconheceu a voz — era o oficial Tavran, um veterano de Fulmora⁸ que liderava um esquadrão de doze resgatistas treinados para operações em território hostil. Tavran era competente, disciplinado, e tinha a rara habilidade de relatar informações sem inflexão emocional — uma voz que era mais instrumento do que pessoa.
+Não escuro como nyxara — a nyxara tinha estrelas, tinha Nyx⁹, tinha a textura de um manto de veludo estendido sobre o mundo. Isto era outro. Isto era o tipo de escuridão que existe debaixo das coisas — a escuridão que fica abaixo da pedra, abaixo da terra, abaixo do conceito de profundidade, a escuridão que não é ausência de luz mas presença de algo que substitui a luz.
 
-— Equipe Leste — posição atual: dezenove quilômetros a leste do templo. Avançando pela planície sulfurosa. Encontramos... — a voz hesitou — ...encontramos marcas. No chão. Rachaduras que não são geológicas. São elementais. Algo drenou o *aethra* do solo em uma área de aproximadamente duzentos metros de raio. A terra está morta. E as *argentis*¹² mortas ao longo da rota — não secas, não queimadas. Arrancadas. Pelas raízes.
+E dessa escuridão, coisas se moviam.
 
-A segunda equipe. Lysias Thyrion²⁵. Lyris⁴ reconheceu o tom — não o tom de um oficial reportando, mas o tom de um historiador documentando. Lysias Thyrion²⁵ liderava a equipe leste e estava relatando o que via com a precisão de quem escreve para a posteridade. As marcas que ele descrevia — rachaduras elementais, *argentis*¹² arrancadas, *aethra* drenado — não eram naturais. Eram pegadas. Pegadas de algo que era tão poderoso que o mero ato de caminhar deixava cicatrizes no tecido elemental do mundo.
+Não desciam — fluíam. Como fumaça líquida, como tinta negra em água clara, como sombra que tivesse ganho peso e viscosidade e intenção. As formas não tinham contornos definidos — eram massas de obscuridade que se esticavam e contraíam, que se dividiam e se fundiam, que tinham a geometria fluida dos pesadelos e a consistência de algo que não deveria existir na realidade acordada.
 
-— Equipe Sul — posição atual: nove quilômetros ao sul do templo. Movendo-se mais rápido que o previsto. Encontramos o rastro de Korath²⁶ e seu grupo — marcas de passagem na cinza vulcânica, vestígios de acampamento. Korath²⁶ passou por aqui há menos de dois dias. Ele está no templo. Or estava. Sera²¹ confirma anomalia térmica nas profundezas da estrutura — algo lá dentro está emitindo frio em níveis que não correspondem a nenhum padrão conhecido.
+Eram *nihilarys*¹⁰.
 
-A terceira equipe. A voz era de Virene, uma resgatista de Sanctrum²² que se especializava em rastreamento elemental. Se ela dizia que Korath²⁶ estava no templo, então Korath²⁶ estava no templo. E se ela dizia que algo emitia frio em níveis anômalos, então o frio era o *cryonys* de Alyndra⁶ — ou algo pior.
+Mas não um. Não dois. Não dez.
 
-Lyris⁴ processou as informações enquanto a *koramis* voava. Três equipes. Três direções. Todas convergindo para o mesmo ponto — o templo na fronteira. A informação da RRA¹¹ confirmava o que Selynis¹³ havia compilado nos últimos meses: o templo era o destino final de Korath²⁶, e algo estava muito errado ali dentro.
+Eram legiões.
 
-E agora havia mais.
+Thaloris contou — tentou contar — e desistiu em três segundos porque os números haviam perdido o significado. As formas escureciam o céu como uma nuvem de gafanhotos escurece a manhã, exceto que gafanhotos são vida e aquilo era anti-vida, exceto que gafanhotos têm forma e aquilo tinha apenas sugestão de forma, exceto que gafanhotos podem ser mortos e aquilo...
 
-Lysias Thyrion²⁵ — cujos relatórios eram lidos pela Câmara dos Sussurros¹⁰ com a mesma reverência que se leem textos antigos — havia documentado as rachaduras elementais e as *argentis*¹² arrancadas, e a documentação, quando chegou a Lyris⁴ através do canal RRA¹¹, não era apenas informação. Era advertência.
+Aquilo não podia ser morto. Aquilo já estava morto. E era exatamente por isso que era tão aterrorizante — porque a morte, quando deixa de ser o fim e se torna o meio, se torna infinitamente mais poderosa do que qualquer coisa viva.
 
-Aldric³ ouviu os relatos em silêncio. Não fez perguntas. Não fez comentários. Mas suas mãos — as mãos que seguravam o pescoço da *koramis* e a espada de Ayla¹⁶ — apertaram. E quando apertaram, a *koramis* acelerou novamente, como se sentisse a urgência do cavaleiro e respondesse com a única linguagem que conhecia: velocidade.
+Os operativos de Umbra¹¹ — os quatro que permaneciam de pé, os que tinham sobrevivido à fúria dos ventos de Thaloris — caíram de joelhos. Não por medo — ou não apenas por medo. Por instinto. O mesmo instinto que faz um animal se submeter diante de um predador que está tão acima dele na cadeia alimentar que a luta nem mesmo é considerada. A submissão não era covardia. Era biologia.
 
-— Mais uma hora — Aldric³ disse. — Talvez menos.
+A mulher de branco continuava cantando.
 
-Lyris⁴ não respondeu. Olhou para baixo, para o chão que se tornava cada vez mais negro e cada vez mais rachado, e sentiu — não viu, sentiu — algo que a fez o sangue gelar nas veias.
+O canto tinha mudado — as notas eram mais altas agora, mais penetrantes, mais insistentes, como se a melodia estivesse escalando uma montanha e cada nota fosse um degrau. O ar ao redor do templo pulsava com a frequência do canto — não visível, mas palpável, uma vibração que fazia as pedras tremerem e os ossos de quem estava dentro do perímetro vibrarem em simpatia.
 
-O *aethra* abaixo deles não era apenas corrompido. Era saído do lugar. Como se algo tivesse puxado o *aethra* da terra com mãos invisíveis, deixando para trás apenas a casca — o solo, a rocha, a cinza — sem a substância vital que fazia o mundo ser vivo.
+A mulher estendeu a mão para Thaloris. A mão era delicada, de dedos longos e unhas impecáveis, e emanava uma luz que era quase quente — não quente como fogo, quente como presença, como se a luz fosse uma substância e a substância tivesse temperatura.
 
-Lyris⁴ conhecia aquele padrão. Havia lido sobre ele nos textos proibidos da Câmara dos Sussurros¹⁰. Havia sido alertada por Selynis¹³.
+— Você quer a imortalidade, *Lugal Lil*? — ela perguntou, e a voz se misturava ao canto sem interrompê-lo, como duas melodias que coexistem na mesma partitura. — Tome.
 
-Era a assinatura dos *nihilarys*²⁷. Amplificada. Multiplicada. Concentrada em um único ponto — o templo — e se espalhando para fora como onda em um lago.
+Thaloris não conseguiu recuar.
 
-Mas não eram *nihilarys* individuais. A escala era errada. A intensidade era errada. Isso era algo maior.
+Não porque estivesse sendo impedido — porque o corpo, independentemente da vontade da mente, estava se movendo em direção à mão. Não era possessão do corpo pela mulher. Era algo pior: era o próprio corpo de Thaloris reconhecendo algo que a mente ainda se recusava a aceitar. O núcleo vital — aquela vibração interna que o canto havia acordado — estava puxando. Estava se inclinando em direção à fonte. Estava querendo.
 
-— Aldric³ — Lyris⁴ disse, e a voz carregava algo que não era medo, mas o reconhecimento do medo — a aceitação de que o que vinha era maior do que qualquer um deles havia planejado.
+— Não— — Thaloris começou, e foi tudo que conseguiu dizer.
 
-— Eu sei — Aldric³ respondeu, sem que Lyris⁴ precisasse terminar a frase.
-
-Ele sabia. Ele sentia a mesma coisa. A *koramis* sabia. O próprio *aethra* ao redor deles sabia — e o *aethra*, quando sabe que algo está errado, reage da única forma que pode: se afasta. As correntes atmosféricas que sustentavam o voo da ave se tornaram turbulentas, instáveis, como se o ar estivesse tentando escapar de algo que se aproximava pela terra.
+Porque o primeiro *nihilary* tocou sua pele.
 
 ---
 
-## IV. A Esteira da Aberração
+## III. As Legiões
 
-Viram a trilha a uma hora do templo.
+O toque não foi doloroso.
 
-Não viram a coisa — a coisa ainda estava à frente, oculta pelo horizonte de cinza e pelas colunas de vapor sulfuroso que se erguiam do solo como colunas de um templo que não tinha teto. Viram a trilha. E a trilha era suficiente.
+Foi aniquilador.
 
-A *koramis* sobrevoou a cicatriz de destruição em voo rasante — baixo o bastante para que Lyris⁴ visse cada detalhe, alto o bastante para escapar dos fragmentos de rocha que ainda choviam das fissuras abertas. Aldric³ inclinou a ave em uma curva ampla, e Lyris⁴ olhou para baixo, e o que viu fez com que o estômago se contraísse e o coração disparasse e o cérebro — o cérebro que processava informações com a eficiência de uma máquina — travasse.
+O primeiro *nihilary* — uma massa de escuridão que tinha, naquele instante, aproximadamente o tamanho de um punho fechado — contactou a pele do antebraço direito de Thaloris como gota de tinta caindo em papel. A sensação foi de frio absoluto — não o frio do inverno, não o frio do *cryonys*¹² controlado, mas o frio do vazio, da ausência completa de calor, da temperatura que existe no espaço entre as estrelas onde não há matéria para vibrar.
 
-O chão estava aberto.
+E então o *nihilary* entrou.
 
-Não rachado — aberto. Como se algo tivesse arrancado a superfície da terra como quem arranca a casca de uma fruta, expondo o interior: camadas geológicas visíveis como fatias de um bolo cortado, veios de *aethrys* quebrados e escuros, raízes de *argentis*¹² que se estendiam para fora da terra como tripas de um corpo disseccionado. A abertura tinha vinte metros de largura e se estendia por quilômetros — não em linha reta, mas em uma linha que pulsava, que se alargava e estreitava como se o que a causasse tivesse respirado enquanto caminhava.
+Não pela ferida do dardo. Não pela boca, pelos ouvidos, pelas narinas — embora entrasse por todos esses lugares também, como fumaça que encontra cada fresta, cada fissura, cada ponto de entrada. O primeiro *nihilary* entrou pelo núcleo vital — atravessou a pele como se a pele não existisse, como se fosse feita de ar e não de carne e osso, e se instalou no centro do peito de Thaloris como uma pedra caindo no fundo de um lago.
 
-As *argentis*¹² não estavam mortas. Estavam obliteradas. Os troncos — que tinham a resistência de pedra e a durabilidade de cristal, que eram a estrutura viva do reino de Sylvaris e que haviam resistido a valens de tempestades e milênios de erosão — estavam partidos em pedaços, espalhados pelo chão como ossos de um massacre. As raízes, que se aprofundavam dezenas de metros no solo e que se entrelaçavam com as raízes das *argentis*¹² vizinhas em uma rede subterrânea que os botânicos de Sylvaris chamavam de medula da floresta, estavam arrancadas e penduradas nas bordas da fissura como cordas de um instrumento que alguém tinha destroçado.
+E Thaloris gritou.
 
-E a vegetação rasteira — os musgos, as *giralis*²⁸, as trepadeiras que cobriam o solo entre as *argentis*¹² — havia desaparecido. Não murcha, não seca. Desaparecida. Como se algo tivesse apagado a vegetação da existência, não matando-a mas negando-a, como se a própria ideia de vida vegetal tivesse sido removida daquele trecho de terra.
+Não um grito de dor — um grito de deslocamento. Como se algo tivesse sido arrancado de seu lugar legítimo e substituído por algo que não cabia, como se o núcleo vital — que era o centro de Thaloris, a parte dele que era mais ele do que qualquer outra — tivesse sido invadido, ocupado, colonizado por uma presença que não era dele e que não pretendia sair.
 
-O *aethra* corrompido era visível — não como uma cor ou uma textura, mas como uma ausência de cor e textura. O ar sobre la trilha de destruição tinha um tom que não era cinza nem preto nem transparente — era nada, o tipo de nada que existe quando algo consome toda a substância de uma coisa e deixa apenas o espaço onde a substância costumava estar. Lyris⁴ sentiu o *aethra* corrompido mesmo a dezenas de metros de altitude — um frio que não era *cryonys*, uma escuridão que não era sombra, uma presença que era a presença da ausência.
+O segundo *nihilary* entrou pela boca.
 
-Aldric³ guiou a *koramis* sobre a trilha em silêncio. Quando falou, a voz era estranhamente calma — a calma de quem já viu o suficiente para saber que o pânico não ajuda:
+Thaloris sentiu a escuridão fluindo por sua garganta — líquida, viscosa, viva, com uma textura que era ao mesmo tempo gelada e pegajosa, como alcatrão esfriando na superfície de um lago congelado. A escuridão desceu pela traqueia, atingiu os pulmões, e se espalhou — não como fumaça que se dissipa, mas como raízes que se fixam, ocupando cada alvéolo, cada capilar, cada espaço entre as células como se estivesse plantando algo dentro do corpo de Thaloris.
 
-— É o que Selynis¹³ descreveu. A assinatura de *aethra* corrompido em escala massiva. Mas o tamanho... Selynis¹³ não mencionou esse tamanho.
+O terceiro entrou pelos olhos.
 
-Lyris⁴ olhou para a frente. O horizonte — onde a trilha de destruição se perdia na distância e na neblina de enxofre — pulsava. Não com luz, não com cor. Com pressão. Uma pressão elemental que Lyris⁴ sentia nos ossos, na pele, no *aethra* próprio que fluía por suas veias — a pressão de algo que era tão poderoso que sua mera existência deformava o tecido do mundo ao redor.
+Os olhos de Thaloris — que eram verdes, que sempre tinham sido verdes, que eram a primeira coisa que as pessoas notavam nele depois do poder — ficaram negros. Não escuros. Negros. Como se a íris tivesse sido engolida pela pupila, e a pupila pela escuridão, e a escuridão pelo *nihilary* que agora habitava o interior de seus globos oculares como um parasita habitando o interior de uma concha.
 
-— A aberração — Lyris⁴ disse, e a palavra saiu da boca como se tivesse peso, como se fosse feita de ferro e não de ar.
+E ele gritou de novo.
 
-— A aberração — Aldric³ confirmou.
+E outro entrou. E outro. E outro.
 
-Eles estavam voando sobre as pegadas de algo que não deveria existir. As pegadas — se podiam ser chamadas de pegadas — eram crateras no chão, cada uma com o diâmetro de três passos de um homem, separadas por intervalos que sugeriam passos de algo que media quase duas vezes a altura de um ser humano. As crateras não eram profundas — eram rasas, mas amplas, como se o peso não fosse distribuído por pés mas por pressão elemental, como se cada passo da aberração transferisse para o chão não apenas massa, mas *aethra* corrompido, e o *aethra* corrompido, ao entrar na terra, explodisse em todas as direções como uma onda de choque subterrânea.
+Eles não paravam.
 
-A trilha apontava em uma direção: para leste. Para a fronteira. Para o templo.
+Cinco. Dez. Vinte. Cinquenta. Os *nihilarys* desciam do céu em fluxo contínuo — não como gotas, agora, mas como uma cachoeira de escuridão, um ribombo de sombra que caía sobre Thaloris como um oceano sobre um naufrágio, e cada onda que o atingia carregava mais *nihilarys*, e cada *nihilary* que entrava fazia o corpo de Thaloris se mudar.
 
-A aberração estava indo para o templo.
+Os gritos — que tinham começado como gritos humanos, com palavras e frases e a angústia articulada de quem tenta expressar com linguagem algo que a linguagem não pode conter — se transformaram. Perderam as palavras primeiro. Depois as sílabas. Depois a articulação. Tornaram-se sons — sons que não eram humanos, que não eram animais, que não pertenciam a nenhuma categoria de vocalização que a biologia de Alyndra houvessem catalogado. Era o som de algo sendo desmontado e remontado ao mesmo tempo, o som de ossos quebrando enquanto se curavam, o som de pele rasgando enquanto se costurava, o som de um homem morrendo enquanto nascia algo que não era um homem.
 
-A mesma aberração que Lyris⁴ tinha lido nos relatórios — a coisa que tinha sido Thaloris Ventaris²⁹, o *Lugal Lil*³⁰ de Sylvaris, o *Senhor dos Ventos*³¹ — estava caminhando em direção ao templo onde Alyndra⁶ estava.
+Cem. Duzentos. Trezentos.
 
-— Estamos competindo — Aldric³ disse, e a voz era seca, factual, como se estivesse calculando distâncias e velocidades em vez de descrever uma corrida entre forças de resgate e uma criatura de *nihilarys*²⁷ compactados. — Se a aberração chegar ao templo antes de nós...
+O corpo de Thaloris começou a se levantar.
 
-Ele não terminou a frase. Não precisava.
+Não porque ele estivesse se levantando — ele já estava de pé, e continuava de pé, e continuaria de pé porque os joelhos não se dobravam mais, não porque estivessem travados mas porque algo dentro deles havia mudado e as articulações que permitiam a dobra haviam sido substituídas por algo que não se dobrava. O corpo se erguia — não no sentido de pôr-se de pé, mas no sentido de ascender: ficava mais alto, mais largo, mais presente, como se a própria massa de Thaloris crescesse a cada *nihilary* que entrava, cada fragmento de escuridão que se instalava em seu interior adicionava peso, volume, substância.
 
-Lyris⁴ apertou os arreios de *aethrys*⁵ com força suficiente para fazer o cristal ranger.
+A mulher de branco observava. O canto continuava — agora mais profundo, mais grave, como um tambor que marca o ritmo de um coração que está crescendo demais para o peito que o contém.
 
-— Então não vamos deixar — ela disse.
+Os operativos de Umbra — os que estavam de joelhos, os que não tinham sido mortos pelos ventos de Thaloris — observavam com os olhos arregalados e as mãos firmemente plantadas no chão, como se o contato com a pedra fosse a única coisa que os impedia de serem sugados para dentro do vórtice de escuridão que se formava ao redor de Thaloris. O líder da máscara de *aethrys* não estava mais de pé — havia se jogado no chão de bruços, com o rosto contra a pedra, como se a visão do que estava acontecendo fosse mais do que seus olhos podiam suportar.
 
-Aldric³ não discutiu. Não hesitou. Não sugeriu cautela, não recomendou reconhecimento, não propôs uma abordagem tática que levasse em conta a possibilidade de enfrentamento direto com algo que deixava crateras no chão apenas por andar. Aldric³ fez o que Aldric³ fazia quando a situação exigia ação e não palavras: ele voou.
+Quinhentos *nihilarys*. Seiscentos. Mil.
 
-A *koramis* mergulhou. As asas se fecharam parcialmente — uma configuração de velocidade que os talassianos chamavam de queda controlada — e a ave desceu como um projétil de cristal negro, cortando o ar com um som que era quase um grito. A velocidade dobrou. Triplicou. O horizonte se tornou um borrão. O vento bateu em Lyris⁴ como uma parede de água.
+O céu acima do templo não era mais céu. Era uma boca. Uma abertura no tecido da realidade por onde a escuridão fluía sem fim, como se o universo tivesse sido perfurado e o que havia do outro lado da perfuração fosse tão vasto, tão denso, tão antigo que não tinha início nem fim, apenas fluxo.
 
-E à frente — além do borrão do horizonte, além da neblina de enxofre, além da trilha de destruição que se estendia como uma cicatriz na face de Alyndra — Lyris⁴ viu algo que fez seu coração parar por um segundo e recomeçar no segundo seguinte com o dobro da força.
+E Thaloris — o que restava de Thaloris, o que ainda era Thaloris sob as camadas de escuridão que se acumulavam em seu corpo como sedimento no fundo de um rio — sentiu algo quebrar.
 
-O templo.
+Não o corpo. O corpo já havia quebrado há segundos, e o que estava ali agora era algo que não era mais inteiramente corpo. Não a mente — a mente estava fragmentada, pedaços de consciência flutuando em um mar de presenças que não eram dele, cada *nihilary* que entrava carregando consigo um fragmento de algo — uma lembrança, uma emoção, um impulso — que se instalava no tecido mental de Thaloris como um enxerto alienígena.
 
-Erguia-se do penhasco como um dente de obsidiana — massivo, antigo, imponente, com a mesma fenda vertical na fachada que Alyndra⁶ tinha atravessado dias atrás. Ao redor do templo, Lyris⁴ viu movimento — figuras vestidas de negro, operativos de Umbra⁹ posicionados em perímetro defensivo. Korath²⁶ estava lá. Alyndra⁶ estava lá.
+O que quebrou foi a última fronteira — a fronteira entre "eu" e "outro", entre Thaloris e os *nihilarys*, entre o homem que voou até o templo buscando imortalidade e a coisa que os *nihilarys* estavam construindo dentro de sua pele.
 
-E a trilha de destruição — as crateras, as *argentis*¹² partidas, o *aethra* corrompido que manchava o ar como tinta em água — terminava a menos de um quilômetro do templo.
+E quando essa fronteira quebrou, o que restou de Thaloris Ventaris — o *Lugal Lil* de Sylvaris, o *Senhor dos Ventos*¹³ — gritou uma última vez.
 
-A aberração estava ali. A menos de um quilômetro. E se aproximando.
+Não com a voz. Com o *aethra*. Um grito elemental, puro, desesperado, que saiu de seu núcleo vital como um sopro final de uma vela que se apaga — e por um segundo, por um único e definitivo segundo, o vento voltou. O vento de Sylvaris — o vento que era seu elemento, sua alma, sua identidade — varreu as ruínas do Templo de Ventus com uma força que fez as colinas tremerem e as pedras estalarem.
 
-Aldric³ puxou a *koramis* para cima — uma manobra brusca que fez a ave ganhar altitude em segundos, posicionando-os sobre o templo como falcões sobre uma presa. Ele olhou para Lyris⁴. Seus olhos encontraram os dela.
+E então o vento morreu de novo.
 
-— Vamos — ele disse.
-
-E Lyris⁴ — que era Nyctara¹⁵, que havia treinado sob a tutela de Aurelius³² no Orfanato Luminis¹⁴, que havia dedicado sua vida a proteger crianças que o mundo tentava destruir — assentiu.
-
-— Vamos — ela disse.
-
-A *koramis* mergulhou em direção ao templo, e o vento gritou, e o *aethra* corrompido pulsou, e a aberração caminhava, e a nyxara que se aproximava prometia ser a mais longa e a mais terrível que Alyndra já tinha visto.
+O que se ergueu não era Thaloris.
 
 ---
 
-**[FIM DO CAPÍTULO XXXII]**
+## IV. A Metamorfose
+
+O processo foi visível.
+
+Não instantâneo — a metamorfose levou horas, e cada hora era uma eternidade comprimida em agonia, e cada agonia era um estágio de uma transformação que não tinha paralelo em nenhum texto de biologia ou de *aethra* ou de *Emê-Gir* que os eruditos de Alyndra houvessem escrito.
+
+Os ossos foram primeiro.
+
+O som que o corpo emitiu quando os ossos começaram a mudar era o som de um galho sendo retorcido — *creck, creck, creck* — mas amplificado, multiplicado, reverberado pelas paredes de pedra do templo até se tornar algo que não era mais som mas vibração, uma onda de ruído que fazia o ar tremer e os operativos taparem os ouvidos com as mãos e sangrarem pelas narinas. O esqueleto de Thaloris — o esqueleto de um homem de quarenta e dois valens, que havia caminhado, voado, governado e amado durante toda a vida — se desmontou. As costelas se expandiram, rachando para fora como portas que são empurradas por dentro, cada costela emitindo um estalo que ecoava como um tiro. A coluna vertebral se estendeu — não crescendo, desdobrando-se, como se cada vértebra contivesse vértebras adormecidas que agora acordavam e se separavam, multiplicando os segmentos da espinha até que as costas de Thaloris não fossem mais costas mas uma couraça de projeções ósseas que se erguiam como espinhos de uma criatura que pertencia a um milênio passado.
+
+Os braços foram depois.
+
+A pele dos braços — a pele que havia segurado taças de vinho e assinado decretos e acariciado a *koramis*¹⁴ negra — rasgou. Não como uma ferida — como uma muda. Como se a pele humana fosse uma casca que não servia mais para o que estava dentro, e o que estava dentro a empurrava de dentro para fora. Sob a pele rasgada: não músculo, não osso. Algo outro. Uma substância que era ao mesmo tempo orgânica e mineral, que tinha a cor da obsidiana polida e a textura de ferro fundido, que pulsava com uma luminosidade azul-prateada que era a cor dos *nihilarys* e que se movia com uma autonomia que sugeria que os braços não eram mais controlados por um sistema nervoso central mas por algo distribuído, como se cada célula daquela substância fosse ao mesmo tempo músculo e cérebro.
+
+Os braços se alongaram. Cresceram. Não gradualmente — em estalos, em espasmos, em contrações violentas que faziam o corpo inteiro se contorcer como um animal preso em armadilha. Cada braço dobrou em novos segmentos — cotovelo, antebraço, segundo cotovelo, segundo antebraço, segundo — e em cada nova articulação nasceu um novo ângulo, um novo eixo de movimento, até que o que antes eram dois braços humanos se tornassem quatro membros articulados que se estendiam para fora do corpo como os tentáculos de algo que não tinha nome em nenhuma língua viva.
+
+Os olhos foram o pior.
+
+Thaloris tinha dois olhos. Verdes. Humanos. Os olhos de Thaloris — os olhos que tinham visto Zephyra¹⁵ ao nascer de Aurion, que tinham observado os sete pilares de cristal pela primeira vez, que tinham chorado quando a mãe morreu e rido quando o filho nasceu e olhado com ternura para mulheres que amou e com frieza para inimigos que destruiu.
+
+Esses olhos não existiam mais.
+
+No rosto que tinha sido o rosto de Thaloris — onde a pele havia mudado, onde os ossos da mandíbula se haviam estendido e os dentes se haviam transformado em *aethrys* negro — os olhos se multiplicaram. Não dois. Não quatro. Oito pares — dezesseis olhos — dispostos em fileiras que corriam pelas têmporas e pela testa como as joias de uma coroa feita de vidro e escuridão. Cada olho era diferente: alguns eram negros como os olhos dos *nihilarys* que habitavam o corpo; outros eram azul-prateados, a cor do *aethra* corrompido; outros — e estes eram os mais perturbadores — ainda eram verdes. Verdes e humanos e vivendo, como se fragmentos da consciência de Thaloris tivessem sido aprisionados dentro daqueles olhos como insetos em âmbar.
+
+A pele foi a última a mudar — e quando mudou, não mudou. Acabou. A pele humana — a última superfície de Thaloris que ainda era reconhecivelmente humana — escureceu, endureceu, e se tornou algo que tinha a aparência de obsidiana viva: negra, lisa, refletindo a pouca luz da nyxara com uma profundidade que não era de pedra mas de ausência. O corpo não era mais um corpo humano coberto de pele escura. Era uma estrutura — orgânica e mineral e elemental simultaneamente, pulsando com *aethra* corrompido, irradiando uma temperatura que era ao mesmo tempo gelada e quente, cheia de *nihilarys* que se moviam sob a superfície como vermes sob a casca de uma *argentis*¹⁶ morta.
+
+A mulher de branco parou de cantar.
+
+O silêncio que se seguiu ao final do canto foi mais ensurdecedor do que qualquer som.
+
+---
+
+## V. O Que Nasce das Ruínas
+
+A aberração se ergueu.
+
+Era a única palavra adequada — aberração. Não monstro, porque "monstro" sugere algo que nasceu da natureza, mesmo que pervertido; não demônio, porque "demônio" pertence a um sistema de crenças que a aberração transcenderia; não criatura, porque "criatura" implica criação, e o que estava de pé no centro do Templo de Ventus não havia sido criado — havia sido composto. Composto de milhares de *nihilarys* compactados dentro de uma casca que uma vez foi o corpo de um homem, compostos de escuridão e *aethra* e ossos quebrados e pele rasgada e algo mais que não tinha nome em nenhuma língua de Alyndra.
+
+A aberração media talvez mais de duas vezes a altura de Thaloris — o corpo se havia esticado durante a metamorfose, como se os *nihilarys* precisassem de mais espaço para se acomodarem e tivessem simplesmente empurrado a matéria em todas as direções para conseguir. Os quatro braços articulados pendiam ao lado do corpo como tentáculos adormecidos. Os dezesseis olhos — negros, prateados, verdes — varriam o ambiente com uma atenção que não era humana, que era distribuída, como se cada olho pertencesse a uma consciência diferente e todas as consciências estivessem olhando ao mesmo tempo.
+
+A aberração se moveu.
+
+O movimento era errado. Não porque fosse desajeitado — era, paradoxalmente, incrivelmente fluido, cada articulação se dobrando com a precisão de uma máquina e a elegância de um dançarino. Era errado porque não correspondia à biologia. Os quatro braços se moviam em coordenação — não dois mais dois, mas todos os quatro simultaneamente, como os tentáculos de um polvo controlados por um sistema nervoso difuso. As pernas — duas, ainda duas, embora tivessem dobrado em novos ângulos — suportavam o peso colossal sem esforço aparente, e cada passo que davam fazia a pedra do templo lascar, não pelo peso em si, mas pela pressão elemental que emanava do corpo — o *aethra* corrompido dos *nihilarys* vazava pelos pés e se infiltrava na pedra, rachando-a de dentro para fora.
+
+A aberração se virou.
+
+Dezesseis olhos encontraram a mulher de branco.
+
+E por um segundo — um único segundo que durou uma eternidade e um instante — algo dentro da aberração reconheceu a mulher. Não com todos os olhos — com dois. Os dois olhos verdes. Os dois olhos que ainda eram os olhos de Thaloris, os olhos que tinham visto Zephyra e chorado pela mãe e rido pelo filho.
+
+Nos dois olhos verdes, havia Thaloris.
+
+Ou o que restava dele — um fragmento de consciência, uma fagulha de humanidade presa dentro de um oceano de escuridão, como um sobrevivente agarrado a um destroço no meio de um tsunami. A fagulha olhou para a mulher de branco. E na fagulha havia algo que não era raiva, não era medo, não era nem mesmo tristeza.
+
+Era compreensão. A compreensão absoluta, devastadora, irreversível de um homem que percebe — no último segundo de consciência que lhe resta — que caminhou voluntariamente para a própria destruição. Que a promessa era verdadeira. Que a imortalidade era real. E que o preço era exatamente o que ele deveria ter sabido que seria: tudo.
+
+A mulher de branco se aproximou da aberração. A figura de quatro metros de altura a fez parecer pequena — uma mulher de branco diante de uma montanha de obsidiana e escuridão. Mas ela não parecia ameaçada. Parecia satisfeita.
+
+Ela ergueu a mão e tocou o rosto da aberração — o rosto que tinha sido o rosto de Thaloris, onde a mandíbula se estendera e os dentes se transformaram em *aethrys* e os olhos se multiplicaram em fileiras que corriam pelas têmporas.
+
+A aberração não se moveu. Não por medo — por obediência. Os milhares de *nihilarys* dentro do corpo reconheciam a mulher como algo superior — não como uma líder, mas como uma fonte, algo que estava acima deles na hierarquia do vazio assim como o Aurion está acima de tudo o que vive sob sua luz.
+
+A mulher sorriu. O mesmo sorriso perfeito. A mesma gentileza que era uma faca.
+
+E disse, em uma voz que era ouvida por todos os presentes — os operativos ajoelhados, o líder no chão, os mortos que não podiam ouvir mas que, de alguma forma, ouviam — e que se dirigia não à aberração, mas aos dois olhos verdes que ainda viviam dentro da aberração:
+
+— Agora você é imortal, Thaloris Ventaris.
+
+A pausa durou um segundo.
+
+— Mas agora você é nosso.
+
+Os dois olhos verdes se apagaram.
+
+Não se fecharam — se apagaram. Como velas que são sopradas, como estrelas que caem, como vidas que terminam. Os olhos verdes de Thaloris — os últimos vestígios do homem que tinha governado Sylvaris, que tinha amado e odiado e conspirado e voado — ficaram negros. Depois azul-prateados. Depois indistinguíveis dos outros catorze olhos da aberração.
+
+O *Senhor dos Ventos* estava morto.
+
+E o que ficou no lugar era algo que Alyndra não via desde a Convergência Tripla — uma criatura de poder imenso, composta de milhares de *nihilarys* compactados em uma forma que nunca deveria existir, irradiando *aethra* corrompido como um reator elementar em colapso, e olhando — com dezesseis olhos sem humanidade — para o horizonte.
+
+A mulher de branco se afastou. Os operativos se levantaram — lentamente, com a cautela de quem se move na presença de algo que pode destruí-los sem esforço — e se ajoelharam de novo. Não diante da mulher. Diante da aberração.
+
+A *koramis* negra, lá fora, uivava. O uivo era desesperado, agudo, cheio de uma angústia que era mais do que animal — era o lamento de uma criatura que reconhecia o *aethra* de seu cavaleiro na aberração e não entendia por que o cavaleiro tinha se tornado outra coisa.
+
+A aberração não olhou para a *koramis*. Não olhou para os operativos. Não olhou para a mulher de branco.
+
+Olhou para o horizonte.
+
+Para leste.
+
+Para a fronteira entre Fulmora¹⁹ e Umbra¹¹.
+
+E começou a andar.
+
+O primeiro passo rachou a pedra do altar — não a pedra sob o pé, mas a pedra em um raio de cinco passos, como se a pressão elemental do corpo da aberração se propagasse pela superfície como onda em um lago. O segundo passo rachou as paredes do templo — fissuras que corriam pelas pedras como veias, preenchidas com a luz azul-prateada do *aethra* corrompido. O terceiro passo rachou o chão do vale inteiro — um tremor que as colinas sentiram, que os *lyriens*¹⁷ nas planícies sentiram, que o próprio vento — o vento de Sylvaris, o vento que tinha sido de Thaloris — sentiu e se afastou, como um animal que foge de um incêndio.
+
+A aberração caminhava.
+
+Cada passo era um terremoto em miniatura. Cada movimento dos quatro braços era uma ondulação de poder elemental que fazia o ar fender-se como tecido. Cada piscar dos dezesseis olhos enviava um segundo de *aethra* corrompido que fazia as *argentis*¹⁶ nas colinas murchar e as *giralis*¹⁸ nas colinas fechar suas pétalas como se a própria vegetação soubesse que algo errado estava passando.
+
+A mulher de branco observava com os braços cruzados e a expressão de quem assiste ao desabrochar de uma *giralis* que plantou há milênios.
+
+— Para a fronteira — ela disse, e a voz era suave, como se estivesse dando uma ordem a uma criança. — A menina está no templo. A menina é o que importa. Traga-a para nós.
+
+A aberração ouviu.
+
+E continuou andando.
+
+A nyxara continuou escura. O céu acima do Templo de Ventus continuou aberto — a boca no tecido da realidade ainda vazava escuridão residual, como uma ferida que não cicatriza. Os operativos se levantaram e seguiram a aberração em procissão — não marchando, rastejando, como se a proximidade da criatura os tivesse reduzido ao instinto de submissão que define o rebanho diante do pastor.
+
+E nas ruínas do templo, sobre o altar de obsidiana negra onde os sacerdotes de Ventus outrora ofereciam libações, restava apenas uma coisa: o dardo de *aethrys* que havia sido arrancado do ombro de Thaloris durante a metamorfose. O dardo jazia na pedra, coberto de sangue seco e fragmentos de pele humana — os últimos fragmentos de pele humana que alguma vez pertenceriam ao *Lugal Lil* de Sylvaris.
+
+A *koramis* negra parou de uivar. A ave de cristal permaneceu no pátio do templo, com as asas semiabertas e os olhos escuros fixos no horizonte leste, na direção em que a aberração havia desaparecido.
+
+O vento de Sylvaris não soprou naquela nyxara.
+
+Não soprou na nyxara seguinte.
+
+E não soprou na nyxara depois dela — como se o elemento que havia sido de Thaloris tivesse morrido junto com ele, ou como se estivesse esperando — esperando que algo viesse e o libertasse do luto que o silêncio do vento carregava.
+
+Nas planícies entre Sylvaris e a fronteira de Fulmora, uma aberração de quatro metros avançava com passos que rachavam a terra. Levava milhares de *nihilarys* no corpo. Levava *aethra* corrompido nas veias. Levava dezesseis olhos sem humanidade no rosto.
+
+E levava, em algum lugar dentro de si — enterrado sob camadas de escuridão tão profundas que nem mesmo os *nihilarys* sabiam que existia — um segundo de algo que não era *nihilary*, não era escuridão, não era *aethra* corrompido.
+
+Era Thaloris.
+
+Ou o fantasma do que ele foi.
+
+E o fantasma gritava.
+
+Mas ninguém ouvia. Porque o vento — o vento que teria carregado o grito por léguas — estava morto.
+
+---
+
+***[FIM DO CAPÍTULO XXXII]**
 
 ---
 
@@ -272,70 +310,52 @@ A *koramis* mergulhou em direção ao templo, e o vento gritou, e o *aethra* cor
 
 ## 📖 Glossário do Capítulo
 
-¹ **koramis** — Ave gigante de cristal e penas cromáticas de Sylvaris, usada como montaria rápida e que responde à ressonância de voo de seu cavaleiro.
+¹ **Thaloris Ventaris** — Título de *Lugal Lil*⁷ de Sylvaris⁸; o *Senhor dos Ventos*¹³. Quarenta e dois anos. Olhos verdes. Possuído e destruído ritualmente neste capítulo por legiões de *nihilarys*¹⁰.
 
-² **aethra** — A energia elemental que permeia Alyndra. A trilha da aberração consome e corrompe o *aethra* do ambiente.
+² **Ventus** — Deus ancestral dos ventos de Sylvaris⁸; seu templo em ruínas é o local do ritual de possessão.
 
-³ **Aldric** — Ex-talassiano, piloto da *koramis*¹ e agente de campo experiente. Conheceu Ayla¹⁶ no passado e prometeu proteger sua filha Alyndra⁶. Descobriu que o túmulo de Ayla¹⁶ em Mespiria¹⁸ foi violado e o corpo desapareceu — segredo que carregou por valens antes de revelá-lo a Lyris⁴.
+³ **aethrys** — Cristal elemental que brilha e conduz energia. O dardo em Thaloris¹ é feito desse material, assim como a estrutura dos dentes da aberração.
 
-⁴ **Lyris** — Administradora do Orfanato Luminis¹⁴. Agente dedicada cuja identidade de combate é a guardiã Nyctara¹⁵.
+⁴ **aethra** — A energia ou magia elemental que permeia Alyndra. A possessão corrompe o fluxo natural de *aethra* no ambiente e no núcleo vital.
 
-⁵ **aethrys** — Cristal condutor elemental. Utilizado na fabricação de arreios, aparelhos receptores da rede de rádio e no cabo da espada de Ayla¹⁶.
+⁵ **Emê-Gir** — Língua primordial de Alyndra. O canto da possessão ritual é em um idioma ainda mais antigo e incompreensível.
 
-⁶ **Alyndra** — A órfã protagonista de linhagem ancestral, portadora latente da técnica congelante de *cryonys*, atualmente mantida refém no templo da fronteira.
+⁶ **Aurion** — A estrela central (sol) de Nova Aetherion, associada à luz divina. Os olhos da mulher de branco lembram Aurion⁶ liquefeito.
 
-⁷ **Nyx** — O *lyrien* prateado de olhos dourados de Alyndra⁶, sequestrado junto com ela.
+⁷ **Lugal Lil** — Título tradicional em *Emê-Gir*⁵ do governante máximo de Sylvaris⁸, significando "Senhor do Vento".
 
-⁸ **Fulmora** — O Reino dos Raios, bioma de planaltos ionizados e campos de plasma que faz fronteira com a zona sombria.
+⁸ **Sylvaris** — Reino do Vento, das florestas prateadas e das cidades flutuantes; o primeiro dos reinos.
 
-⁹ **Umbra** — Reino das Sombras e das terras áridas de gelo, cujos operativos mercenários cercam as ruínas.
+⁹ **Nyx** — A menor das três luas de Alyndra, associada a mistérios e sombras.
 
-¹⁰ **Câmara dos Sussurros** — Rede e agência de inteligência aliada sediada em Sanctrum²², para a qual Lyris⁴ e Aldric³ realizam missões.
+¹⁰ **nihilary / nihilarys** — Agentes ou espíritos do vazio e da escuridão sob o controle de entidades corruptas de Nihilaryth. Legiões deles fundem-se a Thaloris¹ para formar a aberração.
 
-¹¹ **RRA** — Rede de Ressonância de Aurion; sistema de transmissões elementais por ressonadores de cristais.
+¹¹ **Umbra** — Reino das Sombras e do permafrost. Seus operativos auxiliam no ritual.
 
-¹² **argentis** — Árvores sagradas de casca prateada de Sylvaris, cujas folhas tilintam ao vento; destruídas na passagem da aberração.
+¹² **cryonys** — Tipo de cristal ou magia elemental que manifesta o frio absoluto. Referenciado para comparação de temperatura com o toque do *nihilary*¹⁰.
 
-¹³ **Selynis** — Selynis Thalassa, Mestra da Informação em Sanctrum²² e chefe de inteligência que identificou o paradeiro de Alyndra⁶.
+¹³ **Senhor dos Ventos** — A designação de *Lugal Lil*⁷ em linguagem comum.
 
-¹⁴ **Orfanato Luminis** — Instituição em Velantis (Sylvaris) de acolhimento de órfãos onde Alyndra⁶ cresceu.
+¹⁴ **koramis** — Ave gigante de cristal e penas cromáticas usada como montaria. A *koramis*¹⁴ negra de Thaloris¹ lamenta a transformação do cavaleiro.
 
-¹⁵ **Nyctara** — O título de batalha e codinome de Lyris⁴.
+¹⁵ **Zephyra** — Capital flutuante de Sylvaris⁸, erguida sobre sete pilares de cristal.
 
-¹⁶ **Ayla** — Mãe de Alyndra⁶. Nobre thalassiana exilada em Mespiria¹⁸ que faleceu logo após o parto devido à extrema exaustão da canalização sob a Convergência Tripla.
+¹⁶ **argentis** — Árvore sagrada de casca prateada e folhas sonoras de Sylvaris⁸.
 
-¹⁷ **Kaelia Marethyus** — Líder diplomática de Thalassia em Sanctrum²², que originalmente contratou Aldric³ para vigiar a linhagem de Ayla¹⁶.
+¹⁷ **lyriens** — Animais companheiros nativos de Alyndra, ágeis e de olhos brilhantes, sensíveis a perturbações elementais.
 
-¹⁸ **Mespiria** — Vila rural em Sylvaris onde Alyndra⁶ nasceu em segredo.
+¹⁸ **giralis** — Flor de pétalas prateadas translúcidas e bioluminescentes, comum em Sylvaris⁸, que fecha suas pétalas na presença de corrupção.
 
-¹⁹ **Nihil Shid** — Organização conspiratória que persegue a semente da eternidade.
+¹⁹ **Fulmora** — Reino dos Raios e das tormentas de plasma; quinto reino.
 
-²⁰ **Melessa Solynthr** — Parteira e curandeira rural de Mespiria¹⁸ que criou Alyndra⁶ em seus primeiros anos de vida.
+²⁰ **Selynis Thalassa** — Mestra da Informação e líder da rede de espionagem Tar-Gig. Mencionada na previsão.
 
-²¹ **Sera** — Agente de suporte no Orfanato Luminis¹⁴ que identificou a assinatura de frio na fronteira.
+²¹ **RRA** — Rede de Ressonância de Aurion; sistema tecnológico de comunicações e monitoramento etérico. Mencionada na previsão.
 
-²² **Sanctrum** — O planalto central de Nova Aetherion, sede do Conselho e centro político continental.
+²² **Sanctrum** — Continente central de luz e ordem, onde fica o Conselho dos 12. Mencionado na previsão.
 
-²³ **Thalassiana / Thalassiano** — Pertencente à antiga tradição e linhagem do Reino Submerso de Thalassia.
+²³ **Aurelius** — Aurelius Lumivael, o En Me (Guardião Mestre) de Sanctrum²². Mencionado na previsão.
 
-²⁴ **Velantis** — Cidade e província do Reino de Sylvaris onde o orfanato se localiza; outrora lar de forjas lendárias.
+²⁴ **Alyndra** — A órfã protagonista com afinidades elementais que se encontra na fronteira fugindo das forças da escuridão. Mencionada na previsão.
 
-²⁵ **Lysias Thyrion** — Agente de campo e historiador oficial do Conselho que lidera a Equipe Leste de resgate.
-
-²⁶ **Korath** — Líder mercenário umbrano encarregado de entregar Alyndra⁶ ao Ponto Ômega na fronteira.
-
-²⁷ **nihilary / nihilarys** — Criaturas formadas de vazio e sombras. Uma legião delas foi compactada sob a carcaça de Thaloris Ventaris²⁹ para dar origem à aberração.
-
-²⁸ **giralis** — Flores de pétalas prateadas translúcidas e bioluminescentes nativas de Sylvaris, cuja vitalidade é negada na trilha de corrupção.
-
-²⁹ **Thaloris Ventaris** — O antigo governante de Sylvaris que aceitou o pacto dos Nihil Shid¹⁹ e acabou transformado no monstro em metamorfose.
-
-³⁰ **Lugal Lil** — O antigo título em língua *Emê-Gir*⁵ de governante supremo de Sylvaris.
-
-³¹ **Senhor dos Ventos** — Tradução literal de *Lugal Lil*³⁰.
-
-³² **Aurelius** — Aurelius Lumivael, o Guardião Mestre de Sanctrum²² e tutor de Lyris⁴.
-
-³³ **Velatrix** — A lendária identidade de combate e guerreira secreta de Selynis¹³. Mencionada na previsão.
-
-³⁴ **Tar-Gig** — Esquadrão e agência especial de inteligência militar sob o comando direto de Velatrix³³. Mencionada na previsão.
+²⁵ **pulso / pulsos** — Unidade de tempo equivalente ao batimento de um coração (~1 segundo). Mencionada na previsão.
