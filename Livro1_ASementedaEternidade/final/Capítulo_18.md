@@ -244,7 +244,7 @@ Alyndra estava sentada no banco de pedra do jardim interno, com as pernas balan�
 
 Nyx estava deitada ao seu lado, o *lyrien*¹³ prateado com a cabeça apoiada na canela de Alyndra, as orelhas erguidas para sons que só ela podia ouvir. Ela voltara naquela manhã, como se nada tivesse acontecido, como se não tivesse sumido por toda uma nyxara e deixado Alyndra preocupada o suficiente para sair da cama às escondidas. *lyriens*¹³ eram assim: iam e vinham como o vento, e esperavam que os humanos entendessem.
 
-Ao longe, *Dravyn* estava sentado sob uma *argentis*⁸ com seu caderno de desenho aberto no colo, o lápis se movendo sobre o papel com a velocidade de quem não pensa, apenas reproduz o que vê. *Mira Solanthir* brincava com algumas das crianças menores perto do poço de *aethra*⁵, e suas risadas — claras, leves, sem peso — se misturavam ao canto dos pássaros que viviam nos galhos das *argentis*⁸ mais antigas.
+Ao longe, *Dravyn* estava sentado sob uma *argentis*⁸ com seu caderno de desenho aberto no colo, o lápis se movendo sobre o papel com a velocidade de quem não pensa, apenas reproduz o que vê. *Mira Daelis* brincava com algumas das crianças menores perto do poço de *aethra*⁵, e suas risadas — claras, leves, sem peso — se misturavam ao canto dos pássaros que viviam nos galhos das *argentis*⁸ mais antigas.
 
 Lyris apareceu cinco segundos depois de Alyndra terminar de comer. Ela vestia roupas de treinamento — tecido leve, cores escuras, sem insígnias — e seu rosto tinha a calma controlada de quem passou a nyxara acordada mas não pretende demonstrar isso.
 
@@ -284,7 +284,7 @@ E Lyris, olhando para aquele sorriso, sentiu algo que não sentia desde que era 
 
 — Agora vamos treinar — Lyris disse, levantando-se. — Dravyn já está desenhando. Vamos fazer com que ele tenha algo bom para desenhar.
 
-Alyndra saltou do banco, Nyx se levantou ao seu lado, e as três caminharam para o centro do jardim onde as *argentis*⁸ projetavam sombras longas sobre a grama. Ao longe, as risadas de Mira Solanthir e das crianças menores continuavam, leves e sem peso, como se o mundo lá fora — com suas *cargas fantasmas*²² e suas teias vermelhas e suas máscaras que caíam — fosse um problema que pertencia a outra manhã.
+Alyndra saltou do banco, Nyx se levantou ao seu lado, e as três caminharam para o centro do jardim onde as *argentis*⁸ projetavam sombras longas sobre a grama. Ao longe, as risadas de Mira Daelis e das crianças menores continuavam, leves e sem peso, como se o mundo lá fora — com suas *cargas fantasmas*²² e suas teias vermelhas e suas máscaras que caíam — fosse um problema que pertencia a outra manhã.
 
 ---
 

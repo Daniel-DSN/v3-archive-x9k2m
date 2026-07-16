@@ -66,6 +66,8 @@ Não com dor. Com *propósito*. A figura tornou-se a própria proteção — cad
 
 E então — silêncio. Um silêncio que durou éons.
 
+Ayla agarrou o lençol.
+
 ---
 
 Até que algo germinou.
@@ -103,6 +105,8 @@ Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido v
 E dentro dela, a criança mexeu-se.
 
 Com uma *urgência* que não pertencia a bebê. Como quem reconhece algo. Como quem tinha ouvido as mesmas visões e queria dizer alguma coisa que ainda não tinha boca para dizer.
+
+O lençol estava frio. A janela tremia.
 
 Ayla não entendia o que tinha sonhado. Não sabia os nomes. Não sabia que a mulher da esfera era uma primordial, ou que a figura que se despedaçara tinha um nome que soava como o mar, ou que o irmão caído dormia selado sob o mundo. Não sabia que a promessa que *ecoava* no próprio sangue tinha sido plantada éons atrás por alguém que sorria enquanto o fim chegava.
 

@@ -16,6 +16,8 @@
 
 **I. A Tutora e o Retorno a Mespiria**
 
+Lyris detestava o mar.
+
 Lyris chegou a Velantis três semanas depois de deixar Sanctrum. A viagem fora longa — a *Rota dos Ventos*¹⁶, três dias de koramis sobre o Mar de *Vaelantor*¹⁵, com pouso nas *ilhas-descanso*¹⁷ onde as aves repousavam e os viajantes encontravam comida quente e estalagem; depois, estradas de terra através das colinas douradas de Sylvaris e uma audiência protocolar com o Senhor dos Ventos que não lhe dissera nada que já não soubesse. Ou quase nada. *Thaloris Ventaris*¹⁴ sabia quem ela era. *Nyctara*¹⁸. O demônio que os Mestres dos Sussurros de três reinos tentaram capturar e nunca conseguiram. Ele a deixara partir, mas a curiosidade em seus olhos azuis era uma sentença tão clara quanto qualquer prisão. *Meus olhos estarão observando*, dissera. *Por curiosidade.* Lyris não esqueceria. Mas Alyndra não podia esperar. E a criança, por enquanto, não sabia de nenhuma dessas coisas. Só Lyris sabia — e sabia que cada dia em Mespiria era um dia a menos para aquela velha parteira que continuava a empurrar a morte com as unhas.
 
 O Orfanato Luminis — chamado de *Cidadela Luminis*³ pelos locais — ocupava várias colinas nos arredores da cidade, ligadas por muralhas de pedra e passarelas suspensas. As torres erguiam-se como dedos de cristal, e guerreiros de armaduras prateadas — os *Aga Uru*⁴, Escudos da Tempestade — percorriam os muros.
@@ -170,7 +172,7 @@ O segredo de Melessa teria que esperar. A vida de Alyndra, não.
 
 Lyris envolveu os ombros de Alyndra com o manto mais espesso. A geada nas mãos da criança brilhou uma última vez — azul, fraca, quase triste — e depois se apagou. *Volto quando o selo se dissipar*, Lyris prometeu a si mesma. *Melessa tinha algo importante ali. E eu não deixo segredos para trás.* Mas naquela manhã, com a tempestade engolindo o mundo e uma criança em choque ao seu lado, havia apenas uma decisão a tomar.
 
-— Você está em um lugar melhor agora, vó — ela sussurrou, suas lágrimas finalmente escorrendo livres como um rio que havia sido contido por muito tempo. — Você está com minha mãe. Vocês estão juntas agora. E um dia, eu vou encontrar vocês de novo. Eu prometo.
+— Vó... um dia eu vou te ver de novo. Prometo.
 
 Ela permaneceu ali por um tempo que não soube medir. Quando finalmente se levantou, lavou o rosto da avó com água morna, penteou seus cabelos brancos com delicadeza, ajeitou suas roupas com o cuidado de alguém que estava realizando um ritual sagrado.
 
@@ -222,7 +224,7 @@ E enquanto cantava, algo aconteceu: um brilho suave começou a emanar da pele de
 
 Quando a última nota se dissipou no ar gelado de inverno, o brilho desapareceu. Alyndra piscou, como se acordasse de um sonho, e olhou ao seu redor com olhos que pareciam não compreender totalmente o que acabara de acontecer. Mas não havia medo nela — apenas uma paz serena que parecia ter vindo da própria canção.
 
-— Vó Melessa está em paz agora — ela disse, a voz clara no silêncio. — Ela está com minha mãe. Elas estão esperando por mim do outro lado.
+— Vó Melessa está em paz agora — ela disse, a voz clara no silêncio. — Ela está com minha mãe.
 
 E no fundo da multidão, Lyris observava tudo com uma mistura de tristeza, reverência e uma certeza que se formava em seu coração como cristal ao redor de um grão de areia: a criança que ela havia prometido proteger era mais extraordinária do que qualquer relatório poderia descrever.
 
@@ -372,7 +374,7 @@ Observaria. Com paciência. Se Aldric era apenas o que parecia, ninguém sairia 
 
 ⁹ **thermaris** — Fusão elemental de Água + Fogo; vapor superaquecido.
 
-¹⁰ **Aldric** — Companheiro de batalha de Ayla; protetor silencioso de Alyndra.
+¹⁰ **Aldric** — Caseiro do Orfanato Luminis. Homem de poucas palavras, recomendado por um luminar local. Observador, eficiente, misterioso.
 
 ¹¹ **sylentis** — Indivíduos com aethra adormecida; "cristais ocos" no sistema de registro.
 

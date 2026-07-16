@@ -143,7 +143,7 @@
 - **Presente desde Cap. 7**
 
 ### 2.10 Outros
-- **Mira Solanthir** — Colega de Alyndra no orfanato, protetora
+- **Mira Daelis** — Colega de Alyndra no orfanato, protetora
 - **Torvin** — Garoto mais velho do orfanato
 - **Sanna** — Menina quieta do orfanato
 - **Thar Elara** — Diretora do Orfanato Luminis

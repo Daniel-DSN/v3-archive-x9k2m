@@ -190,9 +190,9 @@ Mas suas mãos, sob a mesa, estavam cerradas — não com força, mas com a tens
 
 A tarde encontrou Alyndra no jardim posterior do orfanato, onde as *giralis*²⁵ cresciam em canteiros que Aldric mantinha com uma devoção que ultrapassava a obrigação profissional — cada planta recebia água na medida exata, cada ramo era podado no ângulo que maximizava a captação de luz, e o resultado era um jardim que parecia ter sido desenhado não por mãos humanas, mas por algo mais paciente, mais antigo, que entendia a linguagem das raízes como um poeta entende a dos versos.
 
-Ela brincava com *Mira Solanthir* e *Dravyn*²³ — um jogo que envolvia pedras, um círculo desenhado na terra e regras que ninguém além deles compreendia, mas que funcionavam com a lógica misteriosa de todas as coisas criadas por crianças. Nyx estava deitada a poucos passos de distância, as orelhas em movimento, os olhos âmbar acompanhando cada gesto de Alyndra com a devoção silenciosa que era a marca de todos os *lyriens*.
+Ela brincava com *Mira Daelis* e *Dravyn*²³ — um jogo que envolvia pedras, um círculo desenhado na terra e regras que ninguém além deles compreendia, mas que funcionavam com a lógica misteriosa de todas as coisas criadas por crianças. Nyx estava deitada a poucos passos de distância, as orelhas em movimento, os olhos âmbar acompanhando cada gesto de Alyndra com a devoção silenciosa que era a marca de todos os *lyriens*.
 
-Foi quando *Mira Solanthir* apontou para algo além do muro leste que Alyndra se levantou e foi até a grade de ferro.
+Foi quando *Mira Daelis* apontou para algo além do muro leste que Alyndra se levantou e foi até a grade de ferro.
 
 Aldric estava ali.
 

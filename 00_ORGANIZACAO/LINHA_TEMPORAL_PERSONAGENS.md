@@ -62,7 +62,7 @@
 |---|---|
 | **Alyndra** | Chega ao Orfanato Luminis. Primeira noite. Chora por Nyx. Conhece Kira, Torvin, Mira. |
 | **Lyris** | Acomoda Alyndra. Promete buscar Nyx. Conversa com Elara. |
-| **Mira Solanthir** | Recebe Alyndra no portão. Convence-a a comer. Guarda a cama ao lado. |
+| **Mira Daelis** | Recebe Alyndra no portão. Convence-a a comer. Guarda a cama ao lado. |
 | **Kira Dravenis** | Amiga de Mira. Presença no orfanato. |
 | **Torvin Thalassor** | Amigo de Alyndra. Briga por geleia no café. |
 | **Dravyn Kelvathis** | Visto desenhando no canto (menção inicial). |
@@ -79,7 +79,7 @@
 |---|---|
 | **Alyndra** | Faz 5 anos. Conta os dias para voltar a Mespiria. Reencontra Nyx. Lê carta de Melessa. Primeira manifestação Cryonys. |
 | **Lyris** | Leva Alyndra de volta a Mespiria. Encontra Caixa "Depois". Testemunha Cryonys. |
-| **Mira Solanthir** | Organiza festa surpresa de aniversário para Alyndra. |
+| **Mira Daelis** | Organiza festa surpresa de aniversário para Alyndra. |
 | **Melessa** (póstumo) | Carta lida. Caixa com pingente encontrada. |
 | **Nyx** | Reencontrado. Sobreviveu ao inverno. Volta ao orfanato. |
 | **Aurelius** | Envia cristal dourado de presente. Carta não assinada. |
@@ -97,7 +97,7 @@
 |---|---|
 | **Alyndra** | Ciclo de Viagem a Thalendris. Vê Veleiros de Estrada. Escuta histórias na Noite de Fogo. Percebe Dravyn. |
 | **Lyris** | Acompanha a excursão como tutora. Mapeia ameaças. Detecta os falsos pedintes. |
-| **Mira Solanthir** | Guia informal. Explica os Veleiros. Conta sua história. Ajuda Kira. |
+| **Mira Daelis** | Guia informal. Explica os Veleiros. Conta sua história. Ajuda Kira. |
 | **Kira Dravenis** | Organiza as crianças. Conta histórias de Thalendris. |
 | **Dravyn Kelvathis** | Revela sua história (Sylentis). Isola-se. Amargura explodindo. |
 | **Torvin Thalassor** | Presente na excursão (menção). |
@@ -129,7 +129,7 @@
 | **Lyris** | Serve café disfarçada. Mapeia o perímetro. Ensina Alyndra a se esconder. Confronta Aldric na estufa. Escreve relatório. |
 | **Aldric** | Observa o refeitório. Confronta Lyris na estufa (tesoura em guarda invertida). Revela treinamento militar (thalassiano). |
 | **Dravyn Kelvathis** | Desenha símbolos Seraphyen e figura alada (Ayla). Lyris descobre. |
-| **Mira Solanthir** | Café da manhã com Alyndra e as crianças. |
+| **Mira Daelis** | Café da manhã com Alyndra e as crianças. |
 | **Kira Dravenis** | Acorda Alyndra. Café da manhã. |
 | **Torvin Thalassor** | Briga por geleia no café. |
 | **Thar Elara** | Serve leite de lactharis. Mantém a rotina do orfanato. |

@@ -65,7 +65,7 @@ Uma porta se abriu.
 
 Lyris¹⁶ entrou primeiro.
 
-A figura que apareceu na porta era *diferente* da Alyndra⁷ lembrava — não no rosto, o rosto era o mesmo, as feições firmes, os olhos escuros, a cicatriz no maxilar que era marca de uma batalha que Lyris¹⁶ nunca contou por completo. O que era diferente era o *estado* — Lyris¹⁶ estava *gasta*, como um pano que foi esfregado demais, como uma *argenis*¹⁷ que sobreviveu a uma tempestade e perdeu metade dos galhos mas continua de pé. Os olhos tinham sombras — não as sombras de quem dormiu mal, as sombras de quem *viveu* algo que deixou marcas por dentro. Os cabelos, que sempre estiveram presos com precisão militar, estavam soltos, caindo pelos ombros como se Lyris¹⁶ tivesse esquecido que existiam.
+A figura que apareceu na porta era *diferente* da Alyndra⁷ lembrava — não no rosto, o rosto era o mesmo, as feições firmes, os olhos verdes, a cicatriz no maxilar que era marca de uma batalha que Lyris¹⁶ nunca contou por completo. O que era diferente era o *estado* — Lyris¹⁶ estava *gasta*, como um pano que foi esfregado demais, como uma *argenis*¹⁷ que sobreviveu a uma tempestade e perdeu metade dos galhos mas continua de pé. Os olhos tinham sombras — não as sombras de quem dormiu mal, as sombras de quem *viveu* algo que deixou marcas por dentro. Os cabelos, que sempre estiveram presos com precisão militar, estavam soltos, caindo pelos ombros como se Lyris¹⁶ tivesse esquecido que existiam.
 
 E os olhos — os olhos de Lyris¹⁶ *brilhavam*.
 

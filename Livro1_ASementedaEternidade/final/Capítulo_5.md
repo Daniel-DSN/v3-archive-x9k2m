@@ -42,13 +42,13 @@ Alyndra não perguntou como Lyris sabia. Não perguntou por que a palavra "deixo
 
 — Promete?
 
-Lyris repetiu, e naquele momento fez algo raro em suas décadas de serviço: uma promessa que não era estratégica, que não servia a um objetivo maior. Uma promessa feita apenas porque uma criança precisava acreditar que algo bom ainda podia acontecer.
+Lyris repetiu, e algo nos olhos verdes dela — aqueles olhos que Alyndra só havia visto firmes, militares, avaliando tudo com a precisão de quem mede o mundo em riscos e ameaças — mudou. Não foi um brilho, não foi um gesto. Foi algo mais profundo, como se a cor verde se aquecesse de dentro, como se a promessa tivesse ido morar ali, entre a íris e a pupila, onde nada mais cabia. Naquele momento, Lyris fez algo raro em suas décadas de serviço: uma promessa que não era estratégica, que não servia a um objetivo maior. Uma promessa feita apenas porque uma criança precisava acreditar que algo bom ainda podia acontecer.
 
 Um bater suave na porta interrompeu o silêncio.
 
 — Alyndra? — A voz não era de Lyris. Era mais aguda, mais infantil, carregada de uma pressa que tentava disfarçar-se de gentileza. — É hora do jantar. Todo mundo já está lá embaixo.
 
-Era Mira Solanthir. A mesma menina que a havia recebido no portão com um sorriso quando tudo o que Alyndra queria era se esconder em um canto escuro — agora parada na porta com os cabelos desgrenhados e uma expressão que misturava preocupação genuína com a impaciência de quem não estava acostumada a esperar.
+Era Mira Daelis. A mesma menina que a havia recebido no portão com um sorriso quando tudo o que Alyndra queria era se esconder em um canto escuro — agora parada na porta com os cabelos desgrenhados e uma expressão que misturava preocupação genuína com a impaciência de quem não estava acostumada a esperar.
 
 Alyndra olhou para Lyris, que assentiu com um aceno quase imperceptível.
 

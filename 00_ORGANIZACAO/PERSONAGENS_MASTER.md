@@ -30,7 +30,7 @@ Esta secao foi criada apos leitura dos capitulos oficiais do GitHub (`Prologo` +
 | Melessa | Ficha completa |
 | Thalia | Ficha completa |
 | Thar Elara | Ficha completa |
-| Mira Solanthir | Ficha completa |
+| Mira Daelis | Ficha completa |
 | Kira Dravenis | Ficha completa |
 | Dravyn Kelvathis | Ficha completa |
 | Torvin Thalassor | Ficha completa |
@@ -1139,7 +1139,7 @@ Na Fazenda Aldebar, após capturar os bandidos contratados por Umbra, Lyris reve
 | **Selynis Thalassa (Mestra da Informação)** | Figura pública desconhecida como Velatrix | Lyris conhece Selynis Thalassa como a política de Sanctrum, Mestra da Informação do Conselho dos 12. Ela NÃO FAZ IDEIA de que Selynis é Velatrix. Essa é a camada mais profunda do segredo. |
 | **Aurelius Lumivael** | Contratante original | Foi Aurelius quem a convocou para proteger Alyndra. Lyris sabe que Aurelius é o pai de Alyndra, mas não revela isso à criança. A relação entre eles é de confiança operacional limitada. |
 | **Thar Elara** | Cúmplice relutante | A diretora do orfanato sabe que Lyris é mais do que aparenta. Ela aceita a presença de Lyris com ressalvas, mas confia em seu julgamento sobre Alyndra. |
-| **Mira Solanthir** | Criança sob cuidado | Lyris protege todas as crianças do orfanato, mas Mira ocupa um lugar especial como melhor amiga de Alyndra. |
+| **Mira Daelis** | Criança sob cuidado | Lyris protege todas as crianças do orfanato, mas Mira ocupa um lugar especial como melhor amiga de Alyndra. |
 | **Kira Dravenis** | Subordinada operacional | Durante missões (Fazenda Aldebar), Kira segue as ordens de Lyris. |
 | **Vareth (Umbra)** | Inimigo | Operacional de Umbra que tentou comprar Lyris com uma oferta: informações sobre a rede em troca da segurança de Alyndra. Lyris recusou (Cap 7). |
 
@@ -1808,7 +1808,7 @@ Mila Aldebar é o **gatilho do primeiro ato público de Alyndra como heroína** 
 
 ### NOTA DO ARQUIVISTA
 
-> ⚠️ Mila Aldebar é uma personagem introduzida no Capítulo 9. Diferente de Mira Solanthir (10 anos, melhor amiga de Alyndra), Mila é uma bebê de 18 nyras cujo nome foi alterado de "Mira" para "Mila" para evitar confusão entre as duas personagens. Esta ficha é baseada exclusivamente no Capítulo 9 e na Mini-Aventura correlata. Seu papel futuro na narrativa é indefinido, mas seu resgate por Alyndra a coloca em uma posição única de vínculo com a protagonista. A semelhança entre o nome da mãe (Elara Aldebar) e o da diretora (Thar Elara) pode ser coincidência — ou uma pista para conexões futuras.
+> ⚠️ Mila Aldebar é uma personagem introduzida no Capítulo 9. Diferente de Mira Daelis (10 anos, melhor amiga de Alyndra), Mila é uma bebê de 18 nyras cujo nome foi alterado de "Mira" para "Mila" para evitar confusão entre as duas personagens. Esta ficha é baseada exclusivamente no Capítulo 9 e na Mini-Aventura correlata. Seu papel futuro na narrativa é indefinido, mas seu resgate por Alyndra a coloca em uma posição única de vínculo com a protagonista. A semelhança entre o nome da mãe (Elara Aldebar) e o da diretora (Thar Elara) pode ser coincidência — ou uma pista para conexões futuras.
 
 
 ---
@@ -1819,7 +1819,7 @@ Mila Aldebar é o **gatilho do primeiro ato público de Alyndra como heroína** 
 
 ---
 
-## Mira Solanthir
+## Mira Daelis
 
 ---
 
@@ -1832,7 +1832,7 @@ Mila Aldebar é o **gatilho do primeiro ato público de Alyndra como heroína** 
 
 | Campo | Informação |
 |-------|------------|
-| **Nome completo** | Mira Solanthir |
+| **Nome completo** | Mira Daelis |
 | **Idade** | 10 anos (introduzida no Capítulo 4) |
 | **Espécie** | Aetheriana |
 | **Povo/Origem** | Sylvari (pais viajavam entre os reinos como comerciantes de aromáceos) |
@@ -1950,7 +1950,7 @@ Foi levada ao Orfanato Luminis, onde descobriu sua afinidade Terra fraca. Ao lon
 
 ### FUNÇÃO NA NARRATIVA
 
-Mira Solanthir é o **coração social do Orfanato Luminis** — a primeira amiga, a guia, a organizadora. Ela é essencial para a narrativa porque:
+Mira Daelis é o **coração social do Orfanato Luminis** — a primeira amiga, a guia, a organizadora. Ela é essencial para a narrativa porque:
 
 - **Âncora emocional de Alyndra**: é a primeira pessoa que faz Alyndra sentir que pertence a algum lugar após a morte de Melessa. Sem Mira, Alyndra teria se fechado completamente.
 - **Contraste de resiliência**: Mira perdeu os pais de forma violosa e emergiu mais forte, não mais amarga. Ela é um modelo de processamento saudável de trauma — oposto de Dravyn e espelho de Kira.
@@ -1960,7 +1960,7 @@ Mira Solanthir é o **coração social do Orfanato Luminis** — a primeira amig
 
 ### NOTA DO ARQUIVISTA
 
-> ⚠️ Mira Solanthir é uma personagem central no círculo social de Alyndra, presente nos Capítulos 4, 5 e 6. Ela não aparece no Capítulo 8 ou 9, mas continua sendo a principal amiga de Alyndra dentro do orfanato. Sua ficha é baseada exclusivamente nos capítulos publicados. Sua afinidade Terra fraca — mencionada como quase imperceptível — pode ou não se desenvolver. A distinção entre ela e a bebê Mila Aldebar (introduzida no Capítulo 9) é proposital: Mila e Mira são pessoas diferentes, com histórias e funções distintas na narrativa. A semelhança sonora dos nomes é coincidência diegética (ou escolha dos pais biológicos de cada uma).
+> ⚠️ Mira Daelis é uma personagem central no círculo social de Alyndra, presente nos Capítulos 4, 5 e 6. Ela não aparece no Capítulo 8 ou 9, mas continua sendo a principal amiga de Alyndra dentro do orfanato. Sua ficha é baseada exclusivamente nos capítulos publicados. Sua afinidade Terra fraca — mencionada como quase imperceptível — pode ou não se desenvolver. A distinção entre ela e a bebê Mila Aldebar (introduzida no Capítulo 9) é proposital: Mila e Mira são pessoas diferentes, com histórias e funções distintas na narrativa. A semelhança sonora dos nomes é coincidência diegética (ou escolha dos pais biológicos de cada uma).
 
 
 ---
@@ -2045,7 +2045,7 @@ Mira Solanthir é o **coração social do Orfanato Luminis** — a primeira amig
 | Personagem | Relação | Natureza |
 |------------|---------|----------|
 | **Alyndra** | Criança do orfanato sob sua proteção | Complexa. Kira sabe sobre o fulgor e os cristais de gelo de Alyndra. Sente "algo que poderia ser proteção ou poderia ser cautela". Reconhece em Alyndra o brilho que ela mesma nunca teve — e isso dói, mas não a impede de proteger a menina. [C/D] |
-| **Mira Solanthir** | Amiga/rival benigna | Relação de respeito mútuo temperado por atrito. Mira a ajuda com a contagem sem ser solicitada; Kira não sabe como aceitar ajuda sem parecer vulnerável. Mira a conhece bem o suficiente para colocar a mão em seu braço e chamá-la pelo nome em momentos de tensão. [C] |
+| **Mira Daelis** | Amiga/rival benigna | Relação de respeito mútuo temperado por atrito. Mira a ajuda com a contagem sem ser solicitada; Kira não sabe como aceitar ajuda sem parecer vulnerável. Mira a conhece bem o suficiente para colocar a mão em seu braço e chamá-la pelo nome em momentos de tensão. [C] |
 | **Dravyn Kelvathis** | Companheiro Sylentis | Kira desacelera quando passa perto de Dravyn sentado sozinho. Há um reconhecimento silencioso entre eles — ambos Sylentis, ambos marcados pela ausência, mas que escolheram caminhos opostos: Kira a proteção, Dravyn a raiva. [C/D] |
 | **Lyris** | Adulto responsável pela missão | Relação profissional. Kira segue as ordens de Lyris durante a missão na Fazenda Aldebar (Cap 9). [C] |
 | **Thar Elara** | Diretora do orfanato | Kira provavelmente reporta a Thar Elara como monitora sênior. [D] |
@@ -2212,7 +2212,7 @@ Kira Dravenis é o **contraponto da Sylentis produtiva** — a prova de que é p
 |------------|---------|----------|
 | **Alyndra** | Criança do orfanato | Reconhecimento silencioso. Alyndra é a única que entende a verdadeira origem da raiva de Dravyn — sistêmica, não pessoal. Dravyn não sabe que Alyndra também é uma excluída (registrada como sylentis), mas sente que ela é diferente das outras crianças. |
 | **Kira Dravenis** | Companheira de exclusão | Solidariedade silenciosa. Kira observa Dravyn se afastar com uma expressão que Alyndra não consegue ler — reconhecimento. Ambos são párias do sistema, mas Kira escolheu servir; Dravyn escolheu resistir. |
-| **Mira Solanthir** | Colega de orfanato | Mira conhece Dravyn o suficiente para saber que "ele precisa estar sozinho" depois de falar sobre sua dor. Ela não o teme, mas não sabe como alcançá-lo. |
+| **Mira Daelis** | Colega de orfanato | Mira conhece Dravyn o suficiente para saber que "ele precisa estar sozinho" depois de falar sobre sua dor. Ela não o teme, mas não sabe como alcançá-lo. |
 | **Lyris** | Adulto responsável | Dravyn acompanha a missão na Fazenda Aldebar sob supervisão de Lyris. Lyris reconhece o potencial perigoso de Dravyn — e também seu sofrimento. |
 
 ---
@@ -2361,7 +2361,7 @@ Torvin vivia com os pais em uma aldeia costeira de Thalassia. Seu pai era pescad
 | Personagem | Relação | Natureza |
 |------------|---------|----------|
 | **Alyndra** | Amiga de viagem | Torvin compartilha seu conhecimento com Alyndra voluntariamente, explicando o funcionamento dos Veleiros e apontando maravilhas. Ele não a trata como especial — trata como uma amiga que também quer aprender. [C] |
-| **Mira Solanthir** | Amiga mais velha | Mira o corrige com afeto quando ele exagera ("você não tocou no console — você encostou o dedo quando ele não estava olhando"). Torvin aceita a correção sem se ofender. [C] |
+| **Mira Daelis** | Amiga mais velha | Mira o corrige com afeto quando ele exagera ("você não tocou no console — você encostou o dedo quando ele não estava olhando"). Torvin aceita a correção sem se ofender. [C] |
 | **Kira Dravenis** | Monitora | Torvin segue as regras de Kira sem resistência. Não há conflito entre eles. [C] |
 
 ---
@@ -2673,7 +2673,7 @@ Elara é a primeira a perceber que algo maior está em movimento. E, embora não
 |------------|---------|
 | **Alyndra** | Cuidadora — a trata como filha. Sabe mais sobre ela do que demonstra. |
 | **Lyris (Nyctara)** | Aliada/empregadora — aceitou Lyris como voluntária. Confia nela implicitamente. Intui que Lyris esconde algo mas não pressiona. |
-| **Mira Solanthir** | Criança sob seus cuidados — orgulha-se da liderança natural de Mira. |
+| **Mira Daelis** | Criança sob seus cuidados — orgulha-se da liderança natural de Mira. |
 | **Kira Dravenis** | Criança sob seus cuidados — viu seu potencial antes de todas. |
 | **Dravyn Kelvathis** | Criança sob seus cuidados — permite seus desenhos e seu isolamento por saber que certas crianças precisam de espaço. |
 | **Aldric Valdaris** | Empregado — contratou-o como caseiro. Pode ou não saber sua verdadeira identidade. |
@@ -3083,7 +3083,7 @@ Xyl'Morath é virtualmente imortal no sentido convencional — pode ser banida d
 | Personagem | Relação |
 |------------|---------|
 | **Malkor Sutai** | Invocador — conduz o ritual que a chama ao plano material. |
-| **Mira Solanthir** | Vítima — tem seu Aethra drenado durante o ritual incompleto. |
+| **Mira Daelis** | Vítima — tem seu Aethra drenado durante o ritual incompleto. |
 | **Kira Dravenis** | Adversária — atacada com relâmpagos que a ferem mas não a detêm. |
 | **Marethyus** | Algoz — crava a espada de gelo Seraphyen em seu núcleo, banindo-a de volta ao Plano de Sombra. |
 | **Lyris (Nyctara)** | Testemunha — presencia sua invocação e não consegue detê-la. |

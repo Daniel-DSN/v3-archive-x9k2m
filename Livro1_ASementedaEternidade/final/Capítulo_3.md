@@ -34,6 +34,8 @@ Ficou deitado no escuro, sentindo a ausência como uma ferida que não sangrava,
 
 *Onde quer que você esteja, Ayla, espero que esteja em paz.*
 
+Alyndra não sabia de nada disso.
+
 ---
 
 Nos valens que se seguiram, *Mespiria* continuou sendo o que sempre foi — uma vila pequena, esquecida entre colinas douradas e campos de *aethrys*.
@@ -74,7 +76,7 @@ A velha parteira riu, um som rouco mas caloroso.
 
 — Ora, essa é uma pergunta para os filósofos. Talvez porque o universo gosta de movimento. Talvez porque sem a dança, tudo seria parado e morto. Talvez porque os *Seraphyens* deixaram o vento como um lembrete de que a vida é movimento.
 
-— Eu gosto do vento — disse Alyndra, esticando a mão como se pudesse tocá-lo. — Ele parece vivo. Como se estivesse tentando me dizer algo.
+— Eu gosto do vento — disse Alyndra, esticando a mão como se pudesse tocá-lo. — Ele tá falando comigo?
 
 Enquanto dizia isso, um brilho pulsou sob a pele de sua mão estendida — breve, quase imperceptível, mas Melessa já cruzava a varanda em dois passos. Apanhou a mão da criança, pressionou-a contra o peito.
 
@@ -89,6 +91,8 @@ Alyndra assentiu, os olhos grandes e sérios.
 Era uma mentira que Melessa contava várias vezes por dia. Thalia sabia — estivera no nascimento. O ferreiro Branok vira o brilho uma vez ao passar pela casa durante a Nyxara; Melessa inventou uma história sobre cristais *aetheris*² no solo para acalmá-lo. Os mais velhos murmuravam sobre a criança da Convergência, mas Melessa tratava aquilo como lenda de aldeões supersticiosos.
 
 Funcionava. Na maior parte do tempo.
+
+Thalia trouxe sopa naquela nyxara. Melessa sorriu.
 
 As *Gesh Nanna* — pratafolhas — erguiam-se ao redor de Mespiria como guardiãs silenciosas, suas folhas tilintando ao vento.
 
