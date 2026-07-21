@@ -2,7 +2,7 @@
 
 > A cronologia que ninguém conhece. A história que os Zagin Kal apagaram.
 > **Estado:** Síntese de lore existente + expansões pendentes aprovação.
-> **Complementa:** LORE_COSMOLOGIA_E_MAGIA.md, LORE_GUERRA_E_SELO.md, NIHILARYTH_EXPANSÃO_DETALHADA.md, SANCTRUM_EXPANSÃO_DETALHADA.md, UMBRA_EXPANSÃO_DETALHADA.md
+> **Complementa:** LORE_COSMOLOGIA_E_MAGIA.md, LORE_GUERRA_E_SELO.md, NIHILARYTH_EXPANSÃO_DETALHADA.md, SANCTRUM_EXPANSÃO_DETALHADA.md, UMBRA_EXPANSÃO_DETALHADA.md, RELICAS_SERAPHYEN.md
 
 ---
 
@@ -28,13 +28,15 @@ O En Me foi derrotado. Mas Umbra pagou o preço mais alto. Sua capital foi arras
 
 ---
 
-## III. A Ascensão dos Zagin Kal `[NOME PENDENTE: "Kal" não está no glossário Emê-Gir. Sugestões: Zagin Gal (Grandes da Luz), Zagin Dur (Os que Sustentam a Luz), ou definir "Kal" como nova raiz.]`
+## III. A Ascensão dos Zagin Kal
 
 No rescaldo da guerra, os reinos vitoriosos fizeram uma escolha que definiria o futuro. A reconstrução foi desigual. Os reinos mais ricos concentraram recursos em si mesmos. E Umbra foi abandonada — não por esquecimento, mas por conveniência.
 
 A lógica era distorcida, mas poderosa: se Umbra não tivesse preservado os rituais proibidos, o En Me nunca teria caído. Culparam a vítima pela existência da arma. Isolaram o reino mártir sob a justificativa de que era "perigoso" e "instável".
 
 Mas a verdadeira transformação veio com a criação dos **Zagin Kal** — os Anciãos do Alvorecer. Um conselho secreto formado pelos heróis da guerra para supervisionar o En Me e impedir que outro tirano ascendesse. Eles receberam poder de veto sobre decisões do Conselho. Poder de convocação de emergência. Poder de destituir o En Me por voto unânime.
+
+**Sobre o nome "Zagin Kal":** Em Emê-Gir, *Zagin* significa "Luz" ou "Alvorecer". A raiz *Kal* foi cunhada pelos próprios fundadores do conselho e significa **"Sentinela, Aquele que Vigia"**. Assim, *Zagin Kal* traduz-se como **"Sentinelas da Luz"** ou **"Vigias do Alvorecer"** — aqueles que observam do alto para que a luz nunca se apague. O termo não aparece nos textos primordiais do Ilyos-Gir; é uma construção posterior, o que reflete a natureza mesma do conselho: uma instituição que se colocou acima da tradição que claims proteger.
 
 Sua missão original era nobre: ser o freio que impediria outra corrupção. Mas ao longo das gerações, tornaram-se o que deveriam combater. Selaram a Cripta dos Primórdios, escondendo a verdade sobre a guerra. Reescreveram o Ilyos-Gir, transformando a filosofia de Ilyos em doutrina de controle. Institucionalizaram a perseguição às crianças de Sombra, usando o medo como ferramenta. Isolaram Umbra, transformando-a em bode expiatório eterno.
 
@@ -105,3 +107,88 @@ Quando a verdade sobre os Zagin Kal vier à tona, Nova Aetherion entrará em col
 E no centro do turbilhão, Alyndra terá que decidir: o que fazer com os Anciãos do Alvorecer? Julgá-los? Perdoá-los? Ou tornar-se o que eles sempre temeram — uma nova tirana, usando seu poder para impor sua própria versão de justiça?
 
 A resposta definirá não apenas seu destino, mas o destino de todos os sete reinos.
+
+---
+
+## X. A Estrutura dos Zagin Kal
+
+Os Zagin Kal são dez. Não doze, não sete — dez, como os Seraphyens cujo legado claims proteger. Cada assento está vinculado a um dos dez Seraphyens originais, e o ocupante é escolhido não por linhagem, mas por afinidade elemental e — crucialmente — por lealdade ao princípio de que o conhecimento deve ser contido.
+
+### Os Dez Assentos
+
+| Assento | Título Emê-Gir | Seraphyen Vinculado | Tradução do Título | Ocupante Atual (~4.103 E.D.) |
+|:-------:|:--------------:|:-------------------:|:------------------:|:---------------------------:|
+| I | **Nim Zagin Gal** | Aetherion (Relâmpago-Luz) | Grande Relâmpago da Luz | Cassien Solen |
+| II | **Gibil Zagin Dur** | Ignisara (Fogo-Luz) | Fogo do Berço da Luz | Idris Vorn |
+| III | **Sha Zagin Shid** | Myrrhiel (Água-Luz) | Coração da Luz Sussurrada | Mira Delphis |
+| IV | **Dur Zagin Gal** | Solarys (Terra-Luz) | Grande Berço da Luz | Gorath Torgath |
+| V | **Lil Zagin Shid** | Veridion (Vento-Luz) | Vento da Luz Sussurrado | Renis Sylari |
+| VI | **Nim Gig Zur** | Aeryn (Relâmpago-Sombra) | Relâmpago da Sombra Aniquiladora | Nira Stormarch |
+| VII | **Ush Zagin Dur** | Calyssor (Terra-Sombra) | Morte do Berço da Luz | Soran Kaldris |
+| VIII | **Sha Gig Nihil** | Liora (Água-Sombra) | Coração da Sombra do Vazio | Orian Nethys |
+| IX | **Lil Gig Nihil** | Altheron (Vento-Sombra) | Vento da Sombra do Vazio | Mordain Vestis |
+| X | **Gibil Gig Nihil** | Elarys (Fogo-Sombra) | Fogo da Sombra do Vazio | Vess Nolara |
+
+### Regras de Sucessão
+
+O Zagin Kal não funciona como uma monarquia. Não há herança automática. Quando um sentinela morre — e todos eventualmente morrem, pois renunciam à imortalidade que as relíquias poderiam oferecer —, os nove restantes se reúnem para escolher o substituto. O critério não é poder bruto, mas três qualidades específicas:
+
+1. **Afinidade Seraphyen.** O candidato deve demonstrar uma ressonância natural com o elemento do assento vago. Não basta dominar o Aethra — é preciso que o Aethra *reconheça* o candidato como extensão do Seraphyen.
+
+2. **Convicção Inabalável.** O candidato deve aceitar a premissa fundamental dos Zagin Kal: que a humanidade é incapaz de lidar com a verdade plena. Aqueles que demonstram curiosidade excessiva ou questionam o Pacto do Silêncio são rejeitados, não matter quão poderosos sejam.
+
+3. **Sacrifício Pessoal.** Cada novo sentinela deve abrir mão de algo irreversível — família, identidade pública, ou parte de sua Aethra vital. Isso garante lealdade: quem tudo perdeu para entrar não tem nada a ganhar ao trair.
+
+A votação é por maioria simples. Mas o Assento I (Nim Zagin Gal, vinculado a Aetherion) tem voto de desempate — um poder que, ao longo dos séculos, transformou o ocupante desse assento no líder *de facto* do conselho, ainda que o título formal nunca exista.
+
+### Onde se Reúnem
+
+O conselho não possui sede fixa. Rotacionam entre dez locais sagrados — cada um vinculado a um Seraphyen — em ciclos de um valen. A localização exata de cada ponto de reunião é transmitida oralmente, nunca por escrito. Apenas o sentinela do assento anfitrião conhece o caminho; os outros são guiados com os olhos vendados até o local.
+
+---
+
+## XI. O Infiltrado
+
+O pior medo dos Zagin Kal não é que os Nihilaryth os destruam por fora. É que já estejam dentro.
+
+Há pelo menos um assento que foi comprometido. Não por corrupção abrupta — Nihilaryth não funcionam assim — mas por uma infiltração tão antiga que o próprio ocupante pode não saber que deixou de ser inteiramente humano. A corrupção Nihilaryth é um processo de substituição gradual: memórias que se desbotam, convicções que se invertem sem que o hospedeiro perceba, empátia que diminui milímetro por milímetro até que a pessoa que sobrou é um espelho oco do que foi.
+
+**O Assento IX — Lil Gig Nihil (Vento da Sombra do Vazio)** é o principal suspeito. E não por coincidência. O Seraphyen vinculado a esse assento, Altheron, tinha como poder intrínseco o *apagamento de memórias* e a *invisibilidade perceptiva*. Qualquer entidade que controlasse esse assento teria a capacidade perfeita de esconder sua própria corrupção — não apenas dos outros sentinelas, mas de si mesmo.
+
+O ocupante atual, **Mordain Vestis**, é uma figura enigmática que apareceu no conselho há quarenta valens, após a morte misteriosa da sentinela anterior. Ninguém questionou sua ascensão porque ninguém lembrava de tê-lo feito. Essa é a assinatura de Altheron: não a presença do mal, mas a *ausência* da pergunta.
+
+Se Mordain é um infiltrado Nihilaryth ou apenas um sentinela particularmente sombrio, é uma questão que a narrativa pode explorar. O que importa para a lore é o princípio: **os Zagin Kal, que se consideram imunes à corrupção por serem os guardiões do conhecimento, são o alvo perfeito para a infiltração**. Quanto mais certo alguém está de sua own pureza, mais cego fica para a deterioração.
+
+### A Ironia Central
+
+Os Zagin Kal sabem dos Nihilaryth. Sabem que a infiltração é gradual. Sabem que os sinais são invisíveis. E mesmo assim, acreditam que estão imunes — porque sua fé na missão os protege. Essa é a mesma lógica que corrompeu o En Me da Terceira Convergência: "Eu posso controlar o que destruiu os outros."
+
+---
+
+## XII. A Cordeira e a Semente
+
+### O Papel de Elainy Vulkarys
+
+Elainy não é apenas a rival de Alyndra. Ela é a **cordeira de provação** — o sacrifício que os Zagin Kal estão preparando como teste para o verdadeiro altar.
+
+A lógica é cruel mas coerente com a cosmovisão do conselho. O sacrifício de Alyndra precisa ser *perfeito* para funcionar. E um sacrifício perfeito requer preparação — não apenas da vítima, mas do próprio ritual. Os Zagin Kal precisam de uma prática antes do evento real.
+
+Elainy carrega a Zagin Gibil Gig (Chama que Tudo Consome) — a relíquia de Elarys, o Seraphyen do Fogo-Sombra, cujo poder intrínseco é o *consumo*. Cada vez que Elainy usa a relíquia, ela envelhece um valen. Ela está sendo consumida pelo próprio instrumento que deveria protegê-la. Os Zagin Kal observam. Anotam. Calculam quanto tempo uma portadora de relíquia sobrevive. Quanto Aethra vital ela gasta. Em que momento ela quebra.
+
+Elainy não sabe disso. Ela acredita que é uma guerreira escolhida por seu sangue e sua força. Não sabe que os Zagin Kal permitiram que seu pai encontrasse a relíquia. Não sabe que sua "rivalidade" com Alyndra foi orquestrada — não para criar conflito, mas para criar *proximidade*. Porque quando o momento chegar, o sacrifício será mais fácil se a vítima e a semente já tiverem um vínculo.
+
+### A Dupla Função de Elainy
+
+Se o plano dos Zagin Kal parece simples — sacrificar Alyndra —, a realidade é mais intricada. Elainy cumpre duas funções no tabuleiro:
+
+**Primeira: o teste do ritual.** Cada detalhe do futuro sacrifício de Alyndra precisa ser calibrado. O altar precisa ser construído. A Convergência precisa ser mapeada. E o efeito de uma relíquia Seraphyen sobre um corpo humano durante o sacrifício precisa ser medido. Elainy, como portadora da Zagin Gibil Gig, é o laboratório vivo desses cálculos. Cada uso da relíquia que a enfraquece é um dado que os Zagin Kal coletam.
+
+**Segunda: a isca emocional.** Se Alyndra nunca se importasse com Elainy, o sacrifício seria puramente cósmico — poder bruto canalizado para um fim. Mas se Alyndra *se importar* — se houver dor, perda, luto —, a emoção amplifica o Aethra liberado. O sacrifício de alguém que a protagonista ama é infinitamente mais poderoso do que o sacrifício de uma desconhecida. Os Zagin Kal não precisam que Elainy morra no altar. Precisam que Alyndra *perca* Elainy — de qualquer forma.
+
+### Alyndra e o Dilema Final
+
+Alyndra está sendo preparada desde o nascimento — não apenas pelos Zagin Kal, mas pelas próprias forças do destino. Cada pessoa que a protege pode ser um agente do conselho. Cada lição que aprende pode ser uma gaiola disfarçada de sabedoria. E cada aliado que ganha pode ser uma peça no tabuleiro que a levará ao altar.
+
+O conflito central não é "Alyndra vs. Nihilaryth". É **Alyndra vs. a mentira de 2.500 anos**. Para vencer, ela precisa destruir não um inimigo, mas um *sistema* — um sistema que inclui pessoas que ela ama, instituições que ela respeita, e verdades nas quais foi educada para acreditar.
+
+`[PENDENTE APROVAÇÃO DO AUTOR: A questão "Ayla vs. Alyndra Marethyus" permanece em aberto. O nome "Ayla" aparece em alguns contextos como possível nome alternativo ou de nascimento de Alyndra. Isso precisa ser definido antes da consolidação final da lore.]`
