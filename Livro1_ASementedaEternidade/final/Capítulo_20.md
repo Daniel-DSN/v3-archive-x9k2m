@@ -364,7 +364,7 @@ No subsolo circular, a bacia de bronze permaneceu imóvel, contendo a escuridão
 
 ¹⁰ **Nihil Shid** — Organização secreta que se autodenomina *Os Iluminados*; operam nas sombras do continente sob Sanctrum e Umbra, coordenando o tráfico de pessoas.
 
-¹¹ **Selynis Thalassa** — Membro do Conselho dos 12 e líder dos Tar-Gig (Mestra da Informação).
+¹¹ **Selynis Thalassa** — Membro do Conselho dos 12 e Mestra da Informação em Sanctrum.
 
 
 ¹³ **Sylvaris** — Reino dos Ventos Livres; um dos sete reinos.
@@ -376,7 +376,7 @@ No subsolo circular, a bacia de bronze permaneceu imóvel, contendo a escuridão
 
 ¹⁷ **cargas fantasmas** — Termo não oficial para o tráfico de pessoas através das fronteiras sem registro, em caravanas ou navios sem luzes.
 
-¹⁸ **Tar-Gig** — Rede de inteligência e espionagem de Sanctrum; operam nas sombras sob a liderança de Velatrix.
+¹⁸ **Tar-Gig** — Rede de inteligência e espionagem de Sanctrum, conhecida como Tecelões da Sombra.
 
 ¹⁹ **aetherite** — Mineral condutor de energia elemental; usado nos cabos de cobre para extração.
 

@@ -22,7 +22,7 @@ Primeiro, o cristal de *Aetheris* — não um sino de metal, porque *Thar Elara*
 
 *Alyndra* abriu os olhos e ficou imóvel por um momento, ouvindo. O vento nas *aerivas* do pátio. O chiado baixinho de *Nyx*, enroscada aos pés de sua cama. O murmúrio das crianças se vestindo, pés descalços no chão de madeira.
 
-Três dias desde o retorno de *Thalendris*. Três dias em que o Orfanato Luminis reabsorveu suas quarenta crianças com a eficiência silenciosa de quem fez da rotina sua forma mais elevada de proteção.
+Três dias se passaram desde o retorno de *Thalendris* — três dias em que Lyris não dormiu mais do que o necessário e Alyndra não perguntou sobre o que tinha visto. O Orfanato Luminis reabsorveu suas quarenta crianças com a eficiência silenciosa de quem fez da rotina sua forma mais elevada de proteção.
 
 — Acordada? — *Kira* apareceu na porta, cabelos ruivos desgrenhados, túnica azul mal ajustada.
 
@@ -178,6 +178,8 @@ Valtheris ficou com o cilindro pulsando na mão, os olhos fixos na porta que se 
 
 **IV. A Sabatina**
 
+Aurelius ficou sozinho no gabinete. Seus pensamentos iam de Valtheris a Lyris, de Lyris à torre em Sylvaris — fios que não formavam um quadro, mas que se recusavam a se separar.
+
 O gabinete do Guardião Mestre cheirava a cera quente e ozônio.
 
 Aurelius estava de pé diante da imensa janela de vidro arqueado, observando o mar engolir os últimos raios de Aurion. Sua mão direita repousava sobre o peito, onde o peso da *Manopla de Vinculação*¹⁰ exigia seu tributo silencioso.
@@ -187,6 +189,8 @@ Ele não ouviu passos. A mudança na densidade do ar o avisou.
 — *mestra da informação — a quem nada escapa*¹¹ — Aurelius disse, sem se virar. — Não é costumeiro vê-la fora das catacumbas antes do velum.
 
 *Selynis Thalassa* parou no centro da sala. Não trazia pergaminhos. Apenas a postura ereta e a frieza de vidro que a tornavam a mulher mais temida de Sanctrum.
+
+O que a trouxera ali não fora lealdade — fora um nome riscado nos registros de Vethran Noll. Lyris. Alguém em Sanctrum havia tentado apagar aquele nome, e apagar era a forma mais segura de revelar.
 
 — E não é costumeiro que a Suprema Ordem desperdice seus talentos mais afiados ensinando crianças a ler no oeste, *En Me* — ela respondeu, a voz perfeitamente nivelada.
 
@@ -370,7 +374,7 @@ Não sabia o que Lyris esperava. Mas sentia — com aquela intuição que as cri
 
 *Vinte e três estacas*, pensou. *Vinte e três passos até a estrada.*
 
-E guardou o número, sem saber por quê.
+E guardou o número como quem guarda um mapa que ainda não sabe que precisa — sem saber por quê.
 
 ---
 
@@ -390,7 +394,7 @@ Ele guardou o pergaminho em uma pasta sobre a mesa. Ao lado, o rascunho da convo
 
 *Preciso que isso aconteça antes que Selynis descubra. Antes que Lyris decida agir por conta própria. Antes que o jogo escape do meu controle.*
 
-Pegou a pena. Continuou escrevendo.
+Noutro canto de Velantis, Lyris apagou a vela. O vento soprou pela fresta da janela, e ela ouviu — ou imaginou — o som de asas que já não existiam. Fechou os olhos. E pela primeira vez em trinta e dois valens, Nyctara dormiu sem sonhar.
 
 ---
 

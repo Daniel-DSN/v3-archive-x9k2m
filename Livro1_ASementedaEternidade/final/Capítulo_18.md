@@ -202,9 +202,9 @@ Selynis guardou os relatórios na gaveta. Levantou-se. Caminhou até a janela qu
 
 *Não posso provar que Thaloris está envolvido*, ela pensou, e o pensamento era frio, objetivo, destituído da paixão que a ideia de um líder de reino facilitando o sequestro de crianças deveria provocar. *Mas posso vigiar. E vigiar é o que sei fazer melhor.*
 
-Ela redigiu uma mensagem para seus operativos de campo:
+Ela redigiu uma solicitação ao Canal de Inteligência:
 
-*Rotas Sylvaris-Fulmora. Vigilância intensificada. Foco: postos de controle, transportes noturnos, assentamentos fronteiriços. Quaisquer anomalias — relatório imediato. Atribuição: agentes Tar-Gig*³⁵ *de primeira linha.*
+*Rotas Sylvaris-Fulmora. Vigilância intensificada. Foco: postos de controle, transportes noturnos, assentamentos fronteiriços. Quaisquer anomalias — relatório imediato. Atribuição: agentes de primeira linha.*
 
 Transmitiu.
 
@@ -422,7 +422,7 @@ E nos confins mais profundos do aethra — naquele lugar onde a luz de Aurion³ 
 
 ³⁴ **Lugal Lil** — Título do governante de Sylvaris; "Senhor dos Ventos".
 
-³⁵ **Tar-Gig** — Força de inteligência e operações especiais. Selynis utiliza operativos Tar-Gig para vigilância de campo em territórios de risco.
+³⁵ **Tar-Gig** — Força de inteligência e operações especiais de Sanctrum, conhecida como Tecelões da Sombra.
 
 ³⁶ **Lyris (Nyctara)** — Guardiã de Alyndra; ex-operativa do Tar-Gig com afinidade ao *thermaris*. Reconhece os sinais de possessão nihilária por experiência prévia.
 

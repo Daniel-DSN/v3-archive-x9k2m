@@ -255,7 +255,7 @@ Algo que ainda não tinha nome.
 
 ²⁸ **Aldric** — Guarda e zelador do Orfanato Luminis. Ex-companheiro de Ayla na *Kalúdris*.
 
-²⁹ **Tar-Gig** — Organização de inteligência e espionagem aliada a Selynis Thalassa.
+²⁹ **Tar-Gig** — Rede de inteligência e espionagem de Sanctrum, conhecida como Tecelões da Sombra.
 
 ³⁰ **velrok** — Montaria de grande porte usada para transporte e combate em Alyndra.
 

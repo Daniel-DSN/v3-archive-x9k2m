@@ -336,6 +336,6 @@ A *koramis* mergulhou em direção ao templo, e o vento gritou, e o *aethra* cor
 
 ³² **Aurelius** — Aurelius Lumivael, o Guardião Mestre de Sanctrum²² e tutor de Lyris⁴.
 
-³³ **Velatrix** — A lendária identidade de combate e guerreira secreta de Selynis¹³. Mencionada na previsão.
+³³ **Velatrix** — Título lendário associado a operações de elite no continente. Sua identidade real é desconhecida. Mencionada na previsão.
 
-³⁴ **Tar-Gig** — Esquadrão e agência especial de inteligência militar sob o comando direto de Velatrix³³. Mencionada na previsão.
+³⁴ **Tar-Gig** — Rede de espionagem conhecida como Tecelões da Sombra. Mencionada na previsão.

@@ -154,7 +154,7 @@ Ela se afastou da mesa e caminhou até a janela circular que dava para *Sanctrum
 
 — Tarvyn — ela disse para o vazio.
 
-Uma porta lateral se abriu — silenciosamente, como todas as portas na *Câmara dos Sussurros*¹⁶. Tarvyn entrou. Era um homem de meia-idade, magro, com o tipo de rosto que se dissolve em multidões — sem marcas distintivas, sem expressões memoráveis, sem a sombra de uma identidade que pudesse ser rastreada. Era um operativo de Selynis, um de seus melhores: o tipo de pessoa que podia estar em uma sala durante valens sem que ninguém lembrasse que ele estivera ali.
+Uma porta lateral se abriu — silenciosamente, como todas as portas na *Câmara dos Sussurros*¹⁶. Tarvyn entrou. Era um homem de meia-idade, magro, com o tipo de rosto que se dissolve em multidões — sem marcas distintivas, sem expressões memoráveis, sem a sombra de uma identidade que pudesse ser rastreada. Era um operativo designado à Câmara dos Sussurros¹⁶, um dos melhores: o tipo de pessoa que podia estar em uma sala durante valens sem que ninguém lembrasse que ele estivera ali.
 
 — Senhora — ele disse.
 
@@ -354,7 +354,7 @@ E Aldric ficou ali, deitado no escuro, com os olhos abertos, esperando uma nyxar
 
 ## 📖 Glossário do Capítulo
 
-¹ **Tar-Gig** — Rede de inteligência e operativos secretos de Sanctrum, conhecida como Tecelões da Sombra; operam nas sombras sob a liderança de Velatrix.
+¹ **Tar-Gig** — Rede de inteligência e operativos secretos de Sanctrum, conhecida como Tecelões da Sombra.
 
 
 ³ **Orfanato Luminis** — Complexo fortificado nos arredores de Velantis, Sylvaris; abrigo de Alyndra e das outras crianças.

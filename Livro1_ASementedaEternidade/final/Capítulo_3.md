@@ -90,7 +90,7 @@ Alyndra assentiu, os olhos grandes e sérios.
 
 Era uma mentira que Melessa contava várias vezes por dia. Thalia sabia — estivera no nascimento. O ferreiro Branok vira o brilho uma vez ao passar pela casa durante a Nyxara; Melessa inventou uma história sobre cristais *aetheris*² no solo para acalmá-lo. Os mais velhos murmuravam sobre a criança da Convergência, mas Melessa tratava aquilo como lenda de aldeões supersticiosos.
 
-Funcionava. Na maior parte do tempo.
+Até que não funcionou mais.
 
 Thalia trouxe sopa naquela nyxara. Melessa sorriu.
 
@@ -104,7 +104,7 @@ Alyndra apertou a mão de Melessa com mais força, seus passinhos apressados. J�
 
 A fazenda dos Thorens ficava no topo de uma colina suave, cercada por cercas de madeira velha cobertas de *aeriva* — trepadeiras delicadas que se enrolavam como abraços verdes. Thalia, que estava na fazenda para verificar a saúde dos recém-nascidos, veio ao encontro delas na porta do estábulo.
 
-— Melessa — disse, o rosto carregando uma expressão que Melessa reconheceu como preocupação. — Que bom que veio. Temos uma situação.
+— Melessa — disse, o rosto carregando os lábios apertados numa linha fina — a mesma expressão que tivera na noite do parto, quando vira o brilho pela primeira vez. — Que bom que veio. Temos uma situação.
 
 Dentro do estábulo, a mãe velrok deitava sobre palha fresca, cercada por três filhotes que já mamavam com fome. Era uma cena comum, bela em sua normalidade — o tipo de cena que Melessa havia presenciado centenas de vezes. Mas no canto do estábulo, afastado dos outros, havia algo diferente.
 
@@ -222,7 +222,7 @@ Encontrar um portador foi o mais difícil. As estradas estavam bloqueadas pela n
 
 O mercador partiu três dias depois, numa breve pausa do inverno. A carta viajou através das montanhas geladas, passando de mão em mão. Em Velantis, o selo negro no envelope abriu portas que nenhum nome escrito conseguiria — um mensageiro viu o símbolo e mudou a rota; outro chamou alguém que ninguém viu. Doze dias depois, o envelope chegou ao *Palácio do Grande Mestre* sem que nenhuma mão intermediária o tivesse aberto. Doze dias em que Melessa enfraquecia, Alyndra se recusava a deixar seu lado, e o inverno continuava sua marcha sobre Mespiria.
 
-Na quinta Nyxara após a partida do mercador, quando Melessa já mal tinha forças para segurar a caneca de chá que Thalia lhe trazia, uma batida soou na porta. Três batidas — firmes, medidas, o tipo de batida que não pedia permissão, apenas anunciava uma presença. Melessa não conseguiu se levantar. Thalia, que dormia no quarto ao lado, atendeu. Uma voz masculina, educada, atravessou a fina parede de madeira:
+Na quinta Nyxara após a partida do mercador, quando Melessa já mal tinha forças para segurar a caneca de chá que Thalia lhe trazia, uma batida soou na porta. Três batidas — firmes, medidas, o tipo de batida que não pedia permissão, apenas anunciava uma presença. Melessa não conseguiu se levantar. Thalia, que dormia no quarto ao lado, atendeu. Uma voz masculina, educada, atravessou a fina parede de madeira, carregando um leve aroma de incenso de aerélia — o mesmo que Ayla usava nas nyxaras em que não conseguia dormir:
 
 — Boa Nyxara. Procuro informações sobre uma criança nascida durante a Convergência Tripla, há quatro valens. Disseram que a parteira da vila poderia saber algo.
 

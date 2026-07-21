@@ -180,7 +180,7 @@ Cinco assinaturas. Todas masculinas. Difundidas pelo interior da galeria em um p
 
 *Dois na entrada. Três na câmara. O líder é o mais forte.*
 
-Nyctara respirou fundo outra vez, e quando abriu os olhos, algo mudou em sua postura. Era sutil — um enrijecimento quase imperceptível dos ombros, um afinamento da expressão que fizera seus traços suaves parecerem esculpidos em mármore. A mulher que cuidava das crianças e acariciava o cabelo de Alyndra com ternura ainda existia — mas estava em espera, amortecida, guardada em um compartimento do coração que só seria reaberto quando a missão terminasse.
+Nyctara respirou fundo outra vez, e quando abriu os olhos, seus ombros enrijeceram e sua expressão afinou-se — mármore onde antes havia suavidade.
 
 *Dois sentinelas primeiro. Depois, descubro o que os outros três estão fazendo. Informação antes de ação.*
 
@@ -274,9 +274,13 @@ O nome surgiu na conversa como uma pedra caindo em água parada — e os círcul
 
 — Velatrix é lenda — disse o de cicatriz no queixo, mas a voz dele não carregava convicção. Carregava medo.
 
-— Velatrix é real — o líder corrigiu. — E se ela está em Thalendris, então a operação inteira precisa ser recalculada. Não estamos lidando com vigilantes locais ou agentes de nível médio dos Tar-Gig. Estamos lidando com a *mestra da Informação* em pessoa.
+— Dizem que é um dos doze — o outro mercenário murmurou, quase para si mesmo. — Alguém do Conselho. Ou alguém que o Conselho pensa que controla.
+
+— Velatrix é real — o líder corrigiu. — E se ela está em Thalendris, então a operação inteira precisa ser recalculada. Não estamos lidando com vigilantes locais ou agentes de nível médio dos Tar-Gig. Estamos lidando com *ela* em pessoa.
 
 *Velatrix*, Nyctara pensou, e o nome carregava o peso de lendas — lendas que ouvira nos corredores de Sanctrum quando ainda era uma agente em treinamento, sussurros sobre a figura encapuzada que comandava os Tar-Gig como um fantasma existente entre as sombras dos sete reinos. Se a Velatrix real estava em Thalendris, as coisas eram mais graves do que qualquer relatório poderia capturar. A mensagem cifrada que havia chegado durante a excursão — "O mapa está mais completo do que eu temia. As peças se movem em Thalendris. Proteja o que não pode ser substituído." — não era paranoia de uma mulher cautelosa. Era um alerta preciso de quem via o tabuleiro mais claramente do que qualquer um.
+
+Um eco ressurgiu do fundo da memória — uma voz envelhecida nos corredores da academia: *Um dia você vai ouvir esse nome. Quando ouvir, saberá que a guerra começou.*
 
 Nyctara permaneceu na sombra por mais alguns pulsos, absorvendo tudo o que podia — os códigos de frequência que o líder ditava para o cristal de comunicação, as rotas de transferência mencionadas em voz alta, a hierarquia de comando que se revelava em cada ordem e cada advertência. Quando não havia mais nada a ouvir, ela se retraiu pela galeria, passando pelos dois corpos dos sentinelas — ainda posicionados nos blocos de sal como se estivessem dormindo — e emergiu na base da falésia.
 
@@ -286,7 +290,7 @@ Nyctara ficou parada na entrada da galeria, processando tudo o que havia ouvido.
 
 *Preciso mandar isso para Velatrix. Agora.*
 
-Nyctara fechou os olhos e fez algo que não fazia há seis nyras: ativou o *cristal aetheris*⁶ que carregava no interior de uma fivela de cabelo — um dispositivo pequeno, insignificante, que qualquer mulher poderia usar como adorno sem levantar suspeitas. O cristal operava em dupla frequência — uma frequência de escuta passiva, que captava transmissões dos Tar-Gig sem emitir sinal, e uma frequência ativa, reservada exclusivamente para nyctari em campo. Há seis nyras, o cristal estava silencioso. Há seis nyras, ninguém havia transmitido naquela frequência, porque não havia nyctari em campo — ou porque todos acreditavam que não havia.
+Nyctara fechou os olhos e ativou o *cristal aetheris*⁶ na fivela de cabelo — dois modos: passivo, que apenas escutava, e ativo, que transmitia. Há seis nyras, a frequência ativa estava silenciosa.
 
 Nyctara ativou a frequência ativa.
 
@@ -296,11 +300,13 @@ Ela compôs a mensagem em código de frequência aetheris — não palavras, mas
 
 "Sombra nos penhascos. Dois sentinelas eliminados. Informação coletada: rede Umbra ativa em quatro cidades. A Semente foi identificada por nome — prioridade máxima. Fico. Necessito olhos. Convocar Velatrix. Canal dos Ventos. Urgência: alta."
 
-A mensagem partiu como um pulso azul — uma luz fraca que emanou do cristal na fivela de cabelo e foi engolida pela chuva antes que pudesse ser vista por qualquer olho que não fosse etérico. No canal de nyctari, a mensagem viajaria por frequências que não eram detectadas pelos instrumentos padrão de Umbra, passando por repetidores enterrados em locais que apenas os Tar-Gig conheciam, até alcançar o cristal pessoal de Velatrix — onde quer que a mestra da Informação estivesse naquele momento.
+A mensagem partiu como um pulso azul — uma luz fraca que emanou do cristal na fivela de cabelo e foi engolida pela chuva antes que pudesse ser vista por qualquer olho que não fosse etérico. No canal de nyctari, a mensagem viajaria por frequências que não eram detectadas pelos instrumentos padrão de Umbra, passando por repetidores enterrados em locais que apenas os Tar-Gig conheciam, até alcançar o cristal pessoal de Velatrix — onde quer que a figura encapuzada estivesse naquele momento.
 
 Nyctara desativou o cristal e guardou a fivela de cabelo de volta no lugar.
 
 *A Velatrix vai responder*, ela pensou. *E quando responder, o tabuleiro vai estar montado.*
+
+Mas antes da estratégia, havia uma decisão. E decisões, Lyris sabia, não esperavam por reflexões perfeitas.
 
 ---
 
@@ -376,7 +382,9 @@ Ela se levantou — devagar, sem fazer barulho, com a cautela de quem sabe que o
 
 Deitou-se. Fechou os olhos.
 
-E nos momentos entre a vigília e o sono — aqueles momentos liminares onde Nyctara e Lyris coexistiam brevemente antes que uma cedesse lugar à outra — ela pensou no cristal pulsando em azul, atravessando a chuva e a escuridão até onde quer que Velatrix estivesse. Pensou em Selynis — os olhos verdes, as mãos que haviam treinado as dela nas galerias sob o Distrito dos Ferreiros — e na esperança de que a mensagem encontrasse caminho.
+E nos momentos entre a vigília e o sono — aqueles momentos liminares onde Nyctara e Lyris coexistiam brevemente antes que uma cedesse lugar à outra — ela pensou no cristal pulsando em azul, atravessando a chuva e a escuridão até onde quer que Velatrix estivesse. *A mensagem vai chegar*, pensou. *E quando chegar, o tabuleiro vai estar montado.*
+
+Depois — já quase dormindo, já quase Lyris de novo — uma memória subiu sem permissão: Selynis, nos corredores subterrâneos do Distrito dos Ferreiros, corrigindo a postura dela com um toque no ombro e palavras que pareciam irritadas mas que, Lyris sabia, eram o único carinho que Selynis permitia demonstrar. Os olhos verdes. As mãos firmes. Há quanto tempo?
 
 Mas havia outro pensamento, mais incômodo, que se recusava a ser ignorado: o relatório para *Aurelius*. O relatório que ela teria que escrever nos próximos dias, quando voltassem a Velantis, e que viajaria pelos canais da ordem até Sanctrum. Ela já sabia o que escreveria — a versão oficial dos eventos em Thalendris:
 

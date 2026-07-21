@@ -172,6 +172,8 @@ Ele engoliu em seco.
 
 — Eu vi o fogo primeiro. Laranja, tão laranja que pareceu bonito, por um pulso. Depois o cheiro de fumaça chegou, e eu ouvi gritos, e meu pai... meu pai me empurrou para dentro do barco e cortou a amarra antes que eu pudesse gritar o nome da minha mãe. O barco derivou. Eu olhei para trás e vi as chamas subindo, subindo, como se o mundo inteiro estivesse pegando fogo. E meu pai ficou na praia. Ele ficou ali, olhando para o barco, e eu vi — mesmo de longe, mesmo com o fogo e a fumaça — eu vi que ele estava chorando.
 
+O som das chamas diminuindo — primeiro um crepitar, depois um sussurro, depois nada. E depois o silêncio. O tipo de silêncio que só existe quando algo que deveria queimar para sempre se apaga. O mar balançava o barco como se nada tivesse acontecido.
+
 Torvin olhou para as próprias mãos, que descansavam sobre os joelhos.
 
 — A água me salvou. O barco derivou até uma vila pesqueira dois dias depois. Eu estava vivo. E a água... a água sempre esteve comigo. Fraca, como a terra da Mira, mas real. Eu consigo sentir quando vai chover. Consigo fazer gotas de água se moverem se eu me concentrar muito. Não é suficiente para uma academia. Mas é suficiente para me lembrar que a água, que deveria ter me matado naquela nyxara, me salvou em vez disso.
@@ -216,7 +218,7 @@ Ela voltou-se para as crianças restantes e, com a voz firme que usava para esco
 
 ---
 
-**IV. O Teste no Litoral**
+**IV. A Assinatura de Gelo**
 
 Thalendris surgiu no horizonte como um sonho de pedra e luz.
 
@@ -256,7 +258,7 @@ Kira olhou para Mira com uma expressão que Alyndra só conseguiu descrever, mai
 
 Os koramis estavam reunidos na plataforma mais alta dos cais — seis aves gigantescas, cada uma grande o suficiente para fazer Alyndra se sentir tão pequena quanto uma sylari ao lado de um colosso benevolente. Suas penas eram de um branco prateado que parecia mudar de cor conforme a luz de Aurion incidia sobre elas — branco quando a luz era direta, azul quando as nuvens a filtravam, dourado quando os raios passavam entre as penas como dedos de luz. Seus olhos eram grandes e profundos, de um âmbar que parecia conter séculos de sabedoria, e seus bicos — curvados, fortes, de um preto que absorvia a luz — eram ferramentas de precisão que inspiravam respeito.
 
-Dravyn aproximou-se do seu koramis com a desconfiança habitual de quem nunca confiou em nada que fosse maior que ele. Enquanto ajustava a sela, seus dedos encontraram algo preso sob a correia lateral — um envelope de papel comum, sem selo, sem nome. Ele o abriu com o coração acelerado. Dentro, uma folha com uma única frase, escrita em letras que tentavam imitar a caligrafia de seu pai — mas a imitação era imperfeita, apressada: *"Seu pai não morreu por dívida. Morreu por saber demais. Encontre-me no Cálice de Pedra em Thalendris. Venha sozinho. — Alguém que o conhecia."* Dravyn enfiou o papel no bolso antes que alguém visse. Não contou a ninguém. Era assim que as armadilhas começavam — com um segredo que a vítima escolhia guardar.
+Dravyn aproximou-se do seu koramis com a desconfiança habitual de quem nunca confiou em nada que fosse maior que ele. Enquanto ajustava a sela, seus dedos encontraram algo preso sob a correia lateral — um envelope de papel comum, sem selo, sem nome. Ele o abriu com o coração acelerado. Dentro, uma folha com uma única frase, escrita em letras que tentavam imitar a caligrafia de seu pai — mas a imitação era imperfeita, apressada: *"Seu pai não lhe contou tudo. Encontre-me no Cálice de Pedra em Thalendris. Venha sozinho. — Um velho amigo."* Dravyn enfiou o papel no bolso antes que alguém visse. Não contou a ninguém. Era assim que as armadilhas começavam — com um segredo que a vítima escolhia guardar.
 
 A vigilante condutora do koramis que carregaria o grupo de Alyndra era uma mulher jovem com um sorriso fácil e mãos que pareciam feitas para acariciar aves gigantes.
 
@@ -364,6 +366,8 @@ Ninguém mais percebeu. Torvin voltou a olhar para os barcos. Mira continuou seg
 
 Apenas Lyris sabia. E o que ela sabia a fez sentir, pela primeira vez em valens, algo que se aproximava do medo.
 
+— Preciso relatar isso — Lyris pensou, observando o último resquício de gelo se dissolver na areia. — Mas a quem? E com que palavras?
+
 ---
 
 **V. Sombras em Sanctrum**
@@ -428,9 +432,9 @@ Não um relatório oficial — relatórios oficiais podiam ser interceptados, li
 
 *"O mapa está mais completo do que eu temia. As peças se movem em Thalendris. Proteja o que não pode ser substituído. Costure firme. O tear está girando."*
 
-Ela selou a carta com um símbolo que não pertencia a nenhuma organização oficial — uma asa estilizada, semelhante à que a própria Lyris usava em seus relatórios, mas diferente em um detalhe que apenas as duas conheciam.
+Ela selou a carta com um símbolo que não pertencia a nenhuma organização oficial — uma asa estilizada, semelhante à que a própria Lyris usava em seus relatórios, mas diferente em um detalhe que apenas as duas conheciam. Selynis. A asa estilizada que Lyris reconhecia desde a academia — sempre a mesma, impecável, como quem assina com a certeza de que a assinatura será encontrada.
 
-A carta seria transmitida antes do amanhecer, despachada através de um canal aetheris cifrado de alta velocidade, uma via invisível que apenas os *Tar-Gig* ousavam utilizar — sem mensageiros, sem rastros, sem registros. Apenas o pulsar de cristais em sintonia através de centenas de passos, levando três frases que poderiam mudar tudo.
+A carta seria transmitida antes do amanhecer, despachada através de um canal aetheris cifrado de alta velocidade, uma via invisível que não deixava rastros — sem mensageiros, sem registros, apenas o pulsar de cristais em sintonia através de centenas de passos, levando três frases que poderiam mudar tudo.
 
 E enquanto Selynis apagava a lâmpada aetheris e deixava a câmara subterrânea em escuridão, ela permitiu-se um momento de algo que não era medo — era reconhecimento. Reconhecimento de que as sombras eram mais profundas do que qualquer um imaginava. Reconhecimento de que as forças que se moviam nas profundezas de Nova Aetherion não eram caóticas nem desorganizadas — eram coordenadas, pacientes, e mais perto do que qualquer um queria admitir.
 

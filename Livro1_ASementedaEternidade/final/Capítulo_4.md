@@ -22,7 +22,7 @@ Lyris sentiu o peso dos montes de Sanctrum Prime sob seus pés pela última vez 
 
 No lombo do koramis, o vento oceânico golpeando seu rosto enquanto a ave cruzava as águas escuras de Vaelantor, Lyris observou as montanhas de Sanctrum Prime encolherem no horizonte até não serem mais que uma linha cinzenta contra o céu. Trinta e dois valens de serviço, e ela nunca havia realmente se despedido — nunca havia parado para olhar para trás. Agora, indo em direção ao desconhecido por uma missão que não compreendia totalmente, sentiu o peso de cada um daqueles valens nos ossos, como uma carta que finalmente se dobra sob o próprio peso.
 
-O mar aberto trouxe consigo uma solidão diferente. Durante os três dias de travessia aérea, Lyris passou a maior parte do tempo entre os pouso nas ilhas-descanso — pequenas ilhas rochosas que brotavam do oceano como dentes de pedra, cada uma com seu estábulo de koramis, sua taberna fumacenta e sua estalagem de madeira gastam pelo sal. As *aladas-de-sal*⁵ de Vaelantor, de asas cinzentas e olhos curiosos, acompanhavam o koramis em formação, como escoltas que estudavam uma viajante estranha. Nas Nyxaras em que a ave descansava sob um céu cravejado de estrelas, Lyris deitada na cama simples da estalagem pensava em sua casa vazia em Sanctrum, nos livros que deixara sobre a mesa, no fogão que apagara antes de partir. E pensava na pergunta que não conseguia calar: por que ela?
+O mar aberto trouxe consigo uma solidão diferente. Durante os três dias de travessia aérea, Lyris passou a maior parte do tempo entre os pouso nas ilhas-descanso — pequenas ilhas rochosas que brotavam do oceano como dentes de pedra, cada uma com seu estábulo de koramis, sua taberna fumacenta e sua estalagem de madeira gastam pelo sal. As *aladas-de-sal*⁵ de Vaelantor, de asas cinzentas e olhos curiosos, acompanhavam o koramis em formação, como escoltas que estudavam uma viajante estranha. Nas Nyxaras em que a ave descansava sob um céu cravejado de estrelas, Lyris deitada na cama simples da estalagem pensava em sua casa vazia em Sanctrum. No fogão que apagara antes de partir — já estaria frio agora, o ferro sem calor, o silêncio se instalando por completo onde antes havia vida. Nos livros que deixara sobre a mesa, abertos debruçados como quem espera voltar. E pensava na pergunta que não conseguia calar: por que ela?
 
 As colinas suaves e os campos dourados de Sylvaris anunciaram a chegada antes que as costas surgissem no horizonte. O koramis desceu em espirais largas sobre o último trecho de oceano, e quando as garras da ave tocaram solo sylvariano, Lyris sentiu a terra firme sob os pés como um regresso. O ar mudava mais uma vez — não mais o salgado impiedoso do oceano, mas um perfume verde, vegetal, entremeado por um toque de algo adocicado que Lyris não soube identificar de imediato. Era o aroma das *giralis*⁶, ela descobriria depois, as flores que desabrochavam nos campos sylvarianos e cujo néctar os ventos carregavam como mensageiros de boas-vindas. A longa estrada de terra que ligava o porto de koramis a Zephyra serpenteava entre colinas ondulantes, onde moinhos de vento de pedra branca giravam lentamente, suas velas cortando o ar com um ritmo quase hipnótico.
 
@@ -46,7 +46,7 @@ A câmara de audiências era vasta, com tetos altos onde cristais aetheris flutu
 
 Lyris esperava encontrar o Senhor dos Ventos sentado em seu trono — um gesto de poder e autoridade que os governantes usavam como extensão de si mesmos. Mas o Salão das Brisas estava vazio.
 
-Ou quase vazio. No canto mais distante da câmara, de costas para a porta, uma figura flutuava a quase dois metros do chão — não com o esforço nervoso de quem luta contra a gravidade, mas com a serenidade absoluta de quem nasceu no ar e pertence a ele. Um enorme cavalete flutuava ao seu lado, a tela presa sem suporte visível, e ao redor de suas mãos pincéis, paletas e potes de pigmento orbitavam em silêncio como satélites obedientes. As mangas de um manto azul claro estavam empurradas até os cotovelos, e na mão direita, um pincel movia-se com uma delicadeza que parecia contradizer a postura imponente do homem que o segurava.
+Ou quase vazio. No canto mais distante da câmara, de costas para a porta, uma figura flutuava a quase dois metros do chão — não com o esforço nervoso de quem luta contra a gravidade, mas com a serenidade absoluta de quem nasceu no ar e pertence a ele. Um enorme cavalete flutuava ao seu lado, a tela presa sem suporte visível, e ao redor de suas mãos pincéis, paletas, potes de tinta e frascos de pigmento orbitavam em silêncio como satélites obedientes. As mangas de um manto azul claro estavam empurradas até os cotovelos, e na mão direita, um pincel movia-se com uma delicadeza que parecia contradizer a postura imponente do homem que o segurava.
 
 *Thaloris¹³ Ventaris*, Lugal Lil, Senhor dos Ventos de Sylvaris, estava pintando.
 
@@ -54,7 +54,7 @@ Lyris permaneceu imóvel na entrada, observando. O quadro ainda estava em progre
 
 Era a obra de alguém que via o mundo não como um governante vê — em termos de territórios e recursos e ameaças — mas como um artista vê, em termos de luz e sombra e espaço entre as coisas.
 
-Thaloris adicionou três pinceladas finais — uma de prata pálida no canto superior direito, uma de azul profundo na base, e uma última, quase invisível, de branco puro no centro, como se colocasse uma estrela onde ninguém esperaria encontrar uma. Os pincéis e potes de pigmento continuaram orbitando ao seu redor enquanto ele abaixava o pincel, e com um gesto quase casual da mão livre, todos os utensílios se afastaram em formação ordenada, pairando a poucos metros dali como se aguardassem seu retorno. Ele respirou fundo, e finalmente se virou no ar — o manto azul claro ondulando sem que houvesse brisa alguma.
+Thaloris adicionou três pinceladas finais — uma de prata pálida no canto superior direito, uma de azul profundo na base, e uma última, quase invisível, de branco puro no centro, como se colocasse uma estrela onde ninguém esperaria encontrar uma. Os pincéis e frascos continuaram orbitando ao seu redor enquanto ele abaixava o pincel, e com um gesto quase casual da mão livre, todos os utensílios se afastaram em formação ordenada, pairando a poucos metros dali como se aguardassem seu retorno. Ele respirou fundo, e finalmente se virou no ar — o manto azul claro ondulando sem que houvesse brisa alguma.
 
 Thaloris Ventaris era um homem de presença imponente mesmo desarrumado — com manchas de tinta nas mãos e no antebraço, com o cabelo grisalho menos impecável do que o protocolo exigia, com uma expressão de quem havia sido interrompido no meio de algo profundamente pessoal. Mas seus olhos azuis, quando encontraram os de Lyris, eram tão penetrantes quanto qualquer relatório de inteligência havia descrito — olhos que pareciam pesar a alma de quem os encarava.
 
@@ -148,7 +148,7 @@ O uso do primeiro nome foi uma provocação calculada — um lembrete de que ela
 
 — Quero garantir que nossa vizinhança permaneça tranquila. Que missões de observação não se tornem missões de interferência. Que a criança que você foi enviada para proteger seja exatamente isso — protegida — mas não manipulada, não moldada, não transformada em ferramenta de Sanctrum.
 
-Lyris sentiu seu sangue gelar. Ele sabia. Não tudo, talvez, mas o suficiente para ser perigoso.
+Lyris sentiu o frio descer pela nuca como uma lâmina que ainda não cortava. Ele sabia. Não tudo, talvez, mas o suficiente para ser perigoso.
 
 — Eu não sei de que criança o senhor está falando.
 
@@ -192,7 +192,7 @@ O nome ecoou na câmara. No canto da sala, uma esfera de cristal aetheris pulsou
 
 — Todos os agentes melhores viram mitos até o dia em que deixam de ser. — Thaloris sentou-se em uma cadeira de carvalho. — Ela está aqui por causa da criança. A órfã de Mespiria.
 
-— Alyndra. — Vethran pronunciou o nome como se provasse cada sílaba. — Eu a tenho monitorado discretamente desde que Melessa Solynthr enviou uma correspondência suspeita há meses. Uma criança aparentemente comum, mas nascida sob a Convergência Tripla. E agora o En Me envia Nyctara para observá-la.
+— Alyndra. — Vethran pronunciou o nome como se provasse cada sílaba. — Eu a tenho monitorado discretamente desde que Melessa Solynthr enviou uma correspondência suspeita há algumas semanas. Uma criança aparentemente comum, mas nascida sob a Convergência Tripla. E agora o En Me envia Nyctara para observá-la.
 
 — Já tentaram antes, sabe. — Vethran inclinou a cabeça, os olhos escuros percorrendo o mapa mental que mantinha em sua mente. — Mercenários na região de Mespiria, ainda antes do nascimento dela. Patrulhas perdidas, perguntas em estalagens, um batedor que chegou perto demais da casa de Melessa antes de desaparecer. Alguém sabia que aquela criança viria — e tentou chegar primeiro.
 

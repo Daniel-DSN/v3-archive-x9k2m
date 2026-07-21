@@ -22,7 +22,7 @@ Sobre a mesa de ébano, quatro dossiês estavam abertos em leque, seus conteúdo
 
 Três dos dossiês eram rotina. O quarto não.
 
-O quarto dossiê tinha a capa cinza com uma faixa vermelha na lateral — o código de classificação para operativos ativos da rede de informantes que Selynis mantinha há mais valens do que qualquer membro do *Conselho dos 12*⁶ suspeitava. Na capa, um único nome, transcrito em caracteres que só ela podia decifrar:
+O quarto dossiê tinha a capa cinza com uma faixa vermelha na lateral — o código de classificação para informações sensíveis da rede de contatos diplomáticos que Selynis mantinha há mais valens do que qualquer membro do *Conselho dos 12*⁶ suspeitava. Na capa, um único nome, transcrito em caracteres que só ela podia decifrar:
 
 *NYCTARA*⁷.
 
@@ -30,13 +30,13 @@ Selynis abriu o dossiê com a meticulosidade de quem realiza uma autópsia — n
 
 Depois, há seis valens, uma nota seca no canto inferior da página: *"Aposentada. Motivo: próprio."*
 
-E depois, mais recentemente — há menos de um mês — uma segunda nota, escrita pela própria Selynis: *"Reativada. Designação: Orfanato Luminis⁸, Velantis⁹, Sylvaris¹⁰. Função: vigilância e proteção de alvo prioritário."*
+E depois, mais recentemente — há menos de um mês — uma segunda nota, escrita pela própria Selynis: *"Monitoramento reforçado: Orfanato Luminis⁸, Velantis⁹, Sylvaris¹⁰. Prioridade: proteção de menor com manifestação elemental confirmada."*
 
 O alvo era Alyndra. Cinco valens de idade. *cryonys*¹¹ manifesto. Nome conhecido em todo o continente.
 
 Selynis virou a página e começou a ler os relatórios de Lyris.
 
-O primeiro havia chegado quatorze dias após a designação. Era conciso, militar, impecável: condições do orfanato, número de crianças, estado das defesas perimetrais, avaliação da diretora *Thar Elara*¹². Nenhuma palavra desperdiçada, nenhum adjetivo desnecessário. Era o tipo de relatório que Selynis esperava de uma operativa de elite — um instrumento de informação, não de expressão.
+O primeiro havia chegado quatorze dias após a designação. Era conciso, militar, impecável: condições do orfanato, número de crianças, estado das defesas perimetrais, avaliação da diretora *Thar Elara*¹². Nenhuma palavra desperdiçada, nenhum adjetivo desnecessário. Era o tipo de relatório que Selynis esperava de uma colaboradora experiente — um instrumento de informação, não de expressão.
 
 O segundo relatório, oito dias depois, era diferente.
 
@@ -76,15 +76,15 @@ Era algo entre os dois. Selynis não tinha nome para isso. E isso, por si só, e
 
 ## II. A Frequência Cifrada
 
-Três horas depois, Selynis ativou o canal restrito da *RRA*¹⁴ que usava para se comunicar com seus operativos no campo.
+Três horas depois, Selynis ativou o canal cifrado da *RRA*¹⁴ que o Canal de Inteligência disponibilizava para comunicações classificadas com contatos no campo.
 
-A transmissão não passava pelas torres de ressonância oficiais — passava por uma frequência duplicada que Selynis havia inserido nos cristais durante a fase de calibração da rede, quando os engenheiros de *Fulmora*¹⁵ ainda celebravam cada novo marco como se fossem crianças diante de um presente inesperado. A frequência era indetectável pelos receptores comuns. Parecia ruído estático — uma variação microscópica na vibração do cristal que nenhum ouvido humano podia distinguir do zumbido normal da rede.
+A transmissão passava pelas torres de ressonância oficiais, mas em uma modulação de frequência usada pelo Canal de Inteligência para comunicações classificadas — uma variação que os receptores comuns interpretavam como ruído estático.
 
 Mas no outro lado — no *Orfanato Luminis*⁸, nos arredores de Velantis — um pequeno receptor modificado captaba aquela variação e a traduzia em som.
 
 — Lyris — Selynis disse, e sua voz era a voz que o continente conhecia: suave, culta, levemente sorridente mesmo quando não sorria, a voz de uma mulher que poderia falar sobre o tempo e fazer com que parecesse filosofia. — São eu. Como estão as coisas por aí?
 
-A resposta demorou dois segundos — o tempo necessário para que Lyris ativasse o receptor e verificasse a autenticidade da frequência através do protocolo de confirmação que Selynis havia estabelecido.
+A resposta demorou dois segundos — o tempo necessário para que Lyris ativasse o receptor.
 
 — Tudo tranquilo — Lyris respondeu, e sua voz era firme, medida, a voz de alguém que havia sido treinada para não deixar escapar nada que não fosse intencional. — As crianças estão bem. A diretora está bem. O orfanato funciona.
 
@@ -108,7 +108,7 @@ Selynis fez uma pausa que durou exatamente o tempo de uma respiração.
 
 — Certo — ela disse. — Continue assim. E Lyris? Cuide-se também. Estes não são tempos fáceis para quem tem olhos onde os outros têm pálpebras.
 
-A última frase era um código — não um dos códigos oficiais do manual de operações, mas um código pessoal entre Selynis e suas informantes, desenvolvido durante valens de comunicação clandestina: *"Estou observando você"*.
+A última frase era um arranjo — não um dos códigos oficiais do Canal de Inteligência, mas uma construção verbal que Selynis e Lyris haviam desenvolvido ao longo de valens de correspondência: *"Estou observando você"*.
 
 Lyris entendeu.
 

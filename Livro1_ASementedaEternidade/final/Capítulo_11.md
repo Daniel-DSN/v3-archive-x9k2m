@@ -455,7 +455,7 @@ Ele apenas sentia — com o instinto que todo grande repórter tem — que aquel
 ³⁶ **Mestre Ouric** — Conselheiro real de Terraxis; mestre em mineração e comércio.
 ³⁷ **aetherite** — Mineral condutor etérico; base da engenharia etérica do continente.
 ³⁸ **Cidadela Sombria** — Capital de Umbra; fortaleza nas montanhas negras.
-³⁹ **Varek Nythor** — Governador de Umbra; tão poderoso quanto o Guardião Mestre, mas corrompido de forma invisível. Mantém as aparências de um líder dócil enquanto um plano de tomada de poder é tramado nas profundezas. Os círculos internos de Umbra o chamam ironicamente de "Governador Fantoche" — um apelido que só eles compreendem verdadeiramente.
+³⁹ **Varek Nythor** — Governador de Umbra. Preside a Cidadela Sombria com uma cortesia que desarma mais do que convence. Acompanhado sempre pelo *Enviado Silente*⁵⁰. Os círculos internos de Umbra o chamam ironicamente de "Governador Fantoche" — um apelido que só eles compreendem verdadeiramente.
 ⁴⁰ **Umbra** — Reino das Sombras e Mistérios; sétimo reino.
 ⁴¹ **Sylvaris** — Reino dos Ventos, Florestas e Cristais; primeiro reino.
 ⁴² **Pyralis** — Reino de Fogo e Forjas; segundo reino.

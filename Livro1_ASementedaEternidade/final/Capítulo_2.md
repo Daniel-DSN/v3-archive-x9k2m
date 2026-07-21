@@ -56,7 +56,7 @@ Nos dias que se seguiram, o pressentimento se transformou em certeza. O aethra a
 
 **II. A Tempestade Silenciosa**
 
-A nyxara do primeiro *Audin*² chegou diferente em Mespiria.
+A primeira nyxara de *Audin*² chegou diferente em Mespiria.
 
 O céu estava claro, sem nuvens, e *Aurion* se pusera como sempre fazia. Mas havia algo no ar — uma tensão sutil, como a corda de um instrumento sendo esticada até o ponto de ruptura.
 
@@ -230,7 +230,7 @@ Não vinha dos campos de aethrys, nem da estrada principal. Vinha da mata fechad
 
 Era um homem. Ombros largos, uma postura de guerreiro que aprendera a carregar o peso do mundo em silêncio — um porte que o tempo não dobrara, apenas aprofundara. Sob a capa escura, a luz fraca revelava cabelos prateados nas têmporas e uma cicatriz fina na têmpora direita. Suas roupas não traziam brasões, mas havia nele uma gravidade que não cabia em brasões — e uma familiaridade com aquela terra que sugeria não ser a primeira vez que a pisava.
 
-Não havia ninguém para ver. Mesmo assim, moveu-se com cautela até se ajoelhar diante da terra recém-revirada.
+Não havia ninguém para ver — e ele se moveu como se soubesse disso, cada passo calculado para não deixar marca na terra molhada. Ajoelhou-se diante da terra recém-revirada.
 
 Suas mãos calejadas tocaram o solo — não com delicadeza, não com violência, mas com uma urgência contida, como se quisesse extrair daquela terra a verdade que se apagara com o último fôlego de Aelyria.
 
@@ -258,7 +258,7 @@ Estava trocando os panos de Alyndra quando percebeu um brilho suave emanando da 
 
 Alyndra a observou com aqueles olhos castanhos serenos, e então, pela primeira vez, sorriu. Um sorriso pequeno, sem dentes, mas cheio de uma alegria que transcendia sua idade.
 
-Melessa não sorriu de volta.
+Melessa não sorriu de volta. O mesmo medo da primeira vez — o medo de que aquele brilho fosse a sentença de morte da criança — apertou-lhe o peito como uma mão fria.
 
 Conhecia os rumores — histórias sobre crianças nascidas sob a Convergência, crianças com dons que Sanctrum cobiçava, crianças que desapareciam das vilas. A *Ordem dos Mestres*⁶ tinha braços longos. E agora havia um pingente em seu bolso que era a prova de que Sanctrum já fazia parte da vida daquela criança, quer ela quisesse ou não.
 

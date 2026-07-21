@@ -14,13 +14,15 @@
 
 ---
 
-**I. A Tutora e o Retorno a Mespiria**
+**I. A Confissão de Melessa**
 
 Lyris detestava o mar.
 
 Lyris chegou a Velantis três semanas depois de deixar Sanctrum. A audiência com Thaloris Ventaris em Zephyra ainda ecoava em sua mente — o reconhecimento, a ameaça velada, os olhos azuis que prometeram observá-la de longe. Mas Alyndra não podia esperar. E cada dia em Mespiria era um dia a menos para Melessa Solynthr, a velha parteira que continuava a empurrar a morte com as unhas.
 
 O Orfanato Luminis — chamado de *Cidadela Luminis*² pelos locais — ocupava várias colinas nos arredores da cidade, ligadas por muralhas de pedra e passarelas suspensas. As torres erguiam-se como dedos de cristal, e guerreiros de armaduras prateadas — os *Aga Uru*³, Escudos da Tempestade — percorriam os muros.
+
+Alyndra, que viajara em silêncio desde Mespiria, olhava para as muralhas de pedra do orfanato com os olhos grandes. Aquilo era maior do que qualquer coisa que já vira — e menor do que qualquer coisa que sentia. Suas mãos seguravam o manto de Lyris com força, e ela não disse uma palavra.
 
 A Ama *Thar Elara*⁴, diretora do orfanato, recebeu-a com um sorriso cansado. A resposta à sua mensagem de apresentação viera rápida: o orfanato sempre precisava de mãos.
 
@@ -242,7 +244,7 @@ Alyndra considerou a pergunta por um momento. Seus olhos percorreram o rosto de 
 
 Lyris sentiu seu coração acelerar. Não havia esperado aquela percepção — não de uma criança tão jovem.
 
-— Porque eu prometi a alguém muito importante que eu cuidaria de você — ela disse finalmente, escolhendo palavras que eram verdadeiras sem revelar tudo. — Alguém que te ama muito, mesmo que não possa estar aqui pessoalmente.
+— Porque... — ela começou, e a pausa não era calculada. Pela primeira vez em trinta e dois valens de serviço, Lyris não sabia a resposta completa. — Porque eu prometi a alguém muito importante que cuidaria de você. Alguém que te ama muito, mesmo que não possa estar aqui pessoalmente.
 
 Os olhos de Alyndra se estreitaram levemente, processando a informação. Mas ela não pressionou.
 

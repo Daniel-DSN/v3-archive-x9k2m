@@ -265,7 +265,7 @@ A porta se fechou.
 
 Lyris ficou imóvel por um longo momento, os olhos fixos no dormitório escuro. Depois, quase sem perceber, seus olhos deslizaram para a janela.
 
-No pátio lá embaixo, sob a luz fraca das três luas, uma silhueta se movia. O caseiro. O homem que as crianças chamavam de Aldric. Lyris não precisava vê-lo com clareza — já o havia observado da penumbra de um corredor na nyxara anterior, registrando cada detalhe: a economia de movimentos, o peso distribuído entre as pernas como quem está pronto para reagir, os olhos que varriam os telhados enquanto as mãos seguravam a vassoura. E a cicatriz. Aquela cicatriz fina e reta na têmpora direita que não era feita por nenhuma ferramenta de jardim.
+No pátio lá embaixo, sob a luz fraca das três luas, uma silhueta se movia. O caseiro. O homem que as crianças chamavam de Aldric — já observado em detalhe na nyxara anterior. Mas agora, ao se abaixar para recolher um brinquedo deixado no pátio, a manga de sua túnica recuou e Lyris viu o que não havia percebido antes: uma cicatriz fina e reta no pulso esquerdo, cruzando o tendão — não feita por nenhuma ferramenta de jardim.
 
 A mente da antiga Nyctara despertou com a precisão fria de um mecanismo de relógio. Ela não disse nada a Elara. Não faria perguntas, não levantaria suspeitas. A melhor ferramenta de uma espiã não era a lâmina nem o veneno — era a paciência. E Lyris tinha paciência de sobra.
 
@@ -273,7 +273,9 @@ A mente da antiga Nyctara despertou com a precisão fria de um mecanismo de rel�
 
 Lyris voltou a olhar para Alyndra. A menina continuava dormindo, as mãos ainda cerradas sobre o peito.
 
-*Um dia. Alguns dias. Uma nyra, no máximo. A nevasca vai passar. As estradas vão reabrir. E eu vou voltar. Eu prometi.*
+Ela verificou o estado das estradas com um mensageiro que passava pelo orfanato — dois dias até Mespiria, talvez três, se a neve não piorasse. A contagem era implacável.
+
+*Dois dias. Talvez três. A nevasca vai passar. As estradas vão reabrir. E eu vou voltar. Eu prometi.*
 
 ---
 

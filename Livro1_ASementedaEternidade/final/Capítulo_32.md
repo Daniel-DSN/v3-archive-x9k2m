@@ -348,7 +348,7 @@ Mas ninguém ouvia. Porque o vento — o vento que teria carregado o grito por l
 
 ¹⁹ **Fulmora** — Reino dos Raios e das tormentas de plasma; quinto reino.
 
-²⁰ **Selynis Thalassa** — Mestra da Informação e líder da rede de espionagem Tar-Gig. Mencionada na previsão.
+²⁰ **Selynis Thalassa** — Mestra da Informação do Conselho dos 12. Mencionada na previsão.
 
 ²¹ **RRA** — Rede de Ressonância de Aurion; sistema tecnológico de comunicações e monitoramento etérico. Mencionada na previsão.
 

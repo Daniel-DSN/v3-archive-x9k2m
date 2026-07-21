@@ -276,17 +276,17 @@ Ele empurrou o pensamento para o mesmo lugar onde guardava o medo e continuou es
 
 ## VI. Ecos na Rede
 
-A *Câmara dos Sussurros*³⁰ recebeu a transmissão da *RRA*²³ no momento em que foi publicada. Selynis Thalassa³¹, que estava revisando um relatório do *Tar-Gig*²² sobre movimentos nas fronteiras de *Umbra*³², interrompeu a leitura e olhou para o cristal de transmissão na parede.
+O gabinete de Selynis na Torre de Aurion³⁰ recebeu a transmissão da *RRA*²³ no momento em que foi publicada. Selynis Thalassa³¹, que estava revisando um relatório sobre movimentos nas fronteiras de *Umbra*³² encaminhado pelo Canal de Inteligência, interrompeu a leitura e olhou para o cristal de transmissão na parede.
 
 Leu o artigo inteiro. Duas vezes.
 
 Depois sorriu.
 
-Não um sorriso largo, não um sorriso de satisfação — o sorriso de Selynis era um instrumento tão preciso quanto qualquer outro em seu arsenal, e naquele momento era o sorriso de quem vê uma peça se mover no tabuleiro exatamente para onde precisava se mover. Lysias Thyrion²⁴, o jovem pateta tenaz com o caderno de couro, estava fazendo o trabalho dela — e fazendo melhor do que ela poderia fazer diretamente, porque um repórter não é suspeito, não é político, não tem agenda identificável. Um repórter é apenas uma voz. E vozes, quando dizem a verdade, são mais poderosas do que qualquer conspiração.
+Não um sorriso largo, não um sorriso de satisfação — o sorriso de Selynis era um instrumento tão preciso quanto qualquer outro em seu arsenal, e naquele momento era o sorriso de quem vê uma peça se mover no tabuleiro exatamente para onde precisava se mover. Lysias Thyrion²⁴, o jovem pateta tenaz com o caderno de couro, estava fazendo o tipo de trabalho que o Conselho precisava que fosse feito — e fazendo melhor do que qualquer ação oficial, porque um repórter não é suspeito, não é político, não tem agenda identificável. Um repórter é apenas uma voz. E vozes, quando dizem a verdade, são mais poderosas do que qualquer conspiração.
 
 — A menina que canta e o mundo para para ouvir — Selynis murmurou, e a frase era antiga, de um provérbio de *Sylvaris*¹⁹ que falava sobre o poder da inocência articulada. — Meninos que escrevem também contam.
 
-Ela voltou ao relatório sobre *Umbra*³². O artigo de Lysias havia mudado o panorama — não os fatos, Selynis já tinha os fatos — mas a *dinâmica*. A verdade pública tem um peso diferente da verdade privada. A verdade pública exige resposta. E respostas criam movimentos, e movimentos criam exposição, e exposição é o veneno de qualquer conspiração.
+Ela voltou ao relatório sobre *Umbra*³². O artigo de Lysias havia mudado o panorama — não os fatos, que o Canal de Inteligência já havia alertado — mas a *dinâmica*. A verdade pública tem um peso diferente da verdade privada. A verdade pública exige resposta. E respostas criam movimentos, e movimentos criam exposição, e exposição é o veneno de qualquer conspiração.
 
 *Thaloris*³³, pensou Selynis. *Agora todos vão olhar para você.*
 
@@ -455,7 +455,7 @@ Impaciência.
 
 ²¹ **Koramis** — Ave elemental de comunicação; utilizada para transporte de mensagens antes da implantação da RRA. Asas de luz prateada.
 
-²² **Tar-Gig** — Organização de inteligência e espionagem; aliada de Selynis Thalassa. Lyris é ex-agente.
+²² **Tar-Gig** — Rede de inteligência e espionagem de Sanctrum, conhecida como Tecelões da Sombra. Lyris é ex-agente.
 
 ²³ **RRA** — Rede de Ressonância de Aurion; sistema de comunicação instantânea por pulsos etéricos. Equivalente funcional à imprensa e ao telégrafo.
 

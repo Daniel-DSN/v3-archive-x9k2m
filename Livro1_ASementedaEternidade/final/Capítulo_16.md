@@ -240,7 +240,7 @@ Varek Nythor virou-se para Selynis.
 
 — A Senhora Thalassa parece saber muito sobre padrões — disse, e a cortesia em sua voz era tão espessa que quase ocultava o veneno. — Talvez devesse compartilhar seus dados com o salão, em vez de insinuar.
 
-— Meus dados serão compartilhados — Selynis respondeu — quando tiver certeza de que não serão usados contra as próprias vítimas. Na Câmara dos Sussurros, tenho dossiês que indicam que os desaparecimentos não são aleatórios. Há seleção. Critérios específicos. Idade. Afinidade elemental.
+— Meus dados serão compartilhados — Selynis respondeu — quando tiver certeza de que não serão usados contra as próprias vítimas. Nos arquivos confidenciais do Assento Ukam, tenho dossiês que indicam que os desaparecimentos não são aleatórios. Há seleção. Critérios específicos. Idade. Afinidade elemental.
 
 — Afinidade elemental? — Ignar Vulkarys ergueu a cabeça, a primeira vez que demonstrava interesse ativo na sessão. — Que tipo?
 

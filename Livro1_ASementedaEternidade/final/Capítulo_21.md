@@ -164,21 +164,21 @@ E a voz — aquela voz que não estava ali, que habitava as bordas de sua percep
 
 ## IV. A Rede se Fecha
 
-Selynis Thalassa²⁸ não se impressionava facilmente. Mas naquela tarde, sentada atrás de sua mesa de vidro negro na *Câmara dos Sussurros*³⁰, com três telas de cristal flutuando diante dela e um relatório fresco do operativo *Tar-Gig*³¹ em Porto da Cinza pulsando em azul na superfície da mesa, Selynis sentiu algo que raramente sentia: a textura física da confirmação.
+Selynis Thalassa²⁸ não se impressionava facilmente. Mas naquela tarde, em seu gabinete na Torre de Aurion³⁰, com um relatório fresco do Canal de Inteligência³¹ sobre Porto da Cinza aberto sobre a mesa, Selynis sentiu algo que raramente sentia: a textura física da confirmação.
 
 Não certeza — ela já tinha certeza. Tinha certeza há meses, desde que os primeiros padrões de desaparecimento haviam convergido para as fronteiras de Sylvaris como veias para um coração. O que sentia agora era algo mais satisfatório e mais perigoso: *materialidade*. A prova concreta, o testemunho presencial, a peça que faltava no tabuleiro para que o jogo passasse de especulação para execução.
 
-O relatório era detalhado. Um operativo do *Tar-Gig*³¹ infiltrado como pescador em Porto da Cinza havia presenciado, na nyxara anterior, o comboio que resultou na morte de quatro patrulheiros de Fulmora. Não apenas presenciado — havia documentado. Croquis das carroças. Descrição dos guardas. Número de *velroks*²³. Horário de partida. Direção tomada.
+O relatório era detalhado. Uma fonte em Porto da Cinza havia presenciado, na nyxara anterior, o comboio que resultou na morte de quatro patrulheiros de Fulmora. Não apenas presenciado — havia documentado. Croquis das carroças. Descrição dos guardas. Número de *velroks*²³. Horário de partida. Direção tomada.
 
-E, mais importante: o operativo havia conseguido plantar um rastreador de *aethra*²⁵ na carroça traseira — um cristal minúsculo, invisível a olho nu, que pulsava com uma frequência que apenas os receptores da *Câmara dos Sussurros*³⁰ podiam detectar.
+E, mais importante: os serviços de patrulha haviam conseguido plantar um rastreador de *aethra*²⁵ na carroça traseira — um cristal minúsculo, invisível a olho nu, que pulsava em uma frequência monitorada pelos postos avançados de Sanctrum³⁴.
 
-— Rastreamento iniciado — Selynis ditou para o cristal gravador. — Comboio com três carroças, quatro guardas armados, saída de Porto da Cinza à terceira nyxara. Rota provável: território contestado Sylvaris-Fulmora, desvio para Montes de Cinza após incidente com patrulha de Fulmora. Confronto resultou em quatro baixas do lado de Fulmora. Capitão Brenn, confirmado morto.
+Selynis registrou os dados em seu cristal de notas, organizando-os com a precisão de quem montou um quebra-cabeça durante valens: comboio com três carroças, quatro guardas armados, saída de Porto da Cinza à terceira nyxara. Rota provável: território contestado Sylvaris-Fulmora, desvio para Montes de Cinza após incidente com patrulha de Fulmora. Confronto resultou em quatro baixas do lado de Fulmora. Capitão Brenn, confirmado morto.
 
 Ela fez uma pausa. Suas mãos — finas, pálidas, fortes — repousaram sobre a mesa como aves de rapina pousadas num galho.
 
-— Correlação com banco de dados: a rota dos Montes de Cinza conecta-se a um padrão já mapeado de transporte clandestino. Convergência: os pontos vermelhos se deslocaram novamente, e desta vez, o rastreador fornece uma coordenada exata. O comboio está parado em um ponto de armazenamento a quarenta dias ao norte de Porto da Cinza, na borda oriental da *Floresta de Val-Koras*³³. Essa é a primeira vez que localizamos fisicamente um ponto de retenção ativo.
+Ela cruzou os dados com o banco de registros: a rota dos Montes de Cinza conectava-se a um padrão já mapeado de transporte clandestino. Os pontos de convergência se deslocaram novamente, e desta vez o rastreador forneceu uma coordenada exata. O comboio estava parado em um ponto de armazenamento a quarenta dias ao norte de Porto da Cinza, na borda oriental da *Floresta de Val-Koras*³³. Pela primeira vez, localizavam fisicamente um ponto de retenção ativo.
 
-Selynis se recostou na cadeira. Seus olhos verdes — verdes como o fundo do mar antes da tempestade — percorreram as três telas de cristal. Na primeira, o mapa de rotas marítimas com os pontos vermelhos. Na segunda, o mapa terrestre com a posição do comboio pulsando em tempo real. Na terceira, um rosto: o rosto de Thaloris Ventaris, capturado por um cristal de memória durante a Grande Assembleia em *Sanctrum*³⁴, com aquele sorriso que era a armadura perfeita de um homem que escondia algo terrível atrás de uma beleza calculada.
+Selynis se recostou na cadeira. Seus olhos verdes — verdes como o fundo do mar antes da tempestade — percorreram os mapas desdobrados sobre a mesa. Num deles, as rotas marítimas com os pontos de convergência marcados em tinta vermelha. Noutro, o mapa terrestre com a última posição conhecida do comboio. E ao lado, um retrato oficial: o rosto de Thaloris Ventaris, proveniente dos registros da Grande Assembleia em *Sanctrum*³⁴, com aquele sorriso que era a armadura perfeita de um homem que escondia algo terrível atrás de uma beleza calculada.
 
 O rastreador era a ferramenta. A coordenada era a localização. E a coordenada estava em território que, tecnicamente, pertencia a Sylvaris.
 
@@ -188,13 +188,13 @@ Mas Selynis não era impaciente. A impaciência era o luxo dos amadores, e ela n
 
 Se movesse devagar demais, mais pessoas morriam. Brenn já estava morto. Três de seus soldados estavam mortos. E a próxima carga já estava sendo preparada — Selynis sentia isso com a certeza instintiva de quem viveu valens lendo os movimentos do tabuleiro continental: os Nihil Shid não paravam. Nunca paravam. Cada pausa era um reagrupamento, cada silêncio era um preparativo.
 
-— Ordem para operativos *Tar-Gig*³¹ — ela ditou. — Equipe Alpha: manter vigilância sobre o ponto de retenção nos Montes de Cinza. Sem contato. Sem intervenção. Documentação exclusiva. Equipe Beta: infiltrar dois agentes na guarda pessoal de Thaloris Ventaris — posições de confiança, acesso aos aposentos privados. Quero transcrições de todas as conversas que o *Lugal Lil*⁵ tiver dentro do Palácio de Zephyra² durante as próximas dois meses.
+Selynis redigiu uma solicitação formal ao Canal de Inteligência³¹: vigilância reforçada sobre o ponto de retenção nos Montes de Cinza — observação e documentação, sem contato nem intervenção. Paralelamente, recomendou ao Conselho que os serviços de inteligência intensificassem o monitoramento diplomático sobre Thaloris Ventaris, com especial atenção aos seus deslocamentos e reuniões no Palácio de Zephyra² durante os próximos dois meses.
 
-Ela parou. O silêncio da câmara era absoluto — o tipo de silêncio que só existe em lugares onde o som foi propositadamente excluído, onde cada superfície foi projetada para absorver vibrações e cada canto foi pensado para que nenhuma palavra escapasse.
+Ela parou. O silêncio do gabinete era profundo — o silêncio de uma torre no fim da tarde, quando os corredores esvaziaram e restava apenas o trabalho.
 
-— Prioridade máxima — ela adicionou, e sua voz era baixa, mas carregava o peso de uma sentença. — Não estamos mais investigando. Estamos preparando a rede.
+— Prioridade máxima — ela murmurou para si mesma, e sua voz era baixa, mas carregava o peso de uma sentença.
 
-Selynis desligou o cristal gravador. Fechou os olhos por um momento — um momento tão breve que ninguém além dela saberia que existiu.
+Selynis selou a solicitação com seu sigilo pessoal. Fechou os olhos por um momento — um momento tão breve que ninguém além dela saberia que existiu.
 
 *Lyris e Alyndra estão em Velantis³⁷*, ela pensou, e o pensamento carregava algo que Selynis raramente admitia ter: preocupação. *Longe de tudo isso. Que continuem longe.*
 
@@ -399,9 +399,9 @@ Ecos de um homem que olhou no espelho, viu o cinza em seu cabelo, e decidiu que 
 
 ²⁹ **Valira** — Período que corresponde à tarde em Alyndra. Na narração comum, usar "tarde".
 
-³⁰ **Câmara dos Sussurros** — Base de operações de Selynis Thalassa; escritório na Torre de Aurion.
+³⁰ **gabinete na Torre de Aurion** — Escritório oficial de Selynis Thalassa no complexo governamental de Sanctrum.
 
-³¹ **Tar-Gig** — Organização de inteligência e espionagem; aliada de Selynis Thalassa.
+³¹ **serviços de inteligência** — Redes de informação e contra-informação do Conselho dos 12, responsáveis por monitoramento de fronteiras e segurança continental.
 
 ³² ~~giro~~ — *Termo arcaico para *dia* (ver entrada ⁴).*
 

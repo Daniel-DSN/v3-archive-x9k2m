@@ -380,7 +380,7 @@ E algo, nas profundezas de uma escuridão que nenhum *Aurion*¹⁰ jamais ilumin
 
 ¹⁴ **thermaris** — Percepção sensorial do fluxo de *aethra* sob a pele; base do controle elemental. Lyris utiliza para detectar anomalias energéticas.
 
-¹⁵ **Tar-Gig** — Organização de inteligência e espionagem aliada de Selynis Thalassa; Lyris é ex-operativa.
+¹⁵ **Tar-Gig** — Rede de inteligência e espionagem de Sanctrum, conhecida como Tecelões da Sombra. Lyris é ex-operativa.
 
 ¹⁶ **passo** — Unidade de distância; um passo adulto.
 

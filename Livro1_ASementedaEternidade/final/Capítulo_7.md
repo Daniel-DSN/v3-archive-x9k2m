@@ -61,7 +61,7 @@ O silêncio se estendeu. Elara se levantou e caminhou até a janela, olhando par
 
 — Escolta?
 
-— Solicitei ao *Nin Aga Soren*¹ uma Nu Bandi e dois Aga Uru para escolta.
+— Solicitei ao *Nin Aga Soren*¹ uma Nu Bandi e dois Aga Uru para escolta, aprovada sem perguntas — como se alguém em Sanctrum tivesse enviado um aviso prévio.
 
 Elara se virou finalmente, e em seus olhos havia algo que Lyris identificou como rendição — não derrota, mas a aceitação de que a pessoa à sua frente havia construído um argumento sólido.
 
@@ -324,7 +324,7 @@ Levou quase uma hora até que Alyndra recuperasse a consciência. Lyris permanec
 
 Alyndra tentou se sentar e falhou. Seu corpo estava pesado, como se estivesse feito de pedra. Mas sua mente já funcionava — e nela, duas coisas competiam por espaço: o espanto pelo que via ao redor e o medo do que não compreendia. Lyris a ajudou a se levantar, recolheu a caixa de Melessa, o pingente e a carta, e conduziu-a para fora da casa.
 
-A viagem de volta começou no início da tarde, quando Aurion já havia passado do zênite e começava sua descida gradual em direção ao horizonte ocidental. Alyndra caminhava entre Lyris e o Aga Uru mais jovem, com Nyx aninhada em seus braços. O lyrien tinha recuperado um pouco de sua vitalidade — talvez pelo calor do corpo de Alyndra, talvez pelo alívio de estar de volta com sua dona, talvez pelas sementes doces que Lyris havia conseguido em uma das casas de Mespiria. Seus olhos dourados estavam mais abertos agora, e sua cauda já fazia movimentos pequenos e ocasionais.
+A viagem de volta começou no início da tarde, quando Aurion já havia passado do zênite e começava sua descida gradual em direção ao horizonte ocidental. Alyndra caminhava entre Lyris e o Aga Uru mais jovem, com Nyx aninhada em seus braços. O lyrien tinha recuperado um pouco de sua vitalidade — talvez pelo calor do corpo de Alyndra, talvez pelo alívio de estar de volta com sua dona, talvez pelas sementes doces que Lyris havia conseguido em uma das casas de Mespiria. Seus olhos dourados estavam mais abertos agora, e sua cauda já fazia movimentos pequenos e ocasionais. A recuperação total levaria semanas — mas Nyx estava vivo, e com ela.
 
 O caminho de volta foi mais silencioso do que o de ida. Alyndra estava exausta pela manifestação cryonys, e suas pernas curtas se moviam com uma determinação que era maior do que sua força. Lyris a observava de canto de olho, calculando se precisaria carregá-la, mas Alyndra recusava qualquer ajuda, murmurando "Eu consigo andar" toda vez que Lyris sugeria uma pausa.
 
@@ -407,6 +407,18 @@ Alyndra dormiu naquela nyxara com o sorriso ainda no rosto, Nyx enroscada a seus
 A festa terminou devagar, como todas as festas que são boas terminam — não abruptamente, mas em ondas sucessivas de despedida, com crianças sendo levadas para a cama uma a uma pelos cuidadores noturnos, com lanternas sendo apagadas, com o som de risos e canções diminuindo gradualmente até que o pátio voltasse ao seu silêncio habitual.
 
 Lyris ficou no pátio até que a última criança foi para dentro. Observou os voluntários recolherem as mesas, as correntes de giralis, os restos da festa. Observou as estrelas aparecerem no céu uma a uma.
+
+— O que aconteceu em Mespiria? — Elara perguntou em voz baixa, surgindo da sombra do corredor como quem se materializa do próprio silêncio. — Thalia me contou fragmentos. Gelo. Brilho. Uma criança que congelou o próprio quarto.
+
+— Alyndra manifestou cryonys durante o luto — Lyris respondeu, com a honestidade de quem sabia que Elara merecia saber. — Não foi intencional. O aethra dela respondeu à dor. Eu nunca vi nada assim.
+
+Elara assentiu lentamente, olhando para o céu onde as três luas ainda não haviam nascido.
+
+— Eu sei que você tem mais perguntas do que respostas — Elara disse. — E eu sei que você vai me contar apenas o que julgar necessário. Mas saiba que nada do que aconteça dentro destes muros vai além destes muros.
+
+Lyris não respondeu com palavras. Apenas um aceno — breve, profissional, mas que carregava dentro de si algo que se parecia perigosamente com gratidão.
+
+Elara se retirou. E Lyris ficou sozinha no pátio, sob as primeiras estrelas.
 
 Foi quando se preparava para se retirar que ela parou. Não por uma presença externa — o pátio estava vazio. Lyris parou porque lembrou.
 

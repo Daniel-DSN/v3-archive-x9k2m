@@ -14,19 +14,19 @@
 
 ## I. A Lista
 
-A mensagem chegou à *Câmara dos Sussurros*² na nona hora daquela tarde — não por canal oficial, não pela *RRA*⁵, mas pelo método mais antigo e mais confiável que Selynis Thalassa⁶ conhecia: um mensageiro vivo, com um cilindro de cristal selado entre as costelas, caminhando por quinhentos passos de corredores que não apareciam em nenhum mapa de *Sanctrum*⁷.
+A mensagem chegou ao gabinete de Selynis na Torre de Aurion² na nona hora daquela tarde — um courier diplomático, com um cilindro de cristal selado, entregue por um dos oficiais de ligação do Canal de Inteligência.
 
-Selynis estava sozinha. Isso não era acidente — na *Câmara dos Sussurros*², solitude não era solidão; era protocolo. As paredes absorviam som. O ar era filtrado três vezes antes de chegar aos pulmões. E a mesa de vidro negro — que era, na verdade, uma superfície de aethryl escuro capaz de projetar informações em camadas que só os olhos treinados de Selynis podiam decifrar — estava vazia, à espera.
+Selynis estava sozinha no gabinete. A mesa de trabalho — uma superfície de aethryl escuro capaz de projetar informações em camadas, tecnologia padrão dos escritórios do Conselho — estava vazia, à espera.
 
 Ela abriu o cilindro.
 
-Dentro, um cristal de memória pulsava com uma luz azul-esverdeada — a cor dos relatórios *Tar-Gig*⁸ de prioridade máxima. Selynis o colocou na mesa. O cristal se expandiu, liberando uma cascata de imagens, textos e diagramas que flutuaram no ar diante dela como peças de um quebra-cabeça que estava, finalmente, quase completo.
+Dentro, um cristal de memória pulsava com uma luz azul-esverdeada — a cor dos relatórios de inteligência de prioridade máxima. Selynis o colocou na mesa. O cristal se expandiu, liberando uma cascata de imagens, textos e diagramas que flutuaram no ar diante dela como peças de um quebra-cabeça que estava, finalmente, quase completo.
 
-O operativo se chamava *Daress*⁹. Havia se infiltrado numa estação de cargas na fronteira entre *Fulmora*¹⁰ e *Umbra*¹¹ há seis meses, trabalhando como manusense de armazém — um trabalho tão monótono que ninguém perguntava seu nome duas vezes. Era essa a beleza da infiltração *Tar-Gig*⁸: os melhores espiões não eram os que se escondiam, mas os que se tornavam invisíveis pela força da irrelevância.
+A fonte se chamava *Daress*⁹. Havia trabalhado numa estação de cargas na fronteira entre *Fulmora*¹⁰ e *Umbra*¹¹ há seis meses, como manusense de armazém — um trabalho tão monótono que ninguém perguntava seu nome duas vezes. Foi essa irrelevância que permitiu que Daress testemunhasse o que testemunhou sem levantar suspeitas.
 
 O relatório de Daress continha três informações. Três apenas. Mas cada uma delas era uma pedra que, ao cair, fazia o tabuleiro inteiro tremer.
 
-Primeira: os comboios não se dispersavam após as entregas como Selynis havia presumido. Eles convergiam. Todas as rotas — as de *Sylvaris*¹³, as de *Fulmora*¹⁰, as de *Umbra*¹¹ — corriam para um único ponto: um templo abandonado na fronteira Fulmora-Umbra, nas planícies de cinza a leste de *Val-Koras*¹⁴. O templo não tinha nome nos registros oficiais. Nos registros *Tar-Gig*⁸, era designado como *Ponto Ômega*¹⁵.
+Primeira: os comboios não se dispersavam após as entregas como Selynis havia presumido. Eles convergiam. Todas as rotas — as de *Sylvaris*¹³, as de *Fulmora*¹⁰, as de *Umbra*¹¹ — corriam para um único ponto: um templo abandonado na fronteira Fulmora-Umbra, nas planícies de cinza a leste de *Val-Koras*¹⁴. O templo não tinha nome nos registros oficiais. Nos registros do Canal de Inteligência, era designado como *Ponto Ômega*¹⁵.
 
 Segunda: o volume de *cargas fantasmas*¹⁶ havia triplicado nos últimos três meses. Não dezenas — como os padrões anteriores sugeriam — mas centenas. Corpos. Pessoas que entravam em carroças cobertas e não saíam. Pessoas cujos nomes ninguém conhecia e cujas ausências ninguém registrava.
 
@@ -58,9 +58,9 @@ Isso significava que Alyndra não era um alvo aleatório — um corpo a mais na 
 
 Selynis reativou os dedos. Digitou uma sequência de comandos na mesa de vidro negro. As imagens mudaram — o mapa de rotas desapareceu, substituído por um rosto: o rosto de Alyndra, capturado por um cristal de observação há quatro meses, quando Selynis ainda acreditava que poderia manter o orfanato fora do radar.
 
-— Rastreamento ampliado — ela ditou para o cristal gravador, e sua voz era a mesma de sempre — baixa, precisa, controlada como o fio de uma navalha. — Prioridade absoluta sobre o Orfanato Luminis²⁰. Quero um perímetro de vigilância de oitenta passos em todas as direções. Equipe de seis operativos *Tar-Gig*⁸, revezamento de quatro horas. Qualquer movimento não identificado dentro do perímetro — qualquer pessoa, animal, *lyrien*²⁵, qualquer coisa — deve ser reportado em tempo real.
+Selynis redigiu uma solicitação urgente ao Canal de Inteligência: vigilância reforçada sobre o Orfanato Luminis²⁰ — perímetro de oitenta passos em todas as direções, revezamento contínuo. Qualquer movimento não identificado dentro do perímetro — qualquer pessoa, animal, *lyrien*²⁵, qualquer coisa — deveria ser reportado em tempo real.
 
-Ela fez uma pausa. O silêncio da câmara era absoluto.
+Ela fez uma pausa. O silêncio do gabinete era profundo.
 
 Isso não era mais inteligência. Isso era uma contagem regressiva.
 
@@ -118,7 +118,7 @@ Mas agora sabia — com a certeza de quem sentiu a borda da lâmina — que escr
 
 ## III. A Chamada
 
-O canal seguro da *RRA*⁵ operava em uma frequência que apenas Selynis e seus operativos conheciam — uma modulação de *aethra*¹⁹ que se disfarçava de ruído estático nos receptores convencionais. Quando ativada, a transmissão era indetectável: não como um sinal escondido, mas como algo que *não existia* para qualquer aparelho que não estivesse sintonizado na frequência exata.
+O canal cifrado da *RRA*⁵ operava em uma modulação de *aethra*¹⁹ usada pelo Canal de Inteligência para comunicações classificadas — uma frequência que se disfarçava de ruído estático nos receptores convencionais.
 
 A chamada chegou até Lyris²⁷ na manhã seguinte, enquanto ela organizava os suprimentos do orfanato no pequeno almoxarifado atrás da cozinha. O cristal receptor — um fragmento opaco que Lyris usava como pingente em um colar de couro, invisível sob a roupa — vibrou três vezes contra a pele do peito.
 
@@ -126,7 +126,7 @@ Lyris olhou ao redor. As crianças estavam no pátio, supervisionadas por Kira³
 
 — Lyris³⁰ — ela disse, e o cristal reconheceu sua voz.
 
-A voz que veio do cristal não era a voz de Selynis — era uma voz genérica, sintetizada, sem timbre reconhecível. Mas as palavras eram de Selynis, e Lyris reconhecia as palavras como reconhecia o próprio rosto.
+A voz que veio do cristal era a voz de Selynis Thalassa⁶ — baixa, precisa, reconhecível. Lyris conhecia aquela voz.
 
 — A criança³⁴ está em perigo. Mais do que você imagina. Aumente a segurança. Não confie em ninguém novo.
 
@@ -142,7 +142,7 @@ O canal se fechou. O cristal parou de vibrar.
 
 Lyris ficou no almoxarifado por mais doze segundos, de pé entre sacos de grãos e potes de remédio, com as mãos apoiadas na parede de pedra e os olhos fechados. Não confie em ninguém novo. De quem. De todos.
 
-Ela não confiava inteiramente em Selynis — a Mestra da Informação era uma aliada, sim, mas aliados têm agendas, e as agendas de Selynis Thalassa⁶ eram tão complexas e multicamadas quanto os cristais de dados que usava para espionar continentes. Lyris sabia que Selynis protegia Alyndra não por compaixão, mas porque a criança tinha valor — valor estratégico, tático, político. Isso não tornava a proteção menos real, mas a tornava menos *simples*.
+Ela não confiava inteiramente em Selynis — a Mestra da Informação era uma aliada, sim, mas aliados têm agendas, e as agendas de Selynis Thalassa⁶ eram tão complexas e multicamadas quanto os cristais de dados que usava para monitorar informações de todo o continente. Lyris sabia que Selynis protegia Alyndra não por compaixão, mas porque a criança tinha valor — valor estratégico, tático, político. Isso não tornava a proteção menos real, mas a tornava menos *simples*.
 
 Ainda assim, a advertência era real. Lyris sentia que era real — sentia com a mesma certeza instintiva com que sentia a proximidade de uma tempestade antes de ver as nuvens.
 
@@ -184,7 +184,7 @@ Thaloris estava sentado na borda da cama, com a taça de vinho âmbar de *Aeriva
 
 — Eu sei.
 
-— Selynis Thalassa⁶ tem operativos na região. Se ela interceptar—
+— O Canal de Inteligência do Conselho tem agentes na região. Se interceptarem—
 
 — *Eu sei*, Thaloris repetiu, e sua voz era plana — sem energia, sem ira, sem qualquer coisa que Vethran pudesse usar como alavanca. — Você acha que não sei? Acha que não penso nisso a cada segundo desde que consenti? Eu sei os riscos, Vethran. Conheço cada um deles. E vou mesmo assim.
 
@@ -250,7 +250,7 @@ Kira³³ leu para as crianças menores. Sentada no canto do refeitório, com uma
 
 Dravyn⁴⁷ continuou desenhando. No canto do pátio, sob a luz fraca de *Nyx*³⁷ — que, estranhamente, brilhava mais do que o normal naquela nyxara, como se a lua menor quisesse compensar alguma ausência — ele rabiscava na casca de *argentis*⁴⁸ com uma intensidade que beirava a obsessão. A torre cercada por sombras. Um ponto de luz no topo. E agora, na base da torre, algo que não estava no desenho anterior: uma criança de olhos castanhos, de pé diante das sombras, com as mãos estendidas como se estivesse oferecendo algo — ou recebendo.
 
-Torvin⁵⁰ contava os dias. Estava sentado no telhado do galpão de ferramentas — seu posto de observação predileto, de onde podia ver o portão principal e a rua além — com um graveto na mão e uma pedra plana no joelho, marcando cada dia que passava desde a última transmissão da *RRA*⁵. Dezessete marcas. A próxima transmissão seria em três dias. Torvin não sabia exatamente o que esperava ouvir na transmissão — sabia apenas que as mensagens de Selynis tinham se tornado mais curtas e mais urgentes nos últimos meses, e que isso significava alguma coisa que ele, com seus sete valens e sua mente curiosa demais para sua própria segurança, não deveria estar tentando decifrar.
+Torvin⁵⁰ contava os dias. Estava sentado no telhado do galpão de ferramentas — seu posto de observação predileto, de onde podia ver o portão principal e a rua além — com um graveto na mão e uma pedra plana no joelho, marcando cada dia que passava desde a última transmissão da *RRA*⁵. Dezessete marcas. A próxima transmissão seria em três dias. Torvin não sabia exatamente o que esperava ouvir na transmissão — sabia apenas que as mensagens tinham se tornado mais curtas e mais urgentes nos últimos meses, e que isso significava alguma coisa que ele, com seus sete valens e sua mente curiosa demais para sua própria segurança, não deveria estar tentando decifrar.
 
 Mila⁴⁹ dormia nos braços de Alyndra. A menina mais nova do orfanato — dois valens, olhos grandes como azeitonas, uma risada que fazia até as pedras parecerem menos duras — tinha sido transferida para o cuidado de Alyndra naquele mês, como se alguma força invisível soubesse que as duas precisavam uma da outra. Alyndra segurava Mila com uma delicadeza que contradizia sua idade — ou que a transcendia, porque havia algo no modo como aquela criança de olhos castanhos segurava uma criança menor que sugeria não cuidado aprendido, mas cuidado *instintivo*, como se proteger fosse tão natural para Alyndra quanto respirar.
 
@@ -306,7 +306,7 @@ Mas já se podia sentir o vento que a precedia.
 
 ¹ **Arauto do Éter** — Figura lendária de Alyndra; associado a profecias e advertências sobre o equilíbrio entre luz e escuridão.
 
-² **Câmara dos Sussurros** — Base de operações de Selynis Thalassa; escritório na Torre de Aurion em Sanctrum. Projetada para absorver som e impedir interceptação.
+² **gabinete na Torre de Aurion** — Escritório oficial de Selynis Thalassa no complexo governamental de Sanctrum.
 
 
 ⁴ **Valira** — Período que corresponde à tarde em Alyndra. Na narração comum, usar "tarde".
@@ -317,9 +317,9 @@ Mas já se podia sentir o vento que a precedia.
 
 ⁷ **Sanctrum** — Capital continental; sede do Conselho dos 12 e da Torre de Aurion.
 
-⁸ **Tar-Gig** — Organização de inteligência e espionagem; aliada de Selynis Thalassa.
+⁸ **Tar-Gig** — Rede de inteligência e espionagem de Sanctrum, conhecida como Tecelões da Sombra.
 
-⁹ **Daress** — Operativo do Tar-Gig infiltrado como manusense numa estação de cargas na fronteira Fulmora-Umbra.
+⁹ **Daress** — Operativo de inteligência infiltrado como manusense numa estação de cargas na fronteira Fulmora-Umbra.
 
 ¹⁰ **Fulmora** — Reino dos Raios; quinto reino. Governado por Zerynthia.
 
@@ -331,7 +331,7 @@ Mas já se podia sentir o vento que a precedia.
 
 ¹⁴ **Val-Koras** — Região de passagem nas fronteiras orientais de Sylvaris; entroncamento de rotas terrestres.
 
-¹⁵ **Ponto Ômega** — Designação Tar-Gig para o templo abandonado na fronteira Fulmora-Umbra onde as cargas fantasmas convergem.
+¹⁵ **Ponto Ômega** — Designação nos registros de inteligência para o templo abandonado na fronteira Fulmora-Umbra onde as cargas fantasmas convergem.
 
 ¹⁶ **cargas fantasmas** — Termo não oficial para o tráfico de pessoas através das fronteiras sem registro.
 

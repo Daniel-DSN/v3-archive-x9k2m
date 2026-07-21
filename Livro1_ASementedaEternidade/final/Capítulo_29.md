@@ -114,7 +114,7 @@ A terceira equipe — a que cobria os portos de *Sylvaris*¹⁰ — foi emboscad
 
 *Nihilaryth*²¹ não lutam como humanos lutam. *Nihilaryth*²¹ lutam como escuridão luta: sem forma fixa, sem peso, sem som. Eles se movem nas sombras entre as sombras, e quando atacam, o ataque não vem de uma direção — vem de todas, simultaneamente, como se a própria escuridão se curvasse em torno da presa e a engolisse por inteiro. Dois operativos morreram ali — dois homens e mulheres que meses de serviço haviam transformado em máquinas de sobrevivência, e que naquela estrada costeira, naquela nyxara, descobriram que mesmo máquinas podem ser desmontadas.
 
-O terceiro operativo — um homem chamado Varn, que havia chegado à *Tar-Gig*²⁶ por recomendação de Aldric²⁷ — sobreviveu. Sobreviveu não por habilidade — a habilidade, contra *nihilarys*²¹, é insuficiente — mas por *aetherite*¹². O fragmento que carregava no peito, dentro de um compartimento blindado, emitiu um segundo de luz quando a emboscada começou — um segundo automático, uma última mensagem que *aetherite*¹² envia quando o portador está prestes a morrer — e o segundo alertou a equipe aérea, que chegou em tempo de afastar os *nihilarys*²¹ com explosões concentradas de *aethra*²⁰, mas não em tempo de salvar os dois que já tinham caído.
+O terceiro operativo — um homem chamado Varn, recrutado por recomendação de Aldric²⁷ — sobreviveu. Sobreviveu não por habilidade — a habilidade, contra *nihilarys*²¹, é insuficiente — mas por *aetherite*¹². O fragmento que carregava no peito, dentro de um compartimento blindado, emitiu um segundo de luz quando a emboscada começou — um segundo automático, uma última mensagem que *aetherite*¹² envia quando o portador está prestes a morrer — e o segundo alertou a equipe aérea, que chegou em tempo de afastar os *nihilarys*²¹ com explosões concentradas de *aethra*²⁰, mas não em tempo de salvar os dois que já tinham caído.
 
 Varn voltou sozinho. Trazia nos braços o corpo de um companheiro — não podia carregar dois — e nos olhos a expressão de quem viu o rosto do inimigo e reconheceu algo que não deveria existir: *preparação*. Os *nihilarys*²¹ não estavam ali por acaso. Não haviam interceptado a equipe por sorte. Sabiam que a equipe viria. Sabiam a rota. Sabiam o segundo de chegada.
 
@@ -128,7 +128,7 @@ Lysias Thyrion¹³ ouviu. Estava ao lado do cristal, escrevendo, e ouviu a palav
 
 Escreveu no caderno:
 
-> *"Dois operativos da Tar-Gig morreram na estrada costeira de Sylvaris. Emboscada de nihilarys. O terceiro, Varn, voltou com um corpo nos braços. Não vou publicar os nomes — não até que as famílias sejam notificadas. Mas vou registrar: existiam. Foram valentes. E não voltaram."*
+> *"Dois operativos de resgate morreram na estrada costeira de Sylvaris. Emboscada de nihilarys. O terceiro, Varn, voltou com um corpo nos braços. Não vou publicar os nomes — não até que as famílias sejam notificadas. Mas vou registrar: existiram. Foram valentes. E não voltaram."*
 
 O *Heraldo de Velantis*¹⁴ publicaria aquilo meses depois — quando a poeira baixasse, quando os mortos fossem chorados, quando o mundo estivesse pronto para ler sem desmoronar. Mas o registro — o ato de escrever, o gesto de testemunhar — aconteceu ali, naquele segundo, com a caneta de *aethrys*²³ de um avô que acreditava que a verdade era a última defesa contra o esquecimento.
 
@@ -194,7 +194,7 @@ E onde, em breve, alguém precisaria ir buscá-la.
 
 ² **Câmara dos Sussurros** — Base de operações na *Torre de Aurion*²⁸; centro nervoso da inteligência continental.
 
-³ **Ponto Ômega** — Designação da *Tar-Gig*²⁶ para o templo na fronteira *Fulmora*⁹-*Umbra*¹¹, onde as *cargas fantasmas*⁴ convergem.
+³ **Ponto Ômega** — Designação nos registros de inteligência para o templo na fronteira *Fulmora*⁹-*Umbra*¹¹, onde as *cargas fantasmas*⁴ convergem.
 
 ⁴ **cargas fantasmas** — Operação de tráfico de pessoas sem registro, orquestrada pelos *Nihil Shid*²⁵.
 
@@ -240,7 +240,7 @@ E onde, em breve, alguém precisaria ir buscá-la.
 
 ²⁵ **Nihil Shid** — Organização secreta "Os Iluminados"; orquestram as *cargas fantasmas*⁴ e a rede de *nihilarys*²¹.
 
-²⁶ **Tar-Gig** — Organização de inteligência e espionagem aliada a Selynis Thalassa¹.
+²⁶ **Tar-Gig** — Rede de espionagem conhecida como Tecelões da Sombra¹.
 
 ²⁷ **Aldric** — Ex-companheiro da *Kalúdris*; zelador do Orfanato Luminis.
 
