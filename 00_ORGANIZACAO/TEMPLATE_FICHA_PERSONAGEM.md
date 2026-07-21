@@ -1,6 +1,6 @@
 # TEMPLATE PADRÃO — FICHA TÉCNICA DE PERSONAGEM
 
-> **Versão:** 1.0
+> **Versão:** 1.1
 > **Baseado em:** Fichas existentes (Alyndra, Aurelius, Lyris, Selynis, Melessa) + PERSONAGENS_MASTER.md + VOZ_PERSONAGENS.md
 > **Uso:** Padrão unificado para todas as fichas de `05_Personagens/`
 
@@ -163,6 +163,18 @@
 
 ---
 
+### ARCO DE TRANSFORMAÇÃO
+
+> Diferente de Momentos-Chave (que lista eventos), esta seção mapeia a **psicologia da mudança** — como o personagem era, como se tornou, e o que causou.
+
+| Fase | Estado inicial | Estado final | Gatilho |
+|------|---------------|--------------|--------|
+| **[Nome da fase]** | [Como era] | [Como se tornou] | [O que causou a mudança] |
+
+Exemplo (Lyris): "Agente" (gelo profissional) → "Rachadura" (promessa a Melessa) → "Guardiã" (apego a Alyndra).
+
+---
+
 ### FUNÇÃO NA NARRATIVA
 
 [Parágrafo: qual é o papel deste personagem na história? Âncora emocional? Catalisador? Espelho do protagonista? Antagonista simpático? Mistério central?]
@@ -296,12 +308,15 @@ Incluir após PERSONALIDADE:
 
 | Aspecto | Detalhe |
 |---------|---------|
+| **Tipo de antagonismo** | [Trágico (acredita estar certo) / Maligno (sabe que erra e não se importa) / Corrompido (era bom, foi transformado)] |
 | **Motivação** | [Por que faz o que faz — a razão real, não a justificativa] |
 | **Método** | [Como opera — direto, manipulativo, paciente, impaciente] |
 | **Conexão pessoal com o protagonista** | [Se houver — o que os liga além da oposição] |
 | **Vulnerabilidade** | [O que pode derrotá-lo — fraqueza genuína, não golpe de sorte] |
 | **Fase do plano** | [Onde está quando o Livro I começa — avançado? Apenas começando?] |
 | **O que o torna simpático** | [Se aplicável — por que o leitor poderia entender, mesmo sem concordar] |
+
+**Nota:** A distinção Trágico/Maligno/Corrompido calibra o tom. Os Zagin Kal são trágicos — acreditam genuinamente que estão protegendo o mundo. Mythra é maligna. A corrupção Nihilaryth produz antagonistas corrompidos.
 
 ---
 ---
