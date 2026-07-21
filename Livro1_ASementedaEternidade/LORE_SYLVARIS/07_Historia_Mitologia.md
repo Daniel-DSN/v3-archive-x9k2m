@@ -2,7 +2,7 @@
 
 ## 1. A Era de Veridion e a Guerra dos Pântanos Sussurrantes (Anos 1 a ~1.000 E.D.)
 
-A fundação de Sylvaris não foi um processo pacífico de semeadura. Quando Veridion e seu par de sombra, Altheron `[PENDENTE APROVAÇÃO DO AUTOR]`, chegaram ao sudoeste de Nova Aetherion, o tecido da realidade ainda sangrava da Guerra do Selo. Uma infestação de Nihilaryth — liderada por um Senhor do Vazio chamado Thal'Mor — tentava estabelecer um ninho na fronteira sul, onde hoje ficam os Pântanos Sussurrantes.
+A fundação de Sylvaris não foi um processo pacífico de semeadura. Quando Veridion e seu par de sombra, Altheron, chegaram ao sudoeste de Nova Aetherion, o tecido da realidade ainda sangrava da Guerra do Selo. Uma infestação de Nihilaryth — liderada por um Senhor do Vazio chamado Thal'Mor — tentava estabelecer um ninho na fronteira sul, onde hoje ficam os Pântanos Sussurrantes.
 
 **A Batalha do Eco Eterno:** Veridion sabia que exterminar Thal'Mor consumiria suas últimas reservas de Aethra, apressando sua dissipação. Em vez da aniquilação, usou sua afinidade primária (Conectar) para travar um pacto com o tempo elemental, aprisionando Thal'Mor e seu enxame num *loop temporal etérico*. O solo afundou, o rio desviou, e a névoa perpetuamente distorcida nasceu. Os sussurros que os viajantes ouvem hoje são a repetição infinita das táticas de guerra de Thal'Mor, presas no âmbar do tempo.
 
@@ -10,7 +10,7 @@ Séculos depois, já enfraquecido, Veridion recusou a adoração e dissolveu-se 
 
 **Ganchos para o Futuro:**
 - *Os Guardiões do Eco:* Uma ordem secreta de eruditos e estudiosos comuns que vive nas bordas do pântano, tentando mapear o loop temporal para extrair informações do futuro sem serem corrompidos pelos sussurros.
-- *A Tumba de Altheron:* Diz a lenda que o par de sombra se sacrificou para ancorar o feitiço. Sua relíquia (o *Gigal Nihil*, o Véu do Vazio Dispersor) foi deixada na Passagem Secreta sob a montanha, guardada por ecos de sua própria mente `[PENDENTE APROVAÇÃO DO AUTOR]`.
+- *A Tumba de Altheron:* Diz a lenda que o par de sombra se sacrificou para ancorar o feitiço. Sua relíquia (o *Lil Gig Nihil*, o Véu do Vazio Dispersor) foi deixada na Passagem Secreta sob a montanha, guardada por ecos de sua própria mente.
 
 ---
 
@@ -54,7 +54,7 @@ O resultado foi uma possessão gradual da elite. As Cargas Fantasmas começaram 
 
 **Ganchos para o Futuro:**
 - *As Joias Amaldiçoadas:* Dezenas de anéis e colares de Gelo Negro ainda circulam disfarçados entre a nobreza de Sanctrum e Pyralis. Uma caça ao tesouro macabra para os Tar-Gig antes que a elite do continente seja possuída.
-- *A Carmesim do Gelo:* O diário de Draven Kaelvrym, detalhando como extrair e purificar o Gelo Negro para uso em armas. Uma tecnologia proibida que pode ser tanto a salvação quanto a ruína do exército.
+- *O Gig Kun Shid* (O Sussurro da Arte Sombria): O diário de Draven Kaelvrym, detalhando como extrair e purificar o Gelo Negro para uso em armas. Uma tecnologia proibida que pode ser tanto a salvação quanto a ruína do exército.
 
 ---
 
