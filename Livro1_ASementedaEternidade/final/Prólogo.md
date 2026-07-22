@@ -38,7 +38,7 @@ No princípio, havia o Vazio. Não a ausência de coisas, mas um potencial infin
 
 O Vazio primordial viu florescer a primeira civilização do cosmos. Os Nihilaryth. Seres de poder absoluto que alcançaram o ápice da existência e, liderados por Ur-Nyxal, encontraram o Fruto da Existência — a pedra angular da realidade.
 
-Mas o poder sem limite gera a ambição sem freio. Buscando a imortalidade, os Nihilaryth turningaram-se contra a própria essência do cosmos. Drenaram o Aethra uns dos outros num canibalismo espiritual. O Fruto, usado com egoísmo, retaliou. A maldição transdimensional transformou-os no que eram: parasitas imateriais, condenados a devorar para existir.
+Mas o poder sem limite gera a ambição sem freio. Buscando a imortalidade, os Nihilaryth tornaram-se contra a própria essência do cosmos. Drenaram o Aethra uns dos outros num canibalismo espiritual. O Fruto, usado com egoísmo, retaliou. A maldição transdimensional transformou-os no que eram: parasitas imateriais, condenados a devorar para existir.
 
 Mythra sorriu nas bordas do desastre. O Vazio havia ganhado um exército.
 
@@ -48,7 +48,7 @@ Mythra sorriu nas bordas do desastre. O Vazio havia ganhado um exército.
 
 Ayla sentiu o ventre se contrair no sonho. A dor não era sua, mas ecoava através do tempo.
 
-Do caos que se seguiu, emergiu Alyndra Primordial. Uma ser de poder imensurável que controlava o Fruto. Ela estava grávida. Dois pulsos de vida batiam dentro dela — gêmeos que carregavam a semente de um novo princípio.
+Do caos que se seguiu, emergiu Alyndra Primordial. Um ser de poder imensurável que controlava o Fruto. Ela estava grávida. Dois pulsos de vida batiam dentro dela — gêmeos que carregavam a semente de um novo princípio.
 
 Alyndra vislumbrou o futuro. Viu as sombras dos Nihilaryth devorando tudo, e viu a única saída: a aniquilação total. Mas ao olhar para Mythra, viu também o passado da entidade. Viu a dor que a transformara. E numa fração de segundo que durou éons, Alyndra escolheu o renascimento em vez da vingança.
 
