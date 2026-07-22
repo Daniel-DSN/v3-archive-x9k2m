@@ -14,14 +14,14 @@
 | **Nome completo** | Lyris Vaelcoris |
 | **Nome conhecido/usado** | Lyris (identidade pública); Nyctara (codinome operacional) |
 | **Título(s)** | Nyctara — *Mushen Nin* (Emê-Gir: "Noite Velada"); "A Sombra de Sanctrum"; "O fantasma que não deixa rastro" |
-| **Reino de origem** | Sylvaris |
+| **Reino de origem** | Umbra |
 | **Casa/Família** | Sem casa |
 | **Elemento** | Thermaris (Água + Fogo) — subtipo híbrido |
 | **Classificação Etérica** | Transcendente (1.000–5.000 Æ) — Estágio V, nível Arconte |
 | **Linhagem Seraphyen** | Nenhuma conhecida |
 | **Idade** | ~43 valens no início do Livro I |
 | **Idade aparente** | Consistente com a real |
-| **Local de nascimento** | [D] Sylvaris, região desconhecida |
+| **Local de nascimento** | [D] Umbra, região desconhecida |
 | **Residência atual** | Orfanato Luminis, Cidadela Luminis, Velantis, Sylvaris |
 | **Função/Cargo** | Ex-agente dos Tar-Gig (aposentada); tutora voluntária no Orfanato Luminis (disfarce) |
 | **Status vital** | Vivo |
@@ -65,10 +65,10 @@
 
 | Aspecto | Descrição |
 |---------|----------|
-| **Biótipo e altura** | [C] Corpo treinado para velocidade e precisão — "rápidos e precisos" (Cap IX). [D] Estatura mediana, constituição magra e musculosa, ombros largos disfarçados sob túnicas largas. |
-| **Pele** | [D] Morena clara — padrão Sylvari de planície. Mãos com calosidades de combate e anos de ofício. |
-| **Olhos** | [C] "Olhos escuros" que "percorriam o Veleiro com a precisão de um general inspecionando suas tropas" (Cap VI). [C] "Olhos verdes" (Cap III). **Nota:** possível discrepância entre capítulos — "verdes" aparece na primeira apresentação, "escuros" predomina depois. Interpretar como verde-escuro sob pouca luz, escuros à distância. |
-| **Cabelo** | [C] Curto e grisalho na identidade de tutora, preso por fivela que contém seu cristal Nyctari de comunicação. [D] Prático, sempre pronto para combate. |
+| **Biótipo e altura** | [C] Corpo esbelto e atlético — treinado para velocidade e precisão, "rápidos e precisos" (Cap IX). [D] Estatura mediana, constituição magra e musculosa, ombros largos disfarçados sob túnicas largas. |
+| **Pele** | [C] Clara. Mãos com calosidades de combate e anos de ofício. |
+| **Olhos** | [C] Verdes. [C] Descritos também como "olhos escuros" que "percorriam o Veleiro com a precisão de um general inspecionando suas tropas" (Cap VI). **Nota:** possível discrepância entre capítulos — "verdes" aparece na primeira apresentação, "escuros" predomina depois. Interpretação canônica: olhos verdes, que podem parecer escuros sob pouca luz ou à distância. |
+| **Cabelo** | [C] Preto bem escuro, curto, chegando ao ombro. Na identidade de tutora, preso por fivela que contém seu cristal Nyctari de comunicação. Prático, sempre pronto para combate. |
 | **Mãos** | [C] "Aquelas mãos que acariciavam o cabelo de Alyndra com gentileza infinita" se transformam em "instrumentos letais" (Cap IX). Contraste canônico e central do personagem. |
 | **Vestuário habitual** | [C] Túnicas grossas de *giran* com gola alta, ombros encurvados para parecer inofensiva — "a máscara perfeita" (Cap IX). |
 | **Vestes formais/cerimoniais** | [D] N/A — Lyris abandonou cerimônias há décadas. |
@@ -207,7 +207,7 @@ Aurelius Lumivael, Mestre Guardião de Sanctrum, a convocou pessoalmente para um
 | **Vínculo** | Nenhuma conexão conhecida |
 | **Desde quando** | N/A |
 | **O que sabe** | N/A |
-| **O que ignora** | N/A |
+| **O que ignora** | Que o Orfanato Luminis opera com financiamento e doutrina potencialmente alinhados aos interesses dos Zagin Kal, e que sua missão de proteger Alyndra pode estar servindo involuntariamente aos planos de cultivo da Semente. |
 
 > **Nota do Arquivista:** Nenhuma referência a "Lyris" foi encontrada em VERDADE_OCULTA_NOVA_AETHERION.md ou em outros documentos Zagin Kal. A conexão é institucional, não pessoal: o Orfanato Luminis opera com base nos 7 Pilares das Leis de Ilyos e recebe financiamento do Kun Zagin Gal, mas Lyris não tem vínculo pessoal com o conselho.
 
