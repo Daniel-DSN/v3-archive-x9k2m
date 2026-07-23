@@ -16,9 +16,9 @@
 
 **I. O Pressentimento**
 
-Três dias depois, Ayla acordou com uma sensação estranha.
+Três dias depois, o aethra mudou de gosto.
 
-Não era dor — não exatamente. Era mais como uma pressão, um peso no baixo ventre que não estava lá antes. Sentou-se na cama, observando a luz da manhã, e colocou as mãos sobre a barriga.
+Ayla acordou com o sabor metálico nos lábios — não o gosto suave dos dias normais, mas algo pesado e elétrico, como se a Convergência já derramasse sobre o vale antes das luas se alinharem. Colocou as mãos sobre a barriga.
 
 A criança estava quieta. Quieta demais.
 
@@ -64,7 +64,7 @@ Os animais sentiram primeiro. Os *lyriens*³ nos estábulos agitavam-se, suas or
 
 Então as luas surgiram.
 
-Primeiro *Lyria*, a prateada, ascendendo no horizonte leste com um brilho mais intenso do que os mais velhos lembravam. Depois *Nyx*, a azulada, surgindo do oeste como se tivesse corrido através do céu para encontrar sua irmã. E por fim *Elara*, a rosa, nascendo do sul com uma luz que parecia pulsar, como um coração celestial.
+Primeiro *Lyria*, a prateada, ascendendo no horizonte leste com um resplendor mais intenso do que os mais velhos lembravam. Depois *Nyx*, a azulada, surgindo do oeste como se tivesse corrido através do céu para encontrar sua irmã. E por fim *Elara*, a rosa, nascendo do sul com uma luz que parecia pulsar, como um coração celestial.
 
 Três luas. Três irmãs. Convergindo para um único ponto no céu.
 
@@ -96,8 +96,6 @@ Era uma tempestade silenciosa. Uma tempestade que observava. Uma tempestade que 
 
 **III. O Nascimento**
 
-O tempo perdeu seu significado dentro da casa de pedra.
-
 A cada contração, os cristais de aetheris que iluminavam o quarto tremiam — não com o vento, mas com algo que emanava de Ayla, ou talvez da criança.
 
 — Eu consigo ver a cabeça — Melessa anunciou, a voz ganhando um fio de esperança depois de horas. — Mais um empurrão, Ayla. Só mais um.
@@ -106,19 +104,19 @@ E empurrou com tudo o que tinha.
 
 Quando a criança emergiu, o mundo pareceu parar.
 
-A tempestade lá fora cessou instantaneamente. As nuvens se dissolveram, revelando um céu noturno repleto de estrelas que brilhavam com uma intensidade que ninguém em Mespiria jamais vira. As três luas, perfeitamente alinhadas, brilhavam juntas como se fossem uma só — uma luz mista de prata, azul e rosa que banhava a vila inteira.
+A tempestade lá fora cessou instantaneamente. As nuvens se dissolveram, revelando um céu noturno repleto de estrelas que resplandeciam com uma intensidade que ninguém em Mespiria jamais vira. As três luas, perfeitamente alinhadas, brilhavam juntas como se fossem uma só — uma luz mista de prata, azul e rosa que banhava a vila inteira.
 
 A criança brilhava.
 
 Não era um brilho constante, mas um fulgor suave que pulsava sob sua pele. Como se algo dentro dela fosse grande demais para ser contido por um corpo tão pequeno.
 
-Os olhos da menina estavam abertos — algo incomum para uma recém-nascida — e eram castanhos, grande, profundos. Observavam o mundo com uma seriedade que não pertencia a alguém tão pequeno.
+Os olhos da menina estavam abertos — algo incomum para uma recém-nascida — e eram castanhos, grandes, profundos. Observavam o mundo com uma seriedade que não pertencia a alguém tão pequeno.
 
 — Melessa... — Thalia recuou um passo, os olhos arregalados fixos na criança. — O que... o que é isso? O que está brilhando?
 
 Melessa não respondeu. Com décadas de experiência, foi a primeira a se recuperar. Envolveu a menina em panos limpos, o coração batendo acelerado. Mas quando a colocou no peito de Ayla, seu olhar encontrou o da mãe — e o que viu fez seu sangue gelar.
 
-Ayla estava pálida. Muito pálida. Seus olhos, que haviam brilhado com determinação durante todo o parto, agora perdiam o foco.
+Ayla estava pálida. Muito pálida. Seus olhos, que haviam fulgurado com determinação durante todo o parto, agora perdiam o foco.
 
 — Ayla? — Melessa tocou o pulso da mulher. Fraco. Irregular. Escapando. — Thalia, vá ao anexo externo, depressa! Preciso da infusão concentrada de *mirael*¹ e de água fervida!
 
@@ -184,7 +182,7 @@ A mão que tocava a testa de Alyndra caiu lentamente, pousando no colchonete. O 
 
 Na sala, apenas o choro silencioso de curandeiras que nunca haviam visto uma despedida tão cheia de amor.
 
-Thalia ficou parada na porta, os olhos交替ando entre a criança que ainda brilhava levemente e a mãe que já não via nada. Quando Melessa finalmente se ergueu, a jovem perguntou, a voz baixa e trêmula:
+Thalia ficou parada na porta, os olhos alternando entre a criança que ainda emanava uma luminescência suave e a mãe que já não via nada. Quando Melessa finalmente se ergueu, a jovem perguntou, a voz baixa e trêmula:
 
 — Melessa... o que aconteceu aqui? O que *é* essa criança?
 
@@ -192,7 +190,7 @@ A parteira limpou os olhos. Tomou o pingente das mãos mortas de Aelyria e guard
 
 — Uma criança — disse, com uma firmeza que não admitia réplica. — Uma criança que perdeu a mãe. Nada mais.
 
-Mas Thalia não era mais a aprendiz ingênua que chegara naquela Nyxara com um cinto torto e instrumentos nas mãos. Ela tinha olhos. E tinha visto o brilho. E a pergunta que Melessa recusara responder ficaria com ela como uma semente — quieta por ora, mas destinada a germinar.
+Mas Thalia não era mais a aprendiz ingênua que chegara naquela Nyxara com um cinto torto e instrumentos nas mãos. Ela tinha olhos. E tinha visto aquela luminescência. E a pergunta que Melessa recusara responder ficaria com ela como uma semente — quieta por ora, mas destinada a germinar.
 
 ---
 
@@ -208,9 +206,9 @@ E quando o corpo de Ayla foi baixado à terra, algo aconteceu.
 
 A luz de Elara, a rosa do sacrifício, intensificou-se. Um raio de luz cor-de-rosa desceu do céu como uma lanterna celestial, tocando o túmulo por um único instante. Quando se foi, as flores silvestres ao redor haviam florescido — pétalas rosa e brancas que se abriram como se saudassem uma alma que partia.
 
-Melessa ajoelhou-se ao lado da cova.
+Melessa ajoelhou-se ao lado da cova, os olhos marejados reconhecendo a mesma luz rosa que se intensificara sobre a casa durante o parto — Elara, brilhando como nunca brilhara.
 
-— Elara a abençoou. A rosa do sacrifício a reconheceu. Ela era alguém especial. Alguém que o universo conhecia, mesmo que nós não conhecêssemos.
+— Elara a abençoou. A mesma lua que acompanhou o nascimento de Alyndra. A rosa do sacrifício a reconheceu. Ela era alguém especial. Alguém que o universo conhecia, mesmo que nós não conhecêssemos.
 
 Os aldeões trocaram olhares. Perguntas para as quais não haveria respostas fáceis. Mas uma coisa todos sabiam — aquele enterro seria lembrado por gerações.
 
@@ -228,7 +226,7 @@ Então uma figura emergiu dos bosques.
 
 Não vinha dos campos de aethrys, nem da estrada principal. Vinha da mata fechada — a mesma direção de onde, nyras antes, uma presença silenciosa fizera o vento parar e as copas das argentis se calarem quando Ayla ainda caminhava por aqueles caminhos.
 
-Era um homem. Ombros largos, uma postura de guerreiro que aprendera a carregar o peso do mundo em silêncio — um porte que o tempo não dobrara, apenas aprofundara. Sob a capa escura, a luz fraca revelava cabelos prateados nas têmporas e uma cicatriz fina na têmpora direita. Suas roupas não traziam brasões, mas havia nele uma gravidade que não cabia em brasões — e uma familiaridade com aquela terra que sugeria não ser a primeira vez que a pisava.
+Era um homem. Ombros largos, uma postura de guerreiro que aprendera a carregar o peso do mundo em silêncio — um porte que o tempo não dobrara, apenas aprofundara. Sob a capa escura, a luz fraca revelava cabelos prateados nas têmporas e uma cicatriz fina na têmpora direita. Em sua mão esquerda, quase oculto pela manga, um anel simples de metal negro — o mesmo tom escuro do pingente que Aelyria entregara a Melessa horas antes. Suas roupas não traziam brasões, mas havia nele uma gravidade que não cabia em brasões — e uma familiaridade com aquela terra que sugeria não ser a primeira vez que a pisava.
 
 Não havia ninguém para ver — e ele se moveu como se soubesse disso, cada passo calculado para não deixar marca na terra molhada. Ajoelhou-se diante da terra recém-revirada.
 
@@ -248,17 +246,19 @@ Para dentro dos bosques. Para dentro das sombras. De volta ao vigia que não des
 
 ---
 
+**VI. A Caixa**
+
 Após o enterro, Melessa levou Alyndra para a casa que havia sido de sua mãe.
 
 Quando o escuro caiu e ela se preparava para dormir com a criança ao peito, a luz retornou.
 
-Estava trocando os panos de Alyndra quando percebeu um brilho suave emanando da pele da menina. Era diferente do brilho do nascimento — mais suave, mais controlado, como se a criança estivesse aprendendo a conter algo que emanava naturalmente de seu ser.
+Estava trocando os panos de Alyndra quando percebeu uma luminescência suave emanando da pele da menina. Era diferente do fulgor do nascimento — mais suave, mais controlado, como se a criança estivesse aprendendo a conter algo que emanava naturalmente de seu ser.
 
 — Pelos ventos... — Melessa recuou um passo.
 
 Alyndra a observou com aqueles olhos castanhos serenos, e então, pela primeira vez, sorriu. Um sorriso pequeno, sem dentes, mas cheio de uma alegria que transcendia sua idade.
 
-Melessa não sorriu de volta. O mesmo medo da primeira vez — o medo de que aquele brilho fosse a sentença de morte da criança — apertou-lhe o peito como uma mão fria.
+Melessa não sorriu de volta. O mesmo medo da primeira vez — o medo de que aquela luz fosse a sentença de morte da criança — apertou-lhe o peito como uma mão fria.
 
 Conhecia os rumores — histórias sobre crianças nascidas sob a Convergência, crianças com dons que Sanctrum cobiçava, crianças que desapareciam das vilas. A *Ordem dos Mestres*⁶ tinha braços longos. E agora havia um pingente em seu bolso que era a prova de que Sanctrum já fazia parte da vida daquela criança, quer ela quisesse ou não.
 
