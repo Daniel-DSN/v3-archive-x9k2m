@@ -18,7 +18,7 @@
 
 O vento trazia o cheiro deles — metal, suor, couro tratado com resina. Ayla não os via, mas sabia que estavam a menos de cinquenta passos. Três, pelo menos. Talvez quatro. O terreno irregular de Mespiria — sulcos de cultivo abandonados, cercas de pedra caídas, moitas de espinheiro — cobria o som dos passos, mas não o cheiro. Aquilo era treinamento da Kalúdris: quando os olhos falham, o nariz não mente.
 
-Ela corria. Ou tentava. A barriga de sete luas mudava o centro de gravidade de tudo — cada passo era um cálculo entre velocidade e equilíbrio, cada salto sobre um sulco era uma aposta. A criança se mexia dentro dela, agitada, como se também sentisse o que se aproximava. Ayla prendia a respiração nos trechos em reta e soltava nos desvios, e o ar entrava frio nos pulmões como água em ferida aberta.
+Ela corria. Ou tentava. A barriga de sete luas mudava o centro de gravidade de tudo — cada passo era um cálculo entre velocidade e equilíbrio, cada salto sobre um sulco era uma aposta. A criança se mexia dentro dela, agitada, como se também sentisse o que se aproximava. Ayla prendia a respiração nos trechos em reta e soltava nos desvios, e o ar entrava frio nos pulmões como uma lâmina.
 
 Atrás dela, um galho quebrou. Perto demais.
 
@@ -110,11 +110,13 @@ Desta vez não foram fragmentos. Foi um mergulho.
 
 Ayla acordou.
 
+Estava na casa de Mespiria. Não lembrava de ter caminhado até ali — o corpo a levara enquanto a mente ainda estava em outro lugar.
+
 A nyxara era líquida e sem estrelas. As três luas estavam ocultas, mas ela sentia que estavam ali — alinhando-se, esperando, como quem segura a respiração antes de um mergulho.
 
-A casa de Mespiria estava escura à sua volta. Madeira velha. Silêncio de quem não morava ali há valens. A mão de Ayla foi ao ventre por instinto. A criança estava quieta. Não dormindo — ouvindo.
+A casa estava escura à sua volta. Madeira velha. Silêncio de quem não morava ali há valens. A mão de Ayla foi ao ventre por instinto. A criança estava quieta. Não dormindo — ouvindo.
 
-As mãos estavam quentes. Não o calor de febre — algo diferente. Como se tivessem segurado brasas que já tinham se apagado. Ayla olhou para as palmas na penumbra. Nada. Mas por um instante — um único instante — a barriga tinha brilhado com uma luz que não era deste mundo, e ela tinha visto o reflexo nas paredes de madeira antes que sumisse.
+As mãos estavam quentes. Não o calor de febre — algo diferente. Como se tivessem segurado brasas que já tinham se apagado. Ayla olhou para as palmas na penumbra. Nada. Mas então — tão breve quanto o piscar de uma estrela — a barriga tinha brilhado com uma luz que não era deste mundo, e ela tinha visto o reflexo nas paredes de madeira antes que sumisse.
 
 Ela não sabia o que tinha visto. Não sabia os nomes — da mulher de fogo, do escudo que caiu, da sombra que sussurrava nas bordas. Não sabia por que a criança carregava memórias que não deveriam existir dentro de um ventre.
 
@@ -168,4 +170,4 @@ Esta é a **Versão 4** do Prólogo — rascunho híbrido (ação + memória anc
 - A criança como dispositivo narrativo: é ela quem sintoniza as memórias. A mitologia chega através do vínculo materno-fetal, não como exposição.
 - Conexão com Capítulo I: o prólogo agora termina com Ayla abrindo a porta e continuando — o Cap I a recolhe em Zephyra ANTES desta noite, criando a mesma não-linearidade, mas com mais peso emocional.
 
-**Status:** RASCUNHO REFINADO. Quatro ajustes aplicados (transição III→IV, contexto da traição de Elarys, expansão do mergulho, correção da voz da promessa). Revisão final pendente.
+**Status:** PRÓLOGO FINAL. Estrutura híbrida validada. Sete iterações de polimento (v1→v2→v3→v4 rascunho→v4 refinado→v4 polimento final). Pronto para integração com Capítulo I.
