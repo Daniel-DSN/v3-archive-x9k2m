@@ -86,6 +86,8 @@ Ayla não sabia quando os olhos fecharam. Não foi uma decisão — foi o corpo 
 
 Dormiu.
 
+O sono não foi um descanso. Foi uma entrega — como se a criança tivesse esperado pacientemente que a mãe baixasse a guarda para mostrar-lhe o que carregava. E quando a guarda caiu, o que veio não veio de fora.
+
 E a criança sonhou por ela.
 
 ---
@@ -96,11 +98,13 @@ Desta vez não foram fragmentos. Foi um mergulho.
 
 *No centro da guerra, uma figura ergueu-se entre o irmão caído e a irmã que ainda lutava. Era feito de água e devoção — um escudo vivo que se despedaçava pedaço por pedaço, sem esperança, sem plano, apenas a recusa de deixar a mulher que amava sozinha. Quando o escudo caiu, ele se desfez em vapor e silêncio, e o som que fez ao desaparecer era o som de alguém que aceitava morrer sem nunca ter sido visto.*
 
-*Depois — fogo. Não destruindo. Forjando. Uma mulher de chama sombria ofereceu o próprio corpo como trava, e enquanto se fundia ao que aprisionava, disse algo para o ser que amava e que a havia traído:*
+*Depois — fogo. Não destruindo. Forjando. Uma mulher de chama sombria ofereceu o próprio corpo como trava. Ela o tinha amado — aquele que agora era a sombra. Havia marchado ao lado dele. Havia acreditado que ele era a justiça. E quando viu o que ele se tornara, a dor da traição foi maior que a fúria da batalha. Ainda assim, o que ela fez não foi vingança. Foi algo pior que a vingança. Foi amor na sua forma mais devastadora — a que não desiste, mesmo quando deveria. E enquanto se fundia ao que aprisionava, disse para o ser que a havia traído:*
 
 *Eu sei que você me traiu. Mas eu não consigo deixar você virar isso.*
 
-*E a promessa cristalizou. E a mulher de fogo desapareceu dentro do que tinha criado. E a luz se partiu em mil fragmentos — no reflexo da água, na cintilação das estrelas, no clarão dos moribundos — para que a escuridão nunca fosse completa.*
+*A promessa cristalizou. E a mulher de fogo desapareceu dentro do que tinha criado — cada fibra de sua existência tornando-se a trava que segurava o que amava e que a traíra. Depois veio a luz — a irmã que ainda lutava —, e ela também se partiu. Não em morte, mas em dispersão. Fragmentos de si mesma espalhados pelo mundo como âncoras: no reflexo da água, na cintilação das estrelas, no clarão dos moribundos. Cada fragmento era um lembrete de que a escuridão, por mais profunda que fosse, nunca seria completa.*
+
+*E nas bordas de tudo isso, a fome esperava. Paciente. Já tinha esperado antes. Sabia que promessas, por mais fortes que fossem, com o tempo se enfraqueciam.*
 
 ---
 
@@ -116,7 +120,7 @@ Ela não sabia o que tinha visto. Não sabia os nomes — da mulher de fogo, do 
 
 Mas sentia. Um peso antigo repousava sob as palmas. Algo enorme tinha se movido dentro dela — não a criança, mas o que a criança trouxera consigo. Uma promessa plantada éons atrás por alguém que escolheu o renascimento em vez da vingança. E essa promessa agora pulsava no sangue da filha que ainda não tinha nome.
 
-E por um instante — um único instante, no limiar entre o sonho e a vigília — uma voz atravessou os éons. Com aethra, com som. Não fragmentada desta vez. Completa.
+E por um instante — um único instante, no limiar entre o sonho e a vigília — uma voz atravessou os éons. Não pensamento. Não imaginação. Voz real, antiga, inequívoca. Não fragmentada desta vez. Completa.
 
 *Tu és o que eu prometi.*
 
@@ -164,4 +168,4 @@ Esta é a **Versão 4** do Prólogo — rascunho híbrido (ação + memória anc
 - A criança como dispositivo narrativo: é ela quem sintoniza as memórias. A mitologia chega através do vínculo materno-fetal, não como exposição.
 - Conexão com Capítulo I: o prólogo agora termina com Ayla abrindo a porta e continuando — o Cap I a recolhe em Zephyra ANTES desta noite, criando a mesma não-linearidade, mas com mais peso emocional.
 
-**Status:** RASCUNHO. Fluxo e conceito validados. Revisão linha a linha pendente.
+**Status:** RASCUNHO REFINADO. Quatro ajustes aplicados (transição III→IV, contexto da traição de Elarys, expansão do mergulho, correção da voz da promessa). Revisão final pendente.
