@@ -10,132 +10,133 @@
 
 # PRÓLOGO
 
----
-
-**A Mulher que Sonhou o Fim**
+# A Mulher que Sonhou o Fim
 
 ---
 
-Ayla não dormia.
+O vento trazia o cheiro deles — metal, suor, couro tratado com resina. Ayla não os via, mas sabia que estavam a menos de cinquenta passos. Três, pelo menos. Talvez quatro. O terreno irregular de *Mespiria*² — sulcos de cultivo abandonados, cercas de pedra caídas, moitas de espinheiro — cobria o som dos passos, mas não o cheiro. Aquilo era treinamento da Kalúdris¹: quando os olhos falham, o nariz não mente.
 
-Não porque não quisesse — porque não ousava. Cada nyxara era um risco. Fechar os olhos era abaixar a guarda, e baixar a guarda com uma criança crescendo no ventre e algo antigo seguindo seus passos era o tipo de imprudência que a Kalúdris lhe tinha ensinado a não cometer. Três nyras de fuga tinham transformado o sono num luxo que o medo cobrava caro demais.
+Ela corria. Ou tentava. A barriga de sete luas mudava o centro de gravidade de tudo — cada passo era um cálculo entre velocidade e equilíbrio, cada salto sobre um sulco era uma aposta. A criança se mexia dentro dela, agitada, como se também sentisse o que se aproximava. Ayla prendia a respiração nos trechos em reta e soltava nos desvios, e o ar entrava frio nos pulmões como uma lâmina.
 
-Mas naquela nyxara — a terceira em Mespiria, numa casa que cheirava a madeira velha e ao silêncio de quem não morava ali há valens — o corpo de Ayla decidiu por ela. Os olhos fecharam. Os músculos cederam. E o sono não veio como quem entra num rio — veio como quem cai.
+Atrás dela, um galho quebrou. Perto demais.
 
-E com o sono, vieram os mergulhos.
-
----
-
-## I. O Vazio que Não Era Vazio
-
-Não eram imagens. Eram memórias. Ayla sentia-se submersa numa realidade que não era a sua, como quem sonha o sonho de outra pessoa — excepto que não era outra pessoa. Era algo mais antigo que pessoas. Algo que existia antes de nomes.
-
-No princípio, havia o Vazio. Não a ausência de coisas, mas um potencial infinito e escuro. E nas bordas desse Vazio, esperando, já havia algo. Uma presença que não foi criada, mas que simplesmente surgiu quando a primeira consciência despertou. Mythra. A Que Espera. Ela não era luz nem sombra — era a fome que nasce quando a eternidade percebe a própria solidão. E ela observava.
+Ayla cortou para a esquerda, para o bosque de árvores prateadas que marcavam o limite das terras cultiváveis. Os troncos eram estreitos o suficiente para forçar os perseguidores a andar em fila — e largo o suficiente para ela passar com a barriga. Entrou no bosque e não olhou para trás.
 
 ---
 
-## II. A Civilização que Esqueceu o Limite
+**I. O Esconderijo**
 
-O Vazio primordial viu florescer a primeira civilização do cosmos. Os Nihilaryth. Seres de poder absoluto que alcançaram o ápice da existência e, liderados por Ur-Nyxal, encontraram o Fruto da Existência — a pedra angular da realidade.
+A terceira árvore tinha uma cavidade na base — não natural, mas grande o suficiente. Ayla enfiou-se dentro, de costas para a casca, os joelhos dobrados contra o peito, as mãos sobre o ventre. O cheiro de musgo e casca úmida substituiu o de metal e couro. O coração batia tão forte que ela sentia as costelas vibrando.
 
-Mas o poder sem limite gera a ambição sem freio. Buscando a imortalidade, os Nihilaryth tornaram-se contra a própria essência do cosmos. Drenaram o Aethra uns dos outros num canibalismo espiritual. O Fruto, usado com egoísmo, retaliou. A maldição transdimensional transformou-os no que eram: parasitas imateriais, condenados a devorar para existir.
+Eles passaram. Dois primeiro — passos pesados, pausados, varrendo o terreno. Depois o terceiro, mais leve, parando a cada dez passos. Um rastreador. Alguém que sentia *aethra*³.
 
-Mythra sorriu nas bordas do desastre. O Vazio havia ganhado um exército.
+Ayla fechou os olhos e comprimiu as mãos contra a barriga. *Silêncio*, pensou. *Por favor. Silêncio.*
 
----
+E por um instante, o mundo exterior desapareceu.
 
-## III. A Que Escolheu Renascer
-
-Ayla sentiu o ventre se contrair no sonho. A dor não era sua, mas ecoava através do tempo.
-
-Do caos que se seguiu, emergiu Alyndra Primordial. Um ser de poder imensurável que controlava o Fruto. Ela estava grávida. Dois pulsos de vida batiam dentro dela — gêmeos que carregavam a semente de um novo princípio.
-
-Alyndra vislumbrou o futuro. Viu as sombras dos Nihilaryth devorando tudo, e viu a única saída: a aniquilação total. Mas ao olhar para Mythra, viu também o passado da entidade. Viu a dor que a transformara. E numa fração de segundo que durou éons, Alyndra escolheu o renascimento em vez da vingança.
-
-Ela usou o Fruto. Uma onda de luz nua — crua, sem a camada de Aethra que um dia a vestiria — varreu a existência. A civilização primordial caiu. Alyndra morreu antes do nascimento dos gêmeos. Mas, no espaço de um pulso, sua essência e sua promessa mergulharam no Vazio. Yggorath, a própria tessitura do mundo, acolheu a Semente. Despedaçou-se para protegê-la, tornando-se o invólucro da criação.
+Não como um sonho — como uma queda para dentro. Ayla sentiu o ventre se contrair, mas não com a dor habitual da gestação. Era outra coisa. Algo dentro dela — a criança — pulsava com uma frequência que não era humana. E com aquele pulso, veio algo que não era som e não era imagem, mas que se encaixava nos dois.
 
 ---
 
-## IV. Os Gêmeos da Semente
+**II. A Presença**
 
-Até que algo germinou. No coração ardente onde a Semente fora selada, uma árvore nasceu de luz e memória. E dessa árvore, frutos póstumos do ventre primordial, nasceram dois.
+*Escuridão. Mas não a escuridão da *nyxara*⁴ — algo mais antigo. Uma ausência que existia antes que alguém pensasse em dar nome à luz. E nas bordas dessa ausência, algo esperava. Não com paciência. Com fome.*
 
-Ilyos. A luz que cria. O amor, a impulsão, a alegria quase infantil que faz coisas existirem.
-Nyxalor. A sombra que equilibra. A sabedoria, a cautela, o freio que normaliza e dá forma ao que ela faz surgir.
-
-Eram opostos complementares. E por sua prudência, Nyxalor era mais respeitado.
-
-Mas Mythra sobrevivera. Encolhida nas bordas do selo, sussurrando nos intervalos entre os pensamentos. Plantou a paranoia no irmão sábio. Fez-o ver a criação de Ilyos não como vida, mas como excesso descontrolado. Nyxalor, o equilibrador, passou a ver a si mesmo como o único libertador. O freio decidiu que a única forma de conter a chama era apagá-la.
+Ayla não viu. Sentiu. Como se a criança estivesse ouvindo um som que o corpo dela traduzia em sensação — frio na ponta dos dedos, um aperto no peito, a sensação de estar sendo observada por algo que não tinha olhos.
 
 ---
 
-## V. A Guerra que Dividiu Irmãos
+Os passos voltaram. O rastreador estava mais perto agora — quinze passos, talvez menos. Ele parou. Ayla ouviu ele respirar. Lento. Metódico. O tipo de respiração de quem está se concentrando.
 
-A guerra não foi declarada. Revelou-se.
+*Ele está sentindo aethra*, pensou. *Se a criança pulsar de novo—*
 
-Quando a corrupção se mostrou, a lealdade dos Seraphyens foi testada. E quase todos seguiram Nyxalor. Não por engano, nem por maldade — mas porque sempre o respeitaram. Sua racionalidade era o pilar que sustentava a criação.
-
-Quase todos. Myrrhiel, o Seraphyen das águas claras, ficou ao lado de Ilyos. Não por estratégia, mas por amor. Ele sabia que a batalha era perdida, sabia que a sabedoria de Nyxalor agora era apenas crueldade, e ainda assim ficou.
-
-E Elarys. A Seraphyen do fogo sombrio. Ela amava Nyxalor. E por esse amor manipulado, marchou contra Ilyos, brandindo a chama para silenciar a luz.
-
-Até que seus olhos se abriram. No meio do massacre, Elarys viu quem Nyxalor havia se tornado. A dor da traição foi maior que a fúria da batalha. Ela abandonou o amado e cruzou o campo de sangue para lutar ao lado de Ilyos. Mas a redenção não trouxe exércitos — apenas trouxe a certeza de que o fim estava próximo.
+E a criança pulsou.
 
 ---
 
-## VI. O Escudo e a Chama
+**III. A Mulher de Fogo**
 
-O poder de Nyxalor, amplificado por Mythra, era um abismo.
+Desta vez o fragmento foi mais longo. Como se a criança tivesse encontrado a frequência certa — ou como se a proximidade do perigo tivesse aberto algo.
 
-Myrrhiel assumiu a linha de frente. Não para vencer — para comprar tempo. Ele ergueu-se entre o irmão caído e a irmã criadora, e ali ficou, um escudo de água e devoção a ser despedaçado pedaço por pedaço. Cada segundo que aguentava era um segundo sem razão — nenhum plano, nenhuma esperança. Só a recusa animal de deixar a mulher que amava sozinha. E quando o escudo caiu, Myrrhiel desfez-se em vapor e silêncio.
+*Uma mulher de cabelos como brasas apagadas, de joelhos, diante de algo que quebrava. Ela chorava. Não de dor — de escolha. Suas mãos estavam abertas, oferecendo-se, e o que ela oferecia era o próprio corpo. Ao redor dela, a luz se partia em fragmentos — reflexos na água, cintilações nas estrelas, clarões em olhos que se fechavam. E uma voz — não da mulher de fogo, mas de outra, mais antiga, que já não tinha corpo — dizia algo que a criança ouvia mas Ayla só sentia o peso de:*
 
-O tempo foi comprado. Ilyos concentrou o Aethra de toda a criação. Mas não foi suficiente. A corrupção de Mythra era profunda demais. A força de uma primordial não podia prender a outra.
+*Tu...*
 
-Foi então que Elarys tomou a decisão mais devastadora possível.
-
-Não por ser superior. Não por ser a mais forte. Mas porque ela conhecia Nyxalor por dentro. O selo precisava de alguém que carregasse a assinatura do amor e da traição. Elarys ofereceu o próprio corpo. A chama que antes consumia, agora seria a forja da prisão eterna.
-
-Juntas, Ilyos e Elarys forjaram o selo. Não como uma masmorra, mas como uma promessa cristalizada. Um ato de amor impossível: *Eu sei que você me traiu. Mas eu não consigo deixar você virar isso.*
-
-O preço foi absoluto. Elarys fundiu-se ao selo; cada fibra de sua existência tornou-se a trava que segurava Nyxalor. Ilyos fragmentou-se, espalhando-se como âncoras de luz — no reflexo da água, na cintilação das estrelas, no clarão dos moribundos. E Mythra encolheu novamente para as bordas, sussurrando na penumbra, esperando o momento em que a promessa enfraquecesse.
+Só isso. Um eco. Uma sílaba que atravessou éons e chegou incompleta, como uma carta que a água molhou antes de ser entregue.
 
 ---
 
-## VII. Os Dez que Andaram Entre Nós
+O rastreador se moveu. Seus passos se afastaram — não porque tivesse desistido, mas porque algo mais alto na colina chamou. Uma voz masculina: "Nada aqui. Seguem para o sul."
 
-Do sacrifício dos primordiais, a vida findou por recomeçar.
+O rastreador respondeu: "Tem algo. Mas é fraco. Pode ser residual." Uma pausa. "Ou pode ser ela."
 
-Da árvore que gerou os gêmeos, dez seres emergiram. Cinco da luz. Cinco da sombra. Cada par em torno de algo elementar — fogo, água, terra, vento, relâmpago. Caminharam entre mortais. Ensinar, construir, curar, nomear. Recusaram ser deuses.
+"A ordem é seguir para o sul. Se estiver aqui, encontramos depois."
 
-E quando o último dos dez, Veridion, se dissipou no vento para fundar as terras livres de Sylvaris, da árvore primordial nasceram as três luas — Lyria, Nyx e Elara —, um lembrete de que a luz de Ilyos se partira em três para que a escuridão nunca fosse completa.
+Passos. Afastando-se. Ayla contou até vinte. Depois até cinquenta. Os sons sumiram no bosque.
+
+Ela não se moveu. Não ainda. Ficou na cavidade da árvore, as costas contra a casca, as mãos ainda sobre o ventre. A criança tinha parado de se mexer. Ou quase — havia um pulso lá dentro, fraco, ritmado, como quem está ouvindo algo no escuro.
 
 ---
 
-## VIII. A Dívida que Não Expira
+**IV. O Mergulho**
+
+Ayla não sabia quando os olhos fecharam. Não foi uma decisão — foi o corpo desistindo de sustentar o medo. O musgo era macio. A casca era quente. E a exaustão de três *nyras*⁵ de fuga pesava mais que qualquer instinto de sobrevivência.
+
+Dormiu.
+
+O sono não foi um descanso. Foi uma entrega — como se a criança tivesse esperado pacientemente que a mãe baixasse a guarda para mostrar-lhe o que carregava. E quando a guarda caiu, o que veio não veio de fora.
+
+E a criança sonhou por ela.
+
+---
+
+Desta vez não foram fragmentos. Foi um mergulho.
+
+*Havia uma guerra. Não a guerra de exércitos e espadas que Ayla conhecia — algo mais profundo, mais antigo, travado entre seres que não precisavam de armas porque eles mesmos eram as armas. Dois lados. Um de luz. Outro de sombra. Mas a sombra não era vilã — era algo que se havia quebrado, corrompido aos poucos, por algo que sussurrava nas bordas do mundo desde antes que o mundo tivesse nome.*
+
+*No centro da guerra, uma figura ergueu-se entre o irmão caído e a irmã que ainda lutava. Era feito de água e devoção — um escudo vivo que se despedaçava pedaço por pedaço, sem esperança, sem plano, apenas a recusa de deixar a mulher que amava sozinha. Quando o escudo caiu, ele se desfez em vapor e silêncio, e o som que fez ao desaparecer era o som de alguém que aceitava morrer sem nunca ter sido visto.*
+
+*Depois — fogo. Não destruindo. Forjando. Uma mulher de chama sombria ofereceu o próprio corpo como trava. Ela o tinha amado — aquele que agora era a sombra. Havia marchado ao lado dele. Havia acreditado que ele era a justiça. E quando viu o que ele se tornara, a dor da traição foi maior que a fúria da batalha. Ainda assim, o que ela fez não foi vingança. Foi algo pior que a vingança. Foi amor na sua forma mais devastadora — a que não desiste, mesmo quando deveria. E enquanto se fundia ao que aprisionava, disse para o ser que a havia traído:*
+
+*Eu sei que você me traiu. Mas eu não consigo deixar você virar isso.*
+
+*A promessa cristalizou. E a mulher de fogo desapareceu dentro do que tinha criado — cada fibra de sua existência tornando-se a trava que segurava o que amava e que a traíra. Depois veio a luz — a irmã que ainda lutava —, e ela também se partiu. Não em morte, mas em dispersão. Fragmentos de si mesma espalhados pelo mundo como âncoras: no reflexo da água, na cintilação das estrelas, no clarão dos moribundos. Cada fragmento era um lembrete de que a escuridão, por mais profunda que fosse, nunca seria completa.*
+
+*E nas bordas de tudo isso, a fome esperava. Paciente. Já tinha esperado antes. Sabia que promessas, por mais fortes que fossem, com o tempo se enfraqueciam.*
+
+---
 
 Ayla acordou.
 
-Ofegante. As mãos sobre o ventre. O coração a bater como se tivesse corrido valens. A casa de Mespiria estava escura à sua volta. Lá fora, a nyxara era líquida e sem estrelas. As três luas estavam ocultas, mas Ayla sentia que estavam ali. Alinhando-se. Esperando.
+Estava na casa de *Mespiria*². Não lembrava de ter caminhado até ali — o corpo a levara enquanto a mente ainda estava em outro lugar.
 
-E dentro dela, a criança mexeu-se. Com uma urgência que não pertencia a bebê. Como quem reconhece algo. Como quem tinha ouvido as mesmas visões e queria dizer alguma coisa que ainda não tinha boca para dizer.
+A *nyxara*⁴ era líquida e sem estrelas. As três luas estavam ocultas, mas ela sentia que estavam ali — alinhando-se, esperando, como quem segura a respiração antes de um mergulho.
 
-Ayla não sabia os nomes. Não sabia que a mulher do sonho era a Primordial. Não sabia que o escudo que caiu se chamava Myrrhiel, ou que a chama que se fundiu ao selo respondia por Elarys. Não sabia que a sombra que sussurrava aguardava nas bordas de seu próprio mundo.
+A casa estava escura à sua volta. Madeira velha. Silêncio de quem não morava ali há *valens*⁶. A mão de Ayla foi ao ventre por instinto. A criança estava quieta. Não dormindo — ouvindo.
 
-Não sabia que a promessa que ecoava no próprio sangue tinha sido plantada éons atrás por alguém que escolheu o renascimento em vez da vingança.
+As mãos estavam quentes. Não o calor de febre — algo diferente. Como se tivessem segurado brasas que já tinham se apagado. Ayla olhou para as palmas na penumbra. Nada. Mas então — tão breve quanto o piscar de uma estrela — a barriga tinha brilhado com uma luz que não era deste mundo, e ela tinha visto o reflexo nas paredes de madeira antes que sumisse.
 
-Mas sentia. Um peso antigo repousava sob as palmas. A criança que crescia dentro dela não era apenas uma criança. Era o fruto do sangue que a primordial prometera.
+Ela não sabia o que tinha visto. Não sabia os nomes — da mulher de fogo, do escudo que caiu, da sombra que sussurrava nas bordas. Não sabia por que a criança carregava memórias que não deveriam existir dentro de um ventre.
 
-E por um instante — um único instante, no limiar entre o sonho e a vigília — uma voz atravessou os éons. Não com som. Com Aethra.
+Mas sentia. Um peso antigo repousava sob as palmas. Algo enorme tinha se movido dentro dela — não a criança, mas o que a criança trouxera consigo. Uma promessa plantada éons atrás por alguém que escolheu o renascimento em vez da vingança. E essa promessa agora pulsava no sangue da filha que ainda não tinha nome.
 
-Não era a voz da mulher. Era a promessa da mulher. E se coubesse em palavras, soaria a:
+E por um instante — um único instante, no limiar entre o sonho e a vigília — uma voz atravessou os éons. Não pensamento. Não imaginação. Voz real, antiga, inequívoca. Não fragmentada desta vez. Completa.
 
 *Tu és o que eu prometi.*
 
-Ayla ficou parada na nyxara escura. As mãos no ventre. As lágrimas — que não sabia que estava a chorar — escorrendo pelo rosto e caindo na barriga, e a barriga brilhando por um instante com uma luz que não era deste mundo.
+Ayla ficou parada na *nyxara*⁴ escura. As mãos no ventre. As lágrimas — que não sabia que estava a chorar — escorrendo pelo rosto e caindo na barriga.
 
 Não entendeu.
 
 Acreditou.
+
+E levantou-se. Porque os homens podiam voltar. Porque a criança precisava nascer. Porque algo dentro dela — um instinto mais fundo que o medo, mais antigo que a fuga — dizia que parar não era uma opção.
+
+Ayla enxugou o rosto com a manga da túnica. Apanhou o pacote de raízes de *velantina*⁷ que tinha trazido de *Zephyra*⁸. Colocou a mão na porta de madeira velha. E abriu.
+
+O vento da *nyxara*⁴ entrou. Frio. Limpo. Com o gosto de quem respira depois de muito tempo debaixo d'água.
+
+Ela continuou caminhando.
 
 ---
 
@@ -143,6 +144,24 @@ Acreditou.
 
 ---
 
-### Nota do Arquivista-Mestre
+> **Nota aos leitores:** Material de referência. No livro publicado, será realocado ao apêndice ao final do volume.
 
-Esta versão do Prólogo integra as oito seções propostas no documento `LORE_GUERRA_E_SELO.md`. A tragédia de Myrrhiel e Elarys agora serve como alicerce emocional para o sacrifício que Ayla está prestes a fazer no Capítulo I. O ciclo do sacrifício está explicitamente plantado.
+---
+
+## 📖 Glossário do Prólogo
+
+¹ **Kalúdris** — Ordem militar de elite de Sanctrum; especializada em combate, rastreamento e sobrevivência. Seus agentes são treinados para operar com os sentidos aguçados onde os olhos falham.
+
+² **Mespiria** — Pequena vila agrícola nos arredores de Velantis; berço de Alyndra.
+
+³ **aethra** — Energia espiritual fundamental; manifestação física da alma.
+
+⁴ **nyxara** — A noite; período de escuridão entre o pôr e o nascer de Aurion.
+
+⁵ **nyra / nyras** — Período de 28-30 dias (uma rotação lunar). Plural: nyras.
+
+⁶ **valens** — Unidade de medida de tempo; aproximadamente equivalente a um ano.
+
+⁷ **velantina** — Erba medicinal usada para aliviar o cansaço e o inchaço durante a gestação tardia.
+
+⁸ **Zephyra** — Capital de Sylvaris, cidade flutuante sobre pilares de cristal.
