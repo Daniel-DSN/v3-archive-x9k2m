@@ -20,7 +20,7 @@ Não tinha olhos. Não tinha medo. Tinha apenas o som — um pulso abafado, cons
 
 Depois veio a pressão.
 
-O mundo morno e líquido onde ela flutuava se fechou como um punho. As paredes que a protegiam se contraíram, empurrando-a para baixo, para um lugar mais estreito, mais escuro, mais frio. Ela não sabia que era uma contração. Não sabia que o corpo da mãe a estava expulsando. Mas sentia a urgência — algo estava terminando.
+O mundo morno e líquido onde ela flutuava se fechou como um punho. As paredes que a protegiam se contraíram, empurrando-a para baixo, para um lugar mais estreito, mais escuro, mais frio. As palavras não existiam para ela — mas sentia a urgência. Algo estava terminando.
 
 E então, no intervalo, algo rompeu a membrana do silêncio.
 
@@ -50,7 +50,7 @@ Não a água morna que a envolvia desde sempre — algo mais vasto, mais violent
 
 A quarta onda não foi uma onda. Foi tudo.
 
-Algo imensamente vasto se partindo — uma explosão que não era calor nem frio mas ambas as coisas ao mesmo tempo, um ponto de luz no centro que engoliu tudo. Depois algo pequeno — menor até do que ela mesma — caindo através de uma escuridão que não tinha fim. E depois a voz. Não a voz da mãe — algo mais antigo, mais fundo, vindo de antes do primeiro batimento. Uma mulher de cabelos escuros que segurava algo que pulsava como um coração, e fazia uma escolha que não era para ela.
+Algo imensamente vasto se partindo — uma explosão que não era calor nem frio mas ambas as coisas ao mesmo tempo, um ponto de luz no centro que engoliu tudo, e o corpo da mãe estremecendo como se aquele fogo passasse por ela também. Depois algo pequeno — menor até do que ela mesma — caindo através de uma escuridão que não tinha fim. E depois a voz. Não a voz da mãe — algo mais antigo, mais fundo, vindo de antes do primeiro batimento. Uma mulher de cabelos escuros que segurava algo que pulsava como um coração, e fazia uma escolha que não era para ela.
 
 *Que algo do meu sangue renasça. E que ela termine o que eu não pude.*
 
@@ -66,19 +66,21 @@ Não de algo específico — ela não conhecia nada além daquele mundo morno. E
 
 Mas havia outra coisa. Mais quente que o medo. Algo que pulsava em uníssono com o coração da mãe e com o eco da mulher de fogo e com o silêncio onde o homem de água tinha estado. Uma presença que dizia, sem palavras: *você não está sozinha.*
 
-O estreito se fechou. A pressão se tornou insuportável. O coração da mãe deu um último batimento — um golpe surdo, desesperado —
+O estreito se fechou. A pressão se tornou insuportável. O coração da mãe deu um último batimento — um golpe surdo, desesperado — e o estreito se abriu.
+
+O mundo morno escorreu. O frio a envolveu — frio de verdade, de fora, de um lugar que ela nunca sentira.
 
 E então houve luz.
 
-Não a luz difusa que às vezes penetrava as paredes do mundo morno. Algo mais. Luz como ela nunca sentira. Ar entrando em seus pulmões — frio, cruel, essencial. O som do seu próprio choro — agudo, novo, um som que ela não sabia que podia fazer. Mãos ásperas e quentes a segurando. Uma voz cansada e maravilhada dizendo palavras que ela não entendia.
+Não a luz difusa que às vezes penetrava as paredes do mundo morno. Algo mais. Luz como ela nunca sentira. E com a luz veio o som do seu próprio choro — agudo, novo, forçando ar para dentro de pulmões que nunca tinham respirado. Mãos ásperas e quentes a segurando. Uma voz cansada e maravilhada dizendo palavras que ela não entendia.
 
-— É uma menina. Uma menina forte. Muito forte.
+— É uma menina. Uma menina forte. Com fôlego.
 
 E depois o calor da mãe. Não mais ao redor — à frente. Envolvendo-a, puxando-a para um peito que subia e descia com uma respiração exausta e feliz. E uma voz. A voz que ela conhecia melhor do que qualquer outra coisa no universo — a voz que a embalara durante sete luas de escuridão e calor.
 
 — Alyndra. Minha pequena estrela. Minha promessa.
 
-Ela não sabia o que era “estrela”. Não sabia o que era “promessa”. Mas a vibração daquele nome era familiar. Havia ressoado através dela nas profundezas da visão — a mesma que pulsara antes do primeiro batimento. E agora, na voz da mãe, ela ouvia aquela vibração de novo. Algo muito antigo chamando algo muito novo.
+As palavras não tinham forma para ela — eram apenas sons quentes na voz que ela conhecia. Mas a vibração daquele nome era familiar. Havia ressoado através dela nas profundezas da visão — a mesma que pulsara antes do primeiro batimento. E agora, na voz da mãe, ela ouvia aquela vibração de novo. Algo muito antigo chamando algo muito novo.
 
 ---
 
@@ -100,12 +102,10 @@ E era paciente. Já havia esperado mais tempo do que qualquer coisa viva podia m
 
 Esperaria mais um pouco.
 
----
-
-**[FIM DO PRÓLOGO — SEGUE CAPÍTULO I]**
-
----
-
 *Na noite em que a Semente nasceu, três luas se alinharam pela oitava vez. E algo antigo e faminto sentiu que o mundo havia mudado.*
 
 *— Do Canto do Nascimento*
+
+---
+
+**[FIM DO PRÓLOGO — SEGUE CAPÍTULO I]**
