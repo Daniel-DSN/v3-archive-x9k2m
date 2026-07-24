@@ -10,126 +10,102 @@
 
 # PRÓLOGO
 
-# A Mulher que Sonhou o Fim
+# A Semente
 
 ---
 
-O vento trazia o cheiro deles — metal, suor, couro tratado com resina. Ayla não os via, mas sabia que estavam a menos de cinquenta passos. Três, pelo menos. Talvez quatro. O terreno — sulcos de cultivo abandonados, cercas de pedra caídas, moitas de espinheiro — cobria o som dos passos, mas não o cheiro.
+Ela ainda não tinha nome.
 
-Ela corria. A barriga de sete luas mudava o centro de gravidade de tudo. A criança se mexia dentro dela — agitada, como se sentisse o que se aproximava. Ayla prendia a respiração nos trechos em reta e soltava nos desvios.
+Não tinha olhos. Não tinha medo. Tinha apenas o som — um pulso abafado, constante, que a envolvia como uma membrana de calor e ritmo. O coração da mãe. Batia mais rápido do que de costume naquela noite, e ela sentia a diferença sem saber o que era “de costume”, sem saber o que era “noite”, sem saber o que era “mãe”. Sabia apenas que o ritmo estava diferente — acelerado, irregular, como algo que treme antes de quebrar.
 
-Atrás dela, um galho quebrou. Perto demais.
+Depois veio a pressão.
 
-Ayla cortou para a esquerda, para o bosque de árvores prateadas que marcavam o limite das terras cultiváveis. Os troncos eram estreitos o suficiente para forçar os perseguidores a andar em fila — e largo o suficiente para ela passar com a barriga. Entrou no bosque e não olhou para trás.
+O mundo morno e líquido onde ela flutuava se fechou como um punho. As paredes que a protegiam se contraíram, empurrando-a para baixo, para um lugar mais estreito, mais escuro, mais frio. Ela não sabia que era uma contração. Não sabia que o corpo da mãe a estava expulsando. Mas sentia a urgência — algo estava terminando.
 
----
+E então, no intervalo, algo rompeu a membrana do silêncio.
 
-**I. O Esconderijo**
-
-A terceira árvore tinha uma cavidade na base — não natural, mas grande o suficiente. Ayla enfiou-se dentro, de costas para a casca, os joelhos dobrados contra o peito, as mãos sobre o ventre. O cheiro de musgo e casca úmida substituiu o de metal e couro. O coração batia tão forte que ela sentia as costelas vibrando.
-
-Eles passaram. Dois primeiro — passos pesados, pausados, varrendo o terreno. Depois o terceiro, mais leve, parando a cada dez passos. Um rastreador. Alguém que sentia aethra.
-
-Ayla fechou os olhos e comprimiu as mãos contra a barriga. *Silêncio*, pensou. *Por favor. Silêncio.*
-
-E por um instante, o mundo exterior desapareceu.
-
-Não como um sonho — como uma queda para dentro. Ayla sentiu o ventre se contrair, mas não com a dor habitual da gestação. Era outra coisa. Algo dentro dela — a criança — pulsava com uma frequência que não era humana. E com aquele pulso, veio algo que não era som e não era imagem, mas que se encaixava nos dois.
+Não foi som. Não foi imagem. Foi algo que já estava nela desde o primeiro instante, esperando.
 
 ---
 
-**II. A Presença**
+A primeira onda veio como frio.
 
-*Escuridão. Algo mais antigo que qualquer nome. E nas bordas, algo esperava. Não com paciência. Com fome.*
+Um frio que não era temperatura — era ausência. Uma fome que não tinha boca, que não tinha forma, que existia nas bordas de algo que ela sentia como uma parede distante, uma barreira que mantinha o dentro separado do fora. E do outro lado dessa barreira, a fome esperava. Paciente. Já tinha esperado antes — ela sabia disso sem saber como sabia, da mesma forma que sabia que o coração da mãe era o som mais antigo do seu mundo.
 
-Ayla não viu. Sentiu. Como se a criança estivesse ouvindo um som que o corpo dela traduzia em sensação — frio na ponta dos dedos, um aperto no peito, a sensação de estar sendo observada por algo que não tinha olhos.
+A contração voltou. O mundo se apertou, e por um instante o frio se afastou — empurrado para as bordas por algo mais quente que se aproximava.
 
----
+A segunda onda veio como calor.
 
-Os passos voltaram. O rastreador estava mais perto agora — quinze passos, talvez menos. Ele parou. Ayla ouviu ele respirar. Lento. Metódico. O tipo de respiração de quem está se concentrando.
+Uma mulher de cabelos como brasas apagadas, de joelhos, diante de algo que se partia. Ela chorava — não de dor, mas de escolha. Suas mãos estavam abertas, oferecendo-se, e o que ela oferecia era o próprio corpo. Ao redor dela, a luz se fragmentava — reflexos na água, cintilações em algo que brilhava muito longe, clarões em olhos que se fechavam. E havia amor naquela imagem. Um amor tão grande que pesava. Um amor que se recusava a parar mesmo quando não havia mais motivo.
 
-E a criança pulsou.
+*Eu sei. Mas eu não consigo deixar você virar isso.*
 
----
+A criança não entendia as palavras. Não tinha palavras. Mas sentia o peso delas — que aquela mulher estava fazendo algo que ninguém mais poderia fazer, e que o custo era tudo.
 
-**III. A Mulher de Fogo**
+E o frio voltou. Infiltrando-se entre o calor, como algo que se insinua por uma rachadura — sem voz, sem corpo. Esperando que o calor se gastasse.
 
-Desta vez o fragmento foi mais longo. Como se a criança tivesse encontrado a frequência certa — ou como se a proximidade do perigo tivesse aberto algo.
+A terceira onda veio como uma correnteza.
 
-*Uma mulher de cabelos como brasas apagadas, de joelhos, diante de algo que quebrava. Ela chorava. Não de dor — de escolha. Suas mãos estavam abertas, oferecendo-se, e o que ela oferecia era o próprio corpo. Ao redor dela, a luz se partia em fragmentos — reflexos na água, cintilações nas estrelas, clarões em olhos que se fechavam. E uma voz — não da mulher de fogo, mas de outra, mais antiga, que já não tinha corpo — dizia algo que a criança ouvia mas Ayla só sentia o peso de:*
+Não a água morna que a envolvia desde sempre — algo mais vasto, mais violento. Um homem erguendo-se entre dois lados que se dividiam, feito ele mesmo de água e devoção. Não tinha armas. Não tinha plano. Tinha apenas a recusa de deixar a mulher que amava sozinha. E quando ele caiu — quando se desfez como vapor —, o que ficou não foi som. Foi oco. Um espaço vazio onde antes havia algo quente e vivo. O coração da mãe disparou naquele instante, como se o corpo dela também reconhecesse aquela perda.
 
-*Tu...*
+A quarta onda não foi uma onda. Foi tudo.
 
-Só isso. Um eco. Uma sílaba que atravessou éons e chegou incompleta, como uma carta que a água molhou antes de ser entregue.
+Algo imensamente vasto se partindo — uma explosão que não era calor nem frio mas ambas as coisas ao mesmo tempo, um ponto de luz no centro que engoliu tudo. Depois algo pequeno — menor até do que ela mesma — caindo através de uma escuridão que não tinha fim. E depois a voz. Não a voz da mãe — algo mais antigo, mais fundo, vindo de antes do primeiro batimento. Uma mulher de cabelos escuros que segurava algo que pulsava como um coração, e fazia uma escolha que não era para ela.
 
----
+*Que algo do meu sangue renasça. E que ela termine o que eu não pude.*
 
-O rastreador se moveu. Seus passos se afastaram — não porque tivesse desistido, mas porque algo mais alto na colina chamou. Uma voz masculina: "Nada aqui. Seguem para o sul."
-
-O rastreador respondeu: "Tem algo. Mas é fraco. Pode ser residual." Uma pausa. "Ou pode ser ela."
-
-"A ordem é seguir para o sul. Se estiver aqui, encontramos depois."
-
-Passos. Afastando-se. Ayla contou até vinte. Depois até cinquenta. Os sons sumiram no bosque.
-
-Ela não se moveu. Não ainda. Ficou na cavidade da árvore, as costas contra a casca, as mãos ainda sobre o ventre. A criança tinha parado de se mexer. Ou quase — havia um pulso lá dentro, fraco, ritmado, como quem está ouvindo algo no escuro.
-
-Ayla encostou a testa nos joelhos. — Calma — sussurrou para a barriga. — Ainda não é a sua hora.
+A criança sentiu aquelas palavras ressoarem — não como som, mas como uma vibração que percorria cada fibra do que ela era. Uma promessa. Um peso. Algo que tinha dormido por mais tempo do que qualquer batimento que ela conhecesse, e que agora, finalmente, despertava.
 
 ---
 
-**IV. O Mergulho**
+A pressão aumentou. O coração da mãe disparou — um tambor frenético que a empurrava para baixo, para o estreito, para o frio, para o fim do único mundo que ela conhecia.
 
-Ayla não sabia quando os olhos fecharam. Não foi uma decisão — foi o corpo desistindo de sustentar o medo. O musgo era macio. A casca era quente. E a exaustão de três nyras de fuga pesava mais que qualquer instinto de sobrevivência.
+E pela primeira vez, ela sentiu medo.
 
-Dormiu.
+Não de algo específico — ela não conhecia nada além daquele mundo morno. Era o medo de que ele estivesse acabando. De que o que vinha depois fosse desconhecido.
 
-O sono não foi um descanso. Foi uma entrega — como se a criança tivesse esperado pacientemente que a mãe baixasse a guarda para mostrar-lhe o que carregava. E quando a guarda caiu, o que veio não veio de fora.
+Mas havia outra coisa. Mais quente que o medo. Algo que pulsava em uníssono com o coração da mãe e com o eco da mulher de fogo e com o silêncio onde o homem de água tinha estado. Uma presença que dizia, sem palavras: *você não está sozinha.*
 
-E a criança sonhou por ela.
+O estreito se fechou. A pressão se tornou insuportável. O coração da mãe deu um último batimento — um golpe surdo, desesperado —
 
----
+E então houve luz.
 
-Desta vez não foram fragmentos. Foi um mergulho.
+Não a luz difusa que às vezes penetrava as paredes do mundo morno. Algo mais. Luz como ela nunca sentira. Ar entrando em seus pulmões — frio, cruel, essencial. O som do seu próprio choro — agudo, novo, um som que ela não sabia que podia fazer. Mãos ásperas e quentes a segurando. Uma voz cansada e maravilhada dizendo palavras que ela não entendia.
 
-*Havia uma guerra — não de exércitos nem espadas, mas entre seres que não precisavam de armas porque eles mesmos eram as armas. Um lado de luz. Outro de sombra — algo que se havia quebrado, corrompido aos poucos, por algo que sussurrava nas bordas do mundo.*
+— É uma menina. Uma menina forte. Muito forte.
 
-*No centro da guerra, uma figura ergueu-se entre o irmão caído e a irmã que ainda lutava. Era feito de água e devoção — um escudo vivo que se despedaçava pedaço por pedaço, sem esperança, sem plano, apenas a recusa de deixar a mulher que amava sozinha. Quando o escudo caiu, ele se desfez em vapor e silêncio, e o som que fez ao desaparecer era o som de alguém que aceitava morrer sem nunca ter sido visto.*
+E depois o calor da mãe. Não mais ao redor — à frente. Envolvendo-a, puxando-a para um peito que subia e descia com uma respiração exausta e feliz. E uma voz. A voz que ela conhecia melhor do que qualquer outra coisa no universo — a voz que a embalara durante sete luas de escuridão e calor.
 
-*Depois — fogo. Não destruindo. Forjando. Uma mulher de chama sombria ofereceu o próprio corpo como trava. Ela o tinha amado — aquele que agora era a sombra. Havia marchado ao lado dele. E quando viu o que ele se tornara, a dor da traição foi maior que a fúria da batalha. Enquanto se fundia ao que aprisionava, disse para o ser que a havia traído:*
+— Alyndra. Minha pequena estrela. Minha promessa.
 
-*Eu sei que você me traiu. Mas eu não consigo deixar você virar isso.*
-
-*A promessa cristalizou. E a mulher de fogo desapareceu dentro do que tinha criado — cada fibra de sua existência tornando-se a trava que segurava o que amava e que a traíra. Depois veio a luz — a irmã que ainda lutava —, e ela também se partiu. Não em morte, mas em dispersão. Fragmentos de si mesma espalhados pelo mundo como âncoras: no reflexo da água, na cintilação das estrelas, no clarão dos moribundos.*
-
-*E nas bordas de tudo isso, a fome esperava. Paciente. Já tinha esperado antes. Sabia que promessas, por mais fortes que fossem, com o tempo se enfraqueciam.*
+Ela não sabia o que era “estrela”. Não sabia o que era “promessa”. Mas a vibração daquele nome era familiar. Havia ressoado através dela nas profundezas da visão — a mesma que pulsara antes do primeiro batimento. E agora, na voz da mãe, ela ouvia aquela vibração de novo. Algo muito antigo chamando algo muito novo.
 
 ---
 
-Ayla acordou.
+Lá fora, o vento soprava sobre campos que ela ainda não conhecia. Três luas separavam-se lentamente no céu como olhos que se fecham. Uma flor de pétalas prateadas num parapeito pulsava sozinha na noite.
 
-Estava numa casa abandonada. Não lembrava de ter caminhado até ali — o corpo a levara enquanto a mente ainda estava em outro lugar.
+E nas profundezas de um lugar onde a luz não alcançava, onde algo ardia contra a escuridão desde antes de qualquer nome, outra coisa sentiu.
 
-A noite era líquida e sem estrelas. As três luas estavam ocultas, mas ela sentia que estavam ali — alinhando-se, esperando, como quem segura a respiração antes de um mergulho.
+Não uma visão. Não um som. Uma vibração — minúscula, distante, mas inconfundível. Como se algo tivesse nascido. Como se uma parede que se mantinha firme há mais tempo do que qualquer memória tivesse, por um instante, vacilado.
 
-A casa estava escura à sua volta. Madeira velha. Silêncio de quem não morava ali há valens. A mão de Ayla foi ao ventre por instinto. A criança estava quieta. Não dormindo — ouvindo.
+Não tinha olhos para abrir. Não tinha ouvidos para ouvir. Tinha apenas a fome — e a fome sentiu.
 
-As mãos estavam quentes. Não o calor de febre — algo diferente. Como se tivessem segurado brasas que já tinham se apagado. Ayla olhou para as palmas na penumbra. Nada. Mas então — tão breve quanto o piscar de uma estrela — a barriga tinha brilhado com uma luz que não era deste mundo, e ela tinha visto o reflexo nas paredes de madeira antes que sumisse.
+Algo mudou.
 
-Ela não sabia o que tinha visto. Não sabia os nomes. Não sabia por que a criança carregava memórias que não deveriam existir dentro de um ventre.
+Não sabia o quê. Não sabia onde. Não sabia o nome de quem acabara de entrar no mundo.
 
-Mas sentia um peso antigo sob as palmas. Algo pulsava no sangue da filha que ainda não tinha nome — algo que não era a criança.
+Mas sabia que algo tinha mudado.
 
-E por um instante — um único instante, no limiar entre o sonho e a vigília — uma voz atravessou os éons. Não pensamento. Não imaginação. Voz real, antiga, inequívoca. Não fragmentada desta vez. Completa.
+E era paciente. Já havia esperado mais tempo do que qualquer coisa viva podia medir.
 
-*Tu és o que eu prometi.*
-
-Ayla ficou parada na escuridão. As mãos no ventre. As lágrimas escorrendo pelo rosto e caindo na barriga.
-
-Enxugou o rosto com a manga da túnica. Apanhou o pacote de raízes de velantina. Colocou a mão na porta de madeira velha. E abriu.
-
-Ela continuou caminhando.
+Esperaria mais um pouco.
 
 ---
 
 **[FIM DO PRÓLOGO — SEGUE CAPÍTULO I]**
+
+---
+
+*Na noite em que a Semente nasceu, três luas se alinharam pela oitava vez. E algo antigo e faminto sentiu que o mundo havia mudado.*
+
+*— Do Canto do Nascimento*
