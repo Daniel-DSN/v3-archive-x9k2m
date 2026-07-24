@@ -46,9 +46,9 @@ Ayla assentiu, observando a parteira se afastar a passos largos. Depois voltou-s
 
 *O tempo está chegando*, pensou, sentindo a criança se mover. *Logo você estará aqui. Logo começará sua jornada. E eu estarei aqui para te receber, minha pequena estrela.*
 
-Mais tarde, quando o crepúsculo começou a pintar os campos, o vento parou. As folhas prateadas das argentis deixaram de sussurrar. Um silêncio denso desceu sobre o vale.
+O crepúsculo pintou os campos. O vento parou. As folhas prateadas das argentis deixaram de sussurrar.
 
-Pela primeira vez desde que chegara a *Mespiria*, Ayla levou a mão ao pingente oculto sob a túnica. Alguém observava do bosque. Ela não precisava ver para saber.
+Foi então que Ayla sentiu — não o pingente, não o vento, mas algo mais fundo. Uma certeza. Alguém observava do bosque. Ela não precisava ver para saber.
 
 Nos dias que se seguiram, o pressentimento se transformou em certeza. O aethra ao redor de Ayla crescia a cada nyxara, como se o mundo inteiro estivesse segurando a respiração. As contrações vieram e foram — esparsas no início, depois mais frequentes, mais intensas. Melessa não deixava a casa. Thalia dormia no anexo, pronta. E Ayla esperava.
 
@@ -64,7 +64,7 @@ Os animais sentiram primeiro. Os *lyriens*³ nos estábulos agitavam-se, suas or
 
 Então as luas surgiram.
 
-Primeiro *Lyria*, a prateada, ascendendo no horizonte leste com um resplendor mais intenso do que os mais velhos lembravam. Depois *Nyx*, a azulada, surgindo do oeste como se tivesse corrido através do céu para encontrar sua irmã. E por fim *Elara*, a rosa, nascendo do sul com uma luz que parecia pulsar, como um coração celestial.
+Primeiro *Lyria*, a prateada, ascendendo no horizonte leste com uma claridade mais intensa do que os mais velhos lembravam. Depois *Nyx*, a azulada, surgindo do oeste como se tivesse corrido através do céu para encontrar sua irmã. E por fim *Elara*, a rosa, nascendo do sul com uma luz que parecia pulsar, como um coração celestial.
 
 Três luas. Três irmãs. Convergindo para um único ponto no céu.
 
@@ -232,9 +232,7 @@ Não havia ninguém para ver — e ele se moveu como se soubesse disso, cada pas
 
 Suas mãos calejadas tocaram o solo — não com delicadeza, não com violência, mas com uma urgência contida, como se quisesse extrair daquela terra a verdade que se apagara com o último fôlego de Aelyria.
 
-Ficou imóvel por muito tempo.
-
-Não soluçava. Não tremia. Seu corpo parecia esculpido em pedra — mas a mão sobre a terra apertava o solo com uma força que fazia os dedos se enterrarem na grama. Sua respiração era curta, irregular, como a de alguém que aprendera a sufocar o próprio grito em silêncio.
+Ficou imóvel. O corpo esculpido em pedra, a mão sobre a terra apertando o solo com uma força que fazia os dedos se enterrarem na grama. A respiração curta, irregular — a de quem aprendera a sufocar o próprio grito em silêncio.
 
 — A distância que um guerreiro pode suportar — disse, a voz tão baixa que era mais sopro que som — não é medida em passos.
 
